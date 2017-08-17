@@ -10,6 +10,7 @@ Taxation of social welfare payments
     
     <meta name="description" content="Social welfare payments may or may not be deemed taxable in Ireland. Information about how which social welfare payments are taxable and how they are taxed.">
     
+    <meta name="google-site-verification" content="7-EXHU0gfq8wgh2ckDEqJ2OKV2EDZB2xivGOWj1UObo" />
     
     <link href="/styles/print.css" rel="stylesheet" type="text/css">  
     
@@ -321,16 +322,15 @@ also exempt from tax in Ireland. </p>
 
 <h2>Taxation of specific social welfare payments</h2>
 
-<h3>Maternity Benefit</h3>
-
 <p><a href="../../social_welfare_payments/social_welfare_payments_to_families_and_children/maternity_benefit.html">Maternity
+Benefit</a>, <a href="../../social_welfare_payments/social_welfare_payments_to_families_and_children/paternity_benefit.html">Paternity
 Benefit</a>, <a href="../../social_welfare_payments/social_welfare_payments_to_families_and_children/adoptive_benefit.html">Adoptive
 Benefit</a> and <a href="../../social_welfare_payments/social_welfare_payments_to_families_and_children/health_safety_benefit.html">Health
 and Safety Benefit</a> are taxable. Universal Social Charge and PRSI are not
 payable. The actual rate of tax you will pay will depend on your personal
 circumstances and the tax reliefs and tax credits you are claiming. The
-information given here applies in exactly the same way to Adoptive and Health
-and Safety Benefit.</p>
+information given here applies in exactly the same way to Adoptive, Paternity
+and Health and Safety Benefit.</p>
 
 <p>The Department of Social Protection (DSP) will pay Maternity Benefit without
 any deduction of tax. However the DSP will notify Revenue of the amount of
@@ -409,32 +409,36 @@ payment. </p>
 
 <p></p>
 
-<h3>Payments that are not taxable</h3>
+<h3>Payments that are not taxed</h3>
 
-<table><tbody><tr><td colspan="1" rowspan="1">Back to Work Family Dividend 
-
-        <p>Child Benefit </p>
-      </td>
-      <td colspan="1" rowspan="1">Not taxable 
-
-        <p>Not taxable</p>
-      </td>
+<table><tbody><tr><td colspan="1" rowspan="1">Back to Work Family Dividend </td>
+      <td colspan="1" rowspan="1">Not taxed </td>
+    </tr><tr><td colspan="1" rowspan="1">Child Benefit </td>
+      <td colspan="1" rowspan="1">Not taxed </td>
     </tr><tr><td colspan="1" rowspan="1">Disability Allowance </td>
-      <td colspan="1" rowspan="1">Not taxable</td>
+      <td colspan="1" rowspan="1">Not taxed</td>
     </tr><tr><td>Disablement Gratuity (lump sum payment) </td>
-      <td>Not taxable </td>
+      <td>Not taxed </td>
+    </tr><tr><td>Domiciliary Care Allowance</td>
+      <td>Not taxed</td>
     </tr><tr><td colspan="1" rowspan="1">Farm Assist</td>
-      <td colspan="1" rowspan="1">Not taxable</td>
+      <td colspan="1" rowspan="1">Not taxed</td>
     </tr><tr><td colspan="1" rowspan="1">Family Income Supplement</td>
-      <td colspan="1" rowspan="1">Not taxable</td>
+      <td colspan="1" rowspan="1">Not taxed</td>
+    </tr><tr><td>Fuel Allowance</td>
+      <td>Not taxed</td>
+    </tr><tr><td>Household Benefits Scheme</td>
+      <td>Not taxed</td>
     </tr><tr><td colspan="1" rowspan="1">Jobseeker's Allowance </td>
-      <td colspan="1" rowspan="1">Not taxable</td>
+      <td colspan="1" rowspan="1">Not taxed</td>
     </tr><tr><td>Jobseeker's Benefit (paid to systematic short-term workers)</td>
-      <td>Not taxable</td>
+      <td>Not taxed</td>
+    </tr><tr><td>Jobseeker's Transitional payment</td>
+      <td>Not taxed</td>
     </tr><tr><td colspan="1" rowspan="1">Pre-Retirement Allowance </td>
-      <td colspan="1" rowspan="1">Not taxable</td>
+      <td colspan="1" rowspan="1">Not taxed</td>
     </tr><tr><td colspan="1" rowspan="1">Supplementary Welfare Allowance</td>
-      <td colspan="1" rowspan="1">Not taxable</td>
+      <td colspan="1" rowspan="1">Not taxed</td>
     </tr></tbody></table><h3>Taxable payments</h3>
 
 <table><tbody><tr><td colspan="1" rowspan="1">Adoptive Benefit</td>
@@ -475,8 +479,12 @@ payment. </p>
       <td colspan="1" rowspan="1">Taxable (first €13 per week excluded) </td>
     </tr><tr><td colspan="1" rowspan="1">Maternity Benefit</td>
       <td colspan="1" rowspan="1">Taxable (since 1 July 2013)</td>
-    </tr><tr><td>One-Parent Family Payment</td>
-      <td>Taxable</td>
+    </tr><tr><td colspan="1" rowspan="1">One-Parent Family Payment </td>
+      <td colspan="1" rowspan="1">Taxable </td>
+    </tr><tr><td colspan="1" rowspan="1">Partial Capacity Benefit </td>
+      <td colspan="1" rowspan="1">Taxable </td>
+    </tr><tr><td colspan="1" rowspan="1">Paternity Benefit </td>
+      <td colspan="1" rowspan="1">Taxable </td>
     </tr><tr><td colspan="1" rowspan="1">State Pension (Contributory)</td>
       <td colspan="1" rowspan="1">Taxable </td>
     </tr><tr><td colspan="1" rowspan="1">State Pension (Non-Contributory)</td>
@@ -514,11 +522,6 @@ payments are not taxable. </p>
 alone. If your social welfare payment is taxable, then the <a shape="rect" href="../../payments/extra_social_welfare_benefits/living_alone_allowance.html">Living
 Alone Increase</a> is taxable. If your social welfare payment is not taxable,
 then your Living Alone Increase is not taxable.</p>
-
-<p><a shape="rect" href="../../payments/disability_and_illness/domiciliary_care_allowance.html">Domiciliary
-Care Allowance</a>, <a shape="rect" href="../../payments/extra_social_welfare_benefits/fuel_allowance.html">Fuel
-Allowance</a> and benefits under the <a href="../../social_welfare_payments/extra_social_welfare_benefits/household_benefits_package.html">Household
-Benefits Scheme</a> are not normally taxed.</p>
 
 <div class="topic base_wheretoapply">
 <h2 class="topic base_wheretoapply_title" id="lef21f">Where to apply</h2>
@@ -572,8 +575,8 @@ due can be calculated.</p>
 <p></p>
 </div>
 </div>
-<div id="lastupdated" class="extra"><em><strong>Page edited:</strong> 20 January 2016</em></div></div>
-<!-- Generated: Aug. 2, 2016, 4:09 p.m. -->
+<div id="lastupdated" class="extra"><em><strong>Page edited:</strong> 16 May 2017</em></div></div>
+<!-- Generated: June 16, 2017, 2:15 a.m. -->
 
 	
 	<div id="backtotop">
@@ -632,7 +635,7 @@ due can be calculated.</p>
       <div class="module">
 	
 	<h3>Contact Us</h3>     
-	
+
 	<p>
 	  If you have a question relating to this topic you can contact the Citizens Information Phone Service on 0761 07 4000 (Monday to Friday, 9am to 8pm) or you can visit your local <a href="http://centres.citizensinformation.ie">Citizens Information Centre</a>.
 	</p>
