@@ -1,0 +1,1423 @@
+/* This is contrast_ga.css */
+
+@media Screen  {
+.mobile_menu {
+	display: none;
+}
+
+HTML {
+border-spacing:0;
+background-color: #000;
+border-width:0;
+margin:0;
+padding:0;
+}
+
+
+BODY {
+border-top-width:0;
+border-bottom-width:0;
+border-spacing:0;
+background-color:#000;
+font-size: 100%;
+color:#ffff00;
+font-family:Arial, "Trebuchet MS", sans-serif, Verdana;
+/* min-width no longer needed */
+/* min-width:950px; */
+/* max-width inreased to 1366px from 1280px */
+max-width:1520px;
+margin:0 auto;
+padding:0;
+border-left:10px;
+border-right:10px;
+padding-left:10px;
+padding-right:10px;
+}
+
+H1 {
+font-size:2.1em;
+color:#ffff00;
+margin:0.6em 0 0 10px;
+padding-bottom: 15px;
+}
+
+/*defines h1 for "Welcome to Citizens Information" on homepage*/
+.intro h1 {
+font-size:1.5em;
+}
+
+IMG {
+border-spacing:0;
+text-decoration:none;
+border-width:0;
+margin:0;
+padding:0;
+}
+
+DIV,LI,UL,FORM {
+border-spacing:0;
+border-width:0;
+margin:0;
+padding:0;
+}
+
+/*search box */
+FORM { 
+float: right;
+}
+
+INPUT {
+margin:1px;
+border: #3199CC solid 1px;
+padding: 1px;
+font-size: 1.1em;
+font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+/* Search box width */
+#query-input {
+ width: 250px;
+}
+/* search button */
+.submit {
+color:#00ffff; 
+background-color: #000; 
+cursor:pointer; 
+font-weight: bold;
+border: #fff solid 1px;
+/*border-radius:4px 4px 4px 4px;
+-moz-border-radius:4px;
+-webkit-border-radius:4px;
+behavior: url(/styles/PIE.htc)*/
+}
+
+/*horizontal rule between text on grey box to right-hand side*/
+hr {margin-left:10px; 
+margin-right:10px;
+color: #ddd;
+background-color: #ddd;
+border: none;
+}
+
+/*table styles */
+table {
+    background-color: #666;
+    border: 0 none !important;
+	border-spacing: 1px;
+}
+th, thead tr td {
+    background-color: #555;
+    border-style: 0 none;
+
+    padding: 5px 15px;
+    text-align: left;
+}
+td, tr {
+    border: 0 none;
+    border-spacing: 0;
+    margin: 0;
+    padding: 0;
+}
+tbody tr td {
+    background-color: #000;
+    border-style: none;
+    padding: 5px 15px;
+    text-align: left;
+}
+tbody tr:nth-child(2n) td {
+    background-color: #555;
+}
+
+/* Google search results colours */
+#results td, #results table {
+	  background-color: #000 !important;
+	  border-spacing: 0 !important;
+	  font-size: 1.2em !important;
+}
+.gs-title a, .gsc-table-cell-thumbnail a, .gsc-thumbnail-left a, .gsc-control-cse .gs-spelling, .gsc-control-cse .gs-result .gs-title, .gsc-control-cse .gs-result .gs-title *, .gs-webResult div.gs-visibleUrl-long, .gsc-results .gsc-cursor-box .gsc-cursor-page, .gsc-results .gsc-cursor-box .gsc-cursor-current-page  {
+	color: #00ffff !important;
+	font-size: 1.1em !important;
+	line-height: 1.5em !important;
+	padding: 5px 0 15px !important;
+}
+
+.gs-title a:hover, .gs-title a:active, .gs-title a:focus { 
+	background-color: #222 !important;
+}
+
+.gsc-result-info {
+	color: #ffff00 !important;
+	font-size: 1.1em !important;
+}
+/*top area on homepage and non-homepage*/
+.banner {
+background-color:#000;
+width:100%;
+float:left;
+margin:0 0 5px;
+padding:0;
+}
+
+/*covers citizens information logo*/
+#logo {
+	float:left;
+	text-align:left;
+	margin:0;
+	padding:0;
+}
+
+	/* These are not necessary any more to isolate the logo image 
+	background-image: url(../images/logo.gif);
+	width: 589px;
+	height: 79px; */
+
+#logo A {
+float:left;
+width:732px; 
+height:79px;
+text-align:left;
+margin:5px 0 0 5px;
+padding:0;
+background-image: url('/images/logo_GA.GIF');
+background-repeat: no-repeat;
+background-position: center;
+text-decoration: none;
+}
+/*
+.navcontainer {
+	background-color: #3199CC;
+    float: none;
+}*/
+
+/*navcontainer defines navigation bar*/
+.navcontainer UL {
+	padding-left:0;
+	background: #444 ;
+	float:left;
+	margin-left:0;
+	width:100%;
+	color:#444;
+	height:29px;
+}
+.navcontainer UL LI {
+	/*display:inline;*/
+	float:left;
+	position:relative;
+		/*this is needed to combine dropdowns and PIE.htc*/
+	z-index:100;
+	/*+++++++++++++++++++++++++++++++++++++++++++++++*/
+	list-style-type:none;
+}
+/*
+.navcontainer li:nth-child(7) {
+    float: none;
+}
+*/
+
+.navcontainer UL LI A:link, .navcontainer UL LI A:visited {
+border-left:#000 1px solid;
+font-size:1.6em;
+background-image: none;
+color:#00FFFF;
+background-repeat:repeat-x;
+background-color: #666;
+text-decoration:none;
+display:block;
+float:left;
+padding:3px 15px 0px 5px;
+height: 26px;
+line-height: 1em;
+}
+
+.navcontainer ul li a:focus, .navcontainer ul li a:hover, .navcontainer ul li a:active {
+background-image:none;
+color:#00ffff;
+background-repeat:repeat-x;
+background-color: #333;
+}
+/*.arrow {
+ margin-right: 3px;
+}*/
+
+/*SECTION FOR DROPDOWN CSS*/
+li .sub {
+	/*these lines below position it, can be subbed for relative*/
+	position: absolute;	
+	top: 30px; 
+	left: 0px;
+	background: #222; 
+	padding: 10px 10px 10px;
+	float: left;
+	display: none;
+	border: 2px #fff solid;
+	/*border-radius:0px 0px 5px 5px;
+	-moz-border-radius-bottomright: 5px;
+	-khtml-border-radius-bottomright: 5px;
+	-webkit-border-bottom-right-radius: 5px;
+	-moz-border-radius-bottomleft: 5px;
+	-khtml-border-radius-bottomleft: 5px;
+	-webkit-border-bottom-left-radius: 5px;
+	behavior: url(/styles/PIE.htc)*/
+}
+
+/*positions the dropdowns into three columns*/
+.sub ul {
+	list-style: none;
+	padding: 0;
+	margin: 5px 15px 0 0;
+	background-color: #fff;
+	float: left;
+	display: inline;
+	left: 100px;
+	height: auto;
+	width: auto;
+	list-style-position: outside;
+	background-image:none;
+	color:#00ffff;
+}
+
+.sub UL LI {
+	background-color: #222;
+	float: none;
+	position: static;
+	padding: 0 5px;
+	list-style-position: outside
+}
+.sub UL LI A:link, .sub UL LI A:visited {
+border-left:none;
+background-image:none;
+color:#00ffff;
+float: none;
+background-color:#222;
+text-decoration:none;
+padding:0;
+font-size: 1.2em;
+height: auto;
+line-height: 2em;
+margin:0;
+}
+
+.sub UL LI A:focus, .sub UL LI A:hover, .sub UL LI A:active {
+background-image: none;
+color:#00ffff;
+background-color:#444;
+}
+
+/*defines <p> on dropdown*/
+ .sub p {
+	padding: 5px 0;  
+	margin: 0;
+	font-weight: bold;
+	color: #ffff00;
+	line-height: 1em;
+	font-size: 1.2em;
+}
+div#findacentre.sub p a:link, div#findacentre.sub p a:visited {
+background-image:none;
+background-color:#222;
+color: #00ffff;
+font-size: 0.9em;
+margin: 0;
+padding: 5px 0 0;
+border-left: 0 none;
+}
+div#findacentre.sub p a:focus,div#findacentre.sub p a:hover,div#findacentre.sub p a:active {
+background-color:#444;
+color: #00ffff;
+font-size: 0.9em;
+}
+
+/*defines headings on dropdown */
+ .sub h3 {
+	padding: 10px 0;  
+	margin: 0;
+	font-size: 1.2em;
+	font-weight: bold;
+	color: #005A7D;
+}
+.sub#categories {
+width: 500px;
+}
+.sub#mysituation {
+width: 620px;
+}
+.sub#findacentre {
+width: 760px;
+}
+#searchbar A:hover,#searchbar A:focus {
+color:#00587b;
+background-color:#ffffcc;
+text-decoration:underline;
+}
+
+/*webswitch defines inner darker green box, top right*/
+#webswitch {
+position:relative;
+color:#FFFF00;
+background-color:#000;
+padding-top:5px;
+padding-bottom:5px;
+line-height: 1;
+-moz-border-radius-bottomright:8px;
+-moz-border-radius-bottomleft:8px;
+-webkit-border-bottom-right-radius:8px;
+-webkit-border-bottom-left-radius:8px;
+border-radius: 0px 0px 8px 8px;
+margin:0 8px;
+behavior: url(/styles/PIE.htc) ;
+}
+
+#webswitch a:link,#webswitch A:visited {
+color:#00FFFF;
+background-color:#000;
+text-decoration:none;
+}
+
+#webswitch a:hover {
+color:#00FFFF;
+background-color:#000;
+text-decoration:underline;
+}
+
+
+/*access defines the text "accessibility", top right*/
+.access {
+color:#FFFF00;
+margin-top: 20px;
+}
+
+.access A:link,.access A:visited {
+color:#00FFFF;
+background-color:none;
+text-decoration:none;
+}
+
+.access A:hover {
+color:#00FFFF;
+background-color:none;
+text-decoration:none;
+}
+
+/*history trail defines the breadcrumbs*/
+#historytrail {
+margin:7px 0 0 0;
+}
+
+#historytrail A:link,#historytrail A:visited {
+color: #00ffff;
+text-decoration: underline;
+}
+
+#historytrail A:focus,#historytrail A:hover,#historytrail A:active {
+color: #00ffff;
+background-color: #555;
+}
+
+/*surround_top defines the outer green box, top right*/
+.surround_top {
+height: 90px;
+position:relative;
+background-color:#444;
+float:right;
+width:25%;
+border-left:0;
+border-right:0;
+padding-left:0;
+padding-right:0;
+border-radius:0px 0px 8px 8px;
+-moz-border-radius-bottomright:8px;
+-moz-border-radius-bottomleft:8px;
+-webkit-border-bottom-right-radius:8px;
+-webkit-border-bottom-left-radius:8px;
+margin:0;
+behavior: url(/styles/PIE.htc) ; 
+}
+
+/*content home defines the whole webpage*/
+DIV.contenthome {
+	min-height: 100%;
+}
+
+/*homeleft defines left-hand column*/
+DIV.contenthome DIV.homeleft {
+/*background-color:#000;*/
+/*needed to combine dropdowns and PIE.htc*/
+position:relative;
+z-index:1;
+/*+++++++++++++++++++++++++++++++++++++*/
+width:72%;
+float:left;
+margin:0 0 15px;
+padding:0 0 0 10px;
+}
+
+/*topic defines the content on category and document pages*/
+DIV.topic h2 {
+color:#ffff00;
+background-color: #444;
+padding: 3px;
+font-size:1.6em;
+}
+DIV.topic h3 {
+color:#ffff00;
+font-size:1.6em;
+margin: 20px 0 5px;
+}
+DIV.topic h4 {
+margin: 20px 0 5px;
+font-size:1.3em;
+font-weight: bold;
+}
+
+DIV.homeleft ul {
+margin-left:5px;
+line-height:1.6em;
+padding-left:10px;
+}
+#printicon, #emailicon {
+	text-decoration: none; 
+}
+
+/*indexhomeright defines outer grey box, right hand side, homepage*/
+.indexhomeright {
+/*position:relative;*/
+/*below needed to combine dropdowns and PIE.htc*/
+position:relative;
+z-index:1;
+/*++++++++++++++++++++++++++++++++++++++++++++++++*/
+float:right;
+background-color:#444;
+width:25%;
+border-radius:10px;
+-webkit-border-radius:10px;
+-moz-border-radius:10px;
+-khtml-border-radius:10px;
+margin:10px 0 15px 0;
+padding-bottom: 0;
+behavior: url(/styles/PIE.htc) ; 
+}
+
+.indexhomeright H3 {
+color:#3399CA;
+font-size:1.2em;
+padding:8px 0 0 5px;
+}
+
+.indexhomeright UL,P {
+padding-left:10px;
+padding-right:10px;
+line-height:1.5em;
+}
+
+.indexhomeright A {
+color:#e16413;
+font-weight:bold;
+}
+
+/*defines outer grey box, right-hand side, non home page*/
+.homeright {
+/*position:relative;*/
+/*below needed to combine dropdowns and PIE.htc*/
+position:relative;
+z-index:1;
+/*++++++++++++++++++++++++++++++++++++++++++++++++*/
+float:right;
+background-color:#555;
+width:25%;
+border-radius:10px;
+-webkit-border-radius:10px;
+-moz-border-radius:10px;
+-khtml-border-radius:10px;
+margin:10px 0 50px 0;
+padding-bottom: 0px;
+behavior: url(/styles/PIE.htc) ;
+}
+
+.homeright H3 {
+	color:#3399CA;
+	font-size:1.5em;
+	padding:8px 0 0 5px;
+}
+.homeright UL, P {
+    line-height: 1.6em;
+    margin-bottom: 8px;
+    margin-top: 3px;
+    padding: 0;
+}
+.homeright A {
+	color:#00FFFF;
+	font-weight:bold;
+}
+DIV.contenthome DIV.intro {
+	padding-top:5px;
+}
+DIV.contenthome DIV.intro P {
+	padding-bottom:0.2em;
+	color:#FFFF00;
+	margin:0 12px 0 10px;
+}
+
+/*defines the green border on homepage*/
+.categories DIV {
+	float:left;
+	width:49%;
+	margin:0;
+	padding:0;
+}
+.categories DIV H2 {
+font-size:2.3em;
+font-weight:300;
+color:#00ffff;
+text-decoration:none;
+margin:0 0 0 10px;
+padding:10px 0 0;
+}
+.categories DIV H2 A:link,.categories DIV H2 A:visited {
+	color:#00FFFF;
+	text-decoration:none;
+	font-weight:500;
+}
+
+.categories p {
+padding-left:0;
+}
+
+.categories {
+/*position:relative;
+left:-10px;*/
+border-right:solid #555 5px;
+border-top:solid #555 5px;
+border-bottom:solid #555 5px;
+border-left:5px #fff;
+background-color:#000;
+border-radius: 0px 15px 15px 0px;
+-moz-border-radius-bottomright:15px;
+-moz-border-radius-topright:15px;
+-webkit-border-bottom-right-radius:15px;
+-webkit-border-top-right-radius:15px;
+padding-left: 25px;
+margin-bottom: 20px;
+behavior: url(/styles/PIE.htc); 
+}
+
+.categories DIV H2 A:focus,.categories DIV H2 A:hover,.categories DIV H2 A:active,.homeleft P A:hover,.homeleft li A:hover {
+color:#00ffff;
+background-color:#444;
+text-decoration:none;
+}
+
+/*defines items within the green border on homepage*/
+.homeleft P.categoryitems {
+color:#ffff00;
+font-size: 1.5em;
+margin:0 3.5em 0 10px;
+padding:0px 0 25px 0;
+line-height: 1.6em;
+
+}
+
+.homeleft P.categoryitems a:link,.homeleft P.categoryitems a:visited {
+color:#00ffff;
+text-decoration:none;
+}
+
+.homeleft P.categoryitems a:focus,.homeleft P.categoryitems a:hover,.homeleft P.categoryitems a:active {
+color:#00FFFF;
+background-color:#444;
+text-decoration:none;
+}
+
+.homeleft td A:link,.homeleft P A:link,.homeleft li A:link,.homeleft td A:visited,.homeleft P A:visited,.homeleft li A:visited {
+color:#00FFFF;
+background-color: #000;
+
+}
+.homeleft P A:focus,.homeleft P A:hover,.homeleft P A:active,.homeleft li A:focus,.homeleft li A:hover,.homeleft li A:active,.homeleft td A:focus,.homeleft td A:hover,.homeleft td A:active, {
+color:#00FFFF;
+background-color:#444;
+}
+
+.address A:link,.address A:visited {
+color: #00ffff
+}
+
+.address A:focus,.address A:hover,.address A:active {
+color: #00ffff;
+background-color:#444;
+}
+/*defines the outer footer, non homepage*/
+.surround_bottom {
+position:relative;
+background-color:#333;
+height:auto;
+bottom:0;
+overflow:hidden;
+clear:both;
+border-radius:10px 10px 0px 0px;
+-moz-border-radius-topleft:10px;
+-moz-border-radius-topright:10px;
+-webkit-border-top-left-radius:10px;
+-webkit-border-top-right-radius:10px;
+margin:0;
+padding:0 10px 0 0;
+behavior: url(/styles/PIE.htc) 
+}
+
+/*defines categories section of non-homepage footer*/
+.cats_footer {
+	color:#FFFFFF;
+	width:60%;
+	float:right;
+	margin:0;
+	padding:0;
+}
+.surround_bottom.cats_footer A:hover {
+text-decoration:none;
+background-color:#fff;
+color:#1285b5;
+}
+.surround_bottom.cats_footer A:link,.surround_bottom.cats_footer A:visited {
+color:#FFF;
+font-weight:bold;
+text-decoration:none;
+}
+.surround_bottom P,.home_footer P {
+color:#FFFF00;
+vertical-align:middle;
+padding:15px 0 10px 10px;
+margin: 0;
+}
+.surround_bottom A:link,.home_footer A:link,.home_footer A:visited,.surround_bottom A:visited {
+color:#00FFFF;
+font-weight:bold;
+text-decoration:none;
+}
+
+.surround_bottom A:focus,.surround_bottom A:hover,.surround_bottom A:active,.home_footer A:focus,.home_footer A:hover,.home_footer A:active,.cats_footer A:focus,.cats_footer A:hover,.cats_footer A:active {
+text-decoration:none;
+background-color:#222;
+color:#00FFFF;
+}
+
+/*defines governance section of non-homepage footer*/
+#inner_footer {
+position:relative;
+color:#ffff00;
+background-color:#555;
+padding-top:0;
+padding-bottom:17px;
+width:38%;
+top:10px;
+bottom:0;
+padding-right:5px;
+border-radius:8px 8px 0px 0px;
+-moz-border-radius-topright:8px;
+-moz-border-radius-topleft:8px;
+-webkit-border-top-right-radius:8px;
+-webkit-border-top-left-radius:8px;
+margin:0 0 0 10px;
+behavior: url(/styles/PIE.htc) ;
+}
+
+#inner_footer P {
+color:#ffff00;
+padding:15px 0 10px 10px;
+}
+#inner_footer A:link,#inner_footer A:visited  {
+color:#00FFFF;
+font-weight:bold;
+text-decoration:none;
+background-color:#555;
+}
+#inner_footer A:focus,#inner_footer A:hover,#inner_footer A:active {
+text-decoration:none;
+background-color:#222;
+color:#00ffff;
+}
+
+/*defines footer on homepage*/
+.home_footer {
+position:relative;
+clear:both;
+background-color:#333;
+vertical-align:bottom;
+border-radius:10px 10px 0px 0px;
+-moz-border-radius-topleft:10px;
+-moz-border-radius-topright:10px;
+-webkit-border-top-left-radius:10px;
+-webkit-border-top-right-radius:10px;
+margin:0;
+padding:0;
+behavior: url(/styles/PIE.htc) ;
+}
+
+#tablist LI A:hover {
+background:#ffffcc;
+color:#00FFFF;
+text-decoration:underline;
+border-color:#57a8c3;
+}
+
+#tabbase LI A:hover {
+color:#00FFFF;
+background-color:#ffffcc;
+text-decoration:underline;
+}
+
+/*defines last updated section on document page*/
+.extra {
+color: #ffff00;
+padding:5px;
+background-color: #444;
+margin: 20px 0;
+}
+
+/*defines back to top icon and text at bottom of document pages*/
+#backtotop img {
+vertical-align:middle;
+}
+
+#backtotop  a {
+color:#00ffff;
+text-decoration:underline;
+}
+
+/*defines inner grey boxes to right-hand side on homepage and non-homepage*/
+.module {
+/*position: relative;*/
+background-color:#000;
+color:#ffff00;
+-webkit-border-radius:8px;
+-moz-border-radius:8px;
+-khtml-border-radius:8px;
+border-radius:8px;
+border-color:#000;
+border-style:solid;
+border-width:4px;
+margin:10px;
+padding:0 0 10px 5px;
+behavior: url(/styles/PIE.htc) ;
+}
+
+.module H3 {
+font-weight:bold;
+font-size:1.6em;
+color:#ffff00;
+margin:0;
+padding:8px 0 5px 5px;
+}
+
+.module p {
+margin-bottom: 5px; 
+padding-left: 10px; 
+padding-right: 10px; 
+}
+
+.module a:link,.module a:visited {
+color:#00FFFF;
+text-decoration: none;
+}
+
+.module a:focus,.module a:hover,.module a:active {
+background-color:#555;
+color:#00FFFF;
+text-decoration:none;
+}
+
+.module a:focus li,.module a:hover li,.module a:active li {
+background-color:#555;
+color:#00FFFF;
+text-decoration:none;
+margin:5px;
+padding:0;
+}
+
+.module a:link IMG {
+background-color:#fff;
+text-decoration:none;
+/*margin:0;
+padding:0;*/
+}
+
+.module ul {
+padding-left:8px;
+list-style:none;
+padding-bottom:0;
+padding-right:10px;
+}
+
+.module ul li {
+padding-top:5px;
+padding-bottom:5px;
+}
+
+.module ol {
+padding:0 0 0 25px;
+margin:0;
+font-weight: bold;
+}
+
+.module ol li {
+padding-top:5px;
+padding-bottom:5px;
+}
+
+.module a:hover IMG, .module a:active IMG, .module a:focus IMG {
+    text-decoration: none;
+	border-style: none;
+}
+
+.news ul {
+list-style:none;
+padding-left:10px;
+color: #ffff00;
+}
+
+/*defines RSS button on homepage*/
+.rss_feed img {
+height:13px; 
+width:42px;
+margin: 10px 10px 0px 0px; 
+float: right;
+}
+
+/*defines twitter button on homepage*/
+.twitter img {
+height:13px;
+width: 15px;
+margin: 10px 5px 0px 0px; 
+float: right;
+}
+
+/*defines jump to content link on each page*/
+.invisible {
+left:-9000px;
+position:absolute;
+}
+
+/*reset*/
+.clear {
+clear:both;
+}
+
+/*defines tabbing colours for accessibility purposes*/
+TD.taboff A:hover,TD.taboff A:focus {
+color:#333333;
+background-color:#ecf3f7;
+text-decoration:none;
+}
+
+/*define the images that appear beside life event, overview and checklist documents on each category page, along with the colours behind them*/
+.lifeevent,.overview,.checklist { padding-left: 10px; padding-right: 10px; background-color: #444; padding-top: 5px; padding-bottom: 5px; margin: 10px 0;
+}
+
+.address A:link,.address A:visited {
+color: #00ffff
+}
+
+.address A:focus,.address A:hover,.address A:active {
+color: #00ffff;
+background-color:#444;
+}
+
+.lifeevent img,.overview img,.checklist img { padding: 5px 10px 5px 0px; 
+}
+.lifeevent A:link,.lifeevent li A:link,.overview A:link,.overview li A:link,.checklist A:link,.overview li A:link,.lifeevent A:visited,.lifeevent li A:visited,.overview A:visited,.overview li A:visited,.checklist A:visited,.overview li A:visited {
+color:#00ffff;
+}
+
+.lifeevent A:focus,.overview A:focus,.checklist A:focus,
+.lifeevent A:hover,.overview A:hover,.checklist A:hover,
+.lifeevent A:active,.overview A:active,.checklist A:active {
+color:#00ffff;
+background-color:#222;
+text-decoration:none;
+}
+.categoryitems li a {
+font-weight: bold;
+}
+
+.documents { padding: 5px 5px 5px 10px;
+}
+
+.documents p { padding-left: 5px; 
+}
+
+.documents img { vertical-align: text-top;
+}
+/* styles for subcategorytree.html */
+#categorytree { 
+list-style-type: none;
+}
+.subtree {
+list-style-type: none;
+font-size: 1.2em;
+}
+
+li.level-1 {
+font-weight: 500;
+font-size: 2em;
+margin: 20px 0px;
+line-height: 2.2em;
+}
+li.level-2 {
+font-size: 0.8em;
+line-height: 1.6em;
+}
+.level-1 a,.level-2 a {
+text-decoration: none;
+}
+/* end of styles for subcategorytree.html */
+
+
+/* style for secondary navigation */
+#secondaryNavBarID {
+    margin: 10px;
+    position: relative;
+}
+#secondaryNavBarID .close {
+    background-image: url("/images/close.png");
+    background-repeat: no-repeat;
+    padding: 10px;
+    position: absolute;
+    right: 21px;
+    top: 8px;
+}
+#secondaryNavBarID .close:hover {
+    cursor: pointer;
+}
+.secondaryNav {
+    z-index:1;
+    background-color: #666666;
+    color: white;
+    border-radius:5px;
+    -moz-border-radius:5px;
+    -khtml-border-radius:5px;
+    -webkit-border-radius:5px;
+    behavior: url(/styles/PIE.htc) ; 
+    margin-bottom: 10px;
+}
+.secondaryNav a {
+    color: white;
+}
+.secondaryNav a:hover, .secondaryNav a:active, .secondaryNav a:focus {
+	text-decoration: none;
+}
+.secondaryNav > .title {
+    font-size: 1.2em;
+    font-weight: bold;
+    padding: 10px;
+    padding-left: 20px;
+    padding-top: 15px;
+}
+.secondaryNav .menu1 > .title {
+    font-size: 1.2em;
+    padding: 10px;
+    padding-left: 20px;
+    background-image: url("/images/arrow_unselected_12.png");
+    background-position: 0 center;
+    background-repeat: no-repeat;
+    margin-left: 20px;
+}
+.secondaryNav .menu1 > .title:hover {
+    cursor: pointer;
+}
+.secondaryNav .menu2 {
+    /*padding-top: 10px;*/
+    padding-left: 40px;
+    padding-bottom: 10px;
+}
+.secondaryNav .menu2Container {
+    display: none;
+}
+.secondaryNav .menu2Container .menu2:first-child {
+    /*padding-top: 0px;*/
+}
+.secondaryNav .menu2Container .menu2:last-child {
+    /*padding-bottom: 20px;*/
+}
+.secondaryNav .menu2 > .title {
+    font-weight: bold;
+    padding-bottom: 3px;
+}
+.secondaryNav .menu1 {
+    border-top: 1px solid #999999;
+    padding-right: 5px;
+}
+.secondaryNav .menu3 {
+    padding-left: 10px;
+}
+.secondaryNav .menu3 a {
+    font-weight: normal;
+    display: block;
+    padding-bottom: 6px;
+    color: white;
+}
+
+/* end style for secondary navigation */
+}
+
+
+
+
+/*NEW CSS FOR RESPONSIVE DESIGN */
+
+
+@media all and (max-width: 1430px) {
+BODY {
+min-width: 0px;
+/*font-size: 85%;*/
+}
+.breadcrumbs p {
+    margin-left: 10px;
+}
+.banner {
+	width: 100%;
+}
+.navcontainer {
+float: none;
+	width: 100%;
+	background-color: #444;
+	display: inline-block;
+}
+.navcontainer ul {
+	float: none;
+	width: 100%;
+	background: #444;
+}
+.navcontainer UL LI A:link, .navcontainer UL LI A:visited {
+	background: #444;
+	 /*border-top: 1px solid #FFFFFF;*/
+    margin: 0;
+   /* width: 100%;*/
+    height: 30px;
+}
+.navcontainer UL LI A:focus, .navcontainer UL LI A:hover, .navcontainer UL LI A:active {
+background-color:#000;
+/*width: 90%;*/
+}
+/*.navcontainer li {
+	float: left !important;
+}*/
+.navcontainer li:nth-child(7) {
+width: 100%;
+}
+
+/*remove side border on search box that separates element at larger screen sizes*/
+#cse-search-box
+{
+border-left:none;
+}
+.arrow img, #findacentre, #mysituation, #categories {
+display:none !important;
+}
+.intro {
+ float: none;
+    width: 100%;
+}
+.categories {
+padding-left: 0;
+padding-bottom: 20px;
+/*padding-top: 10px;*/
+}
+.categoryitems li {
+	padding: 10px 0;
+}
+#cse-search-box {
+	border-top: 1px solid #000;
+	border-left: 1px solid #000;
+    float: left;
+    width: 100%;
+	  background-color: #444;
+	  padding: 10px 0;
+}
+#cse-search-box div {
+padding-left: 10px;
+}
+#query-input {
+ width: calc(60%);
+}
+.home_footer p a:link, .cats_footer p a:link, #inner_footer p a:link, #historytrail a:link {
+	display: inline-block;
+	line-height: 1.5;
+}
+}
+
+
+@media all and (max-width: 1080px) {
+#logo {
+	width: 366px;
+}
+#logo A {
+	float: left;
+    width: 100%;
+	background-image: url('/images/logo_sm_GA.gif');
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: center;
+	/*max-width: 80%;*/
+	height: 79px;
+	text-decoration: none;
+}
+#logo img {
+display: none;
+}	
+}
+
+@media all and (max-width: 1020px) {
+.navcontainer li {
+
+	/*border-right: 1px solid #FFFFFF;
+	border-bottom: 1px solid #FFFFFF;*/
+	width: 33.33%;
+	float: left;	
+	background-color: #444;
+	border-top: 1px solid #000;
+	overflow: hidden;
+}
+.navcontainer UL LI A:link, .navcontainer UL LI A:visited {
+	 width: 100%;
+}	 
+.navcontainer UL LI A:focus, .navcontainer UL LI A:hover, .navcontainer UL LI A:active {
+	background-color:#000;
+	width: 100%;
+}
+#query-input {
+ width: calc(80% - 40px);
+}
+.intro br {
+display: none;
+}
+/*this will remove the print and email icons*/
+.printemailicons {
+	display: none;
+}
+/*Alternative method */
+/*.homeleft div:nth-child(3) a img {
+display: none;
+}*/
+
+.categories DIV H2 a {
+ border: none;
+ font-size: 0.9em;
+}
+.categories DIV {
+width: 100%;
+ border-bottom: 2px solid #7FBE1B;
+  padding: 12px 0;
+}
+.categories {
+border: none;
+}
+/*this will remove the categoryitems on homepage only and not on category page*/ 
+
+p.categoryitems {
+ display:none;
+}
+}
+
+@media all and (max-width: 990px) {
+BODY {
+	/*font-size: 85%;*/
+} 
+#logo {
+	width: 100%;
+}
+.surround_top {
+	  /* float: left;*/
+    width: auto;
+	border-radius: 0;
+	height: auto;
+	background: none;
+	color: #005A7D;
+}
+/*#webswitch {
+ border-radius: 0;
+ margin: 0;
+ background: none;
+	color: #005A7D;
+	float: left;
+	width: 100%;
+}
+
+#webswitch a:link, #webswitch A:visited {
+	background:none;
+	color: #005A7D;
+	text-decoration: underline;
+}	*/
+#webswitch {
+display: none;
+}	
+.access {
+	border-radius: 0;
+ margin: 0;
+ color: #000;
+ float: left;
+ width: 100%;
+ display: inline;
+}
+.access p {
+    margin-bottom: -5px;
+    margin-top: 2px;
+    padding: 0;
+}
+DIV.contenthome DIV.homeleft {
+	max-width: 100%;
+	right: 8px;
+    width: auto;
+
+}
+.homeright {
+   float: left;
+    width: 100%;
+	margin-bottom: 10px;
+}
+.module {
+  /*  clear: both;*/
+    float: none;
+    /*margin-top: 0;*/
+}
+ 
+/* This will remove the email and print icons */
+/*.homeleft DIV:nth-child(3) {
+ display:none;
+ }*/
+ 
+
+.module_left_categories {
+    width: 100%;
+}
+.module_float {
+    float: none;
+    width: 100%;
+}
+
+.subcategory {
+    float: none;
+    padding-left: 0;
+    width: 95%;
+}
+.footer_logo {
+    float: none;
+    margin-top: -5px;
+}
+.cats_footer {
+width: 100%;
+float:none;
+}
+#inner_footer {
+width: 98%
+}
+}
+
+
+@media all and (max-width: 900px) {
+.navcontainer li {
+	width: 50%;
+}
+
+
+}
+
+
+@media all and (max-width: 620px) {
+
+.navcontainer li {
+	width: 100%;
+}
+/*class below added in by toggleMenu.js*/
+
+/*the mobile_menu div is added by toggleMenu.js*/
+.mobile_menu
+{
+width:100%;
+background-color:#444; /*grey*/
+padding-bottom:10px;
+border-top: 1px solid ;
+display:block;
+padding-top: 8px;
+}
+.mobile_menu a
+{
+background-color:#444; /*grey*/
+color: #00ffff;
+text-align:center;
+margin-left:18px;
+margin-bottom:5px;
+text-decoration:none;
+}
+.hide_for_mobile li:nth-child(-n+6) {
+    display: none;
+}
+#cse-search-box
+{
+border-left:none;
+}
+#secondsearch {
+	display: inline;
+	list-style-type: none;
+}
+}
+
+@media all and (max-width: 610px) {
+BODY {
+/*	font-size: 95%;*/
+} 
+/*.surround_top {
+ display: none;
+}*/
+.categories br {
+	display: none;
+}
+.intro p:nth-child(n+2) {
+display: none;
+}
+/*
+.homeright div:nth-child(n+3):nth-child(-n+5) {
+display: none;
+}*/
+.cookie-wrapper {
+    display: none;
+}
+.languages {
+    float: none;
+    margin-left: 20px;
+}
+.search {
+    float: none;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+.buttons ul {
+    float: none;
+}
+.buttons ul li {
+    border-top: 1px solid #FFFFFF;
+    float: none;
+}
+.content {
+    width: 95%;
+}
+#original img {
+    float: none;
+    margin-bottom: 20px;
+}
+.homepage_image {
+    display: none;
+}
+}
+
+@media all and (max-width: 580px) {
+BODY {
+	/*font-size: 90%;*/
+} 
+.logo img {
+    width: 100%;
+	}
+.intro {
+display: none;
+}
+
+/*.surround_top {
+height: 32px;
+}*/
+}
