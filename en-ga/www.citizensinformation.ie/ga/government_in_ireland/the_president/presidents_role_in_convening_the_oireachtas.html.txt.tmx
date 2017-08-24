@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>President - Convening the Oireachtas</seg></tuv>
+  <tuv xml:lang="ga"><seg>An tUachtarán - Tithe an Oireachtais a Chomóradh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The President can convene a meeting of either or both Houses of the Oireachtas</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis an Uachtarán ceachtar de thithe an Oireachtais, nó iad araon, a chomóradh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Before doing so, the President must first consult with the Council of State</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sula ndéanann sé/sí é sin ní mór don Uachtarán dul i gcomhairle leis an gComhairle Stáit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The President's power to convene a meeting of either or both Houses of the Oireachtas has never been exercised</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níor tharla sé ariamh gur dhein an tUachtarán ceachtar de Thithe an Oireachtais, nó iad araon, a chomóradh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It might be used in an emergency situation</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh sé/sí é a dhéanamh i gcás práinne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>At the meeting of either or both Houses of the Oireachtas, the President may communicate a message or address on any matter of national or public importance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis an Uachtarán teachtaireacht nó aitheasc a chur faoin bhráid cheachtar de Thithe an Oireachtais, nó iad araon, i dtaobh aon ní a bhfuil tábhacht náisiúnta nó tábhacht phoiblí ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The message or address must first be approved by the Government</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don Rialtas an teachtaireacht nó aitheasc a cheadú ar dtús</seg></tuv>
+</tu>
+</body>
+</tmx>

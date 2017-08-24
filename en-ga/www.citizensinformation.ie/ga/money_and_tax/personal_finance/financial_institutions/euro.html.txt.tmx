@@ -1,0 +1,233 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>What is the euro?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Céard é an Euro?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The euro is the single currency used in 18 EU member states, including Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is aonad amháin airgeadais é an euro a mbaintear úsáid as i 18 de bhaill stáit an AE, Éire san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(The 18 countries in the Euro area are: Austria, Belgium, Cyprus, Estonia, Finland, France, Germany, Greece, Ireland, Italy, L:atvia, Luxembourg, Malta, Netherlands, Portugal, Slovakia, Slovenia and Spain). Lithuania will adopt the euro as its official currency on 1 January 2015</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Is iad na 17 tír i limistéar an Euro ná: An Ostair, An Bheilg, An Chipir, Éire, An Eastóin, An Fhionlainn, An Fhrainc, An Ghréig, An Ghearmáin, An Iodáil, An Laitvia, Lucsamburg, An Ísiltír, Málta, An Phortaingéil, An tSóivéin, Poblacht na Slóvaice agus An Spáinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The euro came into being in cashless form on 1 January 1999 when 12 of these member states formed an Economic and Monetary Union (EMU) and permanently locked the exchange rates of their currencies against the euro</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tháinig an euro i bhfeidhm, i chuile fhoirm ach i nótaí agus boinn, ar an 1 Eanáir 1999 nuair a rinne na baill stáit sin Aontas Eacnamúil agus Airgeadais (AEA) agus nuair a shochraigh siad go buan an ráta malairte idir a gcuid airgid féin agus an Euro</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Euro notes and coins were put into circulation in 12 of these EU states on 1 January 2002</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireadh nótaí agus boinn Euro ar fáil sna 12 stáit den AE ar 1 Eanáir 2002</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(Slovenia joined the euro zone in January 2007</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Chuaigh an tSlóivéin sa limistéar an euro in Eanáir 2007</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Malta and Cyprus adopted the euro on 1 January 2008</seg></tuv>
+  <tuv xml:lang="ga"><seg>Glac Málta agus An Chipir an euro an 1 Eanáir 2008</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Slovakia adopted the euro in January 2009 and Estonia joined in January 2011)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Glac Poblacht na Slóvaice an euro in Eanáir 2009 agus An Eastóin in Éanair 2011.)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Exchanging Irish banknotes and coin</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nótaí bainc agus boinn Éireannacha a mhalartú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Central Bank of Ireland will exchange all Irish banknotes and coins for euro indefinitely (this means for many years to come)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfaidh Banc Ceannais na hÉireann malartú idir nótaí bainc agus boinn Éireannacha agus an euro gan ceapadh lae (is é sin le blianta amach romhainn)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you call into the Central Bank, banknotes to the value of £3,000 (€3,800) per transaction can be exchanged</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhuaileann tú isteach ag an mBanc Ceannais, is féidir malartú a dhéanamh ar nótaí bainc suas go £3,000 (€3,800) an bhirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you wish to exchange more than £3,000, the value in euro will be forwarded to you as a cheque through the post</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ag iarraidh níos mó ná £3,000 a mhalartú do euro, cuirfear an luach i euro chugat i bhfoirm seic sa phost</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you wish to exchange Irish coins, values up to £500 (€635) can be exchanged immediately</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ag iarraidh boinn Éireannacha a mhalartú le euro, is féidir luachanna suas go £500 (€635) a mhalartú ar an bpointe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have more than £500 in coins, the euro value will be forwarded to you as a cheque through the post</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá níos mó ná £500 i bhfoirm bonn, cuirfear an luach i euro chugat i bhfoirm seic sa phost</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(All coins must be separated by denomination and presented in coin bags)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Ní mór na boinn ar fad a scaradh de réir ainmníochta agus a chur isteach i málaí boinn)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can call into the Central Bank or you can send Irish banknotes to the Central Bank by registered post and you will receive their value in euro by cheque</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar rogha ar sin, is féidir leat nótaí bainc Éireannacha a sheoladh chuig an Banc Ceannais ach úsáid a bhaint as post cláraithe agus gheobhaidh tú a luach i euro i bhfoirm seic</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(See address under 'Where to apply')</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Féach seoladh faoi ‘Cá háit a ndéanfar iarratas’)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Exchanging euro-area banknotes and coins</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nótaí bainc agus boinn an limistéir Euro a mhalartú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have banknotes from a holiday or trip to another EU country that is now part of the euro area it is still possible to exchange these banknotes for euro</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá nótaí bainc as tír eile an AE atá anois ina cuid de limistéar an euro fós agat tá tú fós in ann na nótaí bainc seo a mhalartú do euro</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In order to exchange this currency, you will need to send the notes to the national central banks of the relevant country</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun an t-airgeadra seo a mhalartú, beidh ort na nótaí a sheoladh chuig banc ceannais náisiúnta na tíre cuí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Details of your name and address and, if applicable, your bank account details should be included with the bank notes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart duit d’ainm agus do sheoladh agus sonraí do chuntas bainc más gá a chur isteach leis na nótaí bainc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(You should be aware that the postage cost of sending the bank notes might exceed their euro value)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Ba cheart duit a thabhairt faoi deara gur féidir le costas an phoist a bheith níos mó ná luach euro na nótaí bainc)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is no means of exchanging foreign coin other than by travelling to the country in question and exchanging it at that country's national central bank</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl bealach ar bith chun boinn eachtracha a mhalartú ach trí cuairt a thabhart ar an tír atá i gceist agus iad a mhalartú i mbanc ceannais náisiúnta na tíre sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Countries in the euro area</seg></tuv>
+  <tuv xml:lang="ga"><seg>Na Tíortha i limistéar an euro</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The 18 countries in the euro area (also known as the eurozone) are: Austria, Belgium, Cyprus, Estonia, Finland, France, Germany, Greece, Ireland, Italy, Latvia, Luxembourg, Malta, Netherlands, Portugal, Slovakia, Slovenia and Spain</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad na 18 tír i limistéar an euro ná: An Ostair, An Bheilg, An Chipir, Éire, An Eastóin, An Fhionlainn, An Fhrainc, An Ghearmáin, An Iodáil, An Laitvia, Lucsamburg, An Ísiltír, Málta, An Phortaingéil, Poblacht na Slóvaice, An tSóivéin, An Spáinn, agus an Ghréig</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The United Kingdom (UK) decided not to participate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá cinneadh tógtha ag an Ríocht Aontaithe (RA) gan páirt a ghlacadh sa euro ach tá sé tugtha le fios acu go bhfuil seans ann go mbeidh siad ag smaoineadh ar pháirt a ghlacadh ann níos deanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Euro notes and coins were first put into circulation on 1 January 2002</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireadh nótaí agus boinn Euro ar fáil ar an 1 Eanáir 2002</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The euro is part of the process of EMU</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuid de phroiséas an AEA é an euro</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>EMU is provided for in the Maastricht Treaty, which the people of Ireland endorsed by referendum in June 1992</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá na rialacha a bhaineann le AEA leagtha síos i gConradh Maastricht, a tháinig i bhfeidhm in Éirinn tar éis do phobal na tíre glacadh leis i reifreann i mí an Mheithimh 1992</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As well as the euro, EMU has involved the creation of an independent European Central Bank (ECB)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chomh maith leis an Euro tá Banc Ceannais na hEorpa (BCE) neamhspléach cruthaithe ag AEA</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The euro is used also in Andorra, Monaco, San Marino and Vatican City</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baintear úsáid as an euro chomh maith in Andóra, Monacó, San Mairíne agus Cathair na Vatacáine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Several overseas territories of the 167 euro area countries use the euro: these include the Canaries, Madeira, the Azores and the French Outre-Mer territories (Guyana, Martinique, Guadeloupe, Reunion and the collective territories of Mayotte and St Pierre and Miquelon)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann críocha thar lear ar leith de chuid na 17 tír i limistéar an euro úsáid as an euro; san áireamh tá Na hOileáin Chanáracha, Maidéara, na hAsóir, agus Críocha Outre-Mer na Fraince (Gúain na Fraince, Martinique, Guadalúip, Réunion agus comhchríocha Mayotte agus St Pierre agus Miquelon)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>How was the euro introduced?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cén chaoi ar tugadh isteach an Euro?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>On 1 January 1999, the exchange rates of the countries joining EMU were permanently locked against the Euro</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar an 1 Eanáir 1999, socraíodh rátaí malairte airgeadais na dtíortha san AEA go buan i gcoinne an Euro</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In Ireland the euro is worth £0.787564 or just under 79 pence</seg></tuv>
+  <tuv xml:lang="ga"><seg>In Éirinn is fiú £0.787564 an euro nó díreach beagainín níos lú ná 79 pingin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The period between 1 January 1999 and 31 December 2001 was known as the transition period</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar an t-idirthréimhse ar an tréimhse idir 1 Eanáir 1999 agus 31 Nollaig 2001</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>On 1 January 2002, euro notes and coins were put into circulation and the withdrawal of national notes and coins began</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar an 1 Eanáir 2002 cuireadh nótaí agus boinn euro ar fáil agus cuireadh tús le nótaí agus boinn náisiúnta a tharraingt siar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>From 9 February 2002, the Irish pound was no longer accepted for transactions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ón 9ú Feabhra 2002 ní raibh duine in ann úsáid a bhaint as an bpunt Éireannach a thuilleadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The euro changeover in Ireland was complete by 1 July 2002</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bhí an t-athrú iomlán curtha i gcrích faoin 1 Iúil 2002</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Euro notes and coins</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nótaí agus boinn Euro</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• There are 7 euro banknotes, in denominations of €5, €10, €20, €50, €100, €200 and €500</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tá 7 gcinn de nótaí bainc euro ann, nótaí de €5, €10, €20, €50, €100, €200 agus €500</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• There are 8 euro coins, in denominations of 1, 2, 5, 10, 20 and 50 cent and €1 and €2</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tá 8 gcinn de bhoinn euro ann, boinn de 1, 2, 5, 10, 20 agus 50 ceint agus €1 agus €2</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are 100 cent to the euro</seg></tuv>
+  <tuv xml:lang="ga"><seg>Céad ceint atá sa Euro</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The smallest of the euro coins (the 1 cent coin) is slightly smaller than the old Irish 5p coin and the largest (2 euro coin) is about the same size as the old Irish 2p coin</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tá an bonn is lú Euro (bonn ceint amháin) beagainín níos lú ná an seanphíosa 5p a bhí againn agus an ceann is mó (bonn dhá Euro) a bheag nó a mhór ar an méid céanna leis an seanbhonn 2p Éireannach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• One side of the euro coins is the same in all euro area member states</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tá taobh amháin de na boinn Euro díreach mar an gcéanna sna baill stáit uilig</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The other side shows the 12 stars of the EU flag, the year and a national emblem</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar an taobh eile tá dhá réalt déag bhratach na hEorpa, an bhliain agus suaitheantais náisiúnta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In Ireland, the national emblem is the harp and the word Eire</seg></tuv>
+  <tuv xml:lang="ga"><seg>In Éirinn baintear úsáid as an gclairseach mar shuaitheantais náisiúnta leis an bhfocal Éire</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Converting from Irish pounds to euro</seg></tuv>
+  <tuv xml:lang="ga"><seg>Puint Éireannacha a mhalartú go Euro</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The conversion rate between the euro and the Irish pound is €1 = £0.787564 and this six-digit figure must always be used when carrying out conversions between the Irish pound and the euro</seg></tuv>
+  <tuv xml:lang="ga"><seg>€1 = £0.787564 an ráta malairte idir an Euro agus an punt Éireannach agus ní mór i gcónaí úsáid a bhaint as an sé fhigiúr seo nuair atá puint Éireannacha le malartú go Euro</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are rules to be followed when converting prices from Irish pounds to euro</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá rialacha ann a bhaineann le praghasanna Éireannacha a mhalartú go Euro</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These are summarised as follows:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Achomair ar na rialacha atá anseo:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Divide the Irish pound amount by the conversion rate, i.e., by 0.787564</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Roinn na puint Éireannacha faoin ráta malairte, i.e., faoi 0.787564</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Round the resulting euro amount to two decimal places, i.e., to cent</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Déan an figiúr Euro cruinn chuig an dara deachúil, i.e., chuig ceint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Round down where the third figure after the decimal point is 4 or lower; round up where it is 5 or higher</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tar anuas nuair is 4 nó níos lú atá sa tríú deachúil agus téigh suas nuair is 5 nó níos mó atá sa tríú deachúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, €3.174 should be rounded down to €3.17 and €6.348 should be rounded up to €6.35</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, ba cheart €3.174 a thabhairt anuas go dtí €3.17 agus €6.348 a thabhairt suas go dtí €6.35</seg></tuv>
+</tu>
+</body>
+</tmx>

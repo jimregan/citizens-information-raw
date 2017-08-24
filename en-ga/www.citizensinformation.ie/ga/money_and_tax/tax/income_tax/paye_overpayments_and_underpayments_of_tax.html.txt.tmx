@@ -1,0 +1,209 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>PAYE overpayments and underpayments of tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ró-íocaíochtaí agus gearríocaíochtaí cánach ÍMAT</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• PAYE overpayments and underpayments of tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ró-íocaíochtaí agus gearríocaíochtaí cánach ÍMAT</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>PAYE overpayments and underpayments of tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ró-íocaíochtaí agus gearríocaíochtaí cánach ÍMAT</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An overpayment of tax happens when you have paid more tax than you were liable to pay</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tarlaíonn ró-íocaíocht cánach nuair a bhíonn níos mó cánach íoctha agat ná a bhí dlite</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have overpaid tax you will get a tax refund</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhíonn ró-íocaíocht cánach déanta agat, gheobhaidh tú aisíoc cánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must claim a tax refund within 4 years of the end of the year in which the overpayment arose or you will not get a refund</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit aisíoc cánach a éileamh taobh istigh de 4 bliana den ró-íocaíocht nó ní aisíocfar tú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An underpayment of tax is when you have paid less tax than you were liable to pay</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tarlaíonn gearríocaíocht cánach nuair a bhíonn níos lú cánach íoctha agat ná a bhí dlite</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have paid too little tax you will owe Revenue the difference between what you actually paid and what you should have paid</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil dóthain cánach íoctha agat beidh an difir idir an méid a d’íoc tú agus an méid ba chóir a bheith íoctha agat ag dul do na Coimisinéirí Ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may not know that you have paid too little tax, but you are still responsible for paying Revenue if an underpayment of tax has occurred</seg></tuv>
+  <tuv xml:lang="ga"><seg>B’fhéidir nach bhfuil a fhios agat nach bhfuil dóthain cánach íoctha agat, ach tá tú fós freagrach as na Coimisinéirí Ioncaim a íoc má tharlaíonn gearríocaíocht cánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are a PAYE taxpayer and you are registered with Revenue's PAYE Anytime service you can view your tax credit certificate online</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más cáiníocóir ÍMAT tú agus tá tú cláraithe leis an tseirbhís Revenue Aon Tráth, Aon Lá, éadfaidh tú do theastas creidmheasanna cánach a fheiceáil ar líne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>PAYE Anytime is available through Revenue's myAccount Service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá ÍMAT Aon Tráth, Aon Lá ar fáil tríd an tSeirbhís moChúrsaí Revenue</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your tax credit certificate will show the tax credits that your employer is deducting from your tax bill</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léireoidh sé seo na creidmheasanna cánach atá d’fhostóir ag asbhaint ó do bhille cánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you find out during the year that your tax credits are not correct you should contact Revenue and any refund you may be due will be paid to you by your employer</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhaigheann tú amach i rith na bliana nach bhfuil do chuid creidmheasanna cánach cruinn, ba chóir duit dul i dteagmháil leis na Coimisinéirí Ioncaim agus íocfaidh d’fhostóir aon aisíoc leat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is also important to check you are not claiming tax credits you are not entitled to, as this will result in an underpayment of tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé tábhachtach freisin seiceáil nach bhfuil tú ag éileamh creidmheasanna cánach nach bhfuil tú i dteideal a fháil, mar go mbeadh gearríocaíocht cánach mar thoradh air seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To find out whether you owe tax or are due a tax refund you can request a P21 at the end of the year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat ráiteas comhardaithe P21 a iarraidh ag deireadh na bliana chun a fháil amach an bhfuil cáin le n-íoc agat leis na Coimisinéirí Ioncaim nó an bhfuil aisíoc cánach ag dul duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When the year has ended you can request a P21</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a bheidh an bhliain thart, is féidir leat P21 a iarraidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is an end of year review of your tax liability</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seo athbhreithniú deireadh na bliana ar do dhliteanas cánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can get a P21 for the last 4 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat P21 a fháil don 4 bliana seo caite mar sin chomh fada siar is féidir leat aisíoc a éileamh ar cháin ró-íoctha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(You can only claim a refund of overpaid tax for the last 4 years.) A P21 statement gives details of your total income, tax credits, tax reliefs and PAYE tax paid for a particular tax year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann ráiteas P21 sonraí ded’ ioncam iomlán, creidmheasanna cánach, faoiseamh cánach agus cáin ÍMAT íoctha i gcomhair bliain amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can request a P21 online using the myAccount Service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat P21 a iarraidh ar líne má chláraigh tú le seirbhís ar líne aon tráth aon lá ÍMAT na gCoimisinéirí Ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To get a P21 you must send the following to your district tax office:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun P21 a fháil, ní mór duit iad seo a leanas a sheoladh chuig an oifig cánach dod’ dhúiche:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Your P60 form (and, if relevant, a P60 form for your spouse or civil partner) for the tax year</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Do fhoirm P60 (agus, más ábhartha, foirm P60 dod’ chéile) don bhliain cánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Details of your claim for additional tax credits</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sonraí de d’éileamh i gcomhair creidmheasanna cánach breise</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you want to claim tax relief for medical expenses you will also need to complete and submit Form Med 1 (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mian leat faoiseamh cánach a éileamh i gcomhair costais leighis, beidh ort Foirm Med 1(pdf) a líonadh agus a chur isteach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may also have to complete and return a Form 12 (pdf) but not unless you are requested to do so by Revenue</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh sé go mbeadh ort Foirm 12(pdf) a chomhlánú agus a sheoladh ar ais, ach ní gá é seo a dhéanamh ach amháin má iarrann na Coimisinéirí Ioncaim ort é</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Form 12 is a detailed tax return form</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is foirm tuairisceáin cánach mionsonraithe atá i bhFoirm 12</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A P21 is often used as proof of earnings to get a maintenance grant, a mortgage for a house or a loan</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is minic a úsáidtear P21 mar chruthúnas ar thuillimh chun deontas oideachais a fháil ón údarás áitiúil, morgáiste tí nó iasacht a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may have overpaid tax if you become unemployed or are out of work sick</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh sé go bhfuil ró-íocaíocht cánach déanta agat má tá tú dífhostaithe nó ar saoire bhreoiteachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Find out more about claiming a tax refund if you are unemployed or out of work sick</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigh amach tuilleadh faoi aisíoc cánach a éileamh má tá tú dífhostaithe nó ar saoire bhreoiteachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may have overpaid tax if your tax credits are incorrect or you haven’t claimed tax relief for certain expenses</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh sé go bhfuil ró-íocaíocht cánach déanta agat má tá do chreidmheasanna cánach mícheart nó mura bhfuil faoiseamh cánach éilithe agat do chostais áirithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Find out more about the tax credits and reliefs you may be entitled to claim</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigh amach tuilleadh faoi na creidmheasanna agus faoiseamh cánach a d’fhéadfá a bheith i dteideal a éileamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have overpaid tax, a cheque for the amount overpaid will be attached to your P21</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá ró-íocaíocht cánach déanta agat, beidh seic don mhéid a bhí ró-íoctha ceangailte le do P21</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you submitted a Form 12 as part of your end of year review you can also provide your bank account details and Revenue will refund the overpayment to your bank account</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má sheol tú isteach Foirm 12 mar chuid ded’ athbhreithniú deireadh bliana is féidir leat do shonraí cuntais bainc a chur ar fáil freisin agus déanfaidh na Coimisinéirí Ioncaim aisíoc ar an ró-íocaíocht chuig do chuntas bainc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An underpayment will remain on your tax record with Revenue until it is paid</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fanfaidh gearríocaíocht ar do thaifead cánach leis na Coimisinéirí Ioncaim go dtí go mbeidh sé íoctha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your P21 or end of year review will show if you have underpaid tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léireoidh do P21 nó d’athbhreithniú ag deireadh na bliana má tá gearríocaíocht cánach déanta agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It will also inform you how the underpayment will be collected</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirfidh sé in iúl duit freisin conas a bhaileofar an gearríocaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Usually, you will not pay money directly to Revenue</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go hiondúil, ní íocfaidh tú airgead díreach leis na Coimisinéirí Ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The easiest way for Revenue to collect the underpayment is to reduce your tax credits in the following year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an bealach is furasta do na Coimisinéirí Ioncaim an gearríocaíocht a bhailiú ná do chreidmheasanna cánach a laghdú don bhliain dar gcionn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, if you get a personal tax credit of €1,650 and a PAYE tax credit of €1,650 your total tax credit for 2016 is €3,300</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, má fhaigheann tú creidmheas cánach pearsanta de €1,650 agus creidmheas cánach ÍMAT de €1,650 is é do chreidmheas cánach iomlán i gcomhair 2016 ná €3,300</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you underpaid €90 tax in 2015, your total tax credit in 2016 will be reduced by €90</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má rinne tú gearríocaíocht cánach de €90 in 2015, laghdófar do chreidmheas cánach iomlán in 2016 de €90</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(€3,300 - €90 = €3,210) In this case, your total tax credit for 2016 will be changed to €3,210</seg></tuv>
+  <tuv xml:lang="ga"><seg>(€3,300 - €90 = €3,210) Sa chás seo, athrófar do chreidmheas cánach iomlán i gcomhair 2016 go dtí €3,210</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An underpayment can also be deducted from any tax relief you are due</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir gearríocaíocht a asbhaint ó aon fhaoiseamh cánach atá dlite duit freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, if you have underpaid your income tax by €100 but are also due to get tax relief of €400 on medical expenses, the underpayment of €100 will be deducted from the overpayment of €400 and you will get a refund of €300</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, má tá gearríocaíocht cánach de €100 déanta agat ach go bhfuil faoiseamh cánach de €400 dlite duit ar chostais leighis, asbhainfear an gearríocaíocht de €100 ón ró-íocaíocht de €400 agus gheobhaidh tú aisíoc de €300</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have a large underpayment which can not be easily repaid by reducing your tax credits the following year, you can arrange to pay Revenue directly by cheque, banker’s draft or postal order</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá gearríocaíocht mór agat nach féidir a aisíoc go furasta trí do chreidmheasanna cánach a laghdú an bhliain dar gcionn, is féidir leat socrú a dhéanamh chun é a aisíoc díreach leis na Coimisinéirí Ioncaim le seic, dréacht baincéara nó ordú poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can pay the total amount in one payment or in instalments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat an méid iomlán a íoc in íocaíocht amháin nó ina ghálaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will need to contact your district tax office about repaying the underpayment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh ort dul i dteagmháil le d’oifig cánach áitiúil faoi aisíoc a dhéanamh ar an ngearríocaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Outstanding tax due to Revenue can incur interest and penalties</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le cáin gan íoc atá dlite do na Coimisinéirí Ioncaim ús agus pionóis a thabhú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you refuse to repay tax that is due Revenue can take you to court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhiúltaíonn tú cáin atá dlite a aisíoc, is féidir leis na Coimisinéirí Ioncaim tú a thabhairt chun na cúirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you think your tax is currently being calculated incorrectly or you want to request a P21 contact your district tax office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má cheapann tú go bhfuil do cháin á ríomh go míchruinn faoi láthair nó más mian leat P21 a iarraidh, téigh i dteagmháil le d’oifig cánach áitiúil</seg></tuv>
+</tu>
+</body>
+</tmx>

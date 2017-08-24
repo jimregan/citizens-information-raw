@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>After a general election, the party with the support of the majority of the members in the Dáil will secure the nomination of Taoiseach who will then set up a government</seg></tuv>
+  <tuv xml:lang="ga"><seg>In ndiaidh olltoghcháin, tá an deis ag an bpáirtí, ag a bhfuil tacaíocht tromlach baill na Dála, an Taoiseach a ainmniú agus ansin Rialtas a bhunú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If, after a general election, no party can get the support of the majority of the members of the Dáil, 2 or more parties may agree to work together as a coalition government</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tharlaíonn sé, tar éis an olltoghcháin, nach bhfuil aon pháirtí amháin le tacaíocht ón tromlach is féidir le 2 pháirtí nó níos mó aontú ar oibriú le chéile chun an tír a rialú mar chomhrialtas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The coalition parties will agree on who will be nominated as Taoiseach</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh ar na páirtithe aontú ar an té a bheidh mar Thaoiseach orthu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Usually, it is the leader of the larger party</seg></tuv>
+  <tuv xml:lang="ga"><seg>De ghnáth, is é/í ceannaire an pháirtí is mó a roghnaítear</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In recent years, the practice has been to nominate the leader of the smaller party as Tánaiste</seg></tuv>
+  <tuv xml:lang="ga"><seg>Le blianta beaga anuas roghnaítear ceannaire an pháirtí is lú mar Thánaiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The ministerial portfolios will then be shared between the parties</seg></tuv>
+  <tuv xml:lang="ga"><seg>Roinntear cúram na n-airí ansin ar an dá nó trí pháirtí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Usually the larger party will be given a greater number of portfolios</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar, de ghnáth, níos nó díobh don pháirtí is mó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The leader of each party will decide which elected members of the party to allocate those portfolios to</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad ceannairí na bpáirtithe a shocraíonn cé dó/dí a thugtar na postanna mar airí i measc na mball tofa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The coalition government will remain in power for as long as it keeps the support of the majority of the Dáil</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn an comhrialtas i gcumhacht an fhad agus a fhaigheann said tacaíocht ó thromlach na dTeachtaí Dála sa Dáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the coalition parties find that for some reason they cannot agree and can no longer work together, the Taoiseach may advise the President to dissolve the Dáil</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tharlaíonn sé go bhfuil fáth éigin nach bhfuil na páirtithe éagsúla sa chomhrialtas ag aontú ar chúis éigin is féidir leis an Taoiseach dul chuig an Uachtarán agus iarraidh air/uirthi an Dáil a lánscoir</seg></tuv>
+</tu>
+</body>
+</tmx>

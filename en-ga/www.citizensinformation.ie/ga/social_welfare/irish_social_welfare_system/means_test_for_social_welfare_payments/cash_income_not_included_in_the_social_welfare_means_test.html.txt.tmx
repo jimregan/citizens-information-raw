@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Cash income not included in the means test</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ioncam airgid thirim nach n-áirítear sa tástáil mhaoine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are applying for a social assistance payment you must satisfy a means test</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit tástáil acmhainne a chomhlíonadh chun iarratas a dhéanamh ar íocaíocht leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All your sources of income (for example, cash income, employment, capital and maintenance) are assessed in a means test by the Department of Social Protection (DSP)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá do foinsí ioncaim go léir (mar shampla, ioncam (airgead tirim, fostaiocht, caipiteal agus cothabháil) measúnaithe ag an Roinn Coimirce Sóisialaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, under social welfare legislation certain items are not counted when your means are assessed for a social assistance payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>De réir reachtaíocht Leasa Shóisialaigh, áfach, ní chomhairtear rudaí áirithe agus measúnú á dhéanamh ar d'acmhainn le haghaidh íocaíocht leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This document looks at cash income not included in the means test</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mínionn an doiciméad seo ioncam (airgead tirim) a n-áirítear sa tástáil acmhainne amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>More information on income not taken into account is available in our document on the means test</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh eolais ar fáil sa doiciméad maidir leis an tástáil acmhainne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The following cash income is not taken into account for all schemes except Family Income Supplement (FIS), Supplementary Welfare Allowance (SWA) and Rent Allowance (Rent Allowance is not the same as Rent Supplement):</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seo a leanas an ioncam nach n-áirítear sa tástáil acmhainne do na scéimeanna uile seachas Forlíonadh ar Ioncam Teaghlaigh (FIT), Liúntas Leasa Forlíontach agus Liúntas Cíosa (Ní hionann Liúntas Cíosa agus Forlíonadh Cíosa):</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Any payment made by the Department of Social Protection (DSP) (except in the case of Jobseeker's Allowance where a maximum payment applies)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Aon íocaíocht a dhéanann an Roinn Coimirce Sóisialaí (DSP) (seachas i gcás Liúntas Cuardaitheora Poist ina mbíonn íocaíocht uasta i gceist)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Income from property already assessed on its capital value</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Íocaíocht ar bith ó Bhallstát AE eile atá comhfhreagrach le Sochar Linbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Any payment corresponding to Child Benefit from another EU member state</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ioncam ó eagraíochtaí carthanachta neamh-bhrabúis aitheanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Income from recognised non-profit making charitable organisations</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Liúntas Soghluaiseachta ón Feidhmeannacht na Seirbhíse Sláinte (FSS)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Mobility Allowance from the Health Service Executive (HSE)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Liúntas cúram altrama ón FSS</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Home Care Grant from the HSE</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Deontas Cúram Baile ón FSS</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Allowances under the Home Tuition Scheme from the Department of Education and Skills</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Liúntais le haghaidh Cláir Teagaisc Bhaile ón Roinn Oideachais agus Scileanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Grants to parents of children attending primary school in Gaeltacht areas, and income from providing accommodation to students studying Irish in Gaeltacht areas</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Deontais do thuismitheoirí a bhfuil a leanaí ag freastal ar bhunscoil i gceantair Gaeltachta, mar aon le hioncam ó lóistín a chur ar fáil do mhic léinn a dhéanann staidéar ar an nGaeilge i gceantair Gaeltachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Any amount received as a training allowance while undergoing a course of rehabilitation training by an organisation approved by the Minister for Health</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Suim airgid ar bith a fhaigheann daoine mar liúntas oiliúna le linn dóibh a bheith ar chúrsa oiliúna athshlánaithe faoi stiúir eagraíochta atá formheasta ag an Aire Sláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Compensation awards to people who have contracted Hepatitis C or HIV from contaminated blood products, together with income from the investment of that money</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Íocaíochtaí cúitimh do dhaoine a bhfuil Heipitíteas C nó VEID tolgtha acu ó thairgí fola fabhtacha, mar aon le hioncam ó infheistíochtaí an airgid sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Compensation awards by way of the Residential Institutions Redress Board together with income from the investment of that money</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Íocaíochtaí cúitimh ón mBord um Shásamh i leith Foras Cónaithe, mar aon le hioncam ó infheistíochtaí an airgid sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Compensation awards to persons who have a disability caused by Thalidomide together with income from the investment of that money</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Íocaíochtaí cúitimh do dhaoine a bhfuil míchumas orthu de thoradh Tailídimíde mar aon le hioncam ó infheistíochtaí an airgid sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• €104 per year from certain Army pensions (including a British War Pension)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• €104 in aghaidh na bliana ó Arm-phinsin áirithe. Áirítear Pinsean Arm na Breataine sa liosta seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The following payments to your spouse, civil partner or cohabitant: Back to Work Enterprise Allowance, Back to Education Allowance, Back to Work Allowance or Part-Time Job Incentive, FET or VTOS payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Aon aisíocaíochtaí a rinneadh faoin Scéim Aisíocaíochta Teach Altranais le céile nó le páirtnéir sibhialta an duine ar gearradh táillí iomarcacha orthu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In addition payments which have been determined in accordance with the Magdalen Commission Report for the benefit of women who were admitted to and worked in the Magdalen Laundries, and payments awarded by the Residential Institutions Statutory Fund Board are not taken into account for all schemes, Family Income Supplement, Supplementary Welfare Allowance and Rent Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Na híocaíochtaí a leanas le do chéile, páirtnéir sibhialta nó do chomháitritheoir: Liúntas Fiontraíochta um Fhilleadh ar Obair, Liúntas um Fhilleadh ar Oideachas, Liúntas um Fhilleadh ar Obair nó Dreasacht Phoist Pháirtaimseartha, íocaíochtaí ó FÁS nó ón Scéim Deiseanna Oiliúna Gairmoideachais (VTOS) (gan Fostaíocht Pobail a áireamh)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Additional cash income may not be taken into account for individual social welfare payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní fhéadtar aon ioncam breise airgid thirim a chur san áireamh le haghaidh íocaíochtaí aonair leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Department of Social Protection provides more information on additional cash income not taken into account in the means test for social welfare payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann an Roinn Coimirce Sóisialaí tuilleadh faisnéise ar fáil faoi ioncam breise airgid nach gcuirtear san áireamh sa tástáil mhaoine le haghaidh íocaíochtaí leasa shóisialaigh</seg></tuv>
+</tu>
+</body>
+</tmx>

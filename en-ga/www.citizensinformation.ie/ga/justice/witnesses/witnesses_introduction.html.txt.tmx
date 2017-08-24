@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>If you have been called as a witness in a trial your main duty as a witness is to tell the truth</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú glaoite go dtí a bheith ina fhinné i dtriail Is é do dhualgas príomh mar fhinné an fhírinne a insint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a judge forms the opinion that you have lied under oath, you may be prosecuted for perjury</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má cheapann breitheamh go bhfuil bréaga insithe agat faoi mhionn, d'fhéadfadh sé/sí an dlí a chur ort as fianaise bhréige a thabhairt é</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In this section, you will find information about what it means to be a witness in a court case</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa rannóg seo gheobhaidh tú eolas maidir le bheith i d’fhinné i gcás cúirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is information on the different types of witness, who is competent to be a witness (i.e., who is capable of being a witness), and who can be compelled to be a witness</seg></tuv>
+  <tuv xml:lang="ga"><seg>Breathnófar ar na cineálacha finnéithe éagsúla, cé atá inniúil ar bheith ina f(h)inné (i.e., cé atá ábalta ar bheith ina f(h)inné) agus cé na daoine gur féidir iallach a chur orthu a bheith ina bhfinnéithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will also find information about how you are called to be a witness, the procedure for witness service and theprocedures in place for witnesses under 18 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá eolas ar fáil freisin maidir leis an chaoi a nglaotar ar dhuine le bheith ina f(h)inné, an modh oibre atá ag an tseirbhís fhinné agus na socruithe a bhaineann le finnéithe atá faoi ocht mbliana déag d'aois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It also covers when you may give evidence by video-link and what the rules are in relation to the evidence you can give</seg></tuv>
+  <tuv xml:lang="ga"><seg>Breathnófar ar na hamanna inár féidir fianaise a thabhairt le nasc físe agus cé na rialacha a bhaineann leis an bhfianaise gur féidir leat a thabhairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Information on going to court as a witness is also available in a Director of Public Prosecutions (DPP) booklet</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá eolas ar fáil freisin maidir le dul chuig an gcúirt mar fhinné sna leabhrán an Stiúrthóra Ionchúiseamh Poiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For more detailed information you should seek legal advice</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir duit comhairle dlí a lorg chun faisnéis mionsonraithe a fháil</seg></tuv>
+</tu>
+</body>
+</tmx>

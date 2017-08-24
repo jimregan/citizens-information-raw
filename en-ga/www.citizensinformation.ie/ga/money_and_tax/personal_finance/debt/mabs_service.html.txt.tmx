@@ -1,0 +1,377 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Money Advice and Budgeting Service</seg></tuv>
+  <tuv xml:lang="ga"><seg>An tSeirbhís Buiséadaithe agus Comhairle Airgid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Services provided by MABS</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seirbhísí a chuireann SBCA ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• What you can do yourself</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cad is féidir a dhéanamh tú féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• How MABS can help you</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Conas is féidir le SBCA cabhrú leat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you’re behind in your mortgage payments, you may be worried about losing your home</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá fadhbanna agat le do mhorgáiste a íoc, d’fhéadfá bheith buartha go gcaillfeá do theach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you can’t - talk to MABS</seg></tuv>
+  <tuv xml:lang="ga"><seg>Munar féidir leat – labhair le MABS</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>MABS now has a dedicated confidential, free, and independent mortgage arrears service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá seirbhís tiomnaithe neamhspleách, faoi rún, saor in aisce ag MABS anois i leith riaráistí morgáiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>MABS is a one-stop-shop for mortgage debt advice and referral</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ionad ilfhreastail é MABS le haghaidh comhairle agus tarchur i leith fiachais mhorgáiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>No matter what your situation is, MABS will help you work out the next steps</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is cuma cad é do chás, cabhróidh MABS leat an chéad chéim eile a aimsiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Take control of what happens next</seg></tuv>
+  <tuv xml:lang="ga"><seg>Glac smacht ar cad a tharlóidh anois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Call MABS today on 0761 07 2000 for independent information, advice and referral</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuir glao ar MABS inniu ar 0761 07 2000 chun faisnéis, comhairle agus tarchur neamhspleách a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Money Advice and Budgeting Service (MABS) is a free and confidential service for people who are having problems with money management and debt</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is seirbhís rúnda agus saor in aisce í an tSeirbhís Buiséadaithe agus Comhairle Airgid (SBCA) (MABS) dóibh siúd atá i bhfiacha nó go bhfuil fadhb acu ag bainistiú airgid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>MABS money advisers provide advice and practical help to people to review their debts, deal with their creditors and work out solutions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cabhraíonn comhairleoirí airgid SBCA le daoine scrúdú a dhéanamh ar a gcuid fiachais, deileáil lena gcreidiúnaithe agus teacht ar mhodhanna socraithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A series of measures to support people in mortgage arrears has enhanced the role of MABS, to include a Dedicated Mortgage Arrears service and a court mentor service – see below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann beartais nua do dhaoine a bhfuil riaráistí morgáiste acu ról níos mó do SBCA, ina mheasc seirbhís tiomnaithe i leith riaráistí morgáiste agus seirbhís meantóireachta sa chúirt - féach thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In addition, MABS is centrally involved in a new aid and advice scheme for people in serious mortgage arrears, as part of Abhaile, the national Mortgage Arrears Resolution Service. This service was launched in October 2016</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá MABS ina phointe rochtaine don scéim nua Abhaile, chun cabhrú le daoine atá dócmhainneach agus i riaráistí morgáiste comhairle neamhspleách dlí agus airgeadais a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Services provided by MABS</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seirbhísí a chuireann SBCA ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>MABS offers a range of services, as follows:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann SBCA raon seirbhísí ar fáil:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your debts may become a problem for many reasons, such as job loss, illness, extra expenses, or loans that you can’t pay</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh raon chúiseanna a bheith i gceist más rud é go bhfuil fadhbanna fiachais agat - mar shampla, post a chailleadh, tinneas sa chlann, breis billí na roimhe seo, aisíocaíochtaí iasachta nach féidir a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A MABS money adviser can:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh comhairleoir airgid SBCA:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Help you deal with your debts and make out a budget</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cabhrú leat do fhiacha a láimhseáil agus buiséad a réiteach duit féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Review your income to make sure that you are not missing any entitlements</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Scrúdú a dhéanamh ar do ioncam le déanamh cinnte go bhfuil tú ag fáil gach a bhfuil ag dul duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Contact your creditors for you, with offers of payment that you can afford</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Labhairt le do chreidiúnaithe ar do shon, chun socruithe aisíocaíochta a thairiscint, ar féidir leat a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Help you decide on the best way to make the payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cabhrú leat a chinneadh conas is fearr faoi an mbealach is fearr na h-aisíocaíochtaí a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>MABS has agreed a protocol (pdf) with a the Banking and Payments Federation of Ireland (BPFI) to help people to manage their debt repayments in an affordable way</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chomhaontaigh an SBCA agus Cónaidhm Bhaincéireachta agus Íocaíochtaí na hÉireann (BPFI) prótacal (pdf) chun cabhrú le daoine a n-aisíocaíochtaí fiachais a bhainistiú ar bhealach inacmhainne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The lenders involved have committed to work with MABS to help customers to address their debt problems and agree a sustainable repayment plan</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá na hiasachtóirí atá bainteach tiomnaithe chun oibriú leis an SBCA chun cabhrú le custaiméirí dul i ngleic lena bhfadhbanna fiachais agus comhaontú a dhéanamh ar phlean inbhuanaithe aisíocaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The protocol allows for write-off of some debt, at the lender’s discretion</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceadaíonn an prótacal roinnt fiachais a dhíscríobh, faoi lánrogha an iasachtóra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It does not apply to mortgage debt</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhaineann sé le fiachas morgáiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>MABS can also help you to agree a sustainable repayment plan with other creditors (who are not part of the protocol)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chomh maith leis sin, féadfaidh an SBCA cabhrú leat comhaontú a dhéanamh ar phlean inbhuanaithe aisíocaíochta le creidiúnaithe eile (nach bhfuil mar chuid den phrótacal)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you cannot pay your debts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Munar féidir leat d'fhiacha a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most MABS services are registered as Approved Intermediaries with the Insolvency Service of Ireland (ISI) and can assess whether a Debt Relief Notice is an appropriate solution for you and bring you through the application process</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá formhór na Seirbhísí SBCA ceadaithe mar Idirghabhálaithe Faofa le Seirbhís Dócmhainneachta na hÉireann agus is féidir leo a mheasúnu an mbeadh Fógra um Fhaoiseamh Fiachais (DRN) oiriúnach duit agus cabhrú leat tríd an próiseas iarratais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>MABS can also advise you on how to access other personal insolvency options</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leo tú a tharchur chuig ceann eile de na roghanna um dhócmhainneacht phearsanta a bheadh oiriúnach duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are having difficulty paying your mortgage, MABS can advise you on your options</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá deacrachtaí agat le do mhorgáiste a íoc, féadfaidh leis an SBCA comhairle a chur ort ar do chuid roghanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Central Bank’s Code of Conduct on Mortgage Arrears requires mortgage lenders to operate a Mortgage Arrears Resolution Process (MARP) for people in mortgage difficulty</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceanglaítear i gCód Iompair an Bhainc Cheannais um Riaráistí Morgáiste go n-oibríonn iasachtóirí morgáiste Próiseas Réitigh Riaráistí Morgáiste (PRRM) do dhaoine a bhfuil deacracht mhorgáiste acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The lender must refer you to sources of information and advice, such as MABS and keepingyourhome.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don iasachtóir thú a atreorú chuig foinsí faisnéise agus comhairle, ar nós an SBCA agus keepingyourhome.ie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>MABS publishes a series of guides and leaflets on dealing with mortgage debt</seg></tuv>
+  <tuv xml:lang="ga"><seg>Foilsíonn an SBCA sraith treoracha agus bileog ar dhéileáil le fiachas morgáiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As part of the MARP, you must assemble all of your financial details and fill out a standard financial statement (SFS) (pdf) for your lender, so that they can assess your financial position and work out the best solution</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar chuid den PRRM, ní mór duit do chuid sonraí airgeadais go léir a bhailiú agus ráiteas caighdeánach airgeadais (RCA) (pdf) a chomhlánú do d’iasachtóir, ionas gur féidir leo measúnú a dhéanamh ar do staid airgeadais agus an réiteach is fearr a dheimhniú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>MABS can help you to complete this statement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh an SBCA cabhrú leat an ráiteas seo a chomhlánú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It has worked with the Central Bank to develop a consumer guide (pdf) to completing an SFS</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’oibrigh siad leis an mBanc Ceannais chun treoir do thomhaltóirí (pdf) a fhorbairt maidir le RCA a chomhlánú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Dedicated Mortgage Arrears (DMA) service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seirbhís Riaráistí Morgáiste Tiomnaithe (RMT)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In addition to the standard services that MABS provides, over 20 MABS offices now have specialist mortgage arrears advisers, who can help mortgage holders to assess an offer made by their mortgage lender and can negotiate with the lender if required</seg></tuv>
+  <tuv xml:lang="ga"><seg>Anuas ar na seirbhísí caighdeánacha a sholáthraíonn an SBCA, tá comhairleoirí speisialaithe um riaráistí morgáiste anois i mbreis agus 20 oifigí den SBCA, ar féidir leo cabhrú le sealbhóirí morgáiste chun measúnú a dhéanamh ar thairiscint a rinne a n-iasachtóir morgáiste agus idirbheartaíocht a dhéanamh leis an iasachtóir, más gá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For homeowners who are facing court proceedings to repossess their homes, a national network of court mentors is now in place</seg></tuv>
+  <tuv xml:lang="ga"><seg>I dtaobh úinéirí tí a mbeidh imeachtaí cúirte i ndán dóibh chun a dtithe a athshealbhú, tá líonra náisiúnta de mheantóirí cúirte i bhfeidhm anois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This service offers support and advice on court proceedings, as well as direct referral back to MABS where a case is adjourned</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann an tseirbhís seo tacaíocht agus comhairle ar fáil i dtaobh imeachtaí cúirte, anuas ar atreorú díreach siar go dtí an SBCA, sa chás go ndéantar cás a chur ar athló</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>MABS works in close collaboration with the Insolvency Service of Ireland (ISI) to deliver the court mentor service.   Read more about these 2 services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Oibríonn an SBCA i gcomhar le Seirbhís Dócmhainneachta na hÉireann (SDÉ) chun seirbhís mheantóir cúirte a sholáthar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This service was launched in October 2016</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat níos mó a léamh faoin dá sheirbhís anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>MABS also provides money management education and produces a range of publications</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, soláthraíonn an SBCA oideachas bainistíochta airgeadais agus cuireann sé réimse foilseachán i dtoll a chéile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These and other useful resources, including a self-help tool, are available on mabs.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá fáil ar na hacmhainní seo agus ar acmhainní eile, treoir féinchabhrach ina measc, ar mabs.ie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>What you can do yourself</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cad is féidir a dhéanamh tú féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The most important step you can take is to contact your creditors immediately to let them know that you are having difficulties</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé fíor-thabhachtach dul i dteangmháil le do chreidiúnaithe agus fios a chur orthu go bhfuil fadhbanna agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Then you will be able to work with them to deal with the situation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ansin beidh tú in ann obair in éineacht leo chun dul i ngleic le do chuid fadhbanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Otherwise the problems and the pressure from creditors will just get worse</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seachas sin, rachadh na fadhbanna agus an brú ó do chreidiúnaithe in ndonas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can use the MABS self-help tool to work through the following steps:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir an treoir féinchabhrach a úsáid chun na céimeanna seo a leanúint:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Make a list of all your debts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déan liosta de do chuid fiachais go léir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Check that each debt is in your name</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seiceáil go bhfuil gach fiachas i d’ainm féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Identify the debts needing immediate attention (for example, mortgage arrears)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sainaithin na fiachais a dteastaíonn aird láithreach uatha (riaráistí morgáiste, mar shampla)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Get in touch with the lenders immediately - preferably in writing – to tell them that you are assessing your situation and ask them to put a temporary hold on your repayments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déan teagmháil leis na hiasachtóirí láithreach – is fearr seo a dhéanamh i scríbhinn – lena insint dóibh go bhfuil measúnú á dhéanamh agat ar do chás agus iarr orthu do chuid aisíocaíochtaí a chur ar coinneáil shealadach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is a sample letter on the MABS website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá litir shamplach ar láithreán gréasáin an SBCA</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>List how much money is coming into your household each week (or month) and how much is going out</seg></tuv>
+  <tuv xml:lang="ga"><seg>Liostaigh cé mhéid airgid atá ag teacht isteach i do theaghlach gach seachtain (nó gach mí) agus cé mhéid atá á chaitheamh agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can get useful documents like a blank budget sheet and spending diary (pdf) from the MABS website or ask for them through the MABS helpline</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú cáipéisí áisiúla a fháil ar nós bileog bhán bhuiséid agus dialann chaiteachais (pdf) ó láithreán gréasáin an SBCA nó is féidir leat iarraidh orthu trí líne chabhrach an SBCA</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Deal with the debt</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déileáil leis an bhfiachas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Write to the lender, making an offer of the amount you can afford to pay and explaining your financial situation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Scríobh chuig an iasachtóir, ina ndéanann tú tairiscint ar an méid is féidir leat a íoc agus ina míníonn tú do chás airgeadais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The MABS website has a sample letter of offer and blank financial statements</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá litir shamplach thairisceana agus ráitis bhána airgeadais ar láithreán gréasáin an SBCA</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Organise a method of paying the agreed amount</seg></tuv>
+  <tuv xml:lang="ga"><seg>Eagraigh modh chun an méid comhaontaithe a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can do this in various ways, such as direct debit or through internet banking</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú seo a dhéanamh ar bhealaí éagsúla, ar nós trí dhochar díreach nó baincéireacht idirlín</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>How MABS can help you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Conas is féidir le SBCA cabhrú leat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>MABS provides a confidential service and will not discuss your situation with anyone without your signed agreement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann SBCA seirbhís saor in aisce ar fáil agus ní phléifidh an comhairleoir airgid do chás le duine eile ar bith, ach amháin ma aontaíonn tú (i scríbhinn) go dtarlódh a leithéid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>MABS will give you information and support you in making decisions, but will not tell you what to do about your debts and payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabharfaidh SBCA faisnéis agus tacaíocht duit chun cinntí a dhéanamh, agus ní inseoidh sé duit cad atá le déanamh faoi do chuid fiachas agus íocaíochtaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are the person who decides</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is tusa an duine a dhéanann cinneadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you contact the MABS Helpline - see ' Where to apply' below - an adviser will talk you through your money concerns and give you some advice</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéanann tú teagmháil le Líne Chabhrach an SBCA – féach ‘Cá ndéanfaidh mé iarratas? ’ thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They can send you some information and materials to help you to address your money problems</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabharfaidh comhairleoir treoir duit i dtaobh do chuid buarthaí airgid agus cuirfidh sé/sí roinnt comhairle ort</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may be able to deal with the issues yourself at this stage, or you may need to see a money adviser face-to-face in a MABS office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh siad roinnt faisnéise agus ábhar a sheoladh chugat chun cabhrú leat dul i ngleic le do chuid fadhbanna airgid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The face-to-face service is by appointment only</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seirbhís trí choinne, amháin, is ea an tseirbhís seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you contact MABS, it is important to tell them about anything very urgent, for example, if you are being taken to court or your electricity is to be disconnected</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déan cinnte de, nuair a dhéanann tú teangmháil le SCBA, go n'insíonn tú dóibh faoi aon ní tabhachtach, mar shampla, má tá creidiúnaí ag cur cás cúirte ort nó má tá an comhlacht gáis nó leictreachais tar éis tú a ghearradh ón gcóras</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In cases like these, you may be able to get an emergency appointment</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcásanna mar seo, déanfar coinne éigeandála leat, de ghnáth</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To be able to help you, the MABS adviser will need as much information as possible about your financial situation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun cabhrú leat, caithfidh an comhairleoir airgid gach eolas is féidir a fháil mar gheall ar do chúinsí airgeadais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will need to collect any bills, statements, account books, payslips, or social welfare receipts that you have, as well as any letters that your creditors have sent, even if you haven’t opened them</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh ort gach bille, ráiteas, leabhar chuntais, duillín pá, nó admháil leasa shoisialaigh a chuimsiú, chomh maith le gach litir a sheol do chreidiúnaithe chugat, fiú munar éirigh leat go fóill iad a oscailt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Look at all your income and ensure that you are getting all your entitlements</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Súil a chaitheamh ar d’ioncam go léir agus cinntiú go bhfuil do chuid teidlíochtaí go léir á bhfáil agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Check through all your debts and ensure that you are the person who is liable for them</seg></tuv>
+  <tuv xml:lang="ga"><seg>• D’fhiachais go léir a sheiceáil agus cinntiú gur tú féin an duine atá faoi dhliteanas íoc astu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Help you to work out how much you need to cover your everyday needs</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cabhrú leat a dheimhniú cé mhéid a theastaíonn uait chun íoc as do chuid riachtanais laethúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Give you advice on budgeting</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Comhairle a chur ort ar bhuiséadú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Draw up a financial statement for use when dealing with your creditors</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ráiteas airgeadais a chur i dtoll a chéile a úsáidfear nuair atáthar ag déileáil le do chuid creidiúnaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Help you to decide which of your debts have the highest priority</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cabhrú leat cinneadh a dhéanamh ar na fiachais atá agat a dtugtar an tús áite dóibh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Help you to work out a payment plan – how much you can afford to pay each week off each debt</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cabhrú leat plean íocaíochta a dheimhniú – cé mhéid is féidir leat a íoc gach seachtain as gach fiachas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Negotiate with your creditors on your behalf, if you wish</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Déan idirbheartaíocht le do chuid creidiúnaithe ar do shon, más mian leat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Provide support while you deal with your debts</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tacaíocht a sholáthar fad a dhéileálann tú le do chuid fiachas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Refer you to other services and contact them on your behalf, if you wish</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Thú a atreorú chuig seirbhísí eile agus teagmháil a dhéanamh leo thar do cheann, más mian leat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Help to arrange to pay regular amount off your debts, as agreed with your creditors</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cabhrú leat méid rialta a íoc ó do chuid fiachas, faoi mar a comhaontaíodh le do chuid creidiúnaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Refer you to someone who can help with a personal insolvency option if appropriate</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tú a atreorú chuig duine éigin ar féidir leo cabhrú leat le roghanna um dhócmhainneacht phearsanta, más cuí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The services that MABS provides are free. You do not have to pay for any advice, assistance or information</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is seirbhís saor in aisce í SCBA agus níl aon táille maidir le faisnéis, comhairle nó cúnamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Use the MABS self-help tool as a starting point to assessing your situation and dealing with your debts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bain úsáid as an treoir féinchabhrach mar phointe tosaigh le do staid a mheas agus le deileáil le do chuid fiachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Ring the MABS Helpline: 0761 07 2000 (9am - 8pm, Monday - Friday) or email: helpline@mabs.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat freisin glao a chur ar Líne Chabhrach SCBA: 0761 07 2000 (Luan go hAoine idir 9rn agus 8in) nó ríomhphoist a sheol:adh chuig helpline@mabs.ie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Contact your local MABS office for an appointment to meet a money adviser</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat teagmháil a dhéanamh le d’oifig áitiúil SBCA chun coinne a dhéanamh le comhairleoir airgid</seg></tuv>
+</tu>
+</body>
+</tmx>

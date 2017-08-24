@@ -1,0 +1,409 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Mental health services use a multidisciplinary approach, where a number of professionals offer their particular skills in a co-ordinated and complementary way</seg></tuv>
+  <tuv xml:lang="ga"><seg>Glacann seirbhísí meabhairshláinte le cur chuige ildisciplíneach, áit a gcuireann gairmithe de chineálacha éagsúla a sainscileanna féin ar fáil ar bhealach comhordaithe comhlántach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your GP is often the first person you will seek help from</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go minic, is é an dochtúir ginearálta an chéad duine a dtéann daoine i dteagmháil leis agus iad ar lorg cabhrach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He/she will assess the problem and may either provide medication and monitor your condition or may refer you to a specialist, for example, psychiatrist, psychologist or counsellor, if necessary</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfaidh sé/sí measúnú ar an bhfadhb agus d’fhéadfadh go gcinnfeadh sé/sí cógas a chur ar fáil agus monatóireacht a dhéanamh ar do riocht nó d’fhéadfadh go n-atreoródh sé/sí thú chuig speisialtóir, e.g., síciatraí, síceolaí nó comhairleoir, más gá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your GP may be able to recommend a support group for the particular problem</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh go mbeadh do dhochtúir teaghlaigh in ann grúpa tacaíochta a mholadh duit i gcomhair na faidhbe atá i gceist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where others are involved in the patient's care (for example, psychiatrist, social worker, family members, etc.) your GP may liaise with them in order to provide you with the best overall care</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás go bhfuil daoine eile páirteach i gcúram an othair (e.g. síciatraí, oibrí sóisialta, baill teaghlaigh, etc.), d’fhéadfadh go rachadh do dhochtúir ginearálta i gcomhairle leo ar mhaithe leis an gcúram is fearr a chur ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A psychiatrist is a medical doctor that specialises in mental health</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is dochtúir leighis a dhéanann speisialtacht de mheabhairshláinte is ea síciatraí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Psychiatrists are responsible for the medical care of psychiatric patients (medication, physical symptoms, etc.) and are also involved in counselling</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá síciatraithe freagrach as cúram leighis othar síciatrach (cógas, siomtóim fhisiciúla, etc.). Bíonn siad páirteach i gcomhairleoireacht freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A psychiatrist usually works in a psychiatric hospital or unit or as part of a community care team but he or she can also be part of a private practice</seg></tuv>
+  <tuv xml:lang="ga"><seg>I bhformhór na gcásanna, oibríonn síciatraí in ospidéal síciatrach, in aonad síciatrach nó mar chuid d'fhoireann cúram phobail, ach is féidir leis/léi bheith fostaithe i gcleachtas príobháideach freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In most cases, your GP will refer you to a psychiatrist if he or she considers it necessary or if you request a referral</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chuid is mó de na cásanna, atreoróidh do dhochtúir teaghlaigh chuig síciatraí má cheapann sé é a bheith riachtanach nó má iarrann tú é</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A psychiatrist will assess the person, usually at a hospital out-patient clinic, form a diagnosis and treat the person accordingly</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfaidh síciatraí measúnú ar an duine, i gclinic othar seachtrach in ospidéal de ghnáth, tiocfaidh sé ar dhiagnóis agus cuirfidh sé cóireáil ar an duine dá réir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This may involve treatment with medication or referral to a member of the mental health team</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é a d’fhéadfadh bheith i gceist leis an gcóireáil sin ná cógas a sholáthar nó an t-othar a atreorú chuig ball den fhoireann mheabhairshláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a psychiatrist thinks it necessary, he or she may suggest that a patient be admitted to hospital</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má cheapann an síciatraí é a bheith riachtanach, d'fhéadfadh sé/sí a mholadh go ligfear an t-othar isteach san ospidéal. De ghnáth, ní</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This suggestion is generally only made if a person's difficulties are severe</seg></tuv>
+  <tuv xml:lang="ga"><seg>dhéantar an moladh sin ach amháin i gcásanna ina bhfuil deacrachtaí tromchúiseacha ag an duine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A psychologist is trained in the study of human behaviour and tries to explain feelings, thoughts and behaviour</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le síceolaithe measúnú agus cóireáil de chineál síceolaíoch a chur ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Psychologists can provide assessment and treatment of a psychological nature that includes personality assessment through a structured interview, assessment of a wide range of psychological problems – anxiety, depression, self esteem issues, psycho-sexual and marital problems</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é a bhíonn i gceist leis sin ná measúnú pearsantachta a dhéanamh trí agallamh struchtúrtha agus measúnú a dhéanamh ar raon leathan fadhbanna síceolaíocha - imní, dúlagar, fadhbanna féinmheasa, fadhbanna sícighnéasacha agus fadhbanna pósta ina measc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They can also help patients examine the effects their illness is having on their lives and methods of coping with those effects</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leo cabhrú le hothair freisin scrúdú a dhéanamh ar an tionchar a imríonn an tinneas ar a saol agus modhanna a mholadh dóibh chun dul i ngleic leis an tionchar sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Bringing a patient closer to an understanding of his or her illness is a key aim of a psychologist</seg></tuv>
+  <tuv xml:lang="ga"><seg>Aidhm thábhachtach a bhíonn ag síceolaí is ea cabhrú leis an othar a t(h)inneas a thuiscint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When involved in the area of mental health, the psychologist usually works as a clinical, community or counselling psychologist, and unless also medically qualified, does not prescribe medication</seg></tuv>
+  <tuv xml:lang="ga"><seg>Agus é ag obair sa réimse meabhairshláinte, is minic a oibríonn an síceolaí mar shíceolaí cliniciúil, mar shíceolaí pobail nó mar shíceolaí comhairleoireachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The clinical psychologist has a specialist qualification in mental health and works as part of the mental health team in a unit or hospital and is involved in assessment and counselling therapy</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá cáilíocht speisialtóra i meabhairshláinte ag síceolaí cliniciúil agus oibríonn sé mar chuid den fhoireann mheabhairshláinte in aonad nó in ospidéal. Pléann sé le measúnú agus le teiripe chomhairleoireachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Family therapy may be provided where appropriate and a particular approach may be used for specific problems, such as a cognitive-behavioural approach for phobias</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirtear teiripe theaghlaigh ar fáil nuair is cuí agus d’fhéadfadh go nglacfaí le cur chuige ar leith chun dul i ngleic le fadhbanna ar leith lena linn – mar shampla, glactar le cur chuige iompraíochta cognaíche i gcás fóibí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Referral is often through a GP or psychiatrist, but self-referral is possible</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is trí dhochtúir teaghlaigh nó trí shíciatraí a atreoraítear othar chuig síceolaí cliniciúil de ghnáth, ach is féidir le duine é féin a atreorú freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The community psychologist has a clinical qualification and works as part of a community-based team with individuals such as social workers, speech therapists and community welfare officers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá cáilíocht chliniciúil ag síceolaí pobail agus oibríonn sé mar chuid d'fhoireann phobalbhunaithe in éineacht le hoibrithe sóisialta, le teiripeoirí urlabhra agus le hoifigigh leasa pobail</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The community psychologist is involved in assessing and working with those with a wide range of problems, including children with behavioural, educational and other difficulties</seg></tuv>
+  <tuv xml:lang="ga"><seg>Pléann síceolaí pobail le measúnú a dhéanamh orthu siúd a bhfuil raon leathan fadhbanna acu, lena n-áirítear leanaí a bhfuil deacrachtaí iompair, deacrachtaí oideachais agus deacrachtaí eile acu, agus le bheith ag obair leis na daoine sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Counselling psychology, as a specialist area, encompasses a broad range of practices that help people improve their well being, alleviate distress and maladjustment, resolve crises, and increase their ability to live more highly functioning lives</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuimsíonn síceolaíocht chomhairleoireachta, mar limistéar speisialtóra, réimse fairsing de chleachtais a chabhraíonn le daoine feabhas a chur ar a bhfolláine, anacair agus mí-oiriúint a fhuascailt, géarchéimeanna a réiteach, agus a gcumas a mhéadú chun saol níos ardfheidhiúla a chaitheamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Counselling psychologists can be found working in diverse areas such as schools and colleges, industrial workplaces and health services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir teacht ar shíceolaithe comhairleoireachta ag oibriú i limistéir fhairsinge ar nós scoileanna agus coláistí, áiteanna oibre tionsclaíocha agus seirbhísí sláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Behavioural therapy works on the premise that you can change what people do by teaching them to respond to things in a different way</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá teiripe iompair bunaithe ar an teoiric gur féidir leat na nithe a dhéanann daoine a athrú trí mhúineadh dóibh conas freagairt do rudaí ar bhealach éagsúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Behavioural therapy aims to help the patient control undesirable habits or irrational fears and can be used in the treatment of behavioural conditions like eating disorders and phobias</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an aidhm atá le teiripe iompraíochta ná cabhrú leis an othar smacht a fháil ar ghnásanna neamh-inmhianaithe nó ar ábhair neamhréasúnacha eagla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In many cases, behaviours can be learned or unlearned through basic conditioning techniques</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir í a úsáid chun riochtaí iompraíochta ar nós neamhoird itheacháin agus fóibí a chóireáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Behavioural therapy uses such techniques as aversive conditioning, where unwanted habits are paired with unpleasant stimuli, and systematic desensitisation, where a stimulus that causes anxiety is paired with a pleasant one</seg></tuv>
+  <tuv xml:lang="ga"><seg>I mórán cásanna, is féidir iompar a fhoghlaim nó a dhearmad trí leas a bhaint as bunteicnící riochtaithe. Baineann teiripe iompraíochta leas as riochtú dochmaitheach, rud trína ndéantar nasc idir gnásanna míthaitneamhacha, agus as dí-íogrú córasach, rud trína ndéantar nasc idir rud is cúis le himní agus rud taitneamhach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some behavioural therapists may also be psychiatrists or psychologists but this is not necessarily the case</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn roinnt teiripeoirí iompraíochta ina síciatraithe nó ina síceolaithe, ach ní mar sin a bhíonn i gcónaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They may be people like psychiatric nurses or social workers who have received the relevant training to work in this area</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh go mbeadh daoine eile ag obair sa réimse seo, ar nós altraí síciatracha nó oibrithe sóisialta atá tar éis oiliúint ábhartha a fháil ina leith. Cé go n-úsáidtear an cineál</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>While this kind of therapy is frequently used in the treatment of behaviour disorders, it may not be available in all regions</seg></tuv>
+  <tuv xml:lang="ga"><seg>sin teiripe go minic chun neamhoird iompraíochta a chóireáil, b'fhéidir nach mbeidh sé ar fáil i ngach réigiún</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Cognitive behavioural therapy (CBT) aims to reduce dysfunctional emotions and behaviour by changing behaviour and thinking patterns</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an aidhm atá le teiripe iompraíochta cognaíche (TIC) ná mothúcháin mhífheidhmiúla agus iompar mífheidhmiúil a laghdú trí phátrúin iompair agus smaointeoireachta a athrú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Professionals who specialise in this kind of therapy believe that a change in symptoms and behaviour follows a change in thinking</seg></tuv>
+  <tuv xml:lang="ga"><seg>Creideann gairmithe a dhéanann speisialtacht den chineál sin teiripe gur as athrú i smaointeoireacht a thagann athrú i siomtóim agus in iompar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This change can be brought about in a number of ways, including the practice of new behaviours and analysis of faulty thinking patterns</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir an t-athrú sin a dhéanamh ar roinnt bealaí éagsúla, lena n-áirítear cineálacha nua iompair a chleachtadh agus patrúin lochtacha smaointeoireachta a anailísiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The purpose of CBT is to reduce distress or unwanted behaviour by undoing this learning or by providing new, more adaptive learning</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é cuspóir TIC ná anacair nó iompar gan iarraidh a laghdú tríd an bhfoghlaim sin a dhearmad nó trí fhoghlaim nua níos oiriúnaithí a chur ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Again, cognitive behavioural therapists may not all be psychologists or psychiatrists and you should check with your Health Service Executive (HSE) Area to see if the service is available in your area</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar an gcéanna, seans nach mbeidh gach teiripeoir iompraíochta cognaíche ina síceolaí ná ina síciatraí agus ba chóir duit teagmháil a dhéanamh le Limistéar áitiúil Fheidhmeannacht na Seirbhíse Sláinte (FSS) chun a fháil amach an bhfuil an tseirbhís ar fáil i do cheantar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are many forms of counselling available for a wide range of problems and many counsellors specialise in particular areas such as addiction or bereavement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá a lán cineálacha comhairleoireachta le fáil do raon leathan fadhbanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All approaches emphasise non-judgemental, attentive listening and respect for the client</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann mórán comhairleoirí speisialtacht de réimsí ar leith, mar shampla andúil nó bás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Counselling aims to enable people to take control of their own lives, and the counsellor may not adhere to one particular theory</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagtar béim i ngach cur chuige go n-éistear leis an gcliant ar bhealach aireach neamhbhreithiúnach agus go dtugtar meas dó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Self-referral is the usual route to counselling, although a GP, psychiatrist or trusted friend may be able to recommend someone suitable. Some counsellors are qualified psychologists, but many are not</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is í an aidhm atá le comhairleoireacht ná deis a thabhairt do dhaoine smacht a fháil ar a saol féin, agus seans nach gcloífidh an comhairleoir le teoiric ar leith amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Those who are not may have a basic degree or training in other areas and/or relevant work experience (for example, teaching, nursing, etc.) plus a counselling qualification</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é féin-atreorú an gnáthbhealach a leantar chun dul i mbun comhairleoireachta, cé gur féidir le dochtúir teaghlaigh, le síciatraí nó le dlúthchara bheith in ann duine oiriúnach a mholadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These qualifications can vary from Masters degrees to short-term courses</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá roinnt comhairleoirí ina síceolaithe cáilithe, ach ní hamhlaidh atá an scéal i gcás cuid mhór acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is important to make sure you are happy with the training and qualifications of any counsellor that you choose</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás na ndaoine siúd nach síceolaithe cáilithe iad, seans go ndearna siad bunchéim nó bunoiliúint i réimsí eile agus/nó go bhfuil taithí oibre ábhartha acu (e.g., teagasc, altranas), in éineacht le cáilíocht chomhairleoireachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Counselling is often one session per week and tends to be short-term rather</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn idir chéimeanna Máistreachta agus</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>than longer-term, although this can vary</seg></tuv>
+  <tuv xml:lang="ga"><seg>chúrsaí gearrthéarmacha i gceist anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Addiction counsellors provide assessment, counselling, information and treatment services for people suffering from alcohol, drugs and gambling addictions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann comhairleoirí andúile seirbhísí measúnaithe, comhairle, faisnéise agus cóireála ar fáil do dhaoine atá ag fulaingt andúile san alcól, i ndrugaí nó i gcearrbhachas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Before receiving counselling for addiction, a patient must go through a detoxification programme, if necessary</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sula bhfaigheann sé comhairleoireacht le haghaidh andúile, ní mór d’othar clár díthocsainithe a chur i gcrích, más cuí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The patient is then referred to the community-based addiction treatment service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar an t-othar a atreorú ansin chuig seirbhís phobalbhunaithe um chóireáil andúile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An individual and group counselling approach is commonly used with an emphasis on the consequences of the addict's behaviour</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an cur chuige is coitianta ná comhairleoireacht a dhéanamh duine le duine nó i ngrúpaí agus leagtar béim ar iarmhairtí iompar an andúiligh lena linn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The main aspect of treatment examines the triggering factors that lead to the development of the addiction</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féachann an phríomhghné den chóireáil ar na tosca a bhí ina gcúis le forbairt na handúile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Target goals are set to try and establish new patterns of healthy behaviour</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagtar spriocanna síos chun iarracht a dhéanamh pátrúin shláintiúla iompair a bhunú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An important part of the treatment is the involvement of a family member, which can help to achieve these targets</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuid an-tábhachtach den chóireáil is ea rannpháirtíocht a fháil ó dhuine de theaghlach an andúiligh, rud a chabhraíonn leis na spriocanna sin a bhaint amach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The programme lasts for an average of six to eight weeks and is followed by an after care service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar an meán, maireann an clár idir sé seachtaine agus ocht seachtaine. Cuirtear seirbhís iarchúraim ar fáil ina dhiaidh sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Psychotherapy tends to be more in-depth than counselling</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is minic a bhíonn síciteiripe níos doimhne ná comhairleoireacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is based on the idea that the less aware we are of our motives, feelings and actions, the more they control us and the more we stay stuck in old patterns that may be harmful to us</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sí bunaithe ar na smaointe seo a leanas: dá laghad eolas atá againn ar ár gceannfháthanna, ar ár mothúcháin agus ar ár ngníomhartha, is é is mó an tionchar a imríonn siad orainn; agus dá fhaide a leanaimid seanphatrúin, is é is mó dochar a dhéanfaidh siad dúinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A psychotherapist can help patients to examine their subconscious mind</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le síciteiripeoir cabhrú le hothair a n-aigne fho-chomhfhiosach a scrúdú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>By bringing any unconscious motives, fears and feelings to light and dealing with them, patients can often get relief from their symptoms</seg></tuv>
+  <tuv xml:lang="ga"><seg>Trí aon cheannfháthanna, aon ábhair eagla agus aon mhothúcháin a thabhairt chun solais, agus trí iad sin a shárú, is féidir le hothair sólás a fháil óna gcuid siomtóim i mórán cásanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Psychotherapists usually undertake a long postgraduate training that requires trainees to undergo therapy, often twice per week, for several years</seg></tuv>
+  <tuv xml:lang="ga"><seg>De ghnáth, tugann síciteiripeoirí faoi oiliúint fhada iarchéime, rud ina n-éilítear ar oiliúnaithe dul faoi theiripe - dhá uair in aghaidh na seachtaine i mórán cásanna - ar feadh roinnt blianta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The techniques and interventions used by the psychotherapist vary according to the theoretical framework within which he or she is working</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ar an gcreat teoiriciúil ina mbíonn sé nó sí ag obair a bhíonn na teicnící agus idirghabhálacha a úsáideann an síciteiripeoir ag brath</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The psychiatric nurse plays a central role in the care of the psychiatric patient, both in a hospital setting and in the community</seg></tuv>
+  <tuv xml:lang="ga"><seg>Imríonn altra síciatrach ról tábhachtach i gcúram an othair shíciatraigh, san ospidéal agus sa phobal araon</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He or she works within a psychiatric service as part of a health care team</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is idir chúram fisiciúil agus chúram síceolaíoch a chuireann altraí ar fáil dá n-othar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Nurses provide both physical and psychological care to their patients and can also provide essential support and encouragement to the patients' families</seg></tuv>
+  <tuv xml:lang="ga"><seg>Uaireanta, tugann siad tacaíocht agus spreagadh riachtanach do theaghlaigh na n-othar freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The nurse's activities are varied but can include:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is éagsúil a bhíonn cúraimí an altra, ach bíonn na nithe seo a leanas i gceist leo:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Education of student nurses and community groups</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Oideachas a chur ar altraí faoi oiliúint agus ar ghrúpaí pobail</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Family education and support</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Oideachas a chur ar theaghlaigh agus tacaíocht a thabhairt dóibh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Group therapies, individual counselling</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Grúptheiripe, comhairleoireacht duine le duine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Acting as a liaison with in-patient services, GPs, strategy and voluntary organisations</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Idirchaidreamh a dhéanamh le seirbhísí othar cónaithe, le dochtúirí teaghlaigh, le heagraíochtaí straitéise agus le heagraíochtaí deonacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Organisation of admissions to hospital and reception</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ligean isteach san ospidéal agus glacadh le hothair a eagrú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Initial assessment of referrals from GPs</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Measúnú tosaigh a dhéanamh ar atreoruithe ó dhochtúirí teaghlaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The community psychiatric nurse usually follows up patients on discharge from hospital, calling to their homes and attending out-patients' clinics and day care centres</seg></tuv>
+  <tuv xml:lang="ga"><seg>De ghnáth, déanann an t-altra síciatrach pobail teagmháil le hothair tar éis iad a scaoileadh ón ospidéal, é ag tabhairt cuairt ar a dtithe agus ag freastal ar chlinicí othar seachtrach agus ar ionaid chúram lae</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Community psychiatric nurses are now becoming involved in patients' rehousing needs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn altraí síciatracha pobail ag éirí páirteach anois i riachtanais athchóiríochta othar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Mental health social workers carry out a range of functions as members of a multi-disciplinary team</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann oibrithe sóisialta meabhairshláinte raon feidhmeanna éagsúla i gcrích mar chuid d’fhoireann ildisciplíneach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Individual counselling is one of their key tasks in assisting those with a variety of emotional difficulties</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá comhairleoireacht duine le duine ar cheann de na príomhchúraimí atá orthu maidir le cúnamh a thabhairt do dhaoine a bhfuil cineálacha éagsúla deacrachtaí mothúchánacha acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Another key function is 'psycho-education'</seg></tuv>
+  <tuv xml:lang="ga"><seg>Feidhm thábhachtach eile is ea ‘síocoideachas’</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Psycho-education refers to work with individuals and their families to explain aspects of the mental illness</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tagraíonn síocoideachas don obair a dhéantar le daoine aonair agus lena dteaghlach chun gnéithe de mheabhairghalar a mhíniú dóibh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Psycho-education also involves offering coping strategies appropriate to the specific mental illness</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é atá i gceist le síocoideachas freisin ná straitéisí déileála atá oiriúnach don mheabhairghalar lena mbaineann a chur ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Given that mental health service provision is sometimes fragmented, mental health social workers are committed to 'case management' or 'care management'</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tagraíonn sé sin do bheith ag obair le daoine ar mhaithe le comhleanúnachas cúraim agus comhordú seirbhísí a chinntiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This refers to working with individuals with a view to ensuring continuity of care and the co-ordination of services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cabhraíonn sé sin lena bhfolláine agus le caighdeán a mbeatha a uasmhéadú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This helps to maximise their wellbeing and quality of life</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é atá i gceist le bainistíocht cáis ná</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Case management involves the integration of health services with a range of other services</seg></tuv>
+  <tuv xml:lang="ga"><seg>seirbhísí sláinte a chomhtháthú le raon seirbhísí eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Examples include, housing, social welfare, job training and employment, liaison with statutory and voluntary agenices, etc</seg></tuv>
+  <tuv xml:lang="ga"><seg>I measc samplaí de na seirbhísí sin, tá tithíocht, leas sóisialach, oiliúint poist agus fostaíocht, idirchaidreamh le gníomhaireachtaí reachtúla agus deonacha, etc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All of these links may contribute to positive mental health</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh gach ceann de na naisc sin cur le meabhairshláinte dhearfach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Occupational therapists provide services to people whose ability to cope with everyday activities is threatened or impaired in some way by physical, psychological or developmental problems</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann teiripeoirí saothair seirbhísí ar fáil do dhaoine a bhfuil a gcumas chun déileáil le gníomhaíochtaí laethúla faoi bhagairt nó faoi lagú ar shlí éigin ag fadhbanna fisiciúla, síceolaíocha nó forbartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Occupational therapists can assess and treat anyone (adult or child) who has practical difficulties due to mental illness, accidental injury, arthritis, cerebral palsy, learning difficulties, stroke, and other congenital, developmental, degenerative or neurological conditions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le teiripeoirí saothair measúnú agus cóireáil a dhéanamh ar dhuine ar bith (duine fásta nó leanbh) a bhfuil deacrachtaí praiticiúla aige de bharr meabhairghalair, gortú timpisteach, airtrítis, pairilis cheirbreach, deacrachtaí foghlama, stróc nó de bharr riochtaí eile comhbheirthe, forbartha, meathlúcháin nó néareolaíocha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Occupational therapy aims to enable the person to have as independent, productive and satisfying a lifestyle as possible</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an aidhm atá le teiripe shaothair ná cur ar chumas an duine stíl mhaireachtála atá chomh neamhspleách, chomh táirgiúil agus chomh sásúil agus is féidir a bheith aige</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Treatment can include self care, personal development, mobility and access, skills and training, home management, disability awareness, work preparation, directed play, stress management and compensatory techniques</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é a d’fhéadfadh a bheith i gceist le cóireáil ná féinchúram, forbairt phearsanta, soghluaisteacht agus rochtain, scileanna agus oiliúint, bainistíocht bhaile, feasacht ar mhíchumas, ullmhúchán don obair, súgradh stiúrtha, bainistíocht struis agus teicnící cúitimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Vocational training is a service provided for people whose lives have been disrupted by mental health problems and who wish to make a fresh start</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é is gairmoiliúint ann ná seirbhís a chuirtear ar fáil do dhaoine ar chuir fadhbanna meabhairshláinte isteach ar a saol agus ar mian leo tús nua a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It aims to provide participants with the skills, knowledge and attitudes necessary for progression into employment, further training, education, and self-employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an aidhm atá léi na scileanna, an t-eolas agus an dearcadh is gá a thabhairt do rannpháirtithe chun gur féidir leo dul i mbun fostaíochta, breisoiliúna, oideachais agus féinfhostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It also aims to provide participants with other work opportunities, the opportunity to rebuild self-confidence and restore self-worth and the opportunity to make new friends and develop hobbies and pastimes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an aidhm atá léi freisin ná deiseanna eile oibre a thabhairt do rannpháirtithe, deis a thabhairt dóibh féinmhuinín a athchothú agus féinluach a athghnóthú agus deis a thabhairt dóibh cairde nua a dhéanamh agus cineálacha caitheamh aimsire a fhorbairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A Vocational Training Centre provides activities such as woodwork, metalwork, office procedures, arts and crafts and life skills (for example, interpersonal skills and personal development)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Soláthraíonn Ionad Gairmoiliúna gníomhaíochtaí ar nós adhmadóireachta, miotalóireachta, nósanna imeachta oifige, ealaíon agus ceardaíochta agus scileanna saoil (e.g., scileanna idirphearsanta agus forbairt phearsanta)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An individual programme is agreed with each trainee</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar clár ar leith a aontú le gach oiliúnaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Referral is usually through a professional such as a psychiatrist, but self-referral is also possible</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is trí ghairmí ar nós síciatraí a dhéantar an t-atreorú de ghnáth, ach is féidir le duine é féin a atreorú freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>While some trainers are mental health professionals, such as psychiatric nurses, others may not have specific medical training</seg></tuv>
+  <tuv xml:lang="ga"><seg>ina ngairmithe meabhairshláinte, amhail altraí síciatracha, níl oiliúint mhíochaine ar leith déanta ag gach duine acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You do not have to pay to use the services of mental health professionals who work in the public health system</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní gá duit íoc as úsáid a bhaint as seirbhísí gairmithe meabhairshláinte a oibríonn sa chóras sláinte poiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you decide to use private mental health professional services, the cost will vary greatly</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh difríocht shuntasach sa chostas má chinneann tú úsáid a bhaint as seirbhísí gairmithe príobháideacha meabhairshláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should check with the individuals involved for more details</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir duit dul i dteagmháil leis na daoine atá páirteach le haghaidh tuilleadh faisnéise a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Contact your GP to access to mental health professionals, both public and private</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déan teagmháil le do dhochtúir teaghlaigh chun rochtain a fháil air ghairmithe meabhairshláinte, idir ghairmithe poiblí agus ghairmithe príobháideacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some private counsellors, psychologists, etc., can be approached directly</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir teagmháil dhíreach a dhéanamh le roinnt comhairleoirí, síceolaithe, etc., atá príobháideach</seg></tuv>
+</tu>
+</body>
+</tmx>

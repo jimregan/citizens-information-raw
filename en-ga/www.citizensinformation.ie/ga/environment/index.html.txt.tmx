@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>• Planning and development in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cúrsaí Pleanála agus Forbartha in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Waste management and recycling</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bainistiú Dramhaíola agus Athchúrsáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Animal welfare and control</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Leas agus Smachtú Ainmhithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This document describes the purpose of the Census of Population and outlines how it is run</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar cur síos anseo ar Dhaonáireamh na hÉireann agus ar an mbealach ina riartar é</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most Read in "Environment"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ábhar is mó éilimh i "Comhshaol"</seg></tuv>
+</tu>
+</body>
+</tmx>

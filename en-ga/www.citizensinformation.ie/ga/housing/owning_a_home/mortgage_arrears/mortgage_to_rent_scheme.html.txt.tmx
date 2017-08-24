@@ -1,0 +1,261 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Under the national mortgage-to-rent scheme, people who are having trouble paying their mortgage to a private lender can switch from owning their home to renting their home as social tenants of a housing association, which buys the home from the lender</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoin scéim náisiúnta um morgáiste-chuig-cíos, féadfaidh daoine a bhfuil deacrachtaí acu a morgáistí a íoc le h-iasachtóirí príomháideacha aistriú ó úinéireacht a bheith acu ar a dteach go dtí a dteach a ligean ar cíos mar thionóntaí sóisialacha le comhlachas tithíochta, a cheannaíonn an teach ón iasachtóir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you take up the mortgage-to-rent option, you will no longer own your home or have any financial interest in it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má ghlacann tú leis an rogha um morgáiste-chuig-cíos, ní bheidh úinéireacht agat ar do theach a thuilleadh ná aon leas airgeadais agat ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some of these changes took effect immediately and some are due to take effect later in 2017</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá scéim um morgáiste-chuig-cíos ar bun in údaráis áitiúla freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A number of pilot projects will be initiated during 2017 with lenders, local authorities and investors who are interested in engaging in a long-term lease arrangement</seg></tuv>
+  <tuv xml:lang="ga"><seg>I measc na mbearta nua chun tacú le daoine i riaráiste morgáiste, a fógraíodh an 13 Bealtaine 2015, tá leathnú na scéime cíos in ionad morgáiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The national mortgage-to-rent scheme is for people whose mortgage is with a private lender</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is do dhaoine a bhfuil morgáiste acu le hiasachtóirí príobháideacha an scéim náisiúnta cíos in ionad morgáiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is a separate mortgage-to-rent option for local authority borrowers in arrears</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá rogha cíos in ionad morgáiste ar leithligh d’iasachtaithe údaráis áitiúil i riaráiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For you to qualify for the national mortgage-to-rent scheme, your mortgage, home and household must meet detailed eligibility criteria, as follows:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun cáiliú don scéim cíos in ionad morgáiste ní mór go gcomhlíonfadh do mhorgáiste, do theach agus do líon tí critéir incháilitheachta mhionshonraithe, mar seo a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You must be unable to make the repayments on your mortgage loan and your lender must have decided that this situation is unlikely to change in the future</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní mór duit gan a bheith in ann d’aisíocaíochtaí ar d’iasacht morgáiste a dhéanamh agus ní mór gur chinn d’iasachtóir gur dóigh nach dtiocfadh athrú ar sin sa todhchaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You must be engaging with your lender to try to find a solution</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní mór duit a bheith i dteagmháil le d’iasachtóir agus iarracht a dhéanamh teacht ar réiteach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You must have completed the Mortgage Arrears Resolution Process (MARP) with your lender</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní mór go mbeadh an Próiseas Réitigh do Riaráistí Morgáiste (MARP) curtha i gcrích agat le d’iasachtóir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• In general, your property must be in negative equity</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Go ginearálta, ní mór go mbeadh do mhaoin i gcothromas diúltach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, a property in marginal positive equity may now be considered for inclusion in the scheme, if that equity is no more than 10% of the open market value, to a maximum of €15,000</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach d’fhéadfaí maoin atá i gcothromas dearfach imeallach a mheas anois a bheith san áireamh sa scéim, más rud é nach bhfuil an cothromas nach mó ná 10% den luach margaidh oscailte, go huasmhéid €15,000</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Your property must suit your needs – you must not be over or under-accommodated in accordance with local authority guidelines, plus one bedroom (this will increase to 2 bedrooms, following the review of the scheme)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní mór go bhfeilfeadh do mhaoin do chuid riachtanas – ní chóir go mbeifeá fo-chóirithe i gcomhréir le treoirlínte an údaráis áitiúil, móide seomra leapa amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Depending on the type and location of your property, it must not exceed a certain value (increased in February 2017) as set out in the following table:</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag brath ar chineál agus suíomh do mhaoine, ní mór go mbeadh sé nach mó ná luach áirithe (arna méadú in 2015) mar atá leagtha amach sa tábla seo a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Type of property │Location │Maximum value (from February 2017) │Maximum value (before February 2017) │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Cineál na maoine │Suíomh │Uasluach │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│House │Dublin, Kildare, Meath, Wicklow, Louth, Cork and Galway │€365,000 │€350,000 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Teach │Baile Átha Cliath, Cill Dara, An Mhí, Cill Mhantáin, Lú, Corcaigh agus Gaillimh │€350,000 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Apartment or townhouse │Dublin, Kildare, Meath, Wicklow, Louth, Cork and Galway │€310,000 │€300,000 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Árasán nó teach cathrach │Baile Átha Cliath, Cill Dara, An Mhí, Cill Mhantáin, Lú, Corcaigh agus Gaillimh │€300,000 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│House │Elsewhere in the State │€280,000 │€250,000 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Teach │Áiteanna eile sa Stát │€250,000 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Apartment or townhouse │Elsewhere in the State │€210,000 │€190,000 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Árasán nó teach cathrach │Áiteanna eile sa Stát │€190,000 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You must qualify for social housing</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní mór a bheidh incháilithe do thithíocht shóisialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As part of this requirement, your net household income must not exceed certain limits, depending on which part of the State you live in and how many adults and children there are in your household</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar chuid den riachtanas sin, níor chóir go mbeadh do ghlanioncam líon tí a bheith os cionn teorainneacha ar leith, ag brath ar cén chuid den Stát ina gcónaíonn tú agus cá mhéad duine fásta agus leanbh atá sa líon tí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The income limits for different locations and households are in this table (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá teorainneacha ioncaim i leith na suíomhanna éagsúla le feiceáil sa tábla seo (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Net household income is your household income after taxes and social insurance have been taken off</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ionann go ghlanioncam líon tí agus d’ioncam i ndiaidh cánacha agus árachas sóisialta a bhaint amach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You must not own any other property or have assets in excess of €20,000</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní mór nach bhfuil aon mhaoin eile agat nó aon sócmhainní sa bhreis ar €20,000</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You must have a long-term right to remain in the State (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní mór go bhfuil ceart fadtéarma agat chun fanacht sa Stát (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must get legal and financial advice before the mortgage-to-rent process can go ahead</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit comhairle dhlíthiúil agus airgeadais a fháil sular féidir leis an bpróiseas um morgáiste-chuig-cíos leanúint ar aghaidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your lender will pay up to €500 for legal advice</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocfaidh d’iasachtóir a mhéid le €500 le haghaidh comhairle dlí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you wish, your lender will also pay €250 for you to get financial advice from an accountant on the Mortgage Arrears Information and Advice Service panel</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mian leat, íocfaidh d’iasachtóir €250 ar do shon chun comhairle dlí a fháil ó chuntasóir ar phainéal na Seirbhíse Faisnéise agus Comhairle ar Riaráistí Morgáiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Money Advice and Budgeting Service (MABS) can provide debt advice, as well as general information on the scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh an tSeirbhís Bhuiséadta agus Chomhairle Airgid (MABS) comhairle faoi fhiachas a chur ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Changing your status from owner to tenant of your home involves a complex set of legal and financial arrangements, all of which must be signed off before the transfer of property takes place</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn sraith chasta de shocruithe dlíthiúla agus airgeadais i gceist le do stádas a athrú ó úinéir go tionónta do thí, agus is gá gach ceann díobh a shíniú sular n-aistreofar an réadmhaoin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When all of these arrangements have been agreed, including the purchase price of your home (see below) you voluntarily surrender possession of your home to your mortgage lender</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a dhéantar comhaontú ar na socruithe go léir seo, praghas ceannaigh do thí san áireamh (féach thíos), tugann tú suas seilbh do thí ar bhonn deonach chuig d’iasachtóir morgáiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The lender immediately sells your home to a housing association, who will then rent it to you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann d’iasachtóir do theach a dhíol láithreach le comhlachas tithíochta, a dhéanfaidh é a ligean ar cíos leat ansin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>See ‘Housing associations’ below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féach ‘Comhlachais tithíochta’ thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Purchase price of your home</seg></tuv>
+  <tuv xml:lang="ga"><seg>Praghas ceannaigh do thí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Before your home can be sold to the housing association, it must be valued independently and the lender and the housing association must agree a price</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sular féidir do theach a dhíol leis an gcomhlachas tithíochta, ní mór luacháil neamhspleách a dhéanamh air agus ní mór don iasachtóir agus don chomhlachas comhaontú a dhéanamh ar phraghas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The price will be based on several factors, including the market valuation of the property and the cost of any necessary repairs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bunófar an praghas ar roinnt tosca, ina measc luacháil mhargaidh na réadmhaoine agus costas aon deisiúchán riachtanach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the lender and the housing association cannot agree a price, the arrangement will not go ahead</seg></tuv>
+  <tuv xml:lang="ga"><seg>Murar féidir leis an iasachtóir agus an comhlachas tithíochta comhaontú a dhéanamh ar phraghas, ní leanfar ar aghaidh leis an socrú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The proceeds from the sale of your home to the housing association will go towards your mortgage debt and you come to an arrangement with your lender for the remaining balance that you owe, if any</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rachaidh fáltais dhíol do thí leis an gcomhlachas tithíochta i dtreo d’fhiachais mhorgáiste agus beidh ort comhaontú a dhéanamh le d’iasachtóir maidir leis an iarmhéid atá fágtha atá le híoc agat, más ann dó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This remaining balance is now an unsecured debt</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fiachas neamhurraithe atá san iarmhéid seo anois atá fanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(A secured debt is a loan on which goods or property are available as security against non-payment – for example a housing mortgage, where you offer the property as security and it may be repossessed if you cannot pay the mortgage.)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Iasacht atá i bhfiachas urraithe ar a bhfuil earraí nó réadmhaoin ar fáil mar urrús i leith neamhíocaíochta – mar shampla, morgáiste tithíochta, sa chás go gcuireann tú an réadmhaoin ar fáil mar urrús agus féadtar í a athshealbhú murar féidir leat an morgáiste a íoc.)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will no longer own your property but you can continue living in your home as a social housing tenant and you will have a tenancy agreement with the housing association</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bheidh do mhaoin faoi d’úinéireacht a thuilleadh, ach féadfaidh tú leanúint ort cónaí i do theach mar thionónta tithíochta sóisialta agus beidh comhaontú tionóntachta agat leis an gcomhlachas tithíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As with all sales of property since 1 January 2010, the date of sale, price and address of your home will be placed on the Residential Property Price Register, which is published by the Property Services Regulatory Authority</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar a dhéantar i gcás gach réadmhaoine a díoltar ó 1 Eanáir 2010 amach, cuirfear dáta an díolacháin, praghas agus seoladh do thí ar an gClár Praghsanna Réadmhaoine Cónaithe, arna fhoilsiú ag an Údarás Rialála Seirbhísí Maoine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your financial situation improves, you will have an option to buy your home back from the housing association after 5 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má thagann feabhas ar do chás airgeadais, beidh sé de rogha agat an teach a cheannach ar ais ón gcomhlachas tithíochta tar éis tréimhse 5 bliana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A housing association is a registered charity and an independent not-for-profit organisation which has been approved to provide and manage social housing</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is carthanacht chláraithe comhlachas tithíochta agus is eagraíocht neamhbhrabúsach iad a faomhadh chun tithíocht shóisialta a chur ar fáil agus a bhainistiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Housing associations aim to provide housing for those who cannot meet their housing needs from their own resources at an affordable rent</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé de chuspóir ag comhlachais tithíochta tithíocht a chur ar fáil dóibh siúd nach féidir leo íoc as a riachtanais tithíochta óna n-acmhainní féin ar cíos inacmhainne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will pay an affordable rent, based on your income</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocfaidh tú cíos bunaithe ar d’ioncam</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your income increases the rent will increase but if your income falls then the rent payment will also reduce, in order to remain affordable</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má thagann méadú ar d’ioncam, tiocfaidh méadú ar an gcíos, ach má thagann laghdú ar d’ioncam, tiocfaidh laghdú ar an íocaíocht chíosa chomh maith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In general, you must be eligible for social housing in order to become a housing association tenant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, ní mór duit a bheith incháilithe do thithíocht shóisialta d’fhonn a bheith i do thionónta chumann tithíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>So, as noted in ‘Rules’ above, you must qualify for social housing in order to qualify for the mortgage-to-rent scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin, mar a luaitear san ‘Rialacha’ thuas, ní mór go mbeifeá incháilithe do thithíocht shóisialta chun cáiliú don scéim cíos in ionad morgáiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The assessment of suitability for social housing is carried out by local authorities</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad na húdaráis áitiúla a dhéanann measúnú ar oiriúnacht le haghaidh tithíocht shóisialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your lender can provide an application form to apply to your local authority</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh d’iasachtóir foirm iarratais a sholáthar chun iarratas a dhéanamh ar d’údarás áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your lender does not agree that you are suitable for the mortgage-to-rent scheme, you can appeal to the lender’s Appeals Committee under the Mortgage Arrears Resolution Process (MARP)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura gcomhaontaíonn d’iasachtóir go bhfuil tú oiriúnach don scéim um morgáiste-chuig-cíos, féadfaidh tú achomharc a dhéanamh le Coiste Achomhairc na n-iasachtóirí faoin bPróiseas Réitigh do Riaráistí Morgáiste (MARP)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the local authority decides that you are not eligible for social housing support (which means that you cannot access the mortgage-to-rent scheme), you can appeal this decision through the local authority’s internal appeals system</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chinneann an t-údarás áitiúil nach bhfuil tú incháilithe le haghaidh tacaíochta do thithíocht shóisialta (rud a chiallaíonn nach féidir leat rochtain a fháil ar an scéim cíos in ionad morgáiste), is féidir leat achomharc a dhéanamh ar an gcinneadh sin trí chóras achomhairc inmheánach an údaráis áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are not happy with the outcome, you can contact the Ombudsman</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil tú sásta leis an toradh, féadfaidh tú teagmháil a dhéanamh leis an Ombudsman</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where appropriate, your lender will offer you the opportunity to apply for the scheme and give you an application form for mortgage-to-rent</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás cuí, déanfaidh d’iasachtóir an deis a chur ar tairiscint duit chun iarratas a dhéanamh ar an scéim agus foirm iarratais a thabhairt duit ar mhorgáiste-chuig-cíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are interested, you give consent in writing to your lender to submit your details to a number of organisations involved in the scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más spéis leat, tugann tú toiliú i scríbhinn do d’iasachtóir chun do shonraí a sheoladh isteach do líon eagraíochtaí atá bainteach sa scéim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You then need to complete several steps:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is gá duit ansin roinnt céimeanna a chríochnú:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You agree to surrender ownership of your home in exchange for a tenancy agreement with a housing association</seg></tuv>
+  <tuv xml:lang="ga"><seg>Comhaontaíonn tú chun úinéireacht do thí a thabhairt suas le comhaontú tionóntachta a fháil le comhlachas tithíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You complete your Mortgage to Rent application form and a Social Housing Support application form and give them to your local authority along with all the required documentation, including the Proposal to Consider Participation in the Mortgage to Rent Scheme (issued to you by your lender)*</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann tú d’fhoirm iarratais ar Mhorgáiste-chuig-Cíos a chomhlánú mar aon le foirm iarratais ar Thacaíocht Tithíochta Sóisialta agus iad a thabhairt do d’údarás áitiúil, mar aon leis an gcáipéisíocht riachtanach uile, lena n-áirítear an Litir Thairisceana chun bheith Rannpháirteach sa Scéim um Morgáiste-chuig-Cíos (a eisíonn d’iasachtóir duit)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>* As noted above, borrowers will shortly have to apply for social housing support before submitting an application for the mortgage-to-rent scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá treoir i leith na scéime (pdf) foilsithe ag an nGníomhaireacht Tithíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A new step-by-step guide will be prepared</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cá ndéanfaidh mé iarratas?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Contact your mortgage lender to discuss your suitability for the mortgage-to-rent scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déan teagmháil le d’iasachtóir morgáiste chun plé a dhéanamh ar d’oiriúnacht don scéim um morgáiste-chuig-cíos</seg></tuv>
+</tu>
+</body>
+</tmx>

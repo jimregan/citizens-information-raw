@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Travelling abroad and vaccinations</seg></tuv>
+  <tuv xml:lang="ga"><seg>Taisteal thar lear agus vacsainiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you normally live in Ireland and are travelling abroad, you should check whether you require vaccinations in order to travel to the country or countries you intend to visit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhíonn gnáthchónaí ort in Éirinn agus go bhfuil tú ag taisteal thar lear, ba chóir duit seiceáil an dteastaíonn vacsaíniú uait chun taisteal go dtí an tír nó na tíortha a bhfuil sé ar intinn agat cuairt a thabhairt orthu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Vaccines should be considered if you are travelling to areas outside of Western Europe, North America, Australia, and New Zealand</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir smaoineamh ar vacsaíní má tá tú ag taisteal go dtí ceantair lasmuigh d’Iarthar na hEorpa, Meiriceá Thuaidh, an Astráil agus an Nua-Shéalainn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Health risks vary from country to country, so seek advice from your family doctor (GP), Health Service Executive (HSE) or travel agent in advance of travel</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá priacail sláinte éagsúla ann ó thír go chéile, mar sin ba chóir duit comhairle a lorg ó do dhochtúir teaghlaigh (GP), Limistéar Fheidhmeannacht na Seirbhíse Sláinte (FSS) nó gníomhaireacht taistil roimh thaisteal duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The World Health Organisation Country List provides some information</seg></tuv>
+  <tuv xml:lang="ga"><seg>Soláthraíonn Liosta Tíortha de chuid an Eagraíocht Dhomhanda Sláinte an t-eolas seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some vaccinations take time to become effective so give yourself at least 8 weeks to protect yourself fully</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tús luath leis an bpróiséas fíor-thábhachtach má tá sé ar intinn agat taisteal le páistí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The BCG vaccination against tuberculosis (TB), for example, should be given at least 3 months before your child travels</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart an vacsainiú BCG i gcoinne an eitinn, mar shampla, a bheith tugtha ar a laghad 3 mhí sula bhfuil do ghasúr chun fágáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The HSE has information on the different types of vaccines, such as for cholera or for tuberculosis, on its website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá eolas ag FSS ar na cineálacha éagsúla de vacsaíní ar a láithreán gréasáin, mar shampla le haghaidh calar nó le haghaidh eitinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Certain vaccinations are compulsory</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá roinnt vacsainiúnna éigeantach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In these cases, you will need to show an International Certificate of Vaccination in order to gain access to the country in question</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás seo, beidh ort Teastas Idirnáisiúnta Vacsainiú a thaispeáint chun gur féidir leat dul isteach sa tír áirithe sin. Tá vacsainiúnna eile a mholtar ach go bhfágtar an cinneadh fút féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Other vaccinations are recommended and the decision is left to your own discretion, however, it makes sense to do everything you can to guard against illness and disease while you are away</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ciallmhar an rud é, áfach, gach rud is féidir leat a dhéanamh chun cosaint i gcoinne tinneas agus galar chomh fada is atá tú imithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you feel ill following your return to Ireland, make sure that you see a doctor as soon as possible</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má mhothaíonn tú tinn tar éis duit teacht ar ais go hÉirinn, déan cinnte go bhfeiceann tú dochtúir chomh luath agus is féidir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Give full details of the countries you visited, in case this should be relevant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabhair sonraí iomlána de na tíortha ar thug tú cuairt orthu, ar fhaitíos go mbeadh sé seo ábhartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The law in Ireland makes special provision regarding the reporting of infectious diseases to the national Health Protection Surveillance Centre</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann an dlí in Éirinn soláthar speisialta maidir le tuairisciú galar tógálach chuig an Lárionad Faire um Chosaint Sláinte náisiúnta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As soon as a medical practitioner in Ireland becomes aware of, or suspects that a person they are attending is suffering from, or is the carrier of an infectious disease, they are required to transmit a written or electronic notification to a Medical Officer of Health</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chomh luath agus is eol do chleachtóir leighis nó go bhfuil amhras orthu go bhfuil an duine ar a bhfuil siad ag freastal ag fulaingt nó ag iompar galair thógálaigh, ní mór dóibh fógra scríofa nó leictreonach a sheoladh chuig Oifigeach Leighis um Shláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Notification of infectious diseases is necessary in order to control infectious diseases</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór fógra a thabhairt i leith galair thógálacha chun galair thógálacha a smachtú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Ireland's Health Protection Surveillance Centre works in partnership with health service providers and organisations in other countries to ensure that up to date information is available to contribute to the effective control of infectious diseases</seg></tuv>
+  <tuv xml:lang="ga"><seg>Oibríonn Lárionad Faire um Chosaint Sláinte na hÉireann i gcomhpháirt le soláthróirí seirbhísí sláinte agus le heagraíochtaí i dtíortha eile chun a chinntiú go bhfuil eolas suas chun dáta ar fáil chun cur le smachtú éifeachtúil na ngalar tógálach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will not need vaccinations in order to visit any European country, unless you have visited a non-European country shortly beforehand.   Make sure that you record your vaccinations on an International Vaccination Certificate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bheidh aon vacsaniú ag teastáil uait chun cuairt a thabhairt ar aon tír Eorpach, muna bhfuil tú tar éis cuairt a thabhairt ar thír taobh amuigh den Eoraip go gairid roimhe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Health risks vary from country to country so seek advice from your family doctor, HSE or travel agent in advance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá priacail sláinte éagsúla ann ó thír go chéile, mar sin ba chóir duit comhairle a lorg ó do dhochtúir teaghlaigh, FSS nó gníomhaireacht taistil roimh thaisteal duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Travel vaccinations are not free in Ireland through the public health system - even if you hold a medical card</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhíonn vacsaínithe ar fáil saor in aisce in Éirinn tríd an gcóras sláinte poiblí - fiú má tá cárta leighis agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will have to pay the full cost for vaccinations</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh ort na costais iomlána a íoc le haghaidh vacsaínithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A charge will usually be made for your visit to the doctor and in addition, you will have to pay for each vaccine or set of tablets prescribed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gearrfar táille ort i leith do chuairte ar an dochtúir agus chomh maith leis sin, beidh ort íoc as gach vacsaín nó foireann táblaí a ordaítear</seg></tuv>
+</tu>
+</body>
+</tmx>

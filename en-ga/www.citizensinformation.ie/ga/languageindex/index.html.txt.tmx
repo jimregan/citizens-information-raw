@@ -1,0 +1,2793 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Content on CitizensInformation.ie is available in English and Irish</seg></tuv>
+  <tuv xml:lang="ga"><seg>Content on CitizensInformation.ie is available in English and Irish</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Certain relevant documents are also available in Polish, French and Romanian</seg></tuv>
+  <tuv xml:lang="ga"><seg>Certain relevant documents are also available in Polish, French and Romanian</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When content which is available in one of these languages is selected, the Language toolbox on the right side of the screen will list the languages for which translations are published</seg></tuv>
+  <tuv xml:lang="ga"><seg>When content which is available in one of these languages is selected, the Language toolbox on the right side of the screen will list the languages for which translations are published</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Citizens Information website reviews the range of languages and content available on a regular basis, and hope to add to these documents in the future</seg></tuv>
+  <tuv xml:lang="ga"><seg>The Citizens Information website reviews the range of languages and content available on a regular basis, and hope to add to these documents in the future</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Documents available in English</seg></tuv>
+  <tuv xml:lang="ga"><seg>Documents available in English</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Cáipéisí atá ar fail as Gaeilge</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cáipéisí atá ar fail as Gaeilge</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Documents disponibles en Français</seg></tuv>
+  <tuv xml:lang="ga"><seg>Documents disponibles en Français</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Dokumenty dostepne po Polsku</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dokumenty dostepne po Polsku</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Documente disponibile în Româna</seg></tuv>
+  <tuv xml:lang="ga"><seg>Documente disponibile în Româna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Abortion information - the law • About Citizens Information</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ábhair airgid i ndiaidh an bháis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Access to environmental information</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Abhcóidí sóisir agus sinsir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Accessibility and Usability Statement</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Achomhairc Leasa Shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Adapting a home for an older or disabled person</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Achomharc a dhéanamh chuig an gCúirt Oibreachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Admissibility of certain witness statements in a criminal trial</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Achomharc a dhéanamh in aghaidh torthaí na hArdteistiméireachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Admission to a psychiatric hospital • Admission, placement and transfer in prisons</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Achomharc a dhéanamh maidir le torthaí do thástála tiomána</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Adoption and cohabiting couples</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Achomharc ar an gCinneadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Adoption, fostering and surrogacy</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Acmhainní do dhaltaí nach cainteoirí Béarla iad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Adult education • Adult literacy</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag Tógáil Cairr nó Veain ar Cíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Advertising Standards Authority for Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag athsholáthar ceadúnais tiomána Éireannaigh ar cailleadh nó ar goideadh é</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• After your baby is born</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag ceannach tí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• After-School Child Care Scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag clárú chun vótáil in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Age equality in employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag cur isteach ar stádas dídeanaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Agencies providing services for homeless people</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag déanamh gearáin faoi sheirbhísí teileachumarsáide nó seirbhísí poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Agency workers • Agriculture and forestry</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag déanamh iarratais ar phas Éireannach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Air passenger rights in the European Union</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag déanamh monatóireachta ar chiontóirí gnéis in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Air quality and pollution • Air transport regulation</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag déanamh tuairisc maidir le feithiclí goidte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Airline liability • Alcohol addiction treatment services</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag déileáil le glaonna díolacháin teileafóin gan iarraidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Alcohol and drug treatment services</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag dul amach ar pinsean luath</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Alcohol and the law</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag dul ar scor in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Alternative repayment arrangements for people in mortgage difficulty • An Bord Pleanála • Animal welfare and control</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag dul thar lear chun bheith i do chónaí nó ar laethanta saoire agus íocaíochtaí leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Annual leave • Antenatal classes</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag éileamh do chleithiúnaí aosaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Anti drug dealing initiative • Anti human trafficking initiative</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag éileamh íocaíocht leasa shóisialaigh bhreise ar leathráta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Anti-social behaviour by adults</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag éileamh iocaíochta leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Anti-social behaviour by children</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag éirí i do shaoránach Éireannach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Anti-social behaviour in social housing</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag éirí i do shaoránach Éireannach trí phósadh nó pháirtnéireacht sibhialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Appealing a decision to the Labour Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag éirí i do shaoránach de chuid na hÉireann trí eadóirseacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Appealing a planning permission decision</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag fágáil oibre gan a bheith íoctha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Appealing rights under EU law</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag fáil airgid ar iasacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Appealing the Decision in a Civil Case • Appealing the Leaving Certificate results</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag ligean isteach, ag glacadh agus ag aistriú priosunaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Appealing your driving test results</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag ligean seomra i do theach amach ar cíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Applying for a driving licence</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag lorg árasáin nó tí ar cíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Applying for international protection in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag lorg oibre: oideachas agus oiliúint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Applying for local authority/social housing</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag obair faoi mhíchumas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Applying for your first Irish passport</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag obair go páirtaimseartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Appointments made by the Irish President</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag obair taobh amuigh den AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Artist's exemption from income tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag pósadh thar lear</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Assessing the means of a couple for social assistance payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag síniú de nuair a thosnaíonn tú ag obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Attendance and discipline in schools</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag siúl agus ag fánaíocht in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Aural services  B</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag tabhairt aire do leanbh atá faoi mhíchumas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Back to Education Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag taisteal thar lear le páistí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Back to Education Initiative</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag teacht go hÉirinn - cáin agus ÁSPC</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Back to Education Programme</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag teacht go hÉirinn chun oibriú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Back to School Clothing and Footwear Allowance • Back to Work Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag teacht go hÉirinn mar iarrthóir tearmainn nó mar dhídeanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Back to Work Enterprise Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag teacht ón AE/LEE chun oibriú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Bail and Surety • Ban on smoking in the workplace</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Aicmí árachais shóisialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Barring, safety and protection orders</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ainmniúchán mar theachta i nDáil Éireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Barristers • Becoming a Parent</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Airgead agus Cáin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Becoming an Irish citizen through marriage or civil partnership</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Aisghabháil íocaíochtaí iomarcacha leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Becoming an Irish citizen through naturalisation</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Aisíocaíocht cánach má tá tú dífhostaithe nó as obair ar shaoire bhreoiteachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Becoming self-employed • Before a death</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Aisíocaíochtaí CBL ar áiseanna agus trealamh in úsáid ag daoine le míchumais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Before you come to Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Aistriú chuig teach eile de chuid an údaráis áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Benefit and contribution years for social welfare purposes</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Aistriú ó Íocaíocht Teaghlach Aontuismitheora</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Benefits and entitlements following a death</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Áiteanna agus struchtúir chontúirteacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Benefits and entitlements relating to birth</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Alcól agus an dlí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Bereavement counselling and support services</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Altramú agus lánúineacha comhchónaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Better Energy Homes Scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Amharclann na Mainistreach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Better Energy Warmer Homes Scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An AE agus an dlí teaghlaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Blood and organ donation</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An Ardteistiméireacht Fheidhmeach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Blue Flag beaches and marinas in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An Bhratach Bhán d'áiseanna áineasa in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Boarding out of older people</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An Bord Pinsean</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Boards of management in primary schools</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An Bord Pleanála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• BowelScreen: The National Bowel Screening Programme</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An Bord um Thionóntachtaí Príobháideacha Cónaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Breakdown of a marriage or other relationship</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An Bunachar Sonraí Náisiúnta um Míchumas Fisiceach agus Céadfach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Bringing a body to Ireland for burial or cremation</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An Cárta Eorpach um Árachas Sláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Bringing pets to Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An Ceoláras Náisiúnta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Building or altering a home</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An Clár Fostaíocht Pobail um Chúram Leanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Bullying in the workplace</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An Clár um Thoirchis Ghéarchéime</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Bus and coach passenger rights in the European Union</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An Coimisiún um Chaidreamh san Áit Oibre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Bus services • Buying a home</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An Coimisiún um Rialáil Fuinnimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Buying a local authority house or flat • Buying a new car</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An Conradh um Chobhsaíocht Fhioscach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Buying or selling a vehicle</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An Córas Príosúin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Bye-elections  C</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An Córas Vótála do Thoghchán Eorpach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Calculating Mortgage Interest Supplement</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An Creidmheas Cánach Cúramóra Linbh do Dhuine Singil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Capital and social welfare payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An Garda Síochána - fórsa póilíneachta náisiúnta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Capital taxes following separation, divorce or dissolution</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An Íocaíocht Theaghlaigh Aontuismitheora</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Care in your community</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An Liúntas Breosla gan Deatach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Carer's Support Grant (formerly called Respite Care Grant)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An Plean Náisiúnta Íocaíochtaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Caring for a child with a disability</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An Rialtas agus Dáil Éireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Case Study 1: How income from work affects Jobseeker's Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An Roinn Post, Fiontar, agus Nuálaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Case study 1: Calculating your pension under EU social security agreements</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An Scéim ‘Fuinneamh Níos Fearr, Tithe Níos Teo’</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Case study 1: Family Income Supplement (FIS)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An Scéim Caidrimh Baile- Scoile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Case study 2: Family Income Supplement (FIS)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An Scéim Chomhúinéireachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Case study: Calculating Rent Supplement</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An Scéim Cúram Leanaí Iarscoile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Case study: Calculating annual leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An Scéim Deontas Áiseanna Soghluaisteachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Case study: Calculating deferrals of Local Property Tax (LPT)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An Scéim Dhreasachta Poist Pháirtaimseartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Case study: Calculating redundancy payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An Scéim Oibre Neamhthipiciúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Case study: Calculating your income tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An Scéim Sóisialta Tuaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Case study: Carer's leave and annual leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An Scéim Tacaíochta do Thithe Altranais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Case study: Claiming constructive dismissal</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An Scéim um Chúnamh Tithíochta do Dhaoine Breacaosta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Case study: Compassionate leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An Scéim um Chúramaí Baile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Case study: Dependant/Partner/Spousal Employment Permit</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An Scéim um Rabhadh Aosach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Case study: Help with school costs for a family</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An Scéim um Rothaíocht chun na hOibre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Case study: Maximising a couple's income from jobseeker's payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An Straitéis Náisiúnta Leanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Case study: Taking parental leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An Teastas Sóisearach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Case study: Taxation of Maternity Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An Tionchar a bheidh ag pósadh ar stádas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Case study: Trade union membership</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An Tionól Bunreachtúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Case study: Working and claiming a State Pension (Non-Contributory)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An chaoi a n-athraíonn páirtnéireacht shibhialta do stádas dlíthiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Case study: Young people's working hours</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An chaoi a nglaotar ar dhuine le bheith ina f(h)inné</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Case study: force majeure leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An córas le cáin a mheas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Cash income not included in the means test</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An córas leasa shóisialaigh in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Categories of motor vehicles and minimum age of drivers</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An córas polaitiúil ag leibhéal aitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Cathaoirleach of Seanad Éireann</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An córas polaitiúil ag leibhéal náisiúnta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Cathaoirleach of the council</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An cróinéir agus íospartaigh choireanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Central Bank of Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An modh le bheith i d'fhinné</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• CervicalCheck: The National Cervical Screening Programme</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An próiseas tearmainn in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Change of vehicle ownership</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An ról atá ag finnéithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Changes that can affect your social welfare payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An scéim iompair bhunscoile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Changes to your contract of employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An scéim náisiúnta um morgáiste-chuig-cíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Changing job: tax, PRSI and pension</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An t-árachas mótair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Changing to your preferred gender</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An t-árachas sláinte príobbháideach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Changing your name by deed poll</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An t-árachas sóisialach in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Charges for hospital services</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An t-údarás áitiúil agus tithíocht shóisialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Charges for taxi, hackney and limousine services</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An tAcht Meabhair-Shláinte 2001</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Charter of Fundamental Rights</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An tAcht um Chosaint Tomhaltóirí 2007</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Checklist guide to redundancy procedures</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An tArd-Reachtaire Ciste agus Cuntas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Checklist of documents needed when applying for a student grant</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An tInnéacs Praghsanna do Thomhaltóirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Checklist of things to do following a bereavement</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An tOmbudsman do Leanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Checklist of where my possessions are kept</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An tSeirbhís Aisíoctha do Chúram Príomhúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Checklist when appealing a social welfare decision</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An tSeirbhís Buiséadaithe agus Comhairle Airgid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Checklist when applying for Carer's Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An tSeirbhís Ionchúisimh an Stáit agus íospartaigh choireanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Checklist when applying for Jobseeker's Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An tSeirbhís Phromhaidh agus íospartaigh choireanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Checklist when applying for a State Pension (Non-Contributory)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An tUachtarán - Tithe an Oireachtais a Chomóradh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Checklist when applying for carer's leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An tUachtarán - an Dáil a chomóradh agus a lánscoir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Checklist when shopping online</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An tUachtarán - ionadaí na ndaoine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Checklist: entitlements for older people</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An tÚdaras Éireannach um Shábhailteacht Bia</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Checklist: information for self-employed people</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An tÚdarás na gCaighdeán Fógraíochta d'Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Chester Beatty Library • Chief Executive of the council</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ar iarradh, glactha a bheith marbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Childcare during vocational training</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Áras Nua-Ealaíne na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Children and rights in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Arduithe cíosa i dtithíocht phríomháideach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Children and the criminal justice system</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Asleagan, obair ghearrthréimhseach agus iomarcaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Children and young offenders</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ath-Iarrthóirí do Pharlaimint na hEorpa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Children's rights and policy</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Athbhreithniú breithiúnach i gcúrsaí pleanála agus comhshaoil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Choices in antenatal care</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Athrú chuig do rogha inscne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Civil Legal Advice and Legal Aid</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Aturnaetha <ph/>  B</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Civil partnership and inheritance</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Banc Ceannais na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Civil partnership and same-sex couples</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bannaí agus Urra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Civil partnership and social welfare entitlements</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bannaí le Táirgí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Claiming a social welfare payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bás obann nó gan mhíniú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Claiming a social welfare payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bealaí dlíthiúla difriúla le bheith pósta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Claiming an extra half-rate social welfare payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bearta le dul i ngleic le míbhuntáiste oideachasúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Claiming for an adult dependant</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bheith i do Thuismitheoir den chéad uair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Classification of crimes in criminal cases</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Biaslán - An Bord um Chur Chun Cinn na Sábháilteachta Bia</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Climate change • Closing or selling a business</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bileog Oibre le haghaidh Forlíonadh Cíosa a ríomh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Coalition government • Cohabiting couples</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bileog Oibre: Íocaíocht do Theaghlach Aon-Tuismitheora agus ioncam ó obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• College application procedures and entrance requirements</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bileog oibre: Liúntas Cuardaitheora Poist agus ioncam ón obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Coming to Ireland - tax and social insurance</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Binsí agus imscrúduithe - réamhrá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Coming to Ireland as an asylum seeker or refugee • Coming to Ireland to study • Coming to live in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Blianta sochair agus ranníocaíochta ar mhaithe le híocaíochtaí leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Coming to set up a business or invest in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Boird bhainistíochta i mbunscoileanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Commenting on a planning application</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bóithre agus Sábháilteacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Commission for Energy Regulation</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bord Parúil na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Community Employment Childcare Programme</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Breith anabaí agus marbh-bhreith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Competence of a witness</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bruscar a chosc agus a rialú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Composition of the Government</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bulaíocht sa láthair oibre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Compulsory purchase of property</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bunchúrsa do dhaoine le lagú amhairc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Conditions for getting a jobseeker's payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bunreacht na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Connecting to the internet</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cabhair Dhlíthiúil Choiriúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Consent to medical and surgical procedures</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cabhair Dhlíthiúil agus Comhairle</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Consequences of a civil annulment of marriage</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cabhair maidir le teach a cheannach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Consequences of an annulment of a civil partnership</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cad a tharlaíonn d’fhiacha tar éis bháis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Constitutional Referendum in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Caidrimh thionsclaíocha agus ceardchumainn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Consumer guide to buying a new car</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cailliúint do thí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Consumer protection codes and mortgages</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cáin Fháltais Caipitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Consumer rights and package holidays</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cáin Ghnóthachan Caipitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Consumer rights in the European Union</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cáin Mhaoine Áitiúil (CMÁ)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Contracts without specific working hours (zero-hours contracts)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cáin agus íocaíochtaí cothabhála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Costs of buying a home</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cáin ar chnapshuim iomarcaíochta nó scoir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Council of the European Union</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cáin ar shochair ón bhfostaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Court of Criminal Appeal</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cáin in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Court proceedings for recovering debts</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cáipéisí taistil do dhaoine le stádas dídeanaithe nó cosanta coimhdí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Credit history - the Irish Credit Bureau</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Caomhnadh leanaí agus lánúineacha comhchónaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Credited social insurance contributions</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Carr athláimhe a cheannach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Crime and crime prevention</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cárta Páirceála Duine le Míchumas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Criminal insanity and mental health</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cártaí Cuairte LG (Liachleachtóir Ginearálta)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Critical Skills Employment Permit</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cás staidéar: saoire force majeure</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Crowd control at public events in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cás-Staidéar ar íocaíocht iomarcaíochta agus obair ghearr-ama</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Curriculum in primary schools</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cás-Staidéar ar shaoire mháithreachais agus filleadh ar an obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Custody of children and cohabiting couples</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cás-Staidéar ar theidlíocht saoire poiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Customs and Excise officers - powers to search travellers' baggage</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cás-Staidéar: Cabhrú le costais scoile do theaghlach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Customs regulations for travellers to Ireland • Cycle to Work Scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cás-Staidéar: éileamh i ndáil le dífhostú inchiallaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• DARE admissions scheme for students with disabilities</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cás-Staidéar: íocaíocht iomarcaíochta a mheas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Dangerous places and structures • Data protection</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cás-staidéar 1: Conas a bhíonn tionchar ag ioncam ón obair ar Liúntas do Lucht Cuardaigh Fostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Day centres and day care • Dealing with asbestos</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cás-staidéar 1: Do phinsean a ríomh faoi chomhaontuithe slándála sóisialaí an AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Dealing with the deceased's estate</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cás-staidéar 2: Conas a bhíonn tionchar ag ioncam ó fhostaíocht in Éirinn ar an Liúntas do Lucht Cuardaigh Fostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Dealing with unsolicited direct marketing</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cás-staidéar 2: Do phinsean a ríomh faoi chomhaontuithe déthaobhacha slándála sóisialaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Dealing with unsolicited or offensive e-mail</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cás-staidéar 2: Forlíonadh Ioncaim Teaghlaigh (FIT)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Dealing with unwanted telephone sales calls</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cás-staidéar: Ag obair agus ag éileamh Pinsin Stáit (Neamh-Ranníocach)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Death Benefits under the Occupational Injuries Scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cás-staidéar: Ballraíocht ceardchumainn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Debt • Debt Relief Notices</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cás-staidéar: Forlíonadh Cíosa a Ríomh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Decisions made by the Minister for Justice and Equality in relation to international protection</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cás-staidéar: Ioncam lánúine ó íocaíochtaí cuardaitheora poist a uasmhéadú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Deferring payment of the Local Property Tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Catagóirí na mótarfheithiclí agus íos-aois na dtiománaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Dental, aural and optical health</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cathaoirleach na Comhairle</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Department of Jobs, Enterprise and Innovation</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cé na daoine gur féidir iallach a chur orthu a bheith ina bhfinnéithe?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Dependent Relative Tax Credit</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cead Fostaíochta Ginearálta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Deposit Interest Retention Tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cead Fostaíochta Scileanna Ríthábhachtacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Different types of employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ceadúnais Seilge Fia</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Disability awareness training grants</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ceadúnais tiomána foghlaimeora le haghaidh carranna agus feithiclí oibre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Disability payments and work</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ceadúnais tiomána foghlaimeora le haghaidh gluaisrothar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Disabled Person's Parking Card</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ceadúnais tiomána foghlaimeora le haghaidh leantóirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Disclosure in criminal cases</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ceadúnú bád agus soithí uisce in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Disputes with financial institutions in other EU countries</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ceannacháin Saor ó Cháin do Thaistealaithe taobh amuigh den AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Diversion activities and programmes for young offenders • Divorce decrees</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cearta Cónaithe in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Documentation and other requirements when leaving Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cearta Tomhaltóirí agus siopadóireacht treasteorann in Aontas na hEorpa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Domestic refuse services • Domestic workers' employment rights</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cearta a bhronntar ar dhaoine stádas dídeanaí nó cosaint choimhdeach agus daoine a dtugtar cead fanacht dóibh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Driving offences • Driving tests</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cearta comharbais i ndiaidh idirscartha/colscartha/scaoilte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Driving tests for drivers with disabilities</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cearta cónaithe do bhaill teaghlaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Driving tests in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cearta cónaithe in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Dsp forms • Dsp publications</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cearta fostaíochta oibrithe tí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Dublin III Regulation • Duties and VAT</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cearta leanaí agus beartas um leanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Duties of drivers of Small Public Service Vehicles (SPSVs)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cearta maoine agus cliseadh ar chaidreamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Duties of passengers of small public service vehicles  E</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cearta maoine lánúineacha comhchónaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• EU Institutions • EU Law • EU and family law</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cearta na n-othar síciatrach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• EU healthcare • EU stabilisation mechanisms</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cearta oidhreachta agus lánúineacha comhchónaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Early Childhood Care and Education Scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cearta paisinéirí bus agus cóiste san Aontas Eorpach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Early school leavers programmes</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ceisteanna coitianta maidir le hiomarcaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Education and training supports</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ceistiúchán agus Faireachán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Education for people with refugee status or subsidiary protection or permission to remain</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cén áit le gearán a dhéanamh faoi Dhaoine Gairmiúla Leighis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Education in Ireland • Education, Training and Development Option</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cén áit le gearán a dhéanamh faoi dhaoine gairmiúla agus daoine eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Educational arrangements for Travellers</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cén áit le gearán a dhéanamh faoi thógáil agus feabhsuithe tí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Elder abuse • Election Expenses</seg></tuv>
+  <tuv xml:lang="ga"><seg>• CervicalCheck: An Clár Scagthástála Ceirbheacs Náisiúnta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Employee share option schemes</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cigireacht ar scoileanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Employer Job (PRSI) Incentive Scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cigirí na Seirbhísí Meabhair-Shláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Employment Regulation Orders and registered employment agreements</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cineálacha an cheada cónaithe do náisiúnaigh neamh-LEE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Employment rights and conditions</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cineálacha éagsúla scoileanna iarbhunoideachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Employment rights legislation: inspection and compliance</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cinntí a dhéanann an tAire Dlí agus Cirt agus Comhionnanais maidir le cosaint idirnáisiúnta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Employment rights of part-time workers</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cinsireacht Taifeadtaí Fístéipe agus DVD</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Enforcement of debt judgments</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cionta in aghaidh oird phoiblí agus cumhachtaí gabhála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Entitlement to health services</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cionta oird phoiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Environmental protection of nature and biodiversity</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cláir Chóireála do Chiontóirí Gnéis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Equality in the workplace</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cláir Luathfhágála Scoile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Equipment grants for students with disabilities</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Clár Athstiúrtha na nGardaí don Óige</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• European Court of Justice</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Clár ar ais chun Oideachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• European Parliament Political Groups • European Union</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cláraitheoirí Breitheanna, Póstaí agus Básanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• European elections - alternative voting arrangements</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Clárú gairmithe sláinte agus cúraim shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• European elections - counting the votes • European environmental law</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Clárú náisiúnach neamh-LEE in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• European government • European laws</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cleachtais tráchtála éagóracha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• European small claims procedure</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cliseadh pósta nó caidrimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Extra social welfare benefits</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Coimisiún Ombudsman an Gharda Síochána</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Extra social welfare benefits</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Coimisiún an Uachtaráin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Facilities for voters with disabilities</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Coimisiún na Scrúduithe Stáit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Factors considered by a court in a separation/divorce/dissolution</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Coimisiún na hÉireann um Chearta an Duine agus Comhionannas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Fair grounds for dismissal</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Coimisiún na hEorpa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Family and shared homes</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Coinníollacha chun íocaíocht cuardaitheora poist a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Fees and supports for third-level education</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Coireanna a aicmiú i gcúiseanna coiriúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Fertility services and cohabiting couples</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cóiríocht do dhaoine ar deonaíodh stádas dídeanaí nó cosanta coimhdí dóibh nó ar tugadh cead dóibh chun fanacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Financial assistance following a bereavement</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Coistí forbartha pobail áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Financial help with going to school</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Coistí údaráis áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Financial transactions with other EU countries</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Comhairle Shábháilteachta do ghluaisteánaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Find a Citizens Information Centre</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Comhairle Shábháilteachta nuair a gluaisteánaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Finding a job in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Comhairle agus Cúnamh Dlí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Finding and getting a job</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Comhairle maidir le carr nua a cheannach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Fixed line telephone services</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Comhaontuithe fruilithe tomhaltóra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Food safety and environmental health services</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Comhionannas aoise san fhostaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Food safety and food poisoning</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Comhionannas san ionad oibre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Food safety in the home</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Comhlimistéar Taistil idir Éire agus an Ríocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Fostering and cohabiting couples</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Comórtas na mBailte Slachtmhara</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Free Travel in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cónaí agus sainchónaí cánach in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Free movement of people within the Schengen Area • Freedom of information</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Conarthaí ar théarmaí seasta nó sainchuspóra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Frequently asked questions about redundancy</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Conarthaí gan uaireanta oibre sainiúla (conarthaí uaireanta-nialasacha)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Functions and duties of individuals in a court of law</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Conas a ÃºsÃ¡idtear suÃ­omh grÃ©asÃ¡in FaisnÃ©is do ShaorÃ¡naigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Functions of local authorities</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Conas a mheasúnaítear pinsin le linn idirscartha/colscartha/scaoilte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Functions of the President • Functions of the Seanad</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Conas cothabháil a mheas mar acmhainn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Fundamental Rights under the Irish Constitution</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Conas do dhualgais chánach a chomhlíonadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Funerals • Further Education and Training (FET) allowances</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Conas feithicil a bhfuil a ré caite a dhiúscairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Further Education and Training (FET) courses</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Conas gearán tomhaltóra a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Further and higher education qualifications  G</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Conas is féidir le hioncam tuismitheoirí tionchar a imirt ar an Liúntas Cuardaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• GP and hospital services</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Conas síniú a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Garda Juvenile Diversion Programme</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Córas Leasa Shóisialaigh na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Garda Síochána - national police force</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Córas Oideachais na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Garda Síochána Ombudsman Commission • Garda Station Legal Advice Revised Scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Córas iarratais agus riachtanais iontrála coláistí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• General Employment Permit • General elections</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Corp a thabhairt ar ais go hÉirinn chun é a adhlacadh nó a chréamadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Getting a transfer to another local authority home</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Corp duine a dhí-adhlacadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Giving evidence by television-link • Giving notice when changing your job</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cosaint chomhshaoil an dúlra agus na bithéagsúlachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Glossary of employment terms</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cosaint do sceithirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Glossary of immigration terms • Go for Life programme</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cosaint idirnáisiúnta - achoimre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Going abroad or on holidays and social welfare payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cosaint thomhaltóirí na seirbhísí airgeadais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Going to post-primary school</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cosc agus rialú ar thruailliú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Going to primary school</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cosc ar chaitheamh tobac sa láthair oibre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Government and Dáil Éireann</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cothabháil agus tuismitheoirí aonair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Grant scheme to replace lead pipes and fittings</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Creidmheas Cánach do Chúramóirí Baile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Grants and funds available for mature students</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Creidmheas Cánach do Pháiste le hÉagumas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Guarantees on Goods and Services</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Creidmheas agus Fiacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Guardian's and orphan's payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Creidmheas cánach i leith gaoil chleithiúnaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Guardianship status of fathers</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Creidmheasanna agus faoiseamh cáin ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Guide to Brexit • Guide to entitlements for over sixties</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Creidmheasanna agus faoiseamh cánach ioncaim tar éis báis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Guide to entitlements for people with disabilities</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Creidmheasanna agus faoiseamh do dhaoine míchumasaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Guide to information for school leavers • Guides  H</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Creidmheasanna agus faoiseamh do dhaoine míchumasaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• HEAR admissions scheme for students from disadvantaged backgrounds</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Creidmheasanna agus faoisimh chánach fostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Health • Health Service Executive</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cross-Border Healthcare Directive</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Health agencies • Health and Safety Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cruinnithe den Údarás Áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Health care • Health issues when travelling abroad</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cuairt a thabhairt ar duine sa phríosún</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Health services for people with disabilities</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cuairteoirí go hÉirinn - Coireanna a Sheachaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Health services for people with disabilities</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cuideachtaí bainistíochta do bhloic árasán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Health services for pre-school children</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cúirt Bhreithiúnais an Aontais Eorpaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Health services for visitors to Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cúirt Uachtarach na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Heathcare in Ireland • Help page</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cúiseanna maithe le dífhostú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Help to Buy incentive</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cúiteamh agus íospartaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Help with buying a home • Help with low pay</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cúiteamh le haghaidh eitiltí san AE atá ró-áirithithe, curtha ar ceal agus ar a bhfuil moill</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Hepatitis C and the Health Amendment Act Card</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cúlra reachtach: Rochtain ar fhaisnéis comhshaoil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Hire purchase agreements • Home</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cumhachtaí údarás aitiúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Home Carer's Tax Credit</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cúnamh airgeadais tar éis báis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Home Choice Loan • Home Renovation Incentive</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cúnamh dlí d'iarrthóirí tearmainn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Home School Community Liaison Scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cúnamh dlí sibhialta agus conspóidí trasteorann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Home birth • Home help service</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cúnamh do dhaoine ar phá iseal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Home owners • Home repossession</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cúnamh sóisialach in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Horse identification and control</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cuntas a thabhairt ar Iarratas ar chead pleanála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Hostile witness • Hours of work</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cuntas caighdeánach bainc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Houses of the Oireachtas</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cúram Leanaí le linn cúrsaí gairmoiliúna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Housing • Housing Adaptation Grant for People with a Disability</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cúram Sláinte in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Housing and other supports for homeless people</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cúram iarbhreithe do do naíonán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Housing associations and co-operatives • Housing debt</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cúram máithreachais agus an bhanaltra sláinte phoiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Housing for older people • Housing grants and schemes</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cúram sláinte i Aontais Eorpaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Housing tax credits and reliefs</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cúram sláinte in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• How civil partnership changes your legal status</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cúrsaí Iar Ard-Teistiméireachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• How parents' income can affect Jobseeker's Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cúrsaí Láithreachais agus smachta sna scoileanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• How parents' income can affect Supplementary Welfare Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cúrsaí Pleanála agus Forbartha in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• How social welfare payments are paid</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cúrsaí airgid tar éis báis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• How to comply with your tax obligations</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cúrsaí dlí agus sláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• How to dispose of an end-of-life vehicle • How to make a consumer complaint</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cúrsaí oiliúna Breisoideachais agus Oiliúna (BOO)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• How you are called as a witness • How your income tax is calculated</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cúrsaí traenála gluaisrothair ceadaithe in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Howtos • Humanitarian Assistance Scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cúrsaí tríú-leibhéal do mhic léinn aibí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you do not get a declaration as a refugee • If your landlord wants you to leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>• D’ainm a athrú trí ghníomhas aonpháirtí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Illness in your retirement • Immigration rules for full-time non-EEA students</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Daingneacht tionachta do thionóntaí príobháideacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Importing a vehicle into Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Daoine óga ag obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Improvement works in lieu of local authority housing</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Daoine scothaosta agus íocaíochtaí cuardaitheora poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Incapacitated Child Tax Credit</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Deileáil le Bás agus Brón</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Income Tax in Retirement • Income levy</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Deileáil le hEastát an Mhairbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Income supports for older people</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Déileáil le haispeist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Income tax • Income tax credits and reliefs</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Deileáil le margaíocht díreach nár iarradh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Income tax credits and reliefs following a death</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Déileáil le ríomhphost déistineach nó gan iarraidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Industrial relations and trade unions</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Deontais Mhic Léinn Iarchéime</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Information for those affected by bereavement</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Deontais agus cistí atá ar fáil do mhic léinn aibí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Information for younger jobseekers</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Deontais agus scéimeanna tithíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Inheritance rights of cohabiting couples</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Deontais chun an láthair-oibre a chuir in oiriúint agus a áisiú do fhoireann faoi mhíchumas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Inheriting a local authority tenancy</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Deontais do fhostóirí chun fostaithe faoi mhíchumas a choinneáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Injury Benefit • Inquests</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Deontais léitheoirí pearsanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Insolvency Service of Ireland • Inspection of schools</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Deontais traenála le bheith ar an eolas maidir le míchumas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Inspection of septic tanks and other domestic waste water treatment systems</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Deontais trealaimh do scoláirí le riachtanaisí speisealta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Inspector of Mental Health Services</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Deontas Baintreachais nó Páirtnéara Shibhialta Mharthanaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Insurance • Insurance protection on mortgages</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Deontas Caomhnaithe Uisce</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Interest on loans and savings • International Driving Permit</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Deontas Oiriúnaithe Tithe do Dhaoine faoi Mhíchumas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• International protection – an overview • Introduction to income tax credits and reliefs</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Deontas Tacaíochta do Chúramóirí (ar a dtugadh an Deontas Cúraim Faoisimh)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Introduction to the Irish System</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Deontas do Dhaoine in Aois a gCéid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Introduction to the euro area • Invalidity Pension</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Deontas le Teach Altranis a Íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Irish Museum of Modern Art • Irish citizens coming or returning to Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Diaitéiteach/Saineolaithe Cothúcháin Chliniciúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Irish citizenship through birth or descent</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Dífhostaíocht agus Iomarcaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Job Interview Interpreter Grant</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Díoluine cánach do do thiománaithe agus do phaisinéirí faoi mhíchumas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Jobseeker's Allowance and work</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Díospóidí a réiteach idir tiarnaí talún agus tionóntaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Jobseeker's Benefit and work</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Díospóidí le hinstitiúidí airgeadais i dtíortha eile de chuid an AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Joint tenancy and relationship breakdown</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Díotha cónaithe do chabhair shóisialta in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Judicial review in planning and environmental matters</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Dleacht stampála ar chártaí airgeadais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Judicial review of public decisions</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Dleacht stampála ar réadmhaoin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Lay off, short-time working and redundancy</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Do Shláinte tar éis na Breithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Learner driving permits for buses and trucks</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Do cheadúnas tiomána a athnuachan</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Learner driving permits for cars and work vehicles</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Do cheadúnas tiomána a athrú go ceadúnas tiomána Éireannach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Learner driving permits for motorcycles • Learner driving permits for trailers</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Do cheadúnas tiomána nó do cheadúnas foghlaimeora a nuashonrú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Leaving Certificate Vocational Programme</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Do chearta leasa shóisialta agus tú ag fágáil Éireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Leaving Certificate examination fees • Leaving Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Do chearta mar thionónta chumann tithíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Leaving Ireland and your social security entitlements</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Do chearta nuair a cheannaíonn tú seirbhís</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Leaving work without being paid</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Do pháisté a aistriú chuig meánscoil Éireannach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Legal aid and advice</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Do phost a chailliúint - teidlíochtaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Legal aid for asylum seekers</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Do roghanna maidir le cúram leanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Legal arrangements for incapacity</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Do theaghlach breithe a lorg</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Legal fees and costs for civil cases</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Do theastais P45 agus P60</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Legal implications of a broken engagement</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Dramh-threalamh Leictreonach agus Leictreach a Athchúrsáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Legal options following the breakdown of a civil partnership</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Dramhaíl Tí a Mhúiríniú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Legal prerequisites for marriage • Legal representation in criminal cases</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Dramhaíl ó fhearais leictreacha agus leictreonacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Legislation applying to broken engagements • Legislative</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Drugaí agus cógais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Leonardo da Vinci Programme 2007-2013</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Drugaí agus cógais ordaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Liability of carriers of passengers by sea in the European Union</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Dualgais atá ar phaisinéirí feithiclí beaga seirbhíse poiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Licensing of boats and watercraft in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Dualgais atá ar thiománaithe Feithiclí Beaga Seirbhíse Poiblí (FBSP) in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Life insurance, pensions and civil status in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Dualgais cúraim na múinteoirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Life skills training for people with vision impairments</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Dualgas an fhostóra árachas sóisialta (ÁSPC) a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Local Elections - Nomination of Candidates</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Dul chun scoile iar-bhunoideachais <ph/>  E</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Local Elections in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Eagraíochtaí a thacaíonn le hothair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Local Property Tax (LPT)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Eagraíochtaí agus acmhainní do bhunscoileanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Local and regional government</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Eagraíochtaí agus acmhainní le haghaidh iarbhunscoileanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Local authority and social housing</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Earra in ionad, aisíocaíochta agus nótaí sochair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Local authority home improvement loans</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Easpa dídine na n-óg</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Local community development committees</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Éileamh a chur isteach go déanach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Looking for a flat or house to rent</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Éire a fhágáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Looking for work: education and training</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Eiseachadadh chuig agus ó Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Losing your home • Losing your job</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Eolas faoin Euro</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Losing your job • Losing your job - entitlements</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Eolas suas chun dáta ar na dlithe fostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Main institutions of the State</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Fadhbanna pósta agus caidrimh eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Maintenance and lone parents</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Faireachas sa láthair oibre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Maintenance and social welfare payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>• FaisnÃ©is EarnÃ¡la PoiblÃ­ a AthÃºsÃ¡id</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Maintenance orders and agreements</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Faisnéis do chuardaitheoirí poist óga</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Making a complaint about a Financial Service Provider</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Faoi mar a chaitear le duine faoi choimeád</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Making a complaint about a TV or radio programme</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Faoiseamh Cánach ar Tháillí Tithe Altranais agus ar son Gaolta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Making a complaint about a health service</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Faoiseamh cánach ar na costais a bhaineann le cúramóir baile a fhostú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Making a complaint about a newspaper or magazine</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Faoiseamh cánach ar tháillí don tríú leibhéal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Making a complaint about a taxi, hackney or limousine</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Faoiseamh cánach ar tháillí don tríú leibhéal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Making a complaint about telecommunications or postal services</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Faoiseamh cánach ar tháillí seirbhísí baile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Making a late claim</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Faoiseamh cánach ar ús morgáiste/Faoiseamh cánach ag an bhfoinse</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Management companies for apartment blocks • Marital status and inheritance</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Faoisimh agus creidmheasanna cánach i leith tithíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Marital status and social welfare entitlements</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Faoisimh chánach do dhaoine a bhfuil lagú radhairc orthu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Maritime passenger rights in the European Union</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Feidhmeanna agus dualgais éagsúla i gcúirt dlí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Maternity and infant care services</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Feidhmeanna na n-údarás áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Maternity care and the public health nurse</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Feidhmeannacht na Seirbhíse Sláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Maximum fines on summary conviction</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Féinfhostaíocht agus dífhostaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Means test for Jobseeker's Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Feirmeoireacht agus iascaireacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Medical services and entitlements for asylum seekers</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Fianaise a thabhairt le nasc teilifíse</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Migrant workers and unemployment • Minimum rates of pay</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Fíneálacha páirceála agus clampáil feithiclí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Minimum standards for rented housing</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Fíneálacha uasta ar ciontú achomair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Mobility Aids Grant Scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Finnéithe faoi 18 mbliana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Mobility training for people with visual impairments</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Fiosrú na niarratas ag Coimisinéir Iarratais do Dhídeanaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Money Advice and Budgeting Service</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Fógraí um Fhaoiseamh Fiachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Money matters after a death</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Foinsí eolais maidir le filleadh ar oideachas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Money matters after a death</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Foinsí faisnéise ar ghnólacht a thosú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Mortgage Arrears Resolution Process (MARP)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Forbhreathnú ar cheadanna fostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Motor tax and insurance</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Forghníomhú an Dlí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Motor tax, carbon tax and other taxes • Motorcycle driving tests in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Forléargas ar chóras oideachais na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Moving abroad from Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Forlíontaí téimh agus aiste bia</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Moving from home to long-term care</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Fostaíocht agus míchumas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Moving to Ireland and your social security entitlements</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Fostaíocht pháirtaimseartha agus árachas sóisialach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Moving to Ireland for third-level education</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Fostaíocht: tusa agus do phost</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Moving to a new home</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Fothoghcháin in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Moving your children to primary school</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Freagairtí maidir le riaráistí morgáiste agus fiachas pearsanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Moving your children to secondary school</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Fuadach idirnáisiúnta leanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• National Age Card Scheme • National Archives of Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gabháil agus coinneáil neamhdhleathach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• National Elections • National Gallery of Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gailearaí Náisiúnta na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• National Intellectual Disability Database</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gairmchlár na hArdteistiméireachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• National Museum of Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gairmoideachas agus oiliúint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• National Physical and Sensory Disability Database</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gasúir agus Ógchiontóirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• National mortgage-to-rent scheme • National policy on children and young people</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gealtacht choiriúil agus meabhairshláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Negligence and compensation in a civil case</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gearán a dhéanamh faoi nuachtán nó faoi iris</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Neighbourhood Watch • Night work • Noise nuisance</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gearán a dhéanamh faoi sheirbhís sláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Nomination of Candidates for election to the European Parliament</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gearán a dhéanamh faoi soláthróirí seirbhíse airgeadais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Nomination of Seanad panel candidates</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gearán a dhéanamh faoi thiománaí tacsaí, hacnaí nó limisín in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Nomination of candidates for membership of Dáil Éireann</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gearán a dhéanamh maidir le clár teilifíse nó raidió in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Nomination to the Seanad by the Taoiseach</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gearradh cánach ar dhaoine pósta in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Non-Principal Private Residence Charge (NPPR) • Notaries public</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gearradh cánach ar íocaíochtaí leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Notice of intent to remain in rented dwelling</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gearradh pionóis ag trialacha coiriúla in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Notice of termination of tenancy</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gluais de Théarmaí Inimirce</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Notification requirements for marriage</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gluais de théarmaí fostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Nullity of civil partnership</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gluais théarmaíocht fhiachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Office of the Accountant of the Courts of Justice • Office of the Court of Appeal – Civil</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gníomhaíochtaí athstiúrtha agus cláir d'ógchiontóirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Office of the Court of Appeal – Criminal and Military</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gníomhaíochtaí caitheamh aimsire do dhaoine óga</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Office of the General Solicitor for Minors and Wards of Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gníomhaireachtaí a sholáthraíonn seirbhísí do dhaoine gan dídean</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Office of the Taxing Master</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gnó a chur ar bun</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Older People and Working</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gnó a dhúnadh nó a dhíol</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Older people and jobseeker's payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gradam an Uachtaráin – Gaisce</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Older people's tax credits and reliefs</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Grinnfhiosrúcháin an Gharda Síochána</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Online services for PAYE taxpayers</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Iarmhairtí neamhnithe sibhialta pósta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Opening and switching a bank account</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Iarratas a dhéanamh ar Choláiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Optometric and ophthalmic services</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Iarratas a dhéanamh ar cheadúnas tiomána</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Ordinary referendum • Organ and body donation</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Iarratas a dhéanamh ar thithíocht shóisialta/údaráis áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Organisations and resources for post-primary schools</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Iarrthóirí Painéal an tSeanaid a Ainmniú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Organisations and resources for primary schools</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Iarrthóirí a ainmniú do bhallraíocht i bParlaimint na hEorpa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Other types of leave from work</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Iasacht Rogha Tí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Overview of employment permits</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Iasachtaí agus creidmheas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Overview of employment rights enforcement</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Íasachtaí ón údarás áitiúil ar mhaithe le feabhsucháin tí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Overview of hospital services</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Iasachtú airgid in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Overview of mental health and mental illness</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Idirghabháil sa láthair oibre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Overview of mortgage debt</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Imeacht thar lear</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Overview of problem debt</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Imeachtaí cúirte chun fiachais a aisghabháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Overview of the Irish education system</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Imeachtaí i gcásanna cúirte sibhialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Overview of the Supplementary Welfare Allowance Scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Inghlacthacht ráiteas finné áirithe i dtriail choiriúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Overview: people granted refugee status or subsidiary protection or permission to remain</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Iniúchadh umair sheipteacha agus córais chóireála fuíolluisce tí eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• PAYE overpayments and underpayments of tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Institiúidí airgeadais agus aitheantas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Parking facilities for people with disabilities</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Íocaíocht na Cánach Maoine Áitiúla a Iarchur</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Parking fines and vehicle clamping</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Íocaíochtaí Cúnaimh Shóisialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Parole Board of Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Íocaíochtaí Leasa Shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Part-Time Job Incentive Scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Íocaíochtaí Leasa Shóisialaigh le Teaghlaigh agus le Leanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Part-time work and social insurance (PRSI)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Íocaíochtaí leasa shóisialaigh agus an deontas mac léinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Patient support organisations • Pay and employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Iompar frithshóisialta daoine fásta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Pay slips • Paying social insurance (PRSI)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Iompar frithshóisialta i dtithíocht shóisialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Paying the Local Property Tax (LPT)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Iompar frithshóisialta leanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Payments to carers • Payments to families and children</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Iompar scoile do ghasúir le riachtanais speisialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Penalty points for driving offences</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ionadaíocht Dhleathach i gcás Coiriúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Pensions • Permission to enter Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ionaid Eolais don Óige</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Personal Microcredit Scheme - It Makes Sense loans</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Íoschaighdeáin fhisiciúla i dtithíocht ar cíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Personal Public Service Number</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Íospartaigh na Coireachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Political system at local level</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Leabharlann Chester Beatty</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Political system at national level</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Leabharlann Náisiúnta na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Pollution prevention and control</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Leanaí agus an córas ceartais choiriúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Post Leaving Certificate courses</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Leanaí agus cearta in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Powers of local authorities</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Líonraí teileafóin phóca</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Pre-school education and childcare</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Liúntais Bhreisoideachais agus Oiliúna (BOO)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Pregnancy and social welfare payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Liúntas Cuardaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Prescribed drugs and medicines</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Liúntas Cuardaitheora Poist agus obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Prescription charges for medical card holders</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Liúntas Cúram Baile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• President - Summoning and dissolving the Dáil</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Liúntas Cúramóra leath-ráta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• President - representing the people</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Liúntas Fiontraíochta Gearrthréimhseach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• President and the Defence Forces</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Liúntas Fiontraíochta um Fhilleadh ar Obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• President of Ireland and legislation</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Liúntas Leasa Forlíontach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• President's Award - Gaisce</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Liúntas Leasa na nDall</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Pricing of goods and services</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Liúntas um Fhilleadh ar Oideachas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Primary Care Reimbursement Service</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Luathoideachais don óige <ph/>  M</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Primary and post-primary education</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má dhiúltaítear do d'iarratas ar stádas dídeanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Primary school transport scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má theastaíonn ó do thiarna talún go bhfágfadh tú an teach nó an t-árasan</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Prisons and Places of Detention • Privacy and Cookies</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Mar is féidir d’ioncam na dtuismitheoirí dul i bhfeidhm ar an Liúntas Leasa Forlíontach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Private tenants: security of tenure</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Meabhairshláinte agus breoiteacht mheabhrach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Probation and welfare services</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Measúnú a dhéanamh ar mhaoin lánúine le haghaidh íocaíochtaí cúnaimh shóisialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Problems in marriages and other relationships</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Measúnú ar riachtanais do dhaoine faoi mhíchumas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Proceedings in civil court cases</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Meicníochtaí cobhsaíochta an AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Property rights and the breakdown of a relationship</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Mí-úsáid leanaí a thuairisciú ag leibhéal na bunscoile agus na hiar-bhunscoile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Property rights of cohabiting couples</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Míchumas agus Tinneas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Public order offences and powers of arrest</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Motor tax, carbon tax and other taxes</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Public transport commuter tickets and tax  Q</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Muirear ar Áit Chónaithe Phríobháideach Neamhphríomha (NPPR)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Re-use of Public Sector Information</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Na cearta ag atá tiarnaí talún agus na hoibleagáidí atá orthu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Reactivation Employment Permit • Real evidence</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Na cearta atá ag lánúineacha comhchónaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Recovery of social welfare overpayments</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Na cearta atá ag lánúineacha den ghnéas céanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Recreational activities for young people</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Na céimeanna a bhaineann le teach a cheannach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Recreational activities in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Na costais a bhaineann le teach a cheannach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Recycling Waste Electrical and Electronic Equipment</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Na cúirteanna agus íospartaigh choireanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Recycling services and waste management • Redress scheme for cohabiting couples</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Na háiseanna páirceála do dhaoine le míchumas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Referendum Commission • Referendum result in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Na híocaíochtaí do theaghlaigh agus leanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Refugee status and leave to remain</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Na híocaíochtaí iomarcaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Registering a political party in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Na híocaíochtaí míchumais agus obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Registering the birth of your baby</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Na príosúin agus íospartaigh choireanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Registration of non-EEA nationals</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Nós imeachta Eorpach um éilimh bheaga</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Regulation of pre-school childcare services</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Nósanna Imeachta na Cúirte Cuarda</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Regulation of premium rate telephone services</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Nósanna Imeachta na Cúirte Dúiche</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Regulation of public swimming pools in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Nósanna Imeachta na hArd-Chúirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Regulation of residential care for older people</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Nósanna imeachta iomarcaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Rehabilitation and training services for people with disabilities</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Nuair a chuirtear breith ar leataobh agus scaoileadh saor sealadach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Relationships and your rights</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Nuair a fhaigheann duine bás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Religious and secular marriage ceremonies</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Nuair a fhaigheann duine bás gan choinne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Remission and temporary release from prison</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Nuair a iarrtar ort d'uaireanta oibre a laghdú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Renewing an Irish passport</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Nuair a íoctar déanach thú go rialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Renewing your driving licence</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Núis torainn <ph/>  O</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Rent Supplement and changes to your circumstances</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Obair dheonach agus íocaíochtaí leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Rent arrears in local authority housing • Rent books</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Obair fheabhsucháin in áit tí ón údarás áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Rent increases in private rented housing</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Obair in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Renting out a room in your home</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Óglaigh na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Replacement Candidates for the European Parliament</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Oibleagáidí fostóirí agus cearta fostaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Replacing a lost, stolen or damaged driving licence or learner permit</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Oibrithe imirceacha agus dífhostaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Reporting child abuse at primary and post primary level</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Oideachas Tríú Leibhéil in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Repossession of rented social housing</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Oideachas bunscoile agus iar-bhunscoile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Residence requirements for social assistance in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Oideachas do dhaoine le stádas dídeanaí nó cosanta coimhdí nó le cead fanachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Residence rights in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Oideachas in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Residence rights of non-EEA nationals</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Oideachas riachtanas speisialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Resolving disputes between landlords and tenants</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Oideachas riachtanas speisialta: oideachas iarbhunscoile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Resources for non-English-speaking pupils</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Oideachas tríú leibhéil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Responses to mortgage arrears and personal debt</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Oidis dochtúra tras-teorainn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Rest periods and breaks</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Oifig Chuntasóra na gCúirteanna Cirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Restriction on movement orders</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Oifig an Ard-Aturnae do Mhionaoisigh agus do Choimircithe Cúirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Right to silence in criminal cases</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Oifig na gCoimircithe Cúirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Right to vote in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Oifig na hArd Chúirte - an Oifig Lárnach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Rights and obligations of asylum seekers in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Oifigigh Chustaim agus Máil - cearta chun bagáiste taistealaithe a chuardach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Rights conferred on people granted refugee or subsidiary protection status or permission to remain</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Oiliúint Soghluaiseachta do dhaoine ar a bhfuil lagú amhairc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Rights of cohabiting couples</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Oiliúint agus lorg oibre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Rights of same-sex couples</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ombudsman na bPinsean</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Rights of young workers</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Online services GA</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Roads and safety • Role of the judge</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Orduithe Rialaithe Fostaíochta agus comhaontuithe fostaíochta cláraithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Role of the jury • Role of the tipstaff</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Orduithe Srianta Gluaiseachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Rounding of cash transactions</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Orduithe Urchoisc, Sábháilteachta agus Cosanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Rules for specific debts</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Orduithe agus comhaontuithe cothabhála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Rules relating to your evidence</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Orduithe ciontóirí gnéis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Safefood - the Food Safety Promotion Board</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Pacáiste Sochar Teaghlaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Safety advice for motorcyclists</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Pacáistí cúram baile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Safety advice for motorists</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Páirtí polaitiúil a chlárú in Eirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Safety advice when motoring</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Páirtnéireacht shibhialta agus lánúineacha comhghnéis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Safety of Personal Protective Equipment</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Páirtnéireacht shibhialta agus oidhreachtúlacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Safety of Products for Sale • Safety of electrical and gas products and furniture</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Páirtnéireacht shibhialta agus teidlíochtaí leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Schemes to support employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Pas Éireannach a athnuachan</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• School terms in primary and post-primary schools • School transport for children with special needs</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Pinsean Baintrí, Baintrí Fir nó Páirtnéara Shibhialta Mharthanaigh (Neamh-Ranníocach)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• School transport for post-primary students • Schools and information technology</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Pinsean Baintrí, Baintrí Fir nó Páirtnéara Shibhialta Mharthanaigh (Ranníocach)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Seanad - election of university candidates</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Pinsean Stáit (Neamh-Ranníocach)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Seanad - the University Constituency</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Pinsean Stáit (Ranníocach)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Sentencing at criminal trials in Ireland • Separation agreements</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Pointí pionóis i gcomhair cionta tiomána</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Separation and divorce: children</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Polasaithe árachais chun do mhorgáiste a chosaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Separation, divorce and dissolution</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Polasaithe árachais saoil nár héilíodh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Services for asylum seekers in Ireland • Setting up a new club</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Post a aimsiú agus a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Sex offenders treatment programmes</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Praghsáil earraí agus seirbhísí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Signing off when you start work</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Priosuin agus aiteanna coinneala</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Single Person Child Carer Credit</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Príosúnaigh Éireannach thar Lear</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Skills training linked to national development</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Próiseas Réitigh do Riaráistí Morgáiste (MARP)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Small claims and a court hearing</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Promhadh agus Seirbhísí Leasa Shóisialaigh <ph/>  R</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Social welfare payments and living on a specified island</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ranníocaíochtaí fadchónaithe i leith seirbhísí tacaíochta cónaitheacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Social welfare payments following a death</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Reachtaíocht i bhfeidhm maidir le gealltanais teipthe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Social welfare system in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Reachtaíocht um bhainistíocht dramhaíola</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Solving problems accessing rights in other EU Member States</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Réamhrá ar chreidmheasanna cánach agus faoiseamh ó cháin ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Sources of information on returning to education</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Réamhriachtanais don Phósadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Special needs education in primary schools</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Réiteach Malartach ar Dhíospóidí in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Special needs education: post-primary</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Réiteach fadhbanna le rochtain ar chearta i mBallstáit eile den AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Speech and language therapy services</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Riachtanais fógartha don phósadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Spent convictions • Sport and Leisure</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Riachtanais víosa le teacht isteach in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Sport for blind and visually impaired people</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Rialacha a bhaineann le d'fhianaise</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Stamp duty on financial cards</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Rialacha inimirce do mhic léinn lánaimseartha neamh-LEE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Stamp duty on property • Standard Bereavement Grant</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Rialacháin chustaim do thaistealaithe go hÉirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Start Your Own Business Relief</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Rialachán iompair aeir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Starting work and changing job</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Rialtas Náisiúnta na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• State examination arrangements for children with disabilities</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Rialú ar sheirbhísí cónaitheacha do dhaoine le míchumais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• State examinations • Statements from suspects</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Rialú cúraim chónaithe do dhaoine scothaosta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Steps involved in buying a home</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Rialú sluaite ag imeachtaí poiblí in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Student visas to study in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Rialúchán na brústocaireachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Students on campus - crime prevention</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Rialúchán na soláthraithe seirbhísí chúram leanaí réamhscoile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Succession rights following a separation/divorce/dissolution</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Riaráistí morgáiste: scéim cúnaimh agus comhairle</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Sudden or unexplained death</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ró-íocaíochtaí agus gearríocaíochtaí cánach ÍMAT</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Support for victims of crime</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Rochtain ar thaifid na nGardaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Support services for foreign nationals in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Rogha Oideachais Páirtaimseartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Support services for those affected by suicide</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Rogha Oideachais, Oiliúna agus Forbartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Supported employment for people with disabilities</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Roghanna dlíthiúla tar éis cliseadh pháirtnéireacht shibhialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Supports for families of prisoners</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Roghanna i gCúram Réamhbhreithe (Roimh an mBreith)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Supports for postnatal depression</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Roghanna um Dhócmhainneacht Phearsanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Supreme Court of Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Roimh bhás duine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Surrogate motherhood and same-sex couples</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ról an ghiolla cúirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Surveillance in the workplace</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ról an ghiúiré</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Tackling disadvantage in primary schools • Taking a civil case</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sábháilteacht Táirgí Leictreacha agus Gáis agus Troscáin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Tax • Tax Appeals Commission • Tax and starting work - PAYE</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sábháilteacht Táirgí agus Lipéadú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Tax credits and reliefs for people with disabilities</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sábháilteacht Trealamh Cosanta Pearsanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Tax for self-employed people • Tax in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sábháilteacht agus nimhiú bia</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Tax relief for drivers and passengers with disabilities</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sábháilteacht bia agus ag ithe lasmuigh den bhaile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Tax relief on nursing home fees and for dependent relatives</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sábháilteacht bia agus seirbhísí sláinte comhshaoil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Tax reliefs for people with a visual impairment</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sábháilteacht bia agus siopadóireachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Tax residence and domicile in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sábháilteacht bia sa bhaile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Tax-free purchases for non-EU travellers</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sábháilteacht bréagán agus táirgí do leanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Taxation and medical expenses</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sábháilteacht i gcóir Táirgí ar Díol</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Taxation of benefits from employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sainaithint agus rialú capall</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Taxation of married people and civil partners</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Saincheisteanna cánach do thionóntaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Taxation of pensions • Taxation of social welfare payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Saincheisteanna sláinte agus tú ag taisteal thar lear</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Taxes, charges and reliefs • Teacher qualifications</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Saoire agus laethanta saoire</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Telecommunications and postal services</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Saoire bhreoiteachta agus pá breoiteachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Tenants’ rights and obligations</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Saoire do thuismitheoirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The President • The State Examinations Commission</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Saoirse gluaiseachta daoine laistigh de limistéar Schengen</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The asylum process in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Saoráil Faisnéise in Eirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The procedure for being a witness • The role of witnesses</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Saoránacht d'Éirinn ó bhreith nó ó ghinealach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The working week • Third-level courses for mature students</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Saoránaigh Éireannacha ag teacht nó ag filleadh go hÉirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Third-level student fees and charges</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Scaradh agus Colscaradh: Páistí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Time limitations for the commencement of criminal proceedings</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Scaradh, colscaradh agus creidmheasanna agus faoiseamh cáin ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Toll roads • Tracing your birth family</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Scaradh, colscaradh agus díscaoileadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Trade disputes and industrial action</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Scéim Aoischárta Náisiúnta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Training and looking for work</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Scéim Chúram Leighis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Transition from One-Parent Family Payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Scéim Deiseanna Oiliúna Gairmoideachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Travel • Travel abroad</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Scéim Dreasachta Jabanna (ÁSPC) i gcomhair Fostóirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Travel documents for people with refugee or subsidiary protection status</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Scéim Fóirdheontas Tuarastail do fhostóirí le foireann mhíchumasaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Travelling abroad and vaccinations</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Scéim Leasaithe um Chomhairle Dlí Stáisiún an Gharda Síochána</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Travelling abroad with children</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Scéim Liúntas Morgáiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Travelling abroad: general tips</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Scéim Rabhadh do Sheanóirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Treatment of child suspects in Garda custody</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Scéim chúitimh do lánúineacha cómhchónaitheacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Tribunals and investigations - introduction</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Scéim iompair do scoileanna dara-leibhéil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Trust funds for permanently incapacitated people</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Scéim iontrála HEAR do mhic léinn a bhfuil cúlra faoi mhíbhuntáiste acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Tusla - the Child and Family Agency</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Scéim mhicrichreidmheasa – iasachtaí 'Luíonn sé le Ciall' ('It Makes Sense')</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Types of post-primary school</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Scéim um Thithe Fuinnimh níos Fearr</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Types of primary school</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Scéimeanna Leasa Forlíonacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Types of residence permission for non-EEA nationals</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Scéimeanna Scaireanna Fostaithe in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Types of sentences • Types of witnesses  U</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Scéimeanna Tacaíochta Fostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• UN Convention on the Rights of the Child</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Scéimeanna chun tacú le fostaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Unclaimed life insurance policies</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Scéimeanna tithíochta inacmhainne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Unfair terms in consumer contracts</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Scor ón obair in Éireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Universal Social Charge (USC)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Scrúdú Náisiúnta Feithiclí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Unlawful arrest and detention</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Scrúdú Teoirice Tiomána</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Vehicle registration plates in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Scrúduithe tiomána gluaisrothair in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Victims of Crime and the Garda Siochana • Victims of crime</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seanad - toghchán iarrthóirí ollscoile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Victims of crime and the Probation Service</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seanóirí agus Daoine Scortha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Victims of crime and the law</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seanóirí agus obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Victims of crime and the prisons • Visa requirements for entering Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Searmanais an phósta reiligiúnacha agus saolta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Visas for tourists visiting Ireland • Visiting Teacher Service</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Searmanais an phósta sibhialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Visitors to Ireland - crime prevention • Vocational Training Opportunities Scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seicliosta chun iarratas a dhéanamh ar Phinsean Stáit (Neamhranníocach)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Vocational education and training</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seicliosta chun iarratas a dhéanamh ar shaoire cúramóra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Voluntary development work abroad and social insurance</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seicliosta de nithe le déanamh ag lucht méala tar éis báis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Voluntary social insurance contributions</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seicliosta do dhaoine faoi mhíchumas agus ar a bhfuil galar fadtéarmach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Voluntary work and social welfare payments • Voting</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seicliosta do náisiúnach nach ón Limistéar Eorpach Eacnamaíoch dó, atá ina chónaí lasmuigh d’Éirinn agus atá ag pósadh náisiúnach Éireannach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Voting in a referendum • Voting procedure in a European election</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seicliosta na gcáipéisí a bhfuil gá leo nuair atáthar ag déanamh iarratais ar dheontas mic léinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Voting procedure in a general election  W</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seicliosta nuair a dhéantar siopadóireacht ar líne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Wage Subsidy Scheme • Walking and rambling in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seicliosta nuair atá achomharc á dhéanamh in aghaidh chinnidh leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Wards of Court • Waste from electrical and electronic equipment</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seicliosta nuair atá iarratas á dhéanamh ar Liúntas Cuardaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Waste management and recycling • Waste management legislation</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seicliosta nuair atá iarratas á dhéanamh ar Shochar Cuardaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Waste services • Water Conservation Grant</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seicliosta: Daoine dífhostaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Water charges • Water charges for group schemes and businesses</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seicliosta: Treoir ar nósanna imeachta iomarcaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• What happens the deceased's estate</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seicliosta: cúram leanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• What happens to debts after death?</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seicliosta: fágóirí scoile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Where to complain about a professional and others</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seicliosta: faisnéis do dhaoine féinfhostaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Where to complain about home building or home improvements</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seicliosta: teidlíochtaí agus tacaíochtaí do thuismitheoirí aonair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Where to complain about medical professionals</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seicliosta: teidlíochtaí do dhaoine aosta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• White Flag recreational facilities in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seicliosta:Cá gcoimeádtar mo mhaoin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Who can become an Irish citizen?</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seirbhís Dócmhainneachta na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Withdrawing from the international protection process</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seirbhís Idirghabhála don Teaghlach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Witnesses under 18 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seirbhís síceolaíochta i scoileanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Working abroad • Working in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seirbhísí Bus in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Working in retirement • Working in the EU</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seirbhísí Cóireála Alcóil agus Drugaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Worksheet for calculating Rent Supplement</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seirbhísí LG do dhaoine a bhfuil cártaí leighis acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Worksheet on calculating your redundancy payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seirbhisi Leighis i bpriosun</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Worksheet: How to calculate your Family Income Supplement</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seirbhísí Lia-chleachtóirí agus Ospidéal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Worksheet: Jobseeker's Allowance and income from work</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seirbhísí Oideachais Priosúin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Worksheet: One-Parent Family Payment and income from work</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seirbhísí Ospidéil - Réamhrá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Young people at work</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seirbhísí Sláinte Leanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Your P45 and P60 certificates</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seirbhísí Sláinte Scoile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Your health after birth</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seirbhísí Teiripe Saothair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Your rights as a consumer in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seirbhísí agus tacaíocht do leanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Your rights as a housing association tenant</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seirbhísí agus teidlíochtaí do dhaoine ag lorg tearmainn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Your rights when you buy a service</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seirbhísí agus teidlíochtaí leighis d'iarrthóirí tearmann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Youthreach  Back to top Back to top  Contact Us</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seirbhísí athchúrsála agus bainistíocht dramhaíola</seg></tuv>
+</tu>
+</body>
+</tmx>

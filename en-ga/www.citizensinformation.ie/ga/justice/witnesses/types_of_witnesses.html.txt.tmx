@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>You may be called to give evidence as a witness in a criminal case or a civil case</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh sé go nglaofaí ort le fianaise a thabhairt mar fhinné i gcás coiriúil nó i gcás sibhialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may be called as an "eye-witness" if you personally witnessed something happen that is relevant to the case</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh sé go nglaofaí ort mar "fhinné súl" má chonaic tusa go pearsanta rud ag tarlú a bhaineann leis an gcás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may be called by either side in the case, whether it is a criminal case or a civil case</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le ceachtar den dá thaobh sa chás glaoch ort, is cuma cé acu cás coiriúil nó sibhialta atá i gceist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you take the stand, a Bible will be handed to you and you will repeat the oath or affirmation that you will "tell the truth, the whole truth and nothing but the truth"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a théann tú ar an seastán, tabharfar Bíobla duit agus athdheirfidh tú an mionn nó dearbhú go n-inseoidh tú an fhirínne, an fhírinne ghlan gan tada ach an fhírinne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will then be asked a series of questions to allow you to describe what you witnessed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirfear ceisteanna ansin ort le deis a thabhairt duit insint céard a chonaic tú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your evidence as an "eye-witness" will be confined to the facts, i.e. what you actually saw, rather than any inferences or assumptions you have made from what you saw</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann an fhianaise a thugann tú mar "fhinné súl" leis na fíricí amháin, is é sin an méid a chonaic tú go díreach, seachas aon chonclúidí nó barúlacha atá agat maidir leis an rud a chonaic tú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will then be cross-examined by the other side</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfaidh an taobh eile ansin tú a chroscheistiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may be called as an "expert witness" by either side in a case about a matter that is outside the ordinary knowledge of the judge or jury</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh sé go nglaofadh ceachtar den dá thaobh i gcás ort mar "fhinné saineolaí" le fianaise a thabhairt a bhaineann le ábhar atá taobh amuigh den ghnáth eolas a bheadh ag breitheamh nó giúiré</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, you may be called as a handwriting expert or as a doctor to give an opinion on something that is relevant to the case</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, d'fhéadfaí glaoch ort mar shaineolaí lámhscríbhneoireachta nó mar dhochtúir le tuairim a thabhairt ar cheist a bhaineann leis an gcás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your opinion is accepted as evidence because you are an expert on the subject and because the court does not have the knowledge or expertise itself to form a reliable opinion on the facts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Glactar le do thuairim mar fhianaise ós rud é gur saineolaí ar an ábhar thú agus mar gheall nach bhfuil an t-eolas ná an saineolas ag an gcúirt féin le tuairim údarásach a thabhairt ar na fíricí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As an expert witness, you must also take the oath or affirmation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar fhinné saineolaí ní mór duit mionn nó dearbhú a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will then be asked to explain why you are an expert in the particular area, i.e. to outline your qualifications or work experience</seg></tuv>
+  <tuv xml:lang="ga"><seg>Iarrfar ort ansin a mhíniú cén fáth gur féidir saineolaí a thabhairt ort maidir leis an gceist áirid, is é sin, cur síos a dhéanamh ar do cháilíochtaí nó taithí oibre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will then be asked a series of questions to allow you to give your opinion about certain facts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirfear ceisteanna ansin ort le deis a thabhairt duit do thuairim maidir le fíricí faoi leith a thabhairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Finally, you will be cross-examined by the other side</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar deireadh, déanfaidh an taobh eile tú a chroscheistiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are different situations where you may be called as a "character witness":</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá amanna éagsúla inár féidir glaoch ar dhuine mar "fhinné carachtair":</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You may be called as a character witness to give evidence of the good character of the accused in a criminal case</seg></tuv>
+  <tuv xml:lang="ga"><seg>• D'fhéadfadh sé go nglaofaí ort mar fhinné carachtair le fianaise a thabhairt maidir le dea-cháil an chúisí i gcás coiriúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will take the oath or affirmation and you will then be asked a series of questions to allow you to describe the accused</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfaidh tú mionn nó dearbhú agus ansin cuirfear ceisteanna ort a thabharfaidh deis duit cur síos a dhéanamh ar an gcúisí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The purpose of your evidence is to show that the accused is less likely to have committed the offence because he or she is a person of good character</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé mar aidhm ag d'fhianaise a thaispeáint go bhfuil níos lú seans ann gur dhein an cúisí an choir mar gheall gur duine de dhea-cháil é/í</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You may be called as a character witness to give evidence of the good character of a person who has already been convicted of a criminal offence</seg></tuv>
+  <tuv xml:lang="ga"><seg>• D'fhéadfadh sé go nglaofaí ort mar fhinné carachtair ar son duine atá ciontaithe cheana as coir choiriúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The purpose of your evidence is to help the judge decide which sentence to impose</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé mar aidhm ag d'fhianaise cúnamh a thabhairt don bhreitheamh cinneadh a dhéanamh cén pionós gur cheart a ghearradh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You may be called as a character witness to give evidence about the good or bad character of a party in a civil trial if that party's character is an important issue in the case</seg></tuv>
+  <tuv xml:lang="ga"><seg>• D'fhéadfadh sé go nglaofaí ort mar fhinné carachtair le fianaise a thabhairt maidir le dea nó droch cháil duine i dtriail sibhialta más ceist tábhachtach í carachtair an duine sin ó thaobh an cháis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, in a defamation case where a newspaper stated that a person was a "rogue", you may be called to give evidence about an incident you witnessed that tends to show that the person in question was of dubious character</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, i gcás aithisithe áit ar dúradh i nuachtán gur "rógaire" é/í duine d'fhéadfadh sé go nglaofaí ort le fianaise a thabhairt maidir le eachtra a chonaic tú féin ag tarlú gur dóigh a thaispeánann gur carachtair amhrasach é/í an duine atá i gceist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will make the oath or affirmation and then you will be asked a series of questions to allow you describe what you know of the party's character</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfaidh tú mionn nó dearbhú agus ansin cuirfear ceisteanna ort a thabharfaidh deis duit cur síos a dhéanamh ar a bhfuil ar eolas agat maidir le carachtair an duine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will then be cross-examined by the other side</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ansin déanfaidh an taobh eile tú a chroscheistiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For more detailed information you should seek legal advice</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir duit comhairle dlí a lorg chun faisnéis mionsonraithe a fháil</seg></tuv>
+</tu>
+</body>
+</tmx>

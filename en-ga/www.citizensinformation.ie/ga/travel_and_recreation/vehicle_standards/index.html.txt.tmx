@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>The National Car Test is a compulsory test that ensures your vehicle meets the highest standards of road safety and environmental protection. Find out how the test is conducted, how and where to apply and how to prepare for the test</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá cur síos anseo ar an Scrúdú Náisiúnta Feithiclí, ar a bhfuil conas réiteach faoina chomhair, conas iarratas a dhéanamh agus conas a n-oibríonn sé san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are strict rules in place regarding the format, dimensions, etc., of vehicle registration plates in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá rialacha géara leagtha síos maidir le cruth, tomhais &amp;rl clárphlátaí feithiclí in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Lighting of motorcycles in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Soilsiú gluaisrothar in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This document discusses the specific rules about the type of lamps and reflectors that must be fitted to motorcycles</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá cur síos sa cháipéis seo ar na rialacha faoi leith a bhaineann le cineálacha lampaí agus frithneoirí nach mór a bheith ar ghluaisrothair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Lighting of bicycles in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Soilsiú rothar in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All bicycles used in Ireland are required to have certain lighting fitted as standard</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní foláir do gach rothar as a mbaintear leas in Éirinn soilsiú áirithe a bheith feistithe orthu mar nós caighdeánta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most Read in "Travel and Recreation"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ábhar is mó éilimh i "Taisteal agus Áineas"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Applying for your first Irish passport</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag déanamh iarratais ar phas Éireannach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Renewing an Irish passport</seg></tuv>
+  <tuv xml:lang="ga"><seg>Pas Éireannach a athnuachan</seg></tuv>
+</tu>
+</body>
+</tmx>

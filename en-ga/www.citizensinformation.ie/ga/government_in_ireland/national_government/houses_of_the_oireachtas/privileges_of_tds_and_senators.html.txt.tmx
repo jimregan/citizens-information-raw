@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Members of the Oireachtas (TDs and Senators) enjoy certain constitutional privileges</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá pribhléidí áirithe bunreachtúla ag an Oireachtas (Teachtaí Dála agus Seanadóirí) in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that they have certain rights and privileges that are set down by Bunreacht na hÉireann (the Irish Constitution)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn seo go bhfuil cearta agus pribhléidí áirithe acu atá leagtha síos ag Bunreacht na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• TDs and Senators may not, for example, be arrested when going to, returning from or being within the precincts of either the Dáil or Seanad</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní ceadmhach, mar shampla, Teachtaí Dála ná Seanadóirí a ghabháil le linn dóibh a bheith ag dul chuig aon cheann den Dáil nó an Seanad) ag filleadh uathu nó le linn dóibh a bheith laistigh de phurláin ceachtar den dá Theach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This privilege does not apply to arrest for treason, felony or breach of the peace</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl feidhm leis an bpribhléid sin i gcás gabhála de bharr tréasa, feileonachta ná briseadh síochána</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• TDs and Senators may not be sued for defamation because of any speech in the House</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní féidir dlí a agairt ar Theachtaí Dála ná ar Sheanadóirí de bharr aon óráide sa Teach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This privilege protects members both in the House and at Committee hearings</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann an phribhléid seo cosaint do bhaill sa Teach agus ag éisteachtaí Coistí araon</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a member of either House acts in a way that amounts to an abuse of a privilege, the Committee on Procedures and Privileges may recommend disciplining the member</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má ghníomhaíonn ball cheachtar den dá Theach ar bhealach arb ionann é agus mí-úsáid pribhléide, is féidir leis An Coiste um Nós Imeachta agus Pribhléidí moladh a dhéanamh an ball a chur faoi smach</seg></tuv>
+</tu>
+</body>
+</tmx>

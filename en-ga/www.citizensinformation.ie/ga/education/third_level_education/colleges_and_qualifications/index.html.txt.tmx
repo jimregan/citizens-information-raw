@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Life Event Document Going to college If you are thinking of going to college this document outlines what is involved and where you can find the information you need</seg></tuv>
+  <tuv xml:lang="ga"><seg>Life Event Document Dul ar coláiste Má tá tú ag brath ar dhul ar coláiste tugann an doiciméad seo cuntas ar a bhfuil i gceist agus mar a bhfaighidh tú an fhaisnéis atá ag teastáil uait</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further and higher education qualifications</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cáilíochtaí ardoideachais agus oideachais leanúnaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The system of validation of qualifications in further and higher education</seg></tuv>
+  <tuv xml:lang="ga"><seg>An córas aitheantais atá ann do cháilíochtaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Third-level education in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Oideachas Tríú Leibhéil in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This document describes the system of third-level education in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann an doiciméad seo cuntas ar an gcóras oideachais tríú leibhéil in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most Read in "Education and Training"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ábhar is mó éilimh i "Oideachas agus Oiliúint"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>School terms in primary and post-primary schools</seg></tuv>
+  <tuv xml:lang="ga"><seg>Téarmaí scoile i mbunscoileanna agus iarbhunscoileanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further Education and Training (FET) allowances</seg></tuv>
+  <tuv xml:lang="ga"><seg>Liúntais Bhreisoideachais agus Oiliúna (BOO)</seg></tuv>
+</tu>
+</body>
+</tmx>

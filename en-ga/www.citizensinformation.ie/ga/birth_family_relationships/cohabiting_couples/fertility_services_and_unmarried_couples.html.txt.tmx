@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Fertility services and cohabiting couples</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seirbhísí torthúlachta agus lánúineacha comhchónaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are a number of different types of fertility services available, including artificial insemination and in vitro fertilisation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá roinnt cinéalácha difríúla seirbhísí torthúlachta ar fáil, ina measc inseamhnú saorga agus toirchiú in-vitreach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Part 3 of the Children and Family Relationships Act 2015 legislates for donor-assisted human reproduction, but has not yet been commenced</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuid 3 d'Acht na Leanaí agus Caidrimh Theaghlaigh 2015 reachtaíocht don atáirgeadh daonna deontóir-cúnamh, ach nár cuireadh tús go fóill</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Medical practice concerning the provision of Assisted Human Reproduction Services is governed by guidelines issued by the Irish Medical Council (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an cleachtas míochaine maidir le Seirbhísí Atáirgthe Dhaonna Chuidithe á rialú ag treoirlínte eisithe ag Comhairle na nDochtúirí Leighis (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Fertility services are generally available to applicants who are in a "stable relationship"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá seirbhísí torthúlachta ar fáil go ginearálta do iarrathóirí atá i "ngaol seasmhach"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is understood to mean married and cohabiting opposite-sex couples</seg></tuv>
+  <tuv xml:lang="ga"><seg>Glactar go gciallaíonn sé seo lánúineacha heitrighnéasacha atá pósta agus nach bhfuil pósta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Clinics generally refuse to make assisted reproduction available to cohabiting same-sex couples</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcleachtas, is gnách go ndiúltaíonn clinicí chun síolrú cuidithe a chur ar fáil do lánúineacha comhchónaithe comhghnéis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It has not yet been decided by an Irish court whether this refusal amounts to discrimination on the grounds of sexual orientation under the Equal Status Act 2000 or the Equality Act 2004</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní dhearna cúirt in Éirinn an cinneadh go fóill arb ionann an diúltú seo agus leithcheal ar bhonn claonadh gnéis faoin Acht um Stádas Comhionann, 2000 nó faoin Acht Comhionannais, 2004</seg></tuv>
+</tu>
+</body>
+</tmx>

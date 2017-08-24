@@ -1,0 +1,309 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>• Homelessness and the law</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An easpa dídine agus an dlí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Why do people become homeless?</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cén fáth a n-éiríonn daoine ina ndaoine gan dídean?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• National profile of homelessness</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Próifíl náisiúnta na heaspa dídine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This document provides information on homelessness and the law, the duties of the State towards people who are homeless, reasons for homelessness and national policy on homelessness</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann an doiciméad seo faisnéis ar fáil faoin easpa dídine agus faoin dlí, faoi na dualgais ar an Stát i leith daoine atá gan dídean, faoi chúiseanna leis an easpa dídine agus faoi bheartas náisiúnta maidir leis an easpa dídine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Action Plan: An Action Plan to tackle emergency and short-term homelessness was announced in December 2014, including:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Plean Gníomhaíochta: Fógraíodh Plean Gníomhaíochta chun dul i ngleic le heaspa dídine éigeandála agus ghearrthéarmach i Nollaig 2014, agus áirítear an méid seo a leanas leis:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Enhanced services for rough sleepers, priority allocation of social housing and rollout of the Housing Assistance Payment (HAP) for eligible homeless households – all in Dublin</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seirbhísí barrfheabhsaithe do dhaoine a chodlaíonn amuigh, tithíocht shóisialta a leithdháileadh ar bhonn tosaíochta agus an Íocaíocht Cúnaimh Tithíochta (an ÍCT) a thabhairt isteach do theaghlaigh incháilithe a bhfuil easpa dídine acu – go léir i mBaile Átha Cliath</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Extending the Tenancy Protection Service to Cork</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An tSeirbhís um Chosaint Tionóntachta a shíneadh chuig Corcaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Assessing the scale of homelessness in Cork, Limerick, Galway and Waterford and identifying actions needed</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Measúnú a dhéanamh ar an scála easpa dídine i gCorcaigh, Luimneach, Gaillimh agus Port Láirge agus na gníomhartha a theastaíonn a shainaithint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read more in ‘Strategy and policy’ below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir níos mó a léamh in ‘Straitéis agus beartas’ thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Homelessness and the law</seg></tuv>
+  <tuv xml:lang="ga"><seg>An easpa dídine agus an dlí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The main legislation dealing with homelessness includes the Health Act 1953, the Housing Act 1988 and the Child Care Act 1991</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áirítear leis an reachtaíocht phríomha a dhéileálann leis an easpa dídine an tAcht Sláinte, 1953, Acht na dTithe, 1988, agus an tAcht um Chúram Leanaí, 1991</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Section 2 of the Housing Act 1988 states that you are considered homeless if:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sonraítear in Alt 2 d’Acht na dTithe, 1988, go meastar gur duine gan dídean thú más rud é:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• There is no accommodation available that, in the opinion of the local authority, you and any other person who normally lives with you or who might reasonably be expected to live with you, can reasonably occupy or remain in occupation of, or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Nach bhfuil aon chóiríocht ar fáil a fhéadfaidh tú, i dtuairim an údaráis, a áitiú nó fanacht á háitiú le réasún, i dteannta aon duine eile a chónaíonn leat de ghnáth nó a bhféadfaí a bheith ag súil, le réasún, é a bheith ina chónaí leat, nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You are living in a hospital, county home, night shelter or other such institution, and you are living there because you have no suitable accommodation or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Go bhfuil tú i do chónaí in ospidéal, i dteaghlach contae, i bhfothain oíche nó i bhforas eile den sórt sin agus go gcónaíonn tú amhlaidh toisc nach bhfuil aon chóiríocht oiriúnach agat,</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You are, in the opinion of the local authority, unable to provide accommodation from your own resources</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Nach féidir leat, i dtuairim an údaráis, cóiríocht a chur ar fáil as d’acmhainní féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In general, you may be considered homeless if you are:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, is féidir a mheas go bhfuil tú gan dídean más rud é go bhfuil tú:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Staying in an emergency hostel or refuge</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag fanacht i mbrú éigeandála nó i dtearmann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Staying in bed and breakfast or hotel accommodation on a temporary basis</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag fanacht i dteach lóistín nó i gcóiríocht óstáin go sealadach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Staying temporarily with friends or family because you have nowhere else to go</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag fanacht go sealadach le cairde nó le teaghlach mar nach bhfuil aon áit eile le dul agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Squatting (occupying a building illegally)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag suiteoireacht (ag áitiú foirgnimh go neamhdhleathach)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Often the term ‘out-of-home’ is used to refer to people who have nowhere to live</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go minic, úsáidtear an téarma ‘as baile’ chun tagairt do dhaoine nach bhfuil áit chónaí acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This term recognises the fact that you may have a home that you cannot return to (for whatever reason)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Aithníonn an téarma sin an fhíric gur féidir go bhfuil teach agat nach féidir leat dul ar ais chuige (ar chúis éigin)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Duties of the State towards homeless people</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dualgais ar an Stát i leith daoine gan dídean</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>At present, there is no explicit right to housing in the Constitution or in Irish law</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi láthair, níl aon cheart follasach chun áitribh sa Bhunreacht ná i ndlí na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Constitutional Convention recommended in February 2014 that the Constitution should be amended to include economic, social and cultural rights, including a specific right to housing, but no decision has yet been made on this recommendation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Moladh sa Choinbhinsiún Bunreachtúil i mí Feabhra 2014 gur cheart an Bunreacht a leasú le go gcuirfí cearta eacnamaíocha, sóisialta agus cultúrtha san áireamh, lena n-áirítear ceart sonrach chun áitribh, ach ní dhearnadh aon chinneadh ar an moladh sin go fóill</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>While local authorities do not have a statutory obligation to house people, they do have general responsibility under the Housing Act 1988 for the provision of housing for adults who cannot afford to provide it for themselves</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cé nach bhfuil oibleagáid reachtúil ar údaráis áitiúil tithe a chur ar fáil do dhaoine, tá freagracht ghinearálta orthu faoi Acht na dTithe, 1988, as tithe a chur ar fáil do dhaoine fásta nach bhfuil sé ar a n-acmhainn íoc astu iad féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They may help with accommodation either by providing housing directly or through arrangements with voluntary housing organisations and other voluntary bodies</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh siad cabhrú le cóiríocht trí thithe a chur ar fáil go díreach nó trí shocruithe le heagraíochtaí deonacha tithíochta agus le comhlachtaí deonacha eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They may also provide funding to voluntary bodies for emergency accommodation and for long-term housing for homeless people</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh siad freisin maoiniú a chur ar fáil do chomhlachtaí deonacha le haghaidh cóiríocht éigeandála agus le haghaidh tithíocht fhadtéarmach do dhaoine gan dídean</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Act also requires that local authorities carry out periodic assessments of the number of people who are homeless in their administrative area, as part of their housing needs assessment – see 'National profile of homelessness' below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceanglaítear leis an Acht freisin ar údaráis áitiúla measúnuithe tréimhsiúla a dhéanamh ar líon na ndaoine atá gan dídean ina limistéar riaracháin mar chuid dá measúnú riachtanas tithíochta - féach próifíl náisiúnta na heaspa dídine thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Health Service Executive (HSE) has general responsibility for the health and in-house care needs of homeless people</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá freagracht ghinearálta ar Fheidhmeannacht na Seirbhíse Sláinte (FSS) as sláinte agus riachtanais chúraim inmheánaigh na ndaoine gan dídean</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In terms of funding, this means that local authorities are responsible for the costs of providing accommodation while the HSE provides funding for the care and welfare needs of homeless people, including in-house care</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó thaobh maoinithe de, ciallaíonn sé sin go bhfuil freagracht ar na húdaráis áitiúla as na costais a bhaineann le cóiríocht a chur ar fáil agus cuireann FSS maoiniú ar fáil le haghaidh riachtanais chúraim agus leasa na ndaoine gan dídean, lena n-áirítear cúram inmheánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Child and Family Agency (Tusla) has responsibility under the Child Care Act 1991 for providing accommodation for people under the age of 18 who are homeless or in need of care</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá freagracht ar an nGníomhaireacht um Leanaí agus an Teaghlach (Tusla) faoin Acht um Chúram Leanaí, 1991, as cóiríocht a chur ar fáil do dhaoine faoi bhun 18 mbliana d’aois atá gan dídean nó a dteastaíonn cúram uathu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It may also provide aftercare facilities for young people aged over 18</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh sé áiseanna iarchúraim a chur ar fáil do dhaoine óga os cionn 18 mbliana d’aois freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read more in our document on youth homelessness</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léigh tuilleadh inár gcáipéis maidir le heaspa dídine na n-óg</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Why do people become homeless?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cén fáth a n-éiríonn daoine ina ndaoine gan dídean?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The reasons for people becoming homeless are both complex and wide-ranging but there is a particular risk at present for families with tenancies in the private rented sector</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is casta agus fadréimseach araon atá na cúiseanna le daoine ag éirí ina ndaoine gan dídean ach tá baol ar leith faoi láthair do theaghlaigh ag a bhfuil tionóntachtaí i dtithíocht ar cíos san earnáil phríobháideach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>According to Ending Homelessness – A Housing-Led Approach (pdf), research shows that the following are the main factors that lead to homelessness:</seg></tuv>
+  <tuv xml:lang="ga"><seg>De réir Deireadh a Chur leis an Easpa Dídine - Cur Chuige Treoraithe ag Tithíocht (pdf), léiríonn taighde go bhfuil na nithe seo a leanas ar na príomhthosca is cúis leis an easpa dídine:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Housing and financial crises</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Géarchéimeanna tithíochta agus airgeadais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Family breakdown, including domestic violence</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cliseadh teaghlaigh, foréigean teaghlaigh san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The transition from youth to adulthood for young people in care or who were homeless as young people</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An trasdul ón óige chun na haosachta do dhaoine óga faoi chúram nó a bhí gan dídean mar dhaoine óga</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Many people are homeless for relatively short periods, for reasons linked to issues such as loss of employment, eviction or relationship breakdown</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá roinnt mhaith daoine gan dídean ar feadh tréimhsí réasúnta gairid ar chúiseanna a bhaineann le saincheisteanna amhail cailleadh fostaíochta, díshealbhú nó cliseadh caidrimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Others who experience multiple forms of social exclusion may become homeless in the long term, especially if they have been homeless before they become adults</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh na daoine sin a eispéiríonn foirmeacha éagsúla d’eisiamh sóisialta éirí ina ndaoine gan dídean san fhadtréimhse, go háirithe má bhí siad gan dídean sula raibh siad ina n-aosaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>National profile of homelessness</seg></tuv>
+  <tuv xml:lang="ga"><seg>Próifíl náisiúnta na heaspa dídine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are several different methods of counting the number of homeless people</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ann do roinnt modhanna éagsúla chun líon na ndaoine gan dídean a chomhaireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>While it is difficult to provide an accurate figure, it is clear that very many people are either homeless or at risk of losing their homes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cé go bhfuil sé doiligh figiúr cruinn a chur ar fáil, tá sé soiléir gurb ann do lear mór daoine atá gan dídean nó atá i mbaol a dtithe a chailleadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Homelessness is generally concentrated in urban areas and the majority of homeless people are in Dublin</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, tá an easpa dídine comhchruinnithe i limistéir uirbeacha agus is i mBaile Átha Cliath atá formhór na ndaoine gan dídean</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Housing Act 1988 requires local authorities to carry out assessments of housing need</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceanglaítear ar Acht na dTithe, 1988, ar údaráis áitiúla measúnuithe a dhéanamh ar riachtanas tithíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The homeless people who are included in this assessment are those who are registered with the local authority and have been assessed as being in need of housing</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad na daoine gan dídean a chuirtear san áireamh sa mheasúnú seo na daoine atá cláraithe leis an údarás áitiúil agus ar measadh iad a bheith ina ndaoine ag a bhfuil gá le teach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The most recent housing need assessment was carried out in 2011</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rinneadh an measúnú riachtanas tithíochta is déanaí in 2011</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Census 2011 was the first time that comprehensive information was collected on the number of homeless people in the State</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba é Daonáireamh 2011 an chéad uair riamh a bailíodh faisnéis chuimsitheach faoi líon na ndaoine gan dídean sa Stát</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Homeless people were counted on the basis of where they were on Census night and the count was undertaken with the help of the homelessness services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rinneadh daoine gan dídean a chomhaireamh ar bhonn cén áit a raibh siad ar oíche an Daonáirimh agus tugadh faoin gcomhaireamh le cabhair ó na seirbhísí easpa dídine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The results were published in Homeless Persons in Ireland; A special Census report</seg></tuv>
+  <tuv xml:lang="ga"><seg>Foilsíodh na torthaí sa tuarascáil Daoine gan Dídean in Éirinn: Tuarascáil Speisialta Daonáirimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Dublin Region Homeless Executive conducts a rough sleeper count in the Dublin region every 6 months</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann Feidhmeannacht Easpa Dídine Bhaile Átha Cliath comhaireamh gach 6 mhí ar na daoine atá ag codladh amuigh i réigiún Bhaile Átha Cliath</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Way Home – A Strategy to Address Adult Homelessness 2008-2013 (pdf), which was published in 2008, set out the aim of ending homelessness by 2016</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagadh amach an aidhm chun deireadh a chur leis an easpa dídine faoin mbliain 2016 sa cháipéis An Bealach Abhaile - Straitéis chun Aghaidh a Thabhairt ar an Easpa Dídine Aosach 2008-2013 (pdf), a foilsíodh in 2008</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A national implementation plan (pdf) was published in 2009 and the Programme for Government (2011) included a commitment to ending homelessness and the need to sleep rough by implementing a housing-led approach</seg></tuv>
+  <tuv xml:lang="ga"><seg>Foilsíodh plean náisiúnta forfheidhmithe (pdf) in 2009 agus áiríodh leis an gClár don Rialtas (2011) tiomantas do dheireadh a chur leis an easpa dídine agus leis an ngá le codladh amuigh trí chur chuige treoraithe ag tithíocht a fhorfheidhmiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In February 2013, the Government issued a Homelessness Policy Statement (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>I mí Feabhra 2013, d’eisigh an Rialtas Ráiteas Beartas maidir leis an Easpa Dídine (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The overall strategy and aims of The Way Home continue to be Government policy but with the explicit recognition of the housing-led approach, which means that long-term secure housing, with social supports if necessary, is seen as the best outcome for homeless people</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leanann an straitéis fhoriomlán agus na haidhmeanna foriomlána atá sa cháipéis An Bealach Abhaile de bheith mar bheartas Rialtais ach tugtar aitheantas follasach don chur chuige treoraithe ag tithíocht, rud a fhágann go bhfuil tithíocht dhaingean fhadtéarmach, mar aon le tacaí sóisialta más gá, ar an toradh is fearr do dhaoine gan dídean</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The statement provided for the setting up of the Homelessness Oversight Group, which published its first report (pdf) in December 2013</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rinneadh foráil i ráiteas beartais 2013 don Ghrúpa um Maoirseacht ar an Easpa Dídine a chur ar bun. D’fhoilsigh sé an chéad tuarascáil (pdf) uaidh i mí na Nollag 2013</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Group’s recommendations included the maintenance of funding at 2013 levels for the years 2014 to 2016 and the establishment of a Homelessness Policy Implementation Team</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áiríodh le moltaí an Ghrúpa maoiniú a choinneáil ag leibhéil 2013 do na blianta ó 2014 go 2016 agus Foireann um Fhorfheidhmiú an Bheartais Easpa Dídine a bhunú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Implementation Plan on the State's Response to Homelessness – May 2014 to December 2016 (pdf) prioritises the following:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar tosaíocht sa Phlean Forfheidhmithe um Fhreagairt an Stáit don Easpa Dídine - Bealtaine 2014 go Nollaig 2016 (pdf) do na nithe seo a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Accommodating rough sleepers and therefore eliminating the need to sleep rough</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cóiríocht a chur ar fáil dóibh siúd atá ag codladh amuigh agus, dá bhrí sin, deireadh a chur leis an ngá le codladh amuigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Managing the escalating number of homeless families in the Dublin region</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Líon méadaitheach na dteaghlach gan dídean i réigiún Bhaile Átha Cliath a bhainistiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Management and use of vacant properties</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Réadmhaoine folmha a bhainistiú agus a úsáid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The practical application of local authority housing allocations and</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Leithdháiltí na tithíochta údaráis áitiúil a chur i bhfeidhm go praiticiúil agus</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The timely and appropriate utilisation of NAMA units</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Aonaid GNBS a úsáid go tráthúil agus go cuí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Action Plan to Address Homelessness, published in December 2014, lists immediate actions to address rough sleeping in Dublin, as well as further actions to tackle systemic issues, grouped under prevention, accommodation and supports</seg></tuv>
+  <tuv xml:lang="ga"><seg>Liostaítear sa Phlean Gníomhaíochta chun dul i ngleic le hEaspa Dídine, a foilsíodh i Nollaig 2014, gníomhartha láithreacha chun dul i ngleic le codladh amuigh, anuas ar ghníomhartha breise chun dul i ngleic le saincheisteanna córasacha, a ghrúpáiltear faoi chosc, cóiríocht agus tacaíochtaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As part of the Action Plan, an evaluation of the homelessness sector will be commissioned in 2015</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar chuid den Phlean Gníomhaíochta, déanfar measúnú ar an earnáil tithíochta a choimisiúnú in 2015</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In Dublin, the Dublin Region Homeless Executive is responsible for the co-ordination of services for homeless people</seg></tuv>
+  <tuv xml:lang="ga"><seg>I mBaile Átha Cliath, tá Feidhmeannacht um Dhaoine ar Easpa Dídine Réigiún Bhaile Átha Cliath freagrach as seirbhísí a chomhordú do dhaoine ar easpa dídine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In Cork, the Cork City Homeless Forum has produced a guide to homeless emergency services for adults</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gCorcaigh, chuir Fóram Easpa Dídine Chathair Chorcaí treoir maidir le seirbhísí éigeandála easpa dídine do dhaoine fásta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Our document on housing and other supports for homeless people describes the available services and supports</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar cur síos inár gcáipéis ar thithíocht agus ar thacaíochtaí eile do dhaoine gan dídean ar na seirbhísí agus na tacaíochtaí atá ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Find out where to apply for these services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigh amach cén áit ar cheart iarratas a dhéanamh ar na seirbhísí seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are particular arrangements for young people who are homeless</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá socruithe ar leith ann do dhaoine óga atá gan dídean</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Focus Ireland has published an information guidebook: Working to end homelessness</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhoilsigh Focus Ireland treoirleabhar faisnéise: Ag oibriú chun deireadh a chur le heaspa dídine/Working to end homelessness</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read more on the website of the Department of Housing, Planning, Community and Local Government</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá faisnéis fhairsing ar fáil ar láithreán Gréasáin na Roinne Tithíochta, Pleanála, Pobail agus Rialtais Áitiúil freisin</seg></tuv>
+</tu>
+</body>
+</tmx>

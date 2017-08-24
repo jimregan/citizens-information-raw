@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Motor tax and insurance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cáin Ghluaisteáin agus Árachas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is a legal requirement to pay motor tax if you want to drive your vehicle in a public place</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór cáin a bheith íoctha ar do charr roimh dul ag tiomáint in áit phoiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Motor insurance is a compulsory requirement to drive a car in a public place. A current Certificate of Insurance is required to obtain motor tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór árachais mótair a bheith ag duine le dul ag timáint in áit phoiblí agus teastaíonn Teastas Árachais reatha uait le cáin a íoc ar an gcarr</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most Read in "Travel and Recreation"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ábhar is mó éilimh i "Taisteal agus Áineas"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Applying for your first Irish passport</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag déanamh iarratais ar phas Éireannach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Renewing an Irish passport</seg></tuv>
+  <tuv xml:lang="ga"><seg>Pas Éireannach a athnuachan</seg></tuv>
+</tu>
+</body>
+</tmx>

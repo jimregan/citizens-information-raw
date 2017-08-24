@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Employees have a right set down in the Constitution to join a trade union</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé de cheart ag fostaithe de réir na Bunreachta dul isteach i gceardchumann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A trade union can provide an important source of information and protection in relation to employment matters, as well as negotiating with the employer for better pay and conditions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le ceardchumann bheith ina fhoinse thábhachtach eolais agus cosanta maidir le hábhair fhostaíochta, chomh maith le idirbheartú leis an bhfostóir chun pá agus coinníollacha oibre a fheabhsú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is no legal obligation on an employer to negotiate with a union on behalf of an employee member, unless previously agreed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon oibleagáid de réir dlí ar fhostóir idirbheartú le ceardchumann ag feidhmiú ar son fostaí atá ina bhall, mura socraíodh é roimh ré</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This does not prevent a dispute about trade union recognition from being a lawful dispute</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní choscann seo gur féidir le casaoid faoi aitheantas a thabhairt do cheardchumann bheith ina casaoid dhlíthiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Irish Congress of Trade Unions (ICTU) is the single umbrella organisation for trade unions, representing a range of interests of employees, both in Ireland and in Northern Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is í Comhdháil Cheardchumann na hÉireann (CCE) an bhrateagraíocht do cheardchumainn, agus feidhmíonn sí ar son leas ilchineálach fostaithe in Éirinn agus i dTuaisceart Éireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>ICTU also run the website unionconnect.ie to facilitate people to join a union</seg></tuv>
+  <tuv xml:lang="ga"><seg>Coinníonn CCE an suíomh gréasáin unionconnect.ie freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It can be made a condition of employment that you must join a particular union upon accepting a job offer and remain in that union while you remain an employee in that job</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir bheith ina choinníoll oibre go bhfuil ort dul isteach i gceardchumann áirithe tar éis duit tairiscint oibre a ghlacadh agus fanacht sa cheardchumann sin fad is a bhfanann tú mar fhostaí sa phost sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is a view that this may not be constitutional, but this has not been tested in the courts yet</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá barúil ann nach bhfuil sé seo bunreachtúil, ach ní dhearnadh é a thriail sna cúirteanna fós</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are already in the job without being a union member and are at a later stage required to join a union by your employer, you can refuse, as this is unconstitutional</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú sa phost cheana gan bheith i do bhall den cheardchumann agus má chuireann do fhostóir d'iallach ort dul isteach i gceardchumann níos déanaí, is féidir leat diúltú dó, óir tá seo míbhunreachtúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Dismissal for trade union activity or membership is automatically unfair and an employee dismissed in such circumstances does not require any particular length of service in the job in order to enforce his/her rights</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá dífhostú de bharr gníomhaíocht cheardchumainn éagórach go huathoibríoch agus ní gá go mbeadh fad seirbhíse ar leith ag fostaí a dífhostaítear i gcúinsí mar sin chun a c(h)earta a fhorfheidhmiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The rate of subscription paid to your trade union will be determined by the trade union but is usually at the rate of 0.5% to 1% of your gross salary per year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é do cheardchumann a shocraíonn ráta an tsíntiúis a íoctar leis ach is iondúil go mbíonn sé seo idir 0.5% agus 1% de do thurastal comhlán bliantúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have been dismissed from your employment for trade union activity, this is automatically unfair under the Unfair Dismissals Acts 1977-2015</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dífhostaíodh tú de bharr gníomhaíocht cheardchumainn, is dífhostú éagórach é seo sa ghnáthchúrsa faoi na hAchtanna um Dhífhostú Éagórach 1977-2015</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You do not require any particular length of service as an employee, to bring a case in this instance under the law</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní theastaíonn aon fhad seirbhíse ar leith mar fhostaí chun cás a thógáil sa chás seo faoin dlí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can bring your case to the Workplace Relations Commission using the online complaint form available on workplacerelations.ie.   Where to apply  Workplace Relations Commission  Information and Customer Service O'Brien Road Carlow R93 W7W2 Ireland  Opening Hours: Mon. to Fri</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat do chás a thabhairt faoi bhráid an Choimisiúin um Chaidreamh san Áit Oibre an fhoirm ghearáin ar líne a úsáid á fáil ar workplacerelations.ie</seg></tuv>
+</tu>
+</body>
+</tmx>

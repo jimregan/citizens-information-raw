@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Giving notice when changing your job</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag tabhairt fógra le hathrú jabanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Employees are required by law to give a certain period of notice when changing jobs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá fostaithe ag athrú poist, caithfidh siad de réir an dlí tréimhse áirithe fógra a thabhairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Find out about the law, instances where notice is not required and what happens if you change your mind</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigh amach an dlí, cásanna nach bhfuil gá fógra a thabhairt agus cad a tharla má tá malairt intinn agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Changing job: tax, PRSI and pension</seg></tuv>
+  <tuv xml:lang="ga"><seg>Athrú poist: cáin, ÁSPC agus pinsean</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are various steps to be taken when changing job, particularly in relation to tax, social insurance (PRSI) and pension</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá céimeanna éagsúla ann le glacadh le linn athrú poist maidir le cáin, ÁSPC agus pinsean</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most Read in "Employment"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ábhar is mó éilimh i "Fostaíocht"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Rest periods and breaks</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tréimhsí sosa agus sosanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Tax and starting work - PAYE</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gnó a chur ar bun</seg></tuv>
+</tu>
+</body>
+</tmx>

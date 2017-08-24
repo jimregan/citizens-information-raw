@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>There are four main courts in Ireland: the District Court, the Circuit Court, the High Court and the Supreme Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá ceithre phríomhchúirt in Éirinn: an Chúirt Dúiche, an Chúirt Chuarda, an Ard-Chúirt agus an Chúirt Uachtarach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Other courts in operation are the Special Criminal Court and the Court of Appeal</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cúirteanna eile atá ag feidhmiú ná an Chúirt Choiriúil Speisialta agus an Chúirt Achomhairc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Articles 34 to 37 of Bunreacht na hEireann (the Irish Constitution) deal with the administration of justice in general and outline the structure of the court system</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déileálann Airteagail 34 go 37 de Bhunreacht na hÉireann (Bunreacht na hÉireann) le riaradh an cheartais go ginearálta agus leagann siad amach struchtúr an chórais cúirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Article 34.1 states that: "Justice shall be administered in courts established by law..." The present courts were set up by the Courts (Establishment and Constitution) Act 1961 (as amended)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sonraíonn Airteagal 34.1: "Déanfar ceartas a riaradh i gcúirteanna atá bunaithe de réir dlí..." Bhí na cúirteanna reatha bunaithe ag Acht na gCúirteanna (Bunú agus Comhdhéanamh), 1961(mar atá arna leasú)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The District Court has jurisdiction over minor civil and criminal matters</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá dlínse ag an gCúirt Dúiche i mionchásanna sibhialta agus coiriúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can appeal the outcome of a case heard in the District Court to the Circuit Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir achomharc a dhéanamh ar thoradh cáis a éisteadh sa Chúirt Dúiche chuig an Chúirt Chuarda</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Circuit Court has jurisdiction in more serious civil and criminal matters</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá dlínse ag an gCúirt Chuarda i gcásanna sibhialta agus coiriúla níos tromchúisí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can appeal the outcome of a case heard in the Circuit Court to the High Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir achomharc a dhéanamh ar thoradh cáis a éisteadh sa Chúirt Chuarda chuig an Ard-Chúirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The High Court is presided over by a President of the High Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Uachtarán na hArd-Chúirte i gceannas san Ard-Chúirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It also has jurisdiction over civil and criminal matters</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá dlínse aici i gcásanna sibhialta agus coiriúla chomh maith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, the most serious criminal offences, such as murder, are dealt with by the High Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, déileáiltear leis na cionta coiriúla is tromchúisí san Ard-Chúirt, cosúil le dúnmharú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Court of Appeal hears appeals from cases heard in the Circuit Court and High Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Éisteann an Chúirt Achomhairc le hachomhairc ó chásanna a éisteadh sa Chúirt Chuarda agus san Ard-Chúirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Supreme Court was created as the final court of appeal and is presided over by the Chief Justice</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cruthaíodh an Chúirt Uachtarach mar chúirt dheiridh achomhairc agus tá an Príomh-Bhreitheamh i gceannas uirthi</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Though courts can have jurisdiction over both civil and criminal matters, the Special Criminal Court only deals with criminal cases</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cé gur féidir le cúirteanna dlínse a bheith acu ar chásanna sibhialta agus coiriúla araon, déileálann an gCúirt Choiriúil Speisialta le cásanna coiriúla amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Courts (Establishment and Constitution) Act 1961 also provides for the setting up of special courts where the best interest of justice would not be served in a normal court, for example, the Children's Court and the Drug Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann Acht na gCúirteanna (Bunú agus Comhdhéanamh) 1961 foráil do bhunú na gcúirteanna speisialta nuair nach ndéanfaí freastal ar an leas ceartais is fearr sa chúirt choitianta, an Chúirt Leanaí agus an Chúirt Drugaí mar shampla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The courts are supported by the Offices of the Courts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tacaíocht ag na cúirteanna ó Oifigí na gCúirteanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, the Office of the Ward of Court is responsible for the supervision of the affairs of people taken into the wardship of the High Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, tá Oifig an Choimircí Cúirte freagrach as maoirsiú ghnóthaí na ndaoine a tógadh faoi choimircíocht na hArd-Chúirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Courts Service was set up under the Court Service Act 1998 to manage the courts and court buildings, and to provide information about the operation of the courts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bunaíodh an tSeirbhís Chúirteanna faoin Acht um Sheirbhís Chúirteanna 1998 chun na cúirteanna agus foirgnimh na gcúirteanna a bhainistiú, agus chun faisnéis a sholáthar faoi oibriú na gcúirteanna</seg></tuv>
+</tu>
+</body>
+</tmx>

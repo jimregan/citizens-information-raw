@@ -1,0 +1,329 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Maritime passenger rights in the European Union</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cearta paisinéirí muirí san Aontas Eorpach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Since December 2012 passengers travelling by sea or inland waterway within the European Union (EU) have rights similar to those available to airline and rail passengers if their service is cancelled or delayed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó mhí na Nollag 2012, tá cearta ag paisinéirí atá ag taisteal ar muir nó ar uiscebhealach intíre laistigh den Aontas Eorpach (AE) is comhionann leis na cearta atá ar fáil do phaisinéirí aerlíne nó iarnróid sa chás go ndéantar a seirbhís a chur ar ceal nó a mhoilliú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Also, passengers with disabilities cannot be discriminated against and should be provided with assistance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, ní féidir leithcheal a dhéanamh ar phaisinéirí faoi mhíchumas agus ba cheart cúnamh a chur ar fáil dóibh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Regulation (EU) N0 1177/2012, which came into effect on 18 December 2012, is designed to protect passengers using waterborne transport by establishing certain rights and a guaranteed level of service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é is aidhm do Rialachán (AE) Uimh. 1177/2012, a tháinig in éifeacht an 18 Nollaig 2012, ná cosaint a dhéanamh ar phaisinéirí atá ag úsáid uisce-iompar trí chearta áirithe agus leibhéal ráthaithe seirbhíse a bhunú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>What services are covered?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cé na seirbhísí a chlúdaítear?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The EU Regulation applies to passenger services on the sea or on inland waterways where:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann Rialachán an AE le seirbhísí paisinéirí ar muir nó ar uiscebhealaí intíre sa chás:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The port of embarkation is in an EU member state</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Go bhfuil an calafort bordála i mballstát den AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The port of embarkation is outside the EU and the port of disembarkation is in an EU member state, provided that the service is operated by an EU carrier</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Go bhfuil an calafort bordála lasmuigh den AE agus go bhfuil an calafort díbhordála i mballstát den AE, ar choinníoll go bhfuil an tseirbhís á hoibriú ag iompróir san AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Regulation also applies to cruises where the port of embarkation is situated in the territory of a member state</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chomh maith leis sin, baineann an Rialachán le turais mhara sa chás go bhfuil an calafort díbhordála suite i gcríoch ballstáit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, the measures in relation to re-routing, reimbursement and compensation for delay in arrival to not apply to cruise passengers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin féin, ní bainteach le paisinéirí ar thurais mhara atá na bearta maidir le hathródú, le haisíocaíocht agus le cúiteamh as moill ar theacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Regulation does not apply to passengers travelling on:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhaineann an Rialachán le paisinéirí atá ag taisteal ar:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Ships certified to carry up to 12 passengers</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Longa atá deimhnithe suas le 12 phaisinéir a iompar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Ships which have a crew of 3 or less for the operation of the ship</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Longa ag a bhfuil triúr nó níos lú san fhoireann le haghaidh oibriú na loinge</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Excursion and sightseeing tours other than cruises</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Turais agus turais fámaireachta nach turais mhara iad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Ships not propelled by mechanical means and historical passenger ships certified to carry up to 36 passengers</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Longa nach dtiomáintear go meicniúil agus longa stairiúla paisinéirí atá deimhnithe chun suas le 36 paisinéir a iompar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Regulation also does not apply where the distance of the overall passenger service is less than 500 metres, one way</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl an Rialachán bainteach ach oiread sa chás gur níos lú ná 500 méadar in aon treo amháin atá fad na seirbhíse paisinéirí iomláine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the departure of a passenger service or a cruise is delayed or cancelled, you must be informed by the carrier or by the terminal operator, where appropriate, of the situation as soon as possible and no later than 30 minutes after the scheduled time of departure</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más rud é go ndéantar seirbhís paisinéirí nó turas mara a mhoilliú nó a chur ar ceal, caithfidh an t-iompróir nó oibreoir an chríochfoirt eolas a thabhairt duit, nuair is cuí, faoin gcás a luaithe is féidir agus tráth nach déanaí ná 30 nóiméad tar éis an ama imeachta sceidealaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must also be informed of the estimated departure time and estimated arrival time as soon as that information is available</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór eolas a thabhairt duit freisin faoin am imeachta measta agus faoin am rochtana measta a luaithe is atá an fhaisnéis sin ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the case of a passenger service, if you miss a connecting transport service due to a cancellation or delay, the carrier and the terminal operator, where appropriate, must make reasonable efforts to inform you of alternative connections</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás seirbhís paisinéirí, má chailleann tú seirbhís iompair nasctha mar thoradh ar chealú nó ar mhoill, caithfidh an t-iompróir agus oibreoir an chríochfoirt, nuair is cuí, gach iarracht réasúnach a dhéanamh chun naisc mhalartacha a chur in iúl duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the departure of a passenger service is expected to be cancelled or delayed for more than 90 minutes, you should immediately be offered the choice between:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más rud é go bhfuiltear ag súil go ndéanfar seirbhís paisinéirí a chur ar ceal nó a mhoilliú ar feadh níos mó ná 90 nóiméad, ba cheart rogha idir na nithe seo a thairiscint duit láithreach:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Re-routing to your final destination, under comparable conditions, at the earliest opportunity and at no additional cost</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Athródú go dtí do cheann scríbe deiridh gan aon chostas breise a luaithe is féidir agus faoi choinníollacha inchomparáide</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Reimbursement of the ticket price and, where relevant, a return service free of charge to your first point of departure at the earliest opportunity</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Praghas an ticéid a aisíoc agus, más ábhartha, seirbhís fillte saor in aisce a luaithe is féidir chuig an gcéad phointe imeachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The reimbursement of the ticket price must be made within 7 days</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór praghas an ticéid a aisíoc laistigh de 7 lá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It must be for the full cost of the ticket for the part or parts of the journey not made, and for the part or parts already made if the journey is no longer serving any purpose</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go gclúdaíonn sé costas iomlán an ticéid don chuid den turas nó do na codanna den turas nár taistealaíodh go fóill, agus don chuid nó do na codanna a taistealaíodh cheana más rud é nach bhfuil aon chúis leis an turas a thuilleadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where you agree, the reimbursement may be paid in the form of vouchers and/or other services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás go gcomhaontaíonn tú, féadfar aisíocaíocht a dhéanamh i bhfoirm dearbhán agus/nó seirbhísí eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the departure of a passenger service or a cruise is expected to be cancelled or delayed for more than 90 minutes, you should be offered snacks, meals or refreshments free of charge, in reasonable relation to the waiting time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más rud é go bhfuiltear ag súil go ndéanfar seirbhís paisinéirí nó turas mara a chur ar ceal nó a mhoilliú ar feadh níos mó ná 90 nóiméad, ba cheart sneaiceanna, béilí nó sólaistí in aisce a thairiscint duit, i gcoibhneas réasúnach leis an aga feithimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In addition, where a stay of 1 or more nights or a stay additional to that intended by you becomes necessary due to the cancellation or delay, the carrier must provide you with adequate accommodation on board or ashore free of charge, if possible</seg></tuv>
+  <tuv xml:lang="ga"><seg>De bhreis air sin, sá chás go n-éiríonn gá le fanacht oíche amháin nó níos mó ná oíche amháin de bhreis ar na hoícheanta a bheartaigh tú mar gheall ar chealú nó ar mhoill, ní mór don iompróir cóiríocht imleor ar bord nó ar tír a chur ar fáil duit saor in aisce, más féidir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Transport to and from the accommodation must also be provided where necessary</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór iompar chuig an gcóiríocht agus amach aisti a chur ar fáil nuair is gá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The carrier may limit the total cost of accommodation ashore, not including the cost of transport, to €80 per night for a maximum of 3 nights</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh an t-iompróir teorainn €80 san oíche le haghaidh 3 oíche ar a mhéad a chur le costas iomlán na cóiríochta ar tír, gan costas an iompair a áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are not entitled to accommodation where the carrier proves that the cancellation or delay was caused by weather conditions endangering the safe operation of the ship</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl tú i dteideal cóiríochta sa chás gur féidir leis an iompróir a chruthú gurb ann don chealú nó don mhoill de dheasca dálaí aimsire a chuirfeadh oibriú sábháilte na loinge i mbaol</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Compensation in the event of delay</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cúiteamh i gcás moille</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>While still being entitled to travel, passengers on a passenger service may request compensation from the carrier if they are facing a delay in arrival at their final destination</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cé go bhfuil siad fós i dteideal taisteal, féadfaidh paisinéirí ar sheirbhís paisinéirí cúiteamh a iarraidh ón iompróir má chuirtear moill orthu a gceann scríbe deiridh a bhaint amach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The minimum level of compensation is 25% of the ticket price for a delay of at least:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ionann an t-íosleibhéal cúitimh agus 25% de phraghas an ticéid maidir le moill ag a bhfuil na faid seo a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• 1 hour in the case of a journey of 4 hours or less</seg></tuv>
+  <tuv xml:lang="ga"><seg>• 1 uair an chloig i gcás turais nach faide ná 4 huaire an chloig</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• 2 hours in the case of a journey of between 4 and 8 hours</seg></tuv>
+  <tuv xml:lang="ga"><seg>• 2 uair an chloig i gcás turais níos faide ná 4 huaire an chloig ach nach faide ná 8 n-uaire an chloig</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• 3 hours in the case of a journey of between 8 and 24 hours</seg></tuv>
+  <tuv xml:lang="ga"><seg>• 3 huaire an chloig i gcás turais níos faide ná 8 n-uaire an chloig ach nach faide ná 24 uair an chloig</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• 6 hours in the case of a journey of more than 24 hours</seg></tuv>
+  <tuv xml:lang="ga"><seg>• 6 huaire an chloig i gcás turais níos faide ná 24 uair an chloig</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the delay exceeds double the time set out above, the compensation is 50% of the ticket price</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más rud é go bhfuil an mhoill dhá oiread níos faide ná an tréimhse ama a leagtar amach thuas, is ionann an cúiteamh agus 50% de phraghas an ticéid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The compensation must be paid within 1 month of your request for compensation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór an cúiteamh a íoc laistigh de mhí amháin tar éis d’iarratais ar chúiteamh a chur isteach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It may be paid in vouchers and/or other services, provided that the conditions are flexible</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfar é a íoc i ndearbháin agus/nó i seirbhísí eile, ar choinníoll gur solúbtha atá na coinníollacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It must be paid in money if you request it and it cannot be reduced by financial transaction costs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh é a íoc in airgead tirim má iarrann tú é agus ní féidir é a laghdú mar gheall ar chostais idirbhirt airgeadais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Carriers may introduce a minimum threshold of no more than €6 under which payments for compensation will not be paid</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh iompróirí tairseach íosta nach mó ná €6 a thabhairt isteach nach ndéanfar íocaíochtaí as cúiteamh faoina bun</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are not entitled to assistance or compensation if:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl tú i dteideal cúnaimh ná cúitimh sa chás:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You were informed of the cancellation or delay before you purchased the ticket</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gur tugadh eolas duit faoin gcealú nó faoin moill sular cheannaigh tú do thicéad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You caused the cancellation or delay</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gur thusa ba chúis leis an gcealú nó leis an moill</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are not entitled to compensation where the carrier proves that the cancellation or delay is caused by:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl tú i dteideal cúitimh sa chás gur féidir leis an iompróir a chruthú gurb ann don chealú nó don mhoill de dheasca:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Weather conditions endangering the safe operation of the ship</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Dálaí aimsire a chuirfeadh oibriú sábháilte na loinge i mbaol</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Extraordinary circumstances hindering the performance of the passenger service which could not have been avoided even if all reasonable measures had been taken</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cúinsí neamhghnácha a chuirfeadh bac ar fheidhmiú na seirbhíse paisinéirí, ar cúinsí iad nach bhféadfaí a sheachaint fiú dá nglacfaí gach beart réasúnach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Regulation does not prevent you seeking damages through the courts for losses incurred as the result of a cancellation or delay</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chuirtear cosc ort leis an Rialachán damáistí a éileamh trí na cúirteanna as caillteanais a tabhaíodh mar thoradh ar chealú nó ar mhoill</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>People with disabilities and those with reduced mobility have the right to make a reservation and to obtain a ticket in the same way as other passengers and at no extra cost</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an ceart ag daoine faoi mhíchumas agus acu siúd a bhfuil a soghluaisteacht laghdaithe chun áirithint a dhéanamh agus ticéad a fháil ar an mbealach céanna a dhéanann paisinéirí eile, agus gan costas breise a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Reservations and tickets may, however, be refused in order to meet safety requirements and where the design of the passenger ship or port infrastructure and equipment makes the safe embarkation, disembarkation or carriage of a person with a disability impossible</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfar áirithintí agus ticéid a dhiúltú, áfach, d’fhonn riachtanais sábháilteachta a chomhlíonadh agus sa chás nach féidir le duine faoi mhíchumas dul ar bord go sábháilte, dul i dtír go sábháilte agus bheith á iompar go sábháilte de thoradh dhearadh na loinge paisinéirí nó de thoradh bhonneagar agus threalamh an chalafoirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the case of such a refusal, all reasonable efforts must be made to find an alternative means of transport for the person concerned</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás an diúltaithe sin, ní mór gach iarracht réasúnach a dhéanamh iompar malartach a thairiscint don duine lena mbaineann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the carrier, travel agent or tour operator requires that you be accompanied by a person capable of providing assistance to you, the accompanying person must be carried free of charge</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más rud é go n-éilíonn an t-iompróir, an gníomhaire taistil nó an tionscnóir turas go dtéann duine atá ábalta cúnamh a chur ar fáil duit in éineacht leat, caithfidh an duine a rachaidh in éineacht leat a iompar saor in aisce</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where you are being refused a reservation or a ticket, or you are required to bring an accompanying person, you should be immediately informed of the reasons why</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás go ndiúltaítear áirithint nó ticéad duit, nó go n-éilítear ort duine a thabhairt in éineacht leat, ba cheart eolas a thabhairt duit faoi na cúiseanna leis sin láithreach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>On request, those reasons must be notified to you in writing, within 5 working days of your request</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar iarratas, ní mór na cúiseanna sin a chur in iúl duit i scríbhinn laistigh de 5 lá oibre tar éis d’iarratais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where you hold a reservation or a ticket and you have complied with the notification requirements about your specific needs, but you are nonetheless denied embarkation under the Regulation, you should be offered the choice between reimbursement and re-routing</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás go sealbhaíonn tú áirithint nó ticéad agus gur chomhlíon tú na ceanglais fógra faoi do riachtanais shonracha, ach go ndiúltaítear duit dul ar bord faoin Rialachán fós, ba cheart rogha a thairiscint duit idir aisíocaíocht agus athródú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Carriers and port operators must provide passengers with information on their rights and the accessibility of their facilities</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór d’iompróirí agus d’oibreoirí calafoirt faisnéis a chur ar fáil do phaisinéirí faoina gcearta agus faoi inrochtaineacht a n-áiseanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The information is to be available in accessible formats</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirfear an fhaisnéis ar fáil i bhformáidí inrochtana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Subject to the access conditions of their facilities, carriers and terminal operators must provide assistance free of charge to people with disabilities and people with reduced mobility in ports and on board ships, including embarkation and disembarkation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi réir choinníollacha rochtana a n-áiseanna, ní mór d’iompróirí agus d’oibreoirí críochfoirt cúnamh saor in aisce a chur ar fáil do dhaoine faoi mhíchumas agus do dhaoine a bhfuil a soghluaisteacht laghdaithe i gcalafoirt agus ar bord loinge, lena n-áirítear dul ar bord agus dul i dtír</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must have notified the carrier or terminal operator about your need for such assistance at least 48 hours before the assistance is needed, unless a shorter period has been agreed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór gur thug tú fógra don iompróir nó d'oibreoir an chríochfoirt faoin ngá atá agat leis an gcúnamh sin 48 uair an chloig ar a laghad sula mbeadh an cúnamh ag teastáil, murar comhaontaíodh tréimhse níos giorra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Also, when making the reservation or advanced purchase of the ticket you must notify the carrier of your specific needs with regard to accommodation, seating or services required or your need to bring medical equipment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chomh maith leis sin, ní mór duit fógra a thabhairt don iompróir, agus an áirithint á déanamh nó an ticéad á réamhcheannach, faoi na riachtanais shonracha atá agat i dtaca le cóiríocht, le suíocháin nó faoin ngá le trealamh leighis a bheith leat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can make this notification through the travel agent or tour operator from whom the ticket was purchased</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat an fógra sin a dhéanamh tríd an ngníomhaire taistil nó tríd an tionscnóir turas ónar ceannaíodh an ticéad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must be at the port at the time stipulated in writing by the carrier, which cannot be more than 60 minutes before the published embarkation time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit bheith i láthair ag an gcalafort ag an am a leagann an t-iompróir síos i scríbhinn. Ní féidir leis an am sin bheith níos mó ná 60 nóiméad ón am bordála foilsithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If no embarkation time is stipulated, you must be there at least 60 minutes before the published departure time, unless a shorter period has been agreed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura leagtar aon am bordála síos, caithfidh tú bheith i láthair 60 nóiméad ar a laghad roimh an am imeachta foilsithe, murar comhaontaíodh tréimhse níos giorra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where you failed to provide the required notification, carriers and terminal operators shall nonetheless make all reasonable efforts to ensure that assistance is provided in such a way that you are able to embark, disembark and travel on the ship</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin féin, sa chás gur theip ort an fógra riachtanach a chur ar fáil, déanfaidh iompróirí agus oibreoirí críochfoirt gach iarracht réasúnach chun a chinntiú go gcuirtear cúnamh ar fáil sa tslí gur féidir leat dul ar bord, dul i dtír agus taisteal ar an long</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Loss or damage to mobility equipment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caillteanas nó damáiste do threalamh soghluaisteachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The carrier or terminal operator is liable for the loss of or damage to mobility equipment, or other specific equipment used by you, where the loss is due to the fault or neglect of the carrier or terminal operator</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an t-iompróir nó oibreoir an chríochfoirt freagrach as trealamh soghluaisteachta, nó trealamh sonrach eile a bhíonn á úsáid agat, a cailleadh nó a damáistíodh sa chás gurb é an t-iompróir nó oibreoir an chríochfoirt is cúis leis, de thoradh faillí nó lochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The fault or neglect of the carrier is presumed in the case of a shipping incident</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar talamh slán de locht nó d’fhaillí an iompróra i gcás teagmhas loingseoireachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are entitled to the replacement value of the equipment concerned or, where applicable, the cost of repair</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh tú i dteideal luach athsholáthair an trealaimh lena mbaineann, nó, i gcás inar féidir an trealamh a dheisiú, beidh tú i dteideal chostas deisithe an trealaimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Carriers and terminal operators must ensure that information on the rights of passengers under this EU Regulation is publicly available on board ships and in port terminals</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór d’iompróirí agus d’oibreoirí críochfoirt a chinntiú gur ar fáil go poiblí ar bord long agus i gcríochfoirt chalafoirt atá faisnéis faoi chearta na bpaisinéirí faoin Rialachán seo de chuid an AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The information must be provided as far as possible in accessible formats</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór an fhaisnéis a chur ar fáil a oiread is féidir i bhformáidí inrochtana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Carriers and terminal operators are required to set up a complaints handling mechanism to help passengers who are trying to avail of their rights under this Regulation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá ceangal ar iompróirí agus ar oibreoirí críochfoirt meicníocht chun gearáin a láimhseáil a bhunú d’fhonn cabhrú le paisinéirí atá ag iarraidh leas a bhaint as a gcearta faoin Rialachán seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must submit your complaint within 2 months from the date on which the service was performed or when the service should have been performed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit do ghearán a chur isteach laistigh de 2 mhí ón dáta ar ar cuireadh an tseirbhís ar fáil nó ar ar cheart an tseirbhís a chur ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Within 1 month of receiving the complaint, the carrier or terminal operator must inform you that your complaint has been accepted, rejected or is still being considered</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don iompróir nó d’oibreoir an chríochfoirt a chur in iúl duit cibé acu a glacadh le do ghearán, a diúltaíodh dó nó atá sé á bhreithniú fós laistigh de mhí amháin tar éis an gearán a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A final reply must be provided to you no later than 2 months after the receipt of your complaint</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór freagra deiridh a chur ar fáil duit tráth nach déanaí ná 2 mhí tar éis do ghearán a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Every member state must designate a body responsible for the enforcement of this Regulation with regards to passenger services and cruises from ports situated on its territory and passenger services from a third country to such ports</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór do gach ballstát comhlacht a ainmniú a bheidh freagrach as forfheidhmiú a dhéanamh ar an Rialachán seo maidir le seirbhísí paisinéirí agus le turais mhara ó chalafoirt atá suite ina chríoch féin agus maidir le seirbhísí paisinéirí ó thríú tír chuig na calafoirt sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The National Transport Authority is the designated enforcement body in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an tÚdarás Náisiúnta Iompair an comhlacht forfheidhmiúcháin ainmnithe in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are dissatisfied with the response to your complaint and your rights under the Regulation have been denied, or you did not receive a reply within 1 month of making the complaint, you can make a complaint to the National Transport Authority</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más rud é nach bhfuil tú sásta leis an bhfreagra ar do ghearán agus nár comhlíonadh do chearta faoin Rialachán seo, nó nach bhfuair tú freagra laistigh de mhí amháin ó rinne tú an gearán, féadfaidh tú gearán a dhéanamh leis an Údarás Náisiúnta Iompair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further information on the Regulation is available in an information note for passengers (pdf) published by the Department of Transport, Tourism and Sport</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh eolais maidir leis an Rialachán ar fáil i nóta faisnéise do phaisinéirí (pdf) arna fhoilsiú ag an Roinn Iompair, Turasóireachta agus Spóirt</seg></tuv>
+</tu>
+</body>
+</tmx>

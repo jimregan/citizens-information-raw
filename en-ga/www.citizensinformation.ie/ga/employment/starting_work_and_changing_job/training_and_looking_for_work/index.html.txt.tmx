@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Training and looking for work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Oiliúint agus lorg oibre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Life Event Document Employment: you and your job If you are starting work or changing to a new job, you need to know about employment law and your terms of employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Life Event Document Fostaíocht: tusa agus do phost Má thosaíonn tú ar an obair nó má tá tú ag athrú poist, is gá duit faisnéis faoi dhlí fostaíochta agus do théarmaí fostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Life Event Document Looking for work: education and training If you are unemployed there is a range of different education and training opportunities</seg></tuv>
+  <tuv xml:lang="ga"><seg>Life Event Document Ag lorg oibre: oideachas agus oiliúint Má tá tú dífhostaithe tá réimse deiseanna oideachais agus oiliúna éagsúla ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These include courses specifically for unemployed people</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina measc seo tá cúrsaí atá go sonrach do dhaoine dífhostaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Finding and getting a job</seg></tuv>
+  <tuv xml:lang="ga"><seg>Post a aimsiú agus a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Information about where to look for a job, how to apply and some of the supports that are available to jobseekers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Eolas faoi conas post a chuardach, conas iarratas a dhéanamh ar phost agus roinnt tacaíochtaí atá ar fáil do lucht cuardaigh fostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are returning to work you need to find out what options and supports are available and the steps you should take in relation to tax and PRSI</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ag filleadh ar an obair, ní mór duit faigh amach an roinnt roghanna agus tacaíochta atá ar fáil agus tá céimeanna ann ba chóir duit a thógáil maidir le Cáin agus ÁSPC</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most Read in "Employment"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ábhar is mó éilimh i "Fostaíocht"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Rest periods and breaks</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tréimhsí sosa agus sosanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Tax and starting work - PAYE</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cáin agus tosú ar obair</seg></tuv>
+</tu>
+</body>
+</tmx>

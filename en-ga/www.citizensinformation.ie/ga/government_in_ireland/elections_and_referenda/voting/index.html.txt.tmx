@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>In order to vote in an election or referendum in Ireland, you must be registered to vote</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun vótáil i dtoghcháin nó i Reifrinn in Éirinn, ní mór duit clárú chun vótála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Find out if you are eligible to vote and how to register</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigh amach má tá tú incháilithe le vóta a chaitheamh agus ar an dóigh chun chlárú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Facilities for voters with disabilities</seg></tuv>
+  <tuv xml:lang="ga"><seg>Na háiseanna do vótálaithe le míchumais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Procedures in place nationally, that help disabled people in Ireland to vote</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann an cháipéis seo cur síos ar na háiseanna atá ar fáil chun cúnamh a thabhairt do dhaoine faoi mhíchumais a vótaí a chaitheamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Proportional representation is the system of voting used in all elections</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá ionadaíocht chionmhar i bhfeidhm leis an gcóras vótála i ngach toghchán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Find out how proportional representation works; counts, quotas, transfers, recounts and examples</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigh amach conas a oibríonn ionadaíocht chionmhar: comhaireamh, cuóta, aistrithe, athchomhaireamh agus samplaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most Read in "Government in Ireland"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ábhar is mó éilimh i "Rialtas in Éirinn"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Presidential Election in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bunchearta faoi Bhunreacht na hÉireann</seg></tuv>
+</tu>
+</body>
+</tmx>

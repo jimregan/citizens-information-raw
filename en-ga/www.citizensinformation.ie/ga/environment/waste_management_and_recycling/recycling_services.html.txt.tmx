@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Recycling services and waste management</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seirbhísí athchúrsála agus bainistíocht dramhaíola</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Department of Communications, Climate Action and Environment has overall responsibility for recycling and waste management</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá freagracht fhoriomlán ar an Roinn Cumarsáide, Gníomhaithe ar son na hAeráide agus Comhshaoil as athchúrsáil agus bainistíocht dramhaíola</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For non-hazardous waste, there are 3 regions for the purposes of waste management planning: Southern, Eastern-Midlands and Connacht-Ulster</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás dramhaíola nach bhfuil guaiseach, tá 3 réigiún freagrach as pleanáil i leith bhainistíocht dramhaíola: Deisceart, Oirthear-Lár agus Connacht-Uladh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The local authorities are responsible for:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá na húdaráis áitiúla freagrach as an méid a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Authorisation and control of commercial waste collection activities</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gníomhaíochtaí bailithe dramhaíl tráchtála a údarú agus a rialú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Authorisation of waste exports and monitoring of internal movements of hazardous wastes</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Easpórtálacha dramhaíola a údarú agus monatóireacht a dhéanamh ar ghluaiseachtaí inmheánacha de dhramhaíl ghuaiseach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Waste permits for small-scale recovery and disposal activities</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ceadanna dramhaíola do ghníomhaíochtaí beagscála aisghabhála agus diúscartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Ensuring adequate waste collection, recovery and disposal arrangements in their areas</seg></tuv>
+  <tuv xml:lang="ga"><seg>• A chinntiú go bhfuil socruithe leordhóthanach bailithe, aisghabhála agus diúscartha dramhaíola i bhfeidhm ina limistéir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Monitoring and inspection of waste activities generally</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Monatóireacht agus cigireacht a dhéanamh ar ghníomhaíochtaí dramhaíola go ginearálta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They arrange for the provision of domestic refuse services and the recycling of domestic waste, which avoids sending waste to landfill</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann údaráis áitiúla socruithe chun seirbhísí bruscar tí agus athchúrsáil dramhaíl tí a sholáthar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Both the EPA and local authorities have to keep registers detailing a wide range of their activities in the area of waste management</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá ar údaráis áitiúla agus an GCC cláir a choimeád ina sonraítear réimse fairsing dá ngníomhaíochtaí i limistéar na bainistíochta dramhaíola</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The public can inspect these registers free of charge</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh an pobal súil a chaitheamh ar na cláir seo saor in aisce</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Waste from Electrical and Electronic Equipment (WEEE) is the responsibility of retailers and local authorities, who facilitate the recycling of WEEE</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá miondíoltóirí agus údaráis áitiúla freagrach as dramhthrealamh Leictreach agus Leictreonach (DTLL), a éascaíonn DTLL a athchúrsáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the European Union (Household Food Waste and Bio-waste) Regulations 2015, all householders (except in very small population areas or on small islands) have to do one of the following with their food waste:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi Rialacháin an Aontais Eorpaigh (Dramhbhia Tí agus Bithdhramhaíl), 2015, tá ar gach teaghlach (seachas i gceantair ina bhfuil daonraí an-bheaga nó ar oileáin bheaga) ceann amháin den mhéid a leanas a dhéanamh lena ndramhbhia:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Segregate it and make it available for separate collection</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Í a dheighilt ón dramhaíl eile agus a chur amach le bailiú ar leithligh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Compost it at home (while ensuring that it does not cause smells or nuisance)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Í a mhúiríniú sa bhaile (gan núis nó drochbholadh)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Bring it to an authorised facility for composting or other suitable treatment</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Í a thabhairt chuig áis údaraithe ina ndéantar múiríniú no cóireáil eile atá cuí uirthi</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is illegal to burn household or garden waste at home or in your garden</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé in aghaidh an dlí dramhaíl tí nó ghairdín a dhó sa bhaile nó i do ghairdín</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are specific regulations that cover disposing of an end-of-life vehicle as waste</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá rialacháin ar leith ann a dhéanann soláthar do dhramhaíl ó fheithicil a bhfuil a ré caite aici a dhiúscairt, ar nós gluaisteáin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is an environmental levy on plastic shopping bags</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gearrtar tobhach comhshaoil ar mhálaí plaisteacha siopadóireachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Retailers must pass on the full amount of the levy as a charge to customers at the checkout</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór do mhiondíoltóirí méid iomlán an tobhaigh a ghearradh ar chustaiméirí ag an gcuntar amach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Revenue generated from the levy goes into the Environmental Fund to support waste management, litter and other environmental initiatives</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirtear ioncam a ghineann an tobhach leis an gCiste Comhshaoil chun tacú le bainistíocht dramhaíola agus le tionscnaimh bhruscair agus chomhshaoil eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Tax relief on waste charges ended with effect from January 2012 and can no longer be claimed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireadh deireadh leis an bhfaoiseamh cánach ar mhuirir dhramhaíola le héifeacht ó Eanáir 2012 agus ní féidir é a éileamh a thuilleadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For background information on waste management issues, see our document on waste management legislation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigh tuilleadh eolais mar gheall ar chúrsaí bainistíochta dramhaíola inár gcáipéis ar reachtaíocht bhainistíochta dramhaíola</seg></tuv>
+</tu>
+</body>
+</tmx>

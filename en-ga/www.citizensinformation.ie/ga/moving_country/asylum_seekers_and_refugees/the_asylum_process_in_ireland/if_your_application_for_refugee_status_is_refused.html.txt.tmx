@@ -1,0 +1,281 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>If you do not get a declaration as a refugee</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhiúltaítear do d'iarratas ar stádas dídeanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you decide to appeal • Consideration of appeals</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cá háit a ndéanfaidh mé iarratas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the International Protection Act 2015, several types of negative outcome may apply, depending on the nature of your case</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadann roinnt cineálacha de mholadh diúltach a bheith i bhfeidhm ag brath ar chúlra do chás mar seo a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your application is withdrawn or is deemed to be withdrawn, the Minister for Justice and Equality will be notified of this. The Minister will then refuse to give you a refugee or subsidiary protection declaration</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sa chás ina ndéanann an Coimisinéir Iarratais do Dhídeanaithe moladh nár cheart tú a dhearbhú mar theifeach toisc gur atarraingíodh d’iarratas, nó ina meastar d’iarratas a bheith aistarraingthe, tabharfar comhairle don Aire Dlí agus Cirt agus Comhionannais faoin moladh sin agus fógrófar an méid sin duit tríd an bpost cláraithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When an application is deemed to be withdrawn, there is no appeal</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhíonn aon achomharc ann i gcoinne aon mholadh den chineál sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where an international protection officer makes a recommendation to the Minister that, under the Dublin III Regulation, your application for international protection is inadmissible, you may appeal to the International Protection Appeals Tribunal against this recommendation within 10 working days from the date of the notification</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sa chás ina ndéanann an Coimisinéir Iarratais do Dhídeanaithe moladh nár cheart tú a dhearbhú mar theifeach, is iondúil go bhféadfá achomharc a thógáil chuig an mBinse Achomhairc do Dhídeanaithe i gcoinne an mholta laistigh de 15 lá oibre ó sheoladh an fhógra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where an international protection officer makes a recommendation either:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seolfar an fógra chugat tríd an bpost cláraithe, agus chuig do aturnae (más aithnid)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• That you should be given a subsidiary protection declaration, but not a refugee declaration or</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabharfar fáthanna an mholta duit freisin lena n-áireofar an t-ábhar ar a mbraitheadh i gcinneadh an mholta féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• That you should be given neither a refugee nor a subsidiary protection declaration,</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn tú i dteideal éisteacht bhéil a iarraidh don achomharc seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will also be furnished with the reasons for the recommendation and a copy of the international protection officer’s report</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má thógann tú achomharc ach nach n-iarrann tú éisteacht bhéil, pléifidh an Binse le d’achomharc gan aon éisteacht bhéil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may appeal to the International Protection Appeals Tribunal against the recommendation within 15 working days from the date of sending the notification</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sa chás ina n-áiríonn moladh diúltach an Choimisinéir Iarratais do Dhídeanaithe i measc a chinntí aon cheann de na cinntí breise (ar a dtugtar ‘Cinntí Alt 13(6)’) a liostaítear thíos, féadann tú achomharc a thógail chuig an mBínse Achomhairc do Dhídeanaithe i gcoinne an mholta laistigh de 10 lá oibre ó sheoladh an fhógra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are entitled to request an oral hearing for this appeal – see ‘Appeal with an oral hearing’ below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seolfar an fógra chugat tríd an bpost cláraithe, agus chuig do dhlíodóir (más aithnid)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Tribunal may also decide to hold an oral hearing when it believes it is in the interests of justice to do so</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabharfar fáthanna an mholta duit freisin lena n-áireofar an t-ábhar ar a mbraitheadh i gcinneadh an mholta féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where the international protection officer’s report includes among its findings any one of the following additional findings under section 39 (4) of the Act, the appeal timeline is shorter – see ‘Accelerated appeal procedures’ below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Pléifear le haon achomharc den chineál sin ag an mBínse gan aon éisteacht bhéil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• That the only issues raised by the applicant had no relevance or minimal relevance to their eligibility for international protection</seg></tuv>
+  <tuv xml:lang="ga"><seg>• nár thaispeáin an t-iarratasóir aon bhunús nó gur thaispeáin siad bunús íosta don argóint gur dídeanaí is ea an t-iarratasóir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• That the applicant has made inconsistent, contradictory, improbable or insufficient representations which make their claim to be eligible for international protection clearly unconvincing • That the applicant, without reasonable cause, failed to make an application as soon as reasonably practicable, having had opportunity to do so</seg></tuv>
+  <tuv xml:lang="ga"><seg>• go ndearna an t-iarratasóir ráitis nó gur sholáthraigh siad faisnéis chun tacú leis an iarratas; agus gurbh chomh bréagach, frisnéiseach, míthreorach nó neamh-iomlán sin iad is go gcinnfí an t-iarratas a bheith gan bunús ar bith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• That the applicant’s country of origin is a safe country of origin</seg></tuv>
+  <tuv xml:lang="ga"><seg>• gur mhainnigh an t-iarratasóir, gan cúram réasúnach, chun iarratas a dhéanamh chomh luath agus ab infheidhmithe tar éis a dteacht chun an Stáit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• That the applicant is not in need of international protection as they could safely return to some part of their country of origin (section 32 of the Act)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• gur thaisc an t-iarratasóir iarratas roimhe sin ar thearmann i stát éigin eile ar páirteach i gCoinbhinsiún na Ginéive é (is cuma ar nó nár cinneadh, bronnadh ná diúltaíodh don iarratas sin); nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under section 43 of the Act, if the report includes any of the above Section 39 (4) findings, your appeal against the negative recommendation should be made within 10 working days instead of 15 working days</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn an chumhacht ag an Aire chun catagóirí áirithe iarratas a threorú lena bplé de réir na nósanna imeachta a leagtar amach in alt 13(8) d’Acht na nDídeanaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Also, the appeal will be decided without an oral hearing unless the Tribunal believes it is in the interests of justice to hold one</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má eisíonn an tAire treoir mar sin agus go bpléifear le d’iarratas ar an mbealach sin, fógróidh an Coimisinéir chugat é i scríbhinn roimhré, mar a fhógrófar chuig do dhlíodóirse (más aithnid)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Transitional arrangements apply to applications for refugee status which were on appeal to the Refugee Appeals Tribunal (RAT) but had not been decided on before the commencement of the International Protection Act 2015</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabharfar fáthanna an mholta duit freisin lena n-áireofar an t-ábhar ar a mbraitheadh i gcinneadh an mholta féin. Pléifear le haon achomharc den chineál sin ag an mBínse gan aon éisteacht bhéil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you decide to appeal, the following procedure should be followed:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chinneann tú achomharc a thógáil, ba chóir go leanfaí an nós imeachta seo a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The appeal must be made in writing on an official Notice of Appeal form, which will be included with the notification from the Minister</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór an t-achomharc a dhéanamh i bhfoirm scríbhinne ar fhoirm oifigiúil um Fhógra Achomhairc, foirm a áireofar leis an bhfógra ón gCoimisinéir Iarratais do Dhídeanaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Notice of Appeal form must be completed and submitted to the International Protection Appeals Tribunal – see ‘Where to apply’ below – within the specified time limits</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit féin nó do dhlíodóirse an Fógra Achomhairc a chomhlánú ina iomláine lena n-áirítear forais an achomhairc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you wish to obtain legal advice and you have not done so previously, you should do so immediately on receipt of your letter of refusal</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is í d’fhreagracht féin í chun a chruthú gur taisceadh d’achomharc laistigh den teorainn ama a cheadaítear</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may contact the Refugee Legal Service or you may engage private legal representation in relation to your appeal</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má cuireadh sa phost é, ní mór an Fógra Achomhairc a sheoladh tríd an bpost cláraithe agus ní foláir duit féin an deimhniú clárúcháin a choinneáil a fhaigheann tú ag Oifig an Phoist nuair a phostálann tú an litir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, the International Protection Appeals Tribunal will not refund any legal costs incurred in engaging private legal representation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mian leat an Fógra a sheachadadh de láimh, ba chóir duit é a tabhairt ar láimh do bhall foirne ag oifig an Bhínse Achomhairc do Dhídeanaithe féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you wish to engage a solicitor, you should do so before completing the Notice of Appeal, because consideration of your appeal will be based on this Notice</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabharfar admháil dhátaithe duit agus ba chóir duit an admháil seo a choinneáil go cúramach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• All documents sent to you by the Minister will also be sent to your solicitor, if known</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má sheolann tú Fógra trí fhacs ní foláir duit an tuairisc um a thraschur rathúil a choinneáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You must also set out clearly the grounds of appeal</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mian leat comhairle dhlíthiúil a fháil agus nach ndearna tú amhlaidh roimhe seo ba cheart duit an méid sin a dhéanamh ar fháil do litir dhiúltaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• It is your responsibility to prove that your appeal was lodged within the permitted time limit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadann tú dul i dteagmháil le Seirbhís Dhlíthiúil do Dhídeanaithe ina leith seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If posted, the Notice of Appeal must be sent by registered post and you must keep the certificate of registration you receive at the Post Office when you post the letter</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn an rogha agat freisin chun ionadaíocht phríobháideach a earcú i ndáil le d’achomharc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you wish to deliver the Notice by hand, you should hand it to a member of staff at the office of the International Protection Appeals Tribunal</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní aisíocfaidh an Bínse Achomhairc Dídeanaithe aon chostais dlíthiúla, ámh, a dtéitear fúthu i bhfostú ionadaíochta príobháidí dlíthiúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will be given a dated receipt and you should keep this receipt carefully</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mian leat dlíodóir a fhostú, ba cheart a dhéanamh amhlaidh sula gcomhlánaítear an Fógra Achomhairc, toisc go mbunófar breithniú d'achomhairc ar an bhFógra sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you lodge your appeal after the time limit has expired, you must request an extension and explain why you could not make an appeal earlier</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart duit gach cáipéis a seoladh chugat ón gCoimisinéir Iarratais do Dhídeanaithe a thabhairt do do dhlíodóirse</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You must also inform the Tribunal of any change of address to the address provided in your Notice of Appeal</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní foláir duit gach fianaise agus cáipéisíocht thacaíochta a chur isteach leis an bhFógra Achomhairc, óir gurb iad seo na cáipéisí ar a mbreithneofar an t-achomharc féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The International Protection Appeals Tribunal will consider your appeal without an oral hearing (on the papers only) based on:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní foláir duit an Bínse a chur ar an eolas freisin i leith aon athrú ón seoladh a soláthraíodh i d'Fhógra Achomhairc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Such other matters as the Tribunal considers relevant to the appeal  Appeal with an oral hearing</seg></tuv>
+  <tuv xml:lang="ga"><seg>Breithniú achomhairc ag an mBínse Achomhairc do Dhídeanaithe gan éisteacht bhéil ag eascairt as ailt ii, iii, agus iv thuas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you request an oral hearing the Tribunal will send a notification to you at least 20 working days before the date of the hearing to attend the hearing unless you and the Tribunal have agreed to a shorter period</seg></tuv>
+  <tuv xml:lang="ga"><seg>Breithneoidh an Bínse Achomhairc do Dhídeanaithe d’achomharc gan éisteacht bhéil (um na páipéir amháin) de réir ii, iii, nó iv thuas bunaithe ar:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Your oral hearing will be conducted by a member of the Tribunal</seg></tuv>
+  <tuv xml:lang="ga"><seg>ar "Fógra Achomhairc" a chuir tú féin nó do dhlíodóirse faoina bhráid,</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The hearing must be attended by you and your solicitor (if any) and any witnesses directed to attend by the Tribunal</seg></tuv>
+  <tuv xml:lang="ga"><seg>ar cháipéisí agus tuairiscí a thugtar don Choimisinéir Iarratais do Dhídeanaithe,</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Where you are entitled to an oral hearing, you must indicate this on your Notice of Appeal form</seg></tuv>
+  <tuv xml:lang="ga"><seg>ar aon cháipéis tacaíochta eile ar chuir tú féin agus/nó do dhlíodóir isteach,</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may also request in your Notice of Appeal that a witness or witnesses attend to give evidence in support of your appeal. The notification of the date of your oral hearing will indicate whether your request for the attendance of a witness has been granted</seg></tuv>
+  <tuv xml:lang="ga"><seg>ar fhógra d’fhiosruithe a rinneadh nó tuairimí a thugann Coimisinéirí Iarratais do Dhídeanaithe faoi ailt 16(6) agus (7) d’Acht na nDídeanaithe 1996, arna leasaithe, más ann dóibh, nó aon tuairimí ag an Ard-Choimisinéir do Theifigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you need an interpreter at your appeal hearing, you will be provided with one</seg></tuv>
+  <tuv xml:lang="ga"><seg>Breithniú achomhairc ag an mBínse Achomhairc do Dhídeanaithe le hÉisteacht bhéil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Tribunal may hear 2 or more hearings together where it appears cases have a common matter, relates to members of the same family or it is otherwise reasonable to hear cases together</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seolfaidh an Bínse Achomhairc do Dhídeanaithe fógra chugat chun freastal ar éisteacht bhéil, má iarrann tú ceann, seacht lá oibre ar a laghad roimh dháta na héisteachta féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You may withdraw a request for an oral hearing by giving written notice to the Tribunal not later than 3 working days before the hearing</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é Ball den Bhínse Achomhairc do Dhídeanaithe a stiúrfaidh d’éisteacht bhéil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Failure to attend an oral hearing</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadann an UNHCR freastal mar bhreathnóir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You and your solicitor (if known) will be notified of the withdrawal</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás ina mbíonn tú i dteidil éisteachta béil, ní foláir duit an méid seo a thásc ar fhoirm d’Fhógra Achomhraic</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Minister for Justice and Equality will also be notified of the withdrawal</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadann tú a iarraidh i d’Fhógra Achomhairc freisin go bhfreastlódh fínné nó fínnéithe chun fianaise a thabhairt chun tacú le d’achomharc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read more in our document Withdrawing from the international protection process</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabharfaidh an fógra um dháta d’éisteachta béil tásc ar ar bronnadh d’iarratas ar fhreastal fínné nó nár bronnadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the International Protection Office has recommended that you be given a subsidiary protection declaration and you do not appeal to the International Protection Appeals Tribunal within the time allowed, the recommendation will stand and the Minister will give you a subsidiary protection declaration</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfar gach iarracht is indéanta chun teangaire a sholáthar má theastaíonn ceann uait ag d’éisteacht bhéil. Ba chóir d’Fhógra Achomhairc an teanga nó an chanúint bheacht a shonrú a mbíonn teangaireacht de dhíth ort. Is í an t-aon fheidhm amháin a bhíonn ag an teangaire ná chun na ceisteanna agus d’fhreagraí a theangaireacht go cruinn agus go litriúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the recommendation of the International Protection Office is that you should not be given either a refugee declaration or a subsidiary protection declaration, the Minister will then consider whether you should be given permission to remain in the State, even if you do not appeal</seg></tuv>
+  <tuv xml:lang="ga"><seg>Stiúrfar an éisteacht bhéil ar bhonn chomh neamhfhoirmiúil agus is infheidhmithe agus ar bhealach éigin le go gcinnteofaí cothrom agus trédhearcacht na n-iomthús</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are not given permission to remain as a result, the Minister will refuse to give you a declaration and may make arrangements for your removal from the State</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadann tú iarratas ar éisteacht bhéil a aistarraingt trí fhógra scríofa a thabhairt don Bhínse tráth nach déanaí ná trí lá oibre roimh an éisteacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can read more in our document about decisions on international protection made by the Minister for Justice and Equality</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní foláir don fhógra scríofa an fáth don aistarraingt a leagan amach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Outcome of your appeal</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mainneachtain chun freastal ar éisteacht bhéil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You and your solicitor (if known) will be notified in writing of the decision of the International Protection Appeals Tribunal</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás go mainníonn tú, gan cúis réasúnta, chun freastal ar éisteacht bhéil; mar sin mura dtugann tú don Bhínse, tráth nach déanaí ná trí lá oibre ón dáta a socraíodh don éisteacht bhéil, míniú i dtaobh an fáth nár fhreastail tú a measann an Bínse a bheith réasúnta sna cúinsí áirithe é, measfar d’achomharc a bheith aistarraingthe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A copy of the decision will be forwarded to the Minister for Justice and Equality</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fógrófar chugatsa agus chuig do dhlíodóir (más aithnid) faoin aistarraingt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the decision of the Tribunal allows your appeal, the Minister will give you a refugee or a subsidiary protection declaration, subject to considerations of national security or public order</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabhair faoi deara: ní gá go gcuirfidh mainneachtain fínné chun freastal cosc ar reachtáil na héisteachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Review: If the decision of the Tribunal does not allow your appeal, you may submit to the Minister information about change of circumstances or other information that would have been relevant when permission to remain in the State was being considered</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura dtógann tú achomharc chuig an mBínse Achomhairc do Dhídeanaithe laistigh den am a cheadaítear ó sheoladh an fhógra, molfaidh Coimisinéir Iarratais do Dhídeanaithe chuig an Aire Dlí agus Cirt nár chóir dearbhú mar theifeach a thabhairt duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Based on this information, the Minister will review the previous decision to refuse you permission to remain</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadann an tAire diúltú do dhearbhú a thabhairt duit agus socruithe a shocrú i gcomhair do dhíbeartha ón Stát</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have received a decision on your application for international protection but you wish to apply again, you may be able to make a subsequent application</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirfear ar aghaidh chuig an Aire Dlí agus Cirt cóip den chinneadh, agus féadann sé nó sí diúltú, i gcás molta ar diúltach é, do dhearbhú a thabhairt duit mar theifeach agus socruithe a shocrú chun do dhíbirt ón Stát</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must first apply for the Minister’s consent to the making of a subsequent application under section 22 of the Act</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más dearfach é cinneadh an Bhínse Achomhairc do Dhídeanaithe, tabharfar dearbhú mar theifeach duit leis an Aire faoi réim ag breithnithe um shlándáil náisiúnta agus an riail phoiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must satisfy the following condition:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Roghanna ar fáil duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• New elements or findings have emerged since your previous application, which make it significantly more likely that you will qualify for international protection, and you were incapable of presenting those elements or findings for the purposes of your previous application, or</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás go molann an tAire ordú díbeartha a bheartú faoina mbeidh ort an Stát a fhágáil, tabharfar trí rogha duit. Is iad na roghanna sin ná:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the Minister consents to the making of a subsequent application, you should make the application within 10 working days</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Aighneachtaí a dhéanamh don Aire laistigh de 15 lá oibre ag leagan amach an fáth ar cheart go ligfí duit chun fanacht sa Stát</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the Minister does not consent to the making of a subsequent application, you can appeal this refusal within 10 working days from the date of the notification</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Iarratas a dhéanamh ar cosaint coimhdeach, faoi na Rialacháin (Cosaint Choimhdeach) na gComhphobal Eorpach 2013 a tháinig i bhfeidhm an 14 Samhain 2013</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The decision in this appeal will be made without an oral hearing</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a fhaigheann tú fógra a deir go ndiúltaíodh d’iarratas ar stádas dídeanaí, beidh foirm iarratas ar chosaint choimhdeach iniata, chomh maith le nóta faisnéise mionsonraithe (pdf)</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Victims of crime and the coroner</seg></tuv>
+  <tuv xml:lang="ga"><seg>An cróinéir agus íospartaigh choireanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When a person dies in sudden, unexplained, violent or unnatural circumstances in Ireland, there will be an enquiry into the death</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh sé go mbeadh fiosrúchán ann má chailltear duine go tobann, gan fáth, i gcás foréigin, nó le cúinsí mínádúrtha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The "coroner" who is either a qualified doctor or a lawyer conducts the enquiry</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an cróinéir, atá ina d(h)ochtúir nó ina d(h)líodóir, a bhíonn i mbun an fhiosrúcháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A post-mortem examination may be necessary, which may be followed by an "inquest"</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh sé go mbeadh scrúdú iar bháis le déanamh agus ina dhiaidh sin éisteacht ag coiste cróinéara</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a death is due to unnatural causes, then by law, an inquest must be held</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más bás de bharr cúiseanna mínádúrtha a bhí i gceist ní mór, de réir an dlí, éisteacht ag coiste cróinéara a bheith ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Arrangements that will not cause any unnecessary stress to family members should be made for the identification of the deceased person</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart socruithe a dhéanamh nach gcuirfidh isteach gan fáth ar bhaill an teaghlaigh le corp duine a aithint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Sometimes arrangements will be made for an alternative person to carry out the identification</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó am go chéile is féidir socruithe a dhéanamh gurb é duine eile a dhéanfadh an corp a aithint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Post-mortems may be carried out following a death in certain circumstances</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir scrúdú iarbháis a dhéanamh tar éis báis i gcúinsí áirid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Information about the post-mortem procedure will be made available to the family of the deceased by the coroner's office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirfear eolas faoin bpróiséas a bhaineann le scrúdú iarbháis ar fáil don teaghlach ó oifig an chróinéara</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If they have requested it, the findings of the examination will be made known to the family</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mian leis an teaghlach é is féidir torthaí an scrúduithe a chur ar fáil dóibh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The coroner will try to ensure that the body of the deceased is released without any undue delay and the family will be informed about the likely date and time of the release of the body</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfaidh an cróinéir chuile iarracht corp a chur ar fáil don teaghlach gan aon mhoill agus inseofar don teaghlach cén dáta agus cén t-am a bhfuil súil an corp a bheith réidh dóibh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An inquest is an inquiry held in public by a coroner, sometimes with a jury</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fiosrúchán poiblí a éisteann cróinéir é Coiste Cróinéara agus bíonn giúiré i láthair uaireanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The inquest looks into the circumstances surrounding the death</seg></tuv>
+  <tuv xml:lang="ga"><seg>Breathnaíonn coiste an chróinéara ar na cúinsí a bhain le bás an duine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It's purpose is to establish the facts surrounding the death and to place those facts on the public record</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé mar aidhm ag an gcoiste cróinéara an fhírinne a bhain leis an mbás a thabhairt chun solais agus an scéal a thaifeadadh go poiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It also makes findings on the identification of the deceased, the date and place of death and the cause of death</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ainmnítear an té atá básaithe, dáta agus áit an bháis chomh maith le fáth an bháis a thaifeadadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The family will be informed of the date, time and place of the inquest as soon as possible</seg></tuv>
+  <tuv xml:lang="ga"><seg>Inseofar don teaghlach an dáta, an t-am agus an áit ar a mbeidh an Coiste Cróinéara chomh luath agus is féidir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The coroner or the jury may make a general recommendation designed to prevent similar deaths but the Coroner's Court cannot decide who is to blame for the death</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis an gcróinéir nó leis an ngiúiré moltaí ginearálta a dhéanamh le bás den chineál céanna a sheachaint arís, ach ní féidir le Cúirt an Chróinéara cinneadh a dhéanamh faoin duine atá ciontach as an mbás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The enquiry into a death can often involve upset and trauma for relatives and families</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le fiosrúchán báis gaolta agus teaghlaigh an té atá básaithe a chur trína chéile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Coroners should make sure that each stage of their work is carried out with sensitivity and respect for both the deceased and the grieving families</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart don chróinéir déanamh cinnte go bhfuil gach gné dá c(h)uid oibre curtha i gcrích ar bhealach leochaileach agus le hurraim don té atá básaithe agus do na teaghlaigh atá i gceist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>After the inquest, the coroner will, if requested, make copies of documents available to the families for a fee</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tar éis an fhiosrúcháin, cuirfidh an cróinéir, má dhéantar éileamh air, cóipeanna de na cáipéisí a chur ar fáil don teaghlach ar tháille</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>At present there is no legislation providing you with an entitlement to civil legal aid in the Coroner's Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>I láthair na huaire níl aon reachtaíocht ann a sholáthraíonn teidlíocht duit do chabhair dhlíthiúil shibhialta i gCúirt an Chróinéara</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, a small number of ex-gratia, discretionary payments for legal representation at inquests have been made to families or next of kin of people who died in state care or custody or where the state was directly involved</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cibé ar bith, tá líon beag íocaíochtaí ex-gratia lánroghnacha d'ionadaithe dlí ag ionchoisní déanta do theaghlaigh nó do neasghaolta daoine a fuair bás faoi chúram nó faoi choimeád an stáit nó nuair a bhí baint díreach ag an stát leis an gcás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have any complaints regarding the conduct of the coroner, you should contact your local authority or the Department of Justice and Equality. Further information is available in the Coroner Service Victims Charter (pdf).   Where to apply  Department of Justice and Equality  94 St</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá aon ghearráin ag duine i dtaobh iompar an chróinéara, ba cheart teagmháil a dhéanamh leis an údarás áitiúil nó leis an Roinn Dlí agus Cirt agus Comhionannais</seg></tuv>
+</tu>
+</body>
+</tmx>

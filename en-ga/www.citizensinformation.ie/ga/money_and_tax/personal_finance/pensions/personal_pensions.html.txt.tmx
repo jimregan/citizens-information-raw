@@ -1,0 +1,257 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Personal pensions mean pensions that are organised individually by self-employed people or employed people who do not have an occupational pension scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Pinsin a eagraíonn daoine atá féin-fhostaithe nó fostaithe nach bhfuil aon scéim phinsin saothair acu iad pinsin phearsanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The rules governing personal pensions have changed very considerably in recent years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá athruithe móra tagtha le blianta anuas ar na rialacha a bhaineann le pinsin phearsanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Personal pensions are not subject to the regulation of the Pensions Authority</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní thiteann pinsin phearsanta faoi Bhord na bPinsean</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Instead, personal pensions are subject to tax law and financial services legislation (including the general law on insurance)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Titeann siad faoin dlí chánach agus seirbhísí airgeadais (lena n-áirítear dlí ghinearálta árachais)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Tax relief is available for contributions to personal pensions and the amount of the relief is age-related</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir faoiseamh cánach a fháil ar ranníocaíochtaí chuig pinsin phearsanta agus braitheann an méid faoisimh atá ar fáil ar aois an duine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most personal pensions policies are insurance policies</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is polasaithe árachais iad formhór na bpolasaithe pinsin phearsanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Unlike other insurance policies, the contributions attract tax relief if various conditions are met</seg></tuv>
+  <tuv xml:lang="ga"><seg>Murab ionann le polasaithe árachais eile is féidir faoiseamh cánach a fháil ar na ranníocaíochtaí má dhéantar coinníollacha éagsúla a shásamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The traditional personal pension arrangement was that you invested your money - usually on an annual basis - with an insurance company</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go traidisiúnta rinne duine a c(h)uid airgid a infheistiú mar phinsean pearsanta - ar bhonn bliantúil go hiondúil - le comhlacht árachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The premiums you paid were then invested by the insurance company in an investment fund</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rinne an comhlacht árachais ansin na ranníocaíochtaí a d'íoc an duine a infheistiú i gciste infheistíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You could not remove your funds and invest them with another company</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní raibh an duine in ann an airgid a tharraingt amach agus é a infheistiú le comhlacht eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you reached the age specified in the policy, you were obliged to use your accumulated funds to buy an annuity</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a shroich duine an aois a bhí leagtha síos sa pholasaí, b'éigean dó/dí an t-airgead a bhí bailithe a úsáid le blianacht a cheannach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Since 1999, you are no longer obliged to buy an annuity and you also have considerable flexibility about moving between different funds</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó 1999, ní gá duit a thuilleadh blianacht a cheannach agus tá solúbthacht mhór ann maidir le do chuid airgid a aistriú ó chiste amháin go ciste eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Tax relief on contributions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoiseamh cánach ar ranníocaíochtaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may get tax relief on contributions to approved personal pension arrangements</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh sé go mbeadh faoiseamh cánach ar fáil duit ar ranníocaíochtaí chuig eagraíochtaí ceadaithe pinsin phearsanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This relief is more generous as you get older</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn níos mó faoisimh ar fáil de réir mar a éiríonn tú níos sine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Since 1 January 2011 you pay PRSI and the Universal Social Charge on your pension contributions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó 1 Eanáir 2011 íocann tú ÁSPC agus an Muirear Sóisialta Uilíoch ar do ranníocaíochtaí pinsin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Age │Amount which qualifies for tax relief │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Aois │Méid atá cáilithe le faoiseamh cánach │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Under 30 years │15% of net relevant earnings │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Faoi 30: │15% den tuarastal cuí glan │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│60 and over │40% │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│60 agus ós a chionn │40% │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The maximum amount also applies to people in certain occupations and professions, irrespective of age where there is a limited earnings span</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann an t-uasmhéid le daoine i ngairmeacha beatha agus proifisiúin faoi leith, is cuma cén aois iad nuair atá réimse teoranta tuarastail ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These occupations include professional athletes</seg></tuv>
+  <tuv xml:lang="ga"><seg>I measc na ngairmeacha seo tá lúthchleasaithe proifisiúnta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is a limit on the earnings that may be taken into account. The limit is €115,000</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é €115,000 an t-uasmhéid ioncaim ar féidir a chur san áireamh i 2011</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You no longer have to buy an annuity with the proceeds of your pension policy, however, you may do so if you wish</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní gá a thuilleadh blianacht a cheannach le fáltas do pholasaí phinsin, ach, is féidir leat é sin a dhéanamh más mian leat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This option does not apply in general to occupational pensions, but it may apply to the Additional Voluntary Contributions (AVCs) paid by people in occupational pension schemes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhaineann an rogha seo go ginearálta le pinsin saothair, ach d'fhéadfadh sé go mbeadh sé ar fáil maidir leis na Ranníocaíochtaí Breise Deonacha a d'íoc daoine le scéimeanna pinsin saothair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Limit on overall value of fund</seg></tuv>
+  <tuv xml:lang="ga"><seg>Teorainn le luach iomlán an chiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Finance Act 2006 introduced a limit on the value of an individual's pension fund which may attract tax relief and this may vary from year to year. This is called the Standard Fund Threshold</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chuir an tAcht Airgeadais, 2006 teorainn le luach an chiste pinsin a d'fhéadfadh duine faoiseamh cánach a fháil air agus is féidir an teorainn athrú go suntasach ó bhliain go bliain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>From 7 December 2010 to 31 December 2013 the maximum allowable pension fund on retirement for tax purposes was €2.3 million</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó 7 Nollaig 2010 tá luach an t-uaschiste pinsin scoir le haghaidh cúinsí cáin atá ceadaithe €2.3 milliún</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>From the same date the value of a defined benefit differs depending on the age at which the pension is drawn down</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá an ciste níos mó ná an teorainn bainfear cáin ar ráta 41% ar an bhfarasbarr nuair a tharraingítear anuas é ón gciste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Since 1 January 2011 there is a limit of €200,000 on the amount of the tax-free retirement lump sum</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó 1 Eanáir 2011 tá teorainn €200,000 ar an méid cnapshuime scoir atá saor ó cháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Lump sum payments above that limit will be taxed as follows (in 2014 and 2015):</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gearrfar cáin ar íocaíochtaí cnapshuime níos mó ná an teorainn seo mar a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Amount of lump sum │Income tax rate │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Méid cnapshuime │Ráta cáin ioncam │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Up to €200,000 │0% │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Suas go €200,000 │0% │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Over €500,000 │Taxpayer's marginal rate │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Níos mó ná €575,000 │Ráta immeallach an cháiníocóra │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You do not have to remain in the same pension fund</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní gá duit fanacht leis an gciste céanna pinsin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may transfer funds accumulated with one insurer to another fund with another insurer</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat airgead atá bailithe le árachóir amháin a aistriú chuig ciste eile le hárachóir eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Of course, there may be costs involved in doing this</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ár ndóigh, d'fhéadfadh sé go mbeadh costais i gceist leis seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you retire, you may opt for the existing annuity arrangements or for the new arrangements</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a fhágann tú do phost, d'fhéafá na socruithe reatha blianachta a roghnú nó na socruithe nua</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The new arrangements mean that the accumulated fund is your property</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi na socruithe nua is leatsa an ciste carntha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must take your pension not later than your 75th birthday (the previous upper limit was 70)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit do phinsean a thógáil ar a dheireanas nuair a bhaineann tú seachtó cúig bliana amach (bhíodh uastheorainn de 70 bliana air cheana)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In 2011, the rules about investing in Approved Retirement Funds (ARFs) were changed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit ansin ar a laghad €119,800 den chiste a chur ar leataobh agus é a chur in Íoschiste Scoir Cheadaithe (ÍCSC)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Finance Act 2013 provides that these changes have been rescinded until 2016</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir tarraingt ar an gciste seo ag fágáil níos lú ná €119,800 ann sula mbaineann tú 75 bliana d'aois amach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The 2011 rules provided that you may place your accumulated pension money in an Approved Retirement Fund (ARF) if you are aged over 75 or if you have a guaranteed income of at least 1.5 times the level of the State Pension (Contributory) – €18,000 at present. Before 2011, the required minimum income was €12,700</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bheidh iachall ort infheistiú in ÍCSC má tá pinsean cinnte agat nó ioncam saoil ó phinsin stáit, blianacht nó pinsean saothaoir gur fiú ar a laghad €18,000 sa bhliain é (tugtar an t-íosmhéid riachtanach ioncaim ar seo)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you do invest in an AMRF, you do not get access to the capital in the fund until you reach the age of 75</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tar éis duit infeistiú san ÍCSC is féidir leat go simplí an fuíollach a thógáil nó é a infheistiú i gCiste Scoir Cheadaithe nó i roinnt cistí mar sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>At that stage the AMRF is converted to an ARF</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má thógann tú an t-airgead, beidh ort, ár ndóigh, cáin a íoc air</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The AMRF may be converted to an ARF at an earlier stage if you meet the minimum income requirements</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciste ar bith é Ciste Scoir Cheadaithe, cuntas bainc san áireamh, in aon institiúid airgeadais rialaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This will remain the case until 2016 when it is intended that the 2011 rules will come into effect again</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh cáin ioncaim le n-íoc agat má dhéanann tú na cistí seo a tharraingt anuas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Those people who were affected by the higher limits (that applied from 6 February 2011 until the date the Finance Act 2013 was passed – 27 March 2013), may now convert any AMRF into an ARF provided they have a minimum income of at least €12,700</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabharfar isteach cáin de réir a chéile ó 2007 go 2009 ar an gcuid sin den chiste nach bhfuil tarraingthe anuas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If they have minimum income of less than this but have more than €63,500 in an AMRF, the excess amount now becomes an ARF</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gearrfar cáin ar ráta 1% i 2007, 2% i 2008 agus 3% i 2009 agus bainfidh sé seo le cistí formheasta pinsin a cruthaíodh ar 6 Aibreán 2000 nó ina dhiaidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Similar arrangements are made for people who have invested in a vested Personal Retirement Savings Account (PRSA)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó 1 Eanáir 2011 tá an cháin seo méadaithe go 5% (3% roimhe seo) le haghaidh luachanna sócmhainní an 31 Nollaig 2010 agus blianta todhchaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you die before taking any benefit from your fund, the accumulated funds form part of your estate and are distributed accordingly</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhaigheann tú bás sula bhfaigheann tú aon sochar ó do chiste téann an ciste carntha chuig d'eastát agus déantar é a dháileadh dá réir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Capital Acquisitions Tax (CAT) may apply</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh sé go mbeadh Cáin ar Fháltais Chaipitiúla (CFC) le n-íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you die after taking benefit and you have invested in an ARF, the remaining funds form part of your estate but are regarded as your income in the year of death</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chailltear tú tar éis sochair a fháil agus má tá infheistíocht déanta agat i gCSC, téann an t-airgead atá fágtha chuig d'eastát ach breathnaítear air mar ioncam sa bhliain inár bhásaigh tú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Tax at your marginal rate is deducted and the remaining amount is distributed in the normal way</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baintear cáin ag an ráta imeallach agus déantar an fuíollach a dháileadh sa ghnáthbhealach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is no CAT liability</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon dliteanas CFC ort</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if your spouse or civil partner inherits the funds, no income tax is payable</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach, má théann an t-airgead chuig do chéile ó pháirtnéir sibhialta, níl aon cháin ioncaim iníoctha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Effectively, your spouse or civil partner steps into your shoes as owner of the fund and when he/she dies, a 20% rate of income tax may be payable and there is no CAT liability</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin, glacann do chéile ó pháirtnéir sibhialta d'áit mar úinéir ar an gciste agus nuair a chailltear é/í d'fhéadfadh sé go mbeadh cáin ioncaim ag 20% le n-íoc agus níl aon dliteanas CFC ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is the case unless the funds are inherited by children over 21 - in this case, the amount they get is taxable as the child's income in that year, but taxed at a flat rate of 30% rather than at the child's marginal tax rate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé seo amhlaidh ach amháin sa chás go bhfuil an ciste fágtha ag leanaí atá ós cionn 21 bliana - sa chás seo, tá an méid a fhaigheann siad inchánaithe mar ioncam an linbh sa bhliain sin, ach ag ráta de 20% seachas ag ráta cánach imeallaigh an linbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Levy on private pension funds</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tobhach ar chistí príomháideacha pinsean</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There was a levy of 0.6% on the market value of assets which are managed in pension funds and pension plans approved under Irish tax legislation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tobhach de 0.6% de mhargadhluach shócmhainní atá á mbainistiú i gcistí pinsean agus pleananna pinsean atá ceadaithe faoi reachtaíocht chánach na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(These include occupational pension schemes, Retirement Annuity Contracts and Personal Retirement Savings Accounts)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Ina measc siúd tá scéimeanna pinsean gairme, Conarthaí Blianachta Scoir agus Cuntais Choigiltis Scoir Phearsanta.)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In 2014 an extra levy of 0.15% was introduced. This meant that the total pension levy in 2014 was 0.75% and the levy in 2015 is 0.15%</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gheobhaidh tú tuilleadh eolais mar gheall ar an tobhach pinsin ar shuíomh gréasáin na Roinne Airgeadais</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>• How to use your Eircode</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Conas do Eircode a úsáid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In July 2015, a new national postcode system known as Eircode was introduced</seg></tuv>
+  <tuv xml:lang="ga"><seg>In Iúil 2015, tugadh córas nua náisiúnta postchóid isteach ar a dtugtar Eircode</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All residential and business addresses have been given a unique new Eircode</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugadh Eircode nua uathúil do gach seoladh cónaithe agus gnó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Residential addresses include every address where post is delivered</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áirítear le seoltaí cónaithe gach seoladh a ndéantar post a seachadadh chuige</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Each house on a street, each flat in an apartment block, each unit in a duplex unit and each house in a rural townland has been given an Eircode</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugadh Eircode do gach teach ar shráid, gach árasán i mbloc árasán, gach aonad in aonad árasán dhá urlár agus gach teach i mbaile fearainn tuaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In a halting site with numbered bays, each bay has been given an Eircode</seg></tuv>
+  <tuv xml:lang="ga"><seg>I láithreán stad ina bhfuil bánna uimhrithe, tugadh Eircode do gach bá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Eircode does not belong to the caravan but to the bay in which it resides</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhaineann an Eircode leis an gcarbhán ach leis an mbá ina bhfuil sé suite</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a caravan or mobile home within a bay moves from the bay, the bay retains the Eircode</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhogann carbhán nó teach soghluaiste laistigh de bhá ón mbá, coimeádann an bá an Eircode</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a halting site has an office that receives mail, the office address will get an Eircode</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá oifig i láithreán stad a seoltar an post chuige, gheobhaidh seoladh na hoifige sin Eircode</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An Eircode is a unique 7-character code consisting of letters and numbers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cód uathúil seacht gcarachtar é Eircode ina bhfuil litreacha agus uimhreacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Each Eircode consists of a 3-character routing key to identify the area and a 4-character unique identifier for each address, for example, A65 F4E2</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá eochair ródaithe 3 charachtar i ngach Eircode chun an ceantar a shainaithint mar aon le aitheantóir uathúil ceithre charachtar do gach seoladh, mar shampla, A65 F4E2</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The routing key is the first 3 characters of an Eircode</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an eochair ródaithe an chéad trí charachtar de Eircode</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The first character is always a letter, followed by 2 numbers (except for D6W)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Litir a bhíonn i gceist leis an gcéad charachtar, agus dhá uimhir ina dhiaidh (seachas i gcás D6W)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The letters are not linked to a county or city name, except for postal districts in Dublin, which have had their existing postal codes transferred into a routing key format such as D03, D12 and D22</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl na litreacha nasctha le hainm contae nó cathrach, seachas i gcás postcheantar i mBaile Átha Cliath, a ndearnadh a bpostchóid reatha a aistriú isteach i bhformáid Eochair ródaithe, ar nós D03, D12, D15 agus D22</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The same routing key can be shared by several towns and townlands</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh roinnt bailte agus bailte fearainn an eochair ródaithe chéanna a úsáid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The unique identifier is a group of 4-characters and comes after the routing key</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an t-aitheantóir uathúil grúpa de cheithre charachtar agus tagann sé i ndiaidh na heochrach ródaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Each unique identifier is different and unique to your home or premises</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá gach Aitheantóir Uathúil éagsúil agus uathúil i dtaobh do bhaile nó áitribh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They are not in sequence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhíonn siad i sraith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is to avoid the situation where a new building is created between two existing ones, and the code sequence would be broken, requiring all Eircodes in the area to be changed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is amhlaidh atá seo chun an cás a sheachaint ina gcruthaítear foirgneamh nua idir dhá fhoirgneamh reatha, agus go mbrisfí sraith na gcód, agus ina mbeadh gá gach Eircode sa cheantar a athrú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>How to use your Eircode</seg></tuv>
+  <tuv xml:lang="ga"><seg>Conas do Eircode a úsáid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Eircode should be placed at the end of your normal address, just below the County</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart an Eircode a lua ag deireadh do ghnáthsheolta, díreach faoi bhun an Chontae</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are writing to a person in Ireland from overseas, the Eircode should go between the County and Country details</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ag scríobh chuig duine in Éirinn ó áit thar lear, ba cheart an Eircode a lua idir na sonraí faoin Tír agus an Contae</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The use of Eircode is not mandatory</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl úsáid an Eircode éigeantach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, it is likely that organisations will ask you for your Eircode, especially those delivering goods or services to your address</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is dóchúil go n-iarrfaidh eagraíochtaí ort, áfach, do Eircode a thabhairt, go háirithe na heagraíochtaí siúd a dhéanann earraí nó seirbhísí a sheachadadh chuig do sheoladh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should only give your Eircode to people or companies that you would be happy to give your address to</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níor cheart duit do sheoladh a thabhairt ach do dhaoine nó do chuideachtaí a mbeifeá sásta do sheoladh a thabhairt dóibh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is no personal data on the Eircode database or Eircode Finder</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon sonraí pearsanta ar bhunachar sonraí Eircode nó in Aimsitheoir Eircode</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It does include business names, which in some cases can be the name of an individual, particularly for small businesses or sole traders</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áirítear leis ainmneacha gnó, a bhféadfadh ainm duine aonair a bheith i gceist leo, go háirithe i dtaobh gnólachtaí beaga nó trádálaithe aonair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You do not apply for an Eircode</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní dhéanann tú iarratas ar Eircode</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The information shown on the Eircode Finder is based on information received from An Post GeoDirectory</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an fhaisnéis a thaispeántar ar Aimsitheoir Eircode bunaithe ar fhaisnéis a fuarthas ó Logeolaire An Post</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As An Post update their information and it is passed to Eircode, any changes will be reflected on the Eircode Finder</seg></tuv>
+  <tuv xml:lang="ga"><seg>De réir mar a nuashonraíonn An Post a bhfaisnéis agus go gcuirtear ar aghaidh í chuig Eircode, léireofar aon athruithe in Aimsitheoir Eircode</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Each quarter, Eircode will receive an update with any new properties</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gach ráithe, gheobhaidh Eircode nuashonrú ina mbeidh aon réadmhaoin nua</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>At this time any new address will be assigned an Eircode and an Eircode letter will be sent to the occupier of that address</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag an tráth seo, sannfar Eircode chuig aon seoladh nua agus seolfar litir Eircode chuig áititheoir an tseolta sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is likely that if your address is not listed on the current Eircode Finder that it will be in one of the future versions of the Eircode Finder</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is dóchúil, mura bhfuil do sheoladh liostaithe ar an Aimsitheoir Eircode reatha, go mbeidh sé i gceann de na leaganacha d’Aimsitheoir Eircode amach anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Eircode cannot change the postal address information available on the Eircode Finder unless instructed to do so by An Post GeoDirectory</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir le Eircode an fhaisnéis faoi sheoladh poist atá ar fáil ar Aimsitheoir Eircode a athrú mura n-ordaíonn Logeolaire (GeoDirectory) An Post chun amhlaidh a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your address in the Eircode Finder is incorrect, it is recommended that you carry on using the address you normally use and simply add the Eircode</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá do sheoladh in Aimsitheoir Eircode mícheart, moltar go leanann tú ar aghaidh agus an seoladh a úsáideann tú de ghnáth a úsáid agus gan ach an Eircode a chur leis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find or check an Eircode using the Eircode Finder</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú Eircode a aimsiú nó a sheiceáil agus leas á bhaint as Aimsitheoir Eircode</seg></tuv>
+</tu>
+</body>
+</tmx>

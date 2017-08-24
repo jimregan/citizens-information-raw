@@ -1,0 +1,401 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>• Register of enduring powers of attorney</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Clár na cumhachtaí aturnae buaine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Power of attorney is a legal device in Ireland that can be set up by a person (the donor) during his/her life when he/she is in good mental health</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is deis dhlíthiúil í Cumhacht Aturnae in Éirinn a fhéadfaidh duine (an deontóir) a shocrú le linn a s(h)aoil nuair atá sláinte mhaith intinne aige/aice</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It allows another specially appointed person (the attorney) to take actions on the donor's behalf if he/she is absent, abroad or incapacitated through illness</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceadaíonn sé do dhuine eile atá ainmnithe go speisialta (An tAturnae) beart a dhéanamh ar son an deontóra má bhíonn sé/sí as láthair, thar lear nó míchumasaithe de bharr breoiteachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The relevant legislation is the Powers of Attorney Act 1996 and the Enduring Powers of Attorney Regulations 1996 (SI No</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is í an reachtaíocht ábhartha an tAcht um Chumhachtaí Aturnae,1996 agus na Rialacháin um Chumhachtaí Aturnae, 1996 (I.R. Uimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>196/1996) as amended by SI No</seg></tuv>
+  <tuv xml:lang="ga"><seg>196/1996) arna leasú ag I.R</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Part 7 of the Assisted Decision-Making (Capacity) Act 2015 provides for new arrangements for those who wish to make an Enduring Power of Attorney</seg></tuv>
+  <tuv xml:lang="ga"><seg>Soláthraíonn Cuid 7 den Acht Chinnteoireacht Cuidithe (Cumas) 2015 maidir le socruithe nua dóibh siúd ar mian leo a dhéanamh Cumhacht Bhuan Aturnae</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When the 2015 Act is commenced, no new Enduring Power of Attorneys will be created under the 1996 Act</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a bhíonn an tAcht 2015 cuireadh tús, ní bheidh cruthaíodh aon Cumhacht Bhuan Aturnae nua faoin Acht 1996</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If someone in Ireland is mentally incapacitated (for example, because of illness, disability or a progressive degenerative illness), all of their assets and property are normally frozen and cannot be used by anyone else unless they are jointly owned or, someone has power of attorney to deal with their property or money</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá duine éigin in Éirinn faoi mhíchumas intinne (mar shampla, mar a gheall ar bhreoiteacht, mhíchumas nó ghalar forásach meathlúcháin), de ghnáth déantar a gcuid sócmhainní agus maoine go léir a chalcadh agus ní féidir le héinne eile úsáid a bhaint astu ach amháin má tá comhúinéireacht orthu nó má tá Cumhacht Aturnae ag duine éigin chun déileáil lena gcuid maoine nó airgid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In a larger sense, power of attorney is just one of the legal arrangements that you can make during your lifetime, in the event you become incapacitated or unable to deal with your affairs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Cumhacht Aturnae, sa chiall níos leithne, ar cheann de na socruithe dlí is féidir leat a dhéanamh le linn do shaoil, sa chás go dtagann míchumas ort nó nach mbeidh tú in ann déileáil le do ghnóthaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Information to help guide you in recording and registering your preferences in the event of emergency, serious illness or death is available at Thinkahead.ie, where you can also download the Think Ahead Form</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá eolas chun tú a threorú i do chuid sainroghanna a thaifeadadh agus a chlárú i gcás éigeandála, tinneas tromchúiseach nó ar bhás ar fáil ag Thinkahead.ie, áit ar féidir leat a íoslódáil chomh maith Fhoirm Think Ahead</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read more about the legal arrangements in the event of incapacity here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léigh tuilleadh faoi shocruithe dlí i gcás duine atá míchumasaithe anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are two types of power of attorney allowed under Irish law:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá dhá chineál Cumhachta Aturnae ceadaithe faoi dhlí na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Power of attorney which gives either a specific or a general power and ceases as soon as the donor becomes incapacitated</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cumhacht Ghinearálta Aturnae; a chríochnaíonn nuair atá an deontóir míchumasaithe agus,</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Enduring power of attorney which takes effect on the incapacity of the donor</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cumhacht Bhuan Aturnae; a thagann i bhfeidhm sa chás go bhfuil an deontóir míchumasaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Both cease on the death of the donor</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tagann deireadh leis an bpéire seo ar bhás an deontóra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, it may be difficult to prove that the donor is dead if his/her body cannot be found, for example, as in the case of a death by drowning</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh sé a bheith deacair a chruthú áfach go bhfuil an deontóir marbh, murar féidir teacht ar a c(h)orp, mar shampla i gcás báite</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Once the body is found or the donor is declared to be "believed dead" by a court (usually after 7 years have passed), the power of attorney (if there was one) ends and their affairs are dealt with in the normal way by will or under intestacy law</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chomh luath agus a fhaightear an corp nó a dhéantar fógra cúirte go nglactar leis go bhfuil an deontóir marbh (de ghnáth tar éis 7 mbliana) tagann deireadh leis an gCumhacht Aturnae (má bhí a leithéid ann) agus déileáiltear lena gcuid gnóthaí ar an ngnáthbhealach faoi uacht nó faoin dlí díthiomnachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A power of attorney can be specific (limited to a particular purpose, for example, sale of your house in your absence) or general (entitling the attorney to do almost everything that you yourself could do)</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh cumhacht aturnae bheith sonrach (teoranta do chuspóir ar leith, mar shampla, díol do thí agus tú gan a bheith i láthair) nó cumhacht aturnae ginearálta (a thugann an teidlíocht don aturnae nach mór gach rud a dhéanamh a d’fhéadfá féin a dhéanamh)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, it may allow the attorney to take a wide range of actions on the donor's behalf in relation to property, business, and financial affairs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, d’fhéadfadh sé ligean don aturnae dul i mbun réimse fairsing gníomhartha ar son an deontóra maidir le gnóthaí réadmhaoine, gnó agus airgeadais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He/she may make payments from the specified accounts, make appropriate provision for any specified person's needs, and make appropriate gifts to the donor's relations or friends</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh sé/sí íocaíochtaí a dhéanamh ó na cuntais shainithe, soláthar a dhéanamh do riachtanais aon duine sainithe, agus na bronntanais oiriúnacha a bhronnadh ar ghaolta nó ar chairde an deontóra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You do not require a solicitor to create a general power of attorney</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní theastaíonn aturnae uait chun cumhacht ghinearálta aturnae a chruthú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It can be created when signed either by you or at your direction and in the presence of a witness</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadtar é a chruthú nuair a shíníonn tú féin é nó nuair a shínítear é le d’ordú i láthair finné</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, it is advisable to get legal advice before you sign a form appointing someone else to manage your affairs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Moltar duit comhairle dlí a fháil, áfach, sula síníonn tú foirm a cheapann duine eile chun do ghnóthaí a bhainistiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can appoint anyone you wish to be your attorney</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú aon duine a cheapadh is mian leat bheith mar d’aturnae</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A form of general power of attorney is given in the Third Schedule of the Powers of Attorney Act 1996 (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar cineál cumhacht ghinearálta aturnae sa Tríú Sceideal den Acht um Chumhachtaí Aturnae, 1996 (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An enduring power of attorney (EPA) also allows the attorney to make "personal care decisions" on the donor's behalf once he/she is no longer fully mentally capable of taking decisions themself</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceadaíonn Cumhacht Bhuan Aturnae don Aturnae chomh maith "cinneadh faoi chúram pearsanta" a dhéanamh ar son an deontóra nuair nach bhfuil sé/sí in ann cinneadh a dhéanamh é/í féin mar gheall ar chúinsí sláinte intinne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Personal care decisions may include deciding where and with whom the donor will live, who he/she should see or not see and what training or rehabilitation he/she should get</seg></tuv>
+  <tuv xml:lang="ga"><seg>Agus cinneadh ar chúram pearsanta á dhéanamh, d'fhéadfadh go mbeadh cinneadh le déanamh ar cé leis agus cén áit a bheidh an deontóir ina c(h)ónaí, cé hiad na daoine a mbeidh agus nach mbeidh sé/sí in ann a fheiceáil agus cén traenáil nó athshlánú ar chóir dó/di a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if the donor wants, he/she can specifically exclude any of these powers when setting up the power of attorney or can make the attorney's powers subject to any reasonable conditions and restrictions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mian leis an deontóir, áfach, is féidir leis/léi ceann ar bith de na cumhachtaí seo a eisiamh nuair atá an Chumhacht Aturnae á socrú nó is féidir leis/léi coinníollacha agus srianta réasúnta a chur i bhfeidhm maidir le cumhachtaí an Aturnae</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can appoint anyone you wish to be your attorney, including a spouse, civil partner, family member, friend, colleague, etc</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat duine ar bith is mian leat a cheapadh mar Aturnae agat, lena n-áirítear cara, duine den teaghlach, comhghleacaí, páirtí homaighnéasach nó leispiach srl</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The procedure for creating an enduring power of attorney is much more complex than that for creating a general power of attorney</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá próiseas i bhfad níos casta i gceist má tá cumhacht bhuan aturnae á cur i gcrích</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Creating an enduring power of attorney</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cumhacht bhuan aturnae a chur i gcrích</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Because the enduring power of attorney involves the transfer of considerable powers from you to another person, there are a number of legal safeguards to protect you from abuses</seg></tuv>
+  <tuv xml:lang="ga"><seg>Aistríonn cumhacht bhuan aturnae riar maith cumhachtaí uaitse chuig duine eile agus mar sin, tá roinnt cosaintí dlíthiúla ann chun tú a chosaint ó mhí-úsáid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The procedure for executing the enduring power of attorney is complex and requires the involvement of a solicitor and a doctor</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an próiseas a bhaineann le cumhacht bhuan aturnae a chur i bhfeidhm casta agus tá gá le rannpháirtíocht aturnae agus dochtúra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The enduring power can only come into effect when certain procedures have been gone through and the courts have a general supervisory role in the implementation of the power</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leis an gcumhacht bhuan a theacht i bhfeidhm go dtí go bhfuil nósanna imeachta áirithe tugtha chun críche agus go bhfuil ról ginearálta maoirseachta ag na Cúirteanna maidir leis an gcumhacht a chur i bhfeidhm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The document creating the power must be in a particular format and must include the following:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh leagan amach áirithe a bheith ar an gcáipéis a chuireann an chumhacht i gcrích agus caithfidh na rudaí seo a leanas a bheith san áireamh ann:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A statement by a doctor verifying that in his/her opinion you had the mental capacity at the time that the document was executed to understand the effect of creating the power</seg></tuv>
+  <tuv xml:lang="ga"><seg>• ráiteas ón dochtúir ag cur in iúl ina t(h)uairim go raibh an cumas intinne agat ag an am a cuireadh an cháipéis le chéile toradh chruthú na cumhachta a thuiscint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A statement from you that you understood the effect of creating the power</seg></tuv>
+  <tuv xml:lang="ga"><seg>• ráiteas uait ag dearbhú gur thuig tú toradh chruthú na cumhachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A statement from a solicitor that he/she is satisfied that you understood the effect of creating the power of attorney</seg></tuv>
+  <tuv xml:lang="ga"><seg>• ráiteas ó aturnae go bhfuil sé/sí sásta gur thuig tú toradh chruthú chumhacht aturnae</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A statement from a solicitor that you were not acting under undue influence</seg></tuv>
+  <tuv xml:lang="ga"><seg>• ráiteas ó aturnae ag dearbhú nach raibh tú ag feidhmiú faoi thionchar míchuí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>At least 2 people must be notified of the making of an EPA, none of whom will be the attorney</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór ar a laghad beirt daoine a chur ar an eolas faoi CCA a dhéanamh, ní bheidh an t-aturnae ina measc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>One of the notice parties must be your spouse or civil partner if living with you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go mbeidh duine de na páirtithe fógra do chéile nó do pháirtnéir sibhialta má chónaíonn siad leat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If this does not apply, one of your notice parties must be your child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Murab infheidhme dó seo, ní mór go mbeidh do leanbh i measc do pháirtithe fógra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If neither is applicable, one of the notice parties must be any relative (that is parent, sibling, grandchild, widow/widower/surviving civil partner of child, nephew or niece)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Murab infheidhme do cheachtar díobh, ní mór go mbeidh duine de na páirtithe fógra aon ghaol leat (is é sin, tuismitheoir, siblíneach, garmhac/gariníon, baintrí/baintreach fir/páirtnéir sibhialta linbh, neacht nó nia)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Who cannot be appointed?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cé nach féidir a cheapadh?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An enduring power of attorney may be granted to individuals or trust corporations but may not be granted to the following people:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir cumhacht bhuan aturnae a thabhairt do dhaoine aonair nó do chorparáidí iontaobhais ach ní féidir í a thabhairt do na daoine seo a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• People under the age of 18</seg></tuv>
+  <tuv xml:lang="ga"><seg>• daoine nach bhfuil 18 mbliana d'aois bainte amach acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• People convicted of offences involving fraud or dishonesty</seg></tuv>
+  <tuv xml:lang="ga"><seg>• daoine a ciontaíodh i gcionta a bhain le calaois nó mí-ionracas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• People disqualified under the Companies Acts</seg></tuv>
+  <tuv xml:lang="ga"><seg>• daoine atá dícháilithe faoi Achtanna na gCuideachtaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• An individual or trust corporation who owns a nursing home in which you live or an employee or agent of the owner, unless that person is also your spouse, civil partner, child or sibling</seg></tuv>
+  <tuv xml:lang="ga"><seg>• duine aonair nó corparáid iontaobhais ar leo teach altranais ina bhfuil tú i do chónaí nó fostaí nó ionadaí an úinéara, ach amháin sa chás gur do chéile nó páirtnéir sibhialta, do pháiste, do dheartháir nó do dheirfiúr é/í</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The EPA can only come into force when it has been registered</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bheidh feidhm ag an CCA ach amháin tar éis dó bheith cláraithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, once an application to register the EPA has been made, the attorney may take action under the EPA's powers to maintain you and prevent loss to your estate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áfach, a luaithe a dhéantar iarratas ar an CCA a chlárú, féadfaidh an t-aturnae dul i mbun gníomhaíochta faoi chumhachtaí an CCA chun tú féin a chaomhnú agus chun caillteanas ar d’eastát a chosc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The attorney may also take action to maintain themself and other persons, in so far as it is permitted under Section 6 (4) of the 1996 Act</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, féadfaidh an t-aturnae dul i mbun gníomhaíochta chun iad féin agus daoine eile a chaomhnú, sa mhéid go gceadaítear amhlaidh a dhéanamh faoi Alt 6 (4) d’Acht 1996</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The attorney may also make any personal care decisions permitted under the powers that cannot reasonably be deferred until the application for registration has been determined</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa mhullach air sin, féadfaidh an t-aturnae aon chinntí faoi chúram pearsanta a dhéanamh a cheadaítear faoi na cumhachtaí nach féidir a iarchur go réasúnta nó go ndeimhnítear an t-iarratas ar chlárú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Also, in certain circumstances before the EPA is registered, application may be made to the court to exercise the EPA's powers under Section 12 of the Act</seg></tuv>
+  <tuv xml:lang="ga"><seg>Anuas air sin, faoi chúinsí áirithe, sula gcláraítear an CCA, féadtar iarratas a dhéanamh ar an gcúirt chun cumhachtaí CCA a fheidhmiú faoi Alt 12 den Act</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In order to register an EPA, the future attorney makes an application for registration to the Registrar of Wards of Court, once there is reason to believe that you are or are becoming mentally incapable</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhonn CCA a chlárú, déanann an t-aturnae amach anseo iarratas ar chlárú le Cláraitheoir na gCoimircí Cúirte, a luaithe nach ann d’aon údar lena gcreidiúint go bhfuil tú neamhabálta go meabhrach nó go bhfuil tú ag éirí neamhabálta go meabhrach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The attorney must have a medical certificate confirming that you are incapable of managing your affairs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go mbeidh ag an aturnae teastas leighis a dhearbhaíonn nach bhfuil tú ábalta do chuid gnóthaí a bhainistiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Five weeks before making this application, the attorney must notify you and the notice parties of his/her intention to do so</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don aturnae thú agus na páirtithe fógra a chur ar an eolas, cúig seachtaine sula ndéantar an t-iarratas seo, go bhfuil sé beartaithe aige/aici amhlaidh a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Within the 5 weeks, the donor or a notice party can lodge a notice of objection on one of the grounds given in Section 10 (3) of the Act with the Registrar of Wards of Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Laistigh de na cúig seachtaine, féadfaidh an deontóir nó páirtí fógra agóide a sheoladh ar cheann de na húdair a luaitear in Alt 10 (3) den Acht le Cláraitheoir na gCoimircí Cúirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The High Court has an extensive supervisory role in respect of the EPA</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá ról leathan maoirseoireachta ag an gcúirt maidir leis an gCumhacht Bhuan Aturnae</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Among other things, the court has power to give directions about the management and disposal of your property</seg></tuv>
+  <tuv xml:lang="ga"><seg>I measc rudaí eile, tá cumhacht ag an gcúirt treoracha a thabhairt maidir le bainistíocht agus riaradh do mhaoine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The court may confirm the revocation of a power of attorney if it is satisfied that you were mentally competent to revoke it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh an chúirt cúlghairm de chumhacht aturnae a dhaingniú má tá sí sásta go bhfuil an ábaltacht intinne agat chun é a chúlghairm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The court can order cancellation of the power where it is satisfied that:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis an gcúirt cealú na cumhachta a ordú má tá sí sásta faoi na nithe seo a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You are mentally capable and likely to remain so</seg></tuv>
+  <tuv xml:lang="ga"><seg>• go bhfuil cumas intinne agat agus gur cosúil gur mar sin a fhanfaidh tú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The attorney is unsuitable</seg></tuv>
+  <tuv xml:lang="ga"><seg>• nach bhfuil an t-aturnae feiliúnach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Fraud or undue pressure was used to induce you to create the power</seg></tuv>
+  <tuv xml:lang="ga"><seg>• gur baineadh leas as calaois nó brú míchuí ag cur ina luí ort an chumhacht a chruthú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Scope of authority of an enduring power of attorney</seg></tuv>
+  <tuv xml:lang="ga"><seg>Scóip an údaráis atá ag Cumhacht Bhuan Aturnae</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The EPA may give general authority to the attorney to do anything that the attorney might lawfully do or it may merely give authority to do specific acts on your behalf</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh an Chumhacht Bhuan Aturnae údarás ginearálta a thabhairt don aturnae aon rud dlíthiúil gur mian leis/ léi a dhéanamh nó féadfaidh sé an t-údarás a thabhairt dó/di gníomhachtaí faoi leith a dhéanamh ar do shon</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The attorney may make certain personal care decisions - these must be made in your best interests, must be in accordance with what you would have been likely to do and the attorney must consult family members and carers in making these decisions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis an aturnae cinntí faoi do chúram pearsanta a dhéanamh -ní mór don aturnae iad a dhéanamh ar do leas is fearr, de réir an rud ba mhian leat a dhéanamh agus ní mór don aturnae dul i gcomhairle le do theaghlach agus cúramóirí agus na cinntí seo á ndéanamh aige</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The attorney is considered to be acting in your best interests if he/she reasonably believes that what he/she decides is in your best interests</seg></tuv>
+  <tuv xml:lang="ga"><seg>Meastar go bhfeidhmíonn an t-aturnae chun do bharrleasa má chreideann sé/sí go réasúnta go bhfuil a gcinneann sé/sí chun do bharrleasa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A personal care decision is a decision concerning one or more of the following:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cinneadh a bhaineann le ceann nó níos mó de na nithe seo a leanas is ea cinneadh faoi chúram pearsanta:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Where and with whom you should live</seg></tuv>
+  <tuv xml:lang="ga"><seg>• cén áit agus cé leis a mbeidh tú i do chónaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Whom you should see and not see</seg></tuv>
+  <tuv xml:lang="ga"><seg>• cé hiad na daoine a mbeidh agus nach mbeidh tú in ann a fheiceáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• What training and rehabilitation you should get</seg></tuv>
+  <tuv xml:lang="ga"><seg>• cén traenáil agus athshlánú ar chóir duit a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Your diet and dress</seg></tuv>
+  <tuv xml:lang="ga"><seg>• do bhia agus do chuid éadaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Inspection of your personal papers</seg></tuv>
+  <tuv xml:lang="ga"><seg>• cigireacht ar do cháipéisí pearsanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Housing, social welfare and other benefits</seg></tuv>
+  <tuv xml:lang="ga"><seg>• tithíocht, liúntais leasa shóisialaigh agus sochair eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The list does not include health care decisions, although the borderline between personal care and health care decisions is not always clear</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl cinntí faoi chúram sláinte san áireamh ar an liosta, cé go bhfuil sé deacair uaireanta idirdhealú a dhéanamh idir cinntí faoi chúram sláinte agus chúram pearsanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, it seems clear that the attorney does not have the power to make a decision as to whether or not a person suffering from dementia should undergo surgery</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is cosúil, áfach nach bhfuil an chumhacht ag an aturnae cinneadh a dhéanamh ar cheart nó nár cheart don duine a bhfuil míchumas intinne air/uirthi dul faoi scian</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Revocation of an enduring power of attorney</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cúlghairm cumhacht chomhsheasmhach aturnae</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The donor can revoke an EPA at any time before an application is made to register it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh an deontóir CCA a chúlghairm ag aon tráth sula ndéantar iarratas chun é a chlárú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Once the EPA has been registered you cannot revoke it even if you are, for the time being, mentally capable</seg></tuv>
+  <tuv xml:lang="ga"><seg>A luaithe a cláraíodh an CCA, ní féidir leat é a chúlghairm, fiú má bhíonn tú, do thuras an ama, ábalta go meabhrach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To revoke it, you would have to apply to the court and the court approve the revocation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun é a chúlghairm, bheadh ort iarratas a dhéanamh ar an gcúirt agus bheadh ar an gcúirt an chúlghairm a fhaomhadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Termination of an enduring power of attorney</seg></tuv>
+  <tuv xml:lang="ga"><seg>Foirceannadh cumhacht chomhsheasmhach aturnae</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An EPA ceases on the death of the donor</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirtear deireadh le CCA ar bhás don deontóir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, there are other circumstances in which an EPA ceases to have effect</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ann do chúinsí eile, áfach, faoina gcuirtear deireadh le héifeacht CCA</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, where a spouse or civil partner is the attorney, the EPA ceases where:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, sa chás gur céile nó páirtnéir sibhialta an t-aturnae, cuirtear deireadh leis an CCA:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The marriage/civil partnership no longer exists due to annulment, divorce or dissolution</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Murab ann don phósadh/pháirtnéireacht shibhialta a thuilleadh mar gheall ar neamhniú, ar cholscaradh nó ar dhíscaoileadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A judicial separation is granted or the couple enter into a separation agreement</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Deonaítear scaradh breithiúnach nó iontrálann an lánúin isteach i gcomhaontú scartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A protection, barring or similar order is made on the application of either spouse/civil partner</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Déantar ordú cosanta, urchoisc nó ordú dá mhacasamhail ar iarratas na céile/an pháirtnéara shibhialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An EPA ceases where the attorney becomes one of the people listed above who cannot be granted enduring powers of attorney</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirtear deireadh le CCA nuair a bhíonn an t-aturnae i measc na ndaoine a liostaítear thuas nach féidir cumhachtaí comhsheasmhacha a bhronnadh air/uirthi</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The court can make an order cancelling an EPA where, for example, it finds the attorney is unsuitable</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh an chúirt ordú a dhéanamh a chuireann an CCA ar ceal, mar shampla, má dheimhnítear go bhfuil an t-aturnae neamhoiriúnach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Register of enduring powers of attorney</seg></tuv>
+  <tuv xml:lang="ga"><seg>Clár na cumhachtaí aturnae buaine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Office of Wards of Court maintains a register of EPA instruments which have been registered in the office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Coinníonn an Oifig na gCoimircithe Cúirte clár na n-ionstraimí CCA atá cláraithe san oifig</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The register can be viewed by the public for free</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir an clár a fheiceáil ag an bpobal saor in aisce</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A fee of €15 is payable if you wish to take a copy of an entry in the register</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá táille €15 iníoctha más mian leat cóip de thaifead sa chlár a ghlacadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Office of Wards of Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cláraitheoir Coimircí na gCúirteanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Tel:+353 (0)1 888 6189</seg></tuv>
+  <tuv xml:lang="ga"><seg>Teil:+353 (0)1 888 6189</seg></tuv>
+</tu>
+</body>
+</tmx>

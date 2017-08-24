@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>The Wage Subsidy Scheme offers financial support for employers who employ certain people with disabilities on a full-time basis (between 21 hours and 39 hours per week)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is scéim é an Scéim Fhóirdheontas Tuarastail a sholáthraíonn tacaíocht airgid do fhostóirí a fhostaíonn daoine faoi mhíchumas ar bhunús lánaimseartha (21 uaire nó níos mó)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The scheme is one of the workplace supports for employers provided by the Department of Social Protection to encourage the employment of people with disabilities</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is an scéim ceann de na tacaíochtaí san ionad oibre d’fhostóirí atá soláthartha ag an Roinn Coimirce Sóisialaí chun fostaíocht daoine faoi mhíchumas a spreagadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Sometimes the nature of a disability can restrict an employee's productivity in comparison with other staff, irrespective of their ability to do a job</seg></tuv>
+  <tuv xml:lang="ga"><seg>Uaireanta is féidir le míchumas cur isteach ar tháirgiúlacht an fhostaithe i gcomparáid le baill fhoirne eile, gan tagairt dá c(h)umas an obair a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In situations where this restriction results in a loss of productivity for the employer, the Wage Subsidy Scheme (WSS) allows the employer make up the shortfall through grant assistance</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcásanna ina mbíonn laghdú ar tháirgiúlacht don fhostóir mar thoradh ar an mbac seo, cuireann an Scéim Fhóirdheontas Tuarastail (SFT) ar chumas an fhostóra an caillteanas seo a fháil ar ais trí chúnamh deontais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is illegal to discriminate against any employee on the basis of disability and this right is set down in employment equality legislation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé neamhdhleathach leatrom a dhéanamh ar aon fhostaí ar bhunús míchumais agus tá an ceart seo leagtha síos i reachtaíocht um chomhionannas fostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, it is permitted to discriminate on the grounds of disability where it can be shown that "there is clear actuarial or other evidence that significantly increased costs would result, if the discrimination were not permitted." For this reason, employers that employ staff with disabilities with proven productivity rates of 50-80% will not lose out if they employ staff with disabilities as the grant aid under this scheme will make up any shortfall in reduced productivity</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé ceadaithe leatrom a fheidhmiú ar fhoras an mhíchumais, áfach, nuair is féidir a thaispeáint "go bhfuil fianaise achtúire nó de chineál eile ann a léiríonn go soiléir go mbeadh méadú suntasach ar chostais mura gceadófaí an t-idirdhealú sin." Ar an ábhar sin, má tá foireann a bhfuil ráta táirgiúlachta idir 50 - 80% cruthaithe acu ag fostóirí, ní chaillfidh siad aon rud má fhostaíonn siad daoine le míchumas toisc go bhfaighidh siad deontas mar chúiteamh ar aon chaillteanas táirgiúlachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An employer must also complete a productivity assessment form to certify the employee’s productivity deficit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá na coinníollacha céanna fostaíochta i bhfeidhm d'fhostaithe faoin scéim seo agus atá i bhfeidhm don fhoireann eile uile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Department reserves the right to conduct additional monitoring visits without notice to the employer’s premises, when and where required</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá na fostaithe seo i dteideal ranníocaíochtaí ÁSPC, saoire bhliantúil asbhaintí cánacha, conarthaí fostaíochta agus an t-íosphá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The WSS is divided into 3 strands</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an SFT roinnte ina trí dhual</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Strand 1 is a wage subsidy payment paid to the employer to make up the shortfall if a disabled employee has a productivity level of between 80% or less (compared to other staff)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é Dual 1 an íocaíocht fhóirdheontas pá. Má tá leibhéal táirgiúlachta 80% nó níos lú ag fostaí faoi mhíchumas (i gcomparáid le baill fhoirne eile) íoctar fóirdheontas leis an bhfostóir chun an t-easnamh a dhéanamh suas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The employee must work at least 21 hours a week up to a maximum of 39 hours a week</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don fhostaí 21 uair sa tseachtain suas go 39 uair sa tseachtain a hoibriú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The rate of subsidy is €5.30 a hour based on the hours worked</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an ráta fhóirdheontas bunaithe ar na huaireanta oibrithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The maximum annual subsidy is €10,748 based on a 39-hour week</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an fóirdheontas bliantúil uasta ná €10,748, bunaithe ar sheachtain de 39 uaireanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Strand 2 is a payment to companies that employ more than 2 disabled employees</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is íocaíocht í Dual 2 do chuideachtaí a fhostaíonn níos mó ná beirt fhostaí faoi mhíchumas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The "top-up" grant covers supervisory, management and other work-based costs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Clúdaíonn an deontas ‘breise’ costais mhaoirseachta, bhainistíochta agus costais eile a bhaineann leis an obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The top-up grant is based on the overall number of disabled employees from an additional 10% of the wage subsidy for 3 to 6 disabled employees to a maximum of 50% of the wage subsidy for 23+ disabled employees</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an deontas breise bunaithe ar líon iomlán na bhfostaithe faoi mhíchumas ó 10% breise den fhóirdheontas pá i gcomhair idir 3 agus 6 fostaithe faoi mhíchumas suas go huasmhéid 50% den fhóirdheontas pá i gcomhair ó 23+ fostaí faoi mhíchumas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Strand 3 is a grant to companies that employ 30 or more disabled employees to enable them to employ an Employment Assistance Officer (EAO)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is éard is Dual 3 ann ná deontas do chuideachtaí a fhostaíonn 30 nó níos mó fostaí faoi mhíchumas chun cur ar a gcumas Oifigeach Cúnta Fostaíochta (OCF) a fhostú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The EAO is employed to support and assist disabled employees with their employment needs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an OCF fostaithe chun tacaíocht agus cúnamh d'fhostaí faoi mhíchumas lena gcuid riachtanais a thabhairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The grant is €30,000 per annum.   Conditions of employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is €30,000 in aghaidh na bliana atá sa deontas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Employees for whom the employer claims grant assistance under this scheme is subject to the same conditions of employment as all other staff</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a thosaíonn fostaí fostaíocht faoin Scéim Fóirdheontas Tuarastail ní mór dó/di éirí as a phríomhíocaíocht leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Department of Social Protection, the employer and the employee agree the wage subsidy to be paid after the first month of employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Aontaíonn an Roinn Coimirce Sóisialaí an fostóir agus an fostaí an fóirdheontas tuarastail iníoctha tar éis an chéad mhí fostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Grant assistance is payable to the employer by electronic fund transfer on a frequency as agreed with the Department (normally on a monthly basis)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íoctar an deontas leis an fhostóir le haistriú leictreonach airgid ar bhonn rialta atá aontaithe leis an Roinn (go hiondúil is go míosúil a íoctar an deontas)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The employer pays the going rate for the job</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocfaidh an fostóír an ráta oibre atá ar siúl</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Generally, the employee must give up their primary social welfare payment when they start employment under the Wage Subsidy Scheme (WSS). For example, if you are on Jobseeker’s Allowance, you must stop claiming this payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>De ghnáth, nuair a thosaíonn fostaí fostaíocht faoin Scéim Fóirdheontas Tuarastail (SFT) ní mór dó éirí as a phríomhíocaíocht leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, new applicants for the scheme who are currently getting Disability Allowance (DA) or Blind Pension (BP) may apply for the DA/BP rehabilitative work disregard together with the WSS, provided they are working at least 21 hours a week</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áfach, is féidir le hiarratasóirí nua a fhaigheann Liúntas Míchumais láithreach, iarratas a dhéanamh ar an neamhaird tuillimh athshlánúcháin in éineacht le SFT, ar an gcoinníoll go n-oibríonn siad 21 uair sa tseachtain ar a laghad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All employers applying for this scheme must be in possession of a current tax clearance certificate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Conas iarratas a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are someone with a disability who is interested in entering or returning to employment, you should get in touch with your local employment services office, to find out about supports available in your area</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun iarratas ar mhaoine faoin Scéim d'Fhóirdheontas Tuarastail caithfidh an fostóir agus an fostaí dul i dteagmháil le d'oifig seirbhísí fostaíochta áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are unemployed, have a disability and are not receiving a disability payment, you will need to provide a recent specialist’s report or doctor’s letter, confirming your disability</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh siad cruinniú le hoifigeach seirbhísí fostaíochta a shocrú agus na foirmeacha iarratais den scéim a chomhlánú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your doctor must also complete a confidential Medical Report form confirming that you have a disability which could cause a shortfall in productivity</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór deimhniú imréitigh cánach reatha a bheith ag gach fostóir atá ag déanamh iarratas ar an scéim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will also need this medical evidence if you have been awarded a Disablement Pension or Gratuity assessed at less than 20% for life, or have been awarded Disablement Benefit on the basis of a provisional assessment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir d'fhostóirí dul i dteagmháil leis an oifig seirbhísí fostaíochta áitiúil má tá siad ag smaoineamh ar dhuine le míchumas a fhostú, nó má tá breis eolais uathu faoi thacaíocht eile atá le fáil ag fostóirí a bhfuil daoine le míchumas fostaithe acu, chun breis eolais a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find more information in the Department of Social Protection’s Operational Guidelines for the Wage Subsidy Scheme (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más duine faoi mhíchumas tú atá suim agat dul nó filleadh ar fhostaíocht, ba chóir duit dul i dteagmháil le d'oifig seirbhísí fostaíochta áitiúil agus faigh amach tacaíochtaí ar fáil i do cheantar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further information about employment and disability is available here and from your local Intreo Centre. You can also download the relevant forms from welfare.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh faisnéise faoi fhostaíocht agus míchumas anseo agus ó d'oifig seirbhísí fostaíochta áitiúil nó ionad Intreo</seg></tuv>
+</tu>
+</body>
+</tmx>

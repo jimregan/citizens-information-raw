@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>If you are involved in litigation or legal proceedings, you will probably need legal representation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhíonn baint agat i ndlíthíocht nó in imeachtaí dlíthiúla, is dócha go dteastóidh ionadaíocht dhlíthiúil uait</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is provided by a solicitor and, possibly, a barrister</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann aturnae agus, b’fhéidir, abhcóide é seo ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As well as representing persons involved in litigation, solicitors provide services that are not connected with court proceedings</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar aon le hionadaíocht a chur ar fáil do dhaoine atá bainteach i ndlíthíocht, soláthraíonn aturnaetha seirbhísí nach mbaineann le himeachtaí cúirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, a solicitor may assist you in the preparation and formalisation of your will or with the legal transfer of your property (conveyancing)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, is féidir le haturnae cúnamh a thabhairt do dhuine chun uacht a ullmhú agus chun uacht fhoirmeálta a dhéanamh de nó chun cúnamh a thabhairt le haistriú dlíthiúil do readmhaoine (tíolacas)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Solicitors can advertise their services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh aturnaetha a gcuid seirbhísí a fhógairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They deal with the public, take instructions from clients, do the necessary background work on cases, give preliminary advice, obtain expert or specialist opinion if necessary and instruct barristers if required</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déileálann siad leis an bpobal, glacann siad le treoracha ó na cliaint, déanann siad an obair riachtanach chúlra, tugann siad réamhchomhairle, lorgaíonn siad tuairimí saineolaithe nó speisialtóirí, más gá, agus tugann siad treoracha d’abhcóidí, más gá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The solicitor prepares the case for the trial</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ullmhaíonn an t-aturnae an cás don triail</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>they may represent you in court but will usually instruct a barrister to represent you in the higher courts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh siad ionadaíocht a dhéanamh ar do shon sa chúirt agus is iondúil go mbeidh abhcóide ceaptha acu le hionadaíocht a dhéanamh ar do shon sna cúirteanna níos uachtaraí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is done by sending the barrister a brief containing all the relevant information and documentation to assist them in the presentation of the case</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar seo trí mhionteagasc a sheoladh chuig an abhcóide ina gcuimsítear an fhaisnéis agus an cháipéisíocht ábhartha uile chun cabhrú leo an cás a chur i láthair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is more information in our document on solicitors</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá níos mó faisnéise ar fáil inár gcáipéis ar aturnaetha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Barristers, also known as Counsel, operate from the Law Library</seg></tuv>
+  <tuv xml:lang="ga"><seg>Oibríonn abhcóidí ón Leabharlann Dlí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They cannot advertise or solicit clients and do not generally have direct access to the public</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leo fógraíocht a dhéanamh ná custaiméirí a lorg agus go hiondúil, ní bhíonn rochtain dhíreach acu ar an bpobal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They take their instructions from solicitors</seg></tuv>
+  <tuv xml:lang="ga"><seg>Glacann siad lena gcuid treoracha ó aturnaetha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They provide legal advice of a specialist nature and generally represent the client in court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann siad comhairle dlí de chineál speisialaithe ar fáil agus is gnách go ndéanann siad ionadaíocht don chliant sa chúirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is a distinction between Junior and Senior Counsel</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar idirdhealú idir Abhcóide Sóisearach agus Sinsearach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most junior barristers consider taking silk, that is, becoming a Senior Counsel, after about 15 years practice</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann formhór na n-abhcóidí sóisearacha machnamh ar ‘síoda a fháil’, is é sin, Abhcóide Sinsearach a bhaint amach, i ndiaidh thart ar 15 bliana a chaitheamh i mbun cleachtais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Senior Counsel are barristers with greater experience or expertise</seg></tuv>
+  <tuv xml:lang="ga"><seg>Abhcóidí atá in Abhcóidí Sinsearacha a bhfuil taithí nó saineolas níos mó acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They tend to do less drafting of court documents and spend more time giving advice and conducting cases in the higher courts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is gnách nach ndéanann said an oiread céanna cáipéisí cúirte a dhréachtú ach go gcaitheann siad níos mó ama agus comhairle á tabhairt acu agus tabhairt faoi chásanna sna cúirteanna níos uachtaraí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is further information in our document on barristers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá níos mó faisnéise ar fáil inár gcáipéis ar abhcóidí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Information a solicitor needs</seg></tuv>
+  <tuv xml:lang="ga"><seg>An fhaisnéis a lorgaíonn aturnae</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You need to be well-prepared before you start to instruct a solicitor to make sure you get the best outcome</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is gá duit bheith an-ullamh sula dtosaíonn tú le haturnae a threorú lena chinntiú go mbaineann tú an toradh is fearr amach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, if you have been involved in an accident that caused personal injury, the solicitor will need to know:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, má bhí baint agat i dtimpiste a bhí ina cúis le gortú pearsanta, beidh ar an aturnae a bheith curtha ar an eolas ar an méid:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• All the facts surrounding the accident</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Na fíricí go léir a bhaineann leis an timpiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• All of the injuries you suffered as a result of the accident</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gach ceann de na gortuithe a raibh tú thíos leo mar thoradh ar an timpiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• All of the expenses which the accident caused you to incur</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gach ceann de na costais a thabhaigh tú mar thoradh ar an timpiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If it was an accident in the workplace, you will need to explain what you were doing at the time of the accident, who was in charge and who witnessed the accident</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más timpiste san ionad oibre a bhí i gceist, beidh ort a mhíniú cad a bhí á dhéanamh agat ag tráth na timpiste, cé a bhí i gceannas agus cé a bhí mar fhinné ar an timpiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the accident was a road traffic accident, you will need to clearly describe where you were coming from or going to, what the weather conditions were like, what was the sequence of events leading up to the accident, whether you were wearing a seat-belt at the time of the accident, what markings and signs were on the road, who was the investigating Garda and what were the names and addresses of any witnesses</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más timpiste um thrácht ar bhóithre a bhí sa timpiste, beidh ort cur síos soiléir a dhéanamh ar an áit as a raibh tú ag teacht nó ar an áit a bhí tú ag dul, conas mar a bhí an aimsir, cad a bhí i gceist sa tsraith imeachtaí a fhad leis an timpiste, cibé acu an raibh nó nach raibh crios sábhála á chaitheamh agat, cén mharcáil agus comharthaí a bhí ar an mbóthar, cé a bhí sa Gharda imscrúdaithe agus cén ainmneacha a bhí ar aon fhinnéithe agus cén seoladh a bhí acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When describing your injuries, start with your sensations and feelings at the time of and immediately after the accident</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a dhéanann tú cur síos ar do chuid gortuithe, tosaigh le do chuid mothúchán agus braistintí ag tráth na timpiste agus láithreach ina diaidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Then explain whether, when and how you went to hospital</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ansin mínigh cibé acu an ndeachaigh nó nach ndeachaigh tú go dtí an t-ospidéal, cathain a chuaigh tú agus conas a chuaigh tú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Describe all injuries that you suffered, whether they were physical, psychological or emotional, and all the symptoms including sleep-loss, nightmares</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déan cur síos ar na gortuithe go léir a raibh tú thíos leo, cibé acu ar ghortuithe fisiciúla, síceolaíocha nó mothúchánacha iad, mar aon leis na siomptóim uile, caillteanas codlata agus tromluithe san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>List all of the doctors, hospitals, physiotherapists and counsellors (if any) that you attended after the accident</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déan liosta de na dochtúirí, ospidéil, fisiteiripeoirí agus comhairleoirí (más ann dóibh) ar fhreastail tú orthu i ndiaidh na timpiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you already had injuries before the accident, you must also tell your solicitor about these</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhí tú gortuithe cheana féin roimh an timpiste, ní mór duit d’aturnae a chur ar an eolas faoi seo chomh maith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Describe all of the treatments and medications you received as a result of the accident and any prognosis that has been made</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déan cur síos ar gach cóireáil a cuireadh ort agus gach cógas a fuair tú mar thoradh ar an timpiste agus aon phrognóis a rinneadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Calculate any loss of earnings because you could not go to work and medical expenses like medication costs and doctors' bills</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déan aon chaillteanas tuilleamh a ríomh mar gheall nárbh fhéidir leat dul ar obair agus ríomh aon chostais leighis, ar nós costais chógais agus billí dochtúirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should also include related expenses such as bus and taxi-fares if you are unable to drive as a result of the accident</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart duit costais ghaolmhara a chur san áireamh, chomh maith, ar nós táillí bus agus tacsaí murar féidir leat tiomáint mar thoradh ar an timpiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Other types of claims require similar attention to detail in describing what exactly happened</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is gá a leithéid d’aird a thabhairt ar mhionsonraí i dtaobh saghsanna eile d’éilimh nuair a dhéantar cur síos cruinn ar ar tharla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In a defamation case, it will be necessary to relate how your reputation or good name has suffered</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás clúmhillte, beidh sé riachtanach a chur in iúl conas atá an dea-cháil nó an dea-chlú atá ort thíos leis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In a land case, a detailed description of the history of the land in question and how the dispute arose will be necessary</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás talún, teastóidh cur síos mionsonraithe ar stair na talún atá faoi chaibidil agus conas a tháinig an díospóid aníos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>How to contact a solicitor</seg></tuv>
+  <tuv xml:lang="ga"><seg>Conas teagmháil a dhéanamh le haturnae</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>People normally choose a particular solicitor because of a personal recommendation, because the solicitor's office is in their area or because they saw an advertisement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is gnách go roghnaíonn daoine aturnae ar leith mar gheall ar mholadh pearsanta, mar gheall go bhfuil oifig an aturnae suite ina gceantar nó mar gheall go bhfaca siad fógraíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is usual to first telephone for an appointment with a solicitor</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní gnách go gcuirtear glao gutháin i dtosach báire chun coinne a shocrú le haturnae</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In some family situations, it may be necessary to consider separate legal representation for each spouse or partner</seg></tuv>
+  <tuv xml:lang="ga"><seg>I roinnt cásanna teaghlaigh, d’fhéadfadh go mba ghá machnamh a dhéanamh ar ionadaíocht dlíthiúil aonair a dhéanamh do gach céile nó páirtnéir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Law Society is the educational, representative and regulatory body of the solicitors' profession in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad an Dlí-Chumann an comhlacht oideachais, ionadaíoch agus rialála i dtaobh ghairm na n-aturnaetha in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Society also deals with complaints from the public about members of the profession</seg></tuv>
+  <tuv xml:lang="ga"><seg>Anuas air sin, déileálann an Dlí-Chumann le gearáin ón bpobal faoi chomhaltaí na gairme</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can search the directory of solicitors firms maintained by the Law Society</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú eolaire na ngnóthas aturnaetha a chuardach a choimeádann an Dlí-Chumann</seg></tuv>
+</tu>
+</body>
+</tmx>

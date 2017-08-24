@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Office of the General Solicitor for Minors and Wards of Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Oifig an Ard-Aturnae do Mhionaoisigh agus do Choimircithe Cúirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The General Solicitor for Minors and Wards of Court is a solicitor in the service of the state appointed by the President of the High Court to act in certain wardship matters</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is aturnae i seirbhís an stáit é an tArd-Aturnae do Mhionaoisigh agus do Choimircithe Cúirte a cheapann Uachtarán na hArd Chúirte chun oibriú ar ábhair áirithe coimircíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The General Solicitor is accountable to the High Court for all monies and assets under his/her control relating to the affairs of a minor or ward.The General Solicitor is entitled to costs in respect of the work carried out</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an tArd-Aturnae freagrach don Ard Chúirt maidir le haon airgead nó sócmhainní faoina smacht maidir le cúrsaí mionaoisigh nó coimircí cúirte. Tá an tArd-Aturnae i dteideal costas maidir leis an obair a dhéantar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These costs are generally paid from the ward's funds</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go hiondúil, íoctar na costais seo as ciste an choimircithe chúirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These bills are measured by the registrar for Wards of Court or are taxed by the Taxing Master</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tomhaiseann an Cláraitheoir le haghaidh Coimircithe Cúirte na billí seo, sin nó gearrann an Máistir Fómhais cáin orthu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The General Solicitor can only act as solicitor in those matters assigned to them by the registrar of the Wards of Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leis an Ard-Aturnae ach gníomhú mar aturnae sna cúrsaí a shannann an cláraitheoir le haghaidh Coimircithe Cúirte di</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The General Solicitor cannot take on private clients like a solicitor in private practice</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leis an Ard-Aturnae glacadh le cliaint phríobháideacha cosúil le dlíodóir i mbun cleachtais phríobháidigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In addition to acting as solicitor in respect of the legal affairs of individual wards, the General Solicitor also undertakes the following legal work:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chomh maith le bheith ag obair mar aturnae ó thaobh cúrsaí dlí choimircithe cúirte de, tiomnaíonn an tArd-Aturnae an obair dhleathach seo a leanas freisin:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The issue of wardship proceedings in respect of an individual</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Eisiúint imeachtaí coimircíochta maidir le h-indibhidiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If that individual ward is brought into wardship the General Solicitor may or may not be appointed committee</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má thógtar an coimircí cúirte sin isteach i gcoimircíocht, d’fhéadfadh an tArd-Aturnae a bheith mar choiste ceaptha nó gan a bheith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Where a solicitor brings a wardship bill before the Taxing Master to have costs measured, the General Solicitor may be requested by the registrar of the Wards of Court to act as opponent before the Taxing Master in respect of the costs claimed</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Áit a dtógann aturnae bille coimircíochta os comhair an Mháistir Fómhais chun go mbeadh costais tomhaiste, seans go n-iarrfaidh cláraitheoir Choimircithe na Cúirte ar an Ard-Aturnae gníomhú mar chéile chomhairc os comhair an Mháistir Fómhais i dtaobh na gcostas éilithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• In certain instances where the General Solicitor is not committee of an individual ward, she may be directed by the President of the High Court to represent a particular interest in proceedings before the court which involve a ward or have a bearing on wardship matters</seg></tuv>
+  <tuv xml:lang="ga"><seg>• In áisc áirithe nuair nach coiste é an tArd-Aturnae de choimircí cúirte, seans go n-órdóidh Uachtarán na hArd-Chúirte di ionadaíocht a dhéanamh do leas faoi leith in imeachtaí os comhair cúirte a bhfuil coimircí cúirte i gceist nó a bhfuil tuiscint acu ar chúrsaí coimircithe cúirte</seg></tuv>
+</tu>
+</body>
+</tmx>

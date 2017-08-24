@@ -1,0 +1,305 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Public bus services are regulated by the National Transport Authority under the Public Transport Regulation Act 2009</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar seirbhísí bus phoiblí a rialáil ag an Údarás Náisiúnta Iompair faoin Acht um Rialáil Iompair Phoiblí, 2009</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is a range of public bus transport services (both private and State-owned) offering services on a number of routes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá réimse de sheirbhísí iompar poiblí bus (seirbhísí atá faoi úinéireacht phríobháideach agus an Stáit araon) ann a chuireann seirbhísí ar fáil ar líon bealaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Operators providing public bus passenger services are required to be licensed unless the service is subject to a Public Services Obligation Contract</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá ar oibreoirí a sholáthraíonn seirbhísí paisinéirí bus phoiblí bheith ceadaithe mura bhfuil an tseirbhís faoi réir Conradh Oibleagáide Seirbhísí Poiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The National Transport Authority has developed the transportforireland.ie website, as well as smartphone apps, to help you when using public transport services</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhorbair an tÚdarás Náisiúnta Iompair an láithreán gréasáin transportforireland.ie, mar aon le haipeanna do ghutháin chliste, chun cabhrú leat nuair a bhíonn seirbhísí iompair phoiblí á n-úsáid agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Coras Iompair Éireann (CIE) is a State company that operates the largest volume of services nationally - the following information about bus services relates mainly to State-owned services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuideachta Stáit atá i gCóras Iompair Éireann (CIÉ) a oibríonn an méid is mó de sheirbhísí go náisiúnta – baineann an fhaisnéis a leanas faoi sheirbhísí bus go príomha le seirbhísí atá faoi úinéireacht an Stáit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Dublin Bus is a subsidiary of CIE and provides bus services within Dublin, as well as to and from the surrounding areas</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fochuideachta atá i mBus Átha Cliath de chuid CIÉ agus soláthraíonn siad seirbhísí bus laistigh de Bhaile Átha Cliath mar aon le seirbhísí chuig agus ó cheantair máguaird</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These services include city bus services, Airlink and Nitelink</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áirítear leis na seirbhísí seo seirbhísí bus cathrach, Bus Aerfoirt (Airlink) agus Bus Oíche (Nitelink)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Xpresso: Xpresso routes have fewer stops and, therefore, offer passengers a quicker service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Xpresso: Tá níos lú bealaí i gceist le bealaí Xpresso agus, ar an ábhar sin, cuireann siad seirbhís níos tapúla ar fáil do phaisinéirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Airlink: This airport service connects Dublin Airport to a number of city centre locations as well as the Luas Red Line, Busáras (Central Bus Station), Connolly Railway Station and Heuston Railway Station</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bus Aerfoirt: Nascann an tseirbhís aerfoirt Aerfort Bhaile Átha Cliath le líon láithreacha i lár na cathrach, mar aon le Líne Dhearg an Luas, Busáras (an Stáisiún Lárnach Busanna), Stáisiún Iarnród Uí Chonghaile agus Stáisiún Iarnróid Heuston</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Rail connection: Dublin Bus operates a rail connection service that connects Connolly Railway Station and Heuston Railway Station</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nasc iarnróid: Oibríonn Bus Átha Cliath seirbhís naisc le hiarnród a dhéanann nasc idir Stáisiún Iarnróid Uí Chonghaile agus Stáisiún Iarnróid Heuston</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Nitelink: This service is a late night bus service that runs from the city centre to the suburbs on Fridays and Saturday throughout the year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bus Oíche: Seirbhís bhus dhéanach is ea an tseirbhís a ghabhann ó lár na cathrach, chuig na bruachbhailte ar an Aoine agus an Satharn ar fud na bliana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An enhanced service may operate at Christmas</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfaí seirbhís fheabhsaithe a oibriú um Nollaig</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>School services: Dublin Bus is responsible for school services which are operated by private contractors</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seirbhísí scoile: Tá Bus Átha Cliath freagrach as seirbhísí scoile atá á n-oibriú ag conraitheoirí príobháideacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All coaches have the Dublin Bus logo on the front, back and side</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá lógó Bhus Átha Cliath ar thosach, ar chúl agus ar thaobh gach bus</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Dublin Bus fares and tickets</seg></tuv>
+  <tuv xml:lang="ga"><seg>Táillí agus ticéid Bhus Átha Cliath</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In general, the fare you pay is based on the number of stages you travel</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, bíonn an táillí a íocann tú bunaithe ar an líon céimeanna a thaistealaíonn tú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is also a city centre fare</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chomh maith leis sin, tá táillí lár na cathrach i gceist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Paying with cash: An exact fare system is operated by Dublin Bus and only coins (not notes) are accepted</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag íoc le hairgead: Oibríonn Bus Átha Cliath córas táille cruinne agus ní ghlactar ach boinn (seachas nótaí)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>No change is given</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní thugtar aon sóinseáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you overpay, the driver will issue a Refund Due receipt with the ticket which can be redeemed at Dublin Bus Head Office, 59 Upper O’Connell Street, Dublin 1</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má íocann tú an iomad, eiseoidh an tiománaí Aisíoc-Dlite admháil leis an ticéad taistil a cheadóidh duit aisíocaíocht a éileamh ag Cheannoifig Bus Átha Cliath, 59 Sráid Uí Chonaill Uachtarach, Baile Átha Cliath 1</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Prepaid tickets: You can also pay your fare with a prepaid ticket</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ticéid réamhíoctha: Féadfaidh tú do tháille a íoc le ticéad réamhíoctha chomh maith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Magnetic prepaid tickets must be inserted into the bus validator when boarding</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór ticéid mhaighnéadach réamhíoctha a ionsá isteach i mbailíochtóir an bhus nuair a thagann tú ar bord</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Prepaid smartcard tickets must be validated by holding the smartcard on the reader target for at least a second or until a light appears</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór ticéid réamhíoctha chárta chliste a bhailíochtú tríd an gcárta cliste a dhíriú ar sprioc an léitheora ar feadh soicind, ar a laghad, nó go dtí go mbíonn solas le feiceáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Leap Cards: Leap Cards can be used on all Dublin Bus services, including Airlink, Xpresso and Nitelink</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cártaí Leap: Féadtar Cártaí Leap a úsáid ar gach seirbhís Bhus Átha Cliath, lena n-áirítear Bus Aerfoirt, Xpresso agus Bus Oíche</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They can also hold prepaid tickets</seg></tuv>
+  <tuv xml:lang="ga"><seg>Anuas air sin, féadfaidh siad ticéid réamhíoctha a stóráil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As well as Adult Leap Cards, there are Child Leap Cards and Student Leap Cards</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar aon le Cártaí Leap do Dhaoine Fásta, tá Léim-Chártaí do Leanaí agus Cártaí Leap do Mhic Léinn ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Information on using Leap Cards is available at leapcard.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá fáil ar fhaisnéis ar Chártaí Leap a úsáid ar leapcard.ie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Free Travel Passes: Free travel is available to some people permanently living in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Pasanna Saorthaistil: Tá fáil ar Shaorthaisteal ag roinnt daoine a chónaíonn go buan in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Free Travel Passes cannot be used on Nitelink or Airlink services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir Pasanna Saorthaistil a úsáid ar sheirbhísí Bus Oíche nó Bus Aerfoirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read further information in our document on free travel</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat breis faisnéise a léamh inár gcáipéis ar shaorthaisteal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Travelling on Dublin Bus</seg></tuv>
+  <tuv xml:lang="ga"><seg>Taisteal ar Bhus Átha Cliath</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>On the Dublin Bus website you can plan your journey and access bus timetables</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar láithreán gréasáin Bhus Átha Cliath, féadfaidh tú d’aistear a phleanáil agus rochtain a fháil ar amchláir bhusanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Real time information on buses is available on their website, at certain bus stops, by using the Bustxt service or by using a smartphone app</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá fáil ar fhaisnéis fíor-ama ar a láithreán gréasáin, ag roinnt stopanna gnóthacha bus, trí sheirbhís Bustxt a úsáid no trí aip ghutháin chliste a úsáid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The website also provides information on how to use the bus, Dublin Bus bye-laws, as well as information for people with disabilities</seg></tuv>
+  <tuv xml:lang="ga"><seg>Anuas air sin, soláthraíonn an láithreán gréasáin faisnéis ar conas an bus a úsáid, fhodhlíthe Bhus Átha Cliath, mar aon le faisnéis do dhaoine atá faoi mhíchumas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Bus Éireann is a subsidiary of CIE and provides bus services throughout Ireland with the exception of Dublin City</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fochuideachta é Bus Éireann de chuid CIÉ agus soláthraíonn siad seirbhísí bus ar fud na hÉireann seachas Cathair Bhaile Átha Cliath</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>With Eurolines, it provides coach services to Britain and Europe</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcuideachta Eurolines, soláthraíonn siad seirbhísí chuig an mBreatain agus an Eoraip</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Expressway: Expressway inter-urban coach services link every major town and city in the country, providing direct and regular services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Expressway: Déanann seirbhísí busanna idiruirbeacha Expressway nasc idir gach baile mór agus cathair sa tír, agus soláthraíonn siad seirbhísí díreacha agus rialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Town and city services: Bus Éireann operates bus services in Athlone, Balbriggan, Cork, Drogheda, Dundalk, Galway, Limerick, Navan, Sligo and Waterford</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seirbhísí baile agus cathrach Oibríonn Bus Éireann seirbhísí bus i mBaile Átha Luain, Baile Brigín, Corcaigh, Droichead Átha, Dún Dealgan, Gaillimh, Luimneach, an Uaimh, Sligeach agus Port Láirge</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Commuter bus services: The commuter services serve city-centre destinations in Dublin, Cork, Limerick, Galway and Waterford, as well as certain business facilities around the country</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seirbhísí bus comaitéireachta: Freastalaíonn na seirbhísí comaitéireachta ar chinn scríbe lár na cathrach i mBaile Átha Cliath, Corcaigh, Luimneach, Gaillimh agus Port Láirge, mar aon le roinnt áiseanna gnó timpeall na tíre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is also Nightrider, a late night service operating several nights a week on main routes out of Dublin</seg></tuv>
+  <tuv xml:lang="ga"><seg>Anuas air sin, tá Nightrider ann, ar seirbhís dhéanach í seo a bhíonn á hoibriú roinnt oícheanta sa tseachtain ar na príomhbhóithre amach ó Bhaile Átha Cliath</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Airport services: Bus Éireann provides coach services to Cork, Dublin, Shannon, Knock and Kerry airports</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seirbhísí aerfoirt: Soláthraíonn Bus Éireann seirbhísí bus chuig aerfoirt Chorcaí, Bhaile Átha Cliath, Shionainne, Chnoc Mhuire agus Chiarraí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Local bus services: Bus Éireann operates town to town and rural services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seirbhísí áitiúla bus: Oibríonn Bus Éireann seirbhísí ó bhaile go baile agus seirbhísí tuaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>School bus services: Bus Éireann operates a school bus service on behalf of the Department of Education and Skills</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seirbhísí bus scoile: Oibríonn Bus Éireann seirbhís bus scoile thar ceann na Roinne Oideachais agus Scileanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It also provides student services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, cuireann siad seirbhísí mac léinn ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Bus Éireann fares and tickets</seg></tuv>
+  <tuv xml:lang="ga"><seg>Táillí agus ticéid Bhus Éireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In general, you can pay your fare with cash</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, féadfaidh tú do tháille a íoc le hairgead</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can also order your ticket online</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, féadfaidh tú do thicéad a íoc ar líne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is information on the different types of tickets available, including tickets for schoolchildren and regional commuter tickets, on Bus Éireann’s website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá faisnéis ar na saghsanna éagsúla de thicéad atá ar fáil, lena n-áirítear ticéid do leanaí scoile agus ticéid comaitéireachta réigiúnacha, ar láithreán gréasáin Bhus Éireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Leap Cards: Leap Cards and Student Leap Cards can be used on Bus Éireann’s services in the Greater Dublin Area, Cork, Galway, Limerick and Waterford</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cártaí Leap: Féadtar Cártaí Leap agus Cártaí Leap Mac Léinn a úsáid ar sheirbhísí Bhus Éireann i Mórcheantar Bhaile Átha Cliath, Corcaigh, Gaillimh, Luimneach agus Port Láirge</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Free Travel Passes: Free Travel Passes can be used on most Bus Éireann’s services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Pasanna Saorthaistil: Féadtar Pasanna Saorthaistil a úsáid ar fhormhór sheirbhísí Bhus Éireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They cannot be used on Nightrider</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir iad a úsáid ar sheirbhísí Nightrider</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read further information in our document on free travel</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat breis faisnéise a léamh inár gcáipéis ar shaorthaisteal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Travelling on Bus Éireann</seg></tuv>
+  <tuv xml:lang="ga"><seg>Taisteal le Bus Éireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>On the Bus Éireann website you can plan your journey and access timetables</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar láithreán gréasáin Bhus Éireann, féadfaidh tú d’aistear a phleanáil agus amchláir a rochtain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Realtime information on buses is available at whensmybus.ie or by using a smartphone app,</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá fáil ar fhaisnéis fíor-ama ar bhusanna ar whensmybus.ie nó trí úsáid a bhaint as aip ghutháin chliste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can also find travel advice, Bus Éireann bye-laws, information on carrying luggage and dogs, as well as the accessibility of its services on the Bus Éireann website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chomh maith leis sin, féadfaidh tú teacht ar chomhairle taistil, fodhlíthe Bhus Éireann, faisnéis ar bhagáiste agus madraí a iompar, mar aon le inrochtaineacht a seirbhísí ar láithreán gréasáin Bhus Éireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Rural Transport Programme provides services to people whose travel needs are not met by existing bus or train services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Soláthraíonn an Clár Iompair Thuaithe seirbhísí do dhaoine nach bhfreastalaíonn seirbhísí reatha bus nó traenach ar a riachtanais taistil orthu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Services funded under the Programme complement, rather than compete with, existing public transport services provided by CIE companies or by private transport operators</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann na seirbhísí atá cistithe faoin gClár leis na seirbhísí reatha iompair phoiblí a sholáthraíonn cuideachtaí CIÉ nó oibreoirí iompair phríobháidigh seachas dul in iomaíocht leo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are 35 groups covering 36 geographical areas funded under the Programme to provide services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá 35 grúpa a chuimsíonn 36 limistéar tíreolaíoch cistithe faoin gClár chun seirbhísí a sholáthar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Programme is currently being restructured and involves establishing 18 Transport Co-ordination Units in place of the 35 Rural Transport Groups</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an Clár á athstruchtúrú faoi láthair agus tá 18 nAonad Comhordaithe Iompair a bhunú a thiocfaidh in ionad na 35 Grúpa Iompair Thuaithe i gceist leis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The following public bus services are provided for the National Transport Authority under contract:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Soláthraítear na seirbhísí bus phoiblí a leanas don Údarás Náisiúnta Iompair faoi chonradh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• M&amp;A Coaches Ltd operates service 828, Urlingford - Portlaoise, with stops in Johnstown, Cullahill, Durrow and Abbeyleix, and service 828x, Cashel - Portlaoise via Urlingford</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Oibríonn M&amp;A Coaches Ltd seirbhís 828, ó Áth na nUrlainn go Port Laoise, agus stopann sí i mBaile Sheáin, an Chúlchoill, Darú agus Mainistir Laoise, agus seirbhís 828x, ó Chaiseal go Port Laoise trí Áth na nUrlainn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Both services offer through ticketing for travel to Cork and Dublin</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann an dá sheirbhís trí-thicéadú ar fáil chun taisteal go Corcaigh agus Baile Átha Cliath</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Whartons Travel operates service 975, Longford - Cavan, with stops in Cahanagh Cross, Leitrim Cross, Drumlish, Ballinamuck, Legga Cross, Moyne Cross, Arvagh, Coronea, Cornafead, and Crossdoney</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Oibríonn Whartons Travel seirbhís 975, ón Longfort go dtí an Cabhán, agus stopann sí ag Crois Chathanaigh, Crois Liatroma, Droim Lis, Béal Átha na Muc, Crois na Lagaí, Crois na Maighne, Ármhach, Cora an Fhéich, Corr na Féinne agus Cros Domhnaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under EU Regulation 181/2011 bus and coach passengers have a minimum set of rights when travelling in the European Union</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi Rialachán 181/2011 an AE, tá sraith íosta cheart ag paisinéirí bus nuair a thaistealaíonn siad san Aontas Eorpach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can read more about your rights in our document on bus and coach passenger rights</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú tuilleadh a léamh faoi do chearta inár gcáipéis ar chearta paisinéirí bus agus cóiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have a complaint about a Dublin Bus service, you can make your complaint by letter, by e-mail, by phone or in person</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhíonn gearán agat faoi sheirbhís Bhus Átha Cliath, féadfaidh tú do ghearán a dhéantar trí litir a scríobh, ríomhphost a sheoladh, glao gutháin a chur nó trí chuairt a thabhairt orthu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should include as much detail as possible, such as the date and time of travel, the bus route number, the bus registration number, where you were leaving from and going to</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart duit an oiread is mó sonraí is féidir a chur san áireamh, ar nós dháta agus am an taistil, uimhir bhealaigh an bhus, uimhir chlárúcháin an bhus, an áit a bhfuil tú ag fágáil agus ag dul</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can read the Dublin Bus customer charter on its website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú cairt chustaiméara Bhus Átha Cliath ar a láithreán gréasáin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have a complaint about a Bus Éireann service, you can write to the relevant Regional Manager providing as much detail as possible, such as the time of travel, origin and destination of your journey</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá gearán agat faoi sheirbhís Bhus Éireann, féadfaidh tú scríobh chuig an mBainisteoir Réigiúnach ábhartha agus an oiread is mó sonraí a sholáthar is féidir, ar nós am an taistil, bunphointe agus ceann scríbe d’aistir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are not satisfied with the reply you receive, you may request a review of your complaint by writing to the Manager, Business Development, Bus Éireann, Broadstone, Dublin 7</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil tú sásta leis an bhfreagra a thugtar duit, féadfaidh tú a iarraidh go ndéanfar athbhreithniú ar do ghearán trí scríobh chuig: an Bainisteoir, Forbairt Gnó, Bus Éireann, an Chloch Leathan, Baile Átha Cliath 7</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are not satisfied with the reply from a service provider to a complaint, you can make a complaint to the National Transport Authority</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil tú sásta le freagra a thugann soláthróir seirbhíse duit ar ghearán, is féidir leat gearán a dhéanamh leis an Údarás Náisiúnta Iompair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Information on making a complaint is available on its website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá fáil ar fhaisnéis faoi ghearán a dhéanamh ar a láithreán gréasáin</seg></tuv>
+</tu>
+</body>
+</tmx>

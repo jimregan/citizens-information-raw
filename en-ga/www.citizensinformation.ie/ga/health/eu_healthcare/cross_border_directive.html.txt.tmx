@@ -1,0 +1,205 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>If you are entitled to public health services in Ireland, you may opt to access those services in another member state of the European Union (EU) or European Economic Area (EEA), which also includes Iceland, Liechtenstein and Norway, and be repaid the cost if you meet the requirements</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú i dteideal seirbhísí sláinte poiblí a fháil in Éirinn, is féidir leat a roghnú chun na seirbhísí siúd a rochtain i mballstát eile an Aontais Eorpaigh (an AE) nó an Limistéir Eorpaigh Eacnamaíoch (an LEE), ina measc an Íoslainn, an Lichtinstéin agus an Iorua, agus aisíocfar an costas leat má chomhlíonann tú na riachtanais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is provided for by the Cross-Border Healthcare Directive (EU Directive 2011/24/EU, pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Foráiltear dó seo sa Treoir maidir le Cúram Sláinte Trasteorann (Treoir ón AE 2011/24/AE, pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The amount that will be repaid is the cost of the public healthcare treatment in Ireland, or the cost of your treatment abroad, if that is less</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ionann an méid a aisíocfar agus an méid a chosnódh an chóireáil sa chóras poiblí sláinte in Éirinn, nó an costas a bhí ar do chóireáil thar lear, más lú sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It does not include other costs such as travel</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní áirítear leis costais eile, ar nós costais taistil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Treatments that qualify for the Treatment Abroad Scheme are not covered under the Cross-Border Healthcare Directive</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chumhdaítear cóireálacha don Scéim um Chóireáil thar Lear faoin Treoir maidir le Cúram Sláinte Trasteorann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In general, the Treatment Abroad Scheme covers treatments that are not available in Ireland while the Cross-Border Healthcare Directive only covers treatments that are publicly funded and available in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, cumhdaíonn an Scéim um Chóireáil thar Lear cóireálacha nach bhfuil ar fáil in Éirinn agus ní chumhdaíonn an Treoir maidir le Cúram Sláinte Trasteorann ach cóireálacha atá ar fáil agus a chistítear go poiblí in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read about the differences between the two schemes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir na difríochtaí idir an dá scéim a léamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Funding will only be reimbursed for healthcare that is publicly funded and available in Ireland but the referral may be to a public or private health service in the other country</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní aisíocfar cistiú ach do chúram sláinte a chistítear go poiblí agus atá ar fáil go poiblí in Éirinn, ach is féidir leis an atreorú a bheith le seirbhís phoiblí nó phríobháideach sláinte sa tír eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You pay the costs of treatment and then apply for a refund when you return to Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocann tú as costais na cóireála agus déanann tú iarratas ansin ar aisíocaíocht nuair a fhilleann tú ar Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Examples of healthcare that is available under the scheme include:</seg></tuv>
+  <tuv xml:lang="ga"><seg>I measc na samplaí de chúram sláinte atá ar fáil faoin scéim seo, tá:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Day, in-patient and out-patient care in acute hospital services, including psychiatric services</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cúram lae, othair chónaithigh agus othair sheachtraigh i seirbhísí géarospidéil, seirbhísí síciatracha ina measc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Dental and orthodontic services (with some exceptions, such as dental screening services in schools)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seirbhísí fiaclóireachta agus ortódóntacha (tá roinnt eisceachtaí ann, ar nós seirbhísí scagthástála fiaclóireachta i scoileanna)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Speech and language services</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seirbhísí urlabhra agus teanga</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Occupational therapy services (with some exceptions, such as assessment for aids at home)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seirbhísí teiripe shaothair (agus roinnt eisceachtaí i gceist, ar nós measúnú le haghaidh áiseanna sa bhaile)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Addiction care (following the process to access addiction care abroad)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cúram andúile (agus an próiseas chun rochtain a fháil ar chúram andúile thar lear á leanúint)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some health services are not included, for example, organ transplantation and long-term care such as nursing home care</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní áirítear roinnt seirbhísí sláinte, mar shampla, trasphlandú orgáin agus cúram fadtéarmach ar nós cúram teach altranais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The HSE has provided a list of Frequently Asked Questions about the Cross-Border Healthcare Directive</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhoilsigh FSS liosta Ceisteanna Coitianta faoin Treoir maidir le Cúram Sláinte Trasteorann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To use health services in another country and be refunded under the Cross-Border Healthcare Directive you must:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun seirbhísí sláinte a úsáid i dtír eile agus go n-aisíocfar thú faoin Treoir maidir le Cúram Sláinte Trasteorann:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Be referred to the health service abroad</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní mór go n-atreoraítear thú chuig an tseirbhís sláinte thar lear</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Get prior authorisation if it is required for your treatment</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní mór duit údarú roimh ré a fháil, más theastaíonn sé ó do chóireáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Apply for a refund of your costs</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní mór duit iarratas a dhéanamh ar aisíocaíocht do chuid costas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Referral to healthcare abroad</seg></tuv>
+  <tuv xml:lang="ga"><seg>Atreorú chuig cúram sláinte thar lear</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the same way that you would be referred to public health services in Ireland, you must be referred to the health service you require abroad</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar an mbealach céanna a dhéanfaí thú a atreorú chuig seirbhísí sláinte poiblí in Éirinn, ní mór thú a atreorú go dtí an tseirbhís sláinte a theastaíonn uait thar lear</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This may be, for example, by your GP (family doctor) or public hospital consultant</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh do LG (dochtúir teaghlaigh) nó comhairleach ospidéil, mar shampla, seo a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the case of some community-based services the appropriate referral could be by a Health Service Executive (HSE) professional such as a public health nurse, community dentist or HSE orthodontist</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás roinnt seirbhísí pobalbhunaithe, d’fhéadfadh gairmí de chuid Fheidhmeannacht na Seirbhíse Sláinte (FSS) an t-atreorú cuí a dhéanamh, ar nós altra sláinte poiblí, fiaclóir pobail nó ortódóntóir FSS</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The referral letter should specify the healthcare required, the health professional abroad you are being referred to and their clinic, hospital or other location</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart go sonrófaí sa litir atreoraithe an cúram sláinte a theastaíonn, an gairmí sláinte thar lear a bhfuil tú á atreorú chucu agus a gclinic, a n-ospidéal nó láthair eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You, or the person referring you, should be satisfied that the healthcare provider abroad is qualified and suitable</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart go mbeifeá, nó an duine a atreoraíonn tú, a bheith sásta go bhfuil an soláthraí cúram sláinte thar lear cáilithe agus oiriúnach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you wish to access information on services or service providers abroad please contact the National Contact Point for the other EU/EEA State</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mian leat rochtain a fháil ar fhaisnéis ar sheirbhísí nó ar sholáthraithe seirbhíse thar lear, déan teagmháil, le do thoil, leis an bPointe Teagmhála Náisiúnta don Bhallstát eile den AE/LEEA</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Make sure that the service you are seeking to access abroad is covered by the Cross-Border Healthcare Directive</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cinntigh go bhfuil an tseirbhís a bhfuil rochtain uirthi á lorg agat cumhdaithe ag an Treoir maidir le Cúram Sláinte Trasteorann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your referring clinician can advise you about this but if you are in doubt you can contact the National Contact Point in Ireland to check</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh do chliniceoir atreoraithe comhairle a chur ort faoi seo ach má bhíonn amhras ort, féadfaidh tú teagmháil a dhéanamh leis an bPointe Teagmhála Náisiúnta in Éirinn lena sheiceáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the treatment involves an overnight stay in hospital then it will need to be authorised in advance by the HSE</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhaineann fanacht thar oíche in ospidéal leis an gcóireáil, beidh ar FSS é seo a údarú roimh ré</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For other treatment it is advisable to check whether prior authorisation is required by contacting the National Contact Point</seg></tuv>
+  <tuv xml:lang="ga"><seg>I dtaobh cóireáil eile, moltar duit a sheiceáil cé acu an dteastaíonn nó nach dteastaíonn údarú roimh ré trí theagmháil a dhéanamh leis an bPointe Teagmhála Náisiúnta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The application form for prior authorisation (pdf) must be completed by you and by the medical professional who is referring you for treatment abroad</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit féin agus an gairmí leighis a bhfuil tú á atreorú aige/aici le haghaidh cóireála thar lear an fhoirm iarratais le haghaidh údarú roimh ré (pdf) a chomhlánú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Completed applications take 15 to 20 working days to process and you will be notified of the decision by letter</seg></tuv>
+  <tuv xml:lang="ga"><seg>Glacann iarratais chomhlánaithe idir 15 agus 20 lá oibre lena bpróiseáil agus cuirfear ar an eolas thú ar chinneadh i litir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Prior authorisation is also required for healthcare that involves:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Teastaíonn údarú roimh ré, chomh maith, i dtaobh cúram sláinte lena mbaineann an méid a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Highly specialised and cost-intensive medical infrastructure or equipment</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bonneagar nó trealamh atá an-speisialaithe agus atá dianchostasach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Treatments presenting a particular risk for the patient or the population</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cóireálacha a chruthaíonn riosca ar leith don othar nó don daonra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A healthcare provider that could give rise to serious and specific concerns relating to the quality or safety of the care</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Soláthraí cúram sláinte a d’fhéadfadh bheith ina chúis le buarthaí tromchúiseacha agus sonracha a bhaineann le cáilíocht nó le sábháilteacht an chúraim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Applying for a refund of costs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Iarratas a dhéanamh ar aisíocaíocht costas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To get a refund of the costs that you pay for your treatment, you and your healthcare provider abroad must complete the HSE Cross-Border Healthcare Directive Pro-Forma Invoice (pdf) and submit it with the invoice from the healthcare provider and receipt</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun aisíocaíocht a fháil ar na costais a íocann tú as do chóireáil, ní mór duit féin agus do sholáthraí cúram sláinte thar lear Sonrasc Pro-Forma na Treorach maidir le Cúram Sláinte Trasteorann (pdf) a chomhlánú agus é a sheoladh ar aghaidh, i dteannta an tsonraisc agus an fháltais ón soláthraí cúram sláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The refund will only be made to the patient (or to the parents of a child patient)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní dhéanfar an aisíocaíocht ach leis an othar (nó le tuismitheoirí othar linbh)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The HSE has published the refund amounts for different treatments</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhoilsigh FSS na suimeanna aisíocaíochta le haghaidh cóireálacha éagsúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Treatments are listed according to a code – you can get the code for your treatment from the healthcare professional who has referred you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Liostaítear cóireálacha i gcomhréir le cód – féadfaidh tú an cód a fháil do do chóireáil ón ngairmí cúram sláinte a rinne thú a atreorú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you prefer, or if your treatment is not listed, you can get details of the refund rates from the National Contact Point</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más fearr leat, nó mura bhfuil do chóireáil liostaithe, féadfaidh tú sonraí a fháil ar na rátaí aisíocaíochta ón bPointe Teagmhála Náisiúnta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For in-patient treatment, the charges for public in-patients in public hospitals in Ireland will apply</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás cóireáil othair chónaithigh, bainfidh na muirir ar othair chónaitheacha phoiblí in ospidéil phoiblí in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that €75 per night (up to a maximum of €750) will be deducted from the refund payable</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn seo go mbainfear €75 san oíche (a mhéid le €750) ón aisíocaíocht atá iníoctha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your application is refused you can appeal to the Assistant National Director of the Contracts Department of the HSE – contact the National Contact Point</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhiúltaítear do d’iarratas, féadfaidh tú achomharc a dhéanamh le Stiúrthóir Cúnta Náisiúnta Rannóg Conarthaí FSS – déan teagmháil leis an bPointe Teagmhála Náisiúnta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The HSE has established a National Contact Point office for the administration of the Cross-Border Healthcare Directive in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bhunaigh FSS oifig an Phointe Teagmhála Náisiúnta chun an Treoir maidir le Cúram Sláinte Trasteorann a riar in Éirinn</seg></tuv>
+</tu>
+</body>
+</tmx>

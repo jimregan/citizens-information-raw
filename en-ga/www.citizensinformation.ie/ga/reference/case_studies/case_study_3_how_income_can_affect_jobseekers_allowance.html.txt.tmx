@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Case study 3: How income from work can affect Jobseeker's Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cás-staidéar 3: Conas a bhíonn tionchar ag ioncam ón obair ar Liúntas do Lucht Cuardaigh Fostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Case study showing how Jobseeker's Allowance is affected by a spouse or partner's income in 2012</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cás-staidéar ina léirítear conas a bhíonn tionchar ag ioncam céile nó páirtí ar Liúntas do Lucht Cuardaigh Fostaíochta in 2012</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Anna is getting Jobseeker's Allowance and is living with her partner Paul</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Anna ina cónaí lena páirtí Paul</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Paul has been getting Invalidity Pension for a couple of years now</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Pinsean Easláinte á fháil ag Paul le cúpla bliain anuas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He has been offered some rehabilitative work for three mornings each week</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tairgeadh roinnt obair athshlánúcháin dó ar feadh trí mhaidin gach seachtain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He knows his earnings of €110 from rehabilitative work will not affect his Invalidity Pension</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá a fhios aige nach mbeidh tionchar ag a thuilleamh €110 ón obair athshlánúcháin ar a Phinsean Easláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, Anna wants to know if her Jobseeker's Allowance will be affected if Paul takes up rehabilitative work. Her payment is already reduced because they are living together</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach teastaíonn ó Anna a fháil amach an gcuirfear isteach ar a Liúntas do Lucht Cuardaigh Fostaíochta má thugann Paul faoin obair athshlánúcháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Note that from 2012 people gettting Invalidity Pension can no longer get exemptions for rehabilitative work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá a híocaíocht laghdaithe cheana féin toisc go bhfuil siad ina gcónaí le chéile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Step 1: Find Anna's current rate of Jobseeker's Allowance (JA)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Céim 1: Ríomh ráta an Liúntais do Lucht Cuardaigh Fostaíochta (LLCF) a fhaigheann Anna faoi láthair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Maximum payment to Anna and Paul (note 1) €331.60</seg></tuv>
+  <tuv xml:lang="ga"><seg>Uasíocaíocht le Anna agus Paul (nóta 1) €331.60</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Paul's rate of Invalidity Pension €193.50</seg></tuv>
+  <tuv xml:lang="ga"><seg>An Ráta Pinsean Easláinte a fhaigheann Paul €193.50</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Anna's rate of Jobseeker's Allowance (note 1) €138.10</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ráta an Liúntais do Lucht Cuardaigh Fostaíochta a fhaigheann Anna (nóta 1) €138.10</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Total social welfare payments €331.60</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocaíochtaí leasa shóisialaigh iomlána €331.60</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Step 2: Find Anna's rate of JA after Paul's income from rehabilitative earnings is taken into account</seg></tuv>
+  <tuv xml:lang="ga"><seg>Céim 2: Ríomh ráta LLCF Anna tar éis tuilleamh athshlánúcháin Paul a chur san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Anna's current reduced rate of Jobseeker's Allowance €138.10</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ráta Laghdaithe an Liúntais do Lucht Cuardaigh Fostaíochta a fhaigheann Anna faoi láthair €138.10</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Less assessable income from Paul's rehabilitative work €15 (note 2)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Lúideioncam inmheasúnaithe ó obair athshlánúcháin Paul €15 (nóta 2)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Anna's new rate of Jobseeker's Allowance €123.10</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ráta nua an Liúntais do Lucht Cuardaigh Fostaíochta a fhaigheann Anna €123.10</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If one of a couple is claiming Jobseeker's Allowance and the other is getting of one of the social welfare payments listed below, the total amount paid to the couple cannot exceed the amount paid to one person and his/her adult dependant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má éilíonn duine den lánúin an Liúntas do Lucht Cuardaigh Fostaíochta agus má fhaigheann an duine eile ceann amháin de na híocaíochtaí leasa shóisialaigh atá ar an liosta thíos, ní féidir leis an méid iomlán a íoctar leis an lánúin a bheith níos mó ná an méid a íoctar le duine amháin agus a c(h)leithiúnaí aosaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Disablement Pension (when paid with Injury Benefit or Incapacity Supplement)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Pinsean Míchumais (nuair a íoctar in éineacht le Sochar Díobhála nó Forlíonadh Éagumais é)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, you can choose the higher-rate payment as the primary payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat an íocaíocht ag an ráta níos airde a roghnú mar an phríomhíocaíocht, áfach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, Anna and Paul have choosen Paul's Invalidity Pension as the primary payment rather than Anna's Jobseeker's Allowance because Invalidity Pension is paid at a higher weekly rate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, roghnaigh Anna agus Paul Pinsean Easláinte Paul mar phríomhíocaíocht seachas Liúntas do Lucht Cuardaigh Fostaíochta Anna mar íoctar an Pinsean Easláinte ag ráta seachtainiúil níos airde</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Claimant on Invalidity Pension (IP) under 65 years rate €193.50</seg></tuv>
+  <tuv xml:lang="ga"><seg>Éilitheoir ar Phinsean Easláinte (PE) ar an ráta faoi 65 bliain d’aois €193.50</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Qualified Adult rate for IP under 65 years €138.10</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ráta d’Aosach Cáilithe do PE faoi 65 bliain d’aois €138.10</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Maximum payable to Anna and Paul €331.60</seg></tuv>
+  <tuv xml:lang="ga"><seg>Uasmhéid iníoctha le Anna agus Paul €331.60</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Paul's income will affect Anna's rate of Jobseeker's Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh tionchar ag ioncam Paul ar Ráta an Liúntais do Lucht Cuardaigh Fostaíochta a fhaigheann Anna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Paul’s income from employment is €110</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an t-ioncam ó fhostaíocht a fhaigheann Paul ná €110</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>€20 per day from casual work (up to a maximum of €60) will be deducted from his average assessable weekly earnings and 60% of the balance will be assessed as his means from employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfar €20 in aghaidh an lae ó obair ócáideach (suas le huasmhéid de €60) a asbhaint óna mheántuilleamh inmheasúnaithe seachtainiúil, agus déanfar 60% den fhuílleach a mheasúnú mar a acmhainní ó fhostaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>€110 - €60 (3 days worked) = €50 x 60% = €30</seg></tuv>
+  <tuv xml:lang="ga"><seg>€110 – €60 (oibríodh 3 lá) = €50 x 60% = €30</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Means of €30 is halved because Paul is getting a social welfare payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar leath dá acmhainní €30 toisc go bhfuil íocaíocht leasa shóisialaigh á fáil ag Paul</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Total weekly means = €15</seg></tuv>
+  <tuv xml:lang="ga"><seg>Acmhainní iomlána seachtainiúla = €15</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Note that from 2012 people gettting Invalidity Pension can no longer get exemptions for rehabilitative work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar na lamháltais seo a leanas a asbhaint ó d’ollthuilleamh chun do thuilleamh inmheasúnaithe a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• PRSA (Personal Retirement Savings Account)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• CCSP (Cuntas Coigiltis Scoir Pearsanta)</seg></tuv>
+</tu>
+</body>
+</tmx>

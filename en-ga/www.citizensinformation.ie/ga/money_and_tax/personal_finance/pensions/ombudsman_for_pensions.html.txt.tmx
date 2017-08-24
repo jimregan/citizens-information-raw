@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>The Pensions Ombudsman has the power to investigate and determine your complaints concerning disputes of fact or law and errors in relation to occupational pension schemes and Personal Retirement Savings Accounts (PRSA)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh an chumhacht ag an Ombudsman seo fiosrúchán a dhéanamh agus cinneadh a thógáil maidir le do ghearáin a bhaineann le easaontas fíricí nó dlí agus botúin a bhaineann le scéimeanna pinsin saothair agus Cuntais Phearsanta Coigiltis Scoir (CPCS)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Ombudsman has the power to give any directions necessary to resolve the complaint or dispute and can give financial compensation (redress) but this cannot exceed the actual loss of benefit under the occupational pension scheme or Personal Retirement Savings Account. The Ombudsman does not have the power to award legal costs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé de chumhacht ag an Ombudsman aon treoracha cuí a thabhairt le réiteach a fháil ar an ngearán nó easaontas agus cúiteamh airgeadais a thabhairt ach ní féidir leis an tsuim seo a bheith níos mó ná an sochar caillte faoin scéim phinsin saothair nó Cuntas Pearsanta Coigiltis Scoir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All decisions made by the Ombudsman are binding between the parties subject to a right of appeal by either party to the High Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bheidh sé de chumhacht ag an Ombudsman costais dlíthiúla a bhronnadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Government has announced the intended amalgamation of the Office of the Pensions Ombudsman with the Financial Services Ombudsman’s Bureau</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór do na páirtithe ar fad cloí le cinneadh an Ombudsman faoi réir ag an gceart atá ag na páirtithe ar fad achomharc a lorg ón Ardchúirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are certain time limits for bringing cases to the Pensions Ombudsman:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann teorainneacha faoi leith ama le cásanna a thabhairt chuig Ombudsman na bPinsean:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• 6 years from the date of the act that has given rise to your complaint/dispute</seg></tuv>
+  <tuv xml:lang="ga"><seg>• 6 bliana ón dáta ar tharla an ghníomh lena mbaineann do ghearán/easaontas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• 3 years from the date that you became aware of or should have become aware of the Act</seg></tuv>
+  <tuv xml:lang="ga"><seg>• 3 bliana ón dáta gur cuireadh ar an eolas thú nó gur cheart go mbeadh tú curtha ar an eolas maidir leis an ngníomh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Pensions Ombudsman has discretion to consider a complaint or dispute outside these timeframes but cannot go back further than 13 April 1996</seg></tuv>
+  <tuv xml:lang="ga"><seg>• tréimhse níos faide má chineann an tOmbudsman go bhfuil sé sin réasúnta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Pensions Ombudsman can carry out an investigation if the act or event that gave rise to the complaint or dispute took place between 13 April 1996 and 28 April 2003, even if more than 6 years have passed since the event</seg></tuv>
+  <tuv xml:lang="ga"><seg>• teorainn nach féidir ar aon bhealach dul thar 6 bliana i gcás gearán agus easaontais a bhaineann le nithe a tharla roimh Acht na bPinsean (Leasú), 2002 a bheith rite</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is no charge to bring a complaint to the Pensions Ombudsman</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon táille le n-íoc as gearán a thabhairt chuig Ombudsman na bPinsean</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>What to do if you have a complaint</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhíonn gearán agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have a complaint or dispute, you should begin by trying to sort it out at a local level with those responsible for the management of the pension scheme or Personal Retirement Savings Account (PRSA)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a bhíonn gearán nó easaontas agat, ba cheart duit ar dtús iarracht a dhéanamh é a réiteach leo siúd atá freagrach as bainistiú na scéime pinsin nó as an gCuntas Pearsanta Coigiltis Scoir (CPCS)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where the pension scheme or PRSA has an Internal Disputes Resolution (IDR) procedure, the Pensions Ombudsman cannot as a rule investigate the complaint or dispute unless and until the matter has gone through that procedure and the trustees or managers have issued their notice of decision</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair atá córas ag an scéim phinsin nó an CPCS le theacht ar Réiteach Inmhéanach Easaontais (RIE) ní féidir le Ombudsman na bPinsean mar riail fiosrúchán a dhéanamh maidir leis an ngearán nó easaontas ach amháin sa chás, agus go dtí, go bhfuil an cheist pléite ag an gcóras sin agus go bhfuil cinneadh déanta ag na hiontaobhaithe nó bainisteoirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the Pensions Act, all pension schemes and PRSAs must operate an IDR procedure</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi Acht na bPinsean, ní mór go mbeadh córas RIE ag na scéimeanna pinsin agus ag na CPCS ar fad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Parties are not bound by recommendations arising out of an IDR procedure</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní gá do pháirtithe cloí le moltaí a thagann chun cinn ó chóras RIE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the matter has not been resolved to your satisfaction having gone through the IDR procedure, or if the procedure has not been completed within 3 months, you can apply to the Pensions Ombudsman to investigate your complaint</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna bhfuil réiteach sásúil faighte duitse ar an gceist tar éis dul tríd an gcóras RIE, is féidir leat ansin iarratas a dhéanamh chuig Ombudsman na bPinsean do ghearán a fhiosrú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>How to make a complaint</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cén chaoi le gearán a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should check that your complaint or dispute is one that the Pensions Ombudsman can investigate and that you are eligible to complain</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart duit a dhéanamh cinnte gur féidir le Ombudsman na bPinsean fiosrúchán a dhéanamh maidir leis an ngearán nó easaontas atá agat agus go bhfuil tusa i dteideal gearáin a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should then write to the Pensions Ombudsman explaining your complaint or dispute and saying what you think the persons responsible for the management of the pension scheme should do to put matters right</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart duit ansin scríobh chuig Ombudsman na bPinsean ag míniú an ghearáin nó easaontais agus ag insint céard a cheapann tusa gur cheart do na daoine atá freagrach as an scéim phinsin a bhainistiú a dhéanamh le rudaí a chur ina gceart</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is a standard complaints form, approved by the Minister for Social Protection, that you must use</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá gnáthfhoirm ghearáin ar fáil, atá ceadaithe ag an Aire Coimirce Sóisialaí, nach mór duit úsáid a bhaint aisti</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This form is available from the Office of the Pensions Ombudman or from the Pensions Authority. You can download the form here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an fhoirm seo ar fáil anseo, ó Oifig Ombudman na bPinsean nó ó tÚdarás Pinsean, Teach Verschoyle, 28/30 Sráid an Mhóta Uachtarach, Baile Átha Cliath 2, Teil: (01) 613 1900, Facs: (01) 631 8602</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should enclose all relevant documents and correspondence (copies will be sufficient), including any correspondence with your pension scheme, employer or administrator</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart duit gach cáipéis chuí agus comhfhreagras (is leor cóipeanna) a chur leis an bhfoirm, aon chomhfhreagras le do scéim phinsin, fostóir nó riarthóir san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Complaints may be made by post</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir gearáin a dhéanamh tríd an bpost nó ar facs</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Complaints cannot be made by telephone</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir gearáin a dhéanamh ar an nguthán</seg></tuv>
+</tu>
+</body>
+</tmx>

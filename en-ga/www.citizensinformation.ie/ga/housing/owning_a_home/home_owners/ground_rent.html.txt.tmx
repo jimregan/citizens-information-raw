@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>The 2 types of property ownership in Ireland are leasehold and freehold</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá dhá cineálacha éagsúla úinéireachta ar réadmhaoine in Éirinn – réadmhaoin ar léas agus réadmhaoin rúilse</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Owning the leasehold interest in a property means that you own just the building and not the land it is on and that your ownership is for a fixed number of years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más le duine réadmhaoin ar léas is ionann sin agus gur leis/léi an foirgneamh amháin agus nach leis/léi an talamh ar a bhfuil sé tógtha agus go bhfuil úinéireacht aige/aici ar feadh méid áirithe blianta socraithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you own a leasehold property, you must pay a ground rent to your ground landlord - the person who owns the ground it is built on. The amount of ground rent paid varies</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más leat réadmhaoin ar léas ní mór duit cíos talún a íoc leis an tiarna talún gur leis/léi an talamh ar a bhfuil an foirgneamh tógtha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Often the ground landlord is the local authority</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mar a chéile a bhíonn méid an chíosa ar fud na tíre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Owning the freehold interest in a property means that you own the land and buildings (if any) outright</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más leat réadmhaoin rúilse ciallaíonn sin gur leat an talamh agus na foirgnimh (más ann dóibh) ar fad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is no period of years attached to the ownership and there is no ground rent to pay</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon tréimhse úinéireachta ag baint leis seo. Ní bhaineann cíos talún le réadmhaoin rúilse</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you are buying or selling a property, any ground rent will be recorded on the previous deeds (if the property is registered with the Registry of Deeds) or on the folio (if the property is registered with the Land Registry)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair atá réadmhaoin dhá cheannach nó dhá dhíol agat déanfar aon bunchíos a thaifead ar na gníomhais (má tá an mhaoin cláraithe le Clárlann na nGníomhas) nó ar an bhfóilió (má tá an mhaoin cláraithe ar Clárlann na Talún)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Property Registration Authority (PRA) controls and manages both the Land Registry and the Registry of Deeds. Read more in our document on property deeds</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an tÚdarás Clárúcháin Maoine a dhéanann Clárlann na nGníomhas agus Clárlann na Talún a rialú agus a bhainisteoireacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The PRA 's Ground Rents Purchase Scheme allows leasehold owners to buy out their ground rent and become outright owners of their property</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá scéim ag Clárlann na Talún a thugann deis d'úinéirí réadmhaoine ar léas an bunchíos a cheannach amach agus a bheith ina n-úinéirí iomlána ar a maoine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In some circumstances it is not possible to buy out ground rents, if, for instance, it is not in the public interest, or if there is a specific clause in a lease preventing it, but these instances are rare</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá roinnt cásanna eisceachtúla ann nuair nach féidir bunchíosanna a cheannach amach, mar shampla muna bhfuil sé ar leas an phobail, nó má tá alt faoi leith i léas a chuireann cosc ar seo, ach ní minic a bhíonn na cásanna seo amhlaidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Buying out your ground rent</seg></tuv>
+  <tuv xml:lang="ga"><seg>Do bhunchíos a cheannach amach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A person who is buying a property may be able to buy out the ground rent once the purchase of the property has been concluded</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair atá duine ag ceannach maoine is minic go gceannaíonn sé/sí an bunchíos ag an am céanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can buy it either privately or through the Ground Rents Purchase Scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir bunchíos a cheannach go príobháideach agus tríd Scéim Cheannaigh na mBunchíosanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The amount to be paid when buying out the ground rent can either be agreed between you and the ground landlord (consent procedure) or else obtained through an arbitration procedure</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat féin agus an tiarna talún teacht ar réiteach maidir leis an méid atá le n-íoc leis an mbunchíos a cheannach amach nó d'fhéadfaí iarraidh ar eadránaí neamhspléach in oifig Chlárlann na Talún praghas a shocrú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The amount of ground rent is set by the arbitration procedure if you are buying it out under the Ground Rents Purchase Scheme and cannot agree the amount with the ground landlord. The PRA will do all the legal work for a fee</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh Clárlann na Talún sásta breathnú i ndiaidh na hoibre dlíthiúil ar chostas, ag brath an bhfuil socrú déanta agaibh féin ar phraghas nó an bhfuil sibh ag iarraidh ar eadránaí Chlárlann na Talún an praghas a shocrú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is more expensive if an arbitrator is involved - see 'Rates' below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an costas níos mó má bhíonn eadránaí i gceist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you buy out your ground rent, whether from a private landlord or a local authority, the PRA will issue a Vesting Certificate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má cheannaíonn tú bunchíos ó thiarna talún príobháideach eiseófar Teastas Dílseacháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Vesting Certificate is a new title deed to your property</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an éifeacht dlíthiúil chéanna aige seo agus atá ag cáipéis tíolactha agus déanann sé úinéireacht iomlán an áitribh a "dhílsiú" i d'ainm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As such, it is a very important document</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Cineál gníomhais í cáipéis tíolactha.) Is gníomhas teidil do mhaoin nua é an Teastas Dílseacháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are strongly advised to have it registered with the Land Registry or the Registry of Deeds, as appropriate, to record the fact that your ownership of the property has changed from leasehold to freehold</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is doiciméad an-tábhachtach é agus molfar duit go tréam do Teastas Dílseacháin a chlárú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are buying it out through the arbitration procedure, the fee is €105 for residential owners and €195 for non-residential owners</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gClárlann na nGníomhas coinneofar cóip den cháipéis ar nós gur meabhrúchán a bhí ann. Achoimre ar an gcáipéis é meabhrúchán</seg></tuv>
+</tu>
+</body>
+</tmx>

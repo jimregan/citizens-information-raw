@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>The doctrine of privilege allows you to refuse to disclose documents to the court and to refuse to answer certain questions even when those documents or questions are relevant to the case</seg></tuv>
+  <tuv xml:lang="ga"><seg>De réir na rialacha a bhaineann le fianaise phribhléide is féidir leat diúltú cáipéisí a chur ar fáil don chúirt agus ceisteanna faoi leith a fhreagairt fiú nuair a bhaineann na cáipéisí agus na ceisteanna sin leis an gcás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are two main types of privilege:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá dhá phríomhchineál pribhléide ann:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You have a "privilege against self-incrimination"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá pribhléid i gcoinne féin-chiontaithe ag duine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that you can refuse to answer questions or hand over documents that may implicate you in criminal proceedings</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat diúltú ceisteanna a fhreagairt nó cáipéisí a thabhairt suas a d'fhéadfadh tú féin a lua le coir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may have a "legal professional privilege"</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh sé go bhfuil pribhléid den ghairm dlíthiúil agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A legal advisor and his or her client cannot be forced to disclose communications between them</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir iallach a chur ar chomhairleoir dlí ná ar a c(h)liant aon eolas a d'inis siad dhá chéile a chur ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In addition, if any communication is made in contemplation of litigation (i.e., with a court case in mind), then that communication is privileged even if it is not a communication between lawyer and client</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chomh maith leis sin má dhéantar aon chumarsáid ag súil le dul chun dlí (i.e., le cás cúirte ar intinn), baineann pribhléid leis an gcumarsáid sin fiú más daoine eile seachas dlíodóir agus cliant a bhí i gceist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Priests are allowed to refuse to answer questions relating to what was said in the confessional</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé de cheart ag sagairt diúltú ceisteanna a fhreagairt maidir le rudaí a dúradh leo sa bhosca faoistine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is known as the "sacerdotal privilege"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar pribhléid sagartúil ar seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Similarly, communications with a counsellor may also be privileged</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chomh maith leis sin, d'fhéadfadh comhráite le comhairleoir a bheith faoi phribhléid freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is privilege claimed by the State</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is pribhléid í seo a éilíonn an Stát</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In some very limited circumstances, the State may refuse to disclose information or documents in order to protect the public interest</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcúinsí fíortheoranta is féidir leis an Stát diúltú eolas nó cáipéisí a chur ar fáil ar mhaithe le leasa an phobail a chosaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, documents relating to the structure and engineering of army equipment might be held to be privileged in order to protect national security</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, d'fhéadfaí cáipéisí a bhaineann le structúr agus innealtóireacht trealaimh an airm a choinneáil faoi rún ar mhaithe leis an tslandáil náisiúnta a chosaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For more detailed information you should seek legal advice</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir duit comhairle dlí a lorg chun faisnéis mionsonraithe a fháil</seg></tuv>
+</tu>
+</body>
+</tmx>

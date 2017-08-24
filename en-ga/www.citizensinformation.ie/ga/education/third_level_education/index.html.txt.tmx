@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>• Fees and supports for third-level education</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Táillí agus Tacaíocht do mhic léinn tríú leibhéil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Coming to Ireland to study</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Teacht go hÉirinn le staidéar a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most Read in "Education and Training"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ábhar is mó éilimh i "Oideachas agus Oiliúint"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>School terms in primary and post-primary schools</seg></tuv>
+  <tuv xml:lang="ga"><seg>Téarmaí scoile i mbunscoileanna agus iarbhunscoileanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further Education and Training (FET) allowances</seg></tuv>
+  <tuv xml:lang="ga"><seg>Liúntais Bhreisoideachais agus Oiliúna (BOO)</seg></tuv>
+</tu>
+</body>
+</tmx>

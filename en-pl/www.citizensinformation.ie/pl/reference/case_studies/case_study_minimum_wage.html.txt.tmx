@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="pl"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Case study: Minimum wage</seg></tuv>
+  <tuv xml:lang="pl"><seg>Przykład: wyliczanie minimalnego wynagrodzenia</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Sean works 43 hours per week including three hours on a Saturday</seg></tuv>
+  <tuv xml:lang="pl"><seg>Sean pracuje 43 godziny tygodniowo, w tym 3 godziny w soboty</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He is entitled to the minimum wage of €9.25 as he is an experienced adult employee and isn't on a training or study course</seg></tuv>
+  <tuv xml:lang="pl"><seg>Przysługuje mu prawo do minimalnego wynagrodzenia w wysokości €8.65, ponieważ ukończył 18 lat i nie jest uczestnikiem żadnego kursu szkoleniowego ani studium</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He is paid a gross wage of €400 per week</seg></tuv>
+  <tuv xml:lang="pl"><seg>Otrzymuje wynagrodzenie w wysokości €375 brutto tygodniowo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Sean's pay includes a €20 premium for working Saturdays</seg></tuv>
+  <tuv xml:lang="pl"><seg>W skład tego wynagrodzenia wchodzi €20 dodatku z tytułu pracy w soboty</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He asked his employer about the national minimum wage and his employer gave him the following information:</seg></tuv>
+  <tuv xml:lang="pl"><seg>Zapytał pracodawcę o obowiązujące w kraju minimalne wynagrodzeni, w wyniku czego uzyskał następujące informacje:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The pay reference period is weekly</seg></tuv>
+  <tuv xml:lang="pl"><seg>• okres odniesienia dla wyliczania wynagrodzenia wynosi tydzień,</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Dividing the gross pay (€400) by the hours worked (43), this gives an average hourly pay of €9.30</seg></tuv>
+  <tuv xml:lang="pl"><seg>• średnia stawka godzinowa wynosząca €8.72 została wyliczona poprzez podzielenie wynagrodzenia brutto (€375) przez przepracowane godziny (43)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is slightly above the current national minimum wage of €9.25 per hour</seg></tuv>
+  <tuv xml:lang="pl"><seg>Taka kwota przewyższa nieznacznie obecnie obowiązującą kwotę minimalnego wynagrodzenia wynoszącego za godzinę</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Is Sean's employer correct?</seg></tuv>
+  <tuv xml:lang="pl"><seg>Czy pracodawca Seana ma racje?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>No, Sean's employer is incorrect</seg></tuv>
+  <tuv xml:lang="pl"><seg>+Nie, pracodawca Seana jest w błędzie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The €20 premium for working on Saturdays should not be included for national minimum wage purposes</seg></tuv>
+  <tuv xml:lang="pl"><seg>Dodatek z tytułu pracy w soboty w wysokości €20 nie powinien być brany pod uwagę dla celów wyliczania minimalnego wynagrodzenia</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that only €380 should be divided by 43, giving an average hourly pay of €8.84 - below the national minimum wage of €9.25</seg></tuv>
+  <tuv xml:lang="pl"><seg>Daje to średnią stawkę godzinową w wysokości €8.25 - czyli minimalnego wynagrodzenia wynoszącego €8.65</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Sean's entitlement is a basic wage of €397.75 (€9.25 x 43) plus €20 Saturday premium which comes to a total of €417.75</seg></tuv>
+  <tuv xml:lang="pl"><seg>Seanowi przysługuje prawo do pobierania podstawowego wynagrodzenia w wysokości €372 (€8.65 razy 43) plus €20 dodatku z tytułu pracy w soboty, co razem daje kwotę €392</seg></tuv>
+</tu>
+</body>
+</tmx>

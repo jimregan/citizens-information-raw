@@ -1,0 +1,449 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="pl"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>If you are unemployed, you may be paid either Jobseeker's Allowance (JA) or Jobseeker's Benefit (JB)</seg></tuv>
+  <tuv xml:lang="pl"><seg>Obydwa świadczenia są wypłacane przez Ministerstwo Spraw Socjalnych i Rodzinnych</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Both payments are paid by the Department of Social Protection (DSP)</seg></tuv>
+  <tuv xml:lang="pl"><seg>Zapomoga dla osób poszukujących pracy wcześniej nazywana była pomocą dla bezrobotnych</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may get Jobseeker's Allowance if you don't qualify for Jobseeker's Benefit or if you have used up your entitlement to Jobseeker's Benefit</seg></tuv>
+  <tuv xml:lang="pl"><seg>Zapomoga dla osób poszukujących pracy może być wypłacana osobom, które nie są uprawnione do otrzymywania zasiłku dla osób poszukujących pracy lub nie przysługuje im już takie prawo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In some cases, if you are only entitled to a reduced rate of Jobseeker's Benefit you may be better off on Jobseeker's Allowance</seg></tuv>
+  <tuv xml:lang="pl"><seg>W niektórych przypadkach mimo posiadania prawa do otrzymywania zasiłku dla osób poszukujących pracy w mniejszym wymiarze, lepszym wyjściem może okazać się zapomoga dla osób poszukujących pracy</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, Jobseeker's Allowance is means-tested and your means must be below a certain level to qualify</seg></tuv>
+  <tuv xml:lang="pl"><seg>Zapomoga dla osób poszukujących pracy uzależniona jest od wysokości dochodów, które nie mogą przekroczyć ustalonego pułapu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Jobseeker’s Transitional payment (JST) is a special arrangement under the Jobseeker’s Allowance scheme that aims to support lone parents into the workforce while they have young children</seg></tuv>
+  <tuv xml:lang="pl"><seg>Pobierając zasiłek dla osób poszukujących pracy, można obecnie skorzystać z nowego kalkulatora korzyści z pracy udostępnianego przez Departament Ochrony Socjalnej</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This payment is available to people parenting alone whose youngest child is aged between 7 and 13 years inclusive</seg></tuv>
+  <tuv xml:lang="pl"><seg>Narzędzie służy do oceny finansowych skutków podjęcia pełnoetatowej pracy</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Intreo - the integrated employment and support service</seg></tuv>
+  <tuv xml:lang="pl"><seg>Intreo - zintegrowana usługa zatrudnienia i wsparcia</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Intreo is a service from the Department of Social Protection which provides a single point of contact for all employment and income supports</seg></tuv>
+  <tuv xml:lang="pl"><seg>Intreo jest nową usługą Wydziału Opieki Społecznej, która będzie stanowić jeden punkt kontaktowy dla wszelkich czynników wsparcia w zakresie zatrudnienia i dochodów</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Details of Intreo Centre locations are published on welfare.ie</seg></tuv>
+  <tuv xml:lang="pl"><seg>Szczegóły nowych lokalizacji zostaną opublikowane na stronie welfare.ie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To get Jobseeker's Allowance you must be aged over 18 and under 66. You must also:</seg></tuv>
+  <tuv xml:lang="pl"><seg>O zapomogę dla osób poszukujących pracy mogą ubiegać się osoby:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Be unemployed (you must be fully unemployed or unemployed for at least 4 days out of 7)</seg></tuv>
+  <tuv xml:lang="pl"><seg>• Bezrobotne • W wieku powyżej 18 i poniżej 66 lat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Be available for full-time work and genuinely seeking work</seg></tuv>
+  <tuv xml:lang="pl"><seg>• Mogące podjąć pracę i faktycznie jej poszukujące</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Meet the habitual residence condition</seg></tuv>
+  <tuv xml:lang="pl"><seg>• Spełniające kryterium stałego zamieszkania</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are some special provisions for older jobseekers and for pregnant women</seg></tuv>
+  <tuv xml:lang="pl"><seg>Więcej informacji na temat warunków przyznania zasiłku dla osób poszukujących pracy oraz form pomocy oferowanych osobom poszukującym pracy przez Departament Ochrony Socjalnej</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Jobseeker's Allowance and work</seg></tuv>
+  <tuv xml:lang="pl"><seg>Zasiłek dla osób poszukujących pracy i zatrudnienie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must be unemployed to get Jobseeker’s Allowance</seg></tuv>
+  <tuv xml:lang="pl"><seg>Warunkiem otrzymywania zasiłku dla osób poszukujących pracy jest brak zatrudnienia</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must also be capable of, available for, and genuinely seeking full-time work to qualify for Jobseeker’s Allowance – and you must be able to show evidence of this to the Department of Social Protection</seg></tuv>
+  <tuv xml:lang="pl"><seg>Aby móc ubiegać się o przyznanie zasiłku, należy być zdolnym do wykonywania pracy, mieć możliwość jej podjęcia i aktywnie poszukiwać zajęcia. Ponadto należy to udowodnić w Departamencie Ochrony Socjalnej</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, there are circumstances in which you can do some work and get Jobseeker’s Allowance</seg></tuv>
+  <tuv xml:lang="pl"><seg>Istnieją jednak okoliczności pozwalające na wykonywanie pewnych prac i równoczesne pobieranie zasiłku dla osób poszukujących pracy</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Income from work affects the amount of Jobseeker’s Allowance you get</seg></tuv>
+  <tuv xml:lang="pl"><seg>Wysokość dochodu wpływa na otrzymywaną kwotę zasiłku</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you get part-time or casual work (up to and including 3 days per week), you may still be paid Jobseeker's Allowance for the other days</seg></tuv>
+  <tuv xml:lang="pl"><seg>W przypadku pracy w niepełnym wymiarze godzin lub pracy dorywczej (maksymalnie 3 dni tygodniowo) nadal można pobierać zasiłek wypłacany za pozostałe dni</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, you must show that you are trying to get full-time employment</seg></tuv>
+  <tuv xml:lang="pl"><seg>Należy jednak wykazać starania o zdobycie pełnoetatowego zatrudnienia</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your employer reduces your days at work to 3 days week or less, you may get Jobseeker's Allowance for the other days</seg></tuv>
+  <tuv xml:lang="pl"><seg>Jeżeli pracodawca redukuje liczbę dni roboczych pracownika do 3 lub mniej, za pozostałe dni można otrzymywać zasiłek dla osób poszukujących pracy</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must meet the other conditions that apply to Jobseeker's Allowance, for example, you must satisfy a means test</seg></tuv>
+  <tuv xml:lang="pl"><seg>Aby ubiegać się o zasiłek dla osób poszukujących pracy, należy spełnić także inne warunki, np. przejść ocenę zamożności</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is an exemption from some of the rules for retained firefighters</seg></tuv>
+  <tuv xml:lang="pl"><seg>Niektóre z tych przepisów nie dotyczą strażaków pracujących w systemie pozaetatowym</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have been getting long-term Jobseeker's Allowance (over 390 days or 15 months) and you take up part-time work for less than 24 hours a week you may be eligible for the Part-time Job Incentive Scheme (PTJI). This scheme allows you to take up part-time work and get a special weekly allowance instead of your jobseeker’s payment</seg></tuv>
+  <tuv xml:lang="pl"><seg>W przypadku długoterminowego pobierania zasiłku dla osób poszukujących pracy (przez ponad 390 dni lub 15 miesięcy) i podjęciu pracy w niepełnym wymiarze godzin (mniej niż 24 godziny tygodniowo) można być uprawnionym do udziału w programie motywującym do podejmowania pracy niepełnoetatowej (ang</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Find out more about how income from work is assessed for Jobseeker’s Allowance</seg></tuv>
+  <tuv xml:lang="pl"><seg>Part-time Job Incentive Scheme, PTJI)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can also take up to two weeks holiday in a year and continue to get your payment</seg></tuv>
+  <tuv xml:lang="pl"><seg>Program ten pozwala na podejmowanie pracy w niepełnym wymiarze godzin i pobieranie specjalnego cotygodniowego świadczenia zamiast świadczenia dla osób poszukujących pracy</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are getting JA you can use a Benefit of Work Ready Reckoner from the Department of Social Protection to help you assess the financial consequences of taking up full-time work</seg></tuv>
+  <tuv xml:lang="pl"><seg>Zachęcamy do uzyskania szczegółowych informacji na temat sposobu, w jaki dochód z pracy oceniany jest pod kątem zasiłku dla osób poszukujących pracy</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A Back to Work Family Dividend has been introduced for lone parent and long-term jobseeker families with children who find or return to work from January 2015</seg></tuv>
+  <tuv xml:lang="pl"><seg>Można również korzystać z maksymalnie dwutygodniowego urlopu rocznie i nadal pobierać świadczenie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are self-employed, you may be entitled to Jobseeker's Allowance, depending on your income from your business</seg></tuv>
+  <tuv xml:lang="pl"><seg>W przypadku osób samozatrudnionych mogą one być uprawnione do pobierania zasiłku dla osób poszukujących pracy w zależności od wysokości dochodu uzyskiwanego z prowadzenia firmy</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find out more about self-employment and unemployment</seg></tuv>
+  <tuv xml:lang="pl"><seg>Zachęcamy do zapoznania się ze szczegółowymi informacjami na temat samozatrudnienia i bezrobocia dostępnymi na stronie selfemployedsupports.ie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Self-employed farmers on a low income can apply for Farm Assist</seg></tuv>
+  <tuv xml:lang="pl"><seg>Samozatrudnieni rolnicy o niskich dochodach powinni złożyć wniosek o dodatek na prowadzenie gospodarstwa rolnego</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Jobseeker's Allowance is a means-tested payment</seg></tuv>
+  <tuv xml:lang="pl"><seg>Prawo do zapomogi dla osób poszukujących pracy warunkują kryteria finansowe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your means must be below a certain level to get Jobseeker’s Allowance</seg></tuv>
+  <tuv xml:lang="pl"><seg>Badanie stanu posiadania ma na celu sprawdzenie wszelkich źródeł dochodu, w tym dochodów współmałżonka, partnera bądź konkubenta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A means test looks at all your household sources of income including your spouse’s, civil partner’s or cohabitant's income</seg></tuv>
+  <tuv xml:lang="pl"><seg>Ocena dochodów obejmuje wszystkie źródła dochodów, w tym dochody małżonka lub partnera</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(A cohabitant is a person living in an intimate and committed relationship with a person of the same or opposite sex who is not that person’s spouse, civil partner, or a close relative.)</seg></tuv>
+  <tuv xml:lang="pl"><seg>(Konkubent to osoba żyjąca w intymnym związku partnerskim z osobą tej samej lub przeciwnej płci, nie będąca małżonkiem tej osoby, partnerem lub bliskim krewnym)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, some income may not be taken into account</seg></tuv>
+  <tuv xml:lang="pl"><seg>Niektórych dochodów nie można brać pod uwagę</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your total household means is deducted from the maximum payment for your household's circumstances to find the actual amount of Jobseeker’s Allowance you are entitled to</seg></tuv>
+  <tuv xml:lang="pl"><seg>Całkowity dochód gospodarstwa domowego jest potrącany od maksymalnej wysokości świadczenia dla danego gospodarstwa domowego w celu ustalenia faktycznej kwoty zasiłku, do której osoba jest uprawniona</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your spouse, civil partner or cohabitant is getting a social welfare payment in his or her own right (with some exceptions) or is on a Further Education and Training (FET) course or VTOS course and getting an allowance you will not get an Increase for a Qualified Adult but you will get a half-rate increase for any qualified children</seg></tuv>
+  <tuv xml:lang="pl"><seg>Jeżeli współmałżonek(-ka) lub partner(-ka) wnioskodawcy pobiera świadczenie socjalne, do którego jest uprawniony(-a) (z pewnymi wyjątkami), lub uczestniczy w kursie FET lub VTOS i pobiera zasiłek, wnioskodawca nie otrzyma podwyżki na rzecz uprawnionego dorosłego, lecz połowę kwoty podwyżki za każde uprawnione dziecko</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A limitation applies which means that if you are claiming Jobseeker's Allowance and your spouse, civil partner or cohabitant is getting certain social welfare payments, the total amount paid to you as a couple cannot be more than the maximum amount that would be paid to one person (including adult and child dependants) on one social welfare payment</seg></tuv>
+  <tuv xml:lang="pl"><seg>Ograniczenie oznacza, że jeżeli osoba wnioskująca o zasiłek dla osób poszukujących pracy, a jej współmałżonek(-ka) lub partner(-ka) pobiera jakieś świadczenia socjalne, całkowita kwota świadczeń wypłacanych parze nie może przewyższać maksymalnej kwoty, która byłaby wypłacana jednej osobie (w tym osobom dorosłym i dzieciom pozostającym na utrzymaniu) z tytuły przyznanego świadczenia socjalnego</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Find out more about the means test for Jobseeker’s Allowance</seg></tuv>
+  <tuv xml:lang="pl"><seg>Zachęcamy do uzyskania szczegółowych informacji na temat oceny zamożności przeprowadzanej pod kątem zasiłku dla osób poszukujących pracy</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can claim an increase for your spouse, civil partner or cohabitant while they are taking part in a Community Employment (CE),Tús or Gateway scheme</seg></tuv>
+  <tuv xml:lang="pl"><seg>Istnieje możliwość wnioskowania o podwyższenie świadczenia dla współmałżonka(-ki) lub partnera(-ki) w czasie, gdy korzysta on/ona z programu zatrudniania członków społeczności (ang. Community Employment (CE)), Tús lub Gateway</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Their earnings from the scheme are assessed in the same way as earnings from insurable employment (and your combined means are not halved)</seg></tuv>
+  <tuv xml:lang="pl"><seg>Dochody uzyskiwane z programu podlegają ocenie w ten sam sposób co dochody płynące z zatrudnienia nieobjętego obowiązkiem ubezpieczeniowym (a łączone środki nie są dzielone na pół)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are 24 years of age or under and you are living with a parent or a step-parent in the family home, some of your parents' income will also be taken into account in the assessment for Jobseeker's Allowance</seg></tuv>
+  <tuv xml:lang="pl"><seg>Jeżeli wnioskodawca ma maksymalnie 24 lata i zamieszkuje z rodzicem lub przybranym rodzicem w domu rodzinnym, pewne dochody rodziców także będą brane pod uwagę przy ocenie uprawnień do zasiłku dla osób poszukujących pracy</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Department call this an assessment of the 'benefit and privilege' you get from living with your parents</seg></tuv>
+  <tuv xml:lang="pl"><seg>Departament nazywa to oceną „korzyści i przywilejów” uzyskiwanych z tytułu zamieszkiwania z rodzicami</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Find out more about how living with your parents is assessed in the means test</seg></tuv>
+  <tuv xml:lang="pl"><seg>Zachęcamy do zdobycia szczegółowych informacji na temat tego, jak mieszkanie z rodzicami oceniane jest w trakcie oceny zamożności</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Disqualification and reduction in payment</seg></tuv>
+  <tuv xml:lang="pl"><seg>Pozbawienie prawa do zasiłku i jego obniżenie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may be disqualified from getting Jobseeker's Allowance for 9 weeks if you:</seg></tuv>
+  <tuv xml:lang="pl"><seg>Świadczeniobiorca może utracić prawo do pobierania zasiłku dla osób poszukujących pracy na okres 9 tygodni, jeżeli nastąpiło:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Left work voluntarily and without just cause</seg></tuv>
+  <tuv xml:lang="pl"><seg>• dobrowolne porzucenie pracy bez uzasadnionego powodu;</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Lost your job through misconduct</seg></tuv>
+  <tuv xml:lang="pl"><seg>• utrata pracy wskutek niewłaściwego postępowania;</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Refused an offer of suitable employment or training - if you have been on a penalty rate of JA for at least 21 days</seg></tuv>
+  <tuv xml:lang="pl"><seg>• odmowa przyjęcia oferty odpowiedniej alternatywnej pracy lub szkolenia (jeżeli osobie naliczano karną stawkę zasiłku na co najmniej 21 dni)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your payment can be reduced if you refuse or fail to attend meetings requested by the Department or if you refuse or fail to participate in an appropriate employment support scheme, work experience or training (see also Penalty rates below)</seg></tuv>
+  <tuv xml:lang="pl"><seg>Wysokość świadczenia może ulec obniżeniu, jeżeli świadczeniobiorca odmawia przybycia na wezwania Departamentu lub nie uczestniczy w planie wspierania zatrudnienia, nie stawia się w pracy lub na szkoleniach. (Patrz również: Kary poniżej)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read more about sanctions that may apply if you do not fulfil the conditions of your jobseeker's payment</seg></tuv>
+  <tuv xml:lang="pl"><seg>Zachęcamy do zapoznania się ze szczegółowymi informacjami na temat kar, które mogą być stosowane w razie niespełniania warunków otrzymywania świadczenia dla osób poszukujących pracy</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have just left school you cannot get Jobseeker's Allowance. To get Jobseeker's Allowance you must have been out of school for 3 months and you must be at least 18 years of age</seg></tuv>
+  <tuv xml:lang="pl"><seg>Osoby, które niedawno ukończyły naukę, nie mogą ubiegać się o zapomogę dla osób poszukujących pracy, dopóki nie miną trzy miesiące od ukończenia nauki i dana osoba nie ukończy 18 lat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Short-term employment or training</seg></tuv>
+  <tuv xml:lang="pl"><seg>Krótkookresowo prace lub szkolenie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Department of Social Protection operates a fast-tracking system for people who sign off a jobseeker's payment to take up work for a short period (up to 12 weeks) or to go on a short training course (up to 12 weeks)</seg></tuv>
+  <tuv xml:lang="pl"><seg>Wydzial dysponuje systemem rejestrujacym osoby, które rezygnuja z zasilku w celu podjecia pracy krótkookresowej (do 12 tygodni) lub uczeszczaja na szkolenia (do 12 tygodni)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This ensures that your payment is re-instated without delay</seg></tuv>
+  <tuv xml:lang="pl"><seg>Dzieki temu wznowienie wyplat swiadczen odbywa sie bez opóznien</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is important that you inform your Intreo Centre or local Social Welfare Branch Office in advance that you are taking up work or training</seg></tuv>
+  <tuv xml:lang="pl"><seg>Wazne jest, aby wczesniej poinformowac lokalne biuro swiadczen spolecznych o podjeciu pracy lub szkolenia</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Jobseeker's Allowance rates from 8 March 2017</seg></tuv>
+  <tuv xml:lang="pl"><seg>Stawki zapomogi dla osób poszukujących pracy obowiązujące od stycznia 2015 r</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Age │Maximum personal │Increase for a qualified │Increase for a qualified │</seg></tuv>
+  <tuv xml:lang="pl"><seg>│ Maksymalna stawka zapomogi dla osób poszukujących pracy w wieku 26 lat lub więcej │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│ │rate │adult │child │</seg></tuv>
+  <tuv xml:lang="pl"><seg>│Maksymalna stawka │€188 │€124,80 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Aged 26 and │€193.00 │€128.10 │€29.80 │</seg></tuv>
+  <tuv xml:lang="pl"><seg>│Maksymalna stawka zapomogi dla osób poszukujących pracy w wieku poniżej 26 lat │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│over │ │ │ │</seg></tuv>
+  <tuv xml:lang="pl"><seg>│Wiek │Stawka osobista │Dodatek na kwalifikującą się osobę dorosłą │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Reduced personal and qualified adult rates of Jobseeker’s Allowance (JA) for people under 26 do not apply to the following claimants:</seg></tuv>
+  <tuv xml:lang="pl"><seg>Obniżone stawki indywidualne i za uprawnionego dorosłego w przypadku zasiłku dla osób poszukujących pracy (JA) w wieku poniżej 26 lat nie dotyczą:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• People with dependent children</seg></tuv>
+  <tuv xml:lang="pl"><seg>• wnioskodawców mających na utrzymaniu dzieci;</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• People transferring from Disability Allowance to JA</seg></tuv>
+  <tuv xml:lang="pl"><seg>• osób przechodzących z zasiłku dla niepełnosprawnych na JA;</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• People who were in the care of the Child and Family Agency during the 12 months before reaching 18</seg></tuv>
+  <tuv xml:lang="pl"><seg>• osób, których wniosek jest powiązany z poprzednim wnioskiem o przyznanie JA złożonym w poprzednich 12 miesiącach, gdzie zastosowano maksymalną stawkę indywidualną;</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These people are assessed using the JA rate for people aged 26 or over</seg></tuv>
+  <tuv xml:lang="pl"><seg>Ocena wysokości JA u tych osób dokonywana jest przy użyciu stawki JA stosowanej wobec osób w wieku co najmniej 26 lat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This exception only applies between the ages of 18 and 24</seg></tuv>
+  <tuv xml:lang="pl"><seg>Wyjątek ten dotyczy wyłącznie osób w wieku pomiędzy 18 a 24 rokiem życia</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>From the age of 25, the age-related rate applies</seg></tuv>
+  <tuv xml:lang="pl"><seg>wszystkie nowe osoby korzystające z zasiłku edukacyjnego (ang</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>From the age of 26, the full personal rate applies</seg></tuv>
+  <tuv xml:lang="pl"><seg>Wnioski składane przez 15 stycznia 2014 r</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you were getting an age-related reduced rate of JA and you take part in a course of education, training or an employment support scheme the appropriate personal rate of payment applicable to that course or scheme will apply as long as you are aged under 26</seg></tuv>
+  <tuv xml:lang="pl"><seg>15 stycznia 2014 r., nie stosuje się obniżek kwot. (Osoby w wieku 18-21 lat otrzymywały 100 EUR, w wieku 22-24 otrzymywały 144 EUR, a osoby w wieku 25 lat były uprawnione do pełnej indywidualnej kwoty JA)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you complete the course you will go back to your previous age-related JA rate</seg></tuv>
+  <tuv xml:lang="pl"><seg>Jednak świadczenia te wzrosną wraz z nowymi stawkami</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Since 1 January 2014 all new Back to Education Allowance (BTEA) participants aged under 26 who were getting a reduced age-related Jobseeker’s Allowance payment, will get a maximum BTEA rate of €160 per week (any means participants have are deducted from this rate)</seg></tuv>
+  <tuv xml:lang="pl"><seg>Np. John skończył 22 lata dnia 5 stycznia 2014 r. Wnioskował o JA od stycznia 2013 i jego stawka wzrosła ze 100 EUR do 144 EUR z dniem 5 stycznia 2014 r. John może nadal pobierać stawkę 144 EUR. Jeżeli tak się stanie, jego stawka wzrośnie do 188 EUR w dniu jego 26 urodzin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your payment can be reduced if you refuse or fail to attend meetings requested by the Department or if you refuse or fail to participate in an appropriate employment support scheme, work experience or training</seg></tuv>
+  <tuv xml:lang="pl"><seg>Wysokość świadczenia może ulec obniżeniu, jeżeli świadczeniobiorca odmawia przybycia na wezwania Departamentu lub nie uczestniczy w planie wspierania zatrudnienia, nie stawia się w pracy lub na szkoleniach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find out about sanctions for not meeting the conditions of your jobseeker's payment</seg></tuv>
+  <tuv xml:lang="pl"><seg>Więcej informacji znajduje się w dokumentach na temat kar za niespełnianie warunków pobierania zasiłku dla osób poszukujących pracy. Od 1 stycznia 2014 r</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Penalty rates do not apply to people over 62</seg></tuv>
+  <tuv xml:lang="pl"><seg>kary nie mają zastosowania w przypadku osób powyżej 62 roku życia</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you qualify for Jobseeker’s Allowance you get an amount for yourself, which is called the 'personal rate of payment'</seg></tuv>
+  <tuv xml:lang="pl"><seg>Osoba, której przysługuje zapomoga dla osób poszukujących pracy, otrzymuje kwotę dla siebie nazywaną „osobistą stawką świadczenia”</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may also get an increase in your payment for an adult dependant and any child dependants you may have</seg></tuv>
+  <tuv xml:lang="pl"><seg>Możliwe jest uzyskanie podwyższonego świadczenia na osobę dorosłą na utrzymaniu i dzieci pozostające na utrzymaniu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A child dependant is usually a child up to 18 years of age who lives with you</seg></tuv>
+  <tuv xml:lang="pl"><seg>„Dziecko pozostające na utrzymaniu" to zazwyczaj dziecko w wieku do 18 lat, które mieszka z osobą ubiegającą się o świadczenie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have been getting Jobseeker’s Allowance for at least 156 days and your child is in full-time education, an Increase for a Qualified Child (IQC) will be paid up to 22 years of age or up to the end of the academic year in which he or she reaches 22</seg></tuv>
+  <tuv xml:lang="pl"><seg>W przypadku osoby otrzymującej zapomogę dla osób poszukujących pracy przez co najmniej 156 dni, której dziecko uczy się w pełnym wymiarze godzin, wypłacany będzie dodatek na kwalifikujące się dziecko (IQC) do ukończenia przez nie 22 roku życia lub do końca roku akademickiego, w którym dziecko ukończy 22 lata</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will only get a half-rate IQC if you and your spouse, civil partner or cohabitant are both getting a social welfare payment</seg></tuv>
+  <tuv xml:lang="pl"><seg>Jeżeli dana osoba oraz jej małżonek lub partner otrzymują świadczenie w ramach pomocy społecznej, przysługuje połowa dodatku na kwalifikujące się dziecko</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will each get a half-rate IQC</seg></tuv>
+  <tuv xml:lang="pl"><seg>Wówczas każda z osób otrzyma połowę dodatku na kwalifikujące się dziecko</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may get an Increase for a Qualified Adult (IQA) for an adult dependant (this is usually your spouse, civil partner or cohabitant)</seg></tuv>
+  <tuv xml:lang="pl"><seg>Możecie otrzymać podwyżkę na kwalifikującą się do tego osobę dorosłą (IQA), pozostającą na waszym utrzymaniu (zazwyczaj jest to współmałżonek, partner bądź konkubent)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are single, widowed, divorced, separated, a former civil partner or not living with your civil partner, and living with a person aged 16 or over, you can claim an IQA for them but only if he or she is caring for a child dependant of yours</seg></tuv>
+  <tuv xml:lang="pl"><seg>Jeżeli jesteście stanu wolnego, wdowcem, rozwiedzionym, w separacji, z byłym partnerem lub nie mieszkacie z partnerem oraz zamieszkujecie z osobą w wieku lat 16 lub starszą, możecie wnioskować o dodatek na nią, ale tylko wówczas, gdy on/ona opiekuje się dzieckiem, pozostającym na waszym utrzymaniu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your spouse, civil partner or cohabitant works or is taking part in a Community Employment (CE scheme), Tús or Gateway their earnings from insurable employment are assessed in the same way as your earnings from part-time or casual work</seg></tuv>
+  <tuv xml:lang="pl"><seg>Jeżeli współmałżonek(-ka) lub partner(-ka) świadczeniobiorcy pracuje lub korzysta z programu zatrudnienia członków społeczności (CE), Tús lub Gateway, fakt ten może wpłynąć na wysokość zasiłku JA przyznawanego gospodarstwu domowemu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Find out more about work and Jobseeker’s Allowance</seg></tuv>
+  <tuv xml:lang="pl"><seg>Zachęcamy do uzyskania szczegółowych informacji o zatrudnieniu i zasiłku dla osób poszukujących pracy</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can collect your Jobseeker’s Allowance payment weekly from your nearest Post Office</seg></tuv>
+  <tuv xml:lang="pl"><seg>Zapomogę dla osób poszukujących pracy można odbierać co tydzień w najbliższym urzędzie pocztowym</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must bring valid photographic identification (photo ID) with you to collect your payment</seg></tuv>
+  <tuv xml:lang="pl"><seg>Aby odebrać wypłatę, należy przynieść ze sobą ważny dowód tożsamości ze zdjęciem</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The following is considered to be valid photo ID:</seg></tuv>
+  <tuv xml:lang="pl"><seg>Następujące dokumenty uznaje się za ważne dowody tożsamości ze zdjęciem:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• EU/EEA nationals may use a National Identity Card</seg></tuv>
+  <tuv xml:lang="pl"><seg>• Obywatele UE/EOG mogą posługiwać się dowodem osobistym</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Staff working in the Post Office may ask to see your photo ID before giving you your payment</seg></tuv>
+  <tuv xml:lang="pl"><seg>Urzędnicy na poczcie mogą domagać się okazania dowodu tożsamości ze zdjęciem przed przekazaniem wypłaty</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Rent Supplement - a payment that helps with the cost of your rent</seg></tuv>
+  <tuv xml:lang="pl"><seg>W przypadku pobierania zasiłku dla osób poszukujących pracy świadczeniobiorca może mieć prawo do:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Fuel Allowance - a weekly payment between October and April to help with fuel costs</seg></tuv>
+  <tuv xml:lang="pl"><seg>• dodatku do czynszu - świadczenia pomagającego pokryć koszty najmu mieszkania;</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Fuel Allowance is payable to people who have been getting a jobseeker’s payment for 390 days, if they satisfy the relevant qualifying conditions</seg></tuv>
+  <tuv xml:lang="pl"><seg>• dodatku na paliwo - cotygodniowego świadczenia wypłacanego od października do kwietnia pomagającego pokryć koszty zapotrzebowania na paliwo; Dodatek na paliwo przysługuje osobom pobierającym świadczenie dla poszukujących pracy przez 390 dni, pod warunkiem spełnienia wymogów kwalifikacyjnych</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Days of unemployment on Jobseeker's Benefit count towards the 390 days if the Jobseeker’s Benefit claim was immediately before the award of Jobseeker’s Allowance</seg></tuv>
+  <tuv xml:lang="pl"><seg>Dni pozostawania bez pracy w czasie pobierania świadczenia dla osób poszukujących pracy liczą się do 390 dni, jeżeli wniosek o świadczenie dla osób poszukujących pracy został złożony tuż przed przyznaniem zasiłku dla osób poszukujących pracy</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Back to School Clothing and Footwear Allowance - a payment to help with the cost of uniforms and footwear for children who are attending school</seg></tuv>
+  <tuv xml:lang="pl"><seg>• zasiłku na zakup odzieży i obuwia szkolnego - świadczenia pomagającego pokryć koszty mundurków szkolnych i obuwia dzieci w wieku szkolnym;</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Medical card - if your income is below a certain level, you may get a medical card</seg></tuv>
+  <tuv xml:lang="pl"><seg>• karty medycznej - jeżeli uzyskiwany dochód jest poniżej określonego poziomu, można ubiegać się o kartę medyczną</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You do not qualify for the Household Benefits Package or Free Travel with Jobseeker’s Allowance</seg></tuv>
+  <tuv xml:lang="pl"><seg>Osoba pobierająca zasiłek dla poszukujących pracy nie kwalifikuje się do otrzymania pakietu świadczeń na prowadzenie gospodarstwa domowego ani nie jest uprawniona do bezpłatnych przejazdów</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your claim is linked to a previous claim for Jobseeker's Allowance, you may be paid for the first 3 days</seg></tuv>
+  <tuv xml:lang="pl"><seg>Wnioski o zapomogę dla osób poszukujących pracy należy składać pierwszego dnia po utracie pracy</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you make a late claim, it may be backdated if you provide good evidence for the delay</seg></tuv>
+  <tuv xml:lang="pl"><seg>Ważne jest, aby złożyć wniosek pierwszego dnia po utracie pracy, ponieważ zapomoga nie będzie wypłacana przez pierwsze trzy dni od momentu złożenia wniosku</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Jobseeker's Allowance application forms are available online</seg></tuv>
+  <tuv xml:lang="pl"><seg>Formularze wniosków o zapomogę dla osób poszukujących pracy są dostępne online</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can also get an application form from your Intreo Centre or Social Welfare Branch Office</seg></tuv>
+  <tuv xml:lang="pl"><seg>Formularze można otrzymać również w lokalnym urzędzie pomocy społecznej</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will need to bring certain documents with you when you apply for Jobseeker's Allowance</seg></tuv>
+  <tuv xml:lang="pl"><seg>Należy przynieść dokumenty potwierdzające zasadność wniosku i dane</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can get help with filling in your application form at your Intreo Centre, Social Welfare Branch Office or nearest Citizens Information Centre</seg></tuv>
+  <tuv xml:lang="pl"><seg>w nim zawarte. Wykaz dokumentów wymaganych przy ubieganiu się o zapomogę dla osób poszukujących pracy</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>More information is available in our document about signing on for the first time</seg></tuv>
+  <tuv xml:lang="pl"><seg>Pomoc w wypełnianiu formularza można uzyskać w lokalnym urzędzie pomocy społecznej lub najbliższym Centrum Porad Obywatelskich</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you think you have been wrongly refused Jobseeker's Allowance you can appeal the decision to the Social Welfare Appeals Office</seg></tuv>
+  <tuv xml:lang="pl"><seg>Więcej informacji na temat ubiegania się o zapomogę dla osób poszukujących pracy znajduje się w dokumencie pierwsza rejestracja</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should apply for Jobseeker's Allowance to your Intreo Centre or Social Welfare Branch Office</seg></tuv>
+  <tuv xml:lang="pl"><seg>Wnioski o zapomogę dla osób poszukujących pracy należy składać w miejscowym urzędzie opieki społecznej</seg></tuv>
+</tu>
+</body>
+</tmx>

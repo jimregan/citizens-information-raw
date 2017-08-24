@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>If the President of Ireland is absent, becomes incapacitated, dies, resigns, is removed from office or fails to perform their functions, the Presidential Commission steps in to perform the functions of the President</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhíonn an tUachtarán as láthair, má bhíonn siad ar míthreoir, má chailltear iad, má éiríonn iad as oifig nó má chuirtear as oifig iad nó má theipeann orthu a feidhmeanna a chur i gcrích, comhlíonfaidh Coimisiún an Uachtaráin feidhmeanna agus cumhachtaí an Uachtaráin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Presidential Commission consists of the Chief Justice, the Ceann Comhairle (Chairperson) of the Dáil and the Cathaoirleach (Chairperson) of the Seanad</seg></tuv>
+  <tuv xml:lang="ga"><seg>An Príomh-Bhreitheamh, Ceann Comhairle Dháil Éireann agus Cathaoirleach Sheanad Éireann iad Coimisiún an Uachtaráin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If any of those people are unable to act, the President of the High Court, the Leas (Deputy) Ceann Comhairle and the Leas (Deputy) Cathaoirleach, respectively, can act as members instead</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna bhfuil aon duine acu sin in ann gníomhú is féidir le hUachtarán na hArdchúirte, an Leas Cheann Chomhairle agus an Leas Chathaoirleach, faoi seach, gníomhú mar bhaill ina n-áit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Any 2 of the members of the Presidential Commission can perform the functions of the President</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le haon bheirt de Choimisiún an Uachtaráin feidhmeanna an Uachtaráin a chur i gcrích</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Presidential Commission frequently acts instead of the President while they are abroad, for example, by signing Bills into law</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gníomhaíonn an Coimisiún go minic in áit an Uachtaráin nuair atá sé/sí thar lear, mar shampla, le billí a shíniú ina ndlí</seg></tuv>
+</tu>
+</body>
+</tmx>

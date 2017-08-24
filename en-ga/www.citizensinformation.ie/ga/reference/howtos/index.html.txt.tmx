@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Notice of intent to remain in rented dwelling</seg></tuv>
+  <tuv xml:lang="ga"><seg>Notice of intent to remain in rented dwelling</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is an example of a letter you can send to your landlord to inform them that, under the Residential Tenancies Act 2004, you intend to stay in the property you are renting after your fixed-term tenancy has ended</seg></tuv>
+  <tuv xml:lang="ga"><seg>This is an example of a letter you can send to your landlord to inform them that, under the Residential Tenancies Act 2004, you intend to stay in the property you are renting after your fixed-term tenancy has ended</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Notice of termination of tenancy</seg></tuv>
+  <tuv xml:lang="ga"><seg>Notice of termination of tenancy</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is an example of a letter you can send to your landlord to inform them that you are ending your tenancy</seg></tuv>
+  <tuv xml:lang="ga"><seg>This is an example of a letter you can send to your landlord to inform them that you are ending your tenancy.   Teanga</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most Read in "Reference"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ábhar is mó éilimh i "Reference"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>At what age can I?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cén aois is féidir liom?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Case study: Calculating your income tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cás-staidéar: Do cháin ioncaim a ríomh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Checklist when applying for Jobseeker's Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seicliosta nuair atá iarratas á dhéanamh ar Liúntas Cuardaitheora Poist</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Administration of government departments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Riarachán na ranna rialtais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This document describes how government departments are managed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar cuir síos anseo ar conas a dhéantar riarú ar na Ranna Rialtais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The civil service in Ireland are the public officials who advise and assist Government Ministers in running their Departments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is oifigigh phoiblí iad foireann na Státseirbhíse a chuidíonn leis na hAirí Rialtais ina Ranna Rialtais éagsúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are 16 Departments of State. Information about each Department and links to their websites</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá 15 Ranna Stáit in Eireann: éagsúla agus tá nasc ar fáil chuig a suíomh idirlín</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most Read in "Government in Ireland"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ábhar is mó éilimh i "Rialtas in Éirinn"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Presidential Election in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bunchearta faoi Bhunreacht na hÉireann</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,413 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>The package is available to everyone aged over 70 and to people under age 70 in certain circumstances.You must be living permanently in the State (this means full-time and all year round) and you must register for the Public Services Card (PSC) when requested to do so by the Department of Social Protection</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is an Pacáiste Sochar Teaghlaigh pacáiste de liúntais a chabhróidh leat leis na costais a bhaineann le reáchtáil do theaghlach.Tá an pacáiste ar fáil do dhaoine atá os cionn 70 bliain d’aois agus i gcúinsí áirithe do dhaoine atá faoi bhun 70 bliain d’aois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Only one person in a household can qualify for the package at any time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit a bheith ina gcónaí sa Stát agus caithfidh tú clárú le haghaidh Cárta Seirbhísí Poiblí nuair iarrann an Roinn Coimirce Sóisialaí ort é a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must show that you are the registered consumer at the address for which you are applying for the Household Benefits, for example, by providing a utility bill</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir ach le duine amháin i dteaghlach cáiliú le haghaidh an phacáiste uair ar bith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are renting your home, your landlord must provide written confirmation that you are a tenant (including the MPRN or GPRN of the address you are living at) and confirm that you are paying your own energy bills</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má ghlacann tú do chóiríocht ar cíos, ní mór do thiarna talún dearbhú scríofa a sholáthar go tionóntaí thú (lena n-áirítear MPRN nó GPRN an seoladh ina bhfuil tú i do chónaí) agus go n-íocann tú do chuid billí fuinnimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are various commercial websites that allow you to compare energy prices</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ann do láithreáin ghréasáin tráchtála éagsúla a ligeann duit praghsanna fuinnimh a chur i gcomparáid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Commission for Energy Regulation (CER) accredits cost comparison websites if they meet certain standards</seg></tuv>
+  <tuv xml:lang="ga"><seg>Creidiúnóidh an Coimisiún um Rialáil Fuinnimh (CER) láithreáin ghréasáin a dhéanann comparáid idir costais má chomhlíonann siad caighdeáin áirithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can check accredited websites on energycustomers.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat seiceáil a dhéanamh ar láithreáin Ghréasáin creidiúnaithe ar energycustomers.ie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Department of Social Protection has published information on what to do if you are in financial difficulty with your energy bills.   Keeping well and warm in winter</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá faisnéis foilsithe ag an Roinn Coimirce Sóisialaí maidir le cad ba cheart duit a dhéanamh má tá deacracht airgeadais agat le do bhillí fuinnimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are 2 allowances in the Household Benefits Package:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ann do 2 liúntas sa Phacáiste Sochair Teaghlaigh:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The Electricity Allowance or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An Liúntas Leictreachais nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Natural Gas Allowance or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Liúntas Gáis Nádúrtha nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Cash Electricity Allowance or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Liúntas Leictreachais Airgid Thirim nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The Free Television Licence</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An Ceadúnas Teilifíse Saor in Aisce</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Telephone Allowance was discontinued from 1 January 2014</seg></tuv>
+  <tuv xml:lang="ga"><seg>Scoireadh den Liúntas Teileafóin ón 1 Eanáir 2014</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Allowance 1: Electricity/Gas Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Liúntas 1: Liúntas Leictreachais/Gáis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have an electricity or natural gas supply, you can only choose either the Electricity Allowance or the Natural Gas Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más rud é go bhfuil soláthar leictreachais nó soláthar gáis nádúrtha, ní mór duit an Liúntas Leictreachais nó an Liúntas Gáis Nádúrtha a roghnú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Electricity Allowance is paid either as a cash payment directly to you or a cash credit paid against your electricity/ or gas bill to you each month</seg></tuv>
+  <tuv xml:lang="ga"><seg>Creidmheas airgid thirim a íoctar leat gach mí is ea an Liúntas Leictreachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(This only applies to Bord Gais and Electric Ireland only customers.)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfar an t-athrú sin a chur i bhfeidhm maidir le do bhille go huathoibríoch más custaiméir Electric Ireland thú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Following approval of your application for an Electricity Allowance, the Department notifies Electric Ireland, who will apply the allowance, including any backdated credit, on your next or subsequent bill</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tar éis d’iarratas ar Liúntas Leictreachais a fhormheas, tugann an Roinn fógra do Electric Ireland, a chuirfidh an liúntas, lena n-áirítear aon chreidmheas siardhátaithe, i bhfeidhm maidir le do chéad bhille eile nó le bille ina dhiaidh sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The allowance is paid directly to Electric Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íoctar an liúntas go díreach le Electric Ireland</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must pay in the normal way for any electricity you use above the allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit íoc as aon leictreachas a úsáideann tú os cionn an liúntais ar an ngnáthbhealach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your electricity provider is not Electric Ireland, your Electricity Allowance is paid directly to you to use towards your electricity bill</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil Electric Ireland ar an soláthraí leictreachais atá agat, íocfar do Liúntas Leictreachais go díreach leat lena úsáid i leith do bhille leictreachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In this case, the allowance can be paid into your bank account or at your local post office. If you are using a prepaid supplier you will also get a cash payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás seo, is féidir an liúntas a íoc isteach i do chuntas bainc nó ag an oifig phoist atá áitiúil duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you change electricity supplier, it is your responsibility to notify the Department of this change</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más rud é go bhfuil Liúntas Leictreachais á fháil agat cheana agus go n-athraíonn tú do sholáthraí leictreachais, ní gá duit iarratas a dhéanamh arís</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must provide proof of your new energy provider (utility bill in your name) from the change date</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leanfar le do Liúntas Leictreachais a íoc - mar chreidmheas le do bhille le Electric Ireland nó mar íocaíocht airgid thirim le soláthraithe eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Cash Electricity Allowance (paid to people living in self-contained accommodation)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Liúntas Leictreachais Airgid Thirim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may qualify for a monthly Cash Electricity Allowance of €35 (equal to €1.15 per day) if you are living in self-contained accommodation (a flat or apartment), and:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú cáiliú le haghaidh Liúntas Leictreachais Airgid Thirim €35 má tá tú i do chónaí i gcóiríocht fhéinchuimsitheach (árasán nó leithleann), agus más rud é:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You have your own electricity slot meter</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Go bhfuil do mhéadar sliotáin leictreachais féin agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• There are a number of separate electricity meters operating from one meter from an electricity provider and the registered consumer of electricity is a landlord</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gurb ann do roinnt de mhéadair leictreachais ar leith atá ag oibriú ó mhéadar amháin ó sholáthraí leictreachais agus is tiarna talún é an tomhaltóir cláraithe leictreachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• There are no separate meters, but the registered consumer of electricity at your address is a landlord</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Nach ann d’aon mhéadair ar leith, ach is tiarna talún é an tomhaltóir cláraithe leictreachais ag do sheoladh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Cash Electricity Allowance is paid on the first Tuesday of each month to an account in a financial institution, for example, a bank or, if you have a Public Services Card (or social services card), through your local post office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íoctar an Liúntas Leictreachais Airgid Thirim ar an gcéad Mháirt de gach mí le cuntas in institiúid airgeadais, mar shampla, banc nó, más rud é go bhfuil cárta seirbhísí leasa shóisialaigh agat, íocfar é tríd an oifig phoist atá áitiúil duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(Note that if you are being paid through a post office, using a PSC or social services card, you have 90 days to collect your payment.)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Tabhair faoi deara go mbeidh 56 lá agat le d’íocaíocht a bhailiú más rud é go bhfuiltear ag íoc leat trí oifig phoist ag úsáid cárta seirbhísí leasa shóisialaigh.)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Depending on your supplier the Natural Gas Allowance of €35 (equal to €1.15 per day) can be paid as a cash credit on your gas bill or on the first Tuesday of each month to an account in a financial institution or a post office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag brath ar do sholáthraí, is féidir an Liúntas Gáis Nádúrtha €35.00 ((€1.15 gach lá) a íoc mar chreidmheas airgid thirim ar do bhille gáis nó ar an gcéad Mháirt de gach mí le cuntas in institiúid airgeadais nó in oifig phoist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Allowance does not cover the cost of installing a natural gas supply to your home</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chlúdaíonn an Liúntas an costas ar sholáthar gáis nádúrtha chuig do theach a shuiteáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must show proof that you are the registered consumer on the energy bills (MPRN/GPRN). If you are renting and the utility bill is in the landlord’s name, your landlord must provide written confirmation (including the MPRN or GPRN of the address you are living at) that you are a tenant and are paying your own energy bills</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más rud é go n-íoctar an Liúntas mar chreidmheas ar do bhille gáis, tabharfaidh an Roinn fógra do do sholáthraí gáis, a chuirfidh an liúntas i bhfeidhm, lena n-áirítear aon chreidmheas siardhátaithe, maidir leis an dara bille gáis a gheobhaidh tú tar éis an dáta sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you change energy supplier</seg></tuv>
+  <tuv xml:lang="ga"><seg>Liúntas Gáis Airgid Thirim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your home is not connected to an electricity or natural gas supply but you satisfy the conditions of the scheme, you can get the Cash Gas Allowance of €35 (equal to €1.15 per day)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil do theach nasctha chuig soláthar leictreachais nó soláthar gáis nádúrtha ach comhlíonann tú coinníollacha na scéime, is féidir leat an Liúntas Gáis Airgid Thirim €35 (€1.15 gach lá) a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can also claim a Cash Gas Allowance if you use gas which is not delivered through the national grid</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat Liúntas Gáis Airgid Thirim a éileamh freisin má úsáideann tú gás nach soláthraítear tríd an eangach náisiúnta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, in some areas a gas tank may provide gas to a number of individually-metered households</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, i roinnt limistéar, féadann taisceadán gáis gás a chur ar fáil do roinnt tithe a bhfuil a méadar aonair féin acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Cash Gas Allowance is paid on the first Tuesday of each month to an account in a financial institution or a post office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íoctar an Liúntas Gáis Airgid Thirim ar an gcéad Mháirt de gach mí le cuntas in institiúid airgeadais nó in oifig phoist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Carry forward of gas or electricity units</seg></tuv>
+  <tuv xml:lang="ga"><seg>Aonaid gháis nó leictreachais a thabhairt ar aghaidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your monthly allowance of €35 (equal to €1.15 per day) can be carried forward without restriction and can be drawn down at any stage, including if you wish to switch to a different energy provider</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir do liúntas míosúil de €35 (€1.15 gach lá) a thabhairt ar aghaidh gan srianadh agus is féidir é a tharraingt anuas am ar bith, lena n-áirítear más mian leat athrú chuig soláthraí eile fuinnimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Allowance 2: Free Television Licence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Liúntas 2: Ceadúnas Teilifíse Saor in Aisce</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Once you qualify for the Household Benefits Package, you become eligible for a Free Television Licence from the next renewal date of your television licence. You must select the Television Licence option on the form when you apply for the Household Benefits package</seg></tuv>
+  <tuv xml:lang="ga"><seg>A luaithe is a cháilíonn tú le haghaidh an Phacáiste Sochair Teaghlaigh, éiríonn tú incháilithe le haghaidh Ceadúnas Teilifíse Saor in Aisce ón gcéad dáta athnuachana eile de do cheadúnas teilifíse</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you qualify for the Household Benefits Package and have been awarded a Free Television Licence, the Department issues you with a TV licence, and also notifies An Post of your entitlement to a free licence for as long as you are entitled to the Household Benefits Package</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a cháilíonn tú le haghaidh an Phacáiste Sochair Teaghlaigh, eisíonn an Roinn ceadúnas teilifíse duit, agus tugann sí fógra do An Post faoi do theidlíocht i leith ceadúnas saor in aisce fad is atá tú i dteideal an Phacáiste Sochair Teaghlaigh.   Scoireadh den Liúntas Teileafóin ón 1 Eanáir 2014</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You qualify for the Household Benefits Package if you are aged 70 or over</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tú 70 nó ós a chionn  NÓ</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You do not need to be getting a State pension and the package is not means tested</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ag fáil Liúntas Cúramóra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can also qualify for the Household Benefits Package if you meet one of the following conditions and live alone or only with excepted people (see 'Excepted people' below):</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tú ag tabhairt aire do dhuine atá ag fáil Liúntais Gaoil Forordaithe nó Liúntais Freastail Leanúnaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are between 66 and 70 and are getting:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú idir 66 agus 70 agus ag fáil aon cheann acu seo a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Widow's, Widower's or Surviving Civil Partner's (Contributory) Pension</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gnáthphinsean Baintrí Gharda ón Roinn Dlí agus Cirt, agus Comhionannais nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Deserted Wife's Benefit or Allowance • An ordinary Garda Widow's Pension from the Department of Justice and Equality or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Pinsean/Sochar Slandála Sóisialta den chinéal céanna ó thír eile atá clúdaithe ag Rialacha an AE nó ó thír eile a bhfuil Comhaontú Slandála Sóisialta Déthaobhach ag Éire léi</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• An equivalent Social Security Pension/Benefit from a country covered by EU Regulations or from a country with which Ireland has a Bilateral Social Security Agreement</seg></tuv>
+  <tuv xml:lang="ga"><seg>agus má chónaíonn tú i d'aonar nó le daoine faoi leith cáilithe - féach 'Daoine cáilithe' thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are under 66 and are getting:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú faoi 66 agus ceann de na híocaíochtaí seo a leanas dhá fháil agat:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Incapacity Supplement or Workmen's Compensation with Disablement Pension (for at least 12 months)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Forlíonadh Éagumais nó Cúiteamh do Fhir Oibre le Sochar Míthreorach (ar feadh 12 mí ar a laghad)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• An equivalent Social Security Pension/Benefit from a country covered by EU Regulations, or from a country with which Ireland has a Bilateral Social Security Agreement</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Liúntas Míchumais • Pinsean/sochar slandála sóisialta den chinéal céanna ó thír eile atá clúdaithe ag Rialacha an AE nó ó thír eile a bhfuil Comhaontú Slandála Sóisialta Déthaobhach ag Éire léi</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>3. You are caring for a person who is getting Constant Attendance Allowance  4</seg></tuv>
+  <tuv xml:lang="ga"><seg>agus má chónaíonn tú i d'aonar nó le daoine faoi leith cáilithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A qualified adult (your spouse/civil partner/cohabitant is a qualified adult if you are getting an increase for a qualified adult with your payment or you would get an increase but for the fact that they are getting a social welfare payment in their own right)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Aosach cáilithe (is aosach cáilithe do chéile/pairtnéir sibhialta/comhchónaitheoir má tá Méadú i leith Duine Fásta Cáilithe á fháil agat le d’íocaíocht féin, nó dá mba rud é go mbeadh méadú mar sin á fháil agat, ach nach bhfuil, toisc go bhfuil a íocaíocht féin á fáil ag an duine eile)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Dependent child(ren) under the age of 18 or under the age of 22 if in full-time education (a certificate from the school or college must be supplied for those aged 18 or over)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Páist(í) cleithiúnach(a) faoi 18 nó faoi 22 ach ag freastal ar oideachas lán-aimseartha (ní mór teastas a chur ar fáil ón scoil/coláiste dóibh siúd atá 18 nó ós a chionn)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A person who is so incapacitated as to require constant care and attention for at least 12 months (medical certification may be required)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Duine a bhfuil míchumas air/uirthi agus a theastaíonn cúram buan uaidh/uaithi ar feadh 12 mí ar a laghad (d'fhéadfadh sé go mbeadh teastas leighis ag teastáil)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A person(s) who would qualify for the allowance in his/her own right (for example, a person getting an State Pension)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Duine/daoine a bheadh i dteideal an liúntais é/í féin (mar shampla, duine a bhfuil Pinsean Stáit dhá íoc leis/léi)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A person who is providing you or someone in your household with constant care and attention if you or that person is so incapacitated as to require constant care and attention for at least 12 months (medical certification may be required)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Duine a chuireann cúram buan ar fáil duitse nó do dhuine i do líon tí má tá tusa nó an duine eile sin sa líon tí faoi mhíchumas mór agus go dteastaíonn cúram buan uait ar feadh ar a laghad 12 mí (d'fhéadfadh sé go mbeadh teastas leighis ag teastáil)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>People in employment for more than 15 hours per week or people getting Jobseeker's Benefit or Jobseeker's Allowance cannot be accepted as providing constant full-time care and attention</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir glacadh le daoine atá fostaithe ar feadh níos mó ná 15 uair sa tseachtain nó le daoine atá ag fáil Sochar/Liúntas Cuardaitheora Poist mar dhaoine a chuireann cúram buan ar fáil do dhuine eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means on a full time, all- year round basis. The allowances do not apply if you live in a nursing or retirement home where the accommodation is not fully self-contained</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú idir 66 agus 70, má chomhlíonann tú riachtanais scrúdú maoine agus má tá cónaí ort i d'aonar no le aon cheann de na daoine cáilithe thuasluaite</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You must be the registered consumer of electricity or gas if you are applying for an Electricity/Natural Gas Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní mór buanchónaí a bheith ort (ar feadh na bliana ar fad) ag an seoladh lena dteastaíonn uait na liúntais a bheith i bhfeidhm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You must register for the Public Services Card when requested to do so</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní féidir le duine ar bith eile i do líon tí a bheith ag fáil na liúntas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are considered to be living at your permanent address while you are having medical treatment in hospital provided your hospital stay is less than 13 consecutive weeks</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní mór gur tusa an custaiméir cláraithe leis an soláthar leictreachais/gáis nádúrtha má tá éileamh dhá dhéanamh agat ar Liúntas Leictreachais/Gáis Nádúrtha agus an té atá cláraithe leis an soláthraí seirbhíse teileafóin más Liúntas Teileafóin atá dhá éileamh agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may need to provide confirmation of your hospital stay</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Caithfidh tú clárú le haghaidh Cárta Seirbhísí Poiblí nuair iarrtar ort é a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Concession for widowed people or surviving civil partners aged between 60 and 65</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baintreacha (fir nó mná) nó páirtnéirí sibhialta marthanacha atá idir 60 agus 65</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are widowed or a surviving civil partner aged between 60 and 65 and your late spouse or civil partner was getting any Household Benefit allowance from the Department of Social Protection and, before his or her death, you were permanently living together, you can qualify for the Household Benefits Package</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más baintreach (fir nó mná) nó páirtnéir sibhialta marthanach thú atá idir 60 agus 65 agus má bhí do chéile nó páirtnéir sibhialta marbh ag fáil Liúntas Teileafóin agus/nó Liúntas Leictreachais/Gáis Nádúrtha/Buidéal Gáis a Athlíonadh agus/nó Ceadúnas Teilifíse Saor in Aisce ón Roinn Coimirce Sóisialaí roimh a b(h)ás, agus má bhí buanchónaí oraibh lena chéile, d'fhéadfadh sé go mbeadh tusa i dteideal na liúntas faoin Pacáiste Sochar Teaglaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you were under 60 when your spouse or civil partner died this concession applies when you turn 60</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhí tú níos lú ná 60 bliain d’aois nuair fuair do chéile nó do pháirtnéir sibhialta bás, baineann an lamháltas leat nuair a bhainfeá 60 bliain amach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must be getting:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór ceann acu seo a leanas a bheith dhá íoc leat:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Widow's, Widower's or Surviving Civil Partner's (Contributory) or (Non-Contributory) Pension</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Pinsean Baintrí, Baintrí Fir nó Páirtnéara Shibhialta Mharthanaigh (Neamh-Ranníocach)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• One-Parent Family Payment (Widows/Widowers)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Íocaíocht Teaglaigh Aontuismitheora (Baintrí Fir/Mná)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Widow's, Widower's or Surviving Civil Partner's Pension under the Occupational Injuries Benefits Scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Pinsean Baintrí, Baintrí Fir nó Páirtnéara Shibhialta Mharthanaigh faoin Scéim um Shochair Dhíobhálacha Ceirde</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• An equivalent Social Security Pension/Benefit from a country covered by EU Regulations or from a country with which Ireland has a Bilateral Social Security Agreement</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Pinsean/Sochar Slandála Sóisialta den chinéal céanna ó thír eile atá clúdaithe ag Rialacha an AE nó ó thír eile a bhfuil Comhaontú Slandála Sóisialta Déthaobhach ag Éire léi</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• An ordinary Garda Widow's Pension from the Department of Justice and Equality </seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gnáthphinsean Baintrí Gharda ón Roinn Dlí agus Cirt, agus Comhionannais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may have to show documentary evidence proving that your late spouse or civil partner was receiving an allowance under the Household Benefits Scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh sé go mbeadh ort cáipéisí a chur ar fáil mar fhianaise go raibh do chéile nó pháirtnéir sibhialta atá básaithe ag fáil Liúntas Teileafóin agus/nó Liúntas Leictreachais/Gáis Nádúrtha/ar Bhuidéal Gáis a Athlíonadh agus/nó Ceadúnas Teilifíse Saor in Aisce</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Concession for people transferring from Invalidity Pension, Disability Allowance or Blind Pension</seg></tuv>
+  <tuv xml:lang="ga"><seg>Deontas do dhaoine atá ag athrú ó Phinsean Éasláinte, ó Liúntas Míchumais nó ó Phinsean na nDall</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Note that in general if you transfer from any primary payment to become a qualified adult on your spouse, civil partner or cohabitant’s payment you lose your entitlement to the Household Benefits Package (it will be paid to your spouse, civil partner or cohabitant if they qualify)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá Pinsean Éasláinte , Liúntas Míchumais nó Pinsean na nDall dhá íoc leat agus Liúntas Teileafóin agus/nó Liúntas Gáis Nádúrtha/ar Bhuidéal Gáis a Athlíonadh agus/nó Ceadúnas Teilifíse Saor in Aisce, is féidir an Liúntas a choinneáil má athraíonn tú go dtí íocaíocht eile ón Roinn Coimirce Sóisialaí (gan Sochar/Liúntas Cuardaitheora Poist, Sochar Breoiteachta agus Liúntas Réamh-Scoir, Íocaíocht Teaghlaigh Aontuismitheora agus Sochar Cúramóra a bheith san áireamh)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are aged between 66 and 70 and are not receiving a qualifying payment, you must satisfy a means test</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú idir 66 agus 70 agus mura bhfuil tú ag fáil íocaíocht cáilithe ní mór duit tástáil mhaoine a shásamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The means test involves calculating your appropriate weekly means limit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is éard atá i gceist lena leithéid de thástáil mhaoine ná do theorainn acmhainne seachtainiúil a mheas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This limit is based on the current maximum rate of State Pension (Contributory) including increases for age, living alone, and adult/child dependants</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an teorainn seo bunaithe ar ráta uasta reatha an Phinsin Stáit (Ranníocach) mar aon le méaduithe de bharr aoise, cónaí i d'aonair, agus celeithiúnaithe fásta nó leanaí cleithiúnacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your weekly income limit consists of the maximum rate of State Pension (Contributory) plus €100</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é ráta uasta an Phinsin Stáit (Ranníocach) mar aon le €100 do theorainn ioncaim sheachtainiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your weekly means are less than or equal to your weekly income limit, you satisfy the means test and qualify for the Household Benefits Package</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirtear do theorainn ioncaim sheachtainiúil i gcomparáid le do mhaoin seachtainiúil faoi mar a mheastar é nuair a dhéantar an tástáil mhaoine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are applying for the Household Benefits Package on the basis of the means test, a separate means test questionnaire will be posted to you for completion</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sásaíonn tú an tástáil mhaoine má tá do mhaoin sheachainiúil cothrom le do theorainn ioncaim sheachtainiúil nó faoina bhun agus bíonn tú incháilithe don Phacáiste Sochair Teaghlaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You move into residential care</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má athraíonn tú d'áit chónaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you change address and you still satisfy the conditions for the Household Benefits Package, you must re-apply for the package</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má athraíonn tú d'áit chónaithe agus má chomhlíonann tú fós na coinníollacha don Pacáiste Sochar Teaghlaigh ní mór duit iarratas a dhéanamh in athuair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Electricity Allowance │€35 monthly (€1.15 per day) │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Liúntas Leictreachais │€35.00 gach mí (€1.15 gach lá) │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Cash Electricity Allowance │€35 monthly (€1.15 per day) │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Liúntas Leictreachais (Grúpchuntas) │€35.00 gach mí (€1.15 gach lá) │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Natural Gas Allowance │€35 monthly (€1.15 per day) │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Liúntas Gáis Nádúrtha │€35.00 gach mí (€1.15 gach lá) │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Cash Gas Allowance │€35 monthly (€1.15 per day) │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Liúntas le Buidéal Gáis a Athlíonadh │€35.00 gach mí (€1.15 gach lá) │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Television Licence │Once you qualify for the Household Benefits Package, you become eligible for a Free Television Licence from the next renewal date of your television licence (provided you applied for this allowance on your Household Benefits package form)</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Ceadúnas Teilifíse Saor in Aisce │Nuair a bhíonn tú i dteideal na Pacáiste Sochar Teaghlaigh bíonn tú in ann Ceadúnas Teilifíse Saor in Aisce a fháil ó dháta athnuachana do cheadúnas teilifíse</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To apply, fill in form HB1 (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íoslódáil agus comhlánaigh Form HB1 (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can get more information about the Household Benefits Package on the Department's website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh eolais faoi Phacáiste Sochair Teaghlaigh ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Return your completed application form to the Household Benefits Package section:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir duit d’fhoirm iarratais a sheoladh ar ais chuig Rannóg an Phacáiste Sochair Teaghlaigh:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Department of Social Protection</seg></tuv>
+  <tuv xml:lang="ga"><seg>An Roinn Coimirce Sóisialaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Opening Hours:This office does not offer a service to personal callers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Uaireanta Oscailte:Ní thairgeann an oifig seo seirbhís do chuairteoirí pearsanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All queries must be made using the online enquiry form, by telephone or in writing</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh gach ceist a bheith cur isteach tríd an fhoirm fiosraithe ar líne a úsáid, tríd an teileafón nó i scríbhinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can email the Household Benefits Package section using the secure enquiry form</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat ríomhphost don Rannóg an Phacáiste Sochair Teaghlaigh a sheoladh tríd an fhoirm fhiosraithe daingnithe a úsáid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you wish to talk to someone face-to-face about your entitlements, you can visit your local Citizens Information Centre, Intreo Centre or Social Welfare Branch Office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mian leat labhairt duine-le-duine faoi do theidlíochtaí, is féidir leat cuairt a thabhairt ar d'ionad Faisnéise do Shaoránaigh áitiúil, oifig leasa shóisialaigh áitiúil nó ionad Intreo</seg></tuv>
+</tu>
+</body>
+</tmx>

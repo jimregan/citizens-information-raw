@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Who can be forced to be a witness?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cé na daoine gur féidir iallach a chur orthu a bheith ina bhfinnéithe?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The general rule is that anyone who is competent can be compelled (forced) to give evidence in a criminal or civil case</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar riail ghinearálta is féidir iallach a chur ar gach duine inniúil a bheith ina f(h)inné i gcás choiriúil nó sibhialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are a number of circumstances, however, where you cannot be forced to attend and give evidence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach, tá eisceachtaí faoi leith a bhaineann leis an riail seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are the accused in a criminal case you do not have to give evidence in your own defence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir iallach a chur ar an gcúisí fianaise chosanta a thabhairt ar a s(h)on féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you decide not to give evidence in the case, that fact cannot be commented upon by the prosecution to the jury</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéanann cúisí cinneadh gan fianaise a thabhairt sa chás ní féidir leis na cúisitheoirí é sin a rá leis an ngiúiré</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you do opt to give evidence in your trial, you may then be cross-examined by the prosecution and you cannot refuse to answer any question on the grounds that it may incriminate you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má roghnaíonn an cúisí fianaise a thabhairt sa triail, is féidir ansin leis na cúisitheoirí cros-cheistiú a chur air/uirthi agus ní féidir leis/léi diúltú aon cheisteanna a fhreagairt ar fhaitíos go mbeadh sé/sí dhá f(h)éinchiontú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, the prosecution may not ask you questions about your previous bad character unless you have:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach, ní féidir leis na cúisitheoirí aon cheisteanna a chur ar an gcúisí a bhaineann lena d(h)roch cháil san am atá caite ach amháin sa chás go bhfuil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Questioned the character of any prosecution witness or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• fianaise tugtha aige/aici a bhaineann lena d(h)ea-cháil féin nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Given evidence in your own defence against a co-accused</seg></tuv>
+  <tuv xml:lang="ga"><seg>• cáil aon fhinné a bhaineann leis na cúisitheoirí ceistnithe aige/aici nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You cannot be forced to give evidence by the prosecution in their efforts to convict you</seg></tuv>
+  <tuv xml:lang="ga"><seg>• fianaise tugtha ar mhaithe lena c(h)osaint féin i gcoinne comh-chúisí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under Part 4 of the Criminal Evidence Act 1992, if you are the spouse of the accused you are competent to give evidence for either the defence or the prosecution (unless you happen to be a co-accused)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá céile an chúisí inniúil le fianaise a thabhairt ar son na gcosantóirí nó na gcúisitheoirí (ach amháin sa chás gur comh-chúisí é/í an céile)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, you may only be compelled or forced to testify for the prosecution against the accused if:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach, d'fhéadfadh sé go mbeadh iallach curtha air/uirthi fianaise a thabhairt ar son na gcúisitheoirí sa chás amháin:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The offence in question is of violence or the threat of violence to you, your child or the accused’s child, or a person under 17 (includes an adopted child)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• go mbaineann an choir le foréigean i gcoinne an chéile, linbh an chéile nó duine eile atá faoi sheacht mbliana déag d’aois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The offence is a sexual offence in relation to your child, the accused’s child or a person under 17 (includes an adopted child)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• gur coir ghnéis atá i gceist i gcoinne linbh an chéile nó i gcoinne duine atá faoi sheacht mbliana déag d'aois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The offence consists of attempting or conspiring to commit or of aiding, abetting, counselling, procuring or inciting commission of either of the above two offences</seg></tuv>
+  <tuv xml:lang="ga"><seg>• go bhfuil iarracht i gceist ceachtar den dá choir thuasluaite a dhéanamh nó comhcheilg a imirt, cabhrú agus neartú, comhairle a chur ar dhuine, soláthar a dhéanamh nó duine a spreagadh i dtaobh na gcoireanna sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A former spouse is a person who has either got a decree of divorce or judicial separation or who has a separation agreement with the accused</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áirítear mar iarchéilí duine a bhfuil ordú colscartha nó scaradh dlíthiúil nó comhaontú scartha aige leis an gcúisí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are a former spouse you are considered competent and may be forced to testify for the defence or the prosecution</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá iarchéile inniúil le fianaise a thabhairt agus d'fhéadfaí iallach a chur air/uirthi fianaise a thabhairt ar son na gcosantóirí nó na gcúisitheoirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, you cannot be compelled or forced to give evidence against the accused in relation to offences committed while the marriage was still ongoing unless:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach, ní féidir iallach ar chur ar iarchéile fianaise a thabhairt i gcoinne an chúisí a bhaineann le coireanna a rinneadh nuair a bhí an pósadh bailí ach amháin sa chás:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The offence in question is of violence or the threat of violence to you, your child or the accused’s child, or a person under 17 (includes an adopted child)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• go mbaineann an choir le foréigean i gcoinne an chéile, linbh an chéile nó duine eile atá faoi sheacht mbliana déag d'aois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The offence is a sexual offence in relation to your child, the accused’s child or a person under 17 (includes an adopted child)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• gur coir ghnéis atá i gceist i gcoinne linbh an chéile nó i gcoinne duine atá faoi sheacht mbliana déag d'aois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The offence consists of attempting or conspiring to commit or of aiding, abetting, counselling, procuring or inciting commission of either of the above two offences</seg></tuv>
+  <tuv xml:lang="ga"><seg>go bhfuil iarracht i gceist ceachtar den dá choir thuasluaite a dhéanamh nó comhcheilg a imirt, cabhrú agus neartú, comhairle a chur ar dhuine, soláthar a dhéanamh nó duine a spreagadh i dtaobh na gcoireanna sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Diplomatic agents are competent and may give evidence, but they are not obliged to give evidence as witnesses in either criminal or civil proceedings</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá oifigigh thaidhleoireachta inniúil agus is féidir leo fianaise a thabhairt, ach níl aon iallach orthu fianaise a thabhairt mar fhinnéithe in imeachtaí coiriúla ná sibhialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that they cannot be compelled or forced to give evidence in any case</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin ní féidir iallach a chur orthu fianaise a thabhairt in aon chás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For more detailed information you should seek legal advice</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir duit comhairle dlí a lorg chun faisnéis mionsonraithe a fháil</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Taking a civil case</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cás Sibhialta a thógáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Civil cases usually involve private disputes between persons or organizations, such as, disputes involving accidents or breaches of contract </seg></tuv>
+  <tuv xml:lang="ga"><seg>Is gnách go mbíonn díospóidí príobháideacha i gceist le cásanna sibhialta idir daoine nó eagraíochtaí, ar nós, díospóidí ina bhfuil baint ag timpistí nó sáruithe ar chonradh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Before commencing proceedings in your civil case, a number of matters will arise such as instructing a solicitor and the issue of the cost of the case</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sula gcuirtear tús le himeachtaí i do chás sibhialta, tiocfaidh roinnt saincheisteanna aníos, ar nós treoracha a thabhairt d’aturnae agus an cheist a bhaineann le costas an cháis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To commence proceedings, you must issue and serve a written court document called a writ or pleading</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun tús a chur le himeachtaí, ní mór duit cáipéis scríofa chúirte a eisiúint agus a sheirbheáil, ar a dtugtar eascaire nó pléadáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Many cases do not get to court because they are settled in advance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhaineann go leor cásanna an chúirt amach mar gheall go réitítear iad roimh ré</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Our settlement of claims document explains the issues surrounding settlements and lodgements</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mínítear inár gcáipéis, réiteach éileamh na saincheisteanna a bhaineann le réitigh agus lóisteálacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>After the court case, if you are unhappy with the outcome, you can appeal the decision</seg></tuv>
+  <tuv xml:lang="ga"><seg>I ndiaidh chás na cúirte, mura bhfuil tú sásta leis an toradh, féadfaidh tú an cinneadh a achomharc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are taking a case, there are various types of civil claims that you may take to court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá cás á ghlacadh agat, tá roinnt saghsanna d’éilimh shibhialta is féidir leat a ghlacadh chun na cúirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Many civil claims are personal injuries claims that are brought as a result of road traffic accidents, accidents at work and slipping or tripping and falling in a shop, on a road or a public place</seg></tuv>
+  <tuv xml:lang="ga"><seg>Éilimh ar dhíobhálacha pearsanta iad go leor éileamh a dhéantar mar thoradh ar thimpistí um thrácht ar bhóithre, timpistí san ionad oibre agus sleamhnú nó tuisliú nó titim i siopa, ar bhóthar nó in áit phoiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is important to note that you cannot pursue a personal injuries action through the courts without first submitting your claim to the InjuriesBoard.ie process</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is tábhachtach a thabhairt faoi deara nach féidir leat tabhairt faoi chaingean díobhálacha pearsanta trí na cúirteanna gan d’éileamh a sheoladh ar aghaidh chuig próiseas an Bhoird Mheasúnaithe Díobhálacha Pearsanta ar dtús</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may have a claim based on breach of contract or based on a neighbour's interference with your enjoyment of your property - nuisance claims</seg></tuv>
+  <tuv xml:lang="ga"><seg>B’fhéidir go bhfuil éileamh agat bunaithe ar shárú conartha nó má chuir comharsan isteach ort taitneamh a bhaint as do réadmhaoin – éilimh núise</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Another type of case is a claim for damages as a result of defamation, that is, when a person’s reputation is injured as a result of the publication by any means, orally or in writing, of untruths about the person</seg></tuv>
+  <tuv xml:lang="ga"><seg>Saghas eile d’éileamh is ea éileamh ar dhamáistí mar thoradh ar chlúmhilleadh, is é sin, nuair a bhaintear den cháil atá ar dhuine mar thoradh ar neamhfhírinní faoin duine a fhoilsiú ar aon bhealach, ó bhéal nó i scríbhinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may have a claim in relation to ownership of land or you may require the court to sort out arrangements in respect of marital breakdown</seg></tuv>
+  <tuv xml:lang="ga"><seg>B’fhéidir go bhfuil éileamh agat maidir le húinéireacht talún nó b’fhéidir gur féidir leat iarraidh ar an gcúirt socruithe a eagrú maidir le cliseadh pósta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Whether your case is heard in the District Court, the Circuit Court or the High Court will depend on the value of your case, that is, how much you claim the defendant should pay you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Braithfidh cibé acu an éistear le do chás sa Chúirt Dúiche, sa Chúirt Chuarda nó san Ard-Chúirt ar luach do cháis, is é sin, cé mhéid a éilíonn tú ar cheart don chosantóir a íoc leat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have been injured in an accident, the value of your case will be assessed by your legal representatives by considering doctors' reports about the nature and extent of your injuries and the prognosis for the future</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má gortaíodh thú i dtimpiste, déanfaidh d’ionadaithe dlí measúnú ar do chás trí bhreithniú a dhéanamh ar thuairiscí dochtúirí faoi chineál agus méid do chuid díobhálacha agus an phrognóis don todhchaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The District Court has power to award up to €15,000 in damages</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an chumhacht ag an gCúirt Dúiche a mhéid le €15,000 a bhronnadh ort i ndamáistí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Circuit Court has power to award up to €75,000 in damages</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an chumhacht ag an gCúirt Dúiche a mhéid le €75,000 a bhronnadh ort i ndamáistí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The High Court has unlimited power to award damages</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá cumhacht neamhtheoranta ar an Ard-Chúirt chun damáistí a bhronnadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is important to note that, if your case is heard in Circuit Court and you are awarded less than €15,000 in damages or in the High Court and you are awarded less than €75,000 in damages, you may be penalised in costs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is tábhachtach a thabhairt faoi deara, má éistear le do chás sa Chúirt Chuarda agus má bhronntar níos lú ná €15,000 ort i ndamáistí nó má éistear le do chás san Ard-Chúirt agus má bhronntar níos lú ná €75,000 i ndamáistí, féadtar pionós a ghearradh ó thaobh costas de</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that even though you have won your case, you may be obliged to pay the extra costs incurred by both sides by having the case heard in the higher court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn seo, fiú má d’éirigh leat i do chás, b’fhéidir go mbeidh dualgas ort na costais bhreise a thabhaigh an dá thaobh mar gheall gur éisteadh leis an gcás sa chúirt ní b’uachtaraí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Time limits for actions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Teorainneacha ama le haghaidh caingne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The time limits for commencing proceedings are legislated for in the Statute of Limitations 1957</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar na teorainneacha ama chun tús a chur le himeachtaí a reachtú i Reacht na dTréimhsí, 1957</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the Civil Liability &amp; Courts Act 2004, a personal injuries claim must be commenced within 2 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoin Acht um Dhiteanas Sibhialta agus Cúirteanna, 2004, ní mór tús a chur le héileamh ar dhíobhálacha pearsanta laistigh de 2 bhliain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A claim based on nuisance, that is, where a person has interfered with your enjoyment of your property, must be brought within 3 years of the nuisance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór éileamh atá bunaithe ar núis, is é sin, nuair a chuir duine isteach ar an taitneamh a bhaineann tú as do réadmhaoin, a dhéanamh laistigh de 3 bliana tar éis na núise</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A claim based on breach of contract must be brought within 6 years of the breach</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór éileamh bunaithe ar shárú conartha a dhéanamh laistigh de 6 bliana tar éis an tsáraithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A claim based on defamation must be brought within 1 year of the publication</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór éileamh bunaithe ar chlúmhilleadh a dhéanamh laistigh de 1 bhliain tar éis an fhoilsithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Cases relating to land generally must be brought within 12 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór cásanna a bhaineann le talamh a dhéanamh go ginearálta laistigh de 12 bhliain</seg></tuv>
+</tu>
+</body>
+</tmx>

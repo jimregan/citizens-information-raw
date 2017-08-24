@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Case study: Calculating deferrals of Local Property Tax (LPT)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cás-staidéar: Iarchur Cáin Mhaoine Áitiúil (CMÁ) a Dheimhniú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Example 1: Couple (no outstanding mortgage) who qualify for full deferral</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sampla 1: Lánúin (morgáiste ar bith gan íoc) a cháilítear le haghaidh iarchur iomlán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Seán and Eileen are married and owner-occupiers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Seán agus Eibhlín pósta agus is úinéirí lonnaitheacha iad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They have calculated that their LPT liability for 2015 is €405</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rinne siad a ríomh gurb ionann a ndliteanas don CMÁ le haghaidh 2015 agus €405</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Their estimated gross income for 2014 is €23,000</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ionann a n-ollioncam measta le haghaidh 2014 agus €23,000</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They are under the limit (€25,000) to qualify for a full deferral so they can decide to opt for a full deferral of their LPT liability</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéanann siad an cinneadh chun iarchur iomlán a fháil i leith a ndliteanais CMÁ, ba cheart dóibh rogha an iarchuir iomláin a roghnú ar a dtuairisceán CMÁ</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A charge for the deferred amount, including interest, will be placed on the property</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gearrfar muirear ar an méid iarchurtha, lena n-áirítear ús, ar an maoin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Example 2: Single person (no outstanding mortgage) who qualifies for partial deferral</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sampla 2: Duine singil (morgáiste ar bith gan íoc) a cháilítear le haghaidh iarchur páirteach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Emma is single and an owner-occupier</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bean shingil í Emma agus is úinéir lonnaitheach í</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>She has calculated that her LPT liability for 2015 is €315</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ríomh sí gurb ionann a dliteanas CMÁ le haghaidh 2015 agus €315</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Her estimated gross income for 2014 is €18,000</seg></tuv>
+  <tuv xml:lang="ga"><seg>B’ionann a hollioncam measta le haghaidh 2014 agus €18,000</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Therefore her gross income is over the limit (€15,000) to qualify for a full deferral but under the limit (€25,000) to qualify for a partial (50%) deferral</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar an ábhar sin, sáraíonn a hollioncam an teorainn (€15,000) chun cáiliú le haghaidh iarchur iomlán, ach tá sé faoin teorainn (€25,000) chun cáiliú d’iarchur páirteach (50%)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If Emma decides to opt for a partial deferral she must confirm which payment option she will use to pay the balance of her LPT (€157.50)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéanann Emma an cinneadh chun iarchur páirteach a dliteanais CMÁ a fháil, ba cheart di rogha an iarchuir pháirtigh a roghnú ar a tuairisceán CMÁ agus a dheimhniú cén rogha íocaíochta a úsáidfidh sí chun iarmhéid a CMÁ (€157.50) a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A charge for the deferred amount, including interest, will be placed on the property</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gearrfar muirear ar an méid iarchurtha, lena n-áirítear ús, ar an maoin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Example 3: Single person (with mortgage) who qualifies for partial deferral</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sampla 3: Duine singil (a bhfuil morgáiste acu) a cháilítear le haghaidh iarchur páirteach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Ross is single and an owner-occupier</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fear singil é Ross agus is úinéir lonnaitheach é</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He has calculated that his LPT liability for 2015 is €202</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ríomh sé gurb ionann a dhliteanas CMÁ le haghaidh 2015 agus €202</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>His estimated gross income for 2014 is €27,000 and his anticipated gross mortgage interest for 2014 is €6,000</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ionann a ollioncam measta le haghaidh 2014 agus €27,000 agus is ionann a ollús morgáiste le haghaidh 2014 agus €6,000</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To qualify for a full deferral Ross’s gross income must not exceed €15,000 plus 80% of his gross mortgage interest:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun cáiliú d’iarchur iomlán, níor cheart go sáródh ollioncam Ross €15,000 móide 80% dá ollús morgáiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Gross income threshold: €15,000 + 80% of Ross’s gross mortgage interest (80% of €6,000): € 4,800</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tairseach ollioncaim: €15,000 + 80% d’ollús morgáiste Ross (80% de €6,000): €4,800</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Ross’s adjusted income threshold for full deferral = €19,800</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tairseach choigeartaithe ioncaim Ross le haghaidh iarchur iomlán = €19,800</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As Ross’s gross income (€27,000) is greater than his full deferral adjusted income threshold (€19,800) he does not qualify for a full deferral</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar gheall go sáraíonn ollioncam Ross (€27,000) a thairseach choigeartaithe le haghaidh iarchur iomlán (€19,800), ní cháilítear é d’iarchur iomlán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, he may qualify for a partial deferral</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach b’fhéidir go gcáileofaí é le haghaidh iarchur páirteach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To qualify for a partial deferral Ross’s gross income must not exceed €25,000 plus 80% of his gross mortgage interest:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun cáiliú d’iarchur páirteach, níor cheart go sáródh ollioncam Ross €25,000 móide 80% dá ollús morgáiste:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Gross income threshold: €25,000 + 80% of Ross’s gross mortgage interest (80% of €6,000): €4,800</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tairseach ollioncaim: €25,000 + 80% d’ollús morgáiste Ross (80% de €6,000): €4,800</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Ross’s adjusted income threshold for partial deferral = €29,800</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tairseach choigeartaithe ioncaim Ross le haghaidh iarchur páirteach = €29,800</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As Ross’s gross income (€27,000) is less than his partial deferral adjusted income threshold (€29,800) he qualifies for a partial (50%) deferral</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar gheall nach sáraíonn ollioncam Ross (€27,000) a thairseach choigeartaithe le haghaidh iarchur páirteach (€29,800), cáilítear é d’iarchur páirteach</seg></tuv>
+</tu>
+</body>
+</tmx>

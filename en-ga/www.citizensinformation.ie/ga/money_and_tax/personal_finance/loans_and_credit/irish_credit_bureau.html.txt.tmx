@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Credit history - the Irish Credit Bureau</seg></tuv>
+  <tuv xml:lang="ga"><seg>Stair chreidmheasa - Biúró Creidmheasa na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Irish Credit Bureau (ICB) is the biggest credit-referencing agency in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é Biúró Creidmheasa na hÉireann (BCÉ) an ghníomhaireacht is mó tagairt creidmheasa in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Local authorities are also members</seg></tuv>
+  <tuv xml:lang="ga"><seg>Comhlacht prímháideach atá ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Membership does not include utility companies or retail outlets</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is leis na baill é agus is iad a dhéanann é a mhaoiniú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The ICB maintains a database of information on the performance of credit agreements, such as mortgages; car loans; other personal loans; leasing agreements; hire purchase agreements and credit cards</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann BCÉ faisnéis a chothabháil maidir le feidhmíocht chomhaontuithe creidmheasa idir iasachtaithe agus institiúid airgeadais. San áireamh i gcomhaontuithe creidmheasa tá morgáistí; iasachtaí cairr agus pearsanta; comhaontuithe leasa; ceannach ar chíos agus cártaí creidmheasa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It does not monitor overdraft agreements, with the exception of overdraft agreements that are the subject of legal proceedings</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní dhéanann BCÉ monatóireacht ar chomhaontuithe rótharraingte ach amháin sa chás go bhfuil cás cúirte i gceist maidir le rótharraingt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Lenders usually send information to the ICB on a monthly basis</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seolann na h-institiúidí iasachta faisnéis chuig BCÉ go míosúil, go hiondúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Each time you apply for credit from an ICB member, they can access your credit file to check your performance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gach uair a dhéanann tú iarratas ar chreidmheas ó bhall BCÉ, breathnaíonn an institiúid sin ar an dtaifead creidmheasa a bhaineann leat le fáil amach cén chaoi ar éirigh leat cheana in aon chomhaontú creidmheasa a bhí agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Typically, your repayment history over a 24-month period is included in this credit report, including where you may have missed payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh stair d'aisíocaíochtaí le 24 mhí anuas ar an dtaifead, babhtaí gur theip ort íocaíocht a dhéanamh san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The lender can ask the ICB for a credit score or credit rating, calculated on the basis of your credit history</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh an t-iasachtóir grádú creidmheasa a éileamh ó BCÉ, a ríomhtar ar bhun do thaifid chreidmheasa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have come to an agreement with your lender to postpone repayments, this will not affect your credit rating</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéanann tú socrú leis an iasachtóir íocaíochtaí a chur ar athló, ní chuirfidh seo isteach ar do ghrádú creidmheasa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can view a sample credit report (pdf) on the ICB's website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sampla den chineál taifead creidmheasa (pdf) a bhíonn dhá choinneáil ag BCÉ anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Credit cards and credit history</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cártaí creidmheasa agus stair chreidmheasa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The ICB records credit card repayment performance on a monthly basis but, due to the nature of credit cards, you also get an additional 30 days before any negative information about your performance is recorded</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann BCÉ measúnú ar fheidhmíocht chártaí creidmheasa ar bhonn míosúil. Mar gheall ar a mbíonn i gceist le cártaí creidmheasa, gheobhaidh tú 30 lá breise sula ndéanfar taifeadadh ar eolas diúltach faoi do thaifead</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Access to your records</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fáil ar do thaifead féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the Data Protection Acts 1988 and 2003 (pdf), you are entitled to inspect your credit record</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi na hAchtanna um Chosaint Sonraí, 1988 agus 2003 (pdf), tá tú i dteideal scrúdú a dhéanamh ar do thaifead pearsanta féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the information stored about you is incorrect, you are entitled to have it amended and, in certain circumstances, you may also have the right to have it removed from your file</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá an t-eolas ar do thaifead míchruinn, tá sé de cheart agat é a leasú, agus i gcúinsí faoi leith é a bhaint amach as an dtaifead</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you wish to have inaccurate information on your credit record amended, contact the lender concerned and ask them to forward the correct information to the ICB</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mian leat eolas míchruinn ar do thaifead creidmheasa a leasú, téigh i dteagmháil le d'iasachtóir agus iarr orthu an t-eolas cruinn a sheoladh chuig BCÉ</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The ICB cannot change the information unless asked to do so by the relevant lender</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir le BCÉ an taifead a athrú ach amháin tar éis dóibh iarratas a fháil ó iasachtóir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your request for access to your personal credit information is ignored or your request for a correction of inaccurate information is refused, you can complain to the Data Protection Commissioner, who has legal powers to ensure that your rights are protected</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna bhfaigheann tú aon fhreagra ar iarratas breathnú ar do thaifead creidmheasa pearsanta, nó má dhiúltaítear duit eolas míchruinn a cheartú, is féidir leat gearán a chur chuig an Coimisinéir Cosanta Eolais, a bhfuil cumhachtaí dleathúla aige le cinntiú go ndéantar do chearta a chosaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In addition, if you suffer damage through the mishandling of personal information held on computer, you may be entitled to claim compensation through the courts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéantar damáiste duit de bharr droch láimsheáil eolais phearsanta atá coinnithe fút ar ríomhaire d'fhéadfadh sé go mbeadh tú in ann éileamh ar chúiteamh a dhéanamh tríd na cúirteanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Adding a personal declaration to your credit record</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dearbhú pearsanta a chur le do thaifead creidmheasa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is possible to add a personal statement to your credit record to clarify it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir ráiteas pearsanta a chur le do thaifead creidmheasa chun é a shoiléiriú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, if you have incurred significant costs due to relationship breakdown, bereavement, illness or another cause, you may add these details to your record</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, má tá costais shuntasacha tabhaithe agat (tar éis mar shampla briseadh caidrimh, méala, breoiteacht, timpiste, nó a leithéid) féadfaidh tú sonraí a chur le do thaifead creidmheasa á chur sin in iúl</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The text of the note must be less than 200 words, must be relevant to matters contained in the record and must not be frivolous, vexatious or denigratory</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh téacs an nóta a bheith níos lú ná 200 focal agus a bheith ábhartha do chúrsaí atá sa taifead agus ní fhéadfaidh sé a bheith suaibhreosach, cráiteach nó lochtach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The ICB will attach this personal declaration to your file and it can be viewed when your data is accessed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann BCÉ an dearbhú pearsanta sin ansin ar do chomhad agus féadfar é a fheiceáil nuair a fhaightear rochtain ar do shonraí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, lenders are not obliged to take your statement into account while checking your credit history when assessing you for a loan</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach níl sé d’oibleagáid ar iasachtóirí do ráiteas a ghlacadh san áireamh agus iad ag athbhreithniú ar do stair chreidmheasa nuair atáthar do do mheas le haghaidh iasachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>How long is my credit history recorded for?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cén t-achar a bheidh taifead ann de mo stair chreidmheasa?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Irish Credit Bureau’s database will only hold information about you if you have had an active loan in the past 5 years and if your lender has provided information to the ICB</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní choimeádfaidh bunachar sonraí BCÉ faisnéis fút ach má bhí iasacht ghníomhach agat le 5 bliana anuas agus má sholáthair d’iasachtóir faisnéis don BCÉ</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All records remain on the database for 5 years once the loan has been closed, whether you repaid the debt or not</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fanann gach taifead ar bhunachar sonraí an BCÉ ar feadh 5 bliana chomh luath is a bheidh an cuntas tugtha chun críche, fiú má ndearna tú aisíocaíocht ar an bhfiacha nó má theip ort do chuid íocaíochtaí a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Can I get past bad credit details removed from my credit record?</seg></tuv>
+  <tuv xml:lang="ga"><seg>An féidir liom droch-shonraí creidmheasa a bhí agam roimhe seo a ghlanadh ó mo thaifead creidmheasa?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Yes, but only if these details are incorrect</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir, ach amháin má tá na sonraí seo mícheart</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All lenders are obliged to provide an honest and truthful record of your credit agreements and transactions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé d’oibleagáid ar gach iasachtóir taifead fíor ionraic a thabhairt de do chuid comhaontuithe agus idirbhearta creidmheasa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This record will include details of bad debts or failures to repay</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirfear sonraí maidir le droch-fhiacha nó teip aisíocaíochta a dhéanamh sa thaifead seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Note that, when you initially apply for a loan of any kind, you will have to sign a consent form, which states that you are aware that a record of your repayments on this loan will be kept and will form part of your credit history</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a dhéanann tú iarratas ar iasacht d’aon chineál ar dtús, iarrtar ort foirm toilithe a shíniú a luann go dtuigeann tú go gcoinneofar stair de do chuid aisíocaíochtaí agus go mbeidh sí mar chuid de do stair chreidmheasa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can get a copy of your credit record by applying online to the Irish Credit Bureau and paying €6</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir cóip ded' thaifead creidmheasa a fháil trí iarratas a dhéanamh ar líne agus an táille de €6 a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For security reasons, it will be posted out to you. It will not be emailed</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Tabhair ar aird go gcuirfear do thaifead creidmheasa sa phost chugat agus ní chuirfear i ríomhphost chugat é (ar chúiseanna slándála)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Alternatively, you can download a Personal Enquiry Form (pdf) or request an application form from the ICB</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nó féadfaidh tú Foirm Fhiosrúcháin Phearsanta (pdf) a íoslódáil agus a úsáid chun iarratas a dhéanamh sonraí a fháil faoi do thaifead creidmheasa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Send the completed application form with payment of €6 to the address below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir ach aon chuardach amháin a dhéanamh in aghaidh an iarratais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Only 1 search can be conducted per application, and the ICB takes about 3 or 4 days to process each one</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tosaítear ag próiseáil an iarratais nuair a fhaigheann BCÉ d’fhoirm agus go hiondúil tógann sé thart ar 3 nó 4 lá an fhoirm a phróiseáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The report that the ICB issues will display a unique reference number</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a fhaigheann tú an tuairisc ó BCÉ, beidh uimhir thagartha shainiúil le feiceáil air</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may then contact the ICB to discuss your report, quoting this unique number</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú dul i dteagmháil le BCÉ chun do thuairisc a phlé, ach ná déan dearmad d’uimhir shainiúil a lua</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You cannot discuss your credit record with the ICB by phone until you have received the report</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ag an gcéim seo amháin, a fhéadfaidh tú do thuairisc chreidmheasa a phlé le BCÉ ar an teileafón</seg></tuv>
+</tu>
+</body>
+</tmx>

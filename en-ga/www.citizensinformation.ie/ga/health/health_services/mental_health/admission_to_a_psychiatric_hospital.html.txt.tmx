@@ -1,0 +1,317 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Admission to a psychiatric hospital</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ospidéal síciatrach a iontráil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Admission to an approved psychiatric centre</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ionad faofa síciatrach a iontráil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are suffering from a mental disorder, you may go into a psychiatric hospital or unit voluntarily, or you may be committed as an involuntary patient</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ag fulaingt le meabhairghalar, féadfaidh tú féin ospidéal nó aonad síciatrach a iontráil ar bhonn deonach, nó is féidir thú a chur ann i gcoinne do thola mar othar neamhdheonach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The vast majority of admissions are voluntary – this means that you freely agree to go for treatment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iontrálacha deonacha iad formhór mór na n-iontrálacha – ciallaíonn seo go ndéanann tú comhaontú toiliúil iontráil ann go gcuirfear cóireáil ort</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Voluntary psychiatric patients are not completely free to leave psychiatric care and may be detained for a period and may then be involuntarily detained</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhíonn sé go hiomlán faoi othair shíciatracha dheonacha cúram síciatrach a fhágáil, agus féadtar iad a choimeád ar feadh tréimhse agus iad a choimeád ina dhiaidh sin, i gcoinne a dtola</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are detailed rules about the detention of patients involuntarily</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá rialacha sonracha ann faoi othair a choimeád i gcoinne a dtola</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The rules about admission to psychiatric hospitals or units are set out in the Mental Health Act 2001</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagtar amach na rialacha faoi ospidéil nó aonaid a iontráil san Acht Meabhair-Shláinte 2001</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These rules apply in the same way to public and private psychiatric facilities</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann na rialacha seo ar an mbealach céanna le háiseanna poiblí agus príobháideacha síciatracha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Act requires that psychiatric hospitals and units be registered as approved psychiatric centres</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceanglaíonn an tAcht go gcláraítear ospidéil agus aonaid shíciatracha mar aonaid fhaofa shíciatracha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the Mental Health Act 2001, when people are admitted or are receiving treatment in approved centres (that is, psychiatric hospitals or inpatient services), their best interests should be considered before any decision about their care and treatment is made</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoin Acht um Meabhairshláinte, 2001, nuair a thugtar cead isteach do dhaoine go hionaid fhaofa nó nuair atá cóir leighis á cur orthu in ionaid fhaofa (is é sin, ospidéil shíciatracha nó seirbhísí othair chónaithigh), ba cheart a leas is fearr a chur san áireamh sula ndéantar aon chinneadh faoina gcúram agus faoin gcóireáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They should be included in discussions with their care team about where their best interests lie to help them with their recovery</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart iad a áireamh i bpé a dhéantar lena bhfoireann chúraim faoin méid atá i gceist lena leas is fearr chun cabhrú leo lena n-athshlánú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Patients have the right to be treated with dignity and respect and the right to be listened to by all those working on their care team</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an ceart ag othair go gcaitear leo le dínit agus le meas agus tá an ceart acu go n-éisteann gach duine díobh siúd atá ag oibriú ar a bhfoireann chúraim leo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They are entitled to take part in decisions that affect their health and their care team should consider their views carefully</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá siad i dteideal páirt a ghlacadh i bplé a dhéanann difear dá sláinte agus ba cheart dá bhfoireann chúraim breithniú cúramach a dhéanamh ar a dtuairimí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They have the right to be fully informed about their legal rights, their admission and treatment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an ceart acu go gcuirtear ar an eolas go hiomlán iad faoina gcearta dlíthiúla, a gcead isteach agus a gcóireáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The rules about entitlement to in-patient services and about any charges for such services are the same as for general hospitals</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ionann na rialacha a bhaineann le teidlíocht do sheirbhísí othair chónaithigh agus faoin aon mhuirir a ghearrtar ar na seirbhísí siúd agus na rialacha a bhaineann le hospidéil ghinearálta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can read more in this guide to the Mental Health Act 2001 that explains your rights under mental health law</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú níos mó a léamh sa treoir seo maidir leis an Acht um Meabhairshláinte, 2001 a mhíníonn do chuid ceart faoin dlí um meabhairshláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Voluntary admission to a psychiatric hospital or unit occurs in much the same way as admission to a general hospital</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar ospidéal nó aonad síciatrach a iontráil nach mór ar an mbealach céanna a dhéantar ospidéal ginearálta a iontráil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Referral may be made by your GP or consultant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh do LG nó do chomhairleach thú a atreorú ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Unlike patients in general hospitals, you are not always completely free to leave psychiatric care when you wish</seg></tuv>
+  <tuv xml:lang="ga"><seg>Murab ionann othair in ospidéil ghinearálta, ní bhíonn sé fút féin i gcónaí cúram síciatrach a fhágáil nuair is mian leat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are a voluntary patient who wants to leave a psychiatric centre and the consultant psychiatrist or a doctor or nurse on the staff considers that you are suffering from a mental disorder, the professional may detain you for a maximum of 24 hours</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más othar deonach thú agus más mian leat ionad síciatrach a fhágáil agus má mheasann an síciatraí comhairleach nó dochtúir nó altra i measc na foirne go bhfuil tú thíos le neamhord meabhrach, féadfaidh an gairmeach thú a choimeád ar feadh 24 uair ar a mhéid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the voluntary patient is a child and the parents or guardian want to remove them, the professional may have the child detained and placed in the custody of the Health Service Executive (if the professional considers that the child is suffering from a mental disorder)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más leanbh an t-othar deonach agus más mian leis na tuismitheoirí nó an caomhnóir é/í a thabhairt abhaile, féadfaidh an gairmeach a ordú go gcoimeádtar an leanbh agus go gcuirtear é/í faoi choinneáil FSS (má mheasann an gairmeach go bhfuil an leanbh thíos le neamhord meabhrach)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>After 24 hours, the consultant psychiatrist must then either discharge you or arrange for an examination by another consultant psychiatrist</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don síciatraí comhairleach thú a scaoileadh abhaile nó scrúdú a shocrú a dhéanfaidh síciatraí comhairleach eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The second consultant must issue a certificate stating that you should be detained because of a mental disorder or must discharge you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don dara comhairleach deimhniú a eisiúint ina luaitear gur cheart thú a choimeád mar gheall ar neamhord meabhrach nó ní mór dóibh thú a scaoileadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are detained, then you are an involuntary patient and all the procedures relating to information, review and appeal apply in the usual way</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má choimeádtar thú, is othar neamhdheonach thú agus bíonn na nósanna imeachta go léir i gceist a bhaineann le faisnéis, athbhreithniú agus achomharc ar an ngnáthbhealach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can read more in our document on the rights of psychiatric patients</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir léigh tuilleadh inár ndoiciméad faoi chearta othar síciatrach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the Mental Health Act 2001, you may be involuntarily admitted and detained in an approved psychiatric centre if you are suffering from a mental disorder</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoin Acht Meabhair-Shláinte 2001, féadtar thú a chur agus a choimeád in ionad faofa síciatrach i gcoinne do thola má tá tú thíos le neamhord meabhrach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may not be admitted purely because you are suffering from a personality disorder, are socially deviant or addicted to drugs or intoxicants</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní fhéadtar thú a chur ann díreach mar gheall go bhfuil tú thíos le neamhord pearsantachta, go bhfuil tú claonaíoch go sóisialta nó go bhfuil tú tugtha do dhrugaí nó do dheochanna meisciúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Act defines mental disorder as mental illness, severe dementia or significant intellectual disability where:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sainítear san Acht neamhord meabhrach mar thinneas meabhrach, néaltrú tromchúiseach nó míchumas tromchúiseach intleachtach:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Because of the illness, disability or dementia, there is a serious likelihood that you may cause immediate and serious harm to yourself or to other people or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gurb é is dóichí, mar gheall ar an tinneas, an míchumas nó an néaltrú, go ndéanfaidh tú díobháil láithreach agus thromchúiseach duit féin nó do dhaoine eile nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Because of the severity of the illness, disability or dementia, your judgement is so impaired that your condition could get worse if you were not admitted to hospital for treatment that could only be given to you in hospital and going into hospital would be likely to improve your mental health significantly</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Mar gheall ar thromchúise an tinnis, an mhíchumais nó an néaltraithe, tá do bhreithiúnas chomh lagaithe sin, gur dócha go n-éireodh do riocht i bhfad ní ba mheasa nó go gcuirfí cosc ar an gcóireáil oiriúnach leighis a chur ort nach bhféadfaí a chur ort murach gur iontráil thú agus gur glacadh isteach thú, agus gur dhócha go rachadh sé chun do shochair nó go maolódh sé do riocht thú a choimeád agus cóireáil a chur ort in ionad faofa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Mental illness means a state of mind which affects your thinking, perceiving, emotion or judgment and which seriously impairs your mental function to the extent that you require care or medical treatment in your own interest or in the interest of other people</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn tinneas meabhrach staid intinne a imríonn tionchar ar do smaointeoireacht, braistint, mothúcháin nó do bhreithiúnas agus a lagaíonn d’fheidhm mheabhrach go mór an méid sin go dteastaíonn cúram nó cóireáil leighis uait ar mhaithe leat féin nó ar mhaithe le daoine eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Severe dementia means a deterioration of the brain which significantly impairs your intellectual function and affects thought, comprehension and memory and which includes severe psychiatric or behavioural symptoms such as physical aggression</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn géarnéaltrú meath na hinchinne a lagaíonn go mór d’fheidhm intleachtach agus a imríonn tionchar ar mhachnamh, thuiscint agus ar chuimhne agus lena n-áirítear comharthaí síciatracha nó iompraíochta, ar nós ionsaí fisiciúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Significant intellectual disability’ means a state of arrested or incomplete development of the mind which includes significant impairment of intelligence and social functioning and abnormally aggressive or seriously irresponsible conduct</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn míchumas suntasach intleachtach staid fhorbairt bhactha nó neamhiomlán na hintinne, lena n-áirítear lagú suntasach éirime agus feidhmiú sóisialta agus iompar ionsaitheach neamhghnách nó iompar atá an-mhí-fhreagrach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Application for involuntary admission</seg></tuv>
+  <tuv xml:lang="ga"><seg>Iarratas a dhéanamh ar iontráil neamhdheonach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An application for the involuntary admission of an adult may be made to a registered medical practitioner by a spouse, civil partner or relative, an authorised officer, a Garda or any other person</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh céile nó gaol, oifigeach údaraithe, Garda nó aon duine eile, iarratas a dhéanamh ar iontráil neamhdheonach duine fhásta a dhéanamh ar chleachtóir cláraithe leighis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An authorised officer is an officer of the Health Service Executive (HSE) who is designated by the Chief Executive Officer of the HSE for the purposes of making such applications</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is oifigeach d’Fheidhmeannacht na Seirbhíse Sláinte (FSS) oifigeach údaraithe, arna shannadh ag Príomhoifigeach Feidhmiúcháin FSS ar mhaithe leis na hiarratais sin a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This does does not include a separated spouse or civil partner or one against whom an application or order under the Domestic Violence Act has been made</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní áirítear le ‘céile’ céile idirscartha nó aon chéile a ndearnadh iarratas nó ordú faoin Acht um Fhoréigean Baile ina leith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The following people may not make an application:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leis na daoine a leanas iarratas a dhéanamh:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Anyone aged under 18</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Duine ar bith faoi bhun 18 mbliana d’aois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• An authorised officer or Garda who is a relative of the person concerned or that person's spouse</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Oifigeach údaraithe nó Garda atá mar ghaol leis an duine atá i gceist nó céile an duine sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A member of the governing body (not including a member of the HSE) or staff of the approved centre concerned</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Comhalta den chomhlacht rialaithe (seachas comhalta de FSS) nó foireann an ionaid fhaofa atá i gceist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Anyone who has an interest in the payments to be made to the approved centre</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Duine ar bith ar spéis leo na híocaíochtaí atá le déanamh leis an ionad faofa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Any medical practitioner who provides a regular medical service to the centre</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Aon chleachtóir leighis a sholáthraíonn seirbhís rialta leighis don ionad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The spouse, parent or other close relative of any of the people specifically mentioned above</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Céile, tuismitheoir nó neasghaol eile le haon duine de na daoine a luaitear go sonrach thuas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The person applying musrt have seen the person whose admission is sought within the 48 hours prior to making the application</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níor mhór go raibh an duine a bhfuil an t-iarratas á dhéanamh acu, i gcuideachta an duine dá lorgaítear an iontráil, laistigh de 48 uair an chloig sula ndéantar an t-iarratas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the application is being made by 'any other person', the application must include a statement of the reasons why it is being made, the connection of the applicant to the person whose admission is proposed and the circumstances in which the application is made</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá an t-iarratas á dhéanamh ag ‘aon duine eile’, ní mór go n-áireofar leis an iarratas ráiteas ina luaitear na cúiseanna lena bhfuil an t-iarratas á dhéanamh, an gaol atá idir an t-iarratasóir agus an duine a bhfuil a iontráil á bheartú agus na cúinsí faoina bhfuil an t-iarratas á dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a Garda has reasonable grounds for believing that a person is suffering from a mental disorder and that, because of the disorder, there is a serious likelihood of the person causing immediate and serious harm to themselves or another person, the Garda may take the person into custody</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá údair réasúnta ag Garda a chreidiúint go bhfuil duine thíos le neamhord meabhrach agus, mar gheall ar an neamhord, gur dócha go mór go ndéanfaidh an duine díobháil láithreach agus thromchúiseach dó/di féin nó do dhuine eile, féadfaidh an Garda an duine a chur faoi choimeád</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If necessary, the Garda may use force to enter the premises where it is believed that the person is</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más gá, féadfaidh an Garda fórsa a úsáid chun an t-áitreabh a iontráil ina meastar go bhfuil an duine sin ina c(h)ónaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Garda must then go through the normal application procedure for involuntary detention in an approved centre</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don Gharda, ina dhiaidh sin, an gnáthnós imeachta a leanúint le haghaidh iarratais ar choimeád neamhdheonach in ionad faofa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the Garda's application is refused, the person must be released immediately</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhiúltaítear iarratas an Gharda, ní mór an duine a scaoileadh láithreach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the application is granted, the Garda must remove the person to the approved centre</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dheonaítear an t-iarratas, ní mór don Gharda an duine a thabhairt go dtí an t-ionad faofa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If it is proposed that you be involuntarily admitted to an approved centre, you must be examined by a medical practitioner (who is not a relative and is not involved with an approved centre) within 24 hours of the making of an application</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bheartaítear go n-iontráiltear thú isteach i gcoinne do thola go dtí ionad faofa, ní mór do chleachtóir leighis scrúdú a dhéanamh ort (nach gaol leat é/í agus nach bhfuil aon bhaint aige/aici le hionad faofa) laistigh de 24 uair an chloig tar éis iarratas a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The doctor must tell you the purpose of the examination unless they consider that such information would prejudice your mental health, well being or emotional condition</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don dochtúir cuspóir an scrúdaithe a insint duit mura measann sé nó sí go mbainfeadh an fhaisnéis sin de do shláinte mheabhrach, de d’fholláine nó de do riocht mhóthúchánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the doctor considers that you are suffering from a mental disorder, they make a recommendation that you be involuntarily admitted to an approved centre (other than the Central Mental Hospital)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má mheasann an dochtúir go bhfuil tú thíos le neamhord meabhrach, molann sé nó sí go gcuirtear thú i gcoinne do thola go hionad faofa (seachas an tOspidéal Lárnach Mearbhaill)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This recommendation remains in force for 7 days</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh an moladh seo i bhfeidhm ar feadh seacht lá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the application is refused and a subsequent application is made, the applicant is obliged to inform the doctor about the previous application, if aware of it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhiúltaítear an t-iarratas agus má dhéantar iarratas ina dhiaidh sin, tá dualgas ar an iarratasóir an dochtúir a chur ar an eolas faoin iarratas a rinneadh roimhe seo, má bhíonn an t-iarratasóir ar an eolas air</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Removal to an approved centre</seg></tuv>
+  <tuv xml:lang="ga"><seg>Duine a thabhairt go hionad faofa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In general, the applicant is responsible for taking the person to the centre</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, is é an t-iarratasóir a bhíonn freagrach as an duine a thabhairt go dtí an t-ionad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If this is not possible, then the doctor who made the recommendation may ask the clinical director of the centre or a consultant psychiatrist acting on their behalf to arrange for the person to be brought to the centre by the staff</seg></tuv>
+  <tuv xml:lang="ga"><seg>Murar féidir seo a dhéanamh, féadfaidh an dochtúir a rinne an moladh iarraidh ar dhochtúir cliniciúil an ionaid nó ar shíceolaí comhairleach a ghníomhaíonn ar a s(h)on na socruithe a dhéanamh go dtabharfaidh an fhoireann an duine go dtí an t-ionad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If necessary, the Gardai may be asked to help</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más gá, féadtar iarraidh ar na Gardaí cabhrú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In this situation, the Gardai have the power to enter premises by force and may detain or restrain the patient if necessary</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás seo, tá sé de chumhacht ag na Gardaí áitreabh a iontráil le fórsa agus féadfaidh siad an t-othar a chur faoi choimeád nó srian, más gá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Admission to an approved psychiatric centre</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ionad faofa síciatrach a iontráil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you are received at an approved psychiatric centre, you must be examined by a consultant psychiatrist on the staff</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a ghlactar leat ag ionad faofa síciatrach, ní mór do shíceolaí comhairleach den fhoireann scrúdú a dhéanamh ort</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may be detained for a maximum of 24 hours in the centre for this examination</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadtar thú a choimeád ar feadh 24 uair an chloig ar a mhéid san ionad ar mhaithe le tabhairt faoin scrúdú seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the psychiatrist is satisfied that you are suffering from a mental disorder, they then make an admission order</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá an síceolaí sásta go bhfuil tú thíos le neamhord meabhrach, déanann sé/sí an t-ordú um iontráil neamhdheonach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the psychiatrist is not satisfied that you are suffering from a mental disorder, you must be released immediately</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil an síceolaí sásta go bhfuil tú thíos le neamhord meabhrach, ní mór thú a scaoileadh láithreach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The admission order is valid for 21 days</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn an t-ordú iontrála bailí ar feadh 21 lá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It authorises your reception, detention and treatment in the centre for this period</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann sé do ghlacadh, coimeád agus cóireáil san ionad don tréimhse seo a údarú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A renewal order may extend this period by a further 3 months</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh ordú athnuachana an tréimhse seo a shárú de bhreis ar 3 mhí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This must be made by the consultant psychiatrist responsible and they must have examined you in the week before making the order</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don síceolaí comhairleach atá freagrach seo a dhéanamh agus níor mhór go ndearna sé/sí scrúdú ort sa tseachtain sula ndearnadh an t-ordú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A further renewal order may be made by the same psychiatrist for a period of 6 months and subsequently for 12 months at a time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh an síceolaí céanna ordú breise athnuachana a dhéanamh ar feadh tréimhse 6 mhí agus 12 mhí ina dhiaidh sin, in aon bhabhta amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are provisions for the review of all admission orders. You can read more in our document on the rights of psychiatric patients</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá forálacha ann i dtaca le hathbhreithniú a dhéanamh ar gach ordú iontrála – is féidir léigh tuilleadh inár ndoiciméad faoi chearta othar síciatrach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The HSE may apply for the involuntary admission of a child who is suffering from a mental disorder</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh FSS iarratas a dhéanamh ar iontráil neamhdheonach linbh atá thíos le neamhord meabhrach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Such an application must be made to the District Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór an t-iarratas sin a dhéanamh ar an gCúirt Dúiche</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The court will order a psychiatric examination and may then make an order that the child be admitted to an approved centre for a maximum of 21 days, which may be extended</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ordóidh an chúirt scrúdú síciatrach agus déanfaidh siad ordú, ina dhiaidh sin, go dtabharfar cead isteach don leanbh go dtí ionad faofa ar feadh 21 lá, ar féidir é seo a shíneadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Specific approval by the court is required if it is proposed to carry out psycho-surgery or electro-convulsive therapy on a child with a mental disorder</seg></tuv>
+  <tuv xml:lang="ga"><seg>Teastaíonn faomhadh sonrach ón gcúirt má bheartaítear tabhairt faoi shíocomháinliacht nó faoi theiripe leictreabhaoth-thonnach ar leanbh ar a bhfuil neamhord meabhrach</seg></tuv>
+</tu>
+</body>
+</tmx>

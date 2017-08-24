@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Most Read in "Employment"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ábhar is mó éilimh i "Fostaíocht"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Rest periods and breaks</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tréimhsí sosa agus sosanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Tax and starting work - PAYE</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gnó a chur ar bun</seg></tuv>
+</tu>
+</body>
+</tmx>

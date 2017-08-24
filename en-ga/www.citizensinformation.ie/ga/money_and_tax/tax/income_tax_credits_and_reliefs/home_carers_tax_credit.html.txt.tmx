@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Home Carer's Tax Credit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Creidmheas Cánach do Chúramóirí Baile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A Home Carer’s Tax Credit is a tax credit given to married couples or civil partners (who are jointly assessed for tax) where one spouse or civil partner works in the home caring for a dependent person</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is creidmheas cánach é Creidmheas Cánach do Chúramóirí Baile a thugtar do chúplaí pósta (a mheastar i gcomhpháirt lena chéile i gcomhair cánach) nuair atá céile amháin ag obair sa bhaile ag tabhairt cúraim do dhuine cleithiúnach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The tax you are liable to pay is calculated as a percentage of your income</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ríomhtar an cháin a bhfuil tú faoi dhliteanas é a íoc mar chéatadán den ioncam atá agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A tax credit is deducted from this to give the actual amount of tax that you have to pay</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baintear creidmheas cánach as seo, rud a fhágann an méid iarbhír cánach a chaithfidh tú a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A tax credit has the effect of reducing your payable tax by the amount of the credit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an tionchar a bhíonn ag creidmheas cánach ná do cháin iníoctha a laghdú de méid an chreidmheasa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read more information on how your tax is calculated</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cliceáil anseo le tuilleadh eolais a fháil faoin gcaoi a ríomhtar do cháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A Home Carer’s Tax Credit can be claimed when:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar Creidmheas Cánach do Chúramóirí Baile do:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The married couple or civil partners are jointly assessed for tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cúplaí pósta a mheastar i gcomhpháirt lena chéile i gcomhair cánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• One spouse or civil partner works in the home caring for one or more dependent people</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bíonn céile amháin ag obair sa bhaile ag tabhairt cúraim do dhuine cleithiúnach amháin nó níos mó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The home carer’s own income is under €7,200. A reduced tax credit applies if the carer's income is between €7,200 and €9,400</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bíonn ioncam an chúramóra baile faoi bhun €5,080 sa bhliain chánach ina bhfuil an t-éileamh á dhéanamh agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Carer’s Allowance or Carer's Benefit are not taken into account when determining the home carer’s income but they are taxable sources of income</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní thógtar Liúntas Cúramóra san áireamh nuair atá ioncam an chúramóra baile á shocrú ach is foinse ioncaim inchánach í</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that if you are claiming Carer's Allowance or Carer's Benefit, it will make up part of your jointly assessed income</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn sé seo n-áireofar é san ioncam a mheastar i gcomhpháirt le do chéile más rud é go bhfuil tú ag éileamh Liúntais Cúramóra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Who is a dependent person?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cé atá ina d(h)uine cleithiúnach?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A dependent person is a:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is duine cleithiúnach é:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Child for whom Child Benefit is payable</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Linbh lena bhfuil Sochar Leanaí iníoctha dó/di</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Person aged 65 or over</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Duine 65 bhliana d'aois nó níos mó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Person with a disability who requires care</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Duine le míchumas a bhfuil cúram ag teastáil uaidh/uaithi</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A dependent person you are caring for cannot be a spouse or civil partner</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leis an duine cleithiúnach a bhfuil tú ag tabhairt cúraim dó/di a bheith ina c(h)éile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They can however, be a relative by marriage, or someone for whom you act as a legal guardian</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leo a bheith ina ghaol de bharr pósta, nó duine lena bhfuil tú ag gníomhú mar chaomhnóir dlíthiúil áfach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Does a relative have to live with us to be a dependent person?</seg></tuv>
+  <tuv xml:lang="ga"><seg>An gcaithfidh gaol a bheith ina chónaí linn le bheith ina dhuine cleithiúnach?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The dependent person normally has to live with you and your spouse or civil partner in the tax year in order to quality for Home Carer's Tax Credit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go hiondúil caithfidh an duine cleithiúnach a bheith ina chónaí leat agus le do chéile sa bhliain chánach le bheith incháilithe don Chreidmheas Cánach do Chúramóirí Baile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A dependent person who is a relative can be cared for outside your home</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach is féidir cúram a thabhairt do dhuine cleithiúnach atá ina ghaol agat taobh amuigh de do bhaile mar sin féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if the person is not living with you they must live next door in a neighbouring residence, or on the same property, or within 2 km of your home</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil an duine ina chónaí leat, áfach, caithfidh siad a bheith ina chónaí béal dorais in áras cónaithe in aice leat, nó sa réadmhaoin céanna, nó taobh istigh de 2km ó do theach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In addition, there must be a direct communication link between you (for example, a telephone line or alarm system)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chomh maith leis seo, caithfidh nasc cumarsáide díreach a bheith eadraibh (mar shampla, líne teileafóin nó córas aláraim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Home Carer’s Tax Credit for 2017 is €1,100</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é €810 an Creidmheas Cánach do Chúramóirí Baile i 2015</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the home carer earns income of up to €7,200 in their own right for the tax year, the full tax credit may be claimed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Laghdaítear an creidmheas cánach de leath d'ioncam an chúramóra baile a sháraíonn an teorainn seo. (Féach an sampla thíos)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if the income exceeds €7,200, the difference between the actual income and €7,200 is calculated and then halved. The Home Carer's Tax Credit is then reduced by that amount</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bheidh cúramóir baile le hioncam bliantúil de €6,000 incháilithe do Chreidmheas Cánach do Chúramóirí Baile iomlán ach beidh sé/sí incháilithe do chreidmheas cánach laghdaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the home carer's income is €9,400 or more during 2017 then you cannot claim the tax credit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Laghdaítear ráta uasta an Chreidmheasa Cánach do Chúramóirí Baile de réir an méid sin ansin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You cannot claim the Standard Rate Cut-Off Point for dual income couples and the Home Carer’s Tax Credit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir éileamh a dhéanamh ar Phointe Scoite an Ráta Chaighdeánaigh do chúpla le dhá ioncam agus ar an gCreidmheas Cánach do Chúramóirí Baile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your local tax office will help you to determine which is better for you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cabhróidh d'oifig chánach áitiúil leat fáil amach cé acu a thugann an leas in mó duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can see more examples of calculations in Revenue's IT66 leaflet</seg></tuv>
+  <tuv xml:lang="ga"><seg>Conas iarratas a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can claim Home Carer's Tax Credit by using PAYE Anytime, which is available through Revenue's myAccount Service. You can also complete Home Carer’s Tax Credit IT 66 claim form (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat an fhoirm éilimh IT 66 Creidmheas Cánach do Chúramóirí Baile (pdf) a íoschóipeáil freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Applications for the Home Carer's Tax Credit should be made to Revenue</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir iarratais don Chreidmheas Cánach do Chúramóirí Baile a dhéanamh chuig na gCoimisinéirí Ioncaim</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>In June 2012, the European Council decided to create a banking union that would allow for centralised supervision and resolution for banks in the euro area</seg></tuv>
+  <tuv xml:lang="ga"><seg>I Meitheamh 2012, rinne an Coimisiún Eorpach an cinneadh chun aontas baincéireachta a chruthú a cheadódh maoirseacht agus réiteach láraithe a dhéanamh do bhainc i limistéar an euro</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The intention was to ensure that banks are stronger and better supervised and, should problems arise in the financial sector, they can be resolved more easily and without using taxpayers' money</seg></tuv>
+  <tuv xml:lang="ga"><seg>B’éard a bhí ar intinn a dhéanamh ná a chinntiú go bhfuil bainc níos treise agus go ndéantar maoirseacht níos fearr orthu agus, sa chás go dtagann fadhbanna chun solais san earnáil airgeadais, is féidir iad a réiteach níos fusa agus gan airgead cáiníocóirí a úsáid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The banking union (pdf) is made up of a Single Supervisory Mechanism and a Single Resolution Mechanism, both of which are mandatory for all euro area member states and open to all other countries in the EU</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is éard atá san aontas baincéireacht (pdf) ná Sásra Maoirseachta Aonair agus Sásra Réitigh Aonair, a bhfuil an dá cheann díobh éigeantach do gach ballstát de limistéar an euro agus atá oscailte do gach tír eile san AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is also a set of common rules for banks in all EU member states, known as the single rulebook</seg></tuv>
+  <tuv xml:lang="ga"><seg>Anuas air sin, tá sraith rialacha coiteanna ann do bhainc i ngach ballstát an AE, ar a dtugtar an leabhar rialacha aonair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Single Supervisory Mechanism (SSM) became operational in November 2014</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rinneadh sásra oibríochtúil den Sásra Maoirseachta Aonair (SMA) i Samhain 2014</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the SSM, the European Central Bank (ECB) is the banking supervisor for all banks in the euro area and is directly responsible for supervising the approximately 123 largest banking groups</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoin SMA, is é an Banc Ceannais Eorpach (BCE) an maoirseoir baincéireachta do gach banc i limistéar an euro agus tá siad freagrach go díreach as maoirseacht a dhéanamh ar na tuairim is 123 grúpa baincéireachta is mó dá bhfuil ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The national supervisors, such as the Central Bank of Ireland, continue to monitor the remaining banks</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leanann na maoirseoirí náisiúnta, ar nós Bhanc Ceannais na hÉireann, le monatóireacht a dhéanamh ar na bainc eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The main tasks of the ECB and the national supervisors, working closely together, are to check that banks comply with the EU banking rules and to tackle problems early on</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad príomhthascanna an BCE agus na maoirseoirí náisiúnta, a oibríonn go dlúth lena chéile, a sheiceáil go gcomhlíonann na bainc rialacha baincéireachta an AE agus go dtéann siad i ngleic le fadhbanna a luaithe is féidir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>While the role of the SSM is to make bank failures less likely, the role of the Single Resolution Mechanism (SRM) is to ensure an orderly resolution of failing banks with minimal costs for taxpayers and to the real economy</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cé gurb ionann ról an SMA chun an dóchúlacht a laghdú go dteipfidh ar bhainc, is é ról an tSásra Réitigh Aonair (SRA) réiteach ordúil banc a bhfuil ag teip orthu a chinntiú agus a chinntiú nach mbíonn ar cháiníocóirí agus an fíorgheilleagar íoc as costais íosta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The SRM covers banks overseen by the SSM</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuimsíonn an SRA bainc atá faoi mhaoirsiú an SMA</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It has been operational since the beginning of 2015 and will be fully operational (with a complete set of resolution powers) from January 2016</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an SRA oibríochtúil ó thús 2015 agus beidh sé go hiomlán oibríochtúil (le sraith iomlán cumhachtaí) ó Eanáir 2016</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The SRM is made up of a board, the Single Resolution Board and a fund, the Single Resolution Fund</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá bord, an Bord Réitigh Aonair agus ciste, an Ciste Réitigh Aonair san SRA</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Once informed by the ECB that a bank is in trouble, the Single Resolution Board (SRB) is responsible for taking most decisions on the best course of action and preparing for the resolution of the failing bank</seg></tuv>
+  <tuv xml:lang="ga"><seg>A luaithe a chuireann an BCE in iúl go bhfuil banc i dtrioblóid, tá an an Bord Réitigh Aonair (BRA) freagrach as formhór na gcinntí a dhéanamh ar an gcúrsa gnímh is fearr agus ullmhú a dhéanamh do réiteach an bhainc a bhfuil ag teip air</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Board is also responsible for managing the Single Resolution Fund</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an Bord freagrach, chomh maith, as an gCiste Réitigh Aonair a bhainistiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Single Resolution Fund (SRF) is financed by all the banks in the banking union countries</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann gach banc i dtíortha an aontais bhaincéireachta an Ciste Réitigh Aonair (CRA) a mhaoiniú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For situations when the SRF is not sufficiently funded by the banking sector, a backstop will be developed, which will facilitate borrowing by the SRF</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcásanna nach ndéanann an earnáil bhaincéireachta an CRA a chistiú go leordhóthanach, forbrófar cúlstop, a éascóidh iasachtú ag an CRA</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The euro area banking sector will ultimately be liable for the SRF repayments by means of levies</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh earnáil bhaincéireachta limistéar an euro faoi dhliteanas, faoi dheoidh, as aisíocaíochtaí an CRA trí thobhaigh a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Both the supervisory and resolution mechanisms are underpinned by a set of common rules known as the single rulebook</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sraith rialacha coiteanna ar a dtugtar an leabhar rialacha aonair mar bhonn agus taca leis na meicníochtaí maoirseachta agus réitigh araon</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The single rulebook is the foundation of the banking union</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é bunchloch an aontais bhaincéireachta an leabhar rialacha aonair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It consists of a set of legislative texts that all financial institutions in the EU must comply with</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sraith téacsanna reachtaíochta atá ann nach mór do gach institiúid airgeadais san AE cloí leo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These rules, among other things, lay down capital requirements for banks, ensure better protection for depositors, and regulate the prevention and management of bank failures</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagann na rialacha, i measc rudaí eile, ceanglais chaipitil do bhainc, cinntíonn siad cosaint níos fearr do thaisceoirí, agus rialaíonn siad cosc agus bainistiú teipeanna ar bhainc</seg></tuv>
+</tu>
+</body>
+</tmx>

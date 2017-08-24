@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Special Criminal Courts relate to criminal trials only</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann Cúirteanna Coiriúil Speisialta le trialacha coiriúil amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They are established where the ordinary courts are inadequate to secure the effective administration of justice and the preservation of public peace and order</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bunaítear iad áit nach bhfuil na gnáthchúirteanna oiriúnach chun riaradh éifeachtach dlí agus cirt agus cosaint síochána poiblí a chinntiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The present Special Criminal Court was established in 1972 and comprises three judges of the ordinary courts - usually one High Court judge, one Circuit Court Judge and District Court Judge</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is i 1972 a bunaíodh an Chúirt Choiriúil Speisialta atá ann faoi láthair agus tá sí déanta suas de trí bhreitheamh ó na gnáth chúirteanna - go hiondúil breitheamh ón Ard Chúirt, breitheamh ón gCúirt Chuarda agus breitheamh ón gCúirt Dúiche</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is no jury in the Special Criminal Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon ghiúré sa gCúirt Choiriúil Speisialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Special Criminal Court has no civil jurisdiction</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon dhlínse sibhialta ag an gCúirt Choiriúil Speisialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Criminal cases are transferred from the ordinary criminal courts to the Special Criminal Court if:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Aistrítear cásanna ó na gnáthchúirteanna coiriúil go dtí an Chúirt Choiriúil Speisialta:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The offence in question is a scheduled offence</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Nuair is coir sceidealta atá sa gcoir atá i gceist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Cases involving a scheduled offence generally involve subversive crime and are automatically transferred to the Special Criminal Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcásanna ina bhfuil coir sceidealta is iondúil go mbíonn coir treascrach i gceist agus téann siad seo i gcónaí chuig an gCúirt Choiriúil Speisialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The current list of scheduled offences includes:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar an liosta coireanna sceidealta tá:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>-offences under Part 7 of the Criminal Justice Act 2006 (excluding conspiracy)</seg></tuv>
+  <tuv xml:lang="ga"><seg>- cionta faoin Chuid 7, Acht um Cheartas Coiriúil 2006</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>- offences under the Explosive Substances Act 1883</seg></tuv>
+  <tuv xml:lang="ga"><seg>- cionta faoin Acht um Substaintí Pléascacha 1883</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>- offences under the Firearms Acts 1925 to 2006</seg></tuv>
+  <tuv xml:lang="ga"><seg>- cionta faoin Acht Arm tine 1925 go 1990</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>- offences under the Offences against the State Acts 1939 to 1998</seg></tuv>
+  <tuv xml:lang="ga"><seg>- cionta faoin Acht um Choireanna i gCoinne an Stáit 1939 go 1998</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The offence in question is not a "scheduled offence" but the Director of Public Prosecutions issues a certificate stating that in his/her opinion, the ordinary courts are inadequate to secure the administration of justice and the preservation of public peace and order</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Nuair nach "coir sceidealta" atá sa choir atá i gceist ach go n-eisíonn an Stiúrthóir Ionchúiseamh Poiblí teastas ag dearbhú, ina thuairim, nach bhfuil na gnáthchúirteanna feiliúnach chun riaradh dlí agus cirt agus cosaint síochána poiblí a chinntiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Once such a certificate is issued, the case must be transferred from the ordinary court to the Special Criminal Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a eisíotar teastas den chinéal, caithtear an cás a aistriú ón gnáthchúirt go dtí an Cúirt Choiriúil Speisialta</seg></tuv>
+</tu>
+</body>
+</tmx>

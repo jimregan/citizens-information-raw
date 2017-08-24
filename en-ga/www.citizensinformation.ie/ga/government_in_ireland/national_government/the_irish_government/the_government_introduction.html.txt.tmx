@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>The Government is the group of senior ministers responsible for the executive power of the State</seg></tuv>
+  <tuv xml:lang="ga"><seg>Grúpa Airí sinsearacha atá sa Rialtas atá freagrach as cumhacht fheidhmeannach an Stáit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that the Government is responsible for giving effect to laws</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn sé seo go gcaithfidh an Rialtas dlíthe na tíre a chur i bhfeidhm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can view this list of current Government Ministers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá liosta Airí Rialtais ar fáil anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Government is also often described as the Cabinet or the Executive</seg></tuv>
+  <tuv xml:lang="ga"><seg>Úsáidtear an téarma Comh-aireacht nó Coiste Gnóthaí anois agus arís nuair a bhíonn an Rialtas i gceist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Government decides major questions of policy and carries out a number of different and important functions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann an Rialtas cinneadh maidir le polasaithe agus bíonn freagrachtaí tábhachtacha eile orthu freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can read more information in our documents, The Government and Dáil Eireann and Composition of the Government</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh faisnéise ar fáil inár ndoiciméad, An Rialtas agus Dáil Éireann agus Comhdhéanamh an Rialtais</seg></tuv>
+</tu>
+</body>
+</tmx>

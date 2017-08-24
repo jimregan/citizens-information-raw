@@ -1,0 +1,405 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Part-time work and social insurance (PRSI)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fostaíocht pháirtaimseartha agus árachas sóisialach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Part-time workers over 16 years of age and earning over €38 in each PRSI contribution week are liable to contribute to social insurance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá dliteanas ar fhostaithe páirtaimseartha os cionn 16 bliana d'aois a shaothraíonn os cionn €38 i gach seachtain ÁSPC ranníocaíochtaí árachais shóisialaigh a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is called Pay Related Social Insurance (PRSI) because the amount of social insurance you pay depends on your earnings and the type of work you do</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cinneann nádúr na fostaíochta agus an méid comhlán a thuilleann an fostaí an méid árachais shóisialaigh atá le híoc, mar sin, Árachas Sóisialach Pá-Choibhneasa a thugtar air</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are a part-time worker you may not be making the maximum amount of PRSI contributions each year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar fhostaí páirtaimseartha, tá seans ann nach bhfuil an t-uasmhéid ranníocaíochtaí ÁSPC á déanamh agat gach bliain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The tax year and the PRSI contribution week start 1 January every year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tosaíonn an bhliain chánach ar 1 Eanáir gach bliain agus mar sin tosaíonn an tseachtain ranníocaíochta (ÁSPC) ar an lá céanna, 1 Eanáir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As a result, the PRSI contribution week can differ from the working week</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin, féadann an tseachtain oibre ÁSPC a bheith éagsúil ón seachtain ranníocaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are in part-time work you need to be fully aware of the possible effect this can have on your social insurance entitlements</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú i bhfostaíocht pháirtaimseartha, tá sé tábhachtach go dtabharfá suntas de seo mar d'fhéadfadh sé tionchar a imirt ar do theidlíochtaí leasa shóisialaigh laistigh den chóras árachais shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In general, you pay a PRSI contribution in respect of each PRSI contribution week in which you work. You must be working on at least 1 day in each PRSI contribution week in order to pay a contribution</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar an Déardaoin a thiteann 1 Eanáir 2015, mar sin ritheann gach seachtain ranníocaíochta don bhliain sin ón an Máirt go dtí an Luan</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your work pattern is week-on, week-off, Monday to Friday, you miss paying PRSI in every second PRSI contribution week, as you are not working at all during each of those weeks</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má oibríonn tú cuid de gach seachtain idir an Luan agus an Satharn mar chuid den socrú oibre páirtaimseartha, déanfaidh tú na 52 ranníocaíocht ÁSPC iomlána do 2015</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In this situation, you would pay only 26 contributions in the year.   Similarly, if your pattern is Monday to Friday for 3 weeks, with 1 week off, you would pay 39 contributions in the year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áfach, má oibríonn tú seachtain scoilte (le seachtain ag obair agus seachtain shaor) a thosaíonn ar an Déardaoin, ní bhronnfar ach ranníocaíochtaí 26 seachtaine ort i 2014</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if you work Wednesday to Friday in one week, followed by Monday and Tuesday the next, you will pay the full 52 contributions in the year, as you will have worked during each Monday-Sunday PRSI contribution week</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má thosaíonn do sheachtain scoilte ar aon lá eile, gheobhaidh tú 52 seachtain ranníocaíochtaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In 2017, 1 January fell on a Sunday. This means that each PRSI contribution week runs from Sunday to Saturday</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar an Céadaoin a thiteann 1 Eanáir 2014, mar sin ritheann gach seachtain ranníocaíochta don bhliain sin ón an Máirt go dtí an Luan</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However if you work a split week which starts on a Thursday you will only get 26 weeks of contributions in 2015. If your split week starts on any other day you will get the full 52 weeks of contributions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má oibríonn tú cuid de gach seachtain idir an Luan agus an Satharn mar chuid den socrú oibre páirtaimseartha, déanfaidh tú na 52 ranníocaíocht ÁSPC iomlána do 2014</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your part-time work arrangement required that you work part of every week between the days Monday to Saturday, you will have received your full 52 PRSI contributions for 2014. However if you worked a split week which starts on a Wednesday you will only get 26 weeks of contributions in 2014</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áfach, má oibríonn tú seachtain scoilte (le seachtain ag obair agus seachtain shaor) a thosaíonn ar an Céadaoin, ní bhronnfar ach ranníocaíochtaí 26 seachtaine ort i 2014</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your split week starts on any other day you will get the full 52 weeks of contributions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má thosaíonn do sheachtain scoilte ar aon lá eile, gheobhaidh tú 52 seachtain ranníocaíochtaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In 2013, 1 January fell on a Tuesday which meant that each PRSI contribution week ran from Tuesday to Monday</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar an Máirt a thiteann 1 Eanáir 2013, mar sin ritheann gach seachtain ranníocaíochta don bhliain sin ón an Máirt go dtí an Luan</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In 2012, 1 January fell on a Sunday which meant that each PRSI contribution week ran from Sunday to Saturday</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar an Domnach a thiteann 1 Eanáir 2012, mar sin ritheann gach seachtain ranníocaíochta don bhliain sin ón Domnach go dtí an Satharn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In 2011, 1 January fell on a Saturday which meant that each PRSI contribution week ran from Saturday to Friday</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar an Satharn a thiteann 1 Eanáir 2011, mar sin ritheann gach seachtain ranníocaíochta don bhliain sin ón Aoine go dtí an Déardaoin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In 2010, 1 January fell on a Friday which meant that that each PRSI contribution week ran from Friday to Thursday</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar an Aoine a thiteann 1 Eanáir 2010, mar sin ritheann gach seachtain ranníocaíochta don bhliain sin ón Aoine go dtí an Déardaoin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Afternoons only │52 │ ├──────────────────────────────────┼───────────────────────────┤ │Working week on/off │52 │ │(Monday-Friday) │ │</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a thiteann an 1 Eanáir ar an Luan, ní mór a bheith ar an airdeall má tá tú fostaithe go páirtaimseartha agus má tá seachtain iomlán saor agat mar chuid den phátrún oibre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>├──────────────────────────────────┼───────────────────────────┤ │Working week on/off (starting any │52 │ │day except Friday) │ │</seg></tuv>
+  <tuv xml:lang="ga"><seg>Toisc nach mbeidh tú ag obair ar feadh seachtaine ní bheidh an deis agat ranníocaíocht ÁSPC a dhéanamh don seachtain sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>├──────────────────────────────────┼───────────────────────────┤ │Working a fixed split week that │26 │ │starts on Friday │ │</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá pátrún oibre ag duine ina bhfuil seachtain oibre agus ansin seachtain saor aige/aici, ní dhéanfaidh sé/sí ach 26 ranníocaíocht don bhliain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Work pattern │Maximum total PRSI │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Pátrún oibre │Uasmhéid ranníocaíochtaí ÁSPC │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│ │contributions for 2015 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│ │iomlána do 2015 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│4 days every week │52 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│4 lá in aghaidh na seachtaine │52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│3 weeks on/1 week off (Mon-Fri) │52 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│3 seachtain oibre ann/seachtain │52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Working day 9am - 3pm │52 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│3 lá (na laethanta céanna gach │52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│3 days (same days each week) │52 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│2 lá (na laethanta céanna gach │52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│1 day (same day each week) │52 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│lá amháin (an lá céanna gach │52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Afternoons only │52 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Maidineacha amháin │52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Working week on/off (Monday-Friday)│52 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Iarnónta amháin │52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Working week on/off (starting any │52 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Ag obair seachtain ann/as │52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Working a fixed split week that │26 │ │starts on Thursday │ │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Ag obair seachtain scoilte go seasta │52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Work pattern │Maximum total PRSI │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Pátrún oibre │Uasmhéid ranníocaíochtaí ÁSPC │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│ │contributions for 2014 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│ │iomlána do 2014 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│4 days every week │52 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│4 lá in aghaidh na seachtaine │52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│3 weeks on/1 week off (Mon-Fri) │52 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│3 seachtain oibre ann/seachtain │52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Working day 9am - 3pm │52 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│3 lá (na laethanta céanna gach │52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│3 days (same days each week) │52 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│2 lá (na laethanta céanna gach │52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│1 day (same day each week) │52 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│lá amháin (an lá céanna gach │52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Afternoons only │52 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Maidineacha amháin │52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Working week on/off (Monday-Friday)│52 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Iarnónta amháin │52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Working week on/off (starting any │52 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Ag obair seachtain ann/as │52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│starts on Wednesday │ │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Ag obair seachtain scoilte go seasta │52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Work pattern │Maximum total PRSI contributions│</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Pátrún oibre │Uasmhéid ranníocaíochtaí ÁSPC │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│4 days every week │52 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│4 lá in aghaidh na seachtaine │52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│3 weeks on/1 week off │52 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│3 seachtain oibre ann/seachtain │52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Working day 9am - 3pm │52 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│3 lá (na laethanta céanna gach │52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│3 days (same days each week) │52 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│2 lá (na laethanta céanna gach │52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│2 days (same days each week) │52 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│lá amháin (an lá céanna gach │52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Mornings only │52 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Maidineacha amháin │52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Afternoons only │52 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Iarnónta amháin │52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Working week on/off │52 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Ag obair seachtain ann/as │52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Working a fixed split week │52 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Ag obair seachtain scoilte go seasta │52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Work pattern │Maximum total PRSI contributions│</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Pátrún oibre │Uasmhéid ranníocaíochtaí ÁSPC │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│4 days every week │52 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│4 lá in aghaidh na seachtaine │52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│3 weeks on/1 week off │39 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│3 seachtain oibre ann/seachtain │39 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Working day 9am - 3pm │52 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│3 lá (na laethanta céanna gach │52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│3 days (same days each week) │52 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│2 lá (na laethanta céanna gach │52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│2 days (same days each week) │52 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│lá amháin (an lá céanna gach │52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Mornings only │52 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Maidineacha amháin │52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Afternoons only │52 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Iarnónta amháin │52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Working week on/off │26 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Ag obair seachtain ann/as │26 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Working a fixed split week │52 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Ag obair seachtain scoilte go seasta │52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Work pattern │Maximum total PRSI contributions│</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Pátrún oibre │Uasmhéid ranníocaíochtaí ÁSPC │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│4 days every week │52 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│4 lá in aghaidh na seachtaine │52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│3 weeks on/1 week off │39 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│3 seachtain oibre ann/seachtain │52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Working day 9am - 3pm │52 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│3 lá (na laethanta céanna gach │52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│3 days (same days each week) │52 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│2 lá (na laethanta céanna gach │52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│2 days (same days each week) │52 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│lá amháin (an lá céanna gach │52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Mornings only │52 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Maidineacha amháin │52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Afternoons only │52 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Iarnónta amháin │52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Working week on/off │26 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Ag obair seachtain ann/as │52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Working a fixed split week │52 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Ag obair seachtain scoilte go seasta │52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Work pattern │Maximum total PRSI contributions│</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Pátrún oibre │Uasmhéid ranníocaíochtaí ÁSPC │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│4 days every week │52 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│4 lá in aghaidh na seachtaine │52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│3 weeks on/1 week off │52 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│3 seachtain oibre ann/seachtain │52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Working day 9am - 3pm │52 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Maidineacha amháin │52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│2 days (same days each week) │52 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│2 lá (na laethanta céanna gach │52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│1 day (same day each week) │52 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Maidineacha amháin │52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Mornings only │52 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Iarnónta amháin │52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Afternoons only │52 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Ag obair seachtain ann/as │52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Working a fixed split week │52 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Maidineacha amháin │52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Work pattern │Maximum total PRSI contributions│</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Pátrún oibre │Uasmhéid ranníocaíochtaí ÁSPC │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│4 days every week │52 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│4 lá in aghaidh na seachtaine │52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│3 weeks on/1 week off │39 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│3 seachtain oibre ann/seachtain │39 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Working day 9am - 3pm │52 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│3 lá (na laethanta céanna gach │52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│3 days (same days each week) │52 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│2 lá (na laethanta céanna gach │52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│2 days (same days each week) │52 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│lá amháin (an lá céanna gach │52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Mornings only │52 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Maidineacha amháin │52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Afternoons only │52 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Iarnónta amháin │52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Working week on/off │26 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Ag obair seachtain ann/as │26 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Working a fixed split week │52 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Ag obair seachtain scoilte go seasta │52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To determine the rate of PRSI payable by you and your employer your gross pay is divided by the number of contribution weeks that is covered by your pattern of work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair atáthar ag ríomh an ráta ÁSPC go gcaithfidh tú agus d'fhostóir a íoc déantar do thuillimh iomlán a roinnt faoi líon na seachtainí ranníocaíochta nuair a bhí tú ag obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>More information can be found in our document about your liability to pay PRSI</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigh tuilleadh eolais anseo mar gheall ar do dhliteanas le hÁSPC a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you earn between €38 and €352 you do not have to pay PRSI</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má thuilleann tú idir €38 agus €352 ní gá duit ÁSPC a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, your employer pays PRSI</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach sa chás seo, is é an fostóir a íocann an tÁSPC</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>More information can be found in our document about your employer's duty to pay social insurance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigh tuilleadh eolais anseo faoin dualgas atá ar an bhfostóir árachas sóisialach a íoc</seg></tuv>
+</tu>
+</body>
+</tmx>

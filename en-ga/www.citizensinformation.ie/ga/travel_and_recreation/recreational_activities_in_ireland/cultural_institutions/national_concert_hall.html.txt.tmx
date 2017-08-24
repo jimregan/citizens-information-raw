@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>The National Concert Hall is located in Dublin’s city centre and it has hosted some of the world’s greatest performers, both nationally and internationally</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an Ceoláras Náisiúnta lonnaithe i lár chathair Bhaile Átha Cliath bhí taibhithe ó roinnt de na taibheoirí is fearr ar domhan ar siúl ann, go náisiúnta agus go hidirnáisiúnta araon</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As well as classical music, it also hosts opera, traditional, jazz, musicals and popular music performances</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar aon le ceol clasaiceach, bíonn taibhithe ceoldrámaí, ceoil thraidisiúnta, snagcheoil, ceolsiamsa agus ceol pobail ar siúl ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The RTÉ National Symphony Orchestra is the resident orchestra at the Concert Hall</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad Ceolfhoireann Siansa Náisiúnta RTÉ atá mar an gceolfhoireann chónaitheach ag an gCeoláras</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Information on the Concert Hall’s calendar of events is available on the Concert Hall’s website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá faisnéis ar fáil faoi fhéilire imeachtaí an Cheolárais Náisiúnta ar láithreán gréasáin an Cheolárais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Concert Hall has 2 main performing spaces</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá dhá phríomhspás taibhithe ag an gCeoláras</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The main auditorium holds up to 1,200 and is renowned for its natural acoustics</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá 1,200 suíochán sa phríomh-halla éisteachta agus tá cáil air as ucht a fhuaime nádúrtha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The John Field Room can accommodate a seated audience of 250 and is primarily used for chamber music, lunchtime concerts and smaller recitals</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le Seomra John Field 250 suíochán a chur ar fáil don lucht éisteachta agus úsáidtear é go príomha do cheol aireagail, do cheoldrámaí i rith am lóin agus do cheadail níos lú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Through its programme of on-site and off-site events, the Concert Hall offer a wide range of learning opportunities for children, schools, music students and others</seg></tuv>
+  <tuv xml:lang="ga"><seg>Trína chlár imeachtaí ar an suíomh agus amach ón suíomh, cuireann an Ceoláras réimse fairsing de dheiseanna foghlama ar fáil do leanaí, do scoileanna, do mhic léinn cheoil agus do dhaoine eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Find out more about its education programme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigh amach níos mó faisnéise faoina chlár oideachais</seg></tuv>
+</tu>
+</body>
+</tmx>

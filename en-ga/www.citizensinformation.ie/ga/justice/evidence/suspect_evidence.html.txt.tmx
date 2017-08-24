@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Some types of evidence are admissible but are "suspect"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá cineálacha fianaise ann atá ceadaithe ach atá "amhrastúil"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that they often turn out to be untrue or incorrect</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fianaise í seo a bhíonn bréagach nó mícheart go minic sa deireadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To protect the accused against being convicted on the basis of suspect evidence, safeguards have been put in place</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar mhaithe leis an gcúisí a chosaint ó bheith ciontaithe bunaithe ar fhianaise amhrastúil tá cosaintí curtha i bhfeidhm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The most important safeguard against suspect evidence is the "corroboration warning"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an "rabhadh comhthacaíochta" an chosaint is tábhachtaí a bhfuil ann i gcoinne fianaise atá amhrastúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The corroboration warning is given at the end of the trial by the judge to the jury</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann an breitheamh rabhadh comhthacaíochta don ghiúiré ag deireadh na trialach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The warning points out to the jury that it is dangerous to convict the accused on the basis of the suspect evidence without any corroborative evidence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann an rabhadh seo ar a súile don ghiúiré go bhfuil sé contúirteach an cúisí a chiontú bunaithe ar fhianaise amhrastúil gan aon fhianaise chomhthacaíochta a bheith ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if the jury is satisfied beyond all reasonable doubt that the accused is guilty, then it can go on and convict even without corroborative evidence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach, má tá an giúiré sásta gan amhras réasúnta go bhfuil an cúisí ciontach, is féidir dul ar aghaidh agus é/í a chiontú gan aon fhianaise chomhthacaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Corroborative evidence is additional evidence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fianaise bhreise í fianaise chomhthacaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is evidence in a case which:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is fianaise i gcás í a:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Implicates the accused in the crime - it must tend to show that the accused was guilty of the offence charged</seg></tuv>
+  <tuv xml:lang="ga"><seg>• luann an cúisí leis an gcoir - ní mór go mbeadh an cuma ón bhfianaise go bhfuil an cúisí ciontach as an gcoir atá curtha ina leith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Is admissible and credible</seg></tuv>
+  <tuv xml:lang="ga"><seg>• atá ceadaithe agus inchreidthe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Is independent - it comes from a source other than the witness whose evidence needs corroboration</seg></tuv>
+  <tuv xml:lang="ga"><seg>• atá neamhspleách - tagann sé ó fhoinse eile seachas ó fhinné a dteastaíonn comhthacaíocht óna c(h)uid fianaise</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An accomplice is a person who was also involved in the alleged crime</seg></tuv>
+  <tuv xml:lang="ga"><seg>Comhchoirí é/í duine a raibh baint aige/aici leis an gcoir atá curtha i leith cúisí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If an accomplice is giving evidence against the accused, the court will treat it as "suspect evidence"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhíonn comhchoirí ag tabhairt fianaise i gcoinne an chúisí, breathnóidh an chúirt ar an bhfianaise mar "fhianaise amhrastúil"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is because an accomplice may have a lot to gain by lying to pin the blame on the accused</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá seo amhlaidh mar d'fhéadfadh go leor a bheith le fáil ag comhchoirí as iarracht a dhéanamh an milleán ar fad a chur ar an gcúisí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To protect the accused against being unfairly convicted on the basis of accomplice evidence alone, the judge, at the end of the trial, will sum up the case and must give a corroboration warning to the jury</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar mhaithe leis an gcúisí a chosaint as a bheith ciontaithe ar fhianaise chomhchoirí amháin, ag deireadh na trialach, déanfaidh an breitheamh achoimre den chás don ghiúiré agus ní mór dó/dí rabhadh chomhthacaíochta a thabhairt don ghiúiré</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A confession is a voluntary statement made by the accused implicating him/her in the alleged offence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ráiteas deonach í admháil a dhéanann an cúisí agus a luann é/í féin leis an gcoir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Confession evidence is considered to be "suspect evidence" and since 1993, the judge must give a corroboration warning to the jury</seg></tuv>
+  <tuv xml:lang="ga"><seg>Breathnaítear ar fhianaise admhála mar "fhianaise amhrastúil" agus ó 1993, ní mór don bhreitheamh rabhadh comhthacaíochta a thabhairt don ghiúiré</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Evidence given by the alleged victim of a sexual offence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fianaise tugtha ag duine a éilíonn gur fhulaing sé/sí coir ghnéis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Traditionally, the evidence of an alleged victim of a sexual offence was treated as "suspect" and the judge in such a case was obliged to give a corroboration warning to the jury</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go traidisiúnta, bhreathnaigh na cúirteanna ar fhianaise a thug duine a dúirt gur d'fhulaing sé/sí coir ghnéis mar fhianaise "amhrastúil" agus b'éigean don bhreitheamh i gcás mar sin rabhadh comhthacaíochta a thabhairt don ghiúiré</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, since 1990, the corroboration warning is no longer automatic and it is up to the judge to decide whether the warning is necessary in the particular case</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach ó 1990, ní gá an rabhadh comhthacaíochta a thabhairt agus tá sé suas don bhreitheamh cinneadh a dhéanamh an bhfuil gá leis an rabhadh comhthacaíochta ag brath ar an gcás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Traditionally, children's evidence was treated as "suspect" and the judge in such a case was obliged to give a corroboration warning to the jury</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go traidisiúnta, bhreathnaigh na cúirteanna ar fhianaise a thug páistí mar fhianaise "amhrastúil" agus b'éigean don bhreitheamh i gcás mar sin rabhadh comhthacaíochta a thabhairt don ghiúiré</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, since 1992, the corroboration warning is no longer automatic and it is up to the judge to decide whether the warning is necessary in the particular case</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach ó 1992, ní gá an rabhadh comhthacaíochta a thabhairt agus tá sé suas don bhreitheamh cinneadh a dhéanamh an bhfuil gá leis an rabhadh comhthacaíochta ag brath ar an gcás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For more detailed information you should seek legal advice</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir duit comhairle dlí a lorg chun faisnéis mionsonraithe a fháil</seg></tuv>
+</tu>
+</body>
+</tmx>

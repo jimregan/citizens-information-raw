@@ -1,0 +1,517 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>• Detention for administrative purposes</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Coinneáil do chuspóirí riaracháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• On remand in custody</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ar athchur i gcoimeád</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The criminal law gives the Gardaí certain powers to detain you in their custody after you have been arrested</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann an dlí coiriúil cumhachtaí áirithe do Ghardaí tú a choinneáil faoina gcoimeád tar éis gabhála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The purpose of detaining you after your arrest is twofold:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá dhá chúis go gcoinneofaí tú ar choinneáil tar éis gabhála:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• To ensure that you appear before a court to answer charges</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Chun cinntiú go dtagann tú os comhair na cúirte le cúisimh a fhreagairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• To ensure that criminal offences are properly investigated</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Chun cinntiú go ndéantar cionta coiriúla a fhiosrú i gceart</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is important to understand that the powers of detention depend on the offence for which you have been arrested</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé tábhachtach a thuiscint go bhfuil na cumhachtaí coinneála ag brath ar an gcion lenar gabhadh tú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are charged and brought before the District Court, you may be either released on bail or detained in custody while waiting for your trial</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chúisítear tú agus má thógtar os comhair na Cúirte Dúiche tú, is féidir tú a scaoileadh faoi bhannaí nó a choinneáil i gcoimeád nuair atá tú ag feitheamh le do thriail</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is called being on remand</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ar athchur a ghlaoitear ar na cúrsaí seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are arrested for an offence which does not allow for your detention, then you must be charged with that offence and brought before a judge of the District Court as soon as possible</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéantar tú a ghabháil do chion nach gceadaíonn do choinneáil, caithfear tú a chúiseamh i gcion agus a thabhairt os comhair bhreithimh na Cúirte Dúiche chomh luath agus is féidir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are arrested after 5pm on any evening and the District Court is sitting before noon the following day, it is acceptable to bring you before the District Court at the beginning of that sitting</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéantar tú a ghabháil tar éis 5in tráthnóna ar bith agus má tá an Chúirt Dúiche ag suí roimh mheánlae an lá dar gcionn, tá sé inghlactha go dtógfaí os comhair na cúirte tú ag tús an tsuí sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If, on the other hand, you are arrested for an offence which allows for your detention in a Garda station to assist with a Garda investigation, then you will normally be detained for the period allowed by law</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach ar an láimh eile, má dhéantar tú a ghabháil do chion a cheadaíonn do ghabháil i stáisiún na nGardaí chun cuidiú le fiosrúchán na nGardaí, déanfar tú a choinneáil go hiondúil don tréimhse atá ceadaithe de réir an dlí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The main pieces of legislation that govern detention after arrest are:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad na príomh-reachtaíochta a rialaíonn coinneáil tar éis gabhála:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Section 4 of the Criminal Justice Act 1984</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Alt 4 den Acht um Cheartas Coiriúil 1984</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Section 42 of the Criminal Justice Act 1999</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Alt 42 den Acht um Cheartas Coiriúil 1999</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Section 30 of the Offences Against the State Act 1939</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Alt 30 den Acht um Cheartas Coiriúil 1939</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Section 2 of the Criminal Justice (Drug Trafficking) Act 1996</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Alt 2 den Acht um Cheartas Coiriúil (Gáinneáil ar Dhrugaí) 1996</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Section 50 of the Criminal Justice Act 2007</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Alt 50 den Acht um Cheartas Coiriúil 2007</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Sections 16 and 17 of the Criminal Procedure Act 2010</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ailt 16 agus 17 den Acht um Nós Imeachta Coiriúil 2010</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These pieces of legislation recognise the concept of detention after arrest by the Gardaí to assist with their investigations</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá phíosa reachtaíochta a aithníonn coincheap na coinneála tar éis gabhála ag Gardaí, chun cuidiú lena bhfiosrúcháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Tthe Gardaí must have reasonable grounds for believing your detention is necessary to properly investigate the offence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh cúis réasúnach a bheith ag na Gardaí le creidiúint go bhfuil coinneáil riachtanach, leis an gcion a fhiosrú i gceart</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>See "Further information" below on the offences to which detention applies</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féach ‘Tuilleadh eolais’ thíos ar chionta lena mbaineann coinneáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>How long can I be detained for?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cé chomh fada agus is féidir mé a choinneáil?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The maximum period of detention ranges from 24 hours to 7 days depending on which section of the legislation you are being detained under</seg></tuv>
+  <tuv xml:lang="ga"><seg>Réimníonn an uastréimhse do choinneáil idir 24 uair agus 7 lá, ag brath ar alt na reachtaíochta faoina bhfuil tú á gcoinneáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In most cases, you can be initially detained for up to 6 hours on the authorisation of the member in charge of the Garda station</seg></tuv>
+  <tuv xml:lang="ga"><seg>I dtromlach na gcásanna, is féidir tú a choinneáil suas le 6 huaire ar údarú an duine atá i bhfeighil i stáisiún na nGardaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For offences under Section 30 of the Offences Against the State Act 1939 your initial detention period can be up to 24 hours</seg></tuv>
+  <tuv xml:lang="ga"><seg>Do chionta faoi Alt 30 den Acht um Chionta in aghaidh an Stáit 1939, is féidir le do thréimhse coinneála tosaigh a bheith suas le 24 uair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To detain you under Section 42 of the Criminal Justce Act 1999 the Gardaí have to first obtain a warrant from the District Court authorising your arrest and initial detention</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun tú a choinneáil faoi Alt 42 den Acht um Cheartas Coiriúil 1999, caithfidh na Gardaí barántas a fháil ón gCúirt Dúiche i dtosach, a dhéanann do ghabháil agus do choinneáil thosaigh a údarú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can then be taken from the prison to a Garda station</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir tú a thógáil ansin ón bpríosún chuig stáisiún na nGardaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Generally, after your initial period of detention ends, up to 2 further detention periods can be authorised by a Garda of the rank of Superintendent or higher</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, nuair a chríochnaíonn tréimhse thosaigh na coinneála, is féidir le Garda ag céim Ceannfoirt nó níos airde, 2 thréimhse choinneála bhreise a údarú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Depending on the section of the law applying to your detention, the authorisation for a further extension may have to be given by a Garda of the rank of Chief Superintendent or higher</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag brath ar alt an dlí a bhaineann le do choinneáil, b'fhéidir go mbeadh síneadh breise le húdarú ag Garda atá ag céim Ceannfoirt nó níos airde</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further periods of detention may be granted following application to the District or Circuit Court by a Garda of the rank of Chief Superintendent or higher</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfaí tréimhsí coinneála breise a dheonú tar éis iarratais chun na Cúirte Dúiche nó Cuarda, ag Garda atá ag céim Ceannfoirt nó níos airde</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For Section 30 of the Offences Against the State Act 1939 application can be made to the District Court by the Superintendent</seg></tuv>
+  <tuv xml:lang="ga"><seg>Maidir le hAlt 30 den Acht um Chionta in aghaidh an Stáit 1939, is féidir le Ceannfort iarratas a dhéanamh chun na Cúirte Dúiche</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The periods of detention applying under the various sections of legislation are given in the following table:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá ná tréimhsí coinneála a bhaineann le hailt éagsúla na reachtaíochta tugtha sa tábla thíos:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Allowable periods of detention</seg></tuv>
+  <tuv xml:lang="ga"><seg>│ Tréimhsí coinneála incheadaithe │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│ │Section 4 │Section 42 │Section 30 │Section 2 │Section 50 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│ │Alt 4 │Alt 42 │Alt 30 │Alt 2 │Alt 50 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Initial period │6 hours │6 hours │24 hours │6 hours │6 hours │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Tréimhse tosaigh │6 huaire │6 huaire │24 uair │6 huaire │6 huaire │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│First extension authorised by Superintendent │6 hours │6 hours │24 hours │18 hours │18 hours │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│An chéad shíneadh údaraithe ag Ceannfort │6 huaire │6 huaire │24 uair │18 n-uaire │18 n-uaire │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│ │ │ │(Note 1) │(Note 1) │ │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│ │ │ │(Nóta 1) │(Nóta 1) │ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Second extension authorised by Chief Superintendent │12 hours │12 hours │ │24 hours │24 hours │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│An dara síneadh údaraithe ag Ard-Cheannfort │12 uair │12 uair │ │24 uair │24 uair │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│First extension authorised by District or Circuit Court │ │ │24 hours │72 hours │72 hours │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│An chéad shíneadh údaraithe ag an gCúirt Dúiche nó Chuarda │ │ │24 uair │72 uair │72 uair │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│ │ │ │(Note 2) │ │ │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│ │ │ │(Nóta 2) │ │ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Second extension authorised by District or Circuit Court │ │ │ │ 48 hours │48 hours │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│An dara síneadh údaraithe ag an gCúirt Dúiche nó Chuarda │ │ │ │48 uair │48 uair │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Total │24 hours │24 hours │72 hours │168 hours │168 hours │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Iomlán │24 uair │24 uair │72 uair │168 uair │168 uair │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│ │ │ │(3 days) │ (7 days) │(7 days) │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│ │ │ │(3 lá) │(7 lá) │(7 lá) │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Note 1: First extension must be authorised by a Garda Chief Superintendent (or higher rank)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nóta 1: Caithfidh an chéad shíneadh a bheith údaraithe ag Ard-Cheannfort an Gharda Síochána (nó céim níos airde)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Note 2: The extension is authorised by the District Court following application by a Garda Superintendent</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nóta 2: Tá an síneadh údaraithe ag an gCúirt Dúiche tar éis iarratais ó Cheannfort na nGardaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are arrested under Sections 16 or 17 of the Criminal Procedure Act 2010 the periods of detention applying are the same as those applying to Section 4 detentions (see table above)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ag a ghabháil faoi Alt 16 nó 17 den Acht um Nós Imeachta Coiriúil 2010 na tréimhsí coinneála a chur i bhfeidhm mar sin ag cur isteach ar Alt 4 coinneála (féach tábla thuas) mar an gcéanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Does the clock stop at any time during my detention?</seg></tuv>
+  <tuv xml:lang="ga"><seg>An stoptar an clog ag am ar bith le linn mo choinneála?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If, during your detention, you are taken from the Garda station to a hospital or other suitable place for medical attention, any period of absence from the Garda station is not taken into account in the calculation of your detention</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tharlaíonn sé le linn na coinneála, go dtógtar ó stáisiún na nGardaí chuig ospidéal tú nó áit oiriúnach do chóir leighis, ní thógtar an tréimhse neamhláithreachta seo san áireamh nuair atá do choinneáil á ríomh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Other periods may not be counted, depending on the section of legislation you are detained under</seg></tuv>
+  <tuv xml:lang="ga"><seg>B'fhéidir nach ndéanfaí tréimhsí eile a áireamh, ag brath ar alt na reachtaíochta faoina bhfuil tú á gcoinneáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are detained under Section 4 or Section 42 and questioning is suspended for a period of time between midnight and 8am to allow you to rest, the time the questioning is suspended is not counted</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéantar tú a choinneáil faoi Alt 4 nó 42 agus má chuirtear an ceistiúchán ar fionraí do thréimhse ama idir mheánoíche agus 8rn chun ceadú duit do scíth a ligean, ní bheidh an t-am ina cuireadh an ceistiúchán ar fionraí san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Also, if you are certified by a doctor as unfit for questioning, the time the questioning is suspended is not counted</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chomh maith leis sin, má tá tú deimhnithe ag dochtúir mar mí-oiriúnach le haghaidh ceistiúcháin, nach bhfuil an am a ndéantar an ceistiúchán ar fionraí san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>While you are waiting to consult your solicitor and no questioning is taking place, that time is not counted</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cé go bhfuil tú ag fanacht le dul i gcomhairle do dhlíodóir agus níl aon cheistiú ar siúl, nach bhfuil an t-am sin a chomhaireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are detained under Sections 4, 42 or 50 and you attend court in connection with an application relating to the lawfulness of your detention, the time you are absent from the Garda station is not counted</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú coinnithe faoi Ailt 4, 42, nó 50 agus má fhreastalaíonn tú ar an gcúirt maidir le hiarratas a bhaineann le dleathacht do choinneála, ní dhéantar an tréimhse neamhláithreachta ó stáisiún na nGardaí a áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your period of detention would end while you are at the venue where an application is being made by the Gardaí for a further detention period, it is considered not to end until the final decision of the court on the application</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chríochnaíonn do thréimhse choinneála le linn iarratais chun na cúirte ó Ghardaí maidir le tréimhse choinneála bhreise, breithnítear nach dtagann sí chun críche go dtí cinneadh deiridh na cúirte faoin iarratas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Criminal Justice Act 2011 amended detention under Section 4 for certain arrestable offences to allow your detention to be suspended and for you to be released during the suspension</seg></tuv>
+  <tuv xml:lang="ga"><seg>An tAcht um Cheartas Coiriúil 2011 a leasú choinneáil faoi Alt 4 i leith cionta inghabhála áirithe chun ligean do choinneáil chun a chur ar fionraí agus chun tú a a scaoileadh i rith na fionraí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These offences include offences in the areas of banking and finance, company law, money laundering, fraud, corruption, competition, consumer protection and cybercrime</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áirítear ar na cionta cionta i réimsí na baincéireachta agus airgeadais, dlí na gcuideachtaí, sciúradh airgid, calaois, éilliú, leis an iomaíocht, cosaint tomhaltóirí agus cibearchoireacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Can children be detained?</seg></tuv>
+  <tuv xml:lang="ga"><seg>An féidir leanaí a choinneáil?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Apart from detention under Section 30, the detention of suspects who are under 12 years of age is not allowed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Lasmuigh den choinneáil faoi Alt 30, ní cheadaítear coinneáil na n-amhrastach atá faoi bhun 12 bhliain d'aois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If, however, the member in charge of the Garda station has reasonable grounds for believing that the suspect is not below the age of 12 years, this prohibition does not apply</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin féin, má tharlaíonn sé go bhfuil cúis réasúnta ag an mball ceannasach i stáisiún na nGardaí a chreidiúint nach bhfuil an t-amhrastach faoi bhun 12 bliana d'aois, níl baint ag an gcosc seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It will be necessary for the member in charge to justify these grounds if it transpires subsequently that the suspect was in fact under 12 years of age</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh sé riachtanach don bhall ceannasach na cúiseanna seo a fhírinniú, má thiteann sé amach níos déanaí go raibh an t-amhrastach faoi bhun 12 bhliain d'aois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>More information on the treatment of children in Garda custody is available here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tuilleadh eolais ar dhéileáil le leanaí atá faoi choimeád na nGardaí ar fáil anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>What happens when my detention ends?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cad a tharlaíonn nuair a thagann mo choinneáil chun críche?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the Gardaí no longer have any grounds for believing that your detention is necessary to properly investigate the offence or your detention period has expired, then you must be either charged with the offence or released from custody</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil aon chúiseanna fágtha ag na Gardaí le creidiúint go bhfuil do choinneáil riachtanach chun cion a fhiosrú i gceart nó má tá do thréimhse choinneála imithe as feidhm, caithfear tú a chúiseamh i gcion nó a scaoileadh ó choimeád</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are being charged with the offence you are brought before the court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú á chúiseamh i gcion, déanfar tú a thógáil os comhair na cúirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are detained under Section 42 and your detention is no longer required or it has expired, you are returned to prison without being charged</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú á choinneáil faoi Alt 42 agus mura bhfuil do choinneáil ag teastáil níos mó nó má tá sí imithe as feidhm, déantar tú a thabhairt ar ais chun an phríosúin gan chúiseamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Detention for administrative purposes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Coinneáil do chuspóirí riaracháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are a number of other instances where you may be detained by Gardaí</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá roinnt cúinsí eile ina bhféadfá a bheith faoi choinneáil ag Gardaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These could be described as detention for administrative purposes and don't require the authorisation of anybody other than the arresting Garda</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir cur síos a dhéanamh orthu seo mar choinneáil do chuspóirí riaracháin, agus níl údarú ag teastáil ó dhuine ar bith, ach amháin an Garda gabhála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Examples of this are:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Samplaí díobh seo ná:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Detention after arrest for drink driving for the purpose of providing a sample of blood, urine or a breath specimen</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Coinneáil tar éis gabhála do thiomáint ar meisce, chun sampla fola, fuail nó anála a thabhairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Detention after arrest for the purpose of being charged with an offence</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Coinneáil tar éis gabhála le go gcúiseofaí tú i gcion</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Detention after arrest for the purpose of submitting to a drugs search</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Coinneáil tar éis gabhála chun géilleadh do chuardach drugaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Detention under the Mental Treatment Acts</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Coinneáil faoi na hAchtanna Cóireála Meabhairghalair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>On remand in custody</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar athchur i gcoimeád</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you are brought to the District Court for the first time after you are charged, the court has 2 options:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a thógtar chun na Cúirte Dúiche tú den chéad uair tar éis cúisimh, tá dhá rogha ag an gcúirt:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• It may remand you in custody for a period of no longer than 8 days</seg></tuv>
+  <tuv xml:lang="ga"><seg>• D'fhéadfaidís tú a chur ar athchur i gcoimeád ar feadh tréimhse nach bhfuil níos faide ná 8 lá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that you are detained in custody until a particular date when you will be brought back before the court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn sé seo go gcoinnítear i gcoimeád tú go dtí dáta áirithe nuair a dhéanfar tú a thabhairt ar ais chun na cúirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This date is called the remand date</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is dáta athchuir a ghlaoitear ar an dáta seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are remanded in custody in Dublin, you will be brought to Cloverhill Prison</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ar athchur i gcoimeád i mBairle Átha Cliath, déanfar tú a thabhairt chuig Príosún Chnoc Seimre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• It may remand you on bail for a period that is longer than 8 days if you and the prosecution consent</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Is féidir tú a athchur ar bhannaí do thréimhse nach bhfuil níos faide ná 8 lá, má thoilíonn tú féin agus an t-ionchúiseamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that you are released on bail but you must appear before the Court on a particular date (the remand date)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn sé seo go scaoiltear ar bhannaí tú, ach caithfidh tú teacht os comhair na cúirte ar dháta áirithe (an dáta athchuir)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you are brought before the District Court for the second and subsequent times, the court has 2 options:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a thógtar os comhair na Cúirte Dúiche tú an dara huair agus ina dhiaidh sin, tá dhá rogha ag an gcúirt:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• It may remand you in custody for a period of 15 days or less</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Is féidir tú a athchur i gcoimeád ar feadh tréimhse de 15 lá nó níos lú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• It may remand you in custody for a period of 16 to 30 days, if you and the prosecution consent</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Is féidir tú a athchur i gcoimeád do thréimhse de 16 go dtí 30 lá, má thoilíonn tú féin agus an t-ionchúiseamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are unable to go to court due to illness, the court may remand you in custody in your absence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura féidir leat dul chun na cúirte toisc tinneas, is féidir leis an gcúirt tú a athchur i gcoimeád le linn duit a bheith as láthair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have been remanded in custody and there is no sitting of the court on the remand date, you will be remanded in custody to the next sitting of a court in the same District Court District</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhí tú ar athchur i gcoimeád agus mura bhfuil aon suí cúirte ar an dáta athchuir, beidh tú ar athchur i gcoimeád don chéad suí eile den chúirt i gcuaird chéanna na Cúirte Dúiche</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have been remanded on bail and there is no sitting of the court on the remand date, you will be remanded to the next sitting of a court in the same District Court Area</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhí tú ar athchur faoi bhannaí agus mura bhfuil aon suí cúirte ar an dáta athchuir, beidh tú ar athchur i gcoimeád don chéad suí eile den chúirt i gceantar chéanna na Cúirte Dúiche</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are remanded in custody for a period of 4 days or less, the court may commit you to the custody of the Gardaí</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ar athchur i gcoimeád ar feadh tréimhse de 4 lá nó níos lú, d'fhéadfadh an chúirt tú a chimiú faoi choimeád na nGardaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that you are kept at a Garda station instead of in a prison</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn sé seo go gcoinnítear i stáisiún na nGardaí tú seachas sa phríosún</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Offences to which detention applies</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cionta lena mbaineann coinneáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Section 4 of the Criminal Justice Act 1984</seg></tuv>
+  <tuv xml:lang="ga"><seg>Alt 4 den Acht um Cheartas Coiriúil 1984</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A Section 4 detention applies to any offence for which an adult (who hasn't been previously convicted), may be punished by imprisonment for a term of five years or more</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann coinneáil faoi Alt 4 le cion ar bith atá déanta ag aosach (nach bhfuil cúisithe cheana féin), agus a bhféadfaí pionós a ghearradh air i bhfoirm príosúnachta, ar feadh tréimhse de chúig bliana nó níos mó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most offences for which you can be arrested carry a penalty like this, so they come within the scope of Section 4</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann pionós mar seo le tromlach na gcionta lena ndéantar daoine a ghabháil, agus tagann siad laistigh de raon Ailt 4 dá réir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Section 42 of the Criminal Justice Act 1999</seg></tuv>
+  <tuv xml:lang="ga"><seg>Alt 42 den Acht um Cheartas Coiriúil 1999</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Section 42 of the Criminal Justice Act 1999 allows the Gardaí to arrest a prisoner who is serving a sentence or awaiting trial</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceadaíonn Alt 42 den Acht um Cheartas Coiriúil 1999 do Ghardaí príosúnach a ghabháil atá ag comhlíonadh pianbhreithe nó ag fanacht le triail</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The detention must be in relation to an arrestable offence or offences other than the one for which you are in prison</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh an choinneáil baint a bheith aici le cion nó cionta inghabhála, lasmuigh den cheann faoina bhfuil tú i bpríosún</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(Note: an arrestable offence means an offence for which you could be punished by imprisonment for five years or more)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Nóta: ciallaíonn cion inghabhála cion lena mbaineann príosúnacht de chúig bliana nó níos mó)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Section 30 of the Offences Against the State Act 1939</seg></tuv>
+  <tuv xml:lang="ga"><seg>Alt 30 den Acht um Chionta in aghaidh an Stáit 1939</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>While Section 4 of the Criminal Justice Act 1984 and Section 42 of the Criminal Justice Act 1999 cover detention in relation to a wide range of offences, Section 30 of the Offences Against the State Act 1939 only provides for a period of detention in relation to the following offences:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cé go gclúdaíonn Alt 4 den Acht um Cheartas Coiriúil 1984 agus Alt 42 den Acht um Cheartas Coiriúil 1999, coinneáil maidir le raon leathan cionta, ní dhéanann Alt 30 den Acht um Chionta in aghaidh an Stáit foráil ach amháin do thréimhse choinneála a bhaineann leis na cionta a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Offences under the Explosive Substances Act 1883</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cionta faoin Explosive Substances Act 1883</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Offences under the Firearms Acts</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cionta faoi Achtanna na nArm Tine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Offences under the Offences Against the State Act 1939</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cionta faoin Acht um Chionta in Aghaidh an Stáit 1939</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Offences under Sections 6-9 and Section 12 of the Offences Against the State (Amendment) Act 1998</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cionta faoi Ailt 6-9 agus Alt 12 den Acht um Chionta in aghaidh an Stáit (Leasú) 1998</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Section 2 of the Criminal Justice (Drug Trafficking) Act 1996</seg></tuv>
+  <tuv xml:lang="ga"><seg>Alt 2 den Acht um Cheartas Coiriúil (Gáinneáil ar Dhrugaí) 1996</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Section 2 of the Criminal Justice (Drug Trafficking) Act 1996 allows for you to be detained where the Gardaí believe you have committed a drug trafficking offence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceadaíonn Alt 2 den Acht um Cheartas Coiriúil (Gáinneáil ar Dhrugaí) 1996 duit a bheith faoi choinneáil ag Gardaí, nuair a chreideann siad go bhfuil cion gáinneála drugaí déanta agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A drug trafficking offence is:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é is cion gáinneála drugaí ann ná:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• An offence under any Regulations made under Section 5 of the Misuse of Drugs Act 1977 which involves the manufacture, importation, exportation, supply, or transportation of a controlled drug</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cion faoi rialacháin ar bith atá déanta faoi Alt 5 den Acht um Mí-Úsáid Drugaí 1977, a bhaineann le déantúsaíocht, allmhairiú, onnmhairiú, soláthar nó iompar de dhruga rialaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• An offence under Section 15 of the 1977 Act of possessing a controlled drug for unlawful sale or supply</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cion faoi Alt 15 den Acht 1977 maidir le druga rialaithe a shealbhú do sholáthar nó dhíol neamhdhleathach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• An offence under Section 15A of the 1977 Act of possessing a controlled drug in excess of a certain value for unlawful sale or supply</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cion faoi Alt 15A den Acht 1977 maidir le druga rialaithe a shealbhú os cionn luach áirithe do sholáthar nó dhíol neamhdhleathach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• An offence under Section 15B of the 1977 Act of importing controlled drugs in excess of a certain value</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cion faoi Alt 15B den Acht 1977 maidir le allmhairiú drugaí rialaithe os cionn luach áirithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• An offence under Section 20 of the 1977 Act of helping or inducing the commission in another country of an offence punishable under a similar anti-drug-trafficking law in that country</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cion faoi Alt 20 den Acht 1977 maidir le cion inphionóis a spreagadh nó lámh cúnta a bheith agat ann, faoi dhlí comhchosúil frithgháinneála drugaí sa tír sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• An offence under the Customs Acts in relation to the importation or exportation of a controlled drug</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cion faoin Acht Custam maidir le hallmhairiú nó onnmhairiú druga rialaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• An offence under Section 31 of the Criminal Justice Act 1994 in relation to the proceeds of drug trafficking</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cion faoi Alt 31 den Acht um Cheartas Coiriúil 1994 maidir le fáltais na gáinneála drugaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• An offence under Section 33 or 34 of the 1994 Act (drug trafficking offences involving ships)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cion faoi Alt 33 nó 34 den Acht 1994 (cionta gáinneála drugaí a bhaineann le báid)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• An offence of helping or conspiring to commit any of the above offences or inciting another person to do so</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cion maidir le cuidiú nó comhcheilg chun ceann ar bith de na cionta thuasluaite a dhéanamh nó duine a spreagadh lena leithéidí a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Section 50 of the Criminal Justice Act 2007</seg></tuv>
+  <tuv xml:lang="ga"><seg>Alt 50 den Acht um Cheartas Coiriúil 2007</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Section 50 of the Criminal Justice Act 2007 applies to detention in connection with the following offences:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann Alt 50 den Acht um Cheartas Coiriúil 2007 le coinneáil maidir leis na cionta a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Murder involving the use of a firearm or explosive</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Dúnmharú a bhaineann le húsáid arm tine nó pléascán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Murder to which Section 3 of the Criminal Justice Act 1990 applies (includes the murder of a Garda or prison officer)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Dúnmharú a bhaineann (ina áirítear dúnmharú Garda nó oifigigh phríosúin) le hAlt 3 den Acht um Cheartas Coiriúil 1990</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• An offence under Section 15 of the Firearms Act 1925 (replaced by Section 42 of the Criminal Justice Act 2006)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cion faoi Alt 15 den Acht na nArm Tine 1925 (atá athsholáthraithe ag Alt 42 den Acht um Cheartas Coiriúil 2006)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• An offence under Section 15 of the Non-Fatal Offences against the Person Act 1997 involving the use of a firearm (false imprisonment)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cion faoi Alt 15 den Acht um Chionta Neamh-mharfacha in aghaidh an Duine 1997 a bhaineann le húsáid arm tine (príosúnú neamhdhleathach)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Section 16 and Section 17 of the Criminal Procedure Act 2007</seg></tuv>
+  <tuv xml:lang="ga"><seg>Alt 16 agus Alt 17 den Acht um Nós Imeachta Coiriúil 2007</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Section 16 allows for you to be arrested again for certain types of offences in respect of which you have already been acquitted</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceadaíonn Alt 16 chun tú a bheith gafa arís le haghaidh cineálacha áirithe cionta i leith a bhfuil tú éigiontaíodh cheana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Section 17 applies if you are in prison when you are being arrested again</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá feidhm ag alt 17 má tá tú i bpríosún nuair a bhíonn tú á gafa arís</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The types of offences to which they apply are set out in the Schedule to the Act</seg></tuv>
+  <tuv xml:lang="ga"><seg>Na cineálacha cionta a feidhm siad leagtha amach sa Sceideal a ghabhann leis an Acht</seg></tuv>
+</tu>
+</body>
+</tmx>

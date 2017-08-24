@@ -1,0 +1,293 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Coming to Ireland - tax and social insurance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag teacht go hÉirinn - cáin agus ÁSPC</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your liability for tax in Ireland can be affected by whether you are resident in the country and whether Ireland is your permanent home</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir difear a dhéanamh do do dhliteanas cánach in Éirinn ag cibé acu an gcónaíonn tú sa tír nó a mhalairt agus cibé acu arb í nó nach í Éire do thír bhuan chónaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is a specific definition of residence for tax purposes depending on how many days you spend in the country</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ann do shainiú sonrach ar áit chónaithe ar mhaithe le cuspóirí cánach ag brath ar cé mhéid laethanta a chaitheann tú sa tír</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are not resident in a particular year, you can still be ordinarily resident in Ireland since this term refers to the country where you are usually resident over a number of years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil cónaí ort in Éirinn i mbliain áirithe, is féidir leat fós gnáthchónaí a bheith ort in Éirinn, ó tharla go dtagraíonn an téarma seo don tír ina mbíonn gnáthchónaí ort thar roinnt blianta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The country that is your permanent home is known as your domicile</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar d’áit sainchónaithe ar an tír ina bhfuil buachónaí ort</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find more information in our document about tax residence and domicile</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat léamh ár ndoiciméad faoi cháin agus sainchónaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Generally you will be charged Irish tax on your world-wide income earned or arising in a tax year during which you are resident, ordinarily resident and domiciled in Ireland for tax purposes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gearrfar cáin Éireannach go ginearálta ar an ioncam a thuilleann tú in áit ar bith ar domhan nó a thagann i gceist sa bhliain chánach ina bhfuil tú i do chónaí, gnáthchónaí ort agus atá sainchónaí ar mhaithe le cúrsaí cánacha in Éirinn ort</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For any tax year during which you are non-resident and not ordinarily resident in Ireland you will be charged tax on your income from Irish sources only</seg></tuv>
+  <tuv xml:lang="ga"><seg>In aon bhliain chánach nach bhfuil tú i do chónaí, nó nach bhfuil gnáthchónaí ort in Éirinn gearrfar cáin Éireannach ort ar fhoinsí ioncaim Éireannacha amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The extent of your liability to Irish tax may also be influenced by your domicile status and possibly by a double taxation agreement - see below</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh sé go mbeadh tionchar ag do stádas sainchónaithe agus ag comhaontú um chánachas dúbailte ar an méid cáin ioncaim Éireannaigh a bheadh le n-íoc agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In addition to income tax and the Universal Social Charge, social insurance, known in Ireland as PRSI (Pay-Related Social Insurance), is also deducted through the tax system by employers – see ‘Social insurance’ below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa bhreis ar an gcáin ioncaim agus an Muirear Sóisialta Uilíoch, gearrann fostóir tríd an gcóras cánach ÁSPC, (Árachas Sóisialach Pá-Choibhneasa) - féach 'Árachas Sóisialach' thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Self-employed people pay them directly to Revenue</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más duine féin-fhostaithe thú íocann tú na nithe sin go díreach leis na Coimisinéirí Ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find more information about this in the Revenue guide for those transferring residence to Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh eolais ar fáil sa leabhrán maidir le daoine atá ag athrú cónaí go hÉirinn. foilsithe ag na gCoimisinéirí Ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will be resident in Ireland for a particular tax year if:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh tú i do chónaí in Éirinn i mbliain chánach:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you spend 183 days or more in Ireland for any purpose in that tax year</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má chaitheann tú 183 lá nó níos mó in Éirinn ar chúis ar bith sa bhliain chánach sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you spend 280 days or more in Ireland for any purpose over a period of 2 consecutive tax years you will be regarded as resident in Ireland for the second tax year</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má chaitheann tú 280 lá nó níos mó in Éirinn ar chúis ar bith thar tréimhse 2 bhliain as a chéile beidh cónaí ort in Éirinn don dara bhliain chomh fada agus a bhaineann sé leis an gcóras cáin ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However if you spend 30 days or less in total in Ireland in either tax years, those days will not be reckoned for the purpose of applying this test</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach má chaitheann tú 30 lá nó níos lú san iomlán in Éirinn in aon cheann den dá bhliain chánach, ní chuirfear na laethanta sin san áireamh ar mhaithe leis an scrúdú seo a chur i gcrích</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It does not matter if you come and go several times during that tax year or if you are here continuously</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is cuma má bhíonn tú ag teacht agus ag imeacht go minic i gcaitheamh na bliana cánaigh nó má bhí tú anseo go leanúnach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A count is made of the total number of days you spend in Ireland for any purpose in each tax year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar an méid laethanta ina iomlán i ngach bliain chánach a chaith tú in Éirinn ar chúis ar bith a chomhaireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An individual is present for a ‘day’ for residence purposes if he or she is present in the State at any time during the day</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn duine sa tír ar feadh ‘lá amháin’ ar mhaithe le cúspóirí cónaithe má tá sé nó sí i láthair sa Stát ag aon tráth le linn an lae</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Effect of ownership of property</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tionchar a bhíonn ag úinéireacht áitribh in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The ownership of property in Ireland will not make you resident for Irish tax purposes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fiú más úinéir áitribh in Éirinn thú ní bheidh aon tionchar aige seo ar do stádas cónaithe maidir le cáin ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, this factor could be relevant in determining a single country of residence under a double taxation agreement where the other treaty country is also claiming that you are resident there</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach, d'fhéadfadh sé go mbeadh tionchar aige ar chinneadh a bheadh le déanamh maidir le tír chónaithe amháin a aimsiú faoi chomhaontú um chánachas dúbailte dá mbeadh an tír eile sa chomhaontú ag éileamh go bhfuil cónaí ort ansin freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Electing to be resident</seg></tuv>
+  <tuv xml:lang="ga"><seg>Éire a roghnú mar áit chónaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Even if you have not spent the required total number of days in Ireland, you can, if you wish, elect to be resident for that tax year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fiú muna bhfuil an méid laethanta a theastaíonn caite agat in Éirinn is féidir leat, más mian leat, Éire a roghnú mar d'áit chónaithe in aon bhliain chánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A condition of making an election is that you must establish to the satisfaction of your local tax office that you will be resident here in the following tax year for the required number of days, under either of the tests</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit mar choinníoll áfach ar seo a bheith in ann a chruthú go sásúil don oifig chánach áitiúil go mbeidh cónaí ort in Éirinn sa bhliain chánach atá le teacht ar feadh an méid laethanta cuí, faoi aon cheann den dá rannóg scrúduithe thuas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Once you have made such an election you cannot cancel it subsequently</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair atá an rogha seo déanta agat ní féidir é a chur ar ceal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As a resident you will be liable to tax on your world-wide income earned or arising during the entire tax year of your arrival in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar chónaithe beidh cáin le n-íoc agat ar aon ioncam a thuilleann tú in aon tír sa domhan nó a thagann i gceist sa bhliain chánach iomlán ina dtagann tú go hÉirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Employment income however will be taxable only from the date of your arrival</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gearrfar cáin ar ioncam fostaíochta ón dáta go dtagann tú go hÉirinn amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An election may be made in writing to your local tax office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir iarratas ar rogha mar seo a chur i scríbhinn chuig an oifig áitiúil chánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have been resident for the previous 3 tax years then you become ordinarily resident from the start of the fourth year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú i do chónaí anseo le 3 bliana cánach anuas, déanfar gnáthchónaitheoir díot ó thús an cheathrú bliain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you leave the country, you will continue to be ordinarily resident until you have been non-resident for 3 continuous tax years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhágann tú an tír, leanfaidh tú de bheith i do ghnáthchónaitheoir go dtí go mbíonn tú i do neamhchónaitheoir ar feadh 3 bliana cánach anuas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your domicile is the country where you live with the intention of remaining there permanently</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é d’áit sainchónaithe an tír ina gcónaíonn tú agus é ar intinn agat fanacht inti go buan</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It may be different to your residence or nationality</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh seo bheith éagsúil le d’áit chónaithe nó le do náisiúntacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you are born, you have a domicile of origin</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a shaolaítear thú, tá agat áit sainchónaithe bunúis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This domicile can be changed to a domicile of choice, if you move to a different country with the intention of living there permanently</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir an áit sainchónaithe seo a athrú chuig rogha áit sainchónaithe, má bhogann tú chuig tír éagsúil agus é ar intinn agat cónaí inti go buan</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Domicile levy: Since 2010 there is a Irish domicile levy</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tobhach sainchónaithe: Ó 2010, tugadh isteach tobhach nua sainchónaithe Éireannaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can get more information about the domicile levy from Revenue</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat tuilleadh faisnéise a fháil faoin tobhach sainchónaithe ó na Coimisinéirí Ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As a particular item of income can be taxable in both the country where it is sourced and also in the country in which you, as the recipient, are resident, Ireland has a number of double taxation agreements with other countries in order to avoid double taxation</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh sé go mbeadh cáin ioncaim iníoctha ar ioncam a thuilltear i dtír amháin agus sa tír ina bhfuil an faighteoir ina c(h)ónaí. Dá bhrí sin tá comhaontaithe um chánachas dúbailte ag Éire le tíortha eile ar mhaithe le dliteanas cánach i ndá thír a sheachaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is a list of the double taxation agreements that are in effect on revenue.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ann do liosta de na comhaontuithe um chánach dúbailte atá i bhfeidhm ar revenue.ie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your income is taxable in Ireland and in a country with which Ireland has a double taxation agreement, you do not pay tax in both countries on the same income by either:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá d'ioncam inchánaithe in Éirinn agus sa tír ina bhfuil comhaontú um chánachas dúbailte ag Éire léi is féidir dliteanas cánach faoi dhó a sheachaint faoin gcomhaontú ar cheann de na bealaí seo a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Exempting the income from tax in one of the countries, or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Díolúine ó cháin a thabhairt don ioncam i gceann den dá thír, nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Allowing credit in one country for the tax paid in the other country on the same income</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Creidmheas don cháin atá íoctha i dtír amháin a thabhairt ar an ioncam céanna sa tír eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The precise treatment of your income will depend on the details of the particular agreement, the nature and source of your income and, in some cases, on your nationality or citizenship</seg></tuv>
+  <tuv xml:lang="ga"><seg>Braitheann an bealach faoi leith ina gcaithfear le d'ioncam ar an gcomhaontú faoi leith, an cineál ioncaim atá agat agus a fhoinse, agus i gcásanna faoi leith, ar do náisiúntacht/shaoránacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the income arises in a country with which Ireland does not have an agreement, the amount of tax paid in Ireland will be based on the net amount received by you after the deduction of the foreign tax paid</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má thagann ioncam i gceist i dtír nach bhfuil comhaontú le hÉirinn léi, bunófar an méid cánach a bheidh le híoc in Éirinn ar an méid glan a thuilleann tú tar éis go n-asbhaintear an cháin iasachta a íocadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is no credit available for foreign tax paid against your Irish tax liability on the same income</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon creidhmeas le fáil ar cháin atá íoctha le tír iasachta ar an méid cánach a bheidh le n-íoc ar an ioncam céanna in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Income earned prior to moving to Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ioncam a thuilleadh roimh teacht go hÉirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are moving to Ireland for the first time or you are an Irish citizen returning to live in Ireland and you were not resident or ordinarily resident when the income was earned, the position will be as follows:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más ag bogadh go hÉirinn don chéad uair atá tú nó más Éireannach thú atá ag filleadh ar Éirinn agus muna raibh cónaí ort ná gnáthchónaí ort in Éirinn nuair a thuill tú an t-ioncam is mar seo a leanas a bheidh an cás maidir le cáin ioncaim:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Funds accumulated from income earned prior to the beginning of the tax year in the year that you become resident in Ireland will not be liable to income tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní bheidh aon dliteanas cánach ar airgead atá cruinnithe ó ioncam a thuill tú roimh thús na bliana cánaigh sa bhliain ina dtagann tú le cónaí in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• However, income other than employment income arising between the beginning of the tax year and the date of your arrival will be taxable if brought into Ireland, unless a double taxation agreement provides for a different treatment</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ach, beidh cáin le n-íoc agat ar ioncam a thugann tú isteach sa tír seo nach ioncam ó fhostaíocht é a tháinig i gceist ó thús na bliana cánaigh agus dáta do theacht go hÉirinn, muna bhfuil bealach eile le deileáil leis leagtha síos sa chomhaontú um chánachas dúbailte idir an tír seo agus foinse an ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are working in Ireland but are paid from abroad</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag obair in Éirinn, ach ag fáil íochta ó thír eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Unless your income is not liable to Irish tax under the provisions of a double taxation agreement, it will be taxable here from the date of your arrival regardless of your Irish residence status for tax purposes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna bhfuil díolúine ó cháin Éireannach ag d'ioncam faoi chomhaontú um chánachas dúbailte beidh sé incháinithe anseo ón dáta a thagann tú go hÉirinn, is cuma cén stádas cónaithe Éireannaigh ar mhaithe le cúrsaí cánacha atá agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if you are an Irish citizen who is not ordinarily resident or you are not Irish domiciled, your foreign employment income (excluding UK sourced income) will only be taxable to the extent that it is remitted into Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach más saoránach Éireannach thú nach bhfuil gnáthchónaí ort in Éirinn nó nach bhfuil cónaí in Éirinn ort, ní ghearrfar cáin ar an ioncam ón iasacht ach ar an méid a sheoltar isteach go hÉirinn (níl ioncam ón Ríocht Aontaithe san áireamh)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are resident for Irish tax purposes in the year that the income is earned, you will be entitled to full personal tax credits and reliefs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá cónaí ort ar mhaithe le cúrsaí cánacha in Éirinn sa bhliain ina tuilltear an t-ioncam beidh creidmheasanna iomlána pearsanta cánacha agus faoisimh ar fáil duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Temporary employment in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fostaíocht sealadach in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are coming to Ireland to take up temporary employment and will not become resident for Irish tax purposes, proportionate credits and reliefs are available to non-resident Irish citizens and to citizens, subjects or nationals of another EU member state</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ag teacht go hÉirinn le dul ag obair go sealadach ní bheidh cónaí ort anseo ar mhaithe le cáin Éireannach, is féidir le saoránaigh Éireannacha nach bhfuil cónaí anseo orthu, le saoránaigh, géillsinigh nó náisiúnaigh ballstáit eile den Aontas Eorpach creidmheasanna agus faoisimh comhréireacha a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This also applies to residents or nationals of a country with which Ireland has a double taxation agreement which provides for such allowances</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé seo amhlaidh freisin i gcás daoine a chónaíonn nó gur náisiúnaigh iad de thír lena bhfuil comhaontú um chánachas dúbailte ag Éire léi agus a bhfuil na liúntais sin ar fáil de réir an chomhaontaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The proportion of allowances is determined by reference to your income for the tax year which is subject to Irish tax over your income from all sources</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar an méid liúntais atá tú ina theideal a áireamh bunaithe ar d'ioncam don bhliain chánach a bheidh cáin Éireannach le n-íoc agat inti thar d'ioncam ó chuile fhoinse</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, residents of another member state of the European Union are entitled to full personal tax credits and reliefs in respect of any tax year that 75% or more of their world-wide income is taxable in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach, tá daoine a chónaíonn i mballstáit eile den Aontas Eorpach i dteideal creidmheasanna iomlána pearsanta cánacha agus faoisimh maidir le aon bhliain chánach ina bhfuil 75% dá n-ioncam domhanda incháinithe in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Pensions and other assets are normally taxable apart from some exceptions, for example, some UK pensions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is gnách go mbíonn pinsin agus sócmhainní eile incháinithe, seachas roinnt eisceachtaí, mar shampla, roinnt pinsean den RA</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your employer will also deduct social insurance contributions, which are referred to as PRSI (Pay Related Social Insurance), from your pay</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bainfidh d’fhostóir ranníocaíochtaí árachais shóisialaigh, dá ngairfear ÁSPC (Árachas Sóisialach Pá-Choibhneasa) as do chuid pá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They will help you to qualify for contributory social welfare payments such as Jobseeker's Benefit, Illness Benefit and State Pension (Contributory). The amount of your contribution will depend on your category as an employee</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh siad ina chúnamh duit íocaíochtaí leasa shóisialaigh ranníocacha a fháil cosúil le Sochar Cuardaitheora Poist, Sochar Míchumais agus Pinsean Stáit (Ranníocach) Braitheann an méid a bheidh le híoc agat ar an aicme lena mbaineann tú mar fhostaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, most employees pay Class A contributions, the precise rate depending on your earnings</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, íocann an chuid is mó fostaithe a gcuid ranníocaíochtaí ag Aicme A agus braitheann an méid faoi leith ar d'ioncam</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can read more about moving to Ireland and your social security entitlements and get a general overview of the social security system in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat léamh tuilleadh maidir le bogadh go hÉirinn agus do theidlíochtaí leasa shóisialaigh agus forbhreathnú ar an gcóras leasa shóisialta in Éirinn a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Personal Public Service Number</seg></tuv>
+  <tuv xml:lang="ga"><seg>Uimhir Phearsanta Sheirbhís Phoiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In order to work, you require a Personal Public Service Number (PPS number)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Teastaíonn Uimhir Phearsanta Seirbhis Phoiblí (PSP) uait le dul ag obair </seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can obtain a PPS number (or ask for your old number, if any, to be traced) at your local social welfare office or Intreo centre</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir uimhir PSP fháil (nó seancheann, más ann dó, a lorg) ag an oifig áitiúil leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are a foreign national, you will need your passport or your GNIB certificate of registration and supporting documentation such as household bills</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh pas agus/nó deimhniú clárúcháin BNGSI ag teastáil ó náisiúnaigh eachtracah agus cáipéis eile tacaíochta ar nós billí tí le iarratas ar uimhir PSP a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Specific queries regarding residency and taxation of income earned prior to moving to Ireland should be addressed to Revenue</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá ceisteanna agat faoi chónaí agus cáin ioncam roimh bogadh go hÉirinn, ba chóir duit dul i dteagmháil le Coimisinéirí Ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Queries in connection with social insurance (PRSI) should be addressed to your local social welfare office or Intreo centre</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá ceisteanna agat faoi árachas sóisialta, ba chóir duit dul i dteagmháil le d'oifig áitiúil leasa shóisialaigh nó ionad Intreo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Queries about getting a PPS number should be addressed to the Client Identity Services of the Department of Social Protection using the secure online request form or by phone at 1890 927 999 or (071) 967 2616</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá ceisteanna agat faoi Uimhir PSP, ba chóir duit dul i dteagmháil le Seirbhísí Aitheantais Chliaint sa Roinn Coimirce Sóisialaí trí úsáid a bhaint as an bhfoirm iarratais ar líne nó tríd an nguthán ag 1890 927 999 nó (071) 967 2616</seg></tuv>
+</tu>
+</body>
+</tmx>

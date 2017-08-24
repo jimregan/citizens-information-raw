@@ -1,0 +1,325 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Sentencing at criminal trials in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gearradh pionóis ag trialacha coiriúla in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Sentencing involves a judge deciding what the criminal justice system should do with a person found guilty of an offence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is éard atá i gceist le gearradh pionóis ná breitheamh ag déanamh cinneadh faoi céard ba cheart don chóras ceartas coiriúil a dhéanamh le duine a fuarthas ciontach i gcion</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a court in Ireland has found you guilty or you have pleaded guilty, the judge will decide the sentence that is to be imposed on you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chinneann cúirt in Éirinn go bhfuil tú ciontach i gcoir nó go bhfuil tú tar éis pléadáil ciontach, déanfaidh an breitheamh cinneadh faoin bpianbhreith atá le gearradh ort</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For some offences, there are minimum and maximum sentences that the judge must impose</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás chionta áirithe, tá íos-phianbhreith agus uas-phianbhreith nach mór don bhreitheamh a ghearradh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, for some road traffic offences, the judge is obliged to disqualify offenders from driving for a minimum of two years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, i gcás cionta tráchta ar bhóithre áirithe, ní mór don bhreitheamh ciontóirí a dhícháiliú ó thiomáint ar feadh dhá bhliain ar a laghad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are mandatory sentences for some offences</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá pianbhreitheanna éigeantacha ann i gcomhair cionta áirithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, if a court finds you guilty of murder, the judge is obliged to impose a sentence of imprisonment for life</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, má chinneann cúirt go bhfuil tú ciontach as dúnmharú, ní mór don bhreitheamh pianbhreith príosúnacht saoil a ghearradh ort</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the Probation of Offenders Act 1907, a judge in the District Court may decide that the facts alleged against you have been proven but may decide not to convict you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoin Probation of Offenders Act 1907, is féidir le breitheamh sa Chúirt Dúiche cinneadh a dhéanamh go bhfuil na fíorais atá curtha i do leith cruthaithe ach cinneadh a dhéanamh freisin gan tú a chiontú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is a form of second chance which the judge has the discretion to apply</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is cineál dara seans atá i gceist anseo a bhfuil an discréid ag an mbreitheamh é a chur i bhfeidhm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The charge may be dismissed or you may be conditionally discharged</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir an cúiseamh i do choinne a dhíbhiú nó is féidir go ndéanfaí tú a urscaoileadh ar choinníolla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The information given here relates to offences committed by adults</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann an fhaisnéis a thugtar anseo le cionta a rinne daoine fásta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Children (that is, people aged under 18) can be charged and penalised in the way described here but there are other considerations which must be taken into account</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leanaí (is é sin, daoine faoi 18 bliana d'aois) a chúiseamh agus pionós a ghearradh orthu ar an mbealach a ndéantar cur síos air anseo, ach tá rudaí eile nach mór a thógáil san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The prosecution of children is governed by the Children Act 2001</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rialaíonn Acht na Leanaí 2001 ionchúiseamh leanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In practice, children under the age of 12 are almost never prosecuted</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcleachtas, is fíor-annamh a ionchúisítear leanaí faoi 12 bliana d'aois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is policy to avoid the prosecution of children under the age of 18 unless the conditions for the Garda Diversion Programme have not been met or the offence is a particularly serious one</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé mar bheartas ionchúiseamh leanaí faoi 18 bliana d'aois a sheachaint mura bhfuil na coinníollacha do Chlár Atreoraithe an Gharda bainte amach nó más cion an-tromchúiseach atá i gceist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Childrens Act 2001 provides for a range of alternative penalties for children who have offended</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann Acht na Leanaí 2001 raon pionós malartach ar fáil do leanaí a bhfuil cionta déanta acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Criminal Justice Act 2006 (pdf) sets the age in relation to criminal responsibility. Children under 12 may not be charged with most criminal offences but children age 10 or 11 can be charged with the offences of murder, manslaughter, rape or aggravated sexual assault</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagann An tAcht um Cheartas Coiriúil 2006 (pdf) síos an aois maidir le freagracht choiriúil Ní féidir leanaí faoi 12 bliana d'aois a chúiseamh as formhór cionta coiriúla ach is féidir leanaí atá 10 nó 11 bliana d'aois a chúiseamh as cionta dúnmharaithe, dúnorgana, éignithe nó tromionsaithe gnéis </seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can read more about criminal responsibility in the document Children and the criminal justice system</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat tuilleadh a léamh faoi fhreagracht choiriúil sa doiciméad Leanaí agus an Córas Ceartais Choiriúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the Irish legal system it is always a judge (a panel of judges in the case of the Special Criminal Court or the Court of Appeal) who imposes the sentence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi chóras dlí na hÉireann, is breitheamh (nó painéal breithiúna i gcás na Cúirte Coiriúla Speisialta nó na Cúirte Achomhairc) a ghearann an pionós i gcónaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In jury trials in the Circuit Criminal Court and the Central Criminal Court, the jury’s role is to decide whether you are guilty or not guilty</seg></tuv>
+  <tuv xml:lang="ga"><seg>I dtrialacha giúiré sa Chúirt Chuarda Choiriúil agus sa Phríomh-Chúirt Choiriúil, is é an ról atá ag an ngiúire ná cinneadh a dhéanamh an bhfuil tú ciontach nó neamhchiontach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The jury has no role in sentencing you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon pháirt ag an ngiúiré i ngearradh pionóis ort</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This decision is left up to the judge after listening to your legal representative's (that is, your solicitor’s or barrister's) submission</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fágtar an cinneadh sin faoin mbreitheamh i ndiaidh dó/di éisteacht le haighneacht d'ionadaí dlí (is é sin do aturnae nó do abhcóide)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>How does a judge decide on a sentence?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Conas a dhéanann breitheamh cinneadh maidir le pianbhreith?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When considering what sentence to impose on you, the judge follows a two-step procedure:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair atá cinneadh á dhéanamh aige/aici faoin bpianbhreith atá le gearradh ort, leanann an breitheamh nós imeachta ina bhfuil dhá chéim:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Decide what the sentence should be in light of the seriousness of the offence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cinneadh a dhéanamh cén pianbhreith ar chóir a bheith ann mar gheall ar cé chomh tromchúiseach is a bhí an cion</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Reduce that sentence in the light of any mitigating or excusing factors given on your behalf</seg></tuv>
+  <tuv xml:lang="ga"><seg>Laghdú a dhéanamh ar an bpianbhreith sin mar gheall ar aon fhachtóirí maolaitheacha a thugtar ar do shon</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are a number of important factors that a judge must have regard to, when sentencing you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá roinnt fachtóirí tábhachtacha nach mór don bhreitheamh a thógáil san áireamh agus é ag gearradh pionóis ort</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is a matter for your solicitor or barrister, on your behalf, to urge the judge to consider these factors and what weight or importance should be given to each</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is faoi d'aturnae nó d'abhcóide atá sé iarraidh ar an mbreitheamh iad seo a thógáil san áireamh, agus an tábhacht ar chóir a thabhairt do gach ceann acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When deciding which sentence to impose on you, the judge considers:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair atá cinneadh á dhéanamh aige faoin bpianbhreith atá le gearradh ort, tógann an breitheamh na nithe seo a leanas san áireamh:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Whether or not you pleaded guilty to the offence</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ar phléadáil tú ciontach as an gcion nó nár dhéan</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The facts of the offence - the circumstances in which the offence occurred</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Fíorais an chiona - na cúinsí inar tharla an cion</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Whether there were any aggravating factors in relation to the offence - such as particularly violent or cruel behaviour</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An raibh aon fachtóirí a dhéanfadh forthromú ann maidir leis an gcion - mar shampla iompar cruálach nó foréigneach thar an ngnáth</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Your previous criminal record</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Do thaifead coiriúil roimhe sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Whether you are employed</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An bhfuil tú fostaithe nó nach bhfuil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Whether you are sorry for what you have done</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An bhfuil aiféala ort as an méid a rinne tú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Whether certain types of treatment may help or reform you</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An dtabharfaidh cineálacha áirithe cóireála cúnamh duit nó an ndéanfaidh siad athleasú ort</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The impact of the offence on the victim</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An tionchar a bhí ag an gcion ar an íospartach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Any other relevant information about you (for example, if you are in bad health)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Aon fhaisnéis ábharthach eile fút (mar shampla, an bhfuil droch-shláinte ag dul duit)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>See "Further information" below on the factors considered</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féach ‘Tuilleadh eolais’ thíos ar na fachtóirí a thógtar san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are a large range of sentences available to judges that can be imposed on someone found guilty of an offence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá réimse leathan pianbhreitheanna ar fáil do bhreithiúna gur féidir a ghearradh ar dhuine a fhaightear ciontach i gcion</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These can be classified as follows:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir iad seo a rangú mar seo a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Curfew, exclusion and restriction on movement orders</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cuirfiú, eisiamh agus orduithe srianta ar ghluaiseacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are a number of secondary options available to judges, depending on the offence:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá roinnt roghanna tánaisteacha ar fáil do bhreithiúna, ag brath ar an gcion:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Endorsement and penalty points for road traffic offences</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Formhuiniú agus pointí pionóis i gcomhair cionta tráchta ar bhóithre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are additional options for sex and drug trafficking offenders</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá roghanna breise ann i gcomhair ciontóirí gnéis agus gáinneála drugaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can read more about sentencing in the document on types of sentences</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat tuilleadh a léamh faoi ghearradh pionóis sa chaipéis ar chineálacha pianbhreitheanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Information on sentencing decisions is available on the Irish Sentencing Information System website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá faisnéis maidir le cinntí pianbhreithe atá ar fáil ar láithreán gréasáin an Phianbhreitheanna na hÉireann Córas Faisnéise</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Factors to be considered by a judge in sentencing</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fachtóirí atá le tógáil san áireamh ag breitheamh agus pionós á ghearradh aige</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are a number of important factors that a sentencing judge must have regard to when sentencing you. It is a matter for your solicitor or barrister, on your behalf, to urge the judge to consider these factors and what weight or importance should be given to each</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá roinnt fachtóirí tábhachtacha nach mór do bhreitheamh aird a thabhairt orthu agus tú á chiontú aige Is faoi d'aturnae nó d'abhcóide atá sé iarraidh ar an mbreitheamh iad seo a thógáil san áireamh, agus an tábhacht ar chóir a thabhairt do gach ceann acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Facts surrounding the commission of the offence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Na cúinsí a bhaineann le cur i gcrích an chiona</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The circumstances in which the offence occurred might include:</seg></tuv>
+  <tuv xml:lang="ga"><seg>I measc na gcúinsí ina bhféadfadh an cion tarlú tá:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Provocation (were you provoked into committing the offence)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bríogadh (bríogadh tú chun an cion a dhéanamh)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Duress or emotional stress (were you under emotional pressure)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Éigeantas nó strus mothúchánach (bhí brú mothúchánach ort)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Low value of goods stolen or damaged</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Luach íseal ag na hearraí a goideadh nó a rinneadh damáiste dóibh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Recovery of stolen property</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Aisghabháil maoin a goideadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These types of factors can have a positive effect for you in the judge’s decision on sentencing and are known as mitigating factors</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le factóirí den chineál seo tionchar dearfach a bheith acu i gcinneadh an bhreithimh maidir le gearradh pionóis agus tugtar factóirí maolaitheacha orthu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, there may also be factors which can have a negative effect (known as aggravating factors)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir fachtóirí a bheith ann freisin go bhfuil tionchar diúltach acu (ar a dtugtar fachtóirí forthromaithe)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Use of a firearm or other weapon</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Úsáid airm tine nó arm eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Invasion of someone’s home</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ionradh ar bhaile dhuine éigin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• On bail for another offence at the time</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ar bannaí mar gheall ar chion eile ag an am</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• High value of goods stolen or damaged</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Luach ard ag na hearraí a goideadh nó a rinneadh damáiste dóibh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• No stolen property recovered</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Níor aisghabhadh aon mhaoin a goideadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Impact of the offence on the victim</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tionchar ag an gcion ar an íospartach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In most cases of a serious nature, a judge orders that a victim impact report be prepared</seg></tuv>
+  <tuv xml:lang="ga"><seg>I bhformhór cásanna tromchúiseacha, ordaíonn an breitheamh go n-ullmhófaí tuairisc tionchair ar an íospartach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In some cases a judge hears direct evidence from the victim through a victim impact statement (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcásanna áirithe éisteann an breitheamh le fianaise díreach ón íospartach trí ráiteas tionchair íospartaigh (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This has a bearing on the sentence which a judge decides to impose</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn tionchar aige seo ar an bpianbhreith a shocraíonn an breitheamh a ghearradh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Offenders reaction to committing the offence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Freagairt na gciontóirí ar an gcion a bheith déanta acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can expect a reduced sentence for pleading guilty</seg></tuv>
+  <tuv xml:lang="ga"><seg>A bheith ag súil le pianbhreith laghdaithe má phléadálann tú ciontach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In many cases, a guilty plea will save the court time and can be seen as a sign of remorse or sorrow</seg></tuv>
+  <tuv xml:lang="ga"><seg>In go leor cásanna, sábhálfaidh pléadáil chiontach am ar an gcúirt agus is féidir é a fheiceáil mar chomhartha doilís nó bróin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In sex cases or cases involving violence, a guilty plea will spare the victim the trauma of having to relive the events in court</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcásanna gnéis nó cásanna ina bhfuil foréigean i gceist, ciallóidh pléadáil chiontach nach mbeidh ar an íospartach dul tríd an tráma a bhainfeadh le dul tríd an eachtra arís sa chúirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>While a guilty plea is a mitigating factor, you are still entitled to fight your case without it being seen as an aggravating factor</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cé gur fachtóir maolaitheach atá i bpléadáil chiontach, tá tú fós i dteideal do chás a throid gan é a bheith feicithe mar fhachtóir forthromaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is a constitutional right to be tried in due course of law and nobody is penalised for exercising this constitutional right</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá ceart bunreachtúil ann triail a bheith agat in am is i dtráth an dlí agus ní chuirfear pionós ar aon duine as ucht úsáid a bhaint as an gceart bunreachtúil seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The court sees an early admission of guilt to the Gardaí as a mitigating factor as it saves the Gardaí time and resources</seg></tuv>
+  <tuv xml:lang="ga"><seg>Feiceann an chúirt admháil luath chiontachta do na Gardaí mar fhachtóir maolaitheach os rud é go sábhálann sé am agus acmhainní ar na Gardaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Co-operation with the Gardaí</seg></tuv>
+  <tuv xml:lang="ga"><seg>Comhoibriú leis na Gardaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Co-operation with the Gardaí also helps you in the sentencing process, especially if it helped the Gardaí in catching other offenders</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann comhoibriú leis na Gardaí cúnamh duit sa phróiseas gearradh pionóis, go háirithe má thug sé cabhair do na Gardaí breith ar chiontóirí eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, Section 27 of the Misuse of Drugs Act 1977 as amended provides that this is a factor to be taken into account in deciding whether the minimum 10 year sentence for possession of drugs over a certain value is just and appropriate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, déanann Alt 27 den Acht um Mí-úsáid Drugaí 1977 arna leasú foráil gur fachtóir é seo atá le tógáil san áireamh nuair atá cinneadh á dhéanamh an bhfuil an íos-phianbhreith 10 mbliana ar dhrugaí thar luach áirithe a bheith i do sheilbh agat ceart agus feiliúnach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Personal circumstances of the offender</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cúinsí pearsanta an chiontóra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your personal circumstances is one of the most important factors a judge considers prior to sentencing and may request a probation report</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá do chúinsí pearsanta ar cheann de na fachtóirí is tábhachtaí a thógann an breitheamh san áireamh sula ngearrann sé/sí pionós agus is féidir leis iarratas ar thuairisc promhaidh a dhéanamh</seg></tuv>
+</tu>
+</body>
+</tmx>

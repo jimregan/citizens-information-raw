@@ -1,0 +1,585 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Rent Supplement and changes to your circumstances</seg></tuv>
+  <tuv xml:lang="ga"><seg>Forlíonadh Cíosa agus athruithe ar do chúinsí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Changes to your means</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Athruithe ar do mhaoin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Changes to the number of people in the household</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Athruithe ar an líon daoine sa teaghlach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Other changes to your circumstances</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Athruithe eile ar do chúinsí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your circumstances change while you are getting Rent Supplement you may have your payment reduced or you may no longer be eligible for it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má thagann athrú ar do chúinsí fad atá Forlíonadh Cíosa á fháil agat, d’fhéadfadh go laghdófaí d'íocaíocht nó nach mbeidh tú i dteideal í a fháil a thuilleadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The amount of Rent Supplement you get depends on various factors – including your income, savings, earnings, household composition and the current local rent limits</seg></tuv>
+  <tuv xml:lang="ga"><seg>Braitheann an méid den Fhorlíonadh Cíosa a fhaigheann tú ar roinnt tosca – lena n-áirítear d’ioncam, coigilteas, tuillimh, comhdhéanamh an teaghlaigh agus na teorainneacha reatha áitiúla cíosa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your Rent Supplement payment is calculated to ensure that your income is not less than the basic Supplementary Welfare Allowance (SWA) rate for your circumstances (for example, €186 for a single person over 25 and €310.80 for a couple) minus a minimum contribution of €30 (or €40 for a couple)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ríomhtar d’íocaíocht Forlíonadh Cíosa lena chinntiú nach lú d’ioncam ná ráta an bhun Liúntais Leasa Fhorlíontaigh (SWA) do do chuid cúinsí, (mar shampla, €186 do dhuine singil agus €310.80 do lánúin) lúide ranníocaíocht íosta €30 (nó €40 do lánúin)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your income increases above this amount, your Rent Supplement payment may be reduced</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má mhéadaítear d’ioncam os cionn an mhéid seo, féadtar d'íocaíocht Forlíonadh Cíosa a laghdú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your Rent Supplement claim is reviewed regularly (generally every 6 months)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar athbhreithniú rialta ar d’éileamh ar Fhorlíonadh Cíosa (gach 6 mhí go ginearálta)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When your claim is reviewed you will be asked to fill out a Rent Supplement Review Form</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a dhéantar athbhreithniú ar d’éileamh, iarrfar ort Foirm Athbhreithnithe ar Fhorlíonadh Cíosa a chomhlánú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should return the form as soon as possible to the officer dealing with your claim to make sure that there is no delay to your payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart duit an fhoirm a sheoladh ar ais a luaithe is féidir chuig an oifigeach a dhéileálann le d'éileamh lena chinntiú nach mbeidh aon mhoill ar d'íocaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should always tell the Department of Social Protection (DSP) immediately (see ‘How to apply’ below) if there are any changes to your means</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart duit a insint don Roinn Coimirce Sóisialaí (RCS) láithreach (féach ‘Conas iarratas a dhéanamh’ thíos), má thagann aon athrú ar do mhaoin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should also inform the DSP if there are changes to the means of other members of your household, or to the number of people living in your household</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, ba cheart duit an RCS a chur ar an eolas má thagann athruithe ar mhaoin daoine eile muinteartha i do theaghlach, nó ar an líon daoine a chónaíonn i do theaghlach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This document outlines what happens to your Rent Supplement payment in some common situations</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar breac-chuntas sa cháipéis seo ar céard a tharlaíonn do d’íocaíocht Forlíonadh Cíosa i roinnt cásanna coitianta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A new Housing Assistance Payment (HAP) has been introduced in some areas</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugadh isteach Íocaíocht nua Cúnaimh Tithíochta (ÍCT) i roinnt ceantar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Different rules apply for Rent Supplement depending on whether you live in an area where the new Housing Assistance Payment (HAP) is in operation or in an area where HAP is not yet in operation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann rialacha éagsúla d’Fhorlíonadh Cíosa, ag brath ar cibé acu an gcónaíonn tú i gceantar ina bhfuil an Íocaíocht Cúnaimh Tithíochta (ÍCT) nua á hoibriú nó i gceantar nach bhfuil an ÍCT ag oibriú ann go fóill</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Changes to your means</seg></tuv>
+  <tuv xml:lang="ga"><seg>Athruithe ar do mhaoin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you or your partner gets full-time work:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhaigheann tú féin nó do pháirtnéir obair lánaimseartha:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In general people working full-time (defined as 30 hours or over a week) are not eligible for Rent Supplement. Claims from self-employed people are assessed on the individual circumstances of the case and you may be asked to show that you are working less than 30 hours a week</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, ní bhíonn daoine a oibríonn go lánaimseartha (a shainítear mar 30 uair an chloig sa tseachtain nó níos mó) i dteideal Forlíonadh Cíosa a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you get full-time work and you have been accepted as being in need of accommodation under the Rental Accommodation Scheme (RAS) by your local authority, you may be able to keep your Rent Supplement (provided you have been unemployed or not in full-time employment for at least 12 months before you start work). If you are working over 30 hours a week in self-employment or if you are getting the Back to Work Enterprise Allowance you must be deemed eligible for the RAS scheme by your local authority to continue to get Rent Supplement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhaigheann tú obair lánaimseartha agus má ghlacadh leat amhail cóiríocht bheith ag teastáil uait faoin Scéim Cóiríochta Cíosa (RAS) ag d’údarás áitiúil, d’fhéadfadh go mbeifeá in ann d’Fhorlíonadh Cíosa a choimeád (a fhad agus atá tú dífhostaithe nó gan bheith fostaithe go lánaimseartha ar feadh 12 mhí ar a laghad sula dtosaíonn tú ag oibriú)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, you will be reassessed for Rent Supplement and your income from work will be taken into account</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfar athmheasúnú ort, áfach, don Fhorlíonadh Cíosa agus cuirfear d’ioncam ó obair san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As a result of the reassessment you may or may not continue to qualify for Rent Supplement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar thoradh ar an athmheasúnú, d’fhéadfadh go gcáileofaí nó nach gcáileofaí thú chun leanúint le Forlíonadh Cíosa a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you do qualify for Rent Supplement you may get a different rate of Supplement. The additional household income disregard (see below) applies to income from work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má cháilítear thú d’Fhorlíonadh Cíosa, d’fhéadfá ráta éagsúil an Fhorlíonta a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Many people on long-term Rent Supplement are being transferred to the new Housing Assistance Payment (HAP)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann an neamhaird bhreise a thugtar d’ioncam teaghlaigh (féach thíos) le hioncam ó obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your spouse, civil partner or cohabitant gets full-time work your household is no longer eligible for Rent Supplement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhaigheann do chéile, páirtnéir sibhialta nó do chomháititheoir obair lánaimseartha, ní bheidh do theaghlach i dteideal Forlíonadh Cíosa a fháil a thuilleadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(Note that a non-dependent household member can work full-time but they must make a minimum contribution to the rent - see 'If your family circumstances or size changes' below.)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Tabhair faoi deara gur féidir le neamhchleithiúnaí muinteartha oibriú go lánaimseartha ach ní mór dóibh ranníocaíocht íosta a dhéanamh leis an gcíos – féach ‘Má athraíonn cúinsí nó méid do theaghlaigh’ thíos.)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you get full-time work and you are not entitled to retain your Rent Supplement you can continue to get Rent Supplement for up to 30 days after starting work or until you are paid, whichever is earlier</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhaigheann tú obair lánaimseartha agus mura bhfuil tú i dteideal d’Fhorlíonadh Cíosa a choimeád, féadfaidh tú leanúint le Forlíonadh Cíosa a fháil a mhéid le 30 lá i ndiaidh duit tosú ag oibriú nó go n-íocfar thú, pé ceann is luaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you get part-time work:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhaigheann tú obair pháirtaimseartha:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you get part-time work (defined as less than 30 hours a week) you can keep your Rent Supplement but your income from work will be assessed against your Rent Supplement and it may be reduced</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhaigheann tú obair pháirtaimseartha (a shainítear mar obair níos lú ná 30 uair sa tseachtain), féadfaidh tú d’Fhorlíonadh Cíosa a choimeád ach déanfar measúnú ar d’ioncam ó obair i leith d’Fhorlíonadh Cíosa agus d’fhéadfaí é a laghdú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The additional household income disregard (see below) applies to income from part-time work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann an neamhaird bhreise a thugtar d’ioncam teaghlaigh (féach thíos) le hioncam ó obair pháirtaimseartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The same applies to your spouse, civil partner or cohabitant - any income he/she gets from part-time work will be assessed against your Rent Supplement and the Supplement may be reduced</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann sé le do chéile, páirtnéir sibhialta nó do chomháititheoir chomh maith - déanfar measúnú ar aon ioncam a fhaigheann sé/sí ó obair pháirtaimseartha i leith d’Fhorlíonadh Cíosa agus féadfar an Forlíonadh a laghdú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Additional household income disregard │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Neamhaird a thugtar d'ioncam breise teaghlaigh │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Some income from part-time employment and other sources is not taken into account in the means test for Rent Supplement</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Ní chuirtear roinnt ioncaim ó fhostaíocht pháirtaimseartha agus ó fhoinsí eile san áireamh sa tástáil mhaoine don Fhorlíonadh Cíosa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Additional household income is income from employment or self-employment, Family Income Supplement, Community Employment, JobBridge, the Tús scheme, the Rural Social Scheme, Gateway, the Part-time Job Incentive Scheme, Work Placement Scheme, Back to Work Allowance, Back to Work Enterprise Allowance or an approved FET course. It also includes income above the SWA rate for those on Momentum courses or the Skillnets programme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is éard is ioncam breise teaghlaigh ó fhostaíocht nó ó fhéinfhostaíocht, Forlíonadh Ioncam Teaghlaigh, Fostaíocht Pobail, JobBridge, scéim Tús, Rural Social Scheme, Part-time Job Incentive Scheme, Momentum, Skillnets, Work Placement Scheme, an Liúntas um Fhilleadh ar Obair, an Liúntas Fiontraíochta um Fhilleadh ar Obair nó cúrsa faofa FET</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Under the additional household income disregard the first €75 per week of additional household income above the SWA rate for your circumstances is not taken into account and 25% of additional household income over €75 per week is not taken into account</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Faoin neamhaird a thugtar d’ioncam breise teaghlaigh, ní chuirtear an chéad €75 sa tseachtain d’ioncam breise teaghlaigh a sháraíonn an ráta cuí SWA do do chás san áireamh agus ní chuirtear 25% d’ioncam breise teaghlaigh os cionn €75 sa tseachtain san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is no upper limit on the amount that can be disregarded</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon teorainn uasta ar an méid ar féidir neamhaird a thabhairt dó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A portion of maintenance payments is assessed as additional household income</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar measúnú ar chuid de na híocaíochtaí cothabhála mar ioncam breise teaghlaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The first €95.23 per week of maintenance payments is assessable in full and any amount above this is assessed under the additional household income disregard. You can use our document on Calculating Rent Supplement to work out your additional household income disregard.│</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir measúnú a dhéanamh ar an gcéad €95.23 sa tseachtain d’íocaíochtaí cothabhála ina n-iomláine agus déantar measúnú ar aon mhéid os a chionn seo faoin neamhaird a thugtar d’ioncam breise teaghlaigh.│</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│If you are getting Disability Allowance or Blind Pension and do rehabilitative work, up to €120 per week of earnings from this employment can be disregarded</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Má tá Liúntas Míchumais nó Pinsean na nDall á fháil agat agus má dhéanann tú obair athshlánaithe, féadtar neamhaird a thabhairt do €120, ar a mhéid, sa tseachtain de na tuillimh ón bhfostaíocht seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, this disregard cannot be applied together with the additional household income disregard</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir an neamhaird seo a chur i bhfeidhm i dteannta na neamhairde ioncam breise teaghlaigh, áfach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Only one disregard can be applied, whichever is most beneficial</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir ach neamhaird amháin a chur i bhfeidhm – pé ceann is mó a théann chun do shochair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you change from one social welfare payment to another:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má athraíonn tú ó íocaíocht leasa shóisialaigh amháin go dtí ceann eile:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is no change to your Rent Supplement payment if the amount you get stays the same</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní athraítear d’íocaíocht Forlíonadh Cíosa mura n-athraítear an méid a fhaigheann tú ón íocaíocht nua</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your social welfare payment is suspended, pending investigation, your Rent Supplement can be stopped</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chuirtear d’íocaíocht leasa shóisialaigh ar fionraí, ar feitheamh scrúdú, féadtar stop a chur le d’Fhorlíonadh Cíosa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However in some circumstances your Rent Supplement payment may be affected</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfaí difear a dhéanamh, faoi chúinsí áirithe, áfach, do d’íocaíocht Forlíonadh Cíosa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you transfer onto a different and higher payment your Rent Supplement will be reduced in line with the increase (unless you are aged 65 or over or are getting a carer’s payment – see below)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má aistrítear thú chuig íocaíocht éagsúil nó níos airde, laghdófar d’Fhorlíonadh Cíosa ar aon dul leis an méadú (mura bhfuil tú 65 bliain d’aois nó níos sine nó má tá íocaíocht chúramóra á fáil agat - féach thíos)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, a person getting Illness Benefit who transfers onto Maternity Benefit at a higher rate may have their Rent Supplement reduced by the difference between the two payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, d’fhéadfaí an Forlíonadh Cíosa a laghdú faoin difríocht idir an dá íocaíocht atá á fáil ag duine ag a bhfuil Sochar Breoiteachta á fháil a n-aistrítear iad go dtí Sochar Máithreachais ar ráta níos airde</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are aged 65 or over (or where one of a couple is of pensionable age) and have a combined household income greater than the SWA rate for your circumstances, the difference between the maximum rate of State Pension (Contributory) for your circumstances and the basic Supplementary Welfare Allowance (SWA) rate for your circumstances is not taken into account</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú 65 bliain d’aois nó níos sine (nó sa chás go bhfuil duine amháin den lánúin in aois an phinsin) agus má tá agaibh comhioncam teaghlaigh a sháraíonn ráta an SWA do bhur gcúinsí, ní chuirtear san áireamh an difríocht idir ráta uasta an Phinsin Stáit (Ranníocach) do bhur gcúinsí agus ráta an bunLiúntais Leasa Fhorlíontaigh (SWA) do bhur gcúinsí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, a couple who are both aged 66 and getting State (Non-Contributory) pensions would get a payment of €438. However their Over 65 disregard is calculated on 2 State Pension (Contributory) rates</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, gheobhadh lánúin a bhfuil an bheirt díobh 66 bliain d’aois agus a bhfuil Pinsin Stáit (Neamhranníocach) á bhfáil acu íocaíocht €438</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>So their disregard is worked out by subtracting the basic SWA rate for a couple (€310.80) from €460.60</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ionann an bunráta SWA don lánúin seo agus €310.80</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The difference of €149.80 is not taken into account but any income the couple has above this might affect their Rent Supplement payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chuirtear an difríocht €127.20 san áireamh ach d’fhéadfadh aon ioncam atá ag an lánúin seo os a chionn seo difear a dhéanamh dá n-íocaíocht Forlíonadh Cíosa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A carer's disregard applies to people getting carer’s payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ionann an scéal le híocaíochtaí cúramóra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>So if you are getting Carer's Allowance or Carer’s Benefit, the amount of the actual carer’s payment above the appropriate SWA rate for your situation (either the SWA qualified adult rate if one of a couple is getting Carer's Allowance or the personal rate of SWA if the carer is single) is not taken into account</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin, má tá Liúntas Cúramóra nó Sochar Cúramóra á fháil agat, ní chuirtear san áireamh an méid den íocaíocht chúramóra a sháraíonn an ráta cuí SWA do do chás (cibé acu an ráta do dhuine fásta cáilithe do lánúin nó an ráta pearsanta SWA)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Half-rate Carer’s Allowance is never taken into account</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chuirtear san áireamh riamh Liúntas Cúramóra ar Leathráta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you go onto an employment scheme:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má thugann tú faoi scéim fostaíochta:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you were getting Rent Supplement before you started the employment scheme (sometimes called a back-to-work scheme) you can generally keep your Rent Supplement but income from the scheme may be assessed and your Rent Supplement may be reduced</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhí Forlíonadh Cíosa á fháil agat sular thosaigh tú an scéim fostaíochta (tugtar scéim um fhilleadh ar an obair air seo amanna), féadfaidh tú d’Fhorlíonadh Cíosa a choimeád, i dtromlach na gcásanna, ach féadtar ioncam ón scéim a mheasúnú agus d’fhéadfaí d’Fhorlíonadh Cíosa a laghdú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The following table summarises how income from various schemes is treated</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar achoimre sa tábla a leanas ar conas a dhéileáiltear le hioncam ó scéimeanna éagsúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Scheme │Effect on Rent Supplement │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Scéim │Tionchar ar Fhorlíonadh Cíosa │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│JobBridge │JobBridge is classified as a work-experience programme</seg></tuv>
+  <tuv xml:lang="ga"><seg>│JobBridge │Rangaítear JobBridge mar chlár taithí oibre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is not considered employment so interns are not disqualified from Rent Supplement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mheastar gurb ionann é agus fostaíocht, mar sin, ní dhícháilítear intéirnigh ó Fhorlíonadh Cíosa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The €50 allowance is assessed under the additional household income disregard</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar an liúntas €50 a mheasúnú faoin neamhaird a thugtar d'ioncam breise teaghlaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Work Placement Programme │The Work Placement Programme is also considered to be a work-experience programme</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Clár Socrúchán Oibre │Meastar gur clár taithí oibre atá sa Chlár Socrúchán Oibre chomh maith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is no additional allowance and it therefore will not affect your Rent Supplement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chuirtear aon liúntas breise ar fáil, agus ar an ábhar sin, ní dhéanfaidh sé difear do d’Fhorlíonadh Cíosa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Community Employment Schemes, Rural Social Scheme, Tús, Gateway │You continue to be entitled to claim Rent Supplement if you were claiming it when you started the scheme but your payment may be reduced</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Scéimeanna Fostaíocht Pobail, Scéim Shóisialta Tuaithe, Tús, Liúntas um Fhilleadh ar Obair │Féadfaidh tú leanúint ort agus bheith i dteideal Forlíonadh Cíosa a éileamh má bhí sé á éileamh agat nuair a thosaigh tú an scéim, ach d’fhéadfaí d’íocaíocht a laghdú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The additional household income disregard applies to your payment │</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann an neamhaird a thugtar d'ioncam breise teaghlaigh le d’íocaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Family Income Supplement and Part-time Job Incentive Scheme │You can retain Rent Supplement while on these schemes (provided you do not work more than 30 hours a week) and you can apply for Rent Supplement while you are on them</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Forlíonadh Ioncam Teaghlaigh agus Scéim Dreasachta Poist Pháirtaimseartha │Féadfaidh tú d’Fhorlíonadh Cíosa a choimeád fad atá tú rannpháirteach sna scéimeanna seo (a fhad agus nach n-oibríonn tú breis agus 30 uair sa tseachtain) agus gur féidir leat iarratas a dhéanamh ar Fhorlíonadh Cíosa fad atá tú rannpháirteach iontu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The additional household income disregard applies</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann an neamhaird a thugtar d'ioncam breise teaghlaigh le d’íocaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>See also ‘If you get full-time work’ above for exceptions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féach chomh maith ‘Má fhaigheann tú obair lánaimseartha’, thuas, chun teacht ar eisceachtaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you go back to education:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhilleann tú ar oideachas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In most cases, people in full-time education are not eligible for Rent Supplement</seg></tuv>
+  <tuv xml:lang="ga"><seg>I dtromlach na gcásanna, ní bhíonn daoine atá in oideachas lánaimseartha i dteideal Forlíonadh Cíosa a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your spouse, civil partner or cohabitant can be in full-time education while you are getting Rent Supplement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh do chéile, páirtnéir sibhialta nó do chomháititheoir bheith in oideachas lánaimseartha fad atá Forlíonadh Cíosa á fháil agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are getting a Back to Education Allowance or taking part in a full-time Momentum project or a Springboard course, you can retain your Rent Supplement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá Liúntas um Fhilleadh ar Oideachas, Momentum ó Springboard á fháil agat, féadfaidh tú d’Fhorlíonadh Cíosa a choimeád</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some people can return to education and retain their Disability Allowance or One-Parent Family Payment but they will lose their Rent Supplement because they are in full-time education</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh roinnt daoine filleadh ar oideachas agus a Liúntas Míchumais nó a nÍocaíocht Teaghlach Aontuismitheora a choimeád, ach caillfidh siad a bhForlíonadh Cíosa mar gheall go bhfuil siad in oideachas lánaimseartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are on an approved FET (previously FÁS) course you can retain or apply for Rent Supplement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní dhéanann ioncam ó chúrsaí oiliúna FET difear do d’Fhorlíonadh Cíosa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are participating in an approved training course, any lunch or travel allowances paid may be disregarded</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú rannpháirteach i gcúrsa faofa oiliúna, féadtar neamhaird a thabhairt d’aon liúntais lóin nó taistil a íoctar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can apply for or keep Rent Supplement while on a Vocational Training Opportunities Scheme (VTOS) or Youthreach</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú iarratas a dhéanamh ar Fhorlíonadh Cíosa ar Scéim Deiseanna Oiliúna Gairmoideachais (VTOS) ó Youthreach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you inherit or are given money:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhaigheann tú airgead le hoidhreacht nó má thugtar airgead duit:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The income limits for the Supplementary Welfare Allowance Scheme (under which Rent Supplement is paid) are lower than those for other social welfare payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ísle na teorainneacha ioncaim do scéim an Liúntais Leasa Fhorlíontaigh (faoina n-íoctar Forlíonadh Cíosa) ná iad siúd d’íocaíochtaí leasa shóisialaigh eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If, for example, you inherit €15,000 this may have no effect on your main payment (because you can have up to €20,000 capital for the majority of means-tested social welfare payments and €50,000 for Disability Allowance) but it may affect your Rent Supplement (because any capital over €5,000 is assessed)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhaigheann tú €15,000 le hoidhreacht, cuir i gcás, d’fhéadfadh nach mbeadh aon tionchar aige seo ar do phríomhíocaíocht (mar gheall gur féidir leat caipiteal a mhéid le €20,000 a bheith agat do thromlach na n-íocaíochtaí leasa shóisialaigh a ndéantar tástáil mhaoine ina leith agus €50,000 don Liúntas Míchumais) ach d’fhéadfadh sé difear a dhéanamh do d’Fhorlíonadh Cíosa (mar gheall go ndéantar aon chaipiteal os cionn €5,000 a mheasúnú)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Changes to the number of people in the household</seg></tuv>
+  <tuv xml:lang="ga"><seg>Athruithe ar an líon daoine sa teaghlach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your family circumstances or size changes:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má athraíonn cúinsí nó méid do theaghlaigh:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Every non-dependent adult household member is expected to pay a minimum contribution to the rent of €30</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bítear ag súil leis go n-íocfaidh gach neamhchleithiúnaí muinteartha fásta ranníocaíocht íosta €30 i dtreo an chíosa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Custom and practice is that the assessable income of the non-dependent household member (that is, gross income less PRSI and travel costs to work) is divided by the appropriate rate of SWA for their situation which is then multiplied by €30 to establish how much they should contribute to the household's rent</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an nósmhaireacht agus an cleachtas go ndéantar ioncam inmheasúnaithe an bhaill teaghlaigh neamhchleithiúnaigh (i., ollioncam lúide ÁSPC agus costais taistil go dtí an áit oibre) a roinnt faoi ráta iomchuí an LLF dá staid agus ansin déantar é sin a iolrú faoi €30 chun a dhliteanas i leith ranníocaíochta a oibriú amach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the non-dependent household members are a couple their contribution is €40</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más lánúin na neamhchleithiúnaithe muinteartha, is ionann a ranníocaíocht agus €40</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(A non-dependent household member is anyone who is not your spouse, civil partner or cohabitant who is working or getting a social welfare payment in their own right.)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Is éard is neamhchleithiúnaí muinteartha ann, duine ar bith nach do chéile, páirtnéir sibhialta nó do chomháititheoir iad atá ag oibriú nó a bhfuil íocaíocht leasa shóisialaigh á fáil acu as a gceart féin)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When your child/children turns 18, if they are still in full-time education, there will be no change to your Rent Supplement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a bhaineann do leanbh/leanaí 18 mbliana amach, má tá siad fós in oideachas lánaimseartha, ní athrófar d’Fhorlíonadh Cíosa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a child living in the household turns 18 and gets a job or a social welfare payment in their own right they are expected to pay a minimum contribution of €30</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhaineann leanbh a chónaíonn sa teaghlach 18 mbliana amach agus má fhaigheann sé/sí post nó íocaíocht leasa shóisialaigh as a gceart féin, bítear ag súil leis go n-íocfaidh siad ranníocaíocht íosta €30</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if benefit and privilege has been assessed against their social welfare payment they do not have to contribute €30</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má rinneadh measúnú ar shochar agus ar phribhléid, áfach, i leith a n-íocaíochta leasa shóisialaigh, ní gá dóibh €30 a ranníoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a child leaves home your rent must be under the limit for your reduced family size</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhágann leanbh an baile, ní mór go mbeidh do chíos faoi bhun na teorann do mhéid laghdaithe do theaghlaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(The Rent Supplement limits vary depending on where you live</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Athraíonn teorainneacha an Fhorlíonta Cíosa ag brath ar cén áit a gcónaíonn tú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will need to know what the limits are in your local area.)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh ort fios a bheith agat céard iad na teorainneacha i do cheantar áitiúil.)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have a new baby or if you adopt or foster a child your family size will increase so the rent limit that applies to your household may increase</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá leanbh nua agat nó má uchtaíonn tú leanbh nó má dhéanann tú leanbh a altramú, tiocfaidh méadú ar mhéid do theaghlaigh, agus ar an ábhar sin, d’fhéadfadh méadú teacht ar an teorainn chíosa a bhaineann le do theaghlach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have a large family and you need larger accommodation that costs more than the rent limits that apply in your area you should discuss your situation with your local DSP representative - see ‘How to apply’ below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá teaghlach mór agat agus má theastaíonn breis cóiríochta uait a chosnaíonn níos mó ná na teorainneacha cíosa atá i bhfeidhm i do cheantar, ba cheart duit do chás a phlé leis an ionadaí áitiúil den RCS - féach ‘Conas iarratas a dhéanamh’ thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you marry, enter a civil partnership or start to live with a new partner:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má phóstar thú, má iontrálann tú i bpáirtnéireacht shibhialta nó má thosaíonn tú ag cónaí le páirtnéir nua</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If someone comes to live with you as a spouse, civil partner or cohabitant you will be treated as a couple and you will be expected to pay a minimum household contribution of €40 towards your rent</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má thagann duine chun cónaí leat mar chéile, páirtnéir sibhialta nó comháititheoir, caithfear libh mar lánúin agus beifear ag súil leis go n-íocfaidh tú ranníocaíocht íosta teaghlaigh €40 i dtreo do chíosa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You do not have to make a new application for Rent Supplement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní gá duit iarratas nua a dhéanamh ar Fhorlíonadh Cíosa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However your existing claim will be reviewed and any income your spouse, civil partner or cohabitant has from work or from a social welfare payment will be taken into account</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirfear san áireamh aon ioncam atá ag do chéile, páirtnéir sibhialta nó comháititheoir ó obair nó ó íocaíocht leasa shóisialaigh sa tástáil mhaoine d’Fhorlíonadh Cíosa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the person is working full-time you will no longer be entitled to Rent Supplement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá an duine sin ag oibriú go lánaimseartha, ní bheidh tú i dteideal an Forlíonadh Cíosa a fháil a thuilleadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you separate from your spouse, civil partner or cohabitant:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má scarann tú ó do chéile, páirtnéir sibhialta nó comháititheoir:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your spouse or partner leaves the family home and you remain there with your children, your Rent Supplement payment does not change (because the rent limits for a one-parent family and a couple with children are the same)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhágann do chéile, páirtnéir sibhialta nó comháititheoir teach an teaghlaigh agus má fhanann tú ann le do chuid leanaí, ní athraítear d’íocaíocht Forlíonadh Cíosa (mar gheall gurb ionann na teorainneacha cíosa do theaghlach aontuismitheora agus lánúin)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However if your partner has custody of your child(ren) for most of the time, the rent limits applied for the family size can change (because the child(ren) are no longer in the home full time)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá caomhnóireacht do leanbh/leanaí ag do pháirtnéir do thuras mór an ama, áfach, féadtar na teorainneacha cíosa a cuireadh i bhfeidhm do mhéid an teaghlaigh athrú (mar gheall nach bhfuil an leanbh/na leanaí sa teach an t-am ar fad a thuilleadh)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you do not have children and your partner leaves you will be assessed as a single person for Rent Supplement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil leanaí agat agus má fhágann do pháirtnéir thú, déanfar measúnú ort amhail duine singil ar mhaithe leis an bhForlíonadh Cíosa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your former spouse or partner pays maintenance some of this will be assessed in the means test for Rent Supplement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má íocann d’iarchéile nó d’iarpháirtnéir cothabháil, déanfar measúnú ar roinnt di seo sa tástáil mhaoine don Fhorlíonadh Cíosa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The first €95.23 per week of maintenance payments is assessable in full (because it is considered to be a contribution towards your housing expenses) and any amount above this is assessed under the additional household income disregard - see ‘Additional household income disregard’ above</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir measúnú a dhéanamh ar an gcéad €95.23 sa tseachtain d’íocaíochtaí cothabhála ina n-iomláine (mar gheall go meastar gur ranníocaíocht iad i dtreo do chostas tithíochta) agus déantar measúnú ar aon mhéid os a chionn seo faoin neamhaird a thugtar d’ioncam breise teaghlaigh – féach ‘Neamhaird a thugtar d’ioncam breise teaghlaigh’ thuas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you own your home as joint owners and the person who leaves the family home applies for Rent Supplement they may be refused because they are considered to have an interest in the home</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más comhúinéirí thú féin agus do pháirtnéir ar bhur dteach agus má dhéanann an duine a fhágann an teach iarratas ar Fhorlíonadh Cíosa, d’fhéadfaí é a dhiúltú dóibh mar gheall go meastar go bhfuil leas acu sa teach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, once there is a separation agreement in place and the home ownership issues have been resolved the person who left should be able to apply for Rent Supplement in their own right</seg></tuv>
+  <tuv xml:lang="ga"><seg>A luaithe a bhíonn comhaontú idirscartha i bhfeidhm agus gur réitíodh na ceisteanna úinéireachta, áfach, ba cheart go mbeadh an duine a d’fhág in ann iarratas a dhéanamh ar Fhorlíonadh Cíosa as a gceart féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They will need to have their housing need assessed by the local authority in the usual way</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh orthu measúnú a fháil ar a riachtanas tithíochta ag an údarás áitiúil ar an ngnáthbhealach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your children spend some time with one parent and some time with another:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chaitheann do leanaí roinnt ama le tuismitheoir amháin agus roinnt eile ama leis an tuismitheoir eile:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have shared custody or guardianship of a child and that child stays with you overnight for part of the week, you should check with your local Department of Social Protection representative (formerly known as the Community Welfare Officer or CWO)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá caomhnóireacht nó cúram comhroinnte agat ar leanbh agus má fhanann an leanbh sin leat thar oíche ar feadh cuid den tseachtain, ba cheart duit a sheiceáil leis an ionadaí áitiúil den Roinn Coimirce Sóisialaí (tugadh Oifigeach Leasa Pobail nó CWO orthu seo roimhe seo)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Each Rent Supplement claim is examined with regard to all of the circumstances of the case</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar gach éileamh ar Fhorlíonadh Cíosa a scrúdú agus aird ar chúinsí uile an cháis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are not the primary carer and are looking for accommodation to provide for your children the DSP will take the following into consideration when processing your Rent Supplement claim:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Murach tú féin an príomhchúramóir agus má tá cóiríocht á cuardach agat chun soláthar a dhéanamh do do leanaí, cuirfidh an RCS an méid a leanas san áireamh nuair a bhíonn d’éileamh ar Fhorlíonadh Cíosa á phróiseáil agat:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Your family composition and size</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Comhdhéanamh agus méid do theaghlaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Whether any court orders or agreements exist indicating whether joint custody arrangements or access arrangements are in place</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cibé acu arb ann nó nach ann d’orduithe cúirte nó do chomhaontuithe a thugann le fios an bhfuil socruithe comhchaomhnóireachta nó socruithe rochtana i bhfeidhm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Where you live in relation to the primary carer</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An áit a gcónaíonn tú maidir leis an bpríomhchúramóir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Whether the child is living with you temporarily as part of an access agreement</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cibé acu an bhfuil an leanbh ag cónaí leat go sealadach mar chuid de chomhaontú rochtana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Any evidence of a history of continued parental support for the child such as transfer of property to the primary carer, evidence of financial support and other supports such as attending parent-teacher meetings and collecting child from school</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Aon fhianaise i leith staire de thacaíocht leantach tuismitheora don leanbh, ar nós aistriú maoine chuig an bpríomhchúramóir, fianaise i leith tacaíocht airgeadais agus tacaíochtaí eile ar nós freastal ar chruinnithe tuismitheora-múinteora agus leanbh a bhailiú ón scoil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Any evidence indicating whether you availed of overnight access to the child(ren) before your application for Rent Supplement</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Aon fhianaise a thugann le fios an raibh nó nach raibh fáil agat ar rochtain thar oíche ar an leanbh/na leanaí sula ndearna tú d’iarratas ar Fhorlíonadh Cíosa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Any evidence from any social worker or medical reports</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Aon fhianaise ó aon oibrí sóisialta nó aon tuairiscí leighis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Whether any letters of consent from the primary carer exist or are required</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cibé acu an ann d’aon litreacha toilithe ón bpríomhchúramóir nó an dteastaíonn siad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The content of any Housing Needs Assessment from your local authority</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ábhar aon Mheasúnaithe ar Riachtanais Tithíochta ó d’údarás áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Other changes to your circumstances</seg></tuv>
+  <tuv xml:lang="ga"><seg>Athruithe eile ar do chúinsí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your landlord raises the rent:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má ardaíonn do thiarna talún an cíos:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Rent Supplement is not normally paid where the rent payable to the landlord is over the limits</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní gnách go n-íoctar Forlíonadh Cíosa sa chás go bhfuil an cíos atá iníoctha leis an tiarna talún os cionn na dteorainneacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, under certain circumstances the Department's representative can pay Rent Supplement where the rent is above the relevant limit; this might apply where there are special housing needs or on a very short-term basis until the tenant is in a position to reassume responsibility for his/her rent</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi roinnt cúinsí, áfach, féadfaidh ionadaí na Roinne Forlíonadh Cíosa a íoc sa chás go bhfuil an cíos os cionn an leibhéil ábhartha; d’fhéadfadh seo bheith i gceist sa chás gurb ann do riachtanais speisialta tithíochta nó ar bhonn an-ghearrthréimhseach go dtí go bhfuil an tionónta in ann filleadh le freagracht a ghlacadh as a c(h)íos féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In some parts of Ireland rents have risen since the limits were last revised</seg></tuv>
+  <tuv xml:lang="ga"><seg>I roinnt áiteanna in Éirinn, tá méadú tagtha ar chíosanna ó rinneadh athbhreithniú ar na teorainneacha an uair dheireanach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Community Welfare Service has statutory discretionary power to award or increase a Rent Supplement payment, for example, when dealing with a person who is in danger of homelessness</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá cumhacht reachtúil lánroghnach ag an bhfoireann Seirbhís Leasa Pobail chun na teorainneacha a shárú i gceantair inar tháinig méadú mór ar chíosanna agus ina bhféadfadh tionóntaí a bheith i mbaol a dteach a cheannach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This applies both to people getting Rent Supplement and new applicants</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann seo le daoine a bhfuil Forlíonadh Cíosa á bhfáil acu agus iarratasóirí nua</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Tenants in Dublin can access the Tenancy Protection Service provided by Threshold on 1800 454 454</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tionóntaí i mBaile Átha Cliath rochtain a fháil ar an tSeirbhís um Chosaint Tionóntachta a sholáthraíonn Threshold ar 1800 454 454</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have to leave your current accommodation:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más gá duit do chóiríocht reatha a fhágáil:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If there is a good reason why you have to leave your current accommodation (for example, your landlord is not willing to renew your lease), you can make an application for Rent Supplement for a new address, provided it is still within the rent limits</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más ann d’údar maith go bhfuil ort do chóiríocht reatha a fhágáil (mar shampla, níl do thiarna talún toilteanach do léas a athnuachan), féadfaidh tú iarratas a dhéanamh ar Fhorlíonadh Cíosa do sheoladh nua, a fhad agus atá sé fós laistigh de na teorainneacha cíosa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, you will have to apply again and fill out new application forms for yourself and your new landlord</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh ort iarratas a dhéanamh arís, áfach, agus foirmeacha nua iarratais a chomhlánú duit féin agus do do thiarna talún nua</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There may be a gap in payment while your new application is processed</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh bearna bheith ann san íocaíocht fad a phróiseáiltear d’iarratas nua</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you qualified for Rent Supplement based on housing need (that is, you are on a local authority housing list) and you are moving to a new local authority area, you will have to make a fresh application with the new local authority</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má cáilíodh thú d’Fhorlíonadh Cíosa bunaithe ar riachtanas tithíochta (is é sin, go bhfuil tú ar liosta tithíochta sóisialta údaráis áitiúil) agus má tá tú ag aistriú go dtí limistéar nua údaráis áitiúil, beidh ort iarratas nua a dhéanamh leis an údarás nua áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Special provisions apply if you are at risk of becoming homeless</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann forálacha speisialta má tá tú i mbaol bheith gan dídean</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you go to hospital or prison:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má théann tú chuig an ospidéal nó má chuirtear sa phríosún thú:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you go to hospital for a short stay, or if you are in prison or remanded in custody for less than 13 weeks, you can continue to get your Rent Supplement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má théann tú chuig an ospidéal ar feadh tamall gearr, nó má chuirtear sa phríosún thú nó má athchuirtear faoi choinneáil thú ar feadh níos lú ná 13 sheachtain, féadfaidh tú leanúint ar aghaidh agus d’Fhorlíonadh Cíosa a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the period is longer than 13 weeks, you may no longer qualify or your family’s payment may be amended</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má mhaireann an tréimhse níos faide ná 13 sheachtain, ní féidir leat cáiliú a thuilleadh nó féadtar íocaíocht do theaghlaigh a leasú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you get an offer of housing from a local authority:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhaigheann tú tairiscint tithíochta ó údarás áitiúil:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you refuse two offers of social housing from a local authority within a 12-month period, your Rent Supplement will be stopped and you will not be allowed to claim Rent Supplement for 12 months</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhiúltaíonn tú dhá thairiscint tithíochta sóisialta ó údarás áitiúil laistigh de thréimhse 12 mhí, stopfar d’Fhorlíonadh Cíosa agus ní ligfear duit an Forlíonadh Cíosa a éileamh ar feadh 12 mhí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is very important that you let the Department of Social Protection know of any changes to your circumstances including an increase in your rent</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé an-tábhachtach go gcuireann tú an Roinn Coimirce Sóisialaí ar an eolas faoi aon athruithe a thagann ar do chúinsí, lena n-áirítear méadú ar d'íocaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you wish to apply for Rent Supplement for the first time you should read our general document on Rent Supplement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mian leat iarratas a dhéanamh ar Fhorlíonadh Cíosa den chéad uair, ba cheart duit ár gcáipéis ghinearálta ar Fhorlíonadh Cíosa a léamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can download the application form from the Department of Social Protection's website (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú an fhoirm iarratais ó láithreán gréasáin na Roinne Coimirce Sóisialaí (pdf) a íoslódáil anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should contact the Department of Social Protection's representative (formerly known as the Community Welfare Officer) at your local health centre or contact the Rent Unit for your area (see the central rent unit list)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart duit teagmháil a dhéanamh le hionadaí na Roinne Coimirce Sóisialaí (ar ar tugadh Oifigeach Leasa Pobail roimhe seo) nó ag an ionad sláinte áitiúil nó teagmháil a dhéanamh leis an Aonad Cíosa le haghaidh do cheantair (féach liosta an láraonaid chíosa)</seg></tuv>
+</tu>
+</body>
+</tmx>

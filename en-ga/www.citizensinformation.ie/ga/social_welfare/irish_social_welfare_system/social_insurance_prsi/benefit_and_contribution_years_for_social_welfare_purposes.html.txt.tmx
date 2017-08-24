@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Benefit and contribution years for social welfare purposes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Blianta sochair agus ranníocaíochta ar mhaithe le híocaíochtaí leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To qualify for most social insurance payments in Ireland, a person must satisfy two conditions, first have a certain number of PRSI contributions paid since they started work and secondly, they must have a certain number of PRSI contributions paid or credited in a specific period, that is, in the relevant or governing contribution year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór do dhuine dhá choinníoll a chomhlíonadh má tá sé nó sí chun íocaíochtaí árachais shóisialta a fháil in Éirinn. Ar an gcéad dul síos caithfidh sé/sí oiread áirithe ranníocaíochaí ÁSPC a bheith déanta acu ón am ar thosaigh siad ag obair agus lena chois sin caithfidh siad líon áirithe ranníocaíochtaí ÁSPC a bheith déanta acu i dtréimhse áirithe faoi leith nó creidiúint a fháil dóibh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The number of contributions needed varies from benefit to benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ionann an tréimhse sin agus an bhliain ranníocaíochta chuí a bhaineann leis an bhliain atá i gceist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Relevant Tax Year or Governing Contribution Year is 2 years before the Benefit Year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is í an Bhliain Chánach Ábhartha atá i gceist (nó an bhliain rialaithe ranníocaíochtaí) ná an bhliain a bhí ann dhá bhliain roimh an Bhliain Sochair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>So, for claims in 2017, the Relevant Contribution Year is 2015</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin, sí 2015 an Bhliain Ranníocaíochtaí atá i gceist maidir le hiarratais i 2017</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>One exception to this is Invalidity Pension, the relevant tax year for Invalidity Pension is the year before the benefit year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is eisceacht é Pinsean Easláinte. Is í an bhliain chánach ábhartha do Phinsean Easláinte ná an bhliain a bhí ann bhliain roimh an bhliain sochair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>So, for claims in 2017, the relevant tax year is 2016</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin, sí 2016 an bhliain chánach ábhartha atá i gceist maidir le hiarratais i 2017</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Benefit Year is not the same as the calendar year which begins on 1 January. The Benefit Year is the 12 months beginning on the first Monday of the calendar year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir a rá go baileach gurbh í an bhliain a thosaíonn ar an 1 Eanáir an Bliain Sochair mar sí an 12 mhí a thosaíonn ar an gcéad Luan de réir féilire na bliana sin an bhliain atá i gceist, cé go mbíonn eisceachtaí ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In 2017, the first Monday in January fell on 2 January, therefore, claims made on 1 January would be based on an earlier Contribution Year</seg></tuv>
+  <tuv xml:lang="ga"><seg>I 2017, mar shampla ba é an 2 Eanáir an chéad Luan sa bhliain agus ar an ábhar sin níor mhór d'iarratais a rinneadh suas go dtí an 1 Eanáir a bheith bunaithe ar Bhliain íocaíochtaí níos luaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In some cases, this could make a difference to the person claiming</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh sé seo difríocht a dhéanamh i gcásanna áirithe don té a bheadh ag éileamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, a claim for Jobseeker's Benefit on 1 January 2017 would be based on PRSI contributions in 2014, whereas a claim for Jobseeker's Benefit on 7 January 2017 would be based on PRSI contributions in 2015</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, beadh iarratas ar Shochar Cuardaitheora Poist a rinneadh an 1 Eanáir 2017 bunaithe ar ranníocaíochtaí ÁSPC a bheith déanta i 2014 ach beadh iarratas ar Shochar Cuardaitheora Poist a rinneadh an 7 Eanáir 2017 bunaithe ar ranníocaíochtaí ÁSPC a bheith déanta i 2015</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are a part-time worker, you may not be making the maximum amount of PRSI contributions each year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar fhostaí páirtaimseartha, tá seans ann nach bhfuil an t-uasmhéid ranníocaíochtaí ÁSPC á déanamh agat gach bliain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>See Part-time work and social insurance (PRSI) for more information</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léigh tuillleadh faoi Fostaíocht pháirtaimseartha agus árachas sóisialach anseo</seg></tuv>
+</tu>
+</body>
+</tmx>

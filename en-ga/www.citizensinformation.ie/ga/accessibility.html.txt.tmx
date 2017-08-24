@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Accessibility and Usability Statement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ráiteas Inrochtaineachta agus Inúsáidteachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>One of the major goals of citizensinformation.ie is to provide information online which is accessible to all</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé mar cheann de phríomhspriocanna citizensinformation.ie faisnéis a sholáthar ar an idirlíon a bhfuil fáil ag gach duine air</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All information on this site is accessible using screen-readers. In most places on the website, the size of the text can be changed by clicking one of the “A” buttons in the top-right hand corner of the screen. This can also be changed by altering the settings in your browser</seg></tuv>
+  <tuv xml:lang="ga"><seg>Comhlíonann an suíomh seo treoirlínte maidir le Inrochtaineachta Ábhar Gréasáin 2.0 an WAI (Web Accessibility Initiative/Tionscnamh Inrochtaineachta Gréasáin), mar ar forbraíodh iad ag Feadhnacht an Ghréasáin Dhomhanda/The World Wide Web Consortium</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This site is accessible using most browsers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is furasta teacht ar gach faisnéis ar an suíomh seo ag úsáid léitheoirí scáileáin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can also access a version of the site specifically for mobile phones using the URL m.cinfo.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir aon bhrabhsálaí a úsáid chun an suíomh seo a rochtain</seg></tuv>
+</tu>
+</body>
+</tmx>

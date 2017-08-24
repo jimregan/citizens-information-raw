@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Role of the tipstaff</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ról an ghiolla cúirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Each judge in Ireland has a personal assistant in court called a "tipstaff"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá cúntóir pearsanta ag gach breitheamh, a gcuirtear "giolla cúirte" air</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He or she wears a black gown and when he or she is in court, he or she usually sits on a chair at one side of the judge. One of his/her duties is to announce the arrival and departure of the judge from the courtroom</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caitheann sé nó sí róba dubh agus nuair atá sé nó sí sa chúirt, suíonn sé nó sí ar chathaoir ar thaobh amháin den bhreitheamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The tipstaff's main function is to provide general assistance to the judge:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is í príomhfheidhm an ghiolla cúirte cúnamh ginearálta a chur ar fáil don bhreitheamh:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The tipstaff accompanies the judge while the judge is carrying out his or her duties</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Téann an giolla cúirte in aice leis an mbreitheamh nuair atá a chuid dualgas á gcomhlíonadh ag an mbreitheamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the High Court and the Supreme Court, the tipstaff holds a long wooden staff when he or she is bringing the judge from chambers to the court and back</seg></tuv>
+  <tuv xml:lang="ga"><seg>San Ard Chúirt agus sa Chúirt Uachtarach, tá bachall fhada adhmaid idir lámha ag an ngiolla cúirte agus é ag tabhairt an breitheamh óna chuid seomraí go dtí an chúirt agus ar ais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The tipstaff communicates with the other tipstaffs to keep the judge informed about what is happening in other courts on a day-to-day basis</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bíonn an giolla cúirte i dteagmháil le giollaí cúirte eile le gur féidir leis an breitheamh a chur ar an eolas faoi céard atá ag tarlú sna cúirteanna eile go laethúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If the judge wishes to communicate a message to another court, needs a book or needs another errand to be carried out, he or she may ask his or her tipstaff for assistance</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má theastaíonn ón mbreitheamh teachtaireracht a thabhairt do chúirt eile, nó má tá leabhar uaidh nó má theastaíonn aon rud eile uaidh is féidir leis nó léi cúnamh a fháil ón ngiolla cúirte</seg></tuv>
+</tu>
+</body>
+</tmx>

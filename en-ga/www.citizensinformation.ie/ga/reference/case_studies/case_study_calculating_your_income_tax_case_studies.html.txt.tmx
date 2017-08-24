@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Case study: Calculating your income tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cás-staidéar: Do cháin ioncaim a ríomh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Case studies on how to calculate your tax in 2017</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cás-staidéir maidir le conas do cháin a ríomh in 2017</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These examples show the different factors involved in calculating your tax in 2017</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léiríonn na samplaí seo na fachtóirí éagsúla a bhaineann le do cháin a ríomh in 2017</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Joan is single and earns €28,000 a year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is duine singil í Joan agus tuileann sí €28,000 sa bhliain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>She receives her notice of determination of tax credits and standard rate cut-off point from Revenue</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigheann sí fógra cinnidh a creidmheasanna cánach agus pointe scoite a ráta chaighdeánaigh ó na Coimisinéirí Ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Joan’s tax credits are listed on the notice as:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá creidmheasanna cánach Joan liostaithe ar an bhfógra mar seo a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Single Person Tax Credit = €1,650</seg></tuv>
+  <tuv xml:lang="ga"><seg>Creidmheas Cánach do Dhuine Singil = €1,650</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Employee (PAYE) Tax Credit = €1,650</seg></tuv>
+  <tuv xml:lang="ga"><seg>Creidmheas Cánach d’Fhostaí = €1,650</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Tax credit total = €3,300</seg></tuv>
+  <tuv xml:lang="ga"><seg>Líon iomlán na gCreidmheasanna cánach = €€3,300</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The standard rate cut-off point for a single person is €33,800</seg></tuv>
+  <tuv xml:lang="ga"><seg>Pointe scoite an ráta chaighdeánaigh do dhuine singil ná €33,800</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Because Joan’s income is below the cut-off point, all of her income is taxed at the standard rate, (20%), to give her gross tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Os rud é go bhfuil ioncam Joan faoin bpointe scoite, gearrtar cáin ar a cuid ioncaim go léir ag an ráta caighdeánach, (20%), chun a cáin chomhlán a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>28,000 x 20% = €5,600 gross tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>28,000 x 20% = €5,600 cáin chomhlán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All her tax credits are deducted from the gross tax to give the tax that is payable:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Asbhaintear líon iomlán na gcreidmheasanna cánach ón gcáin chomhlán chun an méid cánach is iníoctha a thabhairt:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Joan is also liable to pay the Universal Social Charge (USC). Find out more about the Universal Social Charge</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá dliteanas ar Joan an Muirear Uilíoch Sóisialach (MUS) dá hollioncam a íoc freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The total amount deducted from her income is:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an méid iomlán a bhaintear as a hioncam ná:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>€2,300 (income tax) + €690.46 (USC) = €2,990.46</seg></tuv>
+  <tuv xml:lang="ga"><seg>€2,300 (cáin ioncaim) + €690.46 (MUS) = €2,990.46</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can get the monthly or weekly amount of the total tax that should be deducted from wages by dividing this annual figure by 12 or by 52 respectively</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat teacht ar mhéid míosúil nó seachtainiúil na cánach ba cheart a bhaint ó thuarastail tríd an bhfigiúr bliantúil seo a roinnt faoi 12 nó faoi 52 faoi seach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Tax rates and the standard rate cut-off point</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rátaí cánach agus pointe scoite an ráta chaighdeánaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A single taxpayer who earns €40,000 a year will have their tax calculated as follows:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is mar seo a leanas a ríomhfar an cháin atá le híoc ag cáiníocóir singil a thuileann €40,000 sa bhliain:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The standard rate band for a single taxpayer is €33,800</seg></tuv>
+  <tuv xml:lang="ga"><seg>An banda ráta caighdeánach do cháiníocóir singil ná €33,800</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that the first €33,800 is taxed at the standard rate of tax, 20%, and the remainder (€6,200) is taxed at the higher rate of tax, 40%</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn sé sin go ngearrtar cáin ar an gcéad €33,800 ag an ráta caighdeánach, 20%, agus go ngearrtar cáin ar an bhfuílleach (€6,200) ag an ráta cánach níos airde, 40%</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>€33,800 x 20% = €6,760</seg></tuv>
+  <tuv xml:lang="ga"><seg>€33,800 x 20% = €6,760</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>€6,200 x 40% = €2,480</seg></tuv>
+  <tuv xml:lang="ga"><seg>€6,200 x 40% = €2,480</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Tax credits are deducted from this amount to give the tax due</seg></tuv>
+  <tuv xml:lang="ga"><seg>Asbhaintear creidmheasanna cánach ón méid sin chun an cháin atá dlite a thabhairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A single PAYE (Pay As You Earn) taxpayer is entitled to</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá cáiníocóir singil ÍMAT (Íoc Mar a Thuillir) i dteideal na creidmheasanna seo a leanas a fháil:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Single Person Tax Credit = €1,650</seg></tuv>
+  <tuv xml:lang="ga"><seg>Creidmheas Cánach do Dhuine Singil = €1,650</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Employee (PAYE) Tax Credit = €1,650</seg></tuv>
+  <tuv xml:lang="ga"><seg>Creidmheas Cánach d’Fhostaí = €1,650</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In this example, the taxpayer is not entitled to any other tax credits so the total tax due is:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa sampla seo, níl an cáiníocóir i dteideal aon chreidmheasanna cánach eile a fháil agus dá bhrí sin is é an cháin iomlán atá dlite ná:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Gross tax of €9,240</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cáin chomhlán de €9,240</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Minus tax credits of €3,300</seg></tuv>
+  <tuv xml:lang="ga"><seg>Lúide creidmheasanna cánach de €3,300</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Tax due = €5,940</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cáin dlite = €5,940</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The USC on gross income is also payable</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an USC ar ollioncam le híoc freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The total amount deducted from income in the year is:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an méid iomlán a bhaintear as ioncam ná:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>€5,940 (income tax) + €1,290.46 (USC) = €7,230.46</seg></tuv>
+  <tuv xml:lang="ga"><seg>€5,940 (cáin ioncaim) + €1,290.46 (MUS) = €7,230.46</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>See the section on tax allowances in How your income tax is calculated for a simple explanation of how to calculate the value of a tax allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féach an t-alt ar liúntais chánach i Conas a ríomhtar do cháin ioncaim chun míniú simplí a fháil faoi conas luach an liúntais chánach a ríomh</seg></tuv>
+</tu>
+</body>
+</tmx>

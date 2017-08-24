@@ -1,0 +1,329 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Right to silence in criminal cases</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceart chun tosta i gcásanna coiriúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Bunreacht Na hEireann, (the Irish Constitution) provides protection for everyone in Ireland against self-incrimination</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann Bunreacht na hÉireann gach duine in Éirinn a chosaint i gcoinne féin-ionchoirithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>That is, making a statement that might now or later expose you to criminal proceedings</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é sin ná i gcoinne ráitis a dhéanamh a dhéanfadh imeachtaí coiriúla a thionscnamh ina c(h)oinne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is also a Constitutional guarantee, that every person accused of a criminal offence in Ireland is innocent until proven guilty</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, gach duine a cúiseofar i gcion inphíonois in Éirinn is tuigthe é/í a bheith neamhchiontach go dtí go gcruthaítear ciontach é/í, de réir an Bhunreachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you are charged by the Gardai with a criminal offence, the responsibility of proving your guilt lies with the prosecution</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a dhéanann na Gardaí duine a chúiseamh i gcion coiriúil, is iad na cúisitheoirí a bhíonn freagrach as a c(h)iontacht a chruthú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Therefore, no responsibility lies with you, the accused, to prove your innocence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dá bhrí sin, níl orthu a chruthú gur daoine neamhchiontach iad, mar dhaoine cúisithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are however two exceptions to this principle:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá dhá eisceacht leis seo áfach:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Where the particular law places a requirement on the accused who raises a statutory defence to prove this defence</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Nuair a bhíonn ar an duine cúisithe, a dhéanann cosaint reachtúil a leagadh amach, a c(h)osaint a chruthú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(For example where you are charged with possession of drugs and the prosecution proved that you actually had the drugs</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Mar shampla, nuair a dhéantar duine a chúiseamh toisc go raibh drugaí ina s(h)eilbh, agus nuair a chruthaíonn na cúisitheoirí go raibh na drugaí ina s(h)eilbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is then a legal requirement for you to prove that you did not know that they were drugs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá ceanglas dlíthiúil ar an duine a chruthú nach raibh a fhios aige/aici go raibh drugaí ina s(h)eilbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Otherwise you will be convicted)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Murar féidir leo é seo a dhéanamh, déantar iad a chúiseamh)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Where you offer a defence of insanity</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Nuair a dhéanann tú pléadáil ghealtachta a thaifeadadh, ní mór duit féin do phléadáil a chruthú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is then up to you to prove your insanity and this is not a proof that rests with the prosecution</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl ar na cúisitheoirí a chruthú gurb é seo an cás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The privilege against self-incrimination and the right to silence go hand in hand</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann an phribhléid i gcoinne féin-chionntaithe agus an ceart chun tosta lena chéile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They are also closely related to the presumption of innocence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann siad go mór freisin leis an mbarúil gur neamhchiontach thú chomh maith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As the responsibility is placed on the prosecution to prove the guilt of a person it follows that the accused should not be forced to assist the prosecution by being forced to speak</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cé gurb iad na cúisitheoirí atá freagrach as an duine cúisithe a fháil ciontach, níl ar an duine cúisithe aon rud a rá a chabhródh leis na gcúisitheoirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your right to silence in Garda custody</seg></tuv>
+  <tuv xml:lang="ga"><seg>Do cheart chun tosta faoi choimeád na nGardaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are arrested and brought to a Garda station, there is an obligation on the arresting Garda to inform you of your general right to remain silent during questioning</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a dhéantar duine a ghabháil agus a thabhairt chun stáisiún na nGardaí, bíonn ar an Garda a chuireann tú faoi ghlas do cheart chun tosta ginearálta le linn ceistiúcháin a chur in iúl duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is done by way of a caution</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar é seo trí rabhadh a thabhairt duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The caution states “You are not obliged to say anything unless you wish to do so but anything you say may be taken down in writing and may be used in evidence”</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seo a leanas an rabhadh: “Tá an ceart agat fanacht i do thost ach amháin má theastaíonn uait aon rud a rá. Féadtar an fhaisnéis seo a chur síos i scríbhinn agus a úsáid mar fhianaise”</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is a clear indication of the right to silence enjoyed in most cases by an arrested person in Garda custody</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is léir ón ráiteas seo gur féidir leis an cuid is mó de na daoine faoi choimeád i stáisiún na nGardaí a c(h)eart chun tosta a úsáid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It has been accepted in the High Court in Heaney v Ireland (1994) that the right to silence is set down in Article 38.1 of the Irish Constitution</seg></tuv>
+  <tuv xml:lang="ga"><seg>Taispeánadh san Ard-Chúirt i Heaney v Éire (1994) gur leagadh amach an ceart chun tosta in Alt 38.1 de Bhunreacht na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The judge in that case was of the view that the fairness of a criminal trial could be damaged by events that took place prior to it</seg></tuv>
+  <tuv xml:lang="ga"><seg>I dtuairim an bhreithimh, féadtar cur isteach ar chothroime na trialach choiriúil de bharr na n-imeachtaí a tharlaíonn roimh ré</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>That includes the issue as to whether or not a person being interviewed by the Gardai, before being charged, was afforded his or her right to silence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirtear san áireamh anseo na cearta a bhaineann le h-agallaimh na nGardai, roimh duine a ionchúiseamh, agus leis an ceart chun tosta a chur ar fáil dó nó di</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If not then the trial could be compromised and thus would be in breach of Article 38.1 of the Constitution</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna ndéantar é seo, féadtar an triail a chomhréiteach agus Alt 38.1 den Bhunreacht a shárú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The decision of the High Court in Heaney v Ireland was upheld in the Supreme Court, which affirmed the right to silence in police custody as having a Constitutional Status</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ghlac an Chúirt Uachtarach le cinneadh na hArd-Chúirte maidir le Heaney v Éire. De réir an chinnidh seo, tugtar Stádas Bunreachtúil don cheart chun tosta faoi choimeád</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, the Supreme Court also stated that the Constitutional right to silence only applied to anything that might offer the police evidence, which was self-incriminating</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léiríodh sa Chúirt Uachtarach freisin áfach go mbaineann an ceart bunreachtúil chun tosta le faisnéis féin-ionchoirithe a chabhraíonn leis na Gardaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In other words the Constitutional right to silence could not extend to not answering police questions that would not involve self-incrimination such as providing your name and address when asked or providing your date of birth or nationality when asked as this information would not normally be self-incriminating</seg></tuv>
+  <tuv xml:lang="ga"><seg>I bhfocail eile, ní bhaineann an ceart chun tosta bunreachtúil le freagra a thabhairt ar cheisteanna neamh-fhéin-ionchoirithe na nGardaí, mar shampla, d’ainm agus do sheoladh a sholáthar dóibh nó do dháta breithe nó náisiúntacht. Ní faisnéis féin-ionchoirithe í seo de ghnáth</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The right to silence and privilege against self-incrimination in Ireland is not an absolute right</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl an ceart chun tosta uathoibríoch ag daoine in Éirinn agus níl pribhléid acu i gcoinne féin-ionchoiriú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, in the vast majority of criminal offences this right does apply</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann an ceart seo leis an cuid is mó de chionta coiriúla áfach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you are accused of a criminal offence youl enjoy the right to silence unless you are informed by the Gardai that the particular offence for which you are arrested places a certain obligation on you as discussed below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a dhéantar duine a chúiseamh i leith ciona coiriúil, is féidir leat do cheart chun tosta a chleachtadh ach amháin nuair a chuireann na Gardaí in iúl duit go bhfuil ort an fhianaise a thabhairt don chion áirithe seo mar a luaitear thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Gardai must also inform you of the consequences if you fail to comply</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn ar na Gardai a chur in iúl duit freisin cad a tharlódh má theipeann ort é seo a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your right to silence at trial</seg></tuv>
+  <tuv xml:lang="ga"><seg>Do cheart chun tosta i dtriail</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Bunreacht na hEireann provides the absolute right for someone accused of a criminal offence to refuse to testify</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann Bunreacht na hEireann an ceart do dhuine cúisithe i gcion coiriúil a c(h)eart chun tosta a chleachtadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This right is set down in Article 38.1 of the Constitution</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an ceart seo leagtha amach in Alt 38.1 den Bhunreacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you decide to testify, or give evidence, then you waive that right and you must answer questions put to you by the prosecution, and cannot refuse to do so on the basis that the answers would incriminate you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mian leat dearbhú le rud nó an fhianaise a thabhairt, níl cead agat do cheart chun tosta a chleachtadh agus ní mór duit ceisteanna na gcúisitheoirí a fhreagairt. Ní mór duit é seo a dhéanamh fiú amháin má bhíonn ceisteanna féin-ionchoirithe i gceist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Consequences at trial of remaining silent</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cad a tharlaíonn nuair a ghlacann tú le do cheart chun tosta i dtriail</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are two areas where the law in Ireland impinges on your privilege against self-incrimination and your right to silence:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá dhá eisceacht i dlí na hÉireann a chuireann isteach ar do phribhléid i gcoinne féin-ionchoirithe agus ar do cheart chun tosta:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Questions that allows inferences to be drawn at your trial from your failure to answer certain questions or to provide certain information and</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ceisteanna a chuireann le tátal a bhaint as do thriail nuair a theipeann ort ceisteanna áirithe a fhreagairt nó faisnéis áirithe a sholáthar agus</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Offences where it is a criminal offence not to answer certain questions or to provide certain information</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cionta ina ndéantar imeachtaí coiriúla a thionscnamh i do choinne nuair a theipeann ort ceisteanna áirithe a fhreagairt nó faisnéis áirithe a sholáthar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is important to note that these provisions do not only operate when you are in custody, but they also apply if you are not in Garda custody at the time you are asked the questions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is tábhachtach é a thabhairt faoi deara freisin go gcuirtear na forálacha seo i bhfeidhm nuair a bhíonn duine faoi choimeád, ach freisin mura mbíonn siad faoi choimeád ag na Gardaí nuair a chuirtear ceisteanna orthu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Inferences to be drawn in certain circumstances</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar tátail a bhaint amach i gcásanna áirithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the Criminal Justice Act 1984 as amended by Part 4 of the Criminal Justice Act 2007 inferences can be drawn from your silence in certain circumstances in any proceedings against you for an arrestable offence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoin Acht um Cheartas Coiriúil 1984, arna leasú ag Cuid 4 den Acht um Cheartas Coiriúil 2007, féadtar tátail a bhaint amach mura n-éiríonn leat aon rud a rá nuair a thaifeadtar imeachtaí coiriúla i do choinne de bharr ciona inghabhála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An arrestable offence is an offence for which a person can be imprisoned for 5 years or more</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is cion inghabhála ann ná cion lena mbaineann téarma príosúnachta de 5 bliana ar a laghad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Inferences can be drawn, if at anytime before being charged or when you are charged, or when informed by a Garda that you may be procecuted for the offence, you fail or refuse to account for any object, substance or mark on your person, clothing or in your possession or in any place in which you were when questioned by a Garda</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadtar tátail a bhaint amach, mura n-éiríonn leat nó má dhiúltaíonn tú ábhar, substaint nó marc ar do chorp, ar d’éadaí nó i do sheilbh nó in aon áit ina raibh tú i láthair a chur in iúl, nuair a chuireann na Gardaí ceist ort roimh choir a chur i do leith nó nuair a dhéantar coir a chur i do leith, nó nuair a chuireann Garda in iúl duit go ndéantar tú a ionchúiseamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Similarly inferences can be drawn if you fail or refuse to account for your presence at a particular place around the time the offence was committed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar an gcuma chéanna, féadtar tátail a bhaint amach má theipeann ort nó má dhiúltaíonn tú a mhíniú do na Gardaí cén fáth go raibh tú i láthair in áit áirithe agus coir á dhéanamh timpeall an ama céanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Garda has to have a reasonable belief that the presence of the object, substance or mark, or your presence at the place, has a relevance to your involvement in the offence which has been committed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart don Gharda a chreidiúint go bhfuil baint agat leis an gcoir toisc ábhar, substaint nó marc ar do chorp, ar d’éadaí nó i do sheilbh nó in aon áit ina raibh tú i láthair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Inferences may also be drawn if you fail to mention any fact which you then rely on in your defence during the proceedings and which, in the circumstances existing at the time, you could reasonably have been expected to mention when being questioned or charged</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadtar tátail a bhaint amach chomh maith, mura n-éiríonn leat faisnéis a nochtadh, a úsáidfear mar chosaint dhleathach le linn na n-imeachtaí, faisnéis ba cheart duit a chur in iúl do na Gardaí nuair a chuirtear ceist ort nó nuair a ionchúisítear thú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is not an offence to fail or refuse to answer such questions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní cion é má theipeann ort nó má dhiúltaíonn tú a leithéid de cheisteanna a fhreagairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, the court or jury can take into consideration (when deciding on your guilt or innocence) the fact that you had failed or refused to answer the questions when asked by the Gardai</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis an gcoiste dháréag é a chur san áireamh áfach (nuair a dhéantar do chiontacht nó do neamhchiontacht a leagadh amach) gur theip ort nó gur dhiúltaigh tú ceisteanna na nGardaí a fhreagairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If there is no other evidence put to the court or jury then they cannot convict you on the failure or refusal to answer questions alone</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura mbíonn a thuilleadh faisnéise ar fáil, níl cead ag an Chúirt nó ag an Coiste Dháréag tú a chiontú toisc gur theip ort nó gur dhiúltaigh tú ceisteanna na nGardaí a fhreagairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It can only be used to strengthen other evidence presented to the court or jury in the case</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadtar an fhaisnéis seo a úsáid chun an fhianaise a chuirtear i láthair na cúirte nó an choiste dháréag a neartú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It also cannot be used unless the Garda informed you in ordinary, clear, understandable, language what the effect of a failure or refusal might be and you were given a reasonable opportunity to consult a solicitor</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní fhéadtar í a úsáid má theipeann ar an Garda é a chur in iúl duit i slí soiléir intuigthe, cad a tharlóidh má theipeann ort nó má dhiúltaíonn tú ceisteanna a fhreagairt nó mura dtugtar seans réasúnach duit teagmháil a dhéanamh le haturnae</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The questioning must be recorded electronically or you must consent in writing to it not being recorded</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn ar na Gardaí an t-agallamh a chlárú go leictreonach nó do shíniú a fháil roimh ré mura ndéantar é sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Similarly, under the Criminal Justice Act 2006, as amended by the Criminal Justice (Amendment) Act 2009, inferences may be drawn as the result of the failure, in particular circumstances, to answer questions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar an gcéanna, faoin Acht um Cheartas Coiriúil 2006, arna leasú ag an Acht um Cheartas Coiriúil (Leasú) 2009, tátail a tharraingt mar thoradh ar an teip, in imthosca áirithe, chun ceisteanna a fhreagairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This applies to the organised crime offences under Part 7 of the Act</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann sé seo leis na cionta coireachta eagraithe faoi Chuid 7 den Acht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>European Convention for the Protection of Human Rights and Fundamental Freedoms</seg></tuv>
+  <tuv xml:lang="ga"><seg>An Coinbhinsiún Eorpach chun Cearta an Duine agus Saoirsí Bunúsacha a Chosaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The European Court of Human Rights in John Murray-v-United Kingdom (1996) 22E.H.R.R.29 has considered the issue of adverse inferences and whether or not this is compatible with Article 6 of the European Convention for the Protection of Human Rights and Fundamental Freedoms which guarantees the individual a right to a fair trial</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rinne Cúirt na hEorpa um Chearta an Duine athbhreithniú ar tháthail dhiúltacha i John Murray-v-An Rícht Aontaithe (1996) 22E.H.R.R.29, chun a fháil amach an gcomhlíontar Airteagal 6 den Choinbhinsiún Eorpach chun Cearta an Duine agus Saoirsí Bunúsacha a Chosaint. Forálann an Coinbhinsiún don cheart chun trialach cothroime</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Court ruled that it would be incompatible with the right to silence if a conviction were based solely on the accused’s failure or refusal to answer police questions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rialaigh an Chúirt go bhfuil an ceart chun tosta ag gach duine agus mar sin de, ní fhéadtar duine a ionchúiseamh má theipeann orthu nó má dhiúltaíonn siad ceisteannana na nGardaí a fhreagairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It did, however accept the legality of taking an accused’s failure or refusal to answer questions into account in considering the weight or persuasiveness of the prosecution evidence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ghlac sí áfach le comhar an duine cúisithe ceisteanna na nGardaí a fhreagairt maidir le neart fianaise na gcúisitheoirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Court also said that a number of factors would have to be considered in deciding whether or not adverse inferences were in line with the European convention for the Protection of Human Rights and Fundamental Freedoms</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rialaigh an Chúirt chomh maith go gcaithfear roinnt pointí a chur san áireamh roimh tátail dhiúltacha a leagadh amach mar ghníomhaíochtaí a chomhlíonann An Coinbhinsiún Eorpach chun Cearta an Duine agus Saoirsí Bunúsacha a Chosaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Chief among these were:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad seo a leanas na príomhphointí:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Whether or not the appropriate warnings had been given to the accused as to the effect of remaining silent</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cibé go bhfuair an duine cúisithe faisnéis faoi cad a tharlódh mura ndéantar ceisteanna a fhreagairt, nó nach bhfuair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Whether the accused understood such warnings</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cibé go raibh an duine cúisithe in ann na rabhaidh sin a thuiscint, nó nach raibh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Whether or not the accused had access to legal advice</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cibé go raibh an duine cúisithe in ann comhairle dhleathach a rochtain, nó nach raibh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The fairness and reasonableness of the inference which were actually drawn by the court</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cothroime agus réasúntacht na dtátal a leagadh amach sa chúirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Offence of not answering questions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cad a tharlaíonn nuair a theipeann ar dhuine ceisteanna a fhreagairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The second area that impinges on your privilege against self-incrimination and your right to silence is that which makes it an offence if you fail to answer certain questions or to provide certain information</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirtear isteach freisin ar do cheart chun tú féin a chosaint i gcoinne féin-ionchoirithe agus ar do cheart chun tosta nuair a fhaightear duine ciontach i gcion, mura n-éiríonn leo ceisteanna áirithe a fhreagairt nó faisnéis áirithe a sholáthar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The most important piece of criminal law in Ireland in this regard is the Offences Against the State Act 1939</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an dlí is tábhachtaí in Éirinn maidir leis an saincheist seo ná an tAcht um Chiontaí in Aghaidh an Stáit 1939</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The greatest powers given to the Gardai are in this piece of law</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann an dlí seo cumhachtaí tábhachtacha do na Gardaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The provisions contained in the Act in question apply whether or not an accused person was in Garda custody at the time the questions were asked</seg></tuv>
+  <tuv xml:lang="ga"><seg>De réir forálacha an Achta seo, ba cheart go mbeadh duine i stáisiún na nGardaí nuair a bhí ceisteanna á chur air/uirthi</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, it is of most relevance when a person is in Garda custody</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann an tAcht seo le daoine atá faoi choimeád i stáisiún na nGardaí ach go háirithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Section 52 of the Offences against the State Act 1939 obliges you if detained under Section 30 of the Act to answer certain questions concerning your movements and actions and your knowledge concerning the commission of any offence under the Act</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a bhíonn tú faoi choimeád i stáisiún na nGardaí faoi Alt 30 den Acht um Chiontaí in Aghaidh an Stáit 1939, bíonn ort ceisteanna áirithe a fhreagairt maidir le do ghluaiseachtaí agus do ghníomhaíochtaí, agus aon eolas atá agat ar chion faoin Acht seo, de réir Ailt 52 den Acht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Before requesting this information, the Garda must inform you that the request is being made under section 52 of the Act</seg></tuv>
+  <tuv xml:lang="ga"><seg>Roimh ceist a chur ort faoin eolas seo, bíonn ar an Garda a chur in iúl duit go ndéanfar an t-iarratas faoi alt 52 den Acht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must then be informed of the consequences of a failure or refusal to comply with the request, that is, you are committing an offence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don Gharda a chur in iúl duit cad a tharlóidh má theipeann ort an t-eolas seo a sholáthar dóibh nó má dhéantar an t-iarratas a dhiúltú, sé sin go bhfuil tú freagrach as cion</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Garda must explain this in clear, ordinary and understandable language</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don Gharda é seo a chur in iúl duit i slí soiléir intuigthe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The European Court of Human Rights in Quinn-v-Ireland (2001) 33 E.H.R.R.264, while acknowledging that the right to silence and the right not to incriminate oneself as laid out in Article 6 of the European Convention for the Protection of Human Rights and Fundamental Freedoms was not an absolute right, it felt that section 52 went further than was necessary to meet the needs of the state</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cheap Cúirt na hEorpa um Chearta an Duine i Quinn-v-Éire (2001) 33 E.H.R.R.264, gur cuireadh alt 52 i bhfeidhm i slí ró-dhoimhin chun riachtanais an stáit a chomhlíonadh. Ag an am céanna, admhaíonn an Chúirt nach bhfuil an ceart uathoibríoch ag daoine chun tosta agus i gcoinne féin-ionchoirithe mar atá leagtha amach in Alt 6 den Choinbhinsiún Eorpach chun Cearta an Duine agus Saoirsí Bunúsacha a Chosaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, it seems from more recent decisions of the courts in Ireland that once any such evidence relating to a failure or refusal under section 52 is not used in the prosecution case against the accused then it will be accepted by the courts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is léir ó na cinntí is déanaí a glacadh leo sna cúirteanna in Éirinn áfach, go ndéanfar glacadh le fianaise a thaispeánann gur theip ar dhuine ceisteanna a fhreagairt nó gur dhiúltaigh siad ceisteanna a fhreagairt mura n-úsáidtear an t-eolas seo i gcoinne an duine cúisithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In other words, the evidence of failure or refusal can only be given when prosecuting an accused for an offence under section 52</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é sin a rá ná go gcaithfear duine a ionchúiseamh i leith ciona, faoi alt 52, chun a thaispeáint gur theip orthu ceisteanna a fhreagairt nó gur dhiúltaigh siad ceisteanna a fhreagairt</seg></tuv>
+</tu>
+</body>
+</tmx>

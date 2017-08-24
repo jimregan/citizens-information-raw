@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>• Legal aid and advice</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cabhair Dhlíthiúil agus Comhairle</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Probation and welfare services</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Promhadh agus Seirbhísí Leasa Shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Crime and crime prevention</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Coireacht agus a Cosc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Life Event Document Leaving prison Leaving prison can be an opportunity for a fresh start and a new life</seg></tuv>
+  <tuv xml:lang="ga"><seg>Life Event Document Príosún a fhágáil Is féidir le fágáil príosúin a bheith ina deis chun tús nua agus saol nua a thosú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Find out about the range of supports available for those leaving prison</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigh amach faoi raon na dtacaíochtaí atá ar fáil dóibh siúd a fhágann príosún</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most Read in "Justice"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ábhar is mó éilimh i "Dlí"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Alcohol and the law</seg></tuv>
+  <tuv xml:lang="ga"><seg>Alcól agus an dlí</seg></tuv>
+</tu>
+</body>
+</tmx>

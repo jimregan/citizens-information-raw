@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Making a late claim</seg></tuv>
+  <tuv xml:lang="ga"><seg>Éileamh a chur isteach go déanach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To get a social welfare payment, you must make a claim for that payment to the Department of Social Protection</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun íocaíocht leasa shóisialaigh a fháil, ní mór duit éileamh a chur isteach don íocaíocht sin chuig an Roinn Coimirce Sóisialaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You normally make a claim by completing an application or claim form</seg></tuv>
+  <tuv xml:lang="ga"><seg>De ghnáth, cuireann tú isteach éileamh trí fhoirm iarratais nó trí fhoirm éilimh a líonadh amach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are generally time limits within which you must make your claim</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, tá teorainneacha ama ina gcaithfidh tú d’éileamh a chur isteach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The time limits for making a claim vary from one payment to another</seg></tuv>
+  <tuv xml:lang="ga"><seg>Athraíonn na teorainneacha ama chun éileamh a chur isteach ó íocaíocht amháin go ceann eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The time limits are generally quite short for short-term payments and are longer for long-term pensions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá na teorainneacha ama sách gearr go ginearálta le haghaidh íocaíochtaí gearrthéarmacha agus tá siad níos faide le haghaidh pinsin fhad-téarmaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, in the case of Jobseeker's Benefit you must claim on the day that you become eligible and in the case of State Pension (Contributory) you can claim up to 3 months before and 3 months after you reach the age of 66</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, i gcás Shochar Cuardaitheora Poist ní mór duit an t-éileamh a chur isteach ar an lá céanna atá tú incháilithe agus i gcás an Phinsin Stáit (Ranníocach) is féidir leat éileamh a chur isteach suas go trí mhí sula agus trí mhí tar éis 66 bliana d’aois a bhaint amach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should claim a payment as soon as you think you might be entitled to it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir duit íocaíocht a éileamh chomh luath is a cheapann tú go d'fhéadfá a bheith i dteideal í</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you make a late claim you may get a payment from the date you sent your claim to the department but you may not get your payment back-dated to the time you were entitled to it but did not claim</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chuireann tú isteach ar éileamh déanach is féidir leat íocaíocht a fháil ón dáta ar sheol tú d'éileamh chuig an roinn ach ní féidir leat siardhátú a fháil go dtí an t-am a raibh tú i dteideal í ach nár chuir tú isteach éileamh lena haghaidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Extending the time limits</seg></tuv>
+  <tuv xml:lang="ga"><seg>Teorainneacha ama a shíneadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In most cases the time limit for making a claim may be extended</seg></tuv>
+  <tuv xml:lang="ga"><seg>I bhformhór na gcásanna is féidir leis an teorainn ama le haghaidh éileamh a chur isteach a shíneadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means you can get your payment back-dated to the time that you became entitled to it or for least six months before you made your claim, whichever is the lower</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn sé seo gur féidir leat siardhátú a fháil go dtí an t-am a raibh tú i dteideal í nó ar a laghad sé mhí sula gcuir tú isteach ar d'éileamh, cibé acu is ísle</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To get the time limit extended you must have a good reason for not making your claim within the time limit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun an teorainn ama sínithe a fháil ní mór duit cúis mhaith a bheith agat gan d'éileamh a chur isteach laistigh den teorainn ama</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is little information about what is a good reason but if you were sick or in hospital this might well be considered as a good reason for not making your claim on time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl mórán eolais faoi cad is cúis mhaith ann ach má bhí tú tinn nó san ospidéal d'fhéadfadh sé seo a mheas mar chúis mhaith gan d'éileamh a chur isteach in am</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Generally, the fact that you did not know that you were entitled to a payment is not considered to be a good reason for not making your claim on time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, ní mheastar nach raibh a fhios agat go raibh tú i dteideal íocaíochta a bheith ina chúis mhaith gan d'éileamh a chur isteach in am</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The following social welfare schemes can be backdated if you have a good reason for your late claim:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir siardhátú a fháil ar na scéimeanna leasa shóisialaigh seo a leanas má tá cúis mhaith agat le haghaidh d'éileamh déanach:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│ │ │ │Benefit │ │Disability │Jobseeker's │Carer's Allowance │under the │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Liúntas Míchumais │Liúntas Cuardaitheora Poist │Liúntas Cúramóra │Sochar Báis faoin Scéim um Shochair Dhíobhálacha Ceirde │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Allowance │Allowance │ │Occupational│</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Sochar Breoiteachta │Sochar Cuardaitheora Poist │Sochar Cúramóra │Deontas Méala │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Pension │Partner's │Farm Assist │Civil │ │ │(Non-Contributory)│ │Partner │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Sochar Míthreorach │Sochar Sláinte agus Sábháilteachta │Sochar Máithreachais │ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Disablement │Health and Safety │Maternity Benefit │ │ │Benefit │Benefit │ │ │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Liúntas Síorfhreastail │Íocaíocht Teaghlach Aontuismitheora │Íocaíocht Chaomhnóra (Neamh-ranníocach) │ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Constant │ │Guardian's Payment│ │ │Attendance │One-Parent Family │(Non-Contributory)│ │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Sochar díobhálacha ceirde │Sochar Linbh │Pinsean sStáit (Neamh-ranníocach) │ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Occupational│ │State Pension │ │ │Injury │Child Benefit │(Non-Contributory)│ │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Liúntas éagumais │Sochar Uchtaíoch │Liúntas Réamhscoir │ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Invalidity Pension is backdated up to 6 months or to the date of your claim, whichever is the lower, without having to show a good reason for the delay in making your claim</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin féin, is féidir siardhátú a fháil ar Phinsean Stáit (Ranníocach), Pinsean Baintrí, Baintrí Fir nó Páirtnéara Shibhialta Mharthanaigh (Ranníocach), Pinsean Stáit (Eatramhach) agus Íocaíocht Caomhnóra (Ranníocach) suas go 12 mhí gan chúis mhaith a bheith agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>From April 2012, backdating is limited to 6 months for State Pension (Contributory and Transition), Widow’s, Widower’s, or Surviving Civil Partner’s (Contributory) Pension and Guardian’s Payment (Contributory)</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfaí éileamh a shiardhátú níos sia siar ná 6 mhí más amhlaidh gur ceachtar den dá chúis seo a leanas a chuir moill ar an éileamh:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further backdating will be allowed only if:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Eolas mícheart a sholáthair an Roinn nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The failure to claim resulted from incorrect information being supplied by the Department of Social Protection or</seg></tuv>
+  <tuv xml:lang="ga"><seg>Éagumas an éilitheora mar gheall ar bhreoiteacht nó éiglíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Household Benefits Package can be backdated in some instances</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar oifigigh breithiúnachta ar na hoifigigh seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>At the time of your claim you must state why your claim is late</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag am d'éilimh ní mór duit a rá cén fáth go bhfuil d'éileamh déanach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For some payments the application form allows you to explain why the payment is late, for example, Illness Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás roinnt íocaíochtaí ligeann an fhoirm iarratais duit a mhíniú cén fáth go bhfuil an íocaíocht dhéanach, mar shampla, Sochar Breoiteachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For other payments you should send an accompanying letter and supporting evidence with your claim form</seg></tuv>
+  <tuv xml:lang="ga"><seg>Le haghaidh íocaíochtaí eile ba chóir duit litir thionlacain agus fianaise tacaíochta a chur le d'fhoirm éilimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can get assistance with this from your Intreo Centre or local Social Welfare Branch Office or Citizens Information Centre</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat cúnamh a fháil leis seo, ó d'Oifig Áitiúil Leasa Shóisialaigh áitiúil nó d'Lárionad Faisnéise do Shaoránaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should send your claim form with details about why your claim is late to the section in the Department of Social Protection responsible for that payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir duit d'fhoirm éilimh le sonraí faoin bhfáth a bhfuil d'éileamh déanach chuig an rannóg sa Roinn Coimirice Sóisialaí a atá freagrach as an íocaíocht sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The address will be on the bottom of your claim form</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh an seoladh ag bun d'fhoirm éilimh</seg></tuv>
+</tu>
+</body>
+</tmx>

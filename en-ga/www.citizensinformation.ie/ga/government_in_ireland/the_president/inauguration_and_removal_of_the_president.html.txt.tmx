@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Inauguration and removal of the President</seg></tuv>
+  <tuv xml:lang="ga"><seg>Uachtarán a gharim agus a chur as oifig</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The candidate who has won the presidential election becomes President of Ireland by publicly making the following oath</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rachaidh an té a bhuaigh toghchán an uachtaráin i gcúram oifige leis an dearbhú seo a leanas a dhéanamh go poiblí mar atá leagtha síos i mBunreacht na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>"In the presence of Almighty God I do solemnly and sincerely promise and declare that I will maintain the Constitution of Ireland and uphold its laws, that I will fulfil my duties faithfully and conscientiously in accordance with the Constitution and the law, and that I will dedicate my abilities to the service and welfare of the people of Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>"I láthair Dia na nUilechumhacht, táimse, á ghealladh agus á dhearbhú go sollúnta is go fírinneach bheith i mo thaca agus i mo dhídin do Bhunreacht na hÉireann, agus a dlíthe a chaomhnú, mo dhualgais a chomhlíonadh go dílis coinsiasach de réir an Bhunreacht is an dlí, agus mo lándícheall a dhéanamh ar son leasa is fónaimh mhuintir na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>May God direct and sustain me"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dia do mo stiúradh agus do mo chumhdach."</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The President is inaugurated in St Patrick's Hall in Dublin Castle and makes the declaration in the presence of members of both Houses of the Oireachtas, the Judges of the Supreme Court, the Court of Appeal and the High Court and other public persons</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar an tUachtarán a ghairm i Halla Naomh Phádraig, Caisleán Átha Cliath agus déanann sé/sí an dearbhú i láthair baill Tithe an Oireachtais, Breithimh na Cúirte Uachtaraí, na Cúirte Achomhairc agus na hArdchúirte agus pearsana poiblí eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Removal of a President from office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Uachtarán a chur as oifig</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are 2 situations when a President may be removed from office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá 2 chás gur féidir Uachtarán a chur as oifig</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If 5 Supreme Court judges or more decide that a President has become permanently incapacitated, the President's term of office will come to an end</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéanann 5 nó níos mó breitheamh den Chúirt Uachtarach cinneadh go bhfuil an tUachtarán ar míthreoir go buan, tiocfaidh deireadh lena t(h)éarma oifige</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The President may also be impeached by either House of the Oireachtas for "stated misbehaviour"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le ceachtar de Thithe an Oireachtais an tUachtarán a tháinseamh as ucht "mí-iompair a luafar"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Stated misbehaviour might include a criminal offence or a misuse of the President's powers</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh sé go mbeadh coir choiriúil nó míúsáid cumhachtaí an Uachtaráin i gceist leis an mí-iompair luaite</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To propose a motion to impeach the President, at least 30 members of one House of the Oireachtas must sign the proposal</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór do, ar a laghad, 30 comhalta de cheachtar de Thithe an Oireachtais rún a shíniú go ndéanfaí an tUachtarán a tháinseamh leis an rún sin a mholadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Then at least two-thirds of all of the members of that House must vote in favour of the proposal</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ansin, le glacadh leis an rún, ní mór go mbeadh tacaíocht dhá thrian, ar a laghad, de chomhaltaí uilig an tí sin ag an rún</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The other House of the Oireachtas must then investigate the charge that the President is guilty of stated misbehaviour</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór ansin don Teach eile scrúdú a dhéanamh ar an gcúiseamh go bhfuil an tUachtarán ciontach as mí-iompair luaite</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The investigation may be carried out by a committee or tribunal</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le coiste nó binse fiosruithe an chúis a scrúdú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The President has a right to appear and be represented at the investigation of the charge</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé de cheart ag an Uachtarán a bheith i láthair agus an chúis dhá scrúdú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>At the end of the investigation, two-thirds of the members of the investigating House must pass a resolution declaring that the President is guilty of stated misbehaviour</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag deireadh an scrúdaithe, ní mór do dhá thrian den Teach a rinne an scrúdú tacú le rún a dhearbhaíonn go bhfuil an tUachtarán ciontach as mí-iompair luaite</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The President's term of office will then come to an end</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tiocfaidh deireadh ansin le tréimhse oifige an Uachtaráin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that in order to remove the President, two-thirds of the total membership of both Houses of the Oireachtas must vote in favour of that course of action</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin leis an Uachtarán a chur as oifig, ní mór do dhá thrian de chomhaltaí uilig Tithe an Oireachtais vóta a chaitheamh i bhfabhar é sin a dhéanamh</seg></tuv>
+</tu>
+</body>
+</tmx>

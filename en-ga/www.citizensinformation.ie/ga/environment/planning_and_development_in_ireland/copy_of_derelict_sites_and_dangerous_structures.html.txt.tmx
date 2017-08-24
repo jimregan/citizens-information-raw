@@ -1,0 +1,281 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Each local authority is responsible for dealing with derelict sites in its area</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá gach údarás áitiúil freagrach as déileáil le láithreáin tréigthe ina cheantar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the Derelict Sites Act 1990, local authorities can force owners to clean up these sites</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis an údarás áitiúil úsáid a bhaint as an Acht um Láithreáin Tréigthe, 1990 chun iachall a chur ar úinéirí láithreáin a ghlanadh suas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Act allows local authorities to prosecute owners who do not comply with notices served, to purchase land compulsorily; and to carry out necessary work themselves and charge the owners for the cost</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann an tAcht seo cead d'údaráis áitiúla úinéirí a chúisiú nach gcomhlíonannn fógraí atá tugtha; talamh a cheannacht go héigeantach; agus obair riachtanach a dhéanamh iad féin agus an bille a chur ar aghaidh chuig na húinéirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Local authorities have similar powers as regards dangerous structures</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá cumhachtaí den chineál céanna ag údaráis áitiúla i leith struchtúir agus áiteanna dáinséaracha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the Urban Regeneration and Housing Act 2015, each local authority is also required to compile a vacant sites register, starting from January 2017</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoin Acht um Athghiniúint Uirbeach agus Tithíocht, 2015, beidh ar gach údarás áitiúil clár a chur i dtoll a chéile de thailte atá ina limistéar atá oiriúnach le haghaidh tithíochta ach nach bhfuil ag teacht chun cinn le haghaidh forbartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is a register of lands in the local authority’s area that are suitable for housing but are not coming forward for development</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go bhfuil na cláir seo i bhfeidhm faoi Eanáir 2018 agus gearrfar tobhach ar láithreán folamh ó Eanáir 2019 ar aghaidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>From January 2019 onwards, a vacant site levy will be charged on such sites</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú tuilleadh a léamh sa phreaseisiúint seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Derelict Sites Act defines a derelict site as any land that “detracts, or is likely to detract, to a material degree from the amenity, character or appearance of land in the neighbourhood of the land in question because of”:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sainmhíníonn an tAcht “láithreán tréigthe” mar aon talamh a bhaineann, nó ar dóigh dó baint, go feadh méid ábhartha, ó thaitneamhacht, ó shainghné nó ó dhealramh na talún i gcomharsanacht na talún i gceist:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Structures which are in a ruinous, derelict or dangerous condition, or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Mar gheall ar dhéanmhais atá ina bhfothraigh, tréigthe nó contúirteach a bheith ar an talamh i gceist, nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The neglected, unsightly or objectionable condition of the land or of structures on it, or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Mar gheall ar an talamh nó aon déanmhais ar an talamh i gceist a bheith ligthe i bhfaillí, mímhaiseach nó gráiniúil, nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The presence, deposit or collection of litter, rubbish, debris or waste</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Mar gheall ar aon bhruscar, truflais, smionagar nó dramhaíl a bheith ann nó a bheith caite nó carntha ar an talamh i gceist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Register of derelict sites</seg></tuv>
+  <tuv xml:lang="ga"><seg>Clár na Láithreán Tréigthe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Each local authority must keep a register of all derelict sites in its area, containing the location of each derelict site, the name and address of the owner and details of any action the local authority has taken about the site</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh an t-údarás áitiúil clár a choinneáil de láithreáin tréigthe sa cheantar. Tugtar eolas ann faoi shuíomh an áitribh, ainm agus seoladh an úinéara agus sonraí faoi aon ghníomhaíochtaí atá tógtha ag an údarás áitiúil maidir leis na láithreáin seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the property is owned or occupied by a local authority itself, the register must contain details of what it is being used for and what the local authority intends to do with it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá úinéireacht nó sealbhóireacht ag an údarás áitiúil ar áitreabh, caithfidh an t-eolas a bheith sa chlár ar an úsáid atá á bhaint as agus céard atá ar intinn ag an údarás áitiúil a dhéanamh leis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The register must give details of the current market value of every site listed on it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh an clár sonraí a thabhairt ar luach margaidh reatha do gach láithreán atá ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This valuation is done by the local authority, which can authorise any qualified person to act on its behalf</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an túdarás áitiúil a dhéanann an luacháil seo agus is féidir le éinne atá cáilithe gníomhú ar a shon</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The local authority enters details of the valuation into the register and serves a notice on the site’s owner – see ‘Statutory notices’ below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sonraí an luacha curtha isteach sa chlár agus tugtar fógra d'úinéir an láithreáin tréigthe atá i gceist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are the owner, you have the right to appeal the valuation to the Valuation Tribunal within 28 days of receiving the notice</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfear na hachomhairc seo a dhéanamh chuig an mBinse Luachála taobh istigh de thréimhse 28 lá ón dáta a fuarthas an fógra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The local authority must make the Derelict Sites Register available for public inspection</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don údarás áitiúil Clár na Láithreán Tréigthe a chur ar fáil do scrúdú an phobail</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It can remove an entry from the Register when it is satisfied that the work that it has ordered has been carried out on the derelict site</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh siad iontráil a bhaint ón gClár nuair atá siad sásta gur tugadh faoin obair a d’ordaigh siad ar an láithreán tréigthe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are the owner of urban land that has been entered into the Derelict Sites Register, you must pay an annual levy to the local authority – see ‘Rates’ below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más úinéir talún uirbí thú a iontráladh ar Chlár na Láithreán Tréigthe, ní mór duit tobhach bliantúil a íoc leis an údarás áitiúil – féach ‘Rátaí’ thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Minister for Housing, Planning, Community and Local Government can prescribe any area to be an urban area, as long as it is not part of a county or other borough</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh an tAire Tithíochta, Pleanála, Pobail agus Rialtais Áitiúil a ordú gurb ionann aon limistéar agus limistéar uirbeach, a fhad agus nach cuid de chontae nó de bhuirg eile é</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you do not pay the derelict sites levy within 2 months of receiving the demand and if you have not reached an agreement with the local authority, interest will be charged on the full amount at a rate of 1.25% a month or part of a month</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach muna n-íocfar an tobhach laistigh de thréimhse 2 mhí ón dáta a rinneadh an t-éileamh agus nach bhfuil aon aontú déanta leis an údarás áitiúil, beidh ús curtha ar an méid iomlán ag ráta 1.25% sa mhí nó cuid de mhí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The local authority can take you to court to recover this amount, if necessary</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis an údarás áitiúil an t-úinéir a thabhairt chun na cúirte leis an airgead seo a fháil más gá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the site is removed from the Derelict Sites Register, the local authority will calculate the amount of levy that you owe, based on how many days are left in the financial year. It will then issue either a refund or a demand for payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhaintear an láithreán ó Chlár na Láithreán Tréigthe, déanfaidh an t-údarás áitiúil an tobhach a ríomhú bunaithe ar an méid laethanta atá fágtha sa bhliain airgeadais agus cuirfidh siad áisíoc nó éileamh ar airgead chuig an úinéir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Any change in the valuation of the land means that the amount of the derelict sites levy on that land will also change</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má thagann aon athrú ar luacháil na talún, déanfar athrú mar a chéile ar an tobhach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the value is decreased, the local authority will re-calculate the amount according to the new valuation and refund any excess that you may have paid</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá titim sa luach, déanfaidh an t-údarás áitiúil áthríomhú ar an méid atá i gceist de réir na luachála nua agus déanfaidh siad aisíoc leis an úinéir má tá airgead dlite do/di</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the value of the property is increased, the local authority is entitled to demand the levy on the amount of the increase</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá ardú tagtha ar luach an áitribh, tá sé de cheart ag an údarás áitiúil éileamh a dhéanamh ar thobhach ar an méid ardaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the local authority is satisfied that you have plans to develop the property, and planning permission has been granted for this development, you can enter into a bond instead of paying the derelict sites levy</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá an t-údarás áitiúil sásta go bhfuil pleananna le forbairt a dhéanamh ar an áitreabh ag úinéir láithreáin agus go bhfuil cead pleanála don fhorbairt, is féidir leis an úinéir dul isteach i mbanna in áit an tobhaigh do láithreáin tréigthe a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This bond is a guarantee that has been secured with a bank or insurance company, agreeing that all derelict sites levies due on the property will be paid if the planned scheme (or a similar scheme) is not carried out within 5 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ráthaíocht atá sa bhanna atá gealta le banc nó le comhlacht árachais agus é socraithe go n-íocfar aon tobhach dlite ar láithreán tréigthe muna bhfuil an scéim nó a leithéidí curtha i bhfeidhm taobh istigh de thréimhse 5 bliana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are required to pay a vacant site levy under the Urban Regeneration and Housing Act 2015, you will not also have to pay a derelict sites levy on the same site</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más gá duit tobhach láithreán folamh a íoc faoin Acht um Athghiniúint Uirbeach agus Tithíocht, 2015, ní bheidh ort íoc as tobhach láithreán tréigthe chomh maith ar an láithreán céanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are the owner or occupier of a derelict site, you are likely to receive several statutory notices from your local authority</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más úinéir nó sealbhóir tú ar láithreán tréigthe, is cinnte go bhfaighidh tú fógraí reachtúla ón údarás áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The first is a notice informing you that your property has been added to the Derelict Sites Register</seg></tuv>
+  <tuv xml:lang="ga"><seg>Inseoidh na fógraí seo duit céard atá an t-údarás áitiúil ag déanamh maidir le d'áitreabh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will then get another notice to tell you what the local authority wants you to do to clean up your site</seg></tuv>
+  <tuv xml:lang="ga"><seg>Inseoidh an céad fógra duit go bhfuil d'áitreabh curtha ar Chlár na Láithreán Tréigthe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In some circumstances, a local authority may decide to purchase a derelict site compulsorily</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gheobhaidh tú fógra eile ansin ag insint duit na rudaí ba cheart a dhéanamh de réir an údarás áitiúil leis an láithreán a ghlanadh suas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You have the right to respond to any notice that the local authority sends you and to make an objection to the compulsory purchase of a site</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcásanna áirithe, is féidir leis an údarás áitiúil láithreán tréigthe a cheannach go héigeantach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The local authority can buy a derelict site in its area, either by agreement with the owner or by compulsory purchase</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis an údarás áitiúil láithreáin tréigthe ina cheantar a cheannach, tré chomhaontú leis an úinéir nó go héigeantach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It must advertise the details of any proposed compulsory purchase in the local newspaper and send a notice to the owner or occupier of the land, giving information about how and where to object to the purchase</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfear ceannach éigeantach a bheith fógraithe i nuachtán áitiúil le sonraí maidir leis an talamh atá i gceist agus caithfear fógra a sheoladh chuig úinéir nó sealbhóir na talún ag tabhairt eolais maidir le cén chaoi agus cén áit gur féidir leis/léi cur i gcoinne an cheannachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If an objection is made, the local authority cannot buy the land without the consent of An Bord Pleanála</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chuireann duine éigin i gcoinne an cheannaigh éigeantaigh, ní féidir leis an údarás áitiúil an talamh a cheannach gan cead ón mBord Pleanála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If An Bord Pleanála approves the compulsory purchase and the local authority has dealt with any objections received, the local authority can buy the land, using a vesting order</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má cheadaíonn An Bord Pleanála an t-ordú ar cheannach éigeantach agus go bhfuil plé déanta ag an údarás áitiúil is an dream a chur i gcoinne an cheannachta, is féidir an talamh a cheannacht tré úsáid a bhaint as ordú dílseacháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have any right to or interest in land that has been compulsorily acquired by a local authority, you can apply to it for compensation within 12 months of the vesting</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá aon cheart nó suim agat sa talamh a cheannaigh an t-údarás áitiúil go héigeantach, is féidir leat iarratas a dhéanamh ar chúiteamh laistigh de thréimhse 12 mí ón dáta a rinneadh an ceannacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The local authority will then pay you an amount of compensation equal to the value (if any) of the land</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocfaidh an t-údarás áitiúil suim airgid leat a bheidh cothrom le luach na talún (má tá aon airgead i gceist)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This value will be negotiated under the Acquisition of Land (Assessment of Compensation) Act 1919</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfar idirbheartaíocht maidir le luach na talún faoin Acht um Ghlacadh Talún (Measúnú ar Chúiteamh) 1919</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If there is any money due to the local authority on the property (in the form of a derelict sites levy or a court order for payment), the local authority can subtract this from the compensation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá aon airgead dlite don údarás áitiúil ar an talamh (tobhach suímh tréigthe nó íocaíocht ar ordú cúirte) is féidir leis an údarás áitiúil an méid dlite a bhaint as an gcúiteamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the amount that you owe on the property is more than the agreed compensation, no compensation will be paid</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá an méid atá dlite ar an talamh níos airde ná an méid cúitimh atá aontaithe, ní íocfar aon chúiteamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the Derelict Sites Act 1990, it is an offence to:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoin Acht um Láithreáin Tréigthe, 1990 is coir atá ann:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Remove, damage or deface a notice posted by the local authority regarding a derelict site</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má thógann tú, má dhéanann tú damáiste nó má loiteann tú aon fhógra atá curtha suas ag an údarás áitiúil maidir le láithreáin tréigthe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Fail to carry out the measures required by the local authority to prevent a property from being classed as derelict within an allotted time</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má theipeann ort na horduithe a tugadh ón údarás áitiúil a chur i bhfeidhm taobh istigh den tréimhse ama a bhí ceadaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Fail to notify the local authority of the transfer of land or interest in land (other than by will or on an intestacy) from one person to another</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Muna gcuireann tú in iúl don údarás áitiúil faoi aistriú úinéireachta talún nó suim i dtalamh ó dhuine amháin go duine eile (seachas tiomna nó díthomnacht)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Both parties must notify the local authority in writing within 4 weeks of the transfer</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh an dá pháirtí atá i gceist fógra a thabhairt don údarás áitiúil taobh istigh de thréimhse 4 sheachtainí ó am a rinneadh an aistriú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Fail to notify the local authority of the transfer of land or interest in land by will or on an intestacy</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má theipeann ort an t-údarás áitiúil a chur ar an eolas faoi aistriú úinéireachta talún nó suim i dtalamh tré thiomna nó díthomnacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The new owner must notify the local authority in writing within 6 months and the representative of the person under whose will or upon whose intestacy the transfer occurred must notify the local authority in writing within 2 months</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh an t-úinéir nua fógra a thabhairt don údarás áitiúil i scríbhinn laistigh de thréimhse 6 mhí agus caithfidh an té a bhí ag déanamh ionadaíochta maidir leis an aistriú tré thiomna nó díthomnacht, an t-údarás áitiúil a chur ar an eolas faoi laistigh de thréimhse 2 mhí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Prevent an authorised person from entering or carrying out authorised business on the derelict site</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bac a chur ar dhuine údarásach dul isteach nó a chuid oibre a dhéanamh ar an láithreán tréigthe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Anyone who commits an offence under this Act can be prosecuted by the local authority</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéantar coir faoin Acht seo, is féidir leis an údarás áitiúil tú a chúisiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The derelict sites levy amounts to 3% of the market value of the land concerned</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ionann tobhach na láithreán tréigthe agus 3% de luach margaidh na talún atá i gceist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Minister for Housing, Planning, Community and Local Government may prescribe a higher percentage, which cannot be more than 10% of the market value</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh an tAire Tithíochta, Pleanála, Pobail agus Rialtais Áitiúil céatadán níos airde a ordú, nach féidir leis breis agus 10% den luach margaidh a shárú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Fines are payable to the local authority for non-compliance with statutory notices about derelict sites and for failing to carry out work required by the local authority</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfear fíneálacha a íoc leis an údarás áitiúil muna gcomhlíonann tú fógraí reachtúla maidir le láithreáin tréigthe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The rates of fine were set in the Derelict Sites Act 1990 and have been increased in accordance with the Fines Act 2010</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagtar amach na rátaí fíneála san Acht um Láithreáin Thréigthe, 1990 agus méadaíodh iad i gcomhréir le hAcht na bhFíneálacha, 2010</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read more about how fine rates are calculated</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat níos mó a léamh conas a ríomhtar na rátaí fíneála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>On summary conviction for all offences: a fine not exceeding €2,500, also a fine not exceeding €500 for every day on which the offence continues and not exceeding €2,500, in total</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar chúiseamh achomair do na coireanna uilig: fíneáil gan dul thar €2,500 agus fíneáil gan dul thar €500 sa lá do gach lá a leantar ar aghaidh leis an gcoir ach gan dul thar €2,500 san iomlán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(This figure does not include the original fine of €2,500 for committing the offence in the first place.) You could also be sentenced to imprisonment for up to 6 months</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Níl an fhíneáil bhunúsach de €2,500 le haghaidh na coire san áireamh). Is féidir téarma príosúnachta a chur ort do thréimhse, gan dul thar 6 mhí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the court decides, you could be subject to both a fine and imprisonment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir fíneáil agus téarma príosúnachta a chur ort má dhéanann an chúirt an cinneadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>On conviction or indictment of failing to carry out the measures required by the local authority to prevent a property from being classed as derelict within an allotted time: a fine not exceeding €55,562.50, with a fine not exceeding €4,445 for every day the offence is continued, or imprisonment for a term not exceeding 2 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chúisítear tú nó má dhíotáiltear tú de bharr gur theip ort na horduithe a tugadh duit ón údarás áitiúil a chomhlíonadh lena chinntiú nach mbeadh áitreabh rangaithe mar láithreán tréigthe taobh istigh de thréimhse ceadaithe: Fíneáil gan dul thar €55,562.50 atá i gceist, le fíneáil gan dul thar €4,445 do gach lá a leantar ar aghaidh leis an gcoir nó téarma príosúnachta gan dul thar 2 bhliain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the court decides, you could be subject to both a fine and imprisonment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéanann an chúirt an cinneadh, is féidir fíneáil agus téarma príosúnachta a ghearradh ort</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The local authority can recover the cost of necessary work on a derelict site from its owner</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh an t-údarás áitiúil costas na hoibre riachtanaí a dhéantar ar láithreán tréigthe a aisghabháil ó úinéir an láithreáin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have any queries or complaints regarding derelict sites, contact your local authority</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déan teagmháil leis an údarás áitiúil má tá aon fhiosrúcháin nó gearáin le déanamh agat maidir le láithreáin tréigthe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you own a derelict site and you want to appeal a valuation made on it on behalf of a local authority, contact the Valuation Tribunal within 28 days of receiving the notice of valuation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déan teagmháil leis an mBinse Luachála (taobh istigh de thréimhse 28 lá ón dáta a fuarthas an fógra) más mian leat achomharc a dhéanamh ar luacháil a rinne an t-údarás áitiúil ar láithreán tréigthe</seg></tuv>
+</tu>
+</body>
+</tmx>

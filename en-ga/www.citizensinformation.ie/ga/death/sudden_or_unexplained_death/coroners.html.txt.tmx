@@ -1,0 +1,233 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>A coroner is an independent official with legal responsibility for the investigation of sudden and unexplained deaths</seg></tuv>
+  <tuv xml:lang="ga"><seg>Oifigeach neamhspleách is ea cróinéir a bhfuil freagracht dhlíthiúil air/uirthi chun imscrúdú a dhéanamh ar bhásanna tobanna agus ar bhásanna nach féidir a mhíniú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Coroners are appointed for particular districts within a local authority area by the local authority (the coroner for the Dublin district is appointed by the Minister for Justice and Equality)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceapann údarás áitiúil cróinéirí do limistéir ar leith laistigh de limistéar údaráis áitiúil (ceapann an tAire Dlí agus Cirt agus Comhionannais an cróinéir do cheantar Bhaile Átha Cliath)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>While the coroner system is subject to the general supervision of the Minister, coroners are independent in their function</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cé go mbíonn an córas cróinéirí faoi réir mhaoirsiú ginearálta an Aire, bíonn cróinéirí neamhspleách ina bhfeidhm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The principal legislation that governs the role and responsibilities of coroners is the Coroners Act 1962 as amended</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is í an phríomhreachtaíocht a rialaíonn ról agus freagrachtaí cróinéirí an tAcht Cróinéirí, 1962, arna leasú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The role of the coroner is to enquire into the circumstances of sudden, unexplained, violent and unnatural deaths</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é ról an chróinéara chun fiosrú a dhéanamh ar chúinsí básanna tobanna, gan mhíniú, foréigneacha agus mínádúrtha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This may require a post-mortem examination, sometimes followed by an inquest</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh scrúdú iarbháis a bheith ag teastáil uaidh seo, agus leanann ionchoisne seo, amanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The post-mortem is carried out by a pathologist, who acts as the coroner's agent for this purpose</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann paiteolaí faoin scrúdú iarbháis, a ghníomhaíonn mar ghníomhaire an chróinéara don chuspóir seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The coroner's inquiry initially is concerned with establishing whether or not death was due to natural causes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann fiosrúchán an chróinéara i dtosach lena dheimhniú cé acu an raibh nó nach raibh cúiseanna nádúrtha mar chuid leis an mbás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The coroner essentially establishes the "who, when, where and how" of unexplained death</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a thagann bás gan mhíniú aníos, deimhníonn an cróinéir, go bunúsach, na ceisteanna “cé hé/hí an duine a fuair bás, cathain a fuair siad bás, cá bhfuair siad bás agus conas a fuair siad bás”</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A coroner is not permitted to consider civil or criminal liability; they must simply establish the facts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní cheadaítear do chróinéir breithniú a dhéanamh ar dhliteanas sibhialta nó coiriúil; caithfidh siad, go simplí, na fíricí a dheimhniú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a death is due to unnatural causes, then an inquest must be held by law</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más de dheasca cúiseanna mínádúrtha atá bás, ní mór ionchoisne a chur ar bun, de réir an dlí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A coroner will not be involved in cases where a person died from a natural illness or disease for which the deceased was being treated by a doctor within one month prior to death</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bheidh aon bhaint ag cróinéir le cásanna ina bhfuair duine bás de bharr breoiteacht nó galar nádúrtha a raibh cóireáil á cur ar an duine a fuair bá ag dochtúir taobh istigh de mhí amháin sula bhfuair siad bás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In this case, the doctor will issue the medical certificate of the cause of death</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás seo, eiseoidh an dochtúir an deimhniú leighis i dtaobh chúis an bháis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The death can then be registered and a death certificate can be obtained</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir an bás a chlárú agus is féidir deimhniú báis a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In cases of sudden, unnatural or violent death, there is a legal responsibility on the doctor, registrar of deaths, funeral undertaker, householder and every person in charge of any institution or premises in which the deceased person was residing at the time of their death to report such a death to the coroner</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás bás tobann, mínádúrtha nó foréigneach, tá freagracht dhlíthiúil ar an dochtúir, cláraitheoir na mbásanna, an t-adhlacóir, an sealbhóir tí agus gach duine atá i gceannas ar aon institiúid nó ar aon áitreabh ina raibh cónaí ar an duine marbh ag tráth a mbáis chun an bás sin a chur in iúl don chróinéir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The death may be reported to a member of the Garda Síochána not below the rank of sergeant who will notify the coroner</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadtar an bás a chur in iúl do chomhalta den Gharda Síochána nach bhfuil faoi bhun céim sháirsint, a chuirfidh an cróinéir ar an eolas air</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However under common law, any person may notify the coroner of the circumstances of a particular death</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoin dlí coiteanna, áfach, féadfaidh aon duine an cróinéir a chur ar an eolas ar chúinsí báis ar leith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Garda Síochána will assist the coroner in arranging a formal identification of the body by a member of the family or a relative of the deceased</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cabhróidh an Garda Síochána leis an gcróinéir chun socrú a dhéanamh do shainaithint fhoirmiúil an choirp ag duine muinteartha nó ag gaol an duine mhairbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Gardaí will send the coroner a report on the circumstances of the death</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirfidh na Gardaí tuairisc faoi bhráid an chróinéara ar chúinsí an bháis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The fact that relatives may be met at the hospital by a uniformed Garda, or that a Garda may call to the home to take a statement, does not mean that the death is regarded as suspicious</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar gheall gur féidir le Garda a bhfuil éide an Gharda Síochána á chaitheamh aige/aici casadh leis na gaolta ag an ospidéal, nó gur féidir le Garda cuairt a thabhairt ar an teach chun ráiteas a ghlacadh, ní chiallaíonn sé go gcaitear leis an mbás mar bhás amhrasach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Gardaí will in most cases be acting also as coroner's officers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh na Gardaí, i bhformhór na gcásanna, ag gníomhú mar oifigigh chróinéara, chomh maith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In situations where a medical certificate of the cause of death is not available, the coroner will arrange for a post-mortem examination of the body</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcásanna nach bhfuil fáil ar dheimhniú leighis ar chúis an bháis, déanfaidh an cróinéir socrú le haghaidh scrúdú iarbháis a dhéanamh ar an gcorp</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the post-mortem examination shows that death was due to natural causes, and there is no need for an inquest, a Coroner's Certificate will be issued to the Registrar of Births and Deaths who will then register the death and issue the death certificate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má thaispeánann an scrúdú iarbháis gur chúiseanna nádúrtha ba chúis leis an mbás, agus nach dteastaíonn ionchoisne, eiseofar Deimhniú Cróinéara do Chláraitheoir na mBreitheanna agus na mBásanna a chláróidh an bás agus a eiseoidh an deimhniú báis, ina dhiaidh sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If death is due to unnatural causes, the coroner is obliged to hold an inquest</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhíonn an bás mar thoradh ar chúiseanna mínádúrtha, tá dualgas ar an gcróinéir ionchoisne a chur ar bun</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The death will be registered by means of a Coroner's Certificate when the inquest is concluded (or adjourned in some cases)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Clárófar an bás trí Dheimhniú Cróinéara nuair a thugtar an ionchoisne chun críche (nó nuair a dhéantar í a chuirtear í ar athló i roinnt cásanna)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Prior to the inquest (or while waiting for the post-mortem report), the coroner's office will provide an Interim Certificate of the Fact of Death, which may be acceptable to banks, insurance companies and other institutions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Roimh an ionchoisne (nó fad a bhítear ag feitheamh leis an tuairisc iarbháis), soláthróidh oifig an chróinéara Deimhniú Eatramhach um Fhíric Bháis, a d’fhéadfadh bheith inghlactha ag bainc, comhlachtaí árachais agus institiúidí eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The following deaths must be reported to the coroner</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór na básanna a leanas a chur in iúl don chróinéir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Deaths occurring at home or other place of residence:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Básanna a tharlaíonn sa bhaile nó in áit chónaithe eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Where the deceased was not attended by a doctor during the last illness</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sa chás nár fhreastail dochtúir ar an duine marbh le linn na breoiteachta deireanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Where the deceased was not seen and treated by a doctor within one month prior to the date of death</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sa chás nár chas dochtúir agus nár chuir dochtúir cóireáil ar an duine marbh laistigh de mhí amháin roimh dháta an bháis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Where the death was sudden and unexpected</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sa chás go raibh an bás tobann agus nach raibh coinne leis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Where the death may have resulted from an accident, suicide or homicide</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sa chás go bhféadfadh go raibh timpiste, féinmhárú nó dúnbhású mar chúis leis an mbás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Where the cause of death is unknown or uncertain</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sa chás nach fios cúis an bháis nó nár deimhníodh cúis an bháis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Deaths occurring in hospitals:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Básanna a tharlaíonn in ospidéil:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Where the death may have resulted from an accident, suicide or homicide</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sa chás go bhféadfadh go raibh timpiste, féinmhárú nó dúnbhású mar chúis leis an mbás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Where any question of negligence or misadventure arises in relation to the treatment of the deceased</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sa go dtagann aon cheist faillí nó mhíthapa chun solais maidir le cóireáil an duine mhairbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Where a patient dies before a diagnosis is made and the general practitioner is also unable to certify the cause</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sa chás go bhfaigheann othar bás sula ndéantar diagnóis agus nach féidir leis an dochtúir ginearálta an chúis a dheimhniú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• When the death occurred whilst a patient was undergoing an operation or was under the effect of an anaesthetic</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sa chás gur tharla an bás fad a bhí othar ag dul faoi obráid nó go raibh sé/sí faoi thionchar ainéistéisigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Where the death occurred during or as a result of any invasive procedure</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sa chás gur tharla an bás i rith aon nóis imeachta ionraigh nó mar thoradh ar nós imeachta ionrach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Where the death resulted from any industrial disease</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sa chás gur eascair an bás as aon ghalar tionsclaíoch</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Where a death was due to neglect or lack of care (including self-neglect)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sa chás go raibh bás mar thoradh ar fhaillí nó ar easpa cúraim (féinfhaillí san áireamh)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Where the death occurred in a mental hospital</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sa chás gur tharla an bás in ospidéal meabhrach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Deaths reported to the coroner by a Garda:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Básanna a chuireann Garda in iúl don chróinéir:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Where a death may have resulted from an accident, suicide or homicide</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sa chás go bhféadfadh go raibh timpiste, féinmhárú nó dúnbhású mar chúis le bás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Where a death occurred in suspicious circumstances</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sa chás gur tharla bás faoi chúinsí amhrasacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Where there is an unexpected or unexplained death</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sa chás gurb ann do bhás gan choinne nó gan mhíniú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Where a dead body is found</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sa chás go dtagtar ar chorp marbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Where there is no doctor who can certify the cause of death</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sa chás nach ann d’aon dochtúir ar féidir leis/léi cúis an bháis a dheimhniú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Other categories of death reportable include:</seg></tuv>
+  <tuv xml:lang="ga"><seg>I measc na gcatagóirí eile de bhás atá intuairiscithe, tá an méid a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The death of a child in care</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bás linbh i gcúram</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Where a body is to be removed abroad</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sa chás go bhfuil an corp le haistriú thar lear</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Coroners Service provides more information on deaths which must be reported on its website, coroner.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>Soláthraíonn an tSeirbhís Chróinéara breis faisnéise ar bhásanna nach mór a thuairisciú ar láithreán gréasáin, coroner.ie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Coroner districts (there is one coroner per district) are roughly equivalent to local authority districts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá na Limistéir Chróinéara nach mór mar an gcéanna le limistéir údaráis áitiúil (tá cróinéir amháin i ngach limistéar)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(However, in some cases, there are a number of coroners in the same county)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(I roinnt cásanna, áfach, bíonn roinnt cróinéirí ann sa chontae céanna)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Contact information for the coroner for your district as well as information on the Coroner Service is available at coroner.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá fáil ar fhaisnéis teagmhála don chróinéir do do limistéar, anuas ar fhaisnéis ar an tSeirbhís Chróinéara, ag coroner.ie</seg></tuv>
+</tu>
+</body>
+</tmx>

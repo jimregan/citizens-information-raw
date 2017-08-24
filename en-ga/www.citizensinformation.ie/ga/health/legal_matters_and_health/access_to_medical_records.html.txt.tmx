@@ -1,0 +1,297 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Access to medical records</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rochtain ar thaifid leighis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Administrative access to HSE records</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Rochtain riaracháin ar thaifid FSS</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Data protection and freedom of information</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cosaint sonraí agus Saoráil Faisnéise</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Individual patients may be entitled to get access to their medical records in a number of different ways:</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh go mbeadh othair i dteideal a gcuid taifead leighis a fháil ar roinnt bealaí éagsúla:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• By routine and administrative access to Health Service Executive (HSE) records</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Trí rochtain ghnáthaimh agus riaracháin ar thaifid FSS</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Under the Data Protection Acts</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Faoi na hAchtanna um Chosaint Sonraí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Under the Freedom of Information Act</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Faoi na hAchtanna um Shaoráil Faisnéise</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• By discovery, in the course of court proceedings</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Trí “fhollasú” i gcúrsa imeachtaí cúirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• On the basis of a contract between the patient and the medical practitioner or hospital</seg></tuv>
+  <tuv xml:lang="ga"><seg>• De bhua conartha idir an othar agus an cleachtóir leighis nó ospidéal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The five ways listed above apply to patients of the public system: patients in public or publicly-funded hospitals, as well as medical card or GP visit card holders for GP services</seg></tuv>
+  <tuv xml:lang="ga"><seg>othair in ospidéil phoiblí nó ospidéil a fhaigheann maoiniú poiblí, chomh maith le sealbhóirí Cárta Liachta/Cárta Cuairte Dochtúra Ghinearálta do sheirbhísí dochtúirí ginearálta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you visit your GP as a private patient or attend a private (non-HSE funded) hospital, you can only get access through Data Protection, by virtue of your contract with the medical service, or by court order.   The HSE provides a list of public hospitals</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhreastalaíonn tú ar do dhochtúir ginearálta mar othar príobháideach nó ar ospidéal príobháideach (nach bhfuil maoinithe ag FSS), ní féidir leat rochtain a fháil ach amháin de bhua do chonartha leis an tseirbhís liachta, nó de bhua ordú cuairte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Residents in both public and private nursing homes who are funded by the Nursing Home Support Scheme or other HSE subvention may get access to their medical records</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh cónaitheoirí i dtithe altranais poiblí agus príobháideacha atá maoinithe ag an Scéim Tacaíochta do Thithe Altranais nó fóirdheontas FSS rochtain a fháil ar a dtaifid leighis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Doctors and other medical personnel and health institutions have a duty to maintain patients' records in confidence but there are some circumstances in which they may be obliged to give this information to third parties</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé de dhualgas ar dhochtúirí agus ar phearsanra leighis eile agus institiúidí sláinte taifid na n-othar a choinneáil faoi rún, ach tá roinnt tosca ann ina bhféadfadh go mbeadh dualgas orthu an t-eolas seo a thabhairt do thríú páirtithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Their ethical duty with regard to confidentiality is set out in the Medical Council guidelines Guide to Professional Conduct and Ethics for Registered Medical Practitioners</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagtar a ndualgas eiticiúil maidir le rúndacht amach i dtreoirlínte Chomhairle na nDochtúirí Leighis Treoir i gcomhair Iompraíocht agus Béas Eiticiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are some circumstances in which a health professional (or hospital) may disclose confidential medical records to others – for example, if the patient consents to such disclosure or when it is required by a court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá roinnt tosca ina bhféadfadh duine gairmiúil leighis (nó ospidéal) taifid rúnda leighis a nochtadh do dhaoine eile - mar shampla, má thoilíonn an t-othar le nochtadh den chineál sin, nó nuair a éilíonn cúirt é</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It seems that it may also be ethical to disclose medical records if it would be in the patient's best interests or, if necessary, to protect another person or society generally</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is cosúil go bhféadfadh sé a bheith eiticiúil taifid leighis a nochtadh sa chás go ndéanfadh an nochtadh sin ar mhaithe leis an othar, nó, más gá, chun duine eile nó an tsochaí i gcoitinne a chosaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are certain legal requirements to disclose information, for example, in relation to infectious diseases</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá riachtanais dlíthiúla ar leith chun eolas a nochtadh, mar shampla, maidir le galair thógálacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Doctors are obliged to report incidences of specified infectious diseases to the HSE and the Health Protection Surveillance Centre</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé de dhualgas ar dhochtúirí tarluithe galar tógálach faoi leith a thuairisciú d’Fheidhmeannacht na Seirbhíse Sláinte agus don Ionad um Fhaireachán Galair Thógálacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The confidentiality of personal information such as medical records is protected by both the Data Protection Acts and the Freedom of Information Act</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá rúndacht eolais phearsanta ar nós taifead leighis, faoi chosaint an Achta um Chosaint Sonraí agus na nAchtanna um Shaoráil Faisnéise</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under these Acts, third parties may not get access to personal information except under exceptional circumstances</seg></tuv>
+  <tuv xml:lang="ga"><seg>De réir na nAchtanna, ní féidir le tríú páirtithe rochtain ar shonraí pearsanta ach amháin i gcúinsí eisceachtúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These third parties would be parents/guardians and personal representatives</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad tuismitheoirí/caomhnóirí agus ionadaithe pearsanta na tríú páirtithe seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Administrative access to HSE records</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rochtain riaracháin ar thaifid FSS</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Generally, access to your own health records should be provided administratively, having regard to privacy, confidentiality and the public interest</seg></tuv>
+  <tuv xml:lang="ga"><seg>De ghnáth, ba chóir go mbeadh rochtain riaracháin agat ar do thaifead sláinte féin, ag tabhairt aird mar is cuí ar phríobháideachas, rúndacht agus leas an phobail</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Apply in writing to the appropriate service or agency (for example, for hospital records apply to the hospital manager)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déan iarratas i scríbhinn ar an tseirbhís nó gníomhaireacht chuí, (mar shampla, le haghaidh taifid ospidéil, déan iarratas ar Bhainisteoir an Ospidéil)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should provide sufficient information to help in locating your files, including your date of birth, current and previous addresses, the contacts you had with specific services and approximate dates</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir duit eolas leorga a sholáthar chun cabhrú le do thaifid a aimsiú, lena n-áirítear do dháta breithe, seoladh reatha agus roimhe, na teagmhálacha a bhí agat le seirbhísí áirithe agus neasdátaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may also be asked for proof of identity, for example providing a copy of your current passport or driver’s license</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfaí cruthúnas aitheantais a iarraidh uait, mar shampla cóip de do phas reatha nó do cheadúnas tiomána a sholáthar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is in order to protect your confidentiality</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bheadh sé seo chun do rúndacht a chosaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There will usually be no charge for copies of personal records</seg></tuv>
+  <tuv xml:lang="ga"><seg>De ghnáth, ní bheidh táille ar bith ar chóipeanna de thaifid phearsanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, the health agency has the right to charge, for example, if the quantity of records is very large</seg></tuv>
+  <tuv xml:lang="ga"><seg>In ainneoin sin, tá sé de cheart ag an ngníomhaireacht shláinte táille a ghearradh ar fhótachóipeála, chóipeanna x-gha, nó sa chás go bhfuil comhad na dtaifead an-mhór</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(See table of charges below)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Féach scála táillí thíos)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If access to a record or to information cannot be provided to you directly under administrative access, you will be informed of this and advised of the option of making an application under the Freedom of Information Act</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura féidir le taifead nó eolas a sholáthar duit go díreach faoi rochtain riaracháin, cuirfear in iúl duit faoi seo, agus tabharfar comhairle duit maidir le roghanna a bhaineann leis an Acht um Shaoráil Faisnéise</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Likewise, certain information may be of such a sensitive nature that requests for access can only be dealt with under the Freedom of Information (FOI) legislation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chomh maith leis sin, d’fhéadfadh eolas áirithe a bheith íogair agus ní fhéadfaí iarratais ar rochtain a dhéanamh ach amháin faoi reachtaíocht um Shaoráil Faisnéise</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Examples of this type of sensitive information would include, a deceased person's health record, documents relating to suspected child abuse, documents revealing the involvement and deliberations of an investigation into alleged sexual abuse, or documents relating to testing for HIV/ Aids</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad na rudaí a d’fhéadfadh a bheith i gceist le heolas íogair ná taifead sláinte duine nach maireann, taifid a bhaineann le cásanna amhrasta mí-úsáide páistí, taifid a nochtann baint le cás amhrasta mí-úsáide gnéasaí agus an plé iniúchta maidir leis, cáipéisí a bhaineann le tástáil VEID/SEIF srl</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Charges for administrative access</seg></tuv>
+  <tuv xml:lang="ga"><seg>Saghas táillí le haghaidh Rochtain Riaracháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Application fee │None │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Táille Iarratais │Dada │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Photocopying fee* │4 cent per page │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Táille fótachóipeála* │4 cent an leathanach │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Per copy x-ray │€6.35 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Cóip x-gha │€6.35 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Per copy floppy disk │51 cent │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Cóip diosca flapach │51 cent │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>* Photocopying charges will only be levied where there are a large number of copies requested</seg></tuv>
+  <tuv xml:lang="ga"><seg>* Ní ghearrfar táillí fótachóipeála ach amháin sa chás go ndéantar iarratas ar líon mór cóipeanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Data protection and freedom of information</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cosaint sonraí agus Saoráil Faisnéise</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The data protection legislation requires that data held must be accurate and up to date</seg></tuv>
+  <tuv xml:lang="ga"><seg>Éilíonn an reachtaíocht um chosaint sonraí go bhfuil na sonraí a choimeádtar cruinn agus cothrom le dáta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the Data Protection Acts 1988 and 2003, you are entitled to find out if there is information about you held on record, to access those records and to have them corrected if they are inaccurate</seg></tuv>
+  <tuv xml:lang="ga"><seg>De réir na nAchtanna um Chosaint Sonraí 1988 agus 2003, tá duine i dteideal fáil amach má tá eolas faoi/fúithi féin coimeádta ar thaifead, rochtain ar na taifid sin agus iad a bheith ceartaithe má tá siad mícheart</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is the case no matter who holds the record – it could be held by a doctor or other medical professional, or by a hospital or other institution, or by the HSE or by anyone else</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá feidhm ag na rialacha seo beag beann ar an duine nó an eagraíocht atá ag coimeád an taifid – cé acu an dochtúir, gairmí liachta eile, ospidéal, institiúid, Feidhmeannacht na Seirbhíse Sláinte (FSS), nó duine ar bith eile é nó í</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The holder of the data has a duty to disclose and correct</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé de dhualgas ar an gcoimeádaí na sonraí a nochtadh agus a cheartú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is a limited exception to this duty to disclose your records to you where doing so is likely to cause serious harm to your physical or mental health or emotional condition</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá eisceacht teoranta ann i leith an dualgais chun taifid a nochtadh don duine lena mbaineann siad sa chás gur dócha go ndéanfaí dochar dáiríre do shláinte fhisiceach nó mheabhrach nó do riocht mothúchánach an duine mar thoradh ar an nochtadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Data Protection Commissioner has a number of leaflets, including A Guide to Your Rights (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá roinnt bileog ag an gCoimisinéir Cosanta Sonraí, Treoir maidir le do Chearta (pdf) san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Commissioner deals with complaints in relation to data protection</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann an Coimisinéir plé le fadhbanna maidir le cosaint sonraí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Freedom of Information Act</seg></tuv>
+  <tuv xml:lang="ga"><seg>An tAcht um Shaoráil Faisnéise</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Freedom of Information Act 2014 provides for, among other things, individual right of access to personal records held by public bodies unless they are specifically exempt</seg></tuv>
+  <tuv xml:lang="ga"><seg>Foráiltear san Acht um Shaoráil Faisnéise, 2014, i measc rudaí eile, do cheart aonair rochtana ar thaifid phearsanta atá á gcoimeád ag comhlachtaí poiblí mura bhfuil siad díolmhaithe go sonrach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Medical records are personal records</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad taifid liachta taifid phearsanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The FOI Act applies to the HSE and to voluntary hospitals as well as to a number of health agencies</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann an tAcht um Shaoráil Faisnéise le Feidhmeannacht na Seirbhíse Sláinte (FSS) agus le hospidéil dheonacha chomh maith le roinnt gníomhaireachtaí sláinte eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It does not apply to private hospitals</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhaineann sé le hospidéil phríobháideacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It applies to records held by GPs in relation to patients who are medical card holders</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann sé le taifid atá coimeádta ag dochtúirí ginearálta maidir le hothair atá ina sealbhóirí cárta liachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It does not apply to the records of private patients</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhaineann sé le taifid othar príobháideach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you want to access records under the FOI Act, you should apply to the public body that holds them (the HSE is considered to hold the records of medical card holders)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ag iarraidh rochtain ar thaifid faoin Acht um Shaoráil Faisnéise, ba chóir duit iarratas a dhéanamh ar an gcomhlacht poiblí atá á gcoimeád (tuigtear gur í Feidhmeannacht na Seirbhíse Sláinte (FSS) a choimeádann na taifid maidir le sealbhóirí an chárta liachta)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is a particular procedure that must be followed for medical information if the head of the public body is of the opinion that its disclosure to you may be prejudicial to your health or emotional well being</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór cloí le nós imeachta ar leith maidir le heolas liachta a nochtadh sa chás go bhfuil ceannasaí an chomhlachta phoiblí den tuairim go ndéanfadh nochtadh d’eolais dochar do do shláinte nó d’fholláine mhothúchánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In these circumstances, if you ask them to do so, the public body must instead release the record to an appropriate health professional nominated by you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sna cásanna seo, má iarrann tú orthu é a dhéanamh, caithfidh an comhlacht poiblí an taifead a scaoileadh do ghairmí liachta cuí a ainmníonn tú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>FOI requests should be addressed to the FOI Unit of the public body or office holding the records</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir iarratais faoin Acht um Shaoráil Faisnéise a sheoladh chuig Aonad um Shaoráil Faisnéise an chomhlachta phoiblí nó na hoifige a choimeádann na taifead</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Access to the records of a child or incapable person</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rochtain ar thaifid linbh nó duine éagumasaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In general, for personal information the FOI Act gives the person that the information is about the right to access it</seg></tuv>
+  <tuv xml:lang="ga"><seg>De ghnáth, tugann an tAcht um Shaoráil Faisnéise ceart rochtana ar eolas pearsanta don duine lena mbaineann an t-eolas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is a procedure whereby parents or guardians can access personal information about a minor</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá nós imeachta ann a thugann cead do thuismitheoirí nó caomhnóirí rochtain ar eolas pearsanta maidir le duine mionaoiseach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Act also allows parents/guardians to access personal information about an adult who is incapable of exercising their rights under the Act because of mental incapacity or severe physical disability</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann an tAcht cead do thuismitheoirí/chaomhnóirí rochtain ar eolas pearsanta maidir le duine fásta chomh maith nach bhfuil in ann a chearta faoin tAcht a fheidhmiú mar gheall ar neamhchumas ó thaobh meabhrach nó míchumas fisiceach trom</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The access in both cases will only be granted if the head of the public body concerned considers it would be in the best interests of the person concerned</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní cheadófar an rochtain seo sa dá chás thuasluaite ach amháin sa chás go gceapann ceannasaí an chomhlachta phoiblí go bhfuil sé ar mhaithe leis an duine atá i gceist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Access to a deceased person's records</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rochtain ar thaifid duine éagtha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the case of a deceased person, access to the personal information may be granted:</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás duine nach maireann, d’fhéadfadh rochtain ar eolas pearsanta a cheadú:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• To the personal representative who is administering the estate of the deceased</seg></tuv>
+  <tuv xml:lang="ga"><seg>• don ionadaí pearsanta atá ag riar eastát an duine nach maireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• To a person who is performing some legal function in relation to the individual or the estate of the individual</seg></tuv>
+  <tuv xml:lang="ga"><seg>• do dhuine atá ag déanamh feidhm dhlíthiúil éigin i dtaca leis an duine aonair nó le heastát an duine aonair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• To the spouse (including a divorced spouse or cohabitee) or next of kin or such other person as the head of the public body considers appropriate</seg></tuv>
+  <tuv xml:lang="ga"><seg>• don chéile (céile colscartha nó comhchónaitheoir san áireamh), nó don neasghaol nó do dhuine eile atá oiriúnach de réir ceannasaí comhlachta phoiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Disputes about access to records under the FOI Act should be addressed to the Office of the Information Commissioner</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir conspóidí faoi rochtain ar thaifid faoin Acht um Shaoráil Faisnéise a sheoladh chuig an gCoimisinéir Faisnéise</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Patients and others may access medical records for the purpose of court cases if they get a court order of discovery</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh othair agus daoine eile rochtain ar thaifid liachta le haghaidh cásanna cúirte ar chuntar go bhfaigheann siad ordú cúirte “follasaithe”</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The court may order a hospital or doctor to disclose or discover documents or medical records to a plaintiff's advisers where those documents are considered relevant to the issues involved in the court proceedings</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh an chúirt ospidéal nó dochtúir a ordú chun cáipéisí nó taifid liachta a nochtadh nó “a fhollasú” do chomhairleoirí an ghearánaí má cheaptar go mbaineann siad le ceisteanna a bhaineann le himeachtaí na cúirte</seg></tuv>
+</tu>
+</body>
+</tmx>

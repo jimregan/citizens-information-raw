@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Inheriting a local authority tenancy</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tionóntacht shóisialta a fháil tar éis bháis do ghaol leat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A relative who has been living with a tenant may be able to take over the tenancy if the tenant dies</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go h-iondúil, má bhí tú i do chónaí le gaol leat, a bhí ina thionónta ag údarás áitiúil agus atá tar éis bás a fháil, is féidir leat seilbh a ghlacadh ar an tionóntacht sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Local authority practice varies on this; some will require the relative to have lived in the house for a minimum number of years, others will only allow the relative to take over the tenancy if the housing is suitable for their needs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá difríochtaí idir na h-údaráis áitiúla faoi seo. Teastaíonn ó chuid acu go mbeifeá i do chónaí sa teach ar feadh íosmhéid blianta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The rules for succession to tenancy are usually outlined in the local authority's housing allocations scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás cuid eile, ní ligfidh siad duit seilbh a ghlacadh muna bhfuil an teach feiliúnach do do riachtanais féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Housing associations have established their own policies on this</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá a bpolasaithe féin ag na cumainn tithíochta mar gheall ar an ábhar seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are a housing association tenant, contact your housing association for information on inheriting a tenancy</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más tionónta tú i gcumann tithíochta tionóntach, téigh i dteagmháil leis an gcumann chun a fháil amach cén polasaí atá acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Contact your local authority or housing association</seg></tuv>
+  <tuv xml:lang="ga"><seg>Téigh i dteagmháil le d' údarás áitiúil nó le do chumann tithíochta</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,697 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>A Personal Insolvency Arrangement (PIA) is one of 3 debt resolution mechanisms introduced by the Personal Insolvency Act 2012 for people who cannot afford to pay their personal debts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an Socrú um Dhócmhainneacht Phearsanta (SDP) ar cheann de thrí mheicníocht réitigh fiachais a tugadh isteach faoin Acht um Dhócmhainneacht Phearsanta 2012 do dhaoine nach bhfuil in ann íoc as a bhfiachas pearsanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These mechanisms offer different solutions to people in different situations</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann na socruithe seo réitigh dhifriúla ar fáil do dhaoine i gcásanna éagsúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Personal Insolvency Arrangement applies to the agreed settlement and/or restructuring of secured debts up to a total of €3 million (as well as unsecured debts) over a period of 6 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann an Socrú um Dhócmhainneacht Phearsanta le réiteach comhaontaithe agus/nó athstruchtúrú fiachais faoi urrús a mhéid le €3 milliún (mar aon le fiachas gan urrús) thar thréimhse 6 bliana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The cap of €3 million can be increased by agreement with your secured creditors and the limit of 6 years can increase to 7 years in some situations</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadtar an uasteorainn €3 milliún a mhéadú tar éis comhaontú a bhaint amach le do chreidiúnaithe faoi urrús agus féadtar an uasteorainn 6 bliana a mhéadú go dtí 7 mbliana i gcásanna áirithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This document describes how to qualify for a PIA and how the PIA process works</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar cur síos sa cháipéis seo ar conas cáiliú do SDP agus ar conas a oibríonn an próiseas SDP</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Insolvency Service of Ireland (ISI) has published detailed information about PIAs, including possible scenarios, FAQs and a guidebook</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhoilsigh Seirbhís Dócmhainneachta na hÉireann (SDÉ) faisnéis shonrach faoi SDPanna, lena n-áirítear cásanna féideartha, ceisteanna coitianta, agus treoirleabhar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It also provides extra information on PIAs, including a quick guide (pdf), on its website backontrack.ie, aimed at people who are struggling with debt</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann an SDÉ breis eolas breise ar SDPanna agus treoir ghearr (pdf) ar an suíomh backontrack.ie, atá dírithe ar dhaoine a bhfuil fadhbanna fiachais acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can read a general overview of personal insolvency options here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú foramharc ar an gcóras nua um dhócmhainneacht phearsanta a léamh anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Provision for court review</seg></tuv>
+  <tuv xml:lang="ga"><seg>Soláthar nua d’athbhreithniú cúirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A series of measures announced on 13 May 2015 included changes to the personal insolvency system</seg></tuv>
+  <tuv xml:lang="ga"><seg>I measc na mbeart nua a fógraíodh an 13 Bealtaine 2015, tá athruithe ar an gcóras um dhócmhainneacht phearsanta, a bhfuil gach ceann díobh i bhfeidhm anois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All of these changes are now in effect. They include court review where a mortgage lender rejects the borrower’s proposal for a PIA</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áirítear leo athbhreithniú cúirte, sa chás go ndiúltaíonn iasachtóir morgáiste togra um dhócmhainneacht phearsanta an iasachtóra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This review option only applies to mortgages that were in arrears on 1 January 2015, or to mortgages that were in arrears before that and where the borrower entered into an alternative repayment arrangement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhaineann an rogha athbhreithnithe seo ach le morgáistí a raibh riaráistí acu an 1 Eanáir 2015, nó a raibh riaráistí acu roimhe sin agus inar iontráil an t-iasachtóir isteach i socrú malartach aisíocaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The court will review the application, including any objections made by creditors</seg></tuv>
+  <tuv xml:lang="ga"><seg>Athbhreithneoidh an chúirt an t-iarratas, aon aighneachtaí a dhéanann creidiúnaithe san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Subject to meeting certain criteria set out in the legislation, the judge may impose the original PIA proposal on the creditor(s)</seg></tuv>
+  <tuv xml:lang="ga"><seg>A fhad go gcomhlíontar critéir áirithe a leagtar amach sa reachtaíocht, féadfaidh an breitheamh an buntogra a bhaineann leis an Socrú um Dhócmhainneacht Phearsanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Personal Insolvency Arrangements provide for the agreed settlement and/or restructuring of debts in the case of people who have secured debts up to a total of €3 million (as well as any unsecured debts) and have no prospect of being able to pay off their debts in the next 5 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann Socruithe um Dhócmhainneacht Phearsanta soláthar do réiteach comhaontaithe agus/nó athstruchtúrú fiachais i gcás daoine a bhfuil fiachas faoi urrús acu a mhéid le €3 milliún (mar aon le haon fhiachas gan urrús) agus nach measann siad go mbeidh siad in ann a bhfiachas a íoc sna 5 bliana amach romhainn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can only avail of a PIA once in your lifetime</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leat SDP a fháil ach uair amháin i do shaol</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You cannot get a PIA if you are involved in one of the other debt resolution processes introduced by the Act, or in the bankruptcy process, or if you have completed one of these processes within the last 5 years (3 years for a Debt Relief Notice)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leat SDP a fháil má tá baint agat i gceann amháin de na próisis eile réitigh a tugadh isteach faoin Acht, nó sa phróiseas féimheachta, nó má chríochnaigh tú ceann de na próisis seo le 5 bliana anuas (nó le trí bliana anuas i gcás Fógra um Fhaoiseamh Fiachais)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the original legislation, you could only get a PIA by agreement of a specified majority of your secured and unsecured creditors – see Main elements of a PIA below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoin mbunreachtaíocht, ní fhéadfá SDP a fháil ach trí chomhaontú a dhéanamh ar thromlach sonraithe do chuid creidiúnaithe urraithe agus neamhurraithe – féach Príomhghnéithe SDP thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, as noted above, you can now seek a court review if a mortgage lender rejects your personal insolvency proposal</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi mar a thugtar faoi deara thuas, áfach, féadfaidh tú athbhreithniú cúirte a lorg má dhiúltaíonn iasachtóir morgáiste do thogra um dhócmhainneacht phearsanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>See ‘Creditors’ meeting’ below for more detail</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féach ‘Cruinniú na gcreidiúnaithe’ thíos chun teacht ar bhreis sonraí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must be domiciled in the State, or else have been living or had a place of business in the State within the year before you make your application</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go mbeadh sainchónaí ort sa Stát, nó go raibh cónaí ort nó áit gnó agat sa Stát sa bhliain sula ndéanann tú d’iarratas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will only qualify for a PIA if you owe debt to at least one secured creditor holding security over Irish property or assets (secured debt)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní cháileoidh tú do SDP ach má tá fiachas le híoc agat le creidiúnaí amháin faoi urrús, ar a laghad, ag a bhfuil urrús ar mhaoin nó sócmhainní Éireannacha (fiachas faoi urrús)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have no secured debts you should apply for a Debt Settlement Arrangement or a Debt Relief Notice</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil aon fhiachas faoi urrús agat, ba cheart duit iarratas a dhéanamh ar Shocrú um Réiteach Fiachais nó ar Fhógra um Fhaoiseamh Fiachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In general, the total of your debt to your secured creditors must add up to less than €3 million</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, níor mhór nach mbeadh níos mó ná €3 milliún le híoc agat, ar an iomlán, mar fhiachas le do chuid creidiúnaithe faoi urrús</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, this cap can be waived if all of your secured creditors agree in writing</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar a shon sin, féadtar an uasteorainn seo a tharscaoileadh má chomhaontaíonn gach duine de do chuid creidiúnaithe faoi urrús i scríbhinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>At least three-quarters (75%) of your debts must have built up at least 6 months before you apply for a PIA – in other words, you can’t apply for a PIA if any more than 25% of your debts were incurred in the last 6 months</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór gur cruthaíodh ar a laghad trí cheathrú (75%) de do chuid fiachais ar a laghad 6 mhí sula ndéanann tú iarratas ar SDP – i bhfriotal eile, ní féidir leat iarratas a dhéanamh ar SDP má tabhaíodh breis agus 25% de do chuid fiachais le 6 mhí anuas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Secured and unsecured debts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fiachas faoi urrús agus gan urrús</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A Personal Insolvency Arrangement is only for people who have secured debts (though it can include some unsecured debts – see below) so it is important to know whether your debts are secured or not</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ta an Socrú um Dhócmhainneacht Phearsanta dírithe ar dhaoine ag a bhfuil fiachas faoi urrús (cé gur féidir roinnt fiachais gan urrús a áireamh – féach thíos), mar sin, is tábhachtach fios a bheith agat cibé acu an bhfuil d'fhiachas faoi urrús nó nach bhfuil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A secured debt is a loan on which property or goods are available as security against non-payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Iasacht atá i bhfiachas faoi urrús ar a bhfuil fáil ar réadmhaoin nó earraí mar urrús i leith neamhíocaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Mortgages and car loans are the most common secured loans</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad morgáistí agus iasachtaí gluaisteáin na hiasachtaí is coitianta d’iasachtaí faoi urrús</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some examples of unsecured debts are: utility bill arrears (gas, electricity etc.); credit card debt; bank overdrafts; credit union loans</seg></tuv>
+  <tuv xml:lang="ga"><seg>Roinnt samplaí d’fhiachas gan urrús iad: riaráistí bille fóntais (gás, leictreachas, etc.); fiachas cárta creidmheasa; rótharraingtí bainc; iasachtaí comhar creidmheasa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if they are rolled up into your mortgage, they become secured loans</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá siad in éineacht le do mhorgáiste, áfach, déantar iasachtaí faoi urrús díobh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Excluded and excludable debts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fiachas eisiata agus in-eisiata</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Personal Insolvency Act 2012 specifies certain types of debt that cannot be written off by the debt settlement procedures that it introduced, which include the Personal Insolvency Arrangement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sonraítear san Acht um Dhócmhainneacht Phearsanta 2012 roinnt saghsanna d’fhiachas nach féidir a dhíscríobh leis na nósanna imeachta réitigh a thug an tAcht isteach, ina measc an Socrú um Dhócmhainneacht Phearsanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These are called excluded debts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar fiachas eisiata orthu seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Act specifies certain other types of debt to be excludable from a PIA</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sonraítear san Acht roinnt saghsanna eile d’fhiachas atá in-eisiata ó SDP</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that they can be covered by the PIA if the creditor is asked and agrees to let them be included – in which case they become permitted debts – debts that the creditor permits to be covered</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn seo nach féidir iad a chuimsiú ag an SDP ach amháin má iarrtar ar an gcreidiúnaí agus má aontaíonn sé/sí le hiad a áireamh – agus sa chás sin, déantar fiachas ceadaithe astu – arb ionann sin agus fiachas a cheadaíonn an creidiúnaí a chuimsiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the creditor is asked and does not respond, the creditor is also deemed to have consented to the debts being included</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má iarrtar ar an gcreidiúnaí agus mura dtugann sé/sí freagra, measfar gur thug an creidiúnaí toiliú go gcuirfear san áireamh an fiachas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most types of excludable debts are those owed to the State</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is fiachas in-eisiata an chuid is mó den fhiachas atá le híoc leis an Stát</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The types of debt that are excluded and cannot be covered by a PIA are:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad na saghsanna fiachais a eisítear agus nach féidir le SDP a chumhdach:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Debts under family law orders, such as maintenance orders for spouses and children</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Fiachas faoi orduithe dlí teaghlaigh, ar nós orduithe cothabhála do chéilí agus leanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Debts due under court awards for personal injury or death</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Fiachas atá le híoc faoi dhámhachtain chúirte mar gheall ar ghortú pearsanta nó bás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Debts arising from a loan (or forbearance of a loan) obtained through fraud or similar wrongdoing</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Fiachas a eascraíonn ó iasacht (nó staonadh iasachta) a fuarthas mar gheall ar chalaois nó éagóir dá samhail sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Debts arising under court orders made under the Proceeds of Crime Acts or fines imposed by the courts for criminal offences</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Fiachas a eascraíonn faoi orduithe cúirte a rinneadh faoi na hAchtanna um Fháltais ó Choireacht nó fíneálacha a ghearrann na cúirteanna mar gheall ar chionta coiriúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The types of debt that are excludable and may be covered if the creditor agrees are:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad na saghsanna fiachais atá in-eisiata agus is féidir a chumhdach le comhaontú an chreidiúnaí:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Taxes, duties, charges or levies owed to the State, such as income tax, the Local Property Tax, VAT, capital taxes</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cáin, dleachtanna, muirir nó tobhaigh atá le híoc leis an Stát, ar nós cáin ioncaim, an Mhuirir Theaghlaigh, na Cánach Maoine Áitiúla, CBL, cáin chaipitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Service charges owed to local authorities</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Muirir sheirbhíse atá le híoc le húdaráis áitiúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Money owed under the Nursing Homes Support Scheme (in respect of a loan advanced by the HSE to a nursing home resident to cover the amount due from the principal private residence)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Airgead atá le híoc faoin Scéim Tacaíochta do Thithe Altranais (i dtaca le hiasacht a réamhíoc FSS le cónaitheoir i dteach altranais chun íoc as an méid atá le híoc ón bpríomháit chónaithe phríobháideach)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Money owed to the Department of Social Protection, such as overpayments</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Airgead atá le híoc leis an Roinn Coimirce Sóisialaí, ar nós ró-íocaíochtaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Debts due to owners’ management companies in respect of annual service charges or contributions due for multi-unit developments (this is the only non-State debt in this category)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Fiachas atá le híoc le cuideachtaí bainistíochta úinéirí maidir le muirir nó le ranníocaíochtaí bliantúla seirbhíse atá le híoc le haghaidh forbairtí ilaonad (seo an t-aon fhiachas neamhStáit sa chatagóir seo)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Mortgage arrears on your home</seg></tuv>
+  <tuv xml:lang="ga"><seg>Riaráistí morgáiste ar do theach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In general, you must declare that you have co-operated with your mortgage lender for at least 6 months in respect of your principal private residence (your home) in accordance with the Central Bank’s Code of Conduct on Mortgage Arrears; and that, in spite of this co-operation, you have been unable to agree an alternative repayment arrangement or the lender has confirmed in writing that it does not wish to enter into such an arrangement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, ní mór duit a dhearbhú gur chomhoibrigh tú le d’iasachtóir morgáiste ar feadh sé mhí, ar a laghad, maidir le do phríomháit chónaithe (do theach) i gcomhréir le Cód Iompair maidir le Riaráistí Morgáiste an Bhainc Cheannais; agus, in ainneoin an chomhoibrithe seo, nach raibh tú in ann socrú aisíocaíochta eile a chomhaontú nó gur dhearbhaigh an t-iasachtóir i scríbhinn nach mian leis nó léi iontráil sa socrú sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This rule does not apply if your Personal Insolvency Practitioner (PIP) – see below – declares that you would still not be likely to be solvent in 5 years if you accepted such an alternative repayment arrangement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl an riail seo i gceist má dhearbhaíonn do Chleachtóir um Dhócmhainneacht Phearsanta (CDP) – féach thíos – nach dócha go fóill go mbeifeá sócmhainneach i gceann 5 bliana dá nglacfá leis an socrú aisíocaíochta eile sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further information for people facing mortgage arrears is available on keepingyourhome.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá fáil ar thuilleadh faisnéise do dhaoine a bhfuil riaráistí morgáiste i ndán dóibh ar keepingyourhome.ie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must make your proposal for a PIA through a Personal Insolvency Practitioner (PIP) – see The PIA process below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit do thogra le haghaidh SDP a dhéanamh trí Chleachtóir um Dhócmhainneacht Phearsanta (CDP) – féach An Próiseas SDP thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Once you have agreed the terms of the PIA proposal with your PIP, you then need approval from a creditors’ meeting or, failing that, your proposal may be imposed on your creditors after a court review</seg></tuv>
+  <tuv xml:lang="ga"><seg>A luaithe a dhéanann tú comhaontú ar théarmaí an togra SDP le do Chleachtóir um Dhócmhainneacht Phearsanta (CDP), is gá duit faomhadh a fháil ó chruinniú creidiúnaithe nó, murar féidir sin a dhéanamh, d’fhéadfaí do thogra a fhorchur ar do chreidiúnaithe i ndiaidh athbhreithniú cúirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>See ‘Creditors’meeting’ below’ for more detail</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féach ‘Cruinniú na gcreidiúnaithe’ thíos chun teacht ar bhreis sonraí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A PIA may involve you making regular payments of agreed amounts to your Personal Insolvency Practitioner, who then distributes them to your creditors according to the terms of the PIA</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar chuid de SDP, b’fhéidir go mbeadh ort íocaíochtaí rialta a dhéanamh de shuimeanna lenar comhaontaíodh le do Chleachtóir um Dhócmhainneacht Phearsanta, a dhéanfaidh iad a dháileadh ar do chreidiúnaithe i gcomhréir le téarmaí an SDP</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your creditors may not take any action against you to enforce the debt during the lifetime of the PIA</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tharlódh nach nglacfadh do chreidiúnaithe aon ghníomh i do leith chun an fiachas a fhorfheidhmiú le linn shaolré an SDP</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you keep to the terms of the PIA, the rest of your debt to your unsecured creditors will be discharged</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chloíonn tú le téarmaí an SDP, déanfar an chuid eile de d’fhiachas le do chuid creidiúnaithe gan urrús a dhíscaoileadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, when the PIA ends, you will still be liable for the outstanding amount of your secured debts, such as your mortgage</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar a shon sin, nuair a thiocfaidh deireadh leis an SDP, áfach, beidh tú fós faoi dhliteanas íoc as an tsuim nár íocadh de do chuid fiachais, ar nós do mhorgáiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The PIA has been designated as an insolvency proceeding which can benefit from cross-border recognition</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an SDP ainmnithe mar imeacht dócmhainneachta ar féidir leis leas a bhaint as aitheantas trasteorann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that a debtor availing of a PIA will gain the same protection against creditors in most other EU countries that they receive in Ireland, subject to and in accordance with the Regulation on Insolvency Proceedings (EC) No 1346/2000 (pdf), as updated by Regulation (EU) No.663/2014 (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fágann sé sin go mbeidh an chosaint chéanna ar chreidiúnaithe i bhformhór na dtíortha eile den AE is atá aige/aici in Éirinn ag féichiúnaí atá ag baint leas as SDP, faoi réir agus de réir an Rialacháin (CE) Uimh. 1346/2000 maidir le hImeachtaí Dócmhainneachta (pdf), arna nuashonrú ag Rialachán (AE) Uimh. 663/2014 (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read more in this press release</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léigh tuilleadh sa phreaseisiúint seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are certain elements that the PIA must contain:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá roinnt gnéithe ann nach mór don SDP a chuimsiú:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The maximum duration of the agreement must be 6 years but this may be extended by up to 1 year in circumstances as specified in the terms of the arrangement</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní mór go mbeidh fad uasta an chomhaontaithe sé bliana, ach is féidir seo a shíneadh le bliain amháin ar a mhéid faoi na cúinsí a shonraítear i dtéarmaí an chomhaontaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The PIA must clearly distinguish between secured debts and unsecured debts and must make provision for the manner in which the security held by the creditor is to be treated</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní mór go ndéanfaidh an SDP idirdhealú soiléir idir fiachas faoi urrús agus fiachas gan urrús agus soláthar a dhéanamh don bhealach a chaitear leis an urrús a choimeádann an creidiúnaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Unless your secured creditors agree otherwise, they may get the full value of their security or the full amount of the debt if the property is sold</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura gcomhaontaíonn do chreidiúnaithe faoi urrús ar a mhalairt, féadfaidh said luach iomlán a n-urrúis a fháil, nó suim iomlán an fhiachais má dhíoltar an mhaoin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If they agree to accept less than the full value of the security, there is a clawback if the security is sold for greater than the value estimated at the time of the arrangement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chomhaontaíonn siad chun glacadh le luach níos lú ná luach iomlán an urrúis, beidh aisghlámadh i gceist má dhíoltar an t-urrús ar luach a sháraíonn an luach measta tráth an tsocraithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you keep to the terms of the agreement your remaining debts to your unsecured creditors will be discharged</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má chloíonn tú le téarmaí an chomhaontaithe, déanfar an chuid eile de d’fhiachas le do chuid creidiúnaithe gan urrús a dhíscaoileadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You remain liable for certain debts unless the proposed arrangement explicitly provides for a compromise agreement and the creditor has agreed in writing to accept this – see ‘Excluded and excludable debts’ above</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Beidh tú fós faoi dhliteanas íoc as roinnt fiachais mura bhforálann an socrú beartaithe go sonrach do chomhaontú comhgréitigh agus murar chomhaontaigh an creidiúnaí i scríbhinn go nglacfar leis seo – féach ‘Fiachas eisiata agus in-eisiata’ thuas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The PIA cannot release you from fines or other monetary penalties arising from criminal offences</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní féidir leis an SDP thú a scaoileadh ó fhíneálacha nó ó phionóis eile airgid a eascraíonn ó chionta coiriúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• It cannot require you to sell any assets that are reasonably necessary for your employment or business unless you agree to such a sale</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní féidir leis ceangal ort aon sócmhainní a dhíol a bhfuil údar réasúnta leo ar mhaithe le d’fhostaíocht nó le do ghnólacht mura gcomhaontaíonn tú ar an díol sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You must be left with enough income to maintain a reasonable standard of living for yourself and your dependants</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Níor mhór go bhfágfar leat dóthain ioncaim le caighdeán réasúnta maireachtála a choimeád duit féin agus do do chuid cleithiúnaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• It must not require you to dispose of your principal private residence (your home) or to cease to occupy it unless specific conditions are met – see ‘Secured creditors’ below</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Níor cheart go gceanglódh sé ort fáil réidh le do phríomháit chónaithe (do theach) nó chun deireadh a chur le cónaí ann mura gcomhlíontar coinníollacha sonracha – féach ‘Creidiúnaithe faoi urrús’ thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• It must outline how your debts will be treated in the event of your death or mental incapacity</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní mór go dtabharfar breac-chuntas ann ar conas a chaithfear le d'fhiachas i gcás do bháis nó éagumas meabhrach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• It must provide that your circumstances be reviewed by the Personal Insolvency Practitioner at regular intervals (not more than 12 months) during the currency of the PIA; this review will involve the preparation of a new Prescribed Financial Statement that must be sent to all the creditors</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Níor mhór go bhforálfadh sé go ndéanfadh an Cleachtóir um Dhócmhainneacht Phearsanta athbhreithniú ar do chúinsí ag eatraimh rialta (tráth nach faide ná 12 mhí) le linn shaolré an SDP; is éard a bheidh i gceist leis an athbhreithniú seo, Ráiteas nua Forordaithe Airgeadais a réiteach nach mór a sheoladh go dtí na creidiúnaithe go léir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• It must make provision for the Personal Insolvency Practitioner’s costs</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Níor mhór go ndéanfar soláthar ann do chostais an Chleachtóra um Dhócmhainneacht Phearsanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Ongoing pension income receivable by you or an entitlement to a pension lump sum or income in accordance with the tax code will be treated as an asset or, as applicable, income for the purposes of a PIA</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfear le hioncam leanúnach ó phinsean atá infhaighte agat nó teidlíocht i leith cnapshuim phinsin nó ioncaim i gcomhréir leis an gcód cánach mar shócmhainn nó, de réir mar is infheidhme, mar ioncam ar mhaithe le cuspóirí SDP</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The terms of the PIA may provide for payment of some or all of that pension/lump sum or income to creditors during the PIA period</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfaí a fhoráil i dtéarmaí an SDP go n-íocfar cuid nó an chuid go léir den phinsean/chnapshuim nó den ioncam sin le creidiúnaithe le linn thréimhse an SDP</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your pension fund will be excluded from any PIA if it is a relevant pension arrangement for the purposes of the Act</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfar do chiste pinsin a eisiamh ó aon SDP más socrú iomchuí pinsin é chun críocha an Achta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Approved Retirement Funds (ARFs) do not fall into this category and may be included in a PIA</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní thagann Cistí Faofa Scoir (ARFanna) faoi chuimsiú na catagóire seo agus féadtar iad a chur san áireamh sa SDP</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There will be an onus on you to be transparent in relation to all historical pension contributions and the PIP will review these</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh dliteanas ort bheith trédhearcach maidir le gach ranníocaíocht stairiúil phinsin agus déanfaidh an CDP athbhreithniú orthu siúd</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a creditor or your PIP considers that you have made excessive pension contributions in the 3 years before applying for a PIA, an application can be made to the court to recover these contributions for distribution to your creditors</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má mheasann creidiúnaí nó do CDP go ndearna tú an iomad ranníocaíochtaí pinsin sna 3 bliana sula ndearna tú iarratas ar SDP, féadtar iarratas a dhéanamh ar an gcúirt chun na ranníocaíochtaí seo a aisghabháil lena leithdháileadh chuig do chuid creidiúnaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>While the PIA is in effect, you may not get credit for any amount over €650 without informing the lender that you have a PIA</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fad a bhíonn an SDP i bhfeidhm, féadfaidh tú sochar a fháil d’aon suim os cionn €650 gan an t-iasachtóir a chur ar an eolas go bhfuil SDP agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may not sell or deal in property above a certain value, except in accordance with the terms of the PIA</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leat maoin os cionn luach áirithe a dhíol nó a thrádáil, seachas i gcomhréir le téarmaí an SDP</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, no such restriction is placed on your spouse or civil partner</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní leagtar a shamhail de shrian ar do chéile nó do pháirtnéir sibhialta, áfach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must make your proposal for a PIA through a Personal Insolvency Practitioner (PIP)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit do thogra le haghaidh SDP a dhéanamh trí Chleachtóir um Dhócmhainneacht Phearsanta (CDP)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is a professional who is authorised by the Insolvency Service of Ireland (ISI) and will act on your behalf throughout the Personal Insolvency Arrangement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seo duine gairmiúil a fuair údarú ó Sheirbhís Dócmhainneachta na hÉireann (SDÉ) agus a ghníomhóidh ar do shon ó thús go deireadh an tSocraithe um Dhócmhainneacht Phearsanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The ISI has developed standard protocols for use by PIPs when making straightforward proposals to creditors for a PIA or a Debt Settlement Arrangement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá prótacal caighdeánach forbartha ag an ISI lena úsáid ag PIPanna agus tograí furasta á ndéanamh acu do chreidiúnaithe le haghaidh SDP nó Shocrú um Réiteach Fiachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must disclose all details of your financial affairs to the PIP, who will then advise you whether or not you meet the conditions for a PIA, the consequences, any alternative options, and the fees that you may have to pay</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit gach sonra faoi do chuid gnóthaí airgeadais a nochtadh don CDP, a chuirfidh comhairle ansin ort cibé acu an gcomhlíonann nó nach gcomhlíonann tú na coinníollacha le haghaidh SDP, na hiarmhairtí, aon roghanna eile, agus na táillí a d’fhéadfadh bheith ort a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must act in good faith and co-operate fully with the process</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit gníomhú le hintinn mhaith agus comhoibriú go hiomlán leis an bpróiseas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The PIP will help you complete a Prescribed Financial Statement as part of your application, giving full and honest information about your financial circumstances</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cabhróidh an CDP leat Ráiteas Forordaithe Airgeadais a chomhlánú mar chuid de d’iarratas, ina dtugtar faisnéis iomlán agus ionraic faoi do chuid cúinsí airgeadais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must also make a declaration that you have been unable to agree an alternative repayment arrangement with your creditor(s) or that your creditor(s) have confirmed in writing that they are unwilling to enter into an alternative repayment arrangement in respect of your principal private residence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, ní mór duit dearbhú a dhéanamh nach raibh tú in ann socrú eile aisíocaíochta a chomhaontú le do chreidiúnaí/chreidiúnaithe nó gur dhearbhaigh do chreidiúnaí/chreidiúnaithe i scríbhinn nach bhfuil siad toilteanach iontráil i socrú aisíocaíochta eile leat maidir le do phríomháit chónaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>See ‘Mortgage arrears on your home’ above for specific rules about mortgage debt</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féach ‘Riaráistí morgáiste ar do theach’ thuas chun teacht ar rialacha sonracha faoi fhiachas morgáiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will have to give your written consent to enable:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh ort do thoiliú i scríbhinn a thabhairt chun an méid a leanas a chur ar bun:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The PIP to disclose your personal data to the ISI</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Go nochtfaidh an CDP do shonraí pearsanta do SDÉ</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The ISI to process your application</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Go bpróiseálfaidh SDÉ d’iarratas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The ISI to make any necessary enquiries about you and</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Go ndéanfaidh an SDÉ aon fhiosrúchán riachtanach fút, agus</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The ISI to disclose your personal data to the creditors concerned, as required</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Go nochtfaidh SDÉ do shonraí pearsanta do na creidiúnaithe go léir lena mbaineann, de réir mar a theastaíonn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In general, you must act in good faith and co-operate fully with the process</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, ní mór duit gníomhú le hintinn mhaith agus comhoibriú go hiomlán leis an bpróiseas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The ISI has published detailed information on fees</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhoilsigh an ISI faisnéis mhionsonraithe faoi tháillí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It has waived its own fees for the 3 debt solutions, originally until the end of 2015, and has extended this waiver to the end of 2017 (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rinne sé a tháillí féin a tharscaoileadh i dtaobh na 3 rogha fiachais, go deireadh 2015 i dtosach, agus shín sé an tarscaoileadh seo go dtí deireadh 2017 (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In general, a fee of €500 was payable to the ISI for the issue of a protective certificate – described below. However, in the case of ‘interlocking’ PIAs, which is where two individuals have joint and independent debts on their own, only one fee had to be paid</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní ann d’aon scála socraithe táillí do PIPanna, ach ceanglaítear orthu a dtáillí agus a gcostais ghaolmhara a shonrú sula gceaptar iad chun gníomhú thar do cheann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is no set scale of fees for PIPs, but they are required to specify their charges and associated costs clearly before being appointed to act on your behalf</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás SDPanna ‘comhshnaidhmthe’, áfach, áit a mbíonn comhfhiachais agus fiachais neamhspleácha ag beirt daoine aonair leo féin, ní raibh ach táille amháin le híoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Personal Insolvency Practitioner sends your application to the ISI</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seolann an Cleachtóir um Dhócmhainneacht Phearsanta d’iarratas chuig an tSeirbhís Dócmhainneachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The ISI checks that all the details are in order and, if so, issues a certificate to that effect and forwards all to the relevant court (the Circuit Court in cases up to €2.5 million and the High Court in larger cases)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seiceálfaidh SDÉ go bhfuil na sonraí uile in ord agus, má tá siad, eiseoidh siad deimhniú ina leith sin mar aon leis an deimhniú a sheoladh ar aghaidh chuig an gcúirt chuí (an Chúirt Chuarda i gcásanna a mhéid le €2.5 milliún agus an Ard-Chúirt i gcásanna níos mó)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The court reviews the documentation and, if all is in order, issues a protective certificate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfaidh an chúirt athbhreithniú ar an gcáipéisíocht go léir, agus, má tá gach aon rud in ord, eiseoidh siad deimhniú cosanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The ISI records the details of the protective certificate on its Register of Protective Certificates</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirfidh an tSeirbhís Dócmhainneachta sonraí an deimhnithe cosanta i dtaifead ar a Clár Deimhnithe Cosanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The PIP then notifies each of your creditors of the existence of the protective certificate and your intention to make a proposal for a PIA</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ansin tugann an Cleachtóir um Dhócmhainneacht Phearsanta fógra do gach duine de do chuid creidiúnaithe gurb ann don deimhniú agus go bhfuil sé beartaithe agat togra le haghaidh SDP a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The protective certificate will give you 70 days during which your creditors may not:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabharfaidh an deimhniú cosanta 70 lá duit, tráth nach féidir le do chreidiúnaithe an méid a leanas a dhéanamh:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Start or continue legal proceedings in respect of the debt</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tús a chur le himeachtaí dlí maidir leis an bhfiachas nó leanúint leis na himeachtaí siúd</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Take or continue any steps to enforce a judgment or contact you about the debt unless you agree to this</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Dul i mbun aon bhirt chun breithiúnas a fhorfheidhmiú nó leanúint leis na bearta siúd nó teagmháil a dhéanamh leat faoin bhfiachas mura gcomhaontaíonn tú leis seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Start or continue bankruptcy proceedings against you</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tús a chur le himeachtaí féimheachta i do leith nó leanúint leis na himeachtaí siúd</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The court may extend the period of the protective certificate by a further 40 days if it is satisfied that:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh an chúirt tréimhse an deimhnithe cosanta a shíneadh le 40 lá breise má tá siad sásta faoin méid a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You and the PIP have acted in good faith and with reasonable expedition, and</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ghníomhaigh tú féin agus an Cleachtóir um Dhócmhainneacht Phearsanta le hintinn mhaith agus le heachtra réasúnta, agus</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• It is likely that, if the extension is granted, a proposal for a PIA will be made that is likely to be accepted by the creditors and successfully completed by you</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gur dócha, má dheonaítear an síneadh, go ndéanfar togra do SDP ar dócha go nglacfaidh na creidiúnaithe leis agus go gcomhlíonfaidh tú go rathúil é</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A creditor may apply to the court for an order directing that the protective certificate not apply to him or her</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh creidiúnaí iarratas a dhéanamh ar an gcúirt a ordaíonn nach mbainfidh an deimhniú cosanta leis nó léi</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The court will grant this order only if satisfied that failing to give it would cause irreparable loss to the creditor that would not otherwise occur and that no other creditor to whom notice of the protective certificate has been given would be unfairly prejudiced</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní dheonóidh an chúirt an t-ordú seo ach amháin má tá siad sásta go mbeadh an creidiúnaí thíos le caillteanas dóréitithe dá bharr, nach dtarlódh murach sin, agus nach ndéanfar difear éagórach d’aon chreidiúnaí eile ar tugadh fógra dóibh faoin deimhniú cosanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Once the protective certificate has been granted, your PIP must invite the relevant creditors to make proposals about the manner in which the debts might be dealt with as part of a PIA</seg></tuv>
+  <tuv xml:lang="ga"><seg>A luaithe a dheonaítear an deimhniú cosanta, ní mór do do CDP iarraidh ar na creidiúnaithe cuí tograí a dhéanamh faoin mbealach inar féidir déileáil le fiachas mar chuid de SDP</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The creditors must be given your Prescribed Financial Statement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór do Ráiteas Forordaithe Airgeadais a thabhairt do na creidiúnaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The PIA must provide for the way in which security held by your creditors is treated</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don SDP foráil a dhéanamh don bhealach ina gcaitear le hurrús atá á choimeád ag do chreidiúnaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Unless they agree otherwise, they may get the full value of their security or the full amount that you owe them if the security (such as a second property) is sold</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura gcomhaontaíonn do chreidiúnaithe ar a mhalairt, féadfaidh said luach iomlán a n-urrúis a fháil, nó an tsuim iomlán atá le híoc agat leo (ar nós an dara maoin) má dhíoltar an t-urrús</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When formulating the proposal for a PIA, the PIP will ensure, as far as is reasonably practicable, that you are not required to sell or move out of your principal private residence (your home)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a bhíonn an togra don SDP á chur i dtoll a chéile, cinnteoidh an CDP, a fhad agus is indéanta go réasúnta, nach gá duit bogadh amach ó do phríomháit chónaithe phríobháideach (do theach)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you wish to move out, or if the PIP believes that the running costs of staying in your home are disproportionately large, the PIA may provide for you to move out of it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mian leat bogadh amach, nó má chreideann an CDP go bhfuil na costais reatha atá i gceist agus tú ag fanacht i do theach as cuimse, féadfaidh an SDP a fhoráil go mbogann tú amach uaidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you have consented to the proposal for a PIA that has been formulated by your PIP, the PIP must call a creditors’ meeting</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a thug tú toiliú don togra do SDP a chruthaigh do CDP, ní mór don CDP cruinniú creidiúnaithe a thionól</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If there is only one creditor, he or she may write to the PIP indicating agreement or rejection</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil ach creidiúnaí amháin ann, féadfaidh é/í scríobh chuig an CDP agus comhaontú nó diúltú a chur in iúl</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The creditors vote on whether or not to accept the proposed arrangement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caitheann na creidiúnaithe vóta ar cibé acu an nglacfaidh nó nach nglacfaidh siad leis an socrú beartaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Each vote is proportional to the amount of debt owed to that creditor</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá gach vóta i gcomhréir leis an méid fiachais atá le híoc leis an gcreidiúnaí sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Creditors representing 65% or more of the value of the total debt – both secured and unsecured – must vote in favour, for the arrangement to be accepted</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór do chreidiúnaithe a léiríonn 65% nó níos mó de luach an fhiachais iomláin – idir fhiachas faoi urrús agus gan urrús – vótáil i bhfabhar, go nglacfar an socrú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In addition, over 50% of your secured creditors and 50% of unsecured creditors must vote in favour</seg></tuv>
+  <tuv xml:lang="ga"><seg>Anuas air sin, ní mór go gcaithfidh breis agus 50% de do chuid creidiúnaithe faoi urrús agus 50% de do chuid creidiúnaithe gan urrús ina fhabhar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the original legislation, if the creditors reject the proposal, the protective certificate ceases to have effect and the PIA process comes to an end</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoin reachtaíocht bhunúil, má dhiúltaíonn na creidiúnaithe an togra, cuirtear deireadh le héifeacht an deimhnithe cosanta agus cuirtear deireadh leis an bpróiseas SDP</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, the Personal Insolvency (Amendment) Act 2015 now provides for court review where a mortgage lender rejects the borrower’s personal insolvency proposal</seg></tuv>
+  <tuv xml:lang="ga"><seg>Foráiltear anois san Acht um Dhócmhainneacht Phearsanta (Leasú), 2015 d’athbhreithniú cúirte sa chás go ndiúltaíonn iasachtóir morgáiste togra um dhócmhainneacht phearsanta an iasachtóra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read more detail about this process in the ISI’s press release (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat níos mó sonraí a léamh faoin bpróiseas seo i bpreaseisiúint an ISI (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the proposal is accepted, the PIP must inform the Insolvency Service and tell creditors of their right to object to the relevant court - (the Circuit Court in cases up to €2.5 million and the High Court in larger cases)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má ghlactar leis an togra, ní mór don CDP an tSeirbhís Dócmhainneachta a chur ar an eolas agus an ceart atá ag na creidiúnaithe a chur in iúl chun cur i gcoinne na cúirte cuí – (an Chúirt Chuarda i gcásanna a mhéid le €2.5 milliún agus an Ard-Chúirt i gcásanna níos mó)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Insolvency Service notifies the court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann an tSeirbhís Dócmhainneachta fógra don chúirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If there is any objection, the protective certificate remains in place until the matter is decided</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhíonn aon aighneacht ann, fanann an deimhniú cosanta i bhfeidhm go dtí go ndéantar cinneadh ar an ábhar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The grounds on which an objection to the coming into effect of the Personal Insolvency Arrangement may be made are limited and include the following:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá na bunúis ar ar féidir aighneacht a dhéanamh i leith teacht i bhfeidhm Socrú um Dhócmhainneacht Phearsanta, faoi theorainn agus áirítear leo an méid a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You arranged your affairs in the previous 2 years primarily with a view to becoming eligible for a Debt Settlement Arrangement or a Personal Insolvency Arrangement</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Shocraigh tú féin do chuid gnóthaí sna 2 bhliain roimhe seo, féachaint le bheith incháilithe do Shocrú um Réiteach Fiachais nó Socrú um Dhócmhainneacht Phearsanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The procedural requirements were not followed</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Níor leanadh na ceanglais nós imeachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A material inaccuracy or omission exists in your Prescribed Financial Statement that causes a material detriment to the creditor</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Is ann do mhíchruinneas nó d’easnamh i do Ráiteas Forordaithe Airgeadais a bhíonn ina chúis le dochar ábhartha a dhéanamh don chreidiúnaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You did not meet the requirements when the arrangement was proposed</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Níor chomhlíon tú na ceanglais nuair a beartaíodh an socrú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The arrangement unfairly prejudices the interests of a creditor</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Déanann an socrú difear éagórach do leas an chreidiúnaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You have committed an offence under the Personal Insolvency legislation</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Rinne tú cion faoin reachtaíocht um Dhócmhainneacht Phearsanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You have entered into a transaction at an undervalue or given a preference to a person in the previous three years that has materially contributed to your inability to pay your debts</seg></tuv>
+  <tuv xml:lang="ga"><seg>• D’iontráil tú in idirbheart ar saorluach nó roghnaigh tú duine sna trí bliana roimhe seo a chuir go hábhartha leis na deacrachtaí atá agat chun íoc as do chuid fiachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Issue of a Personal Insolvency Arrangement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Socrú um Dhócmhainneacht Phearsanta a eisiúint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If there is no objection or an objection is not upheld, the court approves the Personal Insolvency Arrangement if satisfied that all the conditions have been met</seg></tuv>
+  <tuv xml:lang="ga"><seg>Murab ann d’aon aighneacht nó mura seastar le haon aighneacht, faomhann an chúirt an Socrú um Dhócmhainneacht Phearsanta, má tá siad sásta gur comhlíonadh na coinníollacha go léir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Insolvency Service records the PIA in its Register of Personal Insolvency Arrangements and it comes into effect</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann an tSeirbhís Dócmhainneachta an SDP a chur i dtaifead ina Clár Socruithe um Dhócmhainneacht Phearsanta agus tagann sé i bhfeidhm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Deferring Local Property Tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cáin Mhaoine Áitiúil a Chur Siar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Once you have entered into a Personal Insolvency Arrangement, you can apply for a deferral of Local Property Tax (LPT) while the PIA is in place</seg></tuv>
+  <tuv xml:lang="ga"><seg>A luaithe a d’iontráil tú i Socrú um Dhócmhainneacht Phearsanta, is féidir leat iarratas a dhéanamh ar Cháin Mhaoine Áitiúil (CMÁ) a chur siar fad a bhíonn an SDP i bhfeidhm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read more on revenue.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat níos mó a léamh ar revenue.ie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Varying a Personal Insolvency Arrangement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Socrú um Dhócmhainneacht Phearsanta a éagsúlú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Personal Insolvency Arrangements may be varied – the procedures are similar to those for setting up the arrangement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadtar Socruithe um Dhócmhainneacht Phearsanta a éagsúlú – is cosúil na nósanna imeachta leo siúd chun an socrú a chur ar bun</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A creditor or a PIP may apply to the court at any time during the Personal Insolvency Arrangement to have it ended</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh creidiúnaí nó CDP iarratas a dhéanamh ar an gcúirt aon tráth le linn an tSocraithe um Dhócmhainneacht Phearsanta go gcuirfear deireadh leis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The grounds for such an application are limited and include the following:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh na bunúis le haghaidh iarratais den sórt sin teoranta agus áireofar leo an méid a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Your Prescribed Financial Statement has a material inaccuracy or omission that causes a material detriment to the creditor</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Is ann do mhíchruinneas nó d’easnamh ábhartha i do Ráiteas Forordaithe Airgeadais atá ina chúis le dochar ábhartha a dhéanamh don chreidiúnaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You did not meet the requirements when you started the process</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Níor chomhlíon tú na ceanglais nuair a thosaigh an próiseas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You did not comply with the terms of the Personal Insolvency Arrangement</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Níor chloí tú le téarmaí an tSocraithe um Dhócmhainneacht Phearsanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You have committed an offence under the personal insolvency legislation since the arrangement came into effect</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Rinne tú cion faoin reachtaíocht um Dhócmhainneacht Phearsanta ó tháinig an socrú i bhfeidhm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You are in arrears with your payments for a period of not less than 3 months</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tá riaráistí cruthaithe agat le d’íocaíochtaí ar feadh tréimhse nach lú ná 3 mhí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The full list of grounds is in Section 122 of the Personal Insolvency Act 2012</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an liosta iomlán bunús le fáil in Alt 122 den Acht um Dhócmhainneacht Phearsanta 2012</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are in arrears with your payments for more than 6 months, the PIA will be deemed to have failed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá riaráistí cruthaithe agat le d’íocaíochtaí ar feadh tréimhse níos mó ná 6 mhí, measfar gur theip ar an SDP</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This will be recorded in the Register of Personal Insolvency Arrangements</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirfear seo i dtaifead sa Chlár Socruithe um Dhócmhainneacht Phearsanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Ending of a Personal Insolvency Arrangement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Deireadh a chur le Socrú um Dhócmhainneacht Phearsanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the arrangement ends other than by successful completion, you will become fully liable for all specified debts, inclusive of arrears, charges and interest that have accrued during the PIA period, less any payments made by you during that time, unless the terms of the PIA specify, or the court has ordered, otherwise</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chuirtear deireadh leis an socrú, seachas deireadh tar éis críochnú rathúil, beidh tú go hiomlán faoi dhliteanas íoc as an bhfiachas iomlán a shonraítear, mar aon le riaráistí, muirir agus ús a cruthaíodh le linn na tréimhse SDP, lúide aon íocaíochtaí a rinne tú i dturas an ama sin, murar ordaigh téarmaí an SDP, an chúirt a mhalairt go sonrach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the arrangement is successfully completed, you are discharged from the unsecured debts covered by the arrangement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chríochnaítear an socrú go rathúil, díscaoiltear thú ón bhfiachas gan urrús atá cumhdaithe ag an socrú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will not be discharged from the secured debts, except where this was explicitly provided for in the PIA</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní dhíscaoilfear thú ón bhfiachas gan urrús, seachas sa chás go ndearnadh foráil shonrach dó seo sa SDP</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The successful completion is recorded on the Register of Personal Insolvency Arrangements</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirtear an críochnú rathúil i dtaifead sa Chlár Socruithe um Dhócmhainneacht Phearsanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your application for a Personal Insolvency Arrangement must be made through a Personal Insolvency Practitioner (PIP)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór d’iarratas ar Shocrú um Dhócmhainneacht Phearsanta a dhéanamh trí Chleachtóir um Dhócmhainneacht Phearsanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can choose one from the Register of Personal Insolvency Practitioners that is published by the ISI</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir CDP a roghnú ón gClár CDPanna a d'fhoilsigh an ISI</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further information is available from the ISI’s helpline 0761 06 4200 (Monday to Friday, 9 am to 6 pm) and from its main website isi.gov.ie, as well as its website backontrack.ie for people who are struggling with debt</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir tuilleadh eolais a fháil ó líne chabhrach an ISI 0761 06 4200 (Luan go hAoine, 9 rn go 6 in), ón láithreán isi.gov.ie agus ón láithrean backontrack.ie, atá dírithe ar dhaoine a bhfuil fadhbanna fiachais acu</seg></tuv>
+</tu>
+</body>
+</tmx>

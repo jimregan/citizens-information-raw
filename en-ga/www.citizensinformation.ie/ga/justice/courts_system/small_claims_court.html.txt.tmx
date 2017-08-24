@@ -1,0 +1,533 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>The aim of the small claims procedure (also known as the small claims court) is to provide an inexpensive, fast and easy way for consumers and businesses to resolve disputes without the need to employ a solicitor</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is í aidhm an nóis imeachta mionéileamh (ar a dtugtar an chúirt mhionéileamh) chun bealach neamhchostasach, tapa agus furasta a sholáthar do thomhaltóirí agus do ghnólachtaí chun díospóidí a réiteach gan an gá a bheith le haturnae a fhostú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The person who is making the claim is known as the claimant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar an t-éilitheoir ar an duine a dhéanann an éileamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The person you are claiming against is known as the respondent</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar an freagróir ar an duine a ndéanann tú éileamh ina leith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Both the claimant and the respondent must be living or based within the State</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh an t-éilitheoir agus an freagróir araon a bheith ina gcónaí nó bunaithe sa Stát</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If either party lives or is based in another EU member state, the European Small Claims Procedure should be used</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chónaíonn nó má tá ceachtar páirtí bunaithe i mballstát eile an AE, ba cheart an Nós Imeachta Eorpach Mionéileamh a úsáid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The small claims procedure is provided by the local District Court offices</seg></tuv>
+  <tuv xml:lang="ga"><seg>Soláthraíonn oifigí na Cúirte Dúiche áitiúla an nós imeachta mionéileamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The procedure can be used to resolve consumer complaints</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir an nós imeachta a úsáid chun gearáin ó thomhaltóirí a réiteach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Certain other types of disputes are also eligible</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chomh maith leis sin, tá saghsanna áirithe eile de dhíospóidí incháilithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Since January 2010, businesses can make claims against other businesses</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó Eanáir 2010 ar aghaidh, féadfaidh gnólachtaí éilimh a dhéanamh i gcoinne gnólachtaí eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The claim cannot exceed €2,000</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leis an éileamh €2,000 a shárú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The following types of consumer claims can be dealt with under the small claims procedure:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir na cineálacha éilimh seo a leanas a láimhseáil faoi nós imeachta na néileamh bheaga:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Consumer claims such as for faulty goods or bad workmanship</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Éilimh ó thomhaltóirí i leith earraí lochtacha nó droch-shaoirseacht, mar shampla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must have bought the goods or service for private use from someone selling them in the course of business</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit na hearraí nó an tseirbhís a bheith ceannaithe agat i gcomhair úsáid phríobháideach ó dhuine a dhíolann iad mar chuid dá ngnó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Claims can also be made for minor damage to your property</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Is féidir éilimh a dhéanamh freisin i leith mion-dhamáiste ar do mhaoin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Claims for the non-return of a rent deposit for certain kinds of rented properties, such as, a holiday home or a flat in a premises where the landlord also lives</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Éilimh i gcomhair éarlais cíosa le haghaidh cineálacha áirithe maoine, cosúil le teach saoire nó árasán in áitreabh ina bhfuil cónaí ar an tiarna talún freisin, nár tugadh ar ais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Consumer claims cannot be made through the small claims procedure for debts, personal injuries or breach of leasing or hire-purchase agreements</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir éilimh a dhéanamh i gcomhair fiacha, díobhálacha pearsanta nó sárú comhaontuithe léasaithe nó fhruilcheannaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Businesses can make claims against other businesses in relation to contracts for goods or services purchased</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh gnólachtaí éilimh a dhéanamh in aghaidh gnólachtaí eile maidir le conarthaí d’earraí nó do sheirbhísí a ceannaíodh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It does not apply to claims in relation to:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhaineann sé le héilimh a rinneadh maidir leis an méid a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Agreements to which the Consumer Credit Act 1995 applies</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Comhaontuithe lena mbaineann an tAcht um Chreidmheas do Thomhaltóirí, 1995</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Breaches of leasing agreements</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sáruithe ar chomhaontuithe léasaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Debt or liquidated damages</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Fiachais nó damáistí leachtaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The procedure is designed to deal with claims up to €2,000 and can be summarised as follows:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an nós imeachta seo deartha chun éilimh thomhaltóirí suas le €2,000 a láimhseáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The claimant completes the application form and sends it to the Small Claims Registrar with the relevant fee or applies online</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Líonann an t- éilitheoir an fhoirm iarratais isteach agus seoltar ar aghaidh í chuig an gCláraitheoir leis an táille cheart</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The application is registered by the Registrar</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cláraíonn an Cláraitheoir an t-iarratas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A copy of the claim and a Notice of Claim is sent by the Registrar to the respondent</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cuireann an Cláraitheoir cóip den éileamh agus Fógra an Éilimh ar aghaidh chuig an bhfreagróir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>At this stage, there are various choices available to the respondent:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá cúpla rogha ag an bhfreagróir anois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• They can admit the claim</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Is féidir an t-éileamh a admháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• They can dispute the claim</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Is féidir díospóid an t-éileamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• They might ignore the claim</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Is féidir gan aon aird a thabhairt don éileamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Respondent admits the claim</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a aontaíonn an freagróir leis an éileamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The respondent has 15 calendar days to reply</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá 15 lá tugtha don fhreagróir comhfhreagras a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where the respondent admits the claim, they complete a Notice of Acceptance of Liability and return it to the Registrar</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a aontaíonn an freagróir leis an éileamh, líonann sé/sí isteach foirm Fógra Admhála ag glacadh Freagrachta agus cuireann é ar aghaidh chuig an gCláraitheoir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The respondent has 3 options:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá 3 rogha ag an bhfreagróir:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The respondent agrees to pay the amount claimed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Aontaíonn an freagróir, an suim atá a lorg a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Here, the respondent agrees to pay you immediately</seg></tuv>
+  <tuv xml:lang="ga"><seg>Anseo tá an freagróir sásta tú a íoc láithreach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Payment is made by cheque, postal order or money order, made payable to the claimant, and sent to the Registrar</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar an íocaíocht trí seic, ordú poist nó ordú airgid, bíonn sé in ainm an éilitheora ach é curtha ar aghaidh chuig an gCláraitheoir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If payment is conditional, for example the goods must be returned, then the Registrar must seek the claimant's agreement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá coinníollacha ag baint leis an íocaíocht mar shampla, go gcaithfear na hearraí a thabhairt ar ais, caithfidh an Cláraitheoir aontú a fháil ón éilitheoir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The respondent consents to judgement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Aontaíonn an freagróir le breith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Here, the respondent will only pay you when judgement is made in the District Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Anseo íocfaidh an freagróir tú nuair atá breith déanta in an Chúirt Dúiche</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You do not have to attend at court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chaithfidh tú freastal a dhéanamh ar an gcúirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The claimant swears an Affidavit of Debt and makes a request for Judgement and Decree</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mionaíonn an t-éilitheoir Fiacha Mionnscríbhinne agus déanann sé/sí iarratas do Bhreith agus Forógra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Registrar will assist the claimant in this procedure</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabharfaidh an Cláraitheoir cúnamh don éilitheoir leis an gcóras seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Registrar will notify the respondent of the judgement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirfidh an Cláraitheoir an freagróir ar an eolas faoin mbreith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The respondent has 28 calendar days to comply with the judgement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá 28 lá tugtha don fhreagróir leis an mbreith a chomhlíonadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The respondent wishes to pay the amount claimed in instalments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an freagróir sásta an t-éileamh a íoc ar ghlasíocaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Registrar must inform the claimant of this request and must seek the consent of the claimant to the terms proposed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh an cláraitheoir, an t-éilitheoir a chur ar an eolas faoi agus cead a fháil glacadh leis na téarmaí atá molta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Respondent disputes the claim</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a dhíospóideann an freagróir an t-éileamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The respondent has 15 calendar days to reply and returns to the Registrar the Notice of Dispute within the 15 calendar day period</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá 15 lá ag an bhfreagróir le scríobh ar ais chuig an gCláraitheoir leis an bhFógra Aighnis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Registrar sends the claimant a copy of the Notice of Dispute and tries to settle the dispute</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seolann an Cláraitheoir cóip den Fhógra Aighnis chuig an éilitheoir agus déanann sé/sí iarracht an t-aighneas a réiteach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If no settlement can be reached, the matter is then set down for a hearing in the District Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Téann an cás ar aghaidh chuig éisteacht sa Chúirt Dúiche muna dtagann siad ar réiteach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The respondent outlines their intention to counterclaim on the Notice of Dispute and sends the appropriate fee to the Registrar</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann an freagróir cur síos ar an bhfrithéileamh, ar an bhFógra Aighnis agus seolann sé/sí ar aghaidh an táille chuí chuig an gCláraitheoir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Registrar sends the claimant a copy of the Notice of Dispute and Counterclaim</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann an Cláraitheoir cóip den Fhógra Aighnis agus an Frithéileamh ar aghaidh chuig an éilitheoir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The respondent does not reply to the claim</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair nach bhfreagraíonn an freagróir an t-éileamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The respondent has 15 calendar days to reply to the claim</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá 15 lá tugtha don fhreagróir le comhfhreagras a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where there is no reply by the respondent, they are then held to have admitted the claim</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna bhfuil freagra faighte ón bhfreagróir, tá sé glactha go bhfuil sé/sí ag admháil don éileamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The procedure is the same as if they had consented to judgement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé mar a bheadh sé/sí ag glacadh le breith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The claimant swears an Affidavit of Debt and makes a request for Judgement and Decree</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mionaíonn an t-éilitheoir Fiacha Mhionnscríbhinne agus déanann sé/sí iarratas ar Bhreith agus Forógra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Registrar will assist the claimant in this procedure</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabharfaidh an Cláraitheoir cúnamh don éilitheoir leis an gcóras seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Registrar will notify the respondent of the judgement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabharfaidh an cláraitheoir an t-eolas don bhfreagróir faoin Bhreith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The respondent has 28 calendar days to comply with the judgement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá 28 lá tugtha don Fhreagróir géilleadh don bhreith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Once you have obtained judgement and have a decree, there is the possibility that the respondent will not comply with the order of the court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair atá breith tugtha agus forógra faighte agat, tá seans ann nach nglacfaidh an freagróir leis an ordú cúirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In this situation, you may need to enforce your judgement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás seo caithfidh tú an bhreith a bhrú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The most usual way of enforcing a judgement is to give the decree to the Sheriff or County Registrar for execution</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an gnáth bhealach chuige sin ná an Foróga a thabhairt don Sirriam nó don Chláraitheoir Contae do fhorghníomhú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You have to apply to the Small Claims Registrar to have the decree sent to you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh ort iarratas a chur chuig an gCláraitheoir um Éilimh Bheaga ar an Foraithne a sheoladh chuig tú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Registrar will not automatically send you the decree for execution in this way</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bheidh an Cláraitheoir sheoladh go huathoibríoch tú an Foraithne maidir fhorghníomhú ar an mbealach seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>After you give the decree to the Sheriff or County Registrar, they then go to the respondent and seize goods or money to the value of the amount set out in your decree</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tar éis a thabhairt duit an Foraithne chuig an Sirriam nó Cláraitheoir Contae, téann sé/sí ar aghaidh chuig an bhfreagróir agus glacann sé/sí seilbh ar earraí nó airgead atá ar an luach céanna leis an méid atá luaite san fhorógra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It will involve a fee, payable to the Sheriff or County Registrar</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh táille a bheith iníoctha leis an Sirriam nó Cláraitheoir Contae</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the Sheriff or County Registrar successfully executes the judgement, this fee will be refunded to you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má éiríonn leis an Sirriam nó Cláraitheoir Contae an bhreith a chomhlíonadh, gheobhaidh tú an táille ar ais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Information and assistance on enforcement procedures is available from the Small Claims Registrar</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá faisnéis agus cúnamh maidir le nósanna imeachta forfheidhmiúcháin ar fáil ón gCláraitheoir um Éilimh Bheaga</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your case has been referred for a hearing in the District Court, you will receive a letter from the District Court office telling you the date and time of the court hearing and the location of the court itself</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má atreoraíodh do chás d’éisteacht sa Chúirt Dúiche, gheobhaidh tú litir ó oifig na Cúirte Dúiche a chuireann ar an eolas thú ar dháta agus ar am éisteacht na cúirte agus ar láthair na cúirte féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The case will be heard in public as part of a normal sitting of the District Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Éistfear leis an gcás go poiblí mar chuid de ghnáthshuí na Cúirte Dúiche</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It may be advisable to get legal advice</seg></tuv>
+  <tuv xml:lang="ga"><seg>B’fhéidir gur fearr duit comhairle dlí a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under Irish law, a business is required to be legally represented in court-based proceedings</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi dhlí na hÉireann, is gá ionadaíocht dlí a dhéanamh do ghnólacht in imeachtaí atá bunaithe i gcúirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The current fee for making a claim through the small claims procedure is €25</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is í an táille reatha atá ar éileamh a dhéanamh tríd an nós imeachta mionéileamh ná €25</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This fee is payable by cheque or postal order</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir an táille a íoc trí sheic nó ordú poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Small Claims Registrar will accept the fee in cash if you pay it in person</seg></tuv>
+  <tuv xml:lang="ga"><seg>Glacfaidh an Cláraitheoir Mionéileamh leis an táille in airgead tirim má íocann tú as i bpearsan</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you apply online, you are required to pay online</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéanann tú iarratas ar líne, tá ort íoc ar líne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your claim is accepted as suitable for the small claims procedure the fee is not refunded, even if your claim is successful</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má ghlactar le d’éileamh amhail bheith oiriúnach don nós imeachta mionéileamh, ní dhéantar an táille a aisíoc, fiú má éiríonn le d’éileamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Download an application for the small claims procedure</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íoslódáil foirm iarratais don nós imeachta um éilimh bheaga</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(You can complete this form by filling it in on the screen and printing it, or by printing it and completing it by hand</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Is féidir leat an fhoirm seo a chomhlánú ar an scáileán agus í a phriontáil, nó í a phriontáil agus a chomhlánú de láimh)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This application form is also available from local District Court offices</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an fhoirm iarratais seo ar fáil ó oifigí Cúirte Dúiche áitiúil freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Staff in the District Court office can help in completing the application form</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis an bhfoireann oibre i d’oifig Cúirte Dúiche cabhrú leat an fhoirm iarratais a chomhlánú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is important when completing the application form to give all the necessary information</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé tábhachtach nuair a chomhlánaíonn tú an fhoirm iarratais an fhaisnéis riachtanach go léir a thabhairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This will help the Small Claims Registrar to process your claim and try and resolve the dispute</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cabhróidh sé seo le Cláraitheoir na nÉileamh Beag d’éileamh a phróiseáil agus iarracht a dhéanamh an díospóid a réiteach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If no resolution can be reached, it will also make it easier to enforce a Decree (or court order) if one is granted</seg></tuv>
+  <tuv xml:lang="ga"><seg>Murar féidir a theacht ar réiteach, beidh sé níos furasta Foraithne (nó ordú cúirte) a fhorghníomhú má bhronntar ceann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find more on completing the application form in ‘Further information’ below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat a fháil faoi chomhlánú na foirme iarratais in ‘Tuilleadh eolais’ thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can also make an application for the small claims procedure online</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat iarratas ar nós imeachta na n-éileamh beag a lóisteáil sa Chúirt Dúiche ar líne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Using Courts Service Online you can create and pay for a small claim application</seg></tuv>
+  <tuv xml:lang="ga"><seg>Trí úsáid a bhaint as Seirbhís Chúirteanna Ar Líne is féidir leat iarratas d’éilimh bheaga a chruthú agus a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can also check the status of your online small claim securely, using a username and password</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat an stádas atá ag d’éileamh beag ar líne a sheiceáil go slán freisin trí úsáid a bhaint as ainm úsáideora agus phasfhocal </seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To create a claim online you need a credit or debit card and an email address to which you have access</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun éileamh a chruthú ar líne, teastóidh cárta creidmheasa/dochair uait agus seoladh ríomhphoist a bhfuil rochtain agat air</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The small claims procedure is provided through local District Court offices</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar nós imeachta um éileamh bheaga a sholáthar tríd oifigí na Cúirte Dúiche áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You make your claim to the District Court office in the area where:</seg></tuv>
+  <tuv xml:lang="ga"><seg>A dhéanamh leat d'éileamh chuig an oifig na Cúirte Dúiche sa cheantar ina:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The person you are making a claim against lives or carries on business or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Déanann an duine a bhfuil tú ag déanamh éilimh i gcoinne saol nó gnó nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Where the contract was made or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• I gcás ina ndearnadh an conradh nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Where the damage to property took place</seg></tuv>
+  <tuv xml:lang="ga"><seg>• I gcás ghlac an damáiste do mhaoin ar siúl</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will find a list of district court areas on the Court Service website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gheobhaidh tú liosta de na ceantair chúirte dúiche agus líon dúiche ar láithreán gréasáin na Seirbhíse Cúirteanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Courts Service has information on the small claims procedure on its website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá treoir faoi nós imeachta um éilimh bheaga ar láithreán gréasáin na Seirbhíse Cúirteanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Completing the application form</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag Líonadh isteach an Fhoirm Iarratais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Before you begin to fill in the application form, the following information will be useful to help explain the various parts of the form</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sula dtosaíonn tú, beidh an fhaisnéis seo a leanas úsáideach chun cabhair a thabhairt duit roinnt codanna den fhoirm a mhíniú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are 3 distinct sections to the form</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá 3 ranná ar beith san fhoirm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The person taking the claim is the claimant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an duine atá ag déanamh an éilimh an t-éilitheoir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This section is for your personal details</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is sonraí pearsanta atá sa roinn seo amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Here you should enter your name and address</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart duit d'ainm agus do sheoladh a bhreacadh síos anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is important to make sure that the correct person is making the claim</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé an-tábhachtach gurb é an duine ceart atá ag déanamh an éilimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The person who bought the faulty goods or the person who ordered the work to be carried out should be the one to take the claim</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart gurb é an duine a cheannaigh na hearraí lochtacha nó an duine a d'ordaigh an obair déanta a dhéanann an t-éileamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Likewise, the person whose property has been damaged should be the one making the claim</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar a chéile is é an duine ar ar dearnadh dochar dá áitreabh nó a bhí ag tógaint áite ar chíos a dhéanann an t-éileamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This section is for the details of the person or company you are making the claim against</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa roinn seo tá cur síos ar an duine nó an comhlacht ar a bhfuil tú ag déanamh an éilimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must make the claim against a person or a company</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh tú an t-éileamh a dhéanamh in aghaidh duine nó comhlachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Often you may not know who owns the shop you bought the faulty goods from</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcuid mhaith de na cásanna ní bhíonn a fhios agat cé leis an siopa ar cheannaigh tú na hearraí lochtacha uaidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is not enough to just put the name of the shop on the application form</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní leor é ainm an tsiopa amháin a chuir síos ar an bhfoirm iarratais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must investigate who owns the shop</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh tú féin a fhiosrú cé leis an siopa atá i gceist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can do this by making a companies search in the Companies Registration Office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir é seo a dhéanamh trí Chuardach Comhlachta a dhéanamh in Oifig Chlár na gComhlachtaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Here you will find a register of all the companies in the country</seg></tuv>
+  <tuv xml:lang="ga"><seg>Anseo gheobhaidh tú liosta de na comhlachtaí uilig sa tír</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the shop is not registered as a company, try a business name search, also in the Companies Registration Office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna bhfuil an siopa liostáilte mar chomhlacht is féidir leat Cuardach Ainmneacha Gnó a dhéanamh freisin san oifig seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the respondent resides outside of Ireland, you should ask them to nominate, in writing, someone in this country (usually their agent or solicitor) to accept proceedings on their behalf</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá cónaí ar an bhfreagróir taobh amuigh den tír ba cheart a iarradh air duine éigin sa tír seo a ainmniú (aturnae nó gníomhaire) chun gníomhú agus comhfhreagras a ghlacadh ar a shon</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In this section, you should set out the facts of your case clearly and simply</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa roinn seo ba cheart duit fíricí an cháis a leagaint amach go soiléar agus simplí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• When did you buy the goods/services?</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cén uair a cheannaigh tú na hearraí/seirbhísí?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When was your property damaged?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cén uair a ndearnadh dochar don áitreabh?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When did you rent the property?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cén uair a raibh an t-áitreabh tógtha ar cíos?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Who is your claim against?</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cé hé an duine atá an t-éileamh ina aghaidh?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• How did you deal with it?</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Céard a rinne tú faoi?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Why are you taking court action?</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cén fáth a bhfuil tú ag tógáil gníomhaíocht cúirte?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• How much are you claiming for?</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cé mhéid airgid atá dhá éileamh agat?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is important to include the amount for which you are claiming</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé tábhachtach go luann tú an méid atá a lorg agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the claim is not disputed, you may get judgement without having to go to court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna bhfuil aon aighneasfaoin éileamh, seans go bhfaighidh tú breith gan dul chomh fada leis an gcúirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Bear in mind that you can normally only claim the amount for which you are directly out of pocket, in other words, the amount you paid for the faulty goods and/or any cost involved in having them repaired</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabhair san áireamh nach bhfaighidh tú ach an méid a bhí tú as póca as an éileamh mar shampla an méid a d'íoc tú ar na hearraí lochtacha nó an méid a d'íoc tú as iad a dheisiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is therefore a good idea to keep all receipts and documentation to show what these amounts are</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dá bhrí sin ba cheart duit gach admháil agus doiciméid a choinneáil mar fhianaise ar an méid atá tú as póca</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Sometimes the Small Claims Court may allow you to claim some general damage where there was distress caused to you by a faulty product or service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Uaireanta ligfidh Cúirt na n-Éileamh Beag duit damáiste ginearálta a éileamh áit ar tharla crá duit mar gheall ar sheirbhís nó táirge lochtach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A good example of this is where a holiday goes disastrously wrong</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sampla maith de seo ná nuair a théann saoire go dona mícheart</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can read more about consumer rights and package holidays here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat tuilleadh a leámh faoi chearta tomhaltóirí agus saoirí láneagraithe anseo</seg></tuv>
+</tu>
+</body>
+</tmx>

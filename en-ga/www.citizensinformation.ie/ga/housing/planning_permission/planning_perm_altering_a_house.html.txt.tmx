@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Planning permission for altering a house</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cead pleanála chun athrú a dhéanamh ar theach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are going to build an extension or make other changes to your house, you may need planning permission</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú chun síneadh a chur le do theach nó athruithe eile a dhéanamh air, d'fhéadfadh sé go mbeadh cead pleanála uait</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Generally minor changes such as those listed below do not need planning permission but you should always make absolutely certain that you don't need planning permission before you start building</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go hiondúil, ní bhíonn gá le cead pleanála le haghaidh mionathruithe mar atá sa liosta thíos ach ba cheart duit a bheith cinnte dearfa i gcónaí nach bhfuil gá le cead pleanála sula dtosaíonn tú ar an tógáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Failure to obtain planning permission where it is required can result in penalties, (for example, significant fines or even imprisonment)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Pionóis (mar shampla, fíneálacha suntasacha nó príosúnacht) a bhfuil de thoradh ar do theip chun cead pleanála a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your local authority will be able to advise you about this</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh an t-údarás áitiúil in ann tú a chur ar an eolas maidir leis seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Generally, you will not need planning permission for:</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcoitinne, ní bheidh cead pleanála uait le haghaidh:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Building an extension to the rear of the house which does not increase the original floor area of the house by more than 40 square metres and is not higher than the house</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Síneadh a chur siar as cúl an tí chomh fada is nach gcuireann sé níos mó ná 40 méadar cearnach breise leis an achar urláir a bhí sa teach ó thús agus nach bhfuil sé níos airde ná an teach féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The extension should not reduce the open space at the back of the house to less than 25 square metres which must be reserved exclusively for the use of the occupants of your house</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leis an síneadh an spás oscailte ag cúl an tí a laghdú go dtí níos lú ná 25 méadar cearnach, spás nach mór a bheith ar fáil amháin d'úsáid na ndaoine a chónaíonn sa teach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your house has been extended before, the floor area of the extension you are now proposing and the floor area of any previous extension (including those for which you previously got planning permission) must not exceed 40 square metres</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má cuireadh síneadh leis an teach cheana ní féidir le achar urláir an tsíneadh atá i gceist anois agat agus achar urláir aon síneadh a rinneadh cheana (síneadh ar tugadh cead pleanála cheana dó san áireamh) a bheith níos mó ná 40 méadar cearnach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(There are also other height restrictions.)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Tá rialacha eile maidir le airde i bhfeidhm chomh maith)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Converting a garage attached to the rear or side of the house to domestic use provided it has a floor area of less than 40 square metres</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Garáiste atá greamaithe le cúl nó taobh an tí a chur in oiriúint d'úsáid teaghlaigh, chomh fada agus go bhfuil achar urláir níos lú ná 40 méadar cearnach ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Building a garage at the back or side of a house so long as it does not extend out in front of the building line of the house and does not exceed 4 metres in height (if it has a tiled/slated pitched roof) or three metres (if it has any other roof type)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Garáiste a thógáil ag cúl nó taobh an tí chomh fada agus nach síneann sé amach ós comhair líne tógála an tí agus nach bhfuil sé níos mó ná 4 mhéadar in airde (má tá díon tíle/ceann slinne crochta air) nó 3 mhéadar (le díon d'aon chineál eile)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This building will be exempt from planning permission once the floor area is limited to 25 square metres</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bheidh cead pleanála ag teastáil don obair seo má bhíonn an t-achar urláir teoranta go 25 méadar cearnach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Garages or sheds to the side of the house must match the finish of the house and may not be lived in, used for commercial purposes or for keeping pigs, poultry, pigeons, ponies or horses</seg></tuv>
+  <tuv xml:lang="ga"><seg>Garáiste a thógáil ar chúl nó ar thaobh an tí chomh fada agus go bhfuil achar urláir níos lú ná 25 méadar cearnach ann agus go ndéantar de réir coinníollacha eile é</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Building a front porch so long as it does not exceed 2 square metres in area and is more than 2 metres from a public road or footpath</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Póirse a thógáil ag éadán an tí, chomh fada agus go bhfuil a achar faoi bhun 2 mhéadar cearnach agus go bhfuil sé níos faide ná 2 mhéadar ó bhóthar poiblí nó ó chosán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the porch has a tiled or slated pitched roof, it must not exceed 4 metres in height or 3 metres for any other type of roof</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhíonn díon tíle ná ceann slinne ar an bpóirse ní féidir leis a bheith níos mó ná 4 mhéadar in airde nó 3 mhéadar más díon d'aon chineál eile atá i gceist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Capped walls made of brick, stone or block, wooden fences but not security fences can be erected as long as they do not exceed 1.2 metres in height or two metres at the side or rear</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Is féidir ballaí brící, clocha nó bloc le barr orthu, sconsaí adhmaid nach sconsaí slandála iad a thógáil chomh fada agus nach mbíonn siad níos airde ná 1.2 méadar ná 2 mhéadar ag an taobh ná ar an gcúl</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Gates may be built provided they do not exceed 2 metres in height</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir geataí a thógáil chomh fada nach bhfuileadar níos airde ná 2 mhéadar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Permission is always required to if you wish to widen or create new access to the public road</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór cead a fháil i gcónaí más mian leat bealach nua amach chuig an mbóthar poiblí a oscailt nó a leathnú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A central heating system chimney, boiler house or oil storage tank (up to 3,500 litres capacity)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Simléar le haghaidh córas teasa lárnaigh, teach gaileadáin nó tanc chun ola a stóráil (suas le 3,500 liotar)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Car parking spaces, garden paths etc</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Spásanna le haghaidh carranna a pháirceáil, cosáin gháirdíní agus rl</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A TV aerial on the roof so long as it is less than 6 metres higher than the roof</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Aeróg teilifíse ar an díon chomh fada agus go mbíonn sé níos lú ná 6 mhéadar níos airde ná an díon</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A satellite dish (up to 1 metre in diameter, and no higher than the top of the roof) at the back or side of the house (a dish on the front needs planning permission)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Mias shatailite (suas le méadar amháin trasna, agus faoi bharr díon an tí) ag cúl nó ag taobh an tí (is gá cead pleanála a fháil má bhíonn sé ar éadan an tí )</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Only one dish may be erected on a house</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir ach mias amháin a chrochadh ar theach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These are guidelines only; it is most important to check with your local authority before starting to make any changes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl iontu seo ach treoracha; tá sé tábhachtach dul i gcomhairle leis an údarás áitiúil sula dtosaíonn tú ar aon athrú a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Planning permission for "material change of use"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cead pleanála le haghaidh "mór-athrú úsáide"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you want to make a material (that is, substantial) change to the use of land or buildings which will have an actual or potential impact on neighbours or the local community, then you will need planning permission</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má theastaíonn uait mór-athrú a dhéanamh ar an úsáid a bhaintear as talamh nó foirgnimh, athrú a mbeidh tionchar dáirire aige nó a d'fhéadfadh tionchar a bheith aige ar chomharsain nó ar an bpobal áitiúil, caithfidh tú cead pleanála a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, you will need planning permission if you propose to:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, beidh cead pleanála uait má tá rún agat:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Convert your garage into a workshop for business use</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Do gharáiste a athrú isteach ina cheardlann oibre ar mhaithe le gnó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Open a bed and breakfast with more than 4 guest bedrooms</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Teach lóistín a oscailt le níos mó ná 4 sheomra do chuairteoirí ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For more information on applying for planning permission and the different types of planning permission, see our document, Planning permission</seg></tuv>
+  <tuv xml:lang="ga"><seg>Le breis eolais a fháil maidir le hiarratais ar chead pleanála breathnaigh ar ár ndoiciméad maidir le cead pleanála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your application for planning permission for alterations to a house should be made to the Planning Department of your local authority</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir duit d’iarratas ar chead pleanála chun athrú a dhéanamh ar theach chuig an Rannóg Pleanála den údarás áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Queries in connection with alterations should be addressed to the Planning Department of your local authority</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir ceisteanna faoi athruithe a seoladh chuig an Rannóg Pleanála den údarás áitiúil</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>The Gardaí (Irish police force) are entitled to interview you if you have been arrested, charged and cautioned in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé de chead ag na Gardaí agallamh a chur ar dhuine má tá sé/sí gafa, cúisithe agus rabhadh tugtha dó/dí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are different rules that apply to the interviews of people over 18 years and people under 18 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá rialacha difriúla a bhaineann le hagallamh a chur ar dhaoine atá os cionn 18 agus daoine atá níos óige ná 18 bliain d'aois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are 18 years old or over</seg></tuv>
+  <tuv xml:lang="ga"><seg>Duine atá 18 bliain d'aois nó níos sine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You have a right to consult a solicitor before you are interviewed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé de cheart dul i gcomhairle le haturnae sular tá tú agallamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you ask for a solicitor you cannot be questioned until they arrive, except in exceptional circumstances</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má iarrann tú le haghaidh aturnae nach féidir leat a cheistiú go dtí go sroicheann siad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Before you are interviewed, the Garda conducting the interview will identify himself or herself and any other Garda in the room, by name and rank</seg></tuv>
+  <tuv xml:lang="ga"><seg>Roimh an t-agallamh, ba cheart don Gharda atá i mbun an agallaimh é/í féin a chur in aithne chomh maith le haon Gharda eile atá i láthair sa seomra, ag tabhairt a gcuid ainmneacha agus a gcéim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The interview must be conducted in a fair and humane manner</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don agallamh a bheith cothrom agus daonnachtúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>No more than two Gardai can question you at any one time and no more than four Gardai can be in the room at any one time during the interview</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir le níos mó ná 2 Gharda duine a cheistiú ag an am agus ní féidir le níos mó ná 4 Gharda a bheith sa seomra nuair atá an t-agallamh dhá dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If an interview has lasted for four hours, it must either be ended or adjourned for a reasonable time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má mhaireann agallamh ar feadh 4 uaire an chloig ní mór deireadh a chur leis nó sos ar feadh tréimhse ama réasúnta a thógáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As far as possible, interviews will take place in rooms set aside for interviews only</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chomh fada agus is féidir ba cheart don agallamh a bheith i seomra atá curtha ar leataobh ar son agallamh amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Except with the permission of the Garda in charge of the station, you may not be questioned between midnight and 8 a.m</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach amháin le cead ón nGarda atá i gceannas an stáisiúin, ní féidir duine a cheistiú idir meánoíche agus 8 r.n</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Permission can only be given in exceptional circumstances or if you were brought to the station during that time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir an cead sin a thabhairt ach amháin i gcúinsí eisceachtúla amháin nó má tugadh duine isteach sa stáisiún idir na huaireanta sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are deaf or there is doubt about your hearing ability, you cannot be questioned without an interpreter, if one is reasonably available, unless you give your written consent</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más duine bodhar atá i gceist nó má tá amhras faoi éisteacht an duine ní féidir é/í a cheistiú gan teangaire, más féidir teacht ar dhuine, gan cead a fháil i scríbhinn ón té atá le ceistiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have requested an interpreter and one is not reasonably available, any questions will be put to you in writing</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá éileamh déanta ag an duine go mbeadh teangaire i láthair agus muna bhfuil fáil ar theangaire, is i scríbhinn a chuirfear aon cheisteanna air/uirthi</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are drunk or under the influence of drugs so that you are unable to appreciate the significance of questions put to you or your answers, you cannot be questioned while you are in that condition except with the permission of the member in charge of the station</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá duine ar meisce nó faoi thionchar drugaí agus dá bharr muna bhfuil sé/sí in ann tábhacht na gceisteanna ná na bhfreagraí a thuiscint, ní féidir an duine a cheistiú agus é/í faoin tionchar sin, ach amháin le cead an Gharda atá i gceannas an stáisiúin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Permission can only be given in exceptional circumstances</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir an cead sin a thabhairt ach amháin i gcúinsí eisceachtúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If, while you are being interviewed, you make a complaint to a Garda in relation to your treatment while in custody, the Garda must notify the member in charge of the station, if he or she is not present at the interview, and record it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéanann an té atá dhá cheistiú gearrán le Garda faoin gcaoi a caitheamh leis/léi agus é/í faoi choimeád ní mór don Gharda é sin a chur in iúl don Gharda atá i gceannas an stáisiúin, muna bhfuil sé/sí i láthair ag an agallamh agus taifead den gearrán a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A record must be kept of your interview either by the Garda conducting it or by another Garda who is present</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don Gharda atá i mbun an agallaimh nó Garda eile atá i láthair taifead a choinneáil den agallamh a chuirtear ar dhuine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The record must include details of the time the interview began and ended, any breaks in it, the place of the interview and the names and ranks of the Gardai present</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go mbeadh sonraí den am ar thosaigh an t-agallamh agus ar cuireadh deireadh leis, aon bhriseadh a tógadh, cén áit ina raibh an t-agallamh déanta agus ainmneacha agus céimeanna na nGardaí a bhí i láthair mar chuid den taifead</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the interview is not electronically recorded, the record will be kept in the Garda's notebook</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna raibh taifead leictreonach den agallamh déanta, déanfar taifead i leabhar nótaí an Gharda</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are under 18 years old</seg></tuv>
+  <tuv xml:lang="ga"><seg>Duine atá faoi 18 bliain d'aois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are under 18 years of age, you cannot be questioned unless a parent or guardian is present</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá an duine faoi 18 bliain d'aois ní féidir é/í a cheistiú muna bhfuil tuismitheoir nó coimirceoir i láthair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You have a right to consult a solicitor before you are interviewed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé de cheart dul i gcomhairle le haturnae sular tá tú agallamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If it is not possible to get the parent or guardian you requested to come to the interview, the member in charge of the station must try to arrange for your other parent, another guardian, an adult relative or some other responsible person other than a Garda to attend</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna féidir leis an tuismitheoir nó leis an gcoimirceoir a d'iarr an páiste teacht chuig an agallamh, ní mór don Gharda atá i gceannas an stáisiúin iarracht a dhéanamh an tuismitheoir eile, coimirceoir eile, gaol fásta nó duine eile freagrach nach Garda é/í a bheith i láthair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The member in charge of the station may give permission to question you without a parent or guardian present in exceptional circumstances or if it has not been possible to communicate with a parent or guardian or to get them to attend within a reasonable time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis an nGarda atá i gceannas an stáisiúin cead a thabhairt duine óg a cheistiú gan tuismitheoir nó coimirceoir a bheith i láthair i gcásanna eisceachtúla nó má theip ar iarrachtaí taobh istigh de thréimhse réasúnta dul i dteagmháil le tuismitheoir nó le coimirceoir agus iarraidh orthu teacht i láthair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The member in charge may exclude your parent or guardian from the interview if:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis an nGarda i gceannais an tuismitheoir nó coimirceoir a choinneáil amach ón agallamh:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• your parent or guardian is the victim of the offence being investigated</seg></tuv>
+  <tuv xml:lang="ga"><seg>• más do thuismitheoir nó do chaomhnóir íospartach an chiona atá á imscrúdú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• your parent or guardian has been arrested in relation to the offence or is a suspect,</seg></tuv>
+  <tuv xml:lang="ga"><seg>• gabhadh do thuismitheoir nó caomhnóir maidir leis an gcion nó más duine é/í atá faoi amhras,</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• the member in charge has reasonable grounds for believing that your parent or guardian would obstruct the course of justice if he or she was at the interview</seg></tuv>
+  <tuv xml:lang="ga"><seg>• tá forais réasúnta ag an mball i gceannas lena chreidiúint go gcuirfeadh do thuismitheoir nó do chaomhnóir bac le cúrsa na córa dá mbeadh sé nó sí ag an agallamh</seg></tuv>
+</tu>
+</body>
+</tmx>

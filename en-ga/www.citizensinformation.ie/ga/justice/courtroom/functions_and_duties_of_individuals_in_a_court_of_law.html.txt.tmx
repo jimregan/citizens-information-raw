@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Functions and duties of individuals in a court of law</seg></tuv>
+  <tuv xml:lang="ga"><seg>Feidhmeanna agus dualgais éagsúla i gcúirt dlí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This section provides information on the functions and duties of the different people you are likely to encounter in a courtroom</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann an mír seo eolas ar fáil faoi na feidhmeanna agus na dualgais atá ag na daoine éagsúla ar cosúil go gcasfaidh tú leo i seomra cúirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Legal clerks or assistants</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cléirigh nó cúntóirí dlí</seg></tuv>
+</tu>
+</body>
+</tmx>

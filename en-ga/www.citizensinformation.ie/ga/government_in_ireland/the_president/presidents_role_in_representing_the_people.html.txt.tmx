@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>President - representing the people</seg></tuv>
+  <tuv xml:lang="ga"><seg>An tUachtarán - ionadaí na ndaoine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The President represents all the people of Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é/í an tUachtarán ionadaí mhuintir na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He or she makes State visits abroad and also receives other Heads of State on visits to Ireland at the official residence, Áras an Uachtaráin</seg></tuv>
+  <tuv xml:lang="ga"><seg>Téann sé/sí ar chuairteanna stáit chuig tíortha thar lear agus san Áras an Uachtarán fáiltíonn sé/sí roimh ceannairí stáit eile atá ar chuairt in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The President plays an active role in promoting Ireland's image and role in the international arena</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá ról gníomhach ag an Uachtarán íomhá na hÉireann a chur chun cinn thar lear agus i gcúrsaí idirnáisiúnta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The current President of Ireland is Michael D</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é Mícheál D</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>At home, the President undertakes a wide range of public engagements, attending conferences and meetings, both formal and informal, throughout the island of Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>In Éirinn, tá go leor imeachtaí ar bun ag an Uachtarán, ag freastal ar chomhdhálacha agus ar chruinnithe, foirmiúil agus neamhfhoirimiúil, ar fud na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The President also oversees the President's Award</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an tUachtarán i gceannas ar na Duaiseanna Gaisce</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,277 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Both private and public health services are available in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn seirbhísí sláinte príobháideacha agus poiblí ar fáil in Éirinn araon</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Private health services are provided by individual health professionals or healthcare companies</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad gairmithe sláinte nó cuideachtaí cúraim shláinte a sholáthraíonn seirbhísí sláinte príobháideacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You usually pay the full cost of private health services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iondúil go n-íocann tú costas iomlán na seirbhísí sláinte príobháideacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can take out private health insurance to help meet the cost of medical expenses</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat árachas sláinte príobháideach a fháil chun cuidiú le costais na gcaiteachas leighis a shásamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Public services are supported by the State</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tacaíonn an Stát leis na seirbhísí poiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Health Service Executive (HSE) is responsible for the delivery of public health services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is í Feidhmeannacht na Seirbhíse Sláinte (FSS) a bhíonn freagrach as seachadadh na seirbhísí sláinte poiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Sometimes the HSE provides these services directly and sometimes the HSE funds other organisations to provide these services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Soláthraíonn an FSS na seirbhísí úd go díreach agus cistíonn an FSS eagrais eile chun na seirbhísí úd a sholáthar ó thráth go chéile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are covered by public health services if you are living in Ireland and have lived here, or intend to live here, for at least one year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Clúdaítear tú le seirbhísí sláinte poiblí má chónaíonn tú in Éirinn agus gur chónaigh tú anseo, nó má bhí tú chun cónaí anseo, ar feadh bliain amháin ar a laghad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is called being ordinarily resident in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar gnáthchónaí in Éirinn air sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read more information about ordinary residency and public health services here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léigh a thuilleadh eolais faoi sheirbhísí gnáthchónaí agus sláinte poiblí anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some visitors may be entitled to public health services, for example, people from other countries in the European Economic Area (EEA) or from Switzerland</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh roinnt cuairteoirí bheith i dteideal seirbhísí sláinte poiblí, mar shampla, daoine ó thíortha eile ón Limistéar Eorpach Eacnamaíoch (LEE) nó ón Eilvéis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are resident in Ireland you can access healthcare in Europe</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chónaíonn tú in Éirinn is féidir leat rochtain a fháil ar an gcúram sláinte san Eoraip</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>General Practitioners (GPs) are family doctors</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is dochtúirí teaghlaigh iad na lia-chleachtóirí ginearálta (GPí)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A GP is often the first doctor people see about a health problem</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is minic gurb é an GP an chéad dochtúir a fheiceanna daoine faoi fhadhb sláinte éigin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>GPs are usually part of the private healthcare system and so you will usually need to pay charges when you see a GP</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iondúil gur cuid den chóras cúraim shláinte phríobháideach iad na GPí, agus is iondúil go gcaithfidh tú muirir a íoc nuair a fheiceann tú GP</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can see a GP without being charged for the visit if you have a medical card or a GP Visit Card</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat GP a fheiceáil gan muirear don chuairt má tá cárta leighis nó Cárta Cuairte Dochtúra agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>GPs provide referrals to more specialised doctors called consultants</seg></tuv>
+  <tuv xml:lang="ga"><seg>Soláthraíonn na GPí atreoruithe chuig lianna níos speisialaithe ar a dtugtar comhairligh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You cannot see a consultant for the first time without a referral from a GP</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leat comhairleach a fheiceáil den chéad uair gan atreorú ó GP</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some GPs will also call to your home if you are sick</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tiocfaidh roinnt GPí chun do bhaile freisin má éiríonn tú breoite</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Often, a number of GPs in an area will arrange to make a service available at night or at the weekend</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is minic a eagróidh roinnt GPí i gceantar éigin chun seirbhís a chur ar fáil istoíche nó ag an deireadh seachtaine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your income is below a certain level you may get a medical card</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadann tú cárta leighis a fháil má bhíonn d’ioncam faoi bhun leibhéil éigin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(Some people can get a card without an income test, for example, children who have cancer.)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Is féidir le daoine áirithe cárta a fháil gan tástáil ioncaim, mar shampla, leanaí le hailse.)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>With a medical card you can get public health services free of charge, including doctor visits and public hospital services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat seirbhísí sláinte poiblí a fháil saor in aisce le cárta leighis, lena n-áirítear cuairteanna chuig an lia agus chuig seirbhísí ospidéil phoiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The medical card covers the cost of prescription medicines but you pay a set charge when you get the medicines – this prescription charge is the same for each item</seg></tuv>
+  <tuv xml:lang="ga"><seg>Clúdaíonn an cárta leighis costas na gcógas leighis ar oideas, ach íocann tú muirear seasta nuair a fhaigheann tú na cógais – is ionann an muirear oidis sin i leith gach aon mhír</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your income is above the limit for a medical card, you may be able to get a GP visit card</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhíonn d’ioncam os cionn na teorann i leith cárta leighis, b'fhéidir go mbeifeá in ann cárta cuairt dochtúra a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It has an income test with a higher limit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann tástáil ioncaim le teorainn níos airde leis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The GP visit card only covers free visits to your family doctor</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chlúdaíonn an cárta cuairt dochtúra ach amháin cuairteanna saora in aisce chuig do lia teaghlaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The income test isn’t required for anyone under the age of 6 or over the age of 70 – everyone in these age groups can get a GP visit card</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní theastaíonn an tástáil ioncaim do dhuine ar bith faoi bhun 6 bliana d’aois ná os cionn 70 bliain d’aois – is féidir le gach uile dhuine sna haoisghrúpaí úd cárta cuairte dochtúra a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can access community health and personal social services through the Local Health Office for your area</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat rochtain a fháil ar sheirbhísí sláinte agus sóisialta pearsanta tríd an Oifig Sláinte Áitiúil i gcomhair do cheantair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These services are provided by a number of Local Health Centres in each area</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad roinnt Ionad Sláinte Áitiúil i ngach aon cheantar a sholáthraíonn na seirbhísí úd</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The range of services provided varies in different areas but includes nursing care, chiropody, speech therapy, physiotherapy, mental health services and more</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is éagsúil é réimse na seirbhísí a sholáthraítear ó cheantar amháin go chéile, ach áirítear leo cúram altranais, cosliacht, teiripe urlabhra, fisiteiripe, seirbhísí meabhairshláinte agus a thuilleadh nach iad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Sometimes health services can be provided in your own home</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir seirbhísí sláinte a sholáthar i do bhaile féin ar uairibh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For older people or people with disabilities, it may also be possible for the health centre to organise help with housework through a home help service</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh an t-ionad sláinte cabhair leis an obair bhaile a eagrú freisin do dhaoine scothaosta nó do dhaoine le míchumais trí mheán seirbhíse cabhrach baile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can be referred to hospital as a public patient or as a private patient</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadtar tú a atreorú chuig ospidéal mar othar poiblí nó mar othar príobháideach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may use hospital services as an outpatient or an inpatient</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat leas a bhaint as seirbhísí ospidéil mar othar seachtrach nó mar othar cónaitheach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This section gives an introduction to this system</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar léargas tosaigh sa chuid seo don chóras</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can read detailed information about hospital charges here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat eolas mionsonraithe a léamh faoi mhuirir ospidéil anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may be referred by your family doctor (GP) to the out-patient department of a public hospital, for example, to be seen by a specialist consultant or for diagnostic tests like x-rays</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh do lia teaghlaigh (GP) tú a atreorú chuig an rannóg othar seachtrach le hospidéal poiblí, mar shampla, le d’fheiceáil ag comhairleach is speisialtóir nó le tástálacha diagnóiseacha ar nós x-ghathanna a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Accident and emergency services are outpatient services and if you are referred by a GP there is no charge</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is seirbhísí othar seachtrach iad na seirbhísí tionóisce agus éigeandála, agus ní bhaineann aon mhuirear leo más GP a atreoraíonn tú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you visit an accident and emergency department without being referred by a GP there is a set charge</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá muirear seasta ann má thugann tú cuairt ar rannóg tionóisce agus éigeandála gan atreorú le GP</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To visit a consultant (medical specialist) you must be referred by a GP</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é GP a chaithfidh tú a atreorú chun cuairt a thabhairt ar chomhairleach (speisialtóir míochaine)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As a public patient, you do not have to pay for the consultant’s services and you do not get to choose your consultant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní gá duit íoc as seirbhísí an chomhairligh agus ní bhfaigheann tú an deis chun do chomhairleach a roghnú mar othar poiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In many areas, there are waiting lists for non-emergency services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá liostaí feithimh ann do sheirbhísí neamh-éigeandála i go leor ceantar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you choose to be referred to a consultant as a private patient, you pay for the consultant’s services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má thoghann tú chun atreorú chuig comhairleach a fháil mar othar príobháideach, is amhlaidh ar tusa a íocann as seirbhísí an chomhairligh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Private hospitals set their own charges</seg></tuv>
+  <tuv xml:lang="ga"><seg>Socraíonn ospidéil phríobháideacha a gcuid muirear féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have private health insurance, it may cover some or all of the charges</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhíonn árachas sláinte príobháideach agat, b’fhéidir go gclúdaíonn sé roinn de na muirir nó iad go léir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may be admitted to hospital as an in-patient under the care of a consultant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfar tú a ghlacadh isteach san ospidéal mar othar cónaitheach faoi chúram comhairligh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are in a public hospital as a public patient, and you do not have a medical card, there is a set daily in-patient charge</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá muirear seasta laethúil ann d’othair chónaitheacha má thagann tú chun an ospidéil mar othar poiblí, agus gan cárta leighis bheith agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is maximum limit to how much you will be charged over a 12-month period</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann uasteorainn leis an méid a ghearrfar ort thar thréimhse 12 mí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are admitted to a public hospital as a private patient of a consultant, you pay a different daily in-patient hospital charge</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má ghlactar isteach chun ospidéil phoiblí mar othar príobháideach le comhairleach tú, íocfaidh tú muirear ospidéil laethúil éagsúil i leith othar cónaitheach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are ordinarily resident in Ireland, you can get free or subsidised prescribed drugs and medicines and certain medical and surgical aids and appliances</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má ghnáthchónaíonn tú in Éirinn, is féidir leat drugaí agus cógais leighis ar oideas agus áiseanna agus fearais leighis agus máinliachta áirithe a fháil saor in aisce nó faoi fhóirdheontas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is a set prescription charge for medical card holders</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn muirear oidis seasta ann do shealbhóirí cárta leighis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you don’t have a medical card, you can get help with the cost of prescribed medicines under the Drugs Payment Scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil cárta leighis agat, is féidir leat cúnamh a fháil le costas na gcógas leighis ar oideas faoin Scéim Íocaíochta Drugaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>People suffering from certain conditions can get free medicines for the treatment of those conditions under the Long Term Illness Scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le daoine a fhulaingíonn le riochtaí áirithe cógais leighis a fháil do chóireáil na riochtaí úd faoin Scéim Breoiteachta Fadtéarmaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The range of health services provided by the HSE includes:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áirítear leis an réimse seirbhísí sláinte a sholáthraíonn an FSS:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Maternity and infant care</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cúram máithreachais agus naíonáin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Health services for children</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seirbhísí sláinte do leanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Health services for people with disabilities</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seirbhísí sláinte do dhaoine le míchumais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Health services for older people</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seirbhísí sláinte do dhaoine scothaosta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Dental care, eye sight and hearing services</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seirbhísí cúraim fiacla, radharc na súl agus éisteachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is a complaints system for public health services that are provided by or on behalf of the HSE</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá córas gearán ann do na seirbhísí sláinte poiblí a sholáthraíonn FSS nó a sholáthraítear thar a ceannsa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For information about making a complaint about a private health service, visit healthcomplaints.ie, a website which provides information on how to make a complaint or give feedback about health and social care services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabhair cuair ar healthcomplaints.ie i gcomhair eolais faoi ghearán a dhéanamh faoi sheirbhís sláinte poiblí, ar láithreán gréasáin é a sholáthraíonn eolas faoin gcaoi chun gearán a dhéanamh nó chun aiseolas a fháil faoi sheirbhísí sláinte agus cúraim shláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can claim tax relief on medical expenses</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat faoiseamh cánach i leith caiteachas leighis a éileamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are a number of tax credits and reliefs for people with disabilities</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ann do roinnt creidmheasanna agus faoiseamh cánach do dhaoine le míchumais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are social welfare benefits for people who are sick or have a disability</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ann do shochair leasa shóisialaigh do dhaoine atá breoite nó le míchumas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are also payments and benefits for carers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá íocaíochtaí agus sochair ann do chúramóirí freisin</seg></tuv>
+</tu>
+</body>
+</tmx>

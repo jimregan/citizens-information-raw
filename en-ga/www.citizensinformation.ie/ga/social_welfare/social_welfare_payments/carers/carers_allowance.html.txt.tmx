@@ -1,0 +1,305 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Carer's Allowance is a payment to people on low incomes who are looking after a person who needs support because of age, disability or illness (including mental illness)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é atá i Liúntas Cúramóra ná íocaíocht do dhaoine a thugann cúram do dhaoine áirithe ona bhfuil a leithéid ag teastáil mar gheall aois, míchumais fisceach nó ceadfach nó tinnis, lena n-áirítear intinne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you qualify for a Carer's Allowance you may also qualify for free household benefits (if you are living with the person you are caring for) and a Free Travel Pass</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh tú i dteideal sochar teaglaigh saor in aisce seo a leanas agus Pas Taistil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Carer's Allowance is not taken into account in the assessment for a medical card</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní áireofar an Liúntas Cúramóra a mheasúnaítear in aghaidh an chárta leighis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you consider that you have been wrongly refused Carer's Allowance, or you are unhappy about a decision of a social welfare deciding officer about your entitlements, you can appeal this decision</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má shíleann tú gur diúltaíodh Liúntas Cúramóra duit go héagórach, nó go bhfuil tú míshásta faoi chinneadh de chuid Oifigeach Breithiúnachta an Leasa Shóisialaigh i leith do theidlíochtaí, tá an rogha agat achomharc a thabhairt in aghaidh an chinnidh sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To be entitled to a Carer's Allowance you must:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Le bheith i dteideal Liúntas Cúramóra:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Be living with, or in a position to provide full-time care and attention to a person in need of care who does not normally live in an institution</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Caithfidh tú a bheith i do chónaí nó a bheith in ann cúram agus aire lán aimseartha a thabhairt don duine atá ag brath ort agus nach bhfuil cónaí orthu in institiúid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, you may continue to be regarded as providing full-time care and attention, if you or the person being cared for is undergoing medical or other treatment in a hospital or other institution for a period not longer than 13 weeks</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áfach, má fhaigheann tú nó an duine a thugann tú aire dó/dí cóireáil leighis in ospidéil ar feadh 13 seachtain nó níos lú, glactar leat bheith ag tabhairt cúram agus aire lán aimseartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Be habitually resident in the State</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sásaíonn tú an coinníoll gnáth-chónaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Not live in a hospital, convalescent home or other similar institution</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní féidir leat a bheith i do chónaí in ospidéal, teach téarnaimh nó aon institiúd eile mar iad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Be at least 18 years old and</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Caithfidh tú a bheith 18 bliana d'aois ar a laghad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Not be engaged in employment, self-employment, training or education courses outside the home for more than 15 hours a week</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní féidir leat a bheith fostaithe nó féinfhostaithe taobh amuigh den bhaile ar feadh níos mó ná 15 nuaire i rith na seachtaine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>During your absence, adequate care for the person requiring full-time care and attention must be arranged</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh tú socraithe a dhéanamh go mbeidh cúram agus aire sách oiriúnach lán aimseartha ar fáil don té atá ag bráth ort má bhíonn tú as láthair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The person you are caring for must be:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh an té atá faoi chúram a bheith:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Over the age of 16 and so incapacitated as to require full-time care and attention or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Os cionn 16 bliana d'aois agus a bheith ag brath chomh mór ort go bhfuil cúram agus aire lán aimseartha ag teastáil uatha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Aged under 16 and getting a Domiciliary Care Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Faoi bhun 16 bliana d'aois agus ag fáil Liúntais Cúram Baile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The person receiving care is regarded as requiring full-time care and attention where</seg></tuv>
+  <tuv xml:lang="ga"><seg>Meastar go bhfuil cúram agus aire lán aimseartha ag teastáil ó dhuine nuair atá:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• He or she is so incapacitated as to require continuous supervision in order to avoid danger to him or herself or continual supervision and frequent assistance throughout the day in connection with normal bodily functions, and</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sé/sí ag brath ort chomh mór is go bhfuil aireachas leanúnach ag teastáil uatha le cinntiú nach mbeidh sé/sí ina dháinséar dó/di féin nó go bhfuil aireachas agus cúram leanúnach ag teastáil uatha de bharr go bhfuil bac ar baill a gcoirp feidhmiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• He or she is so incapacitated as to be likely to require full-time care and attention for a period of at least 12 months</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sé/sí ag brath ort chomh mór sin go mbeidh cúram agus aire lán aimseartha uatha do thréimhse bliana ar a laghad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>What counts as means?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Céard é do mhaoin?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your means are any income you or your spouse, civil partner or cohabitant have or property (except your home) or an asset that could bring in money or provide you with an income, for example, an occupational pension or benefits from another country</seg></tuv>
+  <tuv xml:lang="ga"><seg>Séard atá i gceist le maoin ná aon ioncam atá agat féin nó do chéile/páirtnéir sibhialta/comhchónaitheoir áitreabh (seachas do theach) nó sócmhainní a d'fhéadfadh airgead a thabhairt isteach nó ioncam a sholáthar duit, mar shampla pinsean saothair, pinsin/sochair ó thíortha eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Any payment made by the Department of Social Protection is not taken into account in the means test for Carer's Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chuirtear san áireamh aon íocaíocht a dhéanann an Roinn Coimirce Sóisialaí sa tástáil mhaoine don Liúntas Cúramóra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The actual income from investments and money in a savings account is not taken as your means</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní áirítear mar d'acmhainn an t-ioncam iarbhír ó choigilteas agus ó infheistíochtaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Instead, investment items such as, money in a savings account, cash-in-hand or money in a current account and the cash value of investments and property are added together and a special formula is used to work out your weekly means</seg></tuv>
+  <tuv xml:lang="ga"><seg>In ionad sin, suimítear nithe infheistíochta mar shampla, airgead in aon chuntas coigiltis, airgead ar láimh nó aon chuntas reatha, agus luach airgid thirim infheistíochtaí agus maoine agus baintear feidhm as foirmle ar leith chun d'acmhainn sheachtainiúil a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Find out more about how capital is assessed in the means test for Carer's Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigh amach conas a dhéantar measúnú ar chaipiteal sa tástáil mhaoine le haghaidh Liúntas Cúramóra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For a couple, the combined gross weekly balance is then halved to give the carer's weekly means</seg></tuv>
+  <tuv xml:lang="ga"><seg>An chaoi a dhéantar measúnú ar mhaoin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are getting a social welfare payment from another state an amount up to the maximum rate of the Irish State Pension (Contributory) is exempt from the means test</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar measúnú ar ioncam an iarrthóra (gan a t(h)each cónaithe a bheith san áireamh) sa scrúdú maoine don Liúntas Cúramóra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Any foreign social welfare payment above the maximum Irish State Pension (Contributory) rate is treated as income for the means test</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar neamhaird ar ioncam de €332.50 sa tseachtain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are getting maintenance payments these are assessed (along with any other source of income) and the first €332.50 (or €665 for a couple) is disregarded</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más lánúin phósta/páirtnéirí sibhialta/ comhchónaitheoirí atá ina gcónaí in éineacht atá i gceist déanfar neamhaird ar an gcéad €665 d'ioncam seachtainiúil tar éis d'ÁSPC, dleachtanna ceardchumainn agus aoisliúntas a bheith bainte as</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Carer's Allowance and half-rate payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Liúntas Cúramóra agus íocaíochtaí leath-ráta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are getting certain social welfare payments and you are providing full time care and attention to another person, you can keep your main social welfare payment and get half-rate Carer's Allowance as well</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá íocaíochtaí leasa shóisialaigh áirithe á bhfáil agat agus tú ag cur cúraim lánaimseartha ar fáil do dhuine eile, is féidir leat do phríomhíocaíocht leasa shóisialaigh a choinneáil agus Liúntas Cúramóra leath-ráta a fháil freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you were getting another social welfare payment before claiming Carer's Allowance, you may get your original payment reinstated and also get half-rate Carer's Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má raibh íocaíocht leasa shóisialaigh eile á fáil agat roimh duit Liúntas Cúramóra a éileamh, d’fhéadfaí do bhuníocaíocht a thabhairt ar ais duit agus d’fhéadfá Liúntas Cúramóra leath-ráta a fháil freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are getting Carer's Allowance and subsequently become entitled to another payment, you can claim the other payment and get half your rate of Carer's Allowance but only if the other payment is a qualifying payment for half-rate Carer's Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá Liúntas Cúramóra á fháil agat agus go gcáilíonn tú d’íocaíocht eile ina dhiaidh sin, is féidir leat an íocaíocht eile a éileamh agus leath de do Liúntas Cúramóra a fháil, ar an gcoinníoll go bhfuil an íocaíocht eile ina íocaíocht cháilitheach do Liúntas Cúramóra ar leath-ráta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, if you are getting Carer's Allowance and work 15 hours each week, you can build up an entitlement to a contributory payment. This means, if you are out of work sick you may be entitled to Illness Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, má tá Liúntas Cúramóra á fháil agat agus go n-oibríonn tú 15 uair an chloig gach seachtain, is féidir leat cáilíocht a thuilleamh ar íocaíocht ranníocach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In this case, you may get full-rate Illness Benefit and half-rate Carer's Allowance - although this will depend on your PRSI contributions, level of earnings and current means</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn sé sin, má bhíonn tú as obair toisc go bhfuil tú tinn go bhféadfá a bheith i dteideal Sochar Breoiteachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are being claimed for as a qualified adult on your spouse, civil partner or cohabitant’s social welfare payment and you are providing full-time care to another person, you may apply for half-rate Carer's Allowance and retain your current Increase for a Qualified Adult in full</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás sin, d’fhéadfá Sochar Breoiteachta ag an ráta iomlán agus Liúntas Cúramóra leath-ráta a fháil, ag brath ar do ranníocaíochtaí ÁSPC, do leibhéal tuillimh agus d’acmhainní reatha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are parenting alone and you are providing full-time care and attention to your child or another person you can claim One-Parent Family Payment and half-rate Carer’s Allowance until your youngest child turns 16 provided you continue to meet the conditions for both schemes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá éileamh á dhéanamh maidir leat mar dhuine fásta cáilithe ar íocaíocht leasa shóisialaigh do chéile/páirtnéir sibhialta/comhchónaitheoir agus go bhfuil cúram lánaimseartha á chur ar fáil agat do dhuine eile, is féidir leat cur isteach ar Liúntas Cúramóra leath-ráta agus do Mhéadú reatha do Dhuine Fásta Cáilithe a choinneáil ina iomláine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>More information is available in our document on half-rate Carer’s Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh faisnéise ar fáil inár ndoiciméad ar Liúntas Cúramóra leath-ráta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Each carer must be providing care from Monday to Sunday but can do so on alternate weeks</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá d'íocaíochtaí déanta suas de ratá pearsanta duit féin agus íocaíochtaí breise do chleithiúnaithe páiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Carer's Allowance has no qualified adult payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon liúntas do dhuine fásta incháilithe ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Carer's Allowance rates in 2016 and up to March 2017</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ráta seachtainiúil i 2016 agus roimh Márta 2017</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Aged under 66, caring for 1 person │€204.00 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Faoi aois 66, ag tabhairt sochar 1 │€204.00 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Aged under 66, caring for 2 or more │€306.00 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Faoi aois 66, ag tabhairt sochar 2 │€306.00 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Aged 66 or over and caring for 1 │€242.00 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Aois 66+, ag tabhairt sochar 1 │€242.00 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Aged 66+, caring for 2 people │€363.00 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Aois 66+, ag tabhairt sochar 2 │€363.00 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Increase for a Qualified Child │ │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Do gach páiste cáilithe │(ráta-iomlán) │ │ │€14.90 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Carer's Allowance rates from 9 March 2017 (for carers aged 66 or over) and 16 March 2017 (for carers aged under 66)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ráta seachtainiúil ó Márta 2017</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Aged under 66, caring for 1 person │€209.00 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Faoi aois 66, ag tabhairt sochar 1 │€209.00 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Aged under 66, caring for 2 or more │€313.50 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Faoi aois 66, ag tabhairt sochar 2 │€313.50 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Aged 66 or over and caring for 1 │€247.00 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Aois 66+, ag tabhairt sochar 1 dhuine (ó│€247.00 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Aged 66+, caring for 2 people │€370.50 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Aois 66+, ag tabhairt sochar 2 dhuine (ó│€370.50 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Increase for a Qualified Child │ │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Do gach páiste cáilithe │(ráta-iomlán)│ │ │€14.90 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may claim a full-rate increase in your payment for a child dependant if you are a carer and are single, widowed, separated or a civil partner who is not living with the other civil partner</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadann tú liúntas do leanbh is cleithiúnach a éileamh ag an ráta iomlán más cúramóir tú agus tú singil, i do bhaintreach (fir), más scartha tú nó más páirtnéir sibhialta tú nach bhfuil ina c(h)ónaí leis an páirtnéir sibhialta eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may claim a half-rate increase in your payment for a child dependant if you are a carer and are living with your spouse, civil partner or cohabitant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadann tú liúntas do leanbh is cleithiúnach a éileamh ag an leathráta más cúramóir tú agus tú i do chónaí le do chéile/páirtnéir sibhialta/comhchónaitheoir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may get credited social insurance contributions (PRSI) while you are getting a Carer's Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat creidmheasa Árachais Shóisialta Pá Chuimhneachta (ASPC) a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Change of circumstance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Conas iarratas a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should apply for a Carer's Allowance as soon possible</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart iarratas a dhéanamh ar liúntas cúramóra láithreach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The form includes a medical report which must be signed by the person receiving care and completed by his or her doctor (a medical report is not necesary if you are caring for a child getting Domicilary Care Allowance)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat iarratas a chur isteach tríd foirm iarratais do Liúntas Cúramóra (CR1) (pdf) a chomhlánú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You also fill in a CR2 form (pdf) if you are caring for more than one person</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más rud é go bhfuil tú ag tabhairt cúram do bhreis agus duine amháin, cuir iarratas isteach tríd foirm CR2 (pdf) a chomhlánú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can contact your social welfare local office or Citizens Information Service for the form</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat dul i dteagmháil le d’Oifig Leasa Shóisialaigh áitiúil nó seirbhís Fhaisnéise do Shaoránaigh chun an fhoirm a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Note that the application form for Carer's Allowance asks for a lot of detailed information from you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabhair faoi deara go n-iarrann an fhoirm iarratais ar Liúntas Cúramóra ar go leor faisnéis shonrach uait</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Department of Social Protection has to work out your income and the income of your spouse, civil partner or cohabitant to assess the means of your household</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá ar an Roinn Coimirce Sóisialaí d’ioncam a dheimhniú mar aon le hioncam do chéile‚ páirtnéara shibhialta nó do chomháititheora chun measúnú a dhéanamh ar mhaoin do theaghlaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Department must also examine the medical condition of the person being cared for to decide if they need full-time care and attention</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá ar an Roinn scrúdú a dhéanamh ar riocht sláinte an duine a bhfuil cúram a thábhairt dóibh chun cinnneadh a dhéanamh an dteastaíonn cúram agus aird lánaimseartha uathu nó nach dteastaíonn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In addition, the Department must be satisfied that you, the carer, are providing full-time care and attention and are able to do so. You can get help with filling in the form from your local Citizens Information Service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa mhullach air sin, ní mór don Roinn bheith sásta go bhfuil tusa‚ an cúramóir‚ ag cur cúram agus aird lánaimseartha ar fáil agus go bhfuil sé ar do chumas amhlaidh a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Payment will be awarded from the date your application is received or from the date the qualifying payment is awarded, if later</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú cabhair a fháil chun an fhoirm a chomhlánú ó d’Ionad áitiúil Seirbhísí um Fhaisnéis do Shaoránaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You cannot get a Carer’s Allowance for a child under 16 years of age unless Domiciliary Care Allowance is being paid on behalf of that child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi láthair‚ tá roinnt moille ar íocaíochtaí Liúntas Cúramóra a phróiseáil agus d’fhéadfadh sé roinnt ama a ghlacadh chun d’iarratas a phróiseáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In these cases, you do not need to fill in the medical report when you apply for Carer’s Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfá cáiliú do Liúntas Leasa Fhorlíontaigh fad atá tú ag fanacht go bpróiseálfar d’éileamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Carer’s Allowance may be reviewed at any time to make sure that you continue to be entitled to the payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar íocaíochtaí ón dáta a fhaigheann siad an t-iarratas nó ón dáta a bhronntar an íocaíocht cáilithe ort, má tá sé níos deireanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When initiating a review, DSP will contact you and ask you to get a medical report completed by the child’s doctor and ask you to provide recent evidence to show that the child continues to require full-time care and attention</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat an fhoirm iarratais chomhlánaithe a sheoladh ar ais leis na teastais chuí chuig an Rannóg Liúntais Cúramóra sa Roinn Coimirce Sóisialaí - féach seoladh thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can submit more evidence or appeal this decision in the usual way.   Where to apply</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cá háit a ndéanfaidh mé iarratas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Department of Social Protection</seg></tuv>
+  <tuv xml:lang="ga"><seg>An Roinn Coimirce Sóisialaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Social Welfare Services Office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Oifig na Seirbhísí Leasa Shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Locall:1890 92 77 70</seg></tuv>
+  <tuv xml:lang="ga"><seg>Lóghlao:1890 92 77 70</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Application forms are also available from your local social welfare office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat dul i dteagmháil le d’oifig leasa shóisialaigh áitiúil</seg></tuv>
+</tu>
+</body>
+</tmx>

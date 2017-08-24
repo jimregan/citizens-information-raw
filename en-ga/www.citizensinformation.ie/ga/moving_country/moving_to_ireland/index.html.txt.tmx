@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>• Coming to live in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Teacht a chónaí in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Rights of residence in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cearta Cónaithe in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Introduction to the Irish System</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tús eolais ar chóras na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Life Event Document Before you come to Ireland People who want to come to Ireland need to know if they are entitled to live here and what they can do when they come here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Life Event Document Sula dtagann tú go hÉirinn Ní mór do dhaoine ar mian leo teacht go hÉirinn a bheith ar an eolas i dtaobh a dteidlíochta chun cónaí anseo agus céard is féidir leo a dhéanamh nuair a thiocfaidh siad anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most Read in "Moving Country"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ábhar is mó éilimh i "Ag bogadh tíre"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Irish citizenship through birth or descent</seg></tuv>
+  <tuv xml:lang="ga"><seg>Saoránacht d'Éirinn ó bhreith nó ó ghinealach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Visa requirements for entering Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Riachtanais víosa le teacht isteach in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Coming to work in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag teacht go hÉirinn chun oibriú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Becoming an Irish citizen</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag éirí i do shaoránach Éireannach</seg></tuv>
+</tu>
+</body>
+</tmx>

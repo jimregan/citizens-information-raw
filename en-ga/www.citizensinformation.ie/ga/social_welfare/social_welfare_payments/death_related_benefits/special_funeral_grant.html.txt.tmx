@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>If someone dies at work, a special Funeral Grant is available under the Occupational Injuries Benefit scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Deontas Speisealta Sochraide ar fáil faoin scéim Sochair Gortuithe Ceirde</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To be eligible for this grant, the death must have resulted from:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun a bheith i dteideal an deontais seo, caithfidh an bás a bheith mar thoradh ar:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• An accident at work,</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Timpist ag an obair,</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• An accident while travelling directly to or from work</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Timpist agus an duine ag taisteal go díreach chuig nó ón obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The person must have paid a minimum of one week's PRSI</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh ar a laghad seachtain amháin íocaíochtaí ÁSPC a bheith déanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This special funeral grant is paid under the Occupational Injuries Benefits scheme instead of the Widowed Person's Bereavement Grant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íoctar an deontas speiseálta sochraide seo faoin scéim Sochair Gortuithe Ceirde in áit an Deontais Báis do Bhaintreach/ Baintreach Fir nó an Gnáth Dheontas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Special Funeral Grant: €850</seg></tuv>
+  <tuv xml:lang="ga"><seg>Deontas Speisealta Sochraide: €850</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To apply download and complete claim form OB 61 (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun d'iarratas a dhéanamh líon isteach Foirm OB 61 (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To apply you need:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun iarratas a dhéanamh beidh gá agat le:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The original Death Certificate/interim Death Certificate</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bunchóip den Teastas Báis/Teastas Báis Sealadach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A copy of the death notice</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cóip den fógra báis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A note of the funeral expenses</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Nóta de na costaisí sochraide</seg></tuv>
+</tu>
+</body>
+</tmx>

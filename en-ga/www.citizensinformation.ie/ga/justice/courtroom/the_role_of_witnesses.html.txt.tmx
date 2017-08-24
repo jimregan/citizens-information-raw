@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>The role of witnesses</seg></tuv>
+  <tuv xml:lang="ga"><seg>An ról atá ag finnéithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Witnesses in Ireland are people who have been called to give evidence in court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Daoine iad ar iarradh orthu fianaise a thabhairt i gcúirt is ea finnéithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The witness's name is called and they go into the witness box at one side of the judge</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fograítear ainm an fhinné agus téann sé nó sí isteach i gclár na mionn atá ar thaobh amháin den bhreitheamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They stand in the witness box to repeat the oath or affirmation and then sit down</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seasfaidh sé nó sí i mbosca na mionn chun mionn nó dearbhascadh a athrá agus ansin suífidh sé nó sí síos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The witness is then asked a series of questions by the barristers (or solicitors) in the case</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirfidh na habhcóidí (nó na aturnaetha) sa chás sraith de cheisteanna ansin ar an bhfinné</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The witness's function is to give evidence to the court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is í feidhm an fhinné fianaise a thabhairt don chúirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, the witness may have seen a robbery take place and may be able to tell the court what they saw</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, b'fhéidir go bhfaca an finné robáil ag tarlú agus b'fhéidir go mbeadh sé/sí in ann a rá leis an gcúirt céard a chonaic sé/sí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This evidence may help the judge or the jury to make its decision</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh an fhianaise seo cabhrú leis an mbreitheamh nó leis an ngiúiré cinneadh a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further information about being a witness in a court case in Ireland is available in our section on Witnesses</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun tuilleadh eolais a fháil ar bheith i do fhinné i gcás, brú ar Finnéithe</seg></tuv>
+</tu>
+</body>
+</tmx>

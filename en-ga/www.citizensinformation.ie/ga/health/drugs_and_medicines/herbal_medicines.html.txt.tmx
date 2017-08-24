@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>In general, products that are sold as medicines or having medicinal properties in Ireland must be licensed by the Health Products Regulatory Authority (HPRA), prior to being placed on the market in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, ní mór táirgí a dhíoltar mar chógais nó mar tháirgí a bhfuil saintréithe cógais iontu a bheith faofa ag an Údarás Rialála Táirgí Sláinte sula gcuirtear iad ar an margadh in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some herbal medicines do not meet the usual criteria for medicine authorisation and for this reason the European Union introduced separate rules for Traditional Herbal Medicines</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chomhlíonann roinnt cógais luibhe na gnáthchritéir le haghaidh údarú cógais agus is mar thoradh air sin a thug an tAontas Eorpach rialacha ar leith le haghaidh Cógais Luibhe Thraidisiúnta isteach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The European Traditional Herbal Medicinal Products Directive (2004/24/EC) (pdf) came into effect in Ireland on 23rd July 2007 by Statutory Instrument No</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tháinig an Treoir Eorpach maidir le Táirgí Míochaine Luibhe Traidisiúnta (2004/24/CE) in éifeacht in Éirinn an 23 Iúil 2007 le hIonstraim Reachtúil Uimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Directive establishes a regulatory approval process for herbal medicines in the EU</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leis an Treoir, bunaítear próiseas údarú rialála le haghaidh cógais luibhe san AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It allows for a simplified registration procedure for traditional herbal medicines that have been used for at least 30 years, including at least 15 years within the EU, and that are for use without medical supervision and without injection</seg></tuv>
+  <tuv xml:lang="ga"><seg>Éascaíonn sí nós imeachta simplithe clárúcháin le haghaidh cógais luibhe thraidisiúnta a úsáideadh le 30 bliain anuas ar a laghad, lena n-áirítear 15 bliana ar a laghad laistigh den AE, agus atá le húsáid gan cúram leighis agus gan instealladh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can read more information about herbal medicines on the Health Products Regulatory Authority website where you can also search the list of authorised herbal medicines</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir tuilleadh faisnéise faoi chógais luibhe a léamh ar láithreán Gréasáin an Údaráis Rialála Táirgí Sláinte mar ar féidir an liosta de chógais luibhe údaraithe a chuardach freisin</seg></tuv>
+</tu>
+</body>
+</tmx>

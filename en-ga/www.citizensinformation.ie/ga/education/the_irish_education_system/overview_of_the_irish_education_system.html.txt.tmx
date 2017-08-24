@@ -1,0 +1,205 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Overview of the Irish education system</seg></tuv>
+  <tuv xml:lang="ga"><seg>Forléargas ar chóras oideachais na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Education is compulsory for children in Ireland from the ages of six to 16 or until students have completed three years of second-level education</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá oideachas éigeantach do leanaí in Éirinn ó aoiseanna a sé go 16 nó go dtí go bhfuil trí bliana d'oideachas dara leibhéal comhlánaithe ag mic léinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Irish education system is made up of primary, second, third-level and further education</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá córas oideachais na hÉireann déanta suas den bhunscolaíocht, dara leibhéal, tríú leibhéal agus breisoideachas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>State-funded education is available at all levels, unless you choose to send your child to a private institution</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá oideachas atá maoinithe ag an Stát ar fáil ag gach leibhéal, mura roghnaíonn tú do leanbh a chur chuig institiúid phríobháideach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Early Childhood Care and Education (ECCE) Scheme provides a free year of early childhood care and education for children of pre-school age</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is gnách gur áiseanna nó soláthraithe cúram leanaí atá maoinithe go príobháideach a sholáthraíonn oideachas réamhscolaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some pre-school initiatives focused on children at risk are funded by the Department of Education and Skills</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tionscnaimh áirithe a dhíríonn ar leanaí i bpriacal atá maoinithe ag an Roinn Oideachais agus Scileanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Children do not have to attend school until the age of six but it is usual for children to begin school the September following their fourth birthday</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní gá do leanaí freastal a dhéanamh ar an scoil go dtí aois a sé, ach is iondúil do leanaí an scoil a thosú i Meán Fómhair tar éis dóibh an ceathrú lá breithe a shlánú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Four-year-olds and five-year-olds are enrolled in the junior or senior infant classes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá leanaí ceithre bliana agus cúig bliana rollaithe i ranganna na naíonán beag agus mór</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The curriculum for primary education covers the following key areas:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Clúdaíonn curaclam na bunscoile na réimsí tábhachtacha a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Language, mathematics, social, environment and scientific education, arts education including visual arts music and drama, physical integration, social personal and health education</seg></tuv>
+  <tuv xml:lang="ga"><seg>Teanga, matamaitic, oideachas sóisialta, comhshaoil agus eolaíochta, oideachas ealaíon a chuimsíonn na hamharcealaíona, ceol agus drámaíocht, comtháthú fisiciúil, oideachas sóisialta, pearsanta agus sláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Primary schools are generally privately owned by religious communities (or boards of governors) but are State-funded</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá bunscoileanna faoi úinéireacht phríobháideach go ginearálta ag pobail eaglasta (nó boird ghobharnóirí) ach tá siad maoinithe ag an Stát</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Second-level education is provided by different types of post-primary schools</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá oideachas dara leibhéal soláthraithe ag cineálacha éagsúla iarbhunscoileanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>That is, secondary, vocational, community and comprehensive schools</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad sin, meánscoileanna, gairmscoileanna, pobalscoileanna agus scoileanna cuimsitheacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Secondary schools are privately owned and managed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá meánscoileanna bainistithe go príobháideach agus faoi úinéireacht phríobháideach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In most cases the trustees are religious communities or boards of governors</seg></tuv>
+  <tuv xml:lang="ga"><seg>I mbeagnach gach cás, is iad pobail eaglasta nó boird ghobharnóirí iad na hiontaobhaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Vocational schools are established by the State and administered by vocational education committees</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an Stát a bhunaíonn gairmscoileanna agus bíonn siad riartha ag coistí gairmoideachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Community and comprehensive schools are managed by boards of management of differing compositions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá pobalscoileanna agus scoileanna cuimsitheacha á mbainistiú ag boird bhainistíochta de bhallraíochtaí éagsúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Second-level education consists of a three-year junior cycle followed by a two-year or three-year senior cycle depending on whether an optional Transition Year is taken following the Junior Certificate examination</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuimsíonn oideachas dara leibhéal sraith shóisearach trí bliana agus sraith shinsearach dhá bhliain nó trí bliana ag brath ar cibé an dtógtar nó nach dtógtar an Idirbhliain roghnach tar éis scrúdú an Teastais Shóisearaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Students generally commence the junior cycle at the age of 12</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tosaíonn mic léinn ar an tsraith shóisearach ag aois 12 de ghnáth</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Junior Certificate is taken after three years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Suítear an Teastas Sóisearach tar éis trí bliana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Transition Year follows the Junior Certificate examination</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leanann an Idirbhliain scrúdú an Teastais Shóisearaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This year is free from formal examinations and allows students to experience a wide range of educational inputs, including work experience</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an bhliain seo saor ó scrúduithe foirmeálta agus ceadaítear do mhic léinn taithí a fháil ar réimse leathan d'ionchuir oideachasúla, taithí oibre san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>During their final two years in the senior cycle, students take one of three programmes, each leading to a State examination - the established Leaving Certificate, the Leaving Certificate Vocational Programme or the Leaving Certificate Applied</seg></tuv>
+  <tuv xml:lang="ga"><seg>Le linn an dá bhliain deiridh den tsraith shinsearach, tógann mic léinn ceann amháin de thrí chlár, gach ceann acu a chríochnaíonn le scrúdú Stáit - an Ardteistiméireacht bhunaithe, Gairmchlár na hArdteistiméireachta nó an Ardteistiméireacht Fheidhmeach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The established Leaving Certificate is the main basis upon which places in universities, institutes of technology and colleges of education are allocated</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is í an Ard-Teistiméireacht bhunaithe an príomhbhunús ar a ndáiltear áiteanna in ollscoileanna, institiúidí teicneolaíochta agus coláistí oideachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Leaving Certificate Vocational Programme differs from the established Leaving Certificate in placing a concentration on technical subjects and including additional modules which have a vocational focus</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Gairmchlár na hArdteistiméireachta difriúil ón Ardteistiméireacht bhunaithe sa mhéid agus go ndírítear ar ábhair theicniúla agus modúil bhreise le fócas gairme acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Leaving Certificate Applied Programme has as its primary objective the preparation of participants for adult and working life through relevant learning experiences</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé mar phríomhchuspóir ag an Ardteistiméireacht Fheidhmeach na rannpháirtithe a ullmhú don saol oibre agus saol an aosaigh trí thaithí foghlama ábhartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These aim to develop the following areas of human endeavour: spiritual, intellectual, social, emotional, aesthetic and physical</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé mar chuspóir acu seo na réimsí a leanas i gcomhdhéanamh an duine a fhorbairt: spioradálta, intleachtúil, sóisialta, mothúchánach, aeistéitiúil agus fisiciúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Leaving Certificate Applied is not recognised for direct entry to third-level courses but it can enable students to take Post-Leaving Certificate courses</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl an Ardteistiméireacht Fheidhmeach aitheanta d'iontráil dhíreach go dtí cúrsaí tríú leibhéal, ach is féidir a chur ar chumas mic léinn cúrsaí iar-Ardteistiméireachta a thógáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Third-level education is made up of a number of sectors</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá oideachas tríú leibhéal déanta suas de roinnt rannóg</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The university sector, the technological sector and the colleges of education are substantially funded by the State</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá maoiniú substaintiúil ón Stát ag rannóg na n-ollscoileanna, rannóg na teicneolaíochta agus ag na coláistí oideachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In addition there are a number of independent private colleges</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, tá líon áirithe coláistí neamhspleácha atá príobháideach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are seven universities, which are autonomous and self-governing</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá seacht n-ollscoil ann agus tá siad uathrialach agus féinrialaitheach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They offer degree programmes at bachelor, masters and doctorate level</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann siad cláir chéime a thairiscint ag leibhéal baitsiléara, máistreachta agus dochtúireachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The technological sector includes institutes of technology which provide programmes of education and training in areas such as business, science, engineering, linguistics and music to certificate, diploma and degree levels</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuimsíonn rannóg na teicneolaíochta institiúidí teicneolaíochta a sholáthraíonn cláir oideachais agus oiliúna i réimsí cosúil le gnó, eolaíocht, innealtóireacht, teangeolaíocht agus ceol go leibhéal teastais, dioplóma agus céime</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Department of Education and Skills has overall responsibility for the sector</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá freagracht fhoriomlán ar an Roinn Oideachais agus Scileanna don rannóg</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The colleges of education specialise in training for first-level teachers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann coláistí oideachais speisialú in oiliúint do mhúinteoirí céadleibhéil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They offer a three-year bachelor of education degree and a postgraduate diploma</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann siad céim trí bliana don Bhaitsiléir san Oideachas agus dioplóma iarchéime 18 mí a thairiscint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The training of second-level teachers usually involves completing a primary degree in university or other third-level institution followed by a one-year higher diploma in education</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go hiondúil, maidir le hoiliúint na múinteoirí dara leibhéal, caithfidh bunchéim a bheith comhlánaithe acu in ollscoil nó institiúid tríú leibhéal eile, agus ard-dioplóma bliana san oideachas ina dhiaidh sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In addition, there are colleges of education that specialise in the training of second-level home economics teachers, teachers of religion and physical education</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, tá coláistí oideachais ann a dhéanann speisialú in oiliúint do mhúinteoirí dara leibhéal san eacnamaíocht bhaile, sa reiligiún agus sa chorpoideachas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further and adult education</seg></tuv>
+  <tuv xml:lang="ga"><seg>Breisoideachas agus oideachas aosach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further education comprises education and training which takes place after second-level schooling but which is not part of the third-level system</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuimsíonn breisoideachas oideachas agus oiliúint a tharlaíonn tar éis na scolaíochta dara leibhéal, ach nach bhfuil mar chuid den chóras tríú leibhéal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It includes programmes such as Post-Leaving Certificate courses; the Vocational Training Opportunities Scheme (second-chance education for the unemployed); programmes in Youthreach for early school-leavers; other literacy and basic education; and self-funded evening adult programmes in second-level schools</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuimsíonn sé cláir cosúil le cúrsaí iar-Ardteistiméireachta; an Scéim Deiseanna Oiliúna Gairmoideachais (oideachas athdheise do dhaoine dífhostaithe); cláir in Ógtheagmháil do luathfhágálaithe scoile; oideachas bunúsach agus litearthachta; agus cláir um thráthnóna d'aosaigh i scoileanna dara leibhéal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Special needs education for students with disabilities</seg></tuv>
+  <tuv xml:lang="ga"><seg>Oideachas riachtanais speisialta do mhic léinn atá faoi mhíchumas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Educational provision for students with special educational needs ranges from additional support in mainstream schools to specialist support in special schools</seg></tuv>
+  <tuv xml:lang="ga"><seg>Réimsíonn soláthar oideachasúil do mhic léinn le riachtanais speisialta oideachais ó thacaíocht bhreise sna scoileanna príomhshrutha go tacaíocht speisialaithe sna scoileanna speisialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A student with a disability may be enrolled in a:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir mac léinn atá faoi mhíchumas a chlárú i:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Mainstream class with additional support</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Rang príomhshrutha le tacaíocht bhreise</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Special class in a mainstream school or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Rang speisialta i scoil príomhshrutha nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Special school which caters for the students with his or her category of disability</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Scoil speisialta a fhreastalaíonn ar mhic léinn lena c(h)atagóir mhíchumais</seg></tuv>
+</tu>
+</body>
+</tmx>

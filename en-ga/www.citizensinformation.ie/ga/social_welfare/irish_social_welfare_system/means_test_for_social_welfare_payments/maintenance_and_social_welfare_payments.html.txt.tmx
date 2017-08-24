@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Maintenance and social welfare payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Conas cothabháil a mheas mar acmhainn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Men and women are required by law to maintain their dependants</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá dualgas dlíthiúil ar fhir agus mná a gcuid cleithiúnaithe a chothú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Maintenance can be paid voluntarily or as a result of a maintenance order granted by the courts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh faisnéise ar chothabháil a lorg agus a chur i bhfeidhm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>More information about how to apply for and enforce maintenance is available in our document 'Maintenance orders and agreements'</seg></tuv>
+  <tuv xml:lang="ga"><seg>ar fáil sa doiciméad maidir leis orduithe agus comhaontuithe cothabhála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are applying for a social assistance payment you must satisfy a means test</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit tástáil acmhainne a shásamh má tá tú ag déanamh iarratais ar íocaíocht leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All your sources of income (for example, employment, capital, cash income and maintenance) are assessed by the Department of Social Protection (DSP)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá do foinsí ioncaim go léir (mar shampla fostaiocht, caipiteal, airgead tirim agus cothabháil) measúnaithe ag an Roinn Coimirce Sóisialaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This document explains how maintenance is assessed in the means test</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mínionn an doiciméad seo cothabháil a n-áirítear sa tástáil acmhainne amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>More information on other sources of income and how they are assessed is available in our document on the means test</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh eolais faoi foinsí ioncaim agus conas a mheasúnaítear siad ar fáil sa doiciméad maidir leis an tástáil acmhainne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Maintenance is assessed as means when you apply for the following payments:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfar aon chothabháil a fhaigheann tú a mheas mar acmhainn má dhéanann tú iarratas ar cheann de na híocaíochtaí seo a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Jobseeker’s Transitional payment (JST)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Íocaíocht idirthréimhseach Liúntas Cuardaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Widow's, Widower's or Surviving Civil Partner's (Non-Contributory) Pension</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Pinsean Baintrí, Baintrí Fir nó Páirtnéara Shibhialta Mharthanaigh (Neamh-Ranníocach)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All income from maintenance is assessed as means</seg></tuv>
+  <tuv xml:lang="ga"><seg>Meastar ioncam iomlán ó chothabháil mar acmhainn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This includes both maintenance for you and maintenance to you for any of your children</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áirítear cothabháil duitse agus cothabháil chugatsa le haghaidh duine ar bith de do leanaí araon anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are getting maintenance from more than one person it will be added together and the total will be assessed as means</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhaigheann tú cothabháil ó níos mó ná duine amháin cuirfear é go léir le chéile agus measfar an t-iomlán mar acmhainn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Maintenance paid to your spouse, civil partner or cohabitant is also taken into account as means</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an chothabháil go léir inmheasta mura ndéantar an íocaíocht shonraithe a mhiondealú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Maintenance not taken into account</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cothabháil nach bhfuil inmheasta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Half of all maintenance paid is disregarded or not taken into account in the means test. In addition your rent or mortgage repayment up to a maximum of €95.23 per week can be offset against maintenance payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfar d'aisíocaíocht cíosa nó morgáiste d'uasmhéid €95.23 sa tseachtain a fhritháireamh in aghaidh íocaíochtaí cothabhála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Half the balance of maintenance is then assessed as means and your social welfare payment will be reduced by that amount</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ansin meastar leath an fhuílligh mar acmhainn chun an ráta íocáíochta leasa shóisialaigh atá dlite duit a ríomh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you do not have any housing costs half of your means from maintenance is assessed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit fianaise a thabhairt ar d'íocaíochtaí cíosa nó morgáiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│A single parent with one child is getting maintenance of €150</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Tuismitheoir amháin le leanbh amháin ag fáil cothabháil €150</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The maintenance order │</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sonraíonn ordú cothabhála go │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│specifies €50 for the parent and €100 for the child</seg></tuv>
+  <tuv xml:lang="ga"><seg>│bhfuil €50 don tuismitheoir agus €100 don leanbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Minus rent €95.23 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Lúide Cíos €95.23 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│(Only half assessed as means) │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│(Díreach leath-mheasúnaithe mar acmhainn) │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Total means: €27.38 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Acmhainn Iomlán €27.38 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Reduced One Parent Family Payment to account for means: €193 plus €29.80 for a child │ │dependant) │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Iomlán Íocaíocht Teaghlaigh Aontuismitheora €195.42 (ráta Íocaíocht Teaghlaigh │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│ │ │Total One-Parent Family Payment paid: €195.42 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Aontuismitheora: €193 móide €29.80 le haghaidh linbh chleithiúnaigh) │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Getting a payment before 2003</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag fáil íocaíocht roimh 2003</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you were getting one of the payments listed above before 2003 you may qualify to have your maintenance assessed using the old rules</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fuair tú íocaíocht atá liostaithe thuas roimh 2003, féadfaidh tú a cháiliú chun do chothabháil measúnaithe de réir na seanrialacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Department of Social Protection provides more detailed information about these rules and the assessment of maintenance as means</seg></tuv>
+  <tuv xml:lang="ga"><seg>Soláthraíonn an Roinn Coimirce Sóisialaí tuilleadh eolais faoi na rialacha seo agus an measúnu cothabhála mar acmhainn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>How maintenance is assessed for Rent Supplement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Conas a mheastar cothabháil i gcomhair Forlíonadh Cíosa agus Forlíonadh Ús Morgáiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the means test for Rent Supplement maintenance is assessed as additional household income and maintenance payments up to €95.23 per week are assessed in full</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sna tástálacha acmhainne don Forlíonadh Cíosa agus don Forlíonadh Ús Morgáiste déantar cothabháil a mheasúnú mar ioncam teaghlaigh bhreise (féach thuas) agus déantar íocaíochtaí chothabhála suas go dtí €95.23 in aghaidh na seachtaine a mheasúnú ar an iomlán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The household income disregard applies to maintenance payments above this amount</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann an neamhaird ioncaim teaghlaigh le híocaíochtaí chothabhála os cionn an méid seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Household income disregard: A certain amount of your household income above the SWA rate for your situation is not taken into account</seg></tuv>
+  <tuv xml:lang="ga"><seg>Neamhaird Ioncaim Teaghlaigh: Ní thugtar méid áirithe de d'ioncam teaghlaigh san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>€75 of any additional household income is not taken into account and 25% of additional household income over €75 is not taken into account</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní thugtar €75 de ioncam teaghlaigh bhreise ar bith san áireamh. Ioncam teaghlaigh bhreise is eaé ioncam ó fhostaíocht pháirtaimseartha nó féinfhostaíocht pháirtaimseartha, Forlíonadh Ioncam Teaghlaigh (FIT, Fostaíocht Pobail (FP), Liuntas um Fhilleadh ar Obair, Liúntas Fiontraíochta um Fhilleadh ar Obair nó cúrsa FÁS</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is no upper limit on the amount that can be disregarded</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní thógtar 25% den ioncam teaghlaigh bhreise os cionn €75 san áireamh freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read more about calculating Rent Supplement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon uasteorainn ar an méid gur féidir neamhaird a dhéanamh de</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>How maintenance is assessed for Family Income Supplement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Conas cothabháil a mheas i gcomhair Forlíonadh Ioncam Teaghlaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are getting maintenance, the total amount of your maintenance payment (including payments for children) will be assessed as income for Family Income Supplement (FIS)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ag fáil cothabhála, déanfar méid iomlán d’íocaíochta cothabhála (íocaíochtaí do leanaí san áireamh) a mheasúnú mar ioncam i gcomhair Forlíonadh Ioncam Teaghlaigh (FIT)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Only one FIS payment can be made in respect of any family</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir ach aon íocaíocht FIT amháin a dhéanamh maidir le haon teaghlach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that if you are applying for FIS the parent from whom you are getting maintenance must not be getting FIS</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn sé nach bhféadfaidh an tuismitheoir a bhfuil tú ag fáil cothabhála uaidh/uaithi a bheith ag fáil FIT má dhéanann tú iarratas ar FIT</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>How maintenance is assessed for a child with a means-tested social assistance payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Conas a mheastar cothabháil do leanbh a fhaigheann íocaíocht leasa shóisialaigh de réir tástála acmhainne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are getting Jobseeker's Allowance any maintenance paid to your parent on your behalf is assessed as benefit and privilege against you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá Liúntas Cuardaitheora Poist á fháil agat, déantar aon chothabháil a íoctar go díreach leatsa nó a íoctar le do thuismitheoir ar do shon a mheas i do choinne mar sochar agus pribhléid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a portion of the maintenance is paid directly to you this portion is assessed as cash income against you and the remainder which is paid to your parent is assessed as benefit and privilege</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má íoctar cuid don chothabháilgo díreach leatsa, meastar an chuid seo i do choinne mar airgead tirim agus meastar an fuílleach a íoctar le do thuismitheoir mar sochar agus pribhléid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are getting Disability Allowance any maintenance in the form of cash income from either parent is assessable as means</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá cothabháil i bhfoirm airgid thirim ó cheachtar tuismitheoir inmheasta mar acmhainn má tá Liúntas Míchumais á fháil agat</seg></tuv>
+</tu>
+</body>
+</tmx>

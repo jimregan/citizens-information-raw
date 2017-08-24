@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>All mothers, irrespective of whether they are married or unmarried, have automatic guardianship status in relation to their children, unless they give the child up for adoption</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn cearta caomhnóireachta gan cheistiú ag máithreacha uile i dtaobh a leanaí, is cuma iad a bheith pósta nó gan a bheith pósta, ach amháin má chuirtear an leanbh chun uchtála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A father who is married to the mother of his child also has automatic guardianship rights in relation to that child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn cearta caomhnóireachta gan cheistiú ag athair i dtaobh a leanbh má tá sé pósta le máthair an leanbh sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This applies even if the couple married after the birth of the child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seo an cás fiú más i ndiaidh bhreith an linbh a phós an lánúin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The rights of parents to guardianship are set down in Section 6 of the Guardianship of Infants Act 1964 as amended</seg></tuv>
+  <tuv xml:lang="ga"><seg>In Alt 6 den Acht um Chaomhnóireacht Naíon 1964 arna leasú, leagtar síos na cearta caomhnóireachta a bhíonn ag tuismitheoirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Guardianship rights entitle a parent to make important decisions regarding that child's upbringing, for example, deciding on the child's religion, education, medical treatment and where he/she lives</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leis na cearta seo, bíonn an ceart ag tuismitheoirí cinntí tábhachtacha a dhéanamh maidir le tógáil an linbh, mar shampla: cinneadh maidir le creideamh, oideachas, cóir leighis nó áit chónaithe an linbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A father who is not married to the mother of his child does not have automatic guardianship rights in relation to that child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhíonn cearta caomhnóireachta gan cheistiú ag athair maidir lena leanbh mura bhfuil sé pósta le máthair an linbh sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the mother agrees for him to be legally appointed guardian, they must sign a joint statutory declaration</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má aontaíonn an mháthair go gceapfar ina chaomhnóir dlíthiúil é, ní mór don bheirt acu chomhdhearbhú reachtúil a shíniú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The statutory declaration (SI 5/1998) must be signed in the presence of a Peace Commissioner or a Commissioner for Oaths</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór an dearbhú reachtúil (IR 5/1998) a shíniú i láthair Feidhmeannach Síochána nó Coimisinéir Mionnaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If there is more than one child, a separate statutory declaration should be made for each</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá níos mó na leanbh amháin i gceist, ní mór dearbhú reachtúil ar leith a dhéanamh i dtaobh gach leanbh ar leith acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Children and Family Relationships Act 2015 provided for a number of changes to the Guardianship of Infants Act 1964</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá foráil déanta in Acht um Leanaí agus Cóngais Teaghlaigh, 2015 le haghaidh roinnt athruithe ar an Acht um Chaomhnóireacht Naíon 1964</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, an unmarried father will automatically be a guardian if he has lived with the child's mother for 12 consecutive months after 18 January 2016, including at least 3 months with the mother and child following the child's birth</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, beidh athair neamhphósta ina chaomhnóir gan cheistiú má tá sé tar éis bheith ina chónaí le máthair an linbh le haghaidh 12 mhí as a chéile i ndiaidh 18 Eanáir 2016, 3 mhí ar a laghad acu siúd leis an máthair agus an leanbh i ndiaidh bhreith an linbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If there is disagreement as to whether they have been cohabiting for the required length of time, an application for the necessary declaration can be made to the court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá easaontas maidir le an bhfuil siad ag ina gcomhchónaí ar feadh na tréimhse ama riachtanach, féadfar iarratas ar an deimhniú riachtanach don chúirt a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Applying to the court for guardianship</seg></tuv>
+  <tuv xml:lang="ga"><seg>Iarratas a dhéanamh ar an gcúirt le haghaidh caomhnóireachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the mother does not agree for the father to have guardianship, he may apply for guardianship to the District Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura n-aontaíonn an mháthair go mbeidh an t-athair ina chaomhnóir, is féidir leis iarratas a dhéanamh ar an gCúirt Dúiche chun caomhnóireacht a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As well as fathers, certain other people may apply to the court for guardianship:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chomh maith le haithreacha, is féidir le daoine áirithe eile iarratas a dhéanamh ar an gcúirt le haghaidh caomhnóireacht a fháil:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A step-parent, a civil partner or a person who has cohabited with a parent for not less than 3 years may apply to the court to become a guardian where they have co-parented the child for more than 2 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Is féidir le leastuismitheoir, páirtí sibhialta nó duine a raibh cónaí orthu le tuismitheoir an linbh ar feadh tréimhse nach giorra ná 3 bhliain iarratas a dhéanamh ar an gcúirt chun bheith ina chaomhnóir/caomhnóir, áit a raibh siad mar chomhthuismitheoir don leanbh ar feadh tréimhse níos faide ná 2 bhliain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A person who has provided for the child’s day-to-day care for a continuous period of more than a year may apply for guardianship if the child has no parent or guardian who is willing or able to exercise the rights and responsibilities of guardianship</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Duine atá tar éis gnáthchúnamh laethúil a thabhairt do leanbh ar feadh tréimhse leanúnaí atá níos faide ná bliain, is féidir leo iarratas a dhéanamh chun caomhnóireacht a fháil i gcás nach bhfuil tuismitheoir ná caomhnóir ag an leanbh a bhfuil fonn orthu, nó a bhfuil in ann, na cearta agus na freagrachtaí a bhaineann le caomhnóireacht a chur i bhfeidhm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Also a parent can nominate a temporary guardian who can be appointed by the court if the parent is suffering from a serious illness or injury which prevents them from exercising their guardianship responsibilities in respect of their child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chomh maith leis sin, is féidir le tuismitheoir caomhnóir sealadach a ainmniú ar féidir leis an gcúirt é/í a cheapadh má tá an tuismitheoir buailte le breoiteacht nó gortú atá tromchúiseach a gcuireann bac orthu a bhfreagrachtaí caomhnóireachta a chur i bhfeidhm maidir lena leanbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A father appointed as guardian by the court may be removed as guardian at a future date whereas a father married to the mother of the child is normally guardian for life</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má cheaptar athair ina chaomhnóir sa chúirt, d’fhéadfadh sé tarlú go mbainfí an ceart caomhnóireachta sin am éigin sa todhchaí ach de ghnáth bíonn athair atá pósta le máthair an linbh ina chaomhnóir saoil</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Tax residence and domicile in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cónaí agus sainchónaí cánach in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your liability for tax in Ireland can be affected by whether you are resident in the country and whether Ireland is your permanent home</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bheidh sé mar an gcéanna do dhuine atá ina chónaí sa tír agus do dhuine nach bhfuil, ná do dhuine a bhfuil a bhaile buan in Éirinn agus do dhuine nach bhfuil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is a specific definition of residence for tax purposes depending on how many days you spend in the country</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sainmhíniú sainiúil ar chónaí chun críocha cánach ag brath ar cá mhéad laethanta a chaitheann tú sa tír</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are not resident in a particular year, Ireland can still be your ‘ordinary residence’ since this term refers to the country where you are usually resident over a number of years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil tú i do chónaí in Éirinn i mbliain áirithe, is féidir le hÉirinn a bheith ina ‘gnáthchónaí’ agat fós os rud é go dtagraíonn an téarma sin don tír ina mbíonn tú i do chónaí de ghnáth thar roinnt blianta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The country that is your permanent home is known as your domicile</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar sainchónaí ar an tír ina bhfuil do bhaile buan</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Residence for tax purposes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cónaí chun críocha cánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your residence for tax purposes depends on the number of days that you are present in Ireland during a tax year (A tax year means the period from 1 January to 31 December)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Braitheann do chónaí chun críocha cánach ar líon na laethanta ar a bhfuil tú i láthair in Éirinn le linn bhliain chánach (Ciallaíonn bliain chánach an tréimhse ó 1 Eanáir go 31 Nollaig)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are resident for tax purposes for a year if:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tú cónaitheach chun críocha cánach i mbliain más amhlaidh:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You spend 183 days or more in Ireland in that year from 1 January – 31 December or,</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Go gcaitheann tú 183 lá nó níos mó in Éirinn sa bhliain sin ó 1 Eanáir – 31 Nollaig</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you spend 280 days or more in Ireland over a period of two consecutive tax years, you will be regarded as resident for the second tax year. For example, if you spend 140 days here in Year 1 and 150 days here in Year 2, you will be resident in Ireland for Year 2</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bunaíodh Fochoiste de Choiste um Nós Imeachta agus Pribhléidí Sheanad Éireann chun athbhreithniú agus moltaí a dhéanamh maidir le comhdhéanamh agus feidhmeanna reatha an tSeanaid agus an comhdhéanamh agus na feidhmeanna a bheidh aige amach anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For tax years up to 2008, each day you are present at midnight counts as one day in the calculation of residency for tax purposes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Le haghaidh na mblianta cánach suas go 2008, comhairtear gach lá a bhfuil tú i láthair ag meán oíche mar lá amháin nuair a bhíonn cónaitheacht á ríomh chun críocha cánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>From tax year 2009 onwards, the midnight rule no longer applies, and you are treated as being present in the State, if you are present in the State at any time during that day</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ón mbliain chánach 2009 ar aghaidh, níl feidhm ag riail an mheán oíche a thuilleadh, agus déileáiltear leat amhail is go bhfuil tú i láthair sa Stát, má bhíonn tú i láthair sa Stát aon uair i rith an lae sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Electing to be resident for tax purposes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag roghnú a bheith cónaitheach chun críocha cánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you arrive in Ireland in a particular year but are not present for the required number of days, you may elect to be resident for that year provided that you will be resident in the following year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má thagann tú go hÉirinn i mbliain áirithe ach níl tú i láthair don líon laethanta atá riachtanach, is féidir leat roghnú a bheith cónaitheach don bhliain sin ar an gcoinníoll nach mbeidh tú cónaitheach sa bhliain ina dhiaidh sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Contact your local tax office for details</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déan teagmháil le d’oifig áitiúil chánach le sonraí a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your pattern of residence over a number of years is taken into account to decide your ‘ordinary residence’</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirtear do phatrún cónaithe thar roinnt blianta san áireamh le do ‘ghnáthchónaí’ a shocrú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have been resident for the previous three tax years then you become ordinarily resident from the start of the fourth year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhí tú i do chónaí do na trí bliana cánach roimhe sin beidh tú i do ghnáthchónaitheach ó thús do cheathrú bliain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you leave the country, you will continue to be ordinarily resident until you have been non-resident for three continuous tax years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhágann tú an tír, leanfaidh tú de bheith i do ghnáthchónaitheach go dtí go mbeifeá neamhchónaitheach ar feadh trí bliana leanúnacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Residence and married couples or civil partners</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cónaí agus lánúnacha pósta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For a married couple or civil partners, the residence status of each spouse is assessed independently of the other so it is possible for one spouse or civil partner to be resident and the other to be non-resident</seg></tuv>
+  <tuv xml:lang="ga"><seg>Do lánúin phósta, measúnaítear stádas cónaithe gach céile go neamhspleách ar an gcéile eile, agus de bhrí sin is féidir le céile amháin a bheith cónaitheach agus an duine eile a bheith neamhchónaitheach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your residence status differs from that of your spouse or civil partner, you can choose to be treated as single people for tax purposes if it is more beneficial</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá do stádas cónaithe difriúil le do chéile, is féidir leat a roghnú a bheith próiseáilte mar dhaoine neamhphósta chun críocha cánach má tá sé níos tairbhí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are resident and employed in Ireland but your spouse or civil partner is not resident in Ireland and has no income - so that your earnings are the only source of income - then it may be possible to claim the Married or Civil Partner's Tax Credit and the increased tax rate band</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú cónaitheach agus fostaithe in Éirinn ach níl do chéile cónaitheach in Éirinn agus níl aon ioncam ag do chéile – ionas nach bhfuil foinse ioncaim agaibh ach do thuillimh – ansin b’fhéidir go mbeifeá ábalta Creidmheas Cánach Duine Phósta agus banda ráta cánach méadaithe a éileamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>What is domicile in Ireland?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cad is brí le sainchónaí in Éirinn?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your domicile is the country where you live with the intention of remaining there permanently</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is éard is sainchónaí ann ná an tír a bhfuil tú i do chónaí inti le hintinn fanacht ansin go buan</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It may be different to your residence or nationality</seg></tuv>
+  <tuv xml:lang="ga"><seg>B’fhéidir nach mbeadh sé mar an gcéanna le do chónaí nó do náisiúntacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you are born, you have a domicile of origin</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a bheirtear duine, tá ‘sainchónaí bunaidh’ acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is usually the domicile of your father unless your parents have not married or you live with your mother only</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iondúil gurb ionann é seo agus sainchónaí d’athar ach amháin mura bhfuil do thuismitheoirí pósta nó má tá tú i do chónaí le do mháthair amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This provision is set down in Irish law in the Domicile and Recognition of Foreign Divorces Act 1986</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an fhoráil seo leagtha amach i ndlí na hÉireann sa Acht um Shainchónaí agus Aithint Colscarthaí Coigríche 1986</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This domicile can be changed to a domicile of choice, if you move to a different country with the intention of living there permanently</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir an sainchónaí a athrú chuig sainchónaí rogha má aistríonn tú chuig tír eile le hintinn a bheith i do chónaí ansin go buan</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A Irish domicile levy was introduced in 2010</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugadh isteach tobhach sainchónaithe Éireannaigh nua sa bhliain 2010</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This levy applies regardless of where you are tax resident</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an tobhach seo i gceist in ainneoin an áit ina bhfuil cónaí ort go cánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The levy is charged on an individual:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gearrtar an tobhach ar dhuine aonair:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Who in any year is Irish domiciled</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Atá ina c(h)ónaí in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Whose worldwide income in the year exceeds €1m</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Le hioncam domhanda níos mó ná €1m in aghaidh na bliana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Whose Irish-located property in the year is greater than €5m, and</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Le maoin Éireannach níos mó ná €5m in aghaidh na bliana, agus</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Whose liability to Irish income tax for the year is less than €200,000</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Le dliteanas do cháin ioncaim Éireannaigh don bhliain atá níos lú ná €200,000</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The levy is €200,000 and is payable annually</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é €200,000 an tobhach agus tá sé iníoctha go bliantúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Any Irish income tax paid by you in a tax year is allowed as a credit when calculating the amount of domicile levy due for that year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá aon cháin ioncaim Éireannaigh a íocann tú i mbliain cánach ceadaithe mar chreidmheas agus méid an tobhaigh sainchónaithe le híoc don bhliain sin á ríomh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The levy is payable each year on or before 31 October in the year following the valuation date (on a self-assessment basis)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an tobhach iníoctha gach bliain ar nó roimh an 31 Deireadh Fómhair sa bhliain tar éis an dáta luachála (ar bhonn féinmheasúnachta)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The valuation date is 31 December each year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é 31 Nollaig an dáta luachála gach bliain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The levy for the year 2014 is, therefore, due and payable on or before 31 October 2015. You can get more information about the domicile levy from the Revenue Commissioners</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an tobhach don bhliain 2014, mar sin, le híoc agus tá sé iníoctha ar nó tar éis an 31 Deireadh Fómhair 2015</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that liable non-residents cannot avoid the levy by changing their citizenship status</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat tuilleadh eolais faoin tobhach sainchónaithe ó na Coimisinéirí Ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Residence and domicile are taken into account for a number of taxes including income tax, Deposit Interest Retention Tax, gift tax, inheritance tax and Capital Gains Tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Glactar cónaí agus sainchónaí san áireamh do roinnt TAXES lena n-áirítear Cáin Ioncaim, Cáin Choinneála Úis Iarlaise, Cáin Bhronntanais, Cáin Oidhreachta agus Cáin Ghnóthachan Caipitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Lo-call telephone numbers for Revenue regional offices are available here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Uimhreacha teileafóin lóghlao d’oifigí réigiúnacha Ioncaim anseo ar fáil anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find more detailed contact details for your region here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat faigh sonraí teagmhála níos mionchruinne do do réigiún anseo</seg></tuv>
+</tu>
+</body>
+</tmx>

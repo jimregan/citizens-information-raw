@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>The general rule in Irish law regarding competence of witnesses is that all human beings are competent witnesses</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá riail ghinearálta i ndlí na hÉireann a deireann go bhfuil gach duine daonna inniúil le bheith ina f(h)inné</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In other words, everyone is capable of giving evidence in a case</seg></tuv>
+  <tuv xml:lang="ga"><seg>I bhfocail eile, tá gach duine ábalta fianaise a thabhairt i gcás cúirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, there are some exceptions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach, tá éisceachtaí don riail sin ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Sometimes two or more people may be charged with a criminal offence and they are tried at the same time</seg></tuv>
+  <tuv xml:lang="ga"><seg>In amanna bíonn beirt nó níos mó daoine cúisithe as coir choiriúil agus cuirtear triail orthu ag an am céanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In that situation, the people being tried are called "co-accuseds" and the rule is that one co-accused cannot be called by the prosecution to give evidence against another co-accused</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás sin tugtar na comh-chúisithe orthu agus tá riail ann nach féidir leis na cúisitheoirí glaoch ar dhuine de na comh-chúisithe le fianaise a thabhairt i gcoinne duine eile acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Originally the spouse of an accused was not competent to testify for either side in a case</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ón tús ní raibh céile an chúisí inniúil le fianaise a thabhairt ar son aon taobh i gcás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, the law has now changed and a spouse may give evidence for either the defence or the prosecution (unless he or she happens to be a co-accused)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach, tá athrú ar an dlí anois agus is féidir leis an gcéile fianaise a thabhairt ar son na gcosantóirí nó na gcúisitheoirí (ach amháin sa chás gur comh-chúisí é/í an céile)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He or she may only be forced to testify for the prosecution against his or her spouse in certain circumstances</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir iallach a chur air/uirthi fianaise a thabhairt i gcoinne a c(h)éile ar son na gcúisitheoirí i gcúinsí áirid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Originally children could only give evidence on oath and in order to take the oath, the child had to understand the nature and consequences of the oath</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ón tús bhí leanaí in ann fianaise a thabhairt faoi mhionn agus ar mhaithe leis an mionn a thabhairt, b'éigean don leanbh nádúr agus torthaí an mhionna a thuiscint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Since the introduction of Sections 27 and 28 of the Criminal Evidence Act 1992 for criminal proceedings and Section 28 of the Children Act 1997 for civil proceedings, any court can accept evidence from a child under 14 years of age without the child taking the oath. The court must be satisfied that the child is capable of giving an intelligible account of what he/she witnessed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach, tá athrú anois ar an dlí agus is féidir le leanbh faoi cheithre bliana déag d'aois fianaise a thabhairt i gcás coiriúil nó i gcás sibhialta gan mionn ná dearbhú a thabhairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Even though such evidence is not on oath, the child is guilty of an offence if he/she knowingly gives evidence which is false or untrue</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don chúirt a bheith sásta go bhfuil sé/sí ábalta cur síos intuigthe a thabhairt ar a tharla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This normally takes the form of a general conversation with the child but does not involve the judge asking questions about the evidence the child is about to give</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór do leanaí atá ós cionn ceithre bliana déag d'aois mionn nó dearbhú a thabhairt i gcónaí ar mhaithe le fianaise a thabhairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>People with mental disabilities</seg></tuv>
+  <tuv xml:lang="ga"><seg>Daoine faoi mhíchumas intinne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>People with mental disabilities are dealt with in the exact same way as children under 14 years of age</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le duine faoi mhíchumas intinne fianaise a thabhairt i gcás coiriúil nó sibhialta gan aon mhionn ná dearbhú a thabhairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the Criminal Evidence Act 1992 and the Children Act 1997 if a court is satisfied that a person with a mental disability is capable of giving an intelligible account of the events which are relevant to the proceedings then the court may receive that evidence from the person without the oath</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach, ní mór don chúirt a bheith sásta go bhfuil sé/sí ábalta cur síos intuigthe a thabhairt ar a tharla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For more detailed information you should seek legal advice</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir duit comhairle dlí a lorg chun faisnéis mionsonraithe a fháil</seg></tuv>
+</tu>
+</body>
+</tmx>

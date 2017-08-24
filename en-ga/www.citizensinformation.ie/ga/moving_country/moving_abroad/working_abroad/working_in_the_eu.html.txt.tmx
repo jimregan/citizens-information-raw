@@ -1,0 +1,481 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Working in the EU</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag obair san AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• EU Directives on free movement of workers</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Treoracha de chuid an AE maidir le saorghluaiseacht oibrithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As a European Union (EU) citizen, you have the right to live and work in any other EU country</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shaoránach den Aontais Eorpaigh (AE), tá sé de cheart agat maireachtáil agus oibriú in aon cheann de thíortha an AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are an EU national or a dependant of such a national and you meet the requirements of the EU Directives on free movement of workers, you may not, in general, be refused permission to land in another EU country</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más saoránach den AE thú nó cleithiúnach saoránaigh agus má shásaíonn tú riachtanais Treoracha an AE maidir le saorthaisteal oibrithe, ní féidir, go ginearálta, diúltú duit dul i dtír in aon tír eile den AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may require a valid identity card or passport</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh cárta aitheantais bhailí nó pas ag teastáil uait</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may be refused entry and/or your right of residence in another member state may be restricted on grounds of public policy, public security, or public health</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfar a dhiúltú duit dul isteach i mballstát eile nó féadfar do cheart cónaithe i mballstát eile a dhiúltú duit ar fhorais beartais phoiblí, slándáil an phobail nó sláinte an phobail</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The rights outlined in this section broadly apply to the non-EU States in the European Economic Area, that is, Norway, Iceland and Liechtenstein, as well as to Switzerland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá na cearta a dtugtar sracléiriú orthu sa roinn seo infheidhme go ginearálta maidir leis na Ballstáit neamh-AE de chuid an Limistéir Eorpaigh Eacnamaíoch, is é sin, an Iorua, an Íoslann agus Lichtinstéin, chomh maith leis an Eilvéis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>EU Directives on free movement of workers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Treoracha de chuid an AE maidir le saorghluaiseacht oibrithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are an EU national moving to another EU country to take up employment or self-employment or to provide a service, the Directives cover you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más náisiúnach de chuid an AE tú atá ag aistriú go dtí tír eile de chuid an AE chun dul i mbun fostaíochta nó féinfhostaíochta nó chun seirbhís a sholáthar, tagann tú faoi chumhdach na dTreoracha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Members of your family, whatever their nationality, have the right to accompany you or to join you in your country of employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an ceart ag daoine de do theaghlach, cibé náisiúntacht atá acu, dul in éineacht leat nó dul amach chugat i dtír d’fhostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your family is defined as your spouse and your children who are under 21 years of age (or older if they are dependent on you) and their spouses, as well as your parents and your parents-in-law, if they are dependent on you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an míniú a thugtar ar do theaghlach ná do chéile agus do leanaí atá faoi bhun 21 bliain d’aois (nó níos sine más cleithiúnaithe de do chuidse iad) agus a gcéilí, mar aon le do thuismitheoirí agus tuismitheoirí do chéile, más cleithiúnaithe de do chuidse iad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your registered partner (and dependent relatives) is also entitled to move with you if the host member state treats registered partnerships as equivalent to marriage</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá do pháirtí cláraithe (agus gaolta cleithiúnacha) i dteideal freisin aistriú in éineacht leat má dhéileálann an ballstát is óstach le comhpháirtíochtaí cláraithe mar chomhpháirtíocht atá coibhéiseach leis an bpósadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The host member state must facilitate the entry and residence of other family members who do not have an absolute right to move but who are dependent on you or whose health is such that they require care by you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don bhallstát is óstach teacht isteach agus cónaí daoine eile den teaghlach, nach bhfuil láncheart acu aistriú ach atá ina gcleithiúnaithe de do chuidse nó go dteastaíonn do chúram uathu mar gheall ar a sláinte, a éascú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Member states must also facilitate the entry and resident the entry and residence of a partner with whom you have a durable relationship</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór do bhallstáit dul isteach agus cónaí páirtí lena bhfuil caidreamh buanseasmhach agat a éascú freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>EU citizens exercising their right to free movement are not required to have a residence card but their family members who are not themselves EU citizens may be required to have such a card</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní cheanglaítear ar shaoránaigh de chuid an AE a fheidhmíonn an ceart atá acu chun saorghluaiseachta cárta cónaithe a bheith acu ach féadfar a cheangal ar dhaoine dá dteaghlaigh nach saoránaigh de chuid an AE iad féin cárta den sórt sin a bheith acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If they wish to, your spouse, civil partner and children also have the right to work without restriction in your country of employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mian leo é, tá an ceart ag do chéile, do pháirtnéir sibhialta agus do leanaí dul i mbun oibre gan srianadh i dtír d’fhostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You and your family members have the right to the same social benefits as the nationals of the host member state</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an ceart agat agus ag na daoine de do theaghlach chun na sochar sóisialach céanna atá ag náisiúnaigh de chuid an bhallstáit is óstach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This includes the right to education access and benefits</seg></tuv>
+  <tuv xml:lang="ga"><seg>Folaíonn sin an ceart chun rochtain ar oideachas agus chun sochar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Members of your family who come from a non-EU country may be asked for an entry visa by the country of employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tír na fostaíochta víosa iontrála a iarraidh ar dhaoine de do theaghlach as tír neamh-AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This visa is granted quite easily and should be free of charge</seg></tuv>
+  <tuv xml:lang="ga"><seg>Deonaítear an víosa sin go héasca agus ba chóir go mbeidh sé saor in aisce</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are entitled to be recruited under the same conditions as nationals of the country in which you are seeking work and cannot be asked to meet any additional requirements</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé de cheart agat post a fháil faoi na coinníollacha céanna a bhaineann le saoránaigh den tír ina bhfuil tú ag lorg oibre inti agus ní féidir le fostóir aon riachtanais bhreise a éileamh ort</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that you can apply for any job vacancy advertised in any EU country, including public sector jobs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin is féidir leat iarratas a dhéanamh ar aon phost fógraithe in aon tír san AE, postanna sa rannóg phoiblí san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, certain public service posts may be restricted to nationals of a particular country where the job in question involves safeguarding public order or the interests of the state, for example, the armed forces and police</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach, d'fhéadfadh sé go mbeadh postanna faoi leith sa tseirbhís phoiblí teoranta chuig saoránaigh den tír ina bhfuileadar má tá cúram ord poiblí nó spéiseanna eile den stát, mar shampla, na forsaí cosanta agus na poilíní i gceist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Recognition of qualifications in the EU</seg></tuv>
+  <tuv xml:lang="ga"><seg>Aitheantas ar do chailíochtaí san AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some EU countries require diplomas, titles, certificates or other special qualifications as a condition for access to certain salaried and self-employed occupations</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn cuid de na tíortha san AE ag iarraidh go mbeadh dioplómaí, teidil, teastais nó cáilíochtaí eile speisialta ag daoine mar riachtanas iontrála chuig slithe beatha tuarastail nó féin-fhostaithe faoi leith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It can be difficult to have your own training and skills fully recognised</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is minic go mbíonn deacrachtaí ann aitheantas iomlán a fháil ar an oiliúint agus ar na scileanna atá agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The EU has therefore set up systems for recognising diplomas and training that enable you to make full use of your training and skills in another EU country</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá córas curtha i bhfeidhm mar sin ag an AE le haitheantas a thabhairt do dioplómaí agus d'oiliúint a chuireann ar do chumas úsáid iomlán a bhaint as an oiliúint atá ort agus as do scileanna i dtír eile de chuid an AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The basic principle is that if you are qualified to exercise a profession in your home country, you are qualified to exercise the same profession in any other EU country</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar bhunphrionsabal má tá cáilíocht ort i slí bheatha i do thír féin tabharfar aitheantas duit an tslí bheatha sin a leanúint in aon tír eile de chuid an AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A general system of recognition of qualifications that is applicable to most regulated professions has been put in place across the EU</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá córas ginearálta maidir le aitheantas a thabhairt do cháilíochtaí proifisiúnta curtha i bhfeidhm ar fud an AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>So, if you wish to work in a profession (as a teacher, lawyer, engineer or psychologist, for example) that is regulated in the country of employment, you must apply for recognition of your qualifications in that country</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin más mian leat dul ag obair i ngairm faoi leith (múinteoir, innealtóir, síceolaí, mar shampla) a bhfuil rialacha ag baint leis sa tír ina bhfuil tú le bheith fostaithe inti ní mór duit iarratas a dhéanamh ar aitheantas a fháil sa tír sin ar na cáilíochtaí atá agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The authorities have 4 months in which to reply</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór do na húdaráis scéal a chur chugat maidir le d'iarratas taobh istigh de cheithre mhí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If they consider that your training is significantly different in terms of duration or content from that given in the host country, you may be asked to obtain either additional professional experience completing your training, or to take a training course or to take an aptitude test</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má cheapann siad go bhfuil difríocht mhór idir an oiliúint a cuireadh ortsa i dtaobh fad agus ábhair ón oiliúint a cuirtear ar fáil sa tír sin, d'fhéadfadh sé go mbeadh ort taithí phroifisiúnta bhreise a fháil le cur leis an oiliúint, nó cúrsa traenála a dhéanamh nó fiú scrúdú mianaigh a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are a doctor, a general nurse, a dentist, a midwife, a vet, a pharmacist or an architect, your national qualifications are in principle recognised automatically</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más dochtúir, banaltra ghinearálta, fiaclóir, bean chabhartha, tréidlia, poitigéir nó ailtire thú is iondúil go dtugtar aitheantas ar an bpointe do do chuid cáilíochtaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your profession is not regulated in the country in which you wish to work, no recognition of your qualifications is required</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna bhfuil rialacha faoi leith ag baint le do shlí bheatha sa tír ina bhfuil spéis agat oibriú inti, ní gá aitheantas ar do chuid cáilíochtaí a lorg</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Looking for a job in the EU</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag lorg fostaíochta san AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The EURES network was established by the European Commission to help European citizens looking for work in another country in the EU/EEA</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bhunaigh Coimsiún na hEorpa an gréasán EURES le cabhrú le saoránaigh Eorpacha atá ar lorg oibre i dtír eile san AE/LEE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>EURES has a network of advisers, known as EURES advisers, who can give you general practical information on legislation, social security, living conditions, useful addresses, information on pay levels, taxes, contracts, recruitment practices, etc</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá gréasán de chomhairleoirí an EURES, ar a dtugtar comhairleoirí EURES, ar féidir leo eolas praicticiúil a thabhairt duit ar reachtaíocht, leas sóisialta, dálaí maireachtála, seoltaí úsáideacha, eolas ar leibhéil íocaíochta, chánacha, chonarthaí, nósanna earcaíochta, srl</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They also have access to the EURES job vacancies database with vacancies in the EU/EEA</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá rochtain acu fosta chuig bunachar sonraí folúntais oibre EURES le folúntais san AE /LEE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are interested in working or seeking work within the EU/EEA, make an appointment with your nearest EURES advisor</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más suim leat a bheith ag obair nó a bheith ar lorg oibre san AE/LEE, déan coinne le do chomhairleoir EURES is cóngaraí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Contact your nearest employment services office or Intreo centre for more information</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déan teagmháil le d' oifig seirbhísí fostaíochta nó ionad Intreo is congaraí chun tuilleadh eolais a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can access the EURES job vacancies database yourself from the EURES site</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat dul isteach ar bhunachar sonraí folúntais oibre EURES tú féin ón láithreán EURES</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Each vacancy in the database is provided with contact details at the bottom of the page</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn sonraí teagmhála ann le gach folúntas sa bhunachar sonraí ar bhun an leathanaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are unemployed, you have the right to live in another EU country for a "reasonable period" of time in order to look for a job</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más duine dífhostaithe thú tá sé de cheart agat maireachtáil ar feadh "tréimhse réasúnta" i dtír eile den AE le deis a thabhairt duit post a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the absence of a definition of "reasonable period", most EU countries are now operating a 6-month period, though some EU countries are still operating a 3-month period</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna bhfuil aon tréimhse faoi leith leagtha síos ag tír mar "thréimhse réasúnta" is iondúil gur tréimhse de shé mhí a chuireann tíortha den AE i bhfeidhm, cé go bhfuil cuid acu fós ag cur tréimhse de 3 mhí i bhfeidhm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are advised to check the exact situation with the national authorities of the EU country in which you are looking for work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is fearr an scéal a fhiosrú leis na húdaráis chuí sa tír ina bhfuil tú ag dul ag lorg oibre inti</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, no matter how long you have to look for a job, you cannot be asked to leave the country if you can prove that you are genuinely looking for a job and that you have a real chance of finding one</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach, is cuma cén fhad a thugtar duit post a lorg ní féidir iarraidh ort an tír a fhágáil más féidir leat a chruthú go bhfuil tú i ndáiríre ag lorg fostaíochta agus go bhfuil seans mhaith ann go dtiocfaidh tú ar an bpost sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, you have still got interviews or tests to attend</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, d'fhéadfadh sé go mbeadh agallaimh nó scrúduithe socraithe agat le freastal orthu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can register at employment agencies and centres without being resident in the country in which you wish to work and you will be given the same help to find work as nationals of that country</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat clárú le heagraíochtaí agus le hionaid fhostaíochta i dtír fiú muna bhfuil cónaí agat inti más mian leat dul ag obair sa tír sin agus cuirfear an cúnamh céanna ar fáil duit agus a fhaigheann saoránaigh na tíre sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Transferring your unemployment benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag aistriú sochair dífhostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are drawing unemployment benefit in one member state, you may continue to draw benefit from that same country for up to 13 weeks after you move to another member state</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá sochar dífhostaíochta dhá íoc leat i mballstát amháin, is féidir leanúint ort leis an sochar sin a fháil ón tír chéanna ar feadh 13 sheachtain tar éis duit imeacht chuig ballstát eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is provided that you have been available to the employment services in the country where you have been drawing unemployment benefit for at least 4 weeks</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocfar an sochar ar an gcoinníoll go raibh tú ar fáil do na seirbhísí fostaíochta sa tír ina raibh tú ag fáil an tsochair ar feadh, ar a laghad, 4 sheachtain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you apply to transfer your benefit it will be paid directly to you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má iarrann tú do shochar a aistriú thar lear íocfar é leat go díreach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will still be required to register with the employment services of the country where you have gone to look for work within a week</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit clárú leis na seirbhísí fostaíochta sa tír ina bhfuil tú ar lorg oibre laistigh seachtain amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Also you may now transfer your benefit more than once while you are unemployed provided you do not exceed the maximum period of 13 weeks</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat do shochar a aistriú níos mó ná uair amháin agus atá tú dífhostaithe freisin ar choinníoll nach dtéann tú thar an uasteorainn 13 seachtaine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you do not find work, you must return to the first country within 3 months, otherwise you will lose your right to unemployment benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura n-éiríonn leat obair a fháil, ní mór duit taobh istigh de 3 mhí, filleadh ar an gcéad tír nó caillfidh tú an cead sochar dífhostaíochta a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are leaving Ireland to move to Northern Ireland or Britain your Social Welfare Local Office will issue you with the Form U2 (formerly Form E303) which you take to the UK social services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ag fágáil Éireann chun bogadh go Tuaisceart Éireann nó an Bhreatain, eiseoidh d'Oifig Áitiúil Leasa Shóisialaigh Foirm U2 (Foirm E303 roimhe seo) duit chun é a thógáil go dtí na seirbhísí sóisialta RA</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are moving to another EU country the Department of Social Protection will send the U2 form to your new address in that EU country</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhogann tú go tír eile san AE, seolfaidh an Roinn Coimirce Sóisialaí foirm U2 chuig do sheoladh nua sa tír AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As an EU national working in another EU country you have the right to live there</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shaoránach de thír amháin den AE atá ag obair i dtír eile den AE tá sé de cheart agat maireachtáil sa tír sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are not required to have a residence permit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl ort ceadúnas cónaithe a fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are subject to the same working conditions as nationals of the country you are working in as regards, for example, pay, dismissal, hours of work, maternity leave and health and safety at work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann na coinníollacha oibre céanna leat agus a bhaineann le saoránaigh na tíre eile, maidir le, mar shampla, pá, briseadh ón bpost, uaireanta oibre, saoire mháthaireachais, sláinte/sábháilteachas sa láthair oibre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are also subject to the same conditions as nationals of the host country with regard to the principles of equality between men and women</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann na rialacha céanna leat freisin agus a bhaineann le saoránaigh na tíre maidir le cothromaíocht idir fir agus mná</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The basic aim of EU policy is to ensure that you are part of a social security system and that you do not lose your rights, regardless of the member state you decide to work in</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé mar bhunaidhm ag polasaí an AE cinntiú go bhfuil tú clúdaithe ag córas sóisialach agus nach gcailleann tú do chearta, is cuma cén ballstát a roghnaíonn tú le dul ag obair ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In principle, you are insured for social security purposes in the country you work in</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go bunúsach bíonn árachas sóisialta agat i bpé tír ina bhfuil tú ag obair inti</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You, and in certain circumstances, your family are entitled to the same social security benefits as nationals of the country in which you work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn tú agus, i gcásanna áirid, do theaghlach, i dteideal na sochar céanna faoin gcóras árachais shóisialta agus atá saoránaigh na tíre ina bhfuil tú ag obair inti</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These rights cover sickness and maternity benefits, disability, old-age and survivor's benefits, benefits payable for accidents at work, occupational illness, death and unemployment, as well as family allowances</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann na cearta seo le híocaíochtaí i gcás tinnis, máthaireachais, míchumais, seanaoise agus do mharthanóirí, sochair a íoctar tar éis timpiste ag an obair, tinneas ceirde, sochair bháis agus dífhostaíochta, chomh maith le liúntais teaghlaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are required to pay the same level of contributions as host country nationals</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá ort na ranníocaíochtaí céanna a íoc agus a íocann saoránaigh de chuid na tíre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You cannot be excluded from benefits on grounds of nationality, for reasons of residence, or for any other discriminatory reason</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir ar chúinsí náisiúntachta, ar chúiseanna a bhaineann le áit chónaithe, ná ar aon chúis leatroime eile diúltú sochair a íoc leat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find more information in our document, Leaving Ireland and your social security entitlements</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh eolais ar fáil inár ndoiciméad, Do chearta leasa shóisialta agus tú ag fágáil Éireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>By working in another member state and by transferring your residence there, you are likely to become "resident for tax purposes" there</seg></tuv>
+  <tuv xml:lang="ga"><seg>Trí bheith ag obair i mballstát eile agus trí aistriú ansin mar áit chónaithe, is dóigh go dtiocfaidh tú chun “cónaí chun críocha cánach” ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The definition of fiscal residence varies from one member state to another</seg></tuv>
+  <tuv xml:lang="ga"><seg>Athraíonn an míniú ar chónaí fioscach ó bhallstát amháin go ballstát eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must comply with the laws of the country where you have established your residence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit dlíthe na tíre inar bhunaigh tú d’áit chónaithe a chomhlíonadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The laws on personal taxation vary considerably from one member state to another and you may be liable for taxation in more than one country</seg></tuv>
+  <tuv xml:lang="ga"><seg>Athraíonn na dlíthe maidir le cánachas pearsanta go mór ó bhallstát amháin go ballstát eile agus féadfaidh tú a bheith faoi dhliteanas cánach i níos mó ná tír amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In general, you are subject to income tax in the country where you are living but this may not be the case if you are a “posted worker” – see below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, tá tú faoi réir cánach sa tír ina bhfuil tú i do chónaí ach b’fhéidir nach amhlaidh a bheidh an cas más “oibrí atá curtha go dtí Ballstát eile” tú – féach thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In general, property is taxed in the country in which it is situated but, again, there are variations</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, gearrtar cáin ar mhaoin sa tír ina bhfuil sí suite ach, arís, tá éagsúlachtaí ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Tax agreements have been concluded between most of the member states of the EU, which are intended to avoid double taxation, if you derive income from different countries</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá comhaontaithe cánacha ann idir an cuid is mó den ballstáit an AE ar mhaithe le dliteanas cánach dúbailte a sheachaint, má bhíonn ioncam agat ó thíortha eagsúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In general, national fiscal rules must respect the fundamental principle of non-discrimination against nationals of another EU country</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, ní mór do na rialacha fioscacha náisiúnta aitheantas a thabhairt don bhunphrionsabal i gcoinne leatroime ar shaoránaigh de thír eile den AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Workers posted to another EU country</seg></tuv>
+  <tuv xml:lang="ga"><seg>Oibrithe a sannadh chuig tír eile den AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You have certain specific rights if you are a posted worker, that is, you work for a limited period of time in a member state other than the one where you normally work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá cearta faoi leith agat má sanntar chuig tír eile thú ag obair, sin le rá go n-oibríonn tú ar feadh tréimhse teoranta i mballstát eile seachas an ceann ina mbíonn tú ag obair ann de ghnáth</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are to be posted for a period of more than a month, your employer must inform you in writing, before you leave, of your pay and working conditions while you are abroad</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más tréimhse de níos faide ná mí atá i gceist ní mór don fhostóir a chur in iúl duit i scríbhinn, roimh imeacht duit, cén pá agus coinníollacha oibre a bheidh agat an fhad agus a bhíonn tú ag obair thar lear</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will usually remain affiliated to the social security system of your country of origin</seg></tuv>
+  <tuv xml:lang="ga"><seg>De ghnáth leanfaidh tú de bheith cleamhnaithe le córas slándála sóisialaí do thíre tionscnaimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may pay income tax in that country as well but the situation varies between member states</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit cáin ioncaim a íoc sa tír sin chomh maith ach athraíonn cúrsaí idir na ballstáit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find out more about social security for posted workers in this guide or see 'further information’ below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sonraí ar fáil faoi theidlíochtaí sláinte agus leasa shóisialta sa Tuilleadh eolais' thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Freedom to provide services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Saor le seirbhísí a chur ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may choose to offer your services in another EU country without establishing yourself there permanently</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh sé go mbeadh tú ag iarraidh do chuid seirbhísí a chur ar fáil i dtír eile den AE ach nach mbeadh gnáthchónaí buan ort sa tír sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you comply with the rules of the profession or trade that apply in your own country, you can, in principle, offer those services anywhere else in the EU</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má shásaíonn tú na rialacha a bhaineann leis an ngairm nó ceird atá leagtha síos i do thír féin, is féidir leat, i bprionsabal, na seirbhísí sin a chur ar fáil in aon áit eile san AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can travel to assist clients located in another EU country or you can provide paid services from your country of residence without travelling there</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat taisteal le cúnamh a thabhairt do chustaiméirí atá lonnaithe i dtír eile den AE nó is féidir leat seirbhísí a chur ar fáil ar íocaíocht ó do thír chónaithe féin gan taisteal ar chor ar bith chuig an tír eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are a cross-border commuter (also known as a cross-border or frontier worker) if you live in one EU country but work in another and you go home at least once a week</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is comaitéir trasteorainn thú má chónaíonn tú i dtír amháin den AE agus má oibríonn tú i gceann eile ach má fhilleann tú ar an mbaile ar a laghad uair sa tseachtain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As a cross-border worker, you must be treated in the same way as an employee who is a national of the country of employment as regards the right to apply for jobs, working conditions and social benefits</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar oibrí trasteorainn ní mór caitheamh leat ar an mbealach céanna le fostaí gur saoránach den tír ina bhfuil sé/sí fostaithe maidir le cearta iarratais a dhéanamh ar phostanna, coinníollacha oibre agus sochair shóisialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Therefore, the general rule is that you pay social security contributions in the member state where you are employed and you are subject to the legislation of that state even if you live in another member state</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin, go ginearálta íocann tú ranníocaíochtaí árachais shóisialaigh leis an mballstát ina bhfuil tú fostaithe agus baineann an reachtaíocht sa stát sin leat fiú má chónaíonn tú i mballstát eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>With regard to benefits, generally you get short-term benefits from the state where you last paid insurance and long-term benefits proportionately from all the countries in which you paid insurance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Maidir le sochair, go ginearálta faigheann tú sochair ghearr-théarmacha ón Stát inár íoc tú árachas go deireanach agus sochair fhad-théarmacha i gcomhréir ó na tíortha uilig ina raibh tú ag íoc árachais iontu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For cross-border workers, the rule in relation to unemployment benefit is as follows:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seo a leanas na rialacha a bhaineann le sochair dífhostaíochta do chomaitéirí trasteorainn:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• During partial or intermittent unemployment you get your benefit from the country of employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Más tréimhse dífhostaíochta páirt-aimseartha nó sealadach atá i gceist íocann an tír ina bhfuil tú ag obair inti sochar dífhostaíochta leat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• During periods of being wholly unemployed, you get your benefit from the country of residence</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Más tréimhse dífhostaithe fadthéarmach atá i gceist íocann an tír ina chónaíonn tú sochar dífhostaíochta leat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>So, for example, if you are living in the State and working in Northern Ireland you can claim Jobseeker’s Benefit from your local social welfare office or Intreo centre, if you lose your job</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, má tá tú i do chónaí sa Stát, ag obair i dTuaisceart na hÉireann agus má chailleann tú do phost, is féidir iarratas ar Shochar Cuardaitheora Poist do d’oifig leasa shóisialaigh áitiúil nó d’ionad Intreo a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are employed or self-employed in 2 member states, you pay social security contributions in the state where you live</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú fostaithe nó féin-fhostaithe i 2 bhallstáit, is féidir leat ranníocaíochtaí árachais shóisialaigh a íoc sa tír ina bhfuil cónaí ort inti</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Border People website is a source of information for people living in the border counties of Ireland and elsewhere in the island of Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is an suíomh gréasáin Border People é foinse faisnéise do dhaoine atá ina gcónaí sna contaetha trasteorann na hÉireann agus in áit eile san oileán Éireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It provides cross-border mobility information on taxation, social security and job seeking, health and education as well as banking, housing and telecommunications</seg></tuv>
+  <tuv xml:lang="ga"><seg>Soláthraíonn sé faisnéis soghluaisteachta trasteorann maidir le cáin, slándáil shóisialach agus lorg oibre, sláinte agus oideachas, chomh maith le baincéireacht, tithíocht agus teileachumarsáide</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The information is about rights and entitlements in Northern Ireland and Ireland with sections about living, working and studying both north and south of the border</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an fhaisnéis le haghaidh cearta agus teidlíochtaí i dTuaisceart Éireann agus in Éirinn agus tá rannáin maidir le cónaí, obair agus staidéir sa tuaisceart agus sa deisceart an teorainn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is also a list of frequently asked questions on topics such as motoring, employment, tax, healthcare, consumer and social welfare</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá liosta ceisteanna coitianta freisin faoi ábhair, mar shampla, gluaisteánaíocht, fostaíocht, cáin, cúram sláinte, tomhaltóirí agus leas sóisialach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For information about your rights in the European Union you can contact:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun faisnéis faoi do chearta san AE a fháil, is féidir dul i dteagmháil le:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>European Commission Representation in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Oifig an Choimisiúin Eorpaigh in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Tel:+353 1 634 1111</seg></tuv>
+  <tuv xml:lang="ga"><seg>Teil:+353 1 634 1111</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Fax:+353 1 634 1112</seg></tuv>
+  <tuv xml:lang="ga"><seg>Facs:+353 1 634 1112</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are a posted worker if your employer sends you to work in another country on a temporary basis</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chuireann d’fhostóir in Éirinn thú ag obair go sealadach i dtír eile den LEE, tugtar oibrí sannta ort</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The period of the posting is a maximum period of 24 months</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an tréimhse sannta suas le 24 mhí (12 mhí roimhe seo)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are posted to another EEA state or Switzerland you have certain rights as follows:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má shanntar chuig tír eile den LEE nó Eilvéis tá teidlíochtaí áirithe agat mar a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As a posted worker you generally will continue to pay your social security contributions in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má oibrí sannta thú, de ghnáth leanfaidh tú do chuid ranníocaíochtaí slándála sóisialaí in Éirinn a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should apply for an A1 (formerly E101) certificate which states that you are insured for social security purposes in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir duit iarratas a dhéanamh ar theastas A1 (E101 roimhe seo) a sonraíonn go bhfuil tú clúdaithe faoi árachas sóisialach in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This will exempt you and your employer from paying social insurance in the country to which you are posted</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh tú agus d’fhostóír díolmhaithe ó árachas sóisialach a íoc sa tír in atá tú sannta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>At least 4 weeks before you leave you or your employer should apply for the AI certificate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh tú ó d’fhostóir iarratas a dhéanamh ar theastas A1 4 seachtain roimh d’imeacht ar a laghad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can download the application form for an A1 (pdf) and it is also available from the PRSI Special Collections Section of the Department of Social Protection (DSP)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an fhoirm iarratais ar fáil anseo (pdf) agus ón Rannóg Bailithe Speisialta ÁSPC den Roinn Coimirce Sóisialaí (RCS)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you get the A1 certificate you will continue to pay your PRSI contributions in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a fhaigheann tú an teastas A1, leanfaidh tú do ranníocaíochtaí ÁSPC in Éirinn a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are further details about PRSI and posted workers on the DSP website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá níos mó sonraí faoi oibrithe sannta agus ÁSPC ar an suíomh gréasáin RCS</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The European Health Insurance Card (EHIC) replaced forms such as the E111 and the E128, making it easier for you to get medical care quickly and easily</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tháinig Cárta Eorpach Árachas Sláinte (CEAS) in ionad an E111 agus an E128 agus cóir leighis le fáil thapa na córa leighis a éascú duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is evidence that you are part of a health insurance scheme administered by another state in the EEA/Switzerland</seg></tuv>
+  <tuv xml:lang="ga"><seg>B’fhianaise í gur bhall de scéim árachais sláinte tú atá á riar ag stát éigin eile sa LEE nó Eilvéis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An S1 portable document (formerly E106) ensures that you have the same health entitlements in the state to which you are being posted, as are available to nationals of that state</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áiritheoidh an S1 doiciméad iniompartha (E106 roimhe seo) go mbeidh na teidlíochtaí céanna agat sa stát ina seoltar thú, mar atá ar fáil do náisiúnach den stát sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Before you go to another EU state, you should contact your Local Health Office to obtain an S1</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sula dtéann tú go stát AE eile, ba chóir duit dul i dteagmháil le d'Oifig Áitiúil Sláinte chun S1 a fháil</seg></tuv>
+</tu>
+</body>
+</tmx>

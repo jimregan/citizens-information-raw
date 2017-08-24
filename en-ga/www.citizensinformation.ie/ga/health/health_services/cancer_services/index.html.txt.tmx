@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Health services and supports available to people who are living with cancer</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seirbhísí Sláinte atá ar fáil do dhaoine ag fulaingt le hailse in Éireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>BowelScreen: The National Bowel Screening Programme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Teideal: BowelScreen: An Clár Náisiúnta Scagthástála Putóige</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>BowelScreen is the national bowel screening programme for the early detection and treatment of bowel cancer</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é BowelScreen an clár náisiúnta putóige do luathbhrath agus cóireáil ailse phutóige</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>BreastCheck is the national breast screening programme aimed at the early detection and treatment of breast cancer</seg></tuv>
+  <tuv xml:lang="ga"><seg>Clár náisiúnta scagthástála cíche é BreastCheck. Tá sé mar aidhm ag an gclár ailse chíche a bhrath go luath agus cóir leighis a chur ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>CervicalCheck: The National Cervical Screening Programme</seg></tuv>
+  <tuv xml:lang="ga"><seg>CervicalCheck: An Clár Scagthástála Ceirbheacs Náisiúnta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Find out about the Cervical Screening Programme and how to check if you are registered for screening</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigh amach tuilleadh faoin Chlár agus conas a fhaigh amach an bhfuil tú cláraithe le haghaidh Scagthástála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Palliative care aims to provide the best quality of life possible for patient and family when there is no medical expectation of a cure</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé mar aidhm aige an caighdeán saoil is fearr gur féidir a sholáthar don othar agus don teaghlach nuair nach bhfuil aon súil ag lucht leighis go dtiocfaidh biseach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most Read in "Health"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ábhar is mó éilimh i "Sláinte"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Admission to a psychiatric hospital</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ospidéal síciatrach a iontráil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Medical card means test: aged under 70</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tástáil mhaoine cárta leighis: daoine faoi bhun 70 bliain d’aois</seg></tuv>
+</tu>
+</body>
+</tmx>

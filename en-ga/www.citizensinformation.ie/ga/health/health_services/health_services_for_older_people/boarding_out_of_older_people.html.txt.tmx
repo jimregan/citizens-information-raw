@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>The Health Service Executive (HSE) may make arrangements for the boarding out of dependent people in a private house and for payment for all or part of the costs. The Boarding Out Scheme is not available in all areas</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh Feidhmeannacht na Seirbhíse Sláinte (FSS) socruithe a dhéanamh i gcomhair lóistín sheachtrach do dhaoine cleithiúnacha i dteach príobháideach agus íoc as an gcostas iomlán, nó cuid de</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The HSE must satisfy itself that the house is suitable for the person to be boarded out and that the householder is a fit person to look after the person in question</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh Feidhmeannacht na Seirbhíse Sláinte (FSS) a bheith sásta go bhfuil an teach feiliúnach don duine a bheidh ina lóistóir seachtrach agus gur duine stuama é/í an sealbhóir tí, chun breathnú amach don duine atá i gceist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The householder must provide suitable and sufficient care, nutritious and varied food, and adequate attendance, having regard to the needs of the person</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh an sealbhóir tí cúram feiliúnach agus dóthaineach a chur ar fáil, bia cothaitheach agus éagsúil agus freastal atá oiriúnach, ag tógáil san áireamh riachtanais an duine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He or she must also respect the privacy of the person boarded out</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh sé/í ómós a thabhairt do phríobháideachas an duine atá ar lóistín seachtrach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Not more than six people can be boarded out in one house</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir le níos mó ná seisear a bheith ar lóistín seachtrach in aon teach amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Regulations set out standards as to accommodation, cleanliness, safety and other related matters</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagann na Rialacháin síos caighdeáin maidir le cóiríocht, glaineacht, sabháilteacht agus aon ní eile a bhaineann leis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The HSE pays the householder an amount of not more than half the weekly rate of State Pension (non-contributory) payable at the time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocann an FSS suim leis an sealbhóir tí, nach bhfuil níos mó ná leath an ráta sheachtainiúil don phinsean sean aoise (neamhranníocach), atá dhá íoc ag an am</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In addition, the person boarded out must pay an amount as agreed with the HSE and the householder</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, caithfidh an duine atá ar lóistín seachtrach suim a íoc atá aontaithe leis an FSS agus leis an sealbhóir tí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A person boarded out (or somebody acting on his or her behalf) may make a complaint to the Local Health Office in relation to any matter concerning the residence or the maintenance, care and welfare of the person</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le duine atá ar lóistín seachtrach (nó duine éigin atá ag feidhmiú thar a c(h)eann), gearán a dhéanamh leis an Oifig Sláinte Áitiúil, maidir le aon rud a bhaineann leis an áras nó le cothabháil, cúram agus leas an duine</seg></tuv>
+</tu>
+</body>
+</tmx>

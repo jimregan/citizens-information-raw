@@ -1,0 +1,313 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Student visas to study in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Víosaí do mhic léinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Travelling to Ireland for study</seg></tuv>
+  <tuv xml:lang="ga"><seg>Taisteal go hÉirinn le staidéar a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Citizens of certain countries who wish to pursue a course of study in Ireland must apply for a visa to enter Ireland before they travel here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór do shaoránaigh ó thíortha áirithe atá ag iarraidh leo cúrsa léinn a dhéanamh in Éirinn iarratas a dhéanamh ar víosa le teacht go hÉirinn sula dtagann siad anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Information on those who need an entry visa is available in our document: Visa requirements for entering Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an fhaisnéis ar iad siúd nach a bhfuil gá le víosa iontrála ar fáil sa doiciméad: Riachtanais víosa le teacht isteach in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are a non-EEA national coming to study in Ireland you must be enrolled in a full-time course on the Interim List of Eligible Programmes (ILEP)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú neamh-LEE náisiúnach ag teacht chun staidéar a dhéanamh in Éirinn caithfidh tú a bheith cláraithe i gcúrsa lánaimseartha ar an Liosta Eatramhach de Chláir Incháilithe (ILEP)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find out more in our document on the immigration rules for non-EEA students</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat tuilleadh a fháil amach inár ndoiciméad maidir leis na rialacha inimirce do mhic léinn neamh-LEE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Visa applicants must apply online for their visa - see 'How to apply'</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór d'iarratasóirí víosa iarratas ar-líne le haghaidh a n víosa (féach 'Conas iarratas a dhéanamh')</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you wish to study in Ireland for less than 3 months you should apply for a 'C study visa'</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir duit cur isteach ar ‘Víosa Staidéar C’ má tá sé ar intinn agat staidéar a dhéanamh in Éirinn ar feadh tréimhse níos lú ná trí mhí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your course lasts longer than 3 months, you should apply for a 'D study visa'</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir duit cur isteach ar ‘Víosa Staidéar D’ má leanfaidh do chúrsa ar aghaidh níos faide ná trí mhí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will need to provide the following with your visa application</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh ort na nithe seo a leanas a sholáthar mar aon le d’iarratas ar víosa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(Please remember, original documents are required and must be in English or accompanied by a notarised translation):</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Ná déan dearmad le do thoil go bhfuil cáipéisí bunaidh ag teastáil agus go gcaithfidh siad a bheith as Béarla nó aistriúchán deimhnithe ag nótaire a bheith leo):</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Letter of acceptance from a recognised school/college/university in Ireland confirming that you have been accepted on a course of study</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Litir ó scoil/coláiste/ollscoil aitheanta in Éirinn ag dearbhú gur glacadh leat le haghaidh cúrsa staidéir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This course of study must be full-time (lasting an academic year) and have a minimum of 15 hours per week study time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh an cúrsa staidéir a bheith lánaimseartha (a mhairfidh ar feadh na bliana acadúla) agus ní mór 15 uaire staidéir ar a laghad a bheith i gceist in aghaidh na seachtaine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Evidence of your academic ability to pursue the chosen course through the English language (unless it is an English language course)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cruthúnas go bhfuil sé d’acmhainn acadúil ionat an cúrsa a roghnaigh tú a dhéanamh trí mheán an Bhéarla (ach amháin más cúrsa Béarla atá ann)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Evidence that the fees for the course have been paid in full</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Fianaise gur íocadh na táillí i leith an chúrsa ina n-iomláine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Evidence that you have enough funds (€7,000) to maintain yourself for the initial part of your stay</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Fianaise go bhfuil go leor airgid agat (€7,000) chun tú féin a chothú i rith chéad chuid na thréimhse a chaithfidh tú anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Evidence that you or a sponsor have access to at least €7,000 for each subsequent year of your studies, in addition to the course fees for each of those years</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Fianaise go bhfuil sé ar do chumas nó ar chumas urra €7,000 ar a laghad a rochtain gach bliain ina dhiaidh sin mar aon le costas táillí na gcúrsaí gach aon bhliain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Evidence that you have private medical insurance</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Fianaise go bhfuil árachas míochaine príobháideach agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• An explanation of any gaps in your educational history</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Míniú faoi aon bhearna a bhí i do chuid cúrsaí staidéir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Confirmation that you intend to return to your country of permanent residence when you leave Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Dearbhú go bhfuil sé ar intinn agat filleadh ar do thír bhuanchónaí nuair a fhágann tú Éire</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Remember, the granting of a student visa to study in Ireland does not confer the automatic right of anyone to join or visit you in Ireland (whether they are a relative or not)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ná déan dearmad, má thugtar víosa mic léinn duit le staidéar a dhéanamh in Éirinn nach dtugann sé seo aon cheart as féin d’aon duine eile teacht leat nó cuairt a thabhairt ort in Éirinn (bíodh an té sin gaolmhar leat nó ná bíodh)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will find more detailed information on the exact requirements for a student visa on the website of the Irish Naturalisation and Immigration Service of the Department of Justice and Equality</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir teacht ar faisnéis mhionsonraithe faoin a bhfuil ag teastáil chun víosa mic léinn a fháil ar láithreán gréasáin Seirbhís Eadóirseachta agus Inimirce na hÉireann de chuid na Roinne Dlí agus Cirt agus Comhionannais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If I don't need an entry visa to enter Ireland, do I need a student visa to study?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Murar gá dom víosa le dul go hÉirinn an gá dom víosa mic léinn le staidéar sa tír?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you do not require an entry visa to enter Ireland, you do not require a student visa to study in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil víosa iontrála riachtanach duit le teacht go hÉirinn ní gá víosa mic léinn le staidéar a dhéanamh anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, all non-EEA nationals, including those with visas, must obtain permission to enter the State by reporting to an Immigration Officer at the port of entry</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór do gach duine nach náisiúnach de chuid LEE é nó í, lena n-áirítear daoine le víosaí, cead a fháil teacht isteach sa stát agus é sin a dhéanamh trí dhul i dteagmháil le hOifigeach Inimirce ag an bport iontrála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(The members of the EEA are the 28 countries of the European Union (EU), together with Iceland, Norway and Liechtenstein)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Is iad 28 tír an Aontais Eorpaigh (AE) mar aon leis an Íoslainn, an Iorua, agus Lichtinstéin na tíortha LEE)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should have all documentation relating to your studies on your person when coming through immigration</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir gach cáipéis a bhaineann le do chuid staidéir a bheith agat nuair a thagann tú tríd inimirce</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In other words, you should have your letter of offer of a place at the school, or educational institution ready for inspection at immigration</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é sin le rá gur chóir duit do litir, nó an tairiscint a fuair tú faoi áit a bheith agat i scoil nó in institiúid oideachais, a bheith ullamh agat chun go ndéanfaidh na hoifigigh inimirce í a iniúchadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can read more in our document on permission to land in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú tuilleadh a léamh inár ndoiciméad faoi cead tuirlingthe in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Students from a non-EEA country who intend studying in Ireland for a period of more than 3 months must register, after they arrive, with the local immigration officer for the district in which they are living (Burgh Quay Registration Office if living in Dublin)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Maidir le mic léinn ó thíortha nach tíortha LEE iad, agus ar mian leo staidéar a dhéanamh in Éirinn ar feadh tréimhse níos faide ná trí mhí, ní mór dóibh clárú le hoifigeach inimirce an cheantair sin ina bhfuil siad ina gcónaí. (Is é sin Oifig Chlárúcháin Cé an Bhúrcaigh má tá cónaí orthu i mBaile Átha Cliath)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Their passport will be endorsed with the conditions and period of time for which they have permission to remain</seg></tuv>
+  <tuv xml:lang="ga"><seg>Formhuineofar a bpasanna leis na coinníollacha faoina bhfuil cead acu fanacht agus an tréimhse ama atá i gceist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Students who do not require a visa must have €3,000 when they first register</seg></tuv>
+  <tuv xml:lang="ga"><seg>Maidir le mic léinn nach bhfuil víosa de dhíth acu, ní mór dóibh €3000 a bheith acu nuair atá siad ag clárú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Information on what documentation students require when applying for permission is available on the website of the Irish Naturalisation and Immigration Service (INIS)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir eolas faoi na doiciméid atá riachtanach do mhic léinn nuair atá cead á iarraidh acu a fháil ar láithreán gréasáin Sheirbhís na hÉireann um Eadóirseacht agus Inimirce</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Non-EEA students coming to Ireland for the first time may not get permission to remain in Ireland if they have their children with them, or intend their children to join them later on</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir le mic léinn neamh-LEE ag teacht go hÉirinn don chéad uair cead fanachta in Éirinn má tá a gcuid leanaí leo, nó ar intinn acu a gcuid páistí a bheith páirteach leo níos déanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is more information about the children of non-EEA students on the INIS website (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh eolais faoi na páistí na mac léinn neamh-LEE ar shuíomh gréasáin SEIÉ (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find out how to register in our document on Registration of non-EEA nationals in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú a fháil amach conas clárú inár ndoiciméad faoi Clárú náisiúnach nach náisiúnaigh de chuid LEE iad in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Access to employment while in Ireland on a student visa</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fostaíocht a fháil nuair atá tú in Éirinn ar víosa mic léinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are attending a course on the Interim List of Eligible Programmes (ILEP) you will have stamp number 2 endorsed on your passport when you register with your local immigration officer</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tú ag freastal ar chúrsa ar an Liosta Eatramhach de Chláir Incháilithe (ILEP), beidh stampa uimhir a 2 formhuinithe ar do phas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will be allowed to take up casual employment of up to 20 hours part-time work per week in term time or up to 40 hours per week during college vacation periods, that is, from June to September inclusive and from 15 December to 15 January</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh cead agat breacfhostaíocht de suas go dtí 20 uair sa steachtain in am téarma agus 40 uair sa tseachtain i dtréimhsí saoire choláiste, is é sin, ó Meitheam go Meán Fómhair cuimsitheach agus ó Nollaig 15 go Eanáir 15</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your entitlement to take up employment ceases when your permission to remain expires</seg></tuv>
+  <tuv xml:lang="ga"><seg>Scoirfidh do theidlíocht i mbun fostaíochta nuair éagann do chead fanachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are not attending such a course, you will not be entitled to take up part-time work or engage in any business or profession</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil tú ag freastal ar a leithéid de chúrsa, ní bheidh tú i dteideal obair pháirtaimseartha nó dul i mbun aon ghnó nó aon ghairm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will get stamp number 2A on your passport</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gheobhaidh tú stampa uimhir 2A ar do phas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can read information on employment rights of part-time workers in Ireland here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú tuilleadh faisnéise a léamh faoi cearta fostaíochta oibrithe páirtaimseartha in Éirinn anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>What do I do if I want to leave for a short while?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cad a dhéanfaidh mé más mian liom a fhágáil ar feadh tamaill ghairid?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The visa issued to you allows you to enter the State once</seg></tuv>
+  <tuv xml:lang="ga"><seg>An víosa a eisíodh duit is féidir leat chun teacht isteach sa Stát uair amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you wish to leave for a short while and then return you must apply for a re-entry visa</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mian leat a fhágáil ar feadh tamaill ghearr agus ansin ar ais ní mór duit iarratas a dhéanamh ar víosa athiontrála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(See 'How to apply' below for information on how to apply for a re-entry visa.)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Féach 'Conas iarratas a dhéanamh' thíos le haghaidh eolas ar conas iarratas a dhéanamh ar víosa athiontrála.)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is your responsibility to ensure you have the correct visa (if required) for the country you intend travelling to</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ortsa atá an fhreagracht a chinntiú go bhfuil tú ar an víosa ceart (más gá) don tír ar intinn agat taisteal go dtí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Please note that you must obtain a visa from the UK authorities before travelling to Northern Ireland (Counties Antrim, Armagh, Derry, Down, Fermanagh and Tyrone)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabhair faoi deara go gcaithfidh tú víosa ó údaráis na Ríochta Aontaithe a fháil roimh thaisteal go Tuaisceart Éireann (Contaetha Aontroim, Ard Mhacha, Doire, Dún, Fear Manach agus Tír Eoghain)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Information on applying for a visa to visit the UK is available from UK Visas and Immigration</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá eolas ar cur isteach ar víosa chun cuairt a thabhairt ar an Ríocht Aontaithe ar fáil ó Ríocht Aontaithe Víosaí agus Inimirce</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Information on those who need a visa to visit Ireland is available in our document: Visa requirements for entering Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Eolas ar iad siúd a bhfuil gá le víosa atá ar fáil sa doiciméad: Riachtanais víosa le teacht isteach in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You do not require a visa if you are from an EU/EEA member state</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní gá duit víosa a fháil le cuairt a thabhairt ar Éirinn más más saoránach de chuid an AE/LEE tú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Standard non-refundable visa application processing fees are:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad seo a leanas na táillí maidir le próiseáil iarratas ar víosaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Certain applicants are not required to pay a fee</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní gá d’iarratasóirí áirithe aon táille a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They include non-EU Spouses of EU citizens</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áirítear leo siúd céilí ar gá dóibh víosaí a bheith acu agus baill theaghlaigh saoránach de chuid an AE/LEE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In addition, applicants from some countries are not required to pay a fee</seg></tuv>
+  <tuv xml:lang="ga"><seg>Lena chois sin ní gá d’iarratasóirí ó thíortha áirithe aon táille a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As this changes from time to time, you should check with your local Irish embassy or consulate, or with the Visa Office - see 'Where to apply'</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ós rud é go n-athraíonn sé seo ó am go chéile, ba chóir duit ceist a chur ar ambasáid nó ar chonsalacht na hÉireann atá gar duit nó ar an Oifig Víosa - féach ‘Cá háit a dhéanfaidh mé iarratas’</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Nationals of the countries covered by the Short-stay Visa Waiver Programme who are long-term legal residents of the UK or the Schengen area will still require a visa but will not have to pay the visa fee</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní gá do náisiúnaigh de na tíortha faoi chumhdach an Chláir Tarscaoilte Víosa Gearrchónaithe, atá ina gcónaí go dlíthiúil sa RA nó sa limistéar Schengen an táille víosa a íoc ach is gá díobh víosa a bheith acu fós</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must apply for a visa online</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh tú iarratas ar víosa a dhéanamh ar líne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is information on how to complete an online application in English (pdf) as well as in Arabic (pdf), Chinese (pdf), Russian (pdf), French (pdf), Turkish (pdf), Hindi (pdf) and Urdu (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá faisnéis faoi conas iarratas a dhéanamh ar líne as Béarla (pdf) agus as Araibis (pdf), as Sínis (pdf), as Rúisis (pdf), as Fraincis (pdf), as Tuircis (pdf), as Hiondúis (pdf) agus as Urdais (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Details of what documents you will need and the photographic requirements are on the INIS website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sonraí faoi na cáipéisí a bheidh ag teastáil uait agus na riachtanais ghrianghrafadóireachta le fáil ar láithreán gréasáin Sheirbhís Eadóirseachta agus Inimirce na hÉireann (SEIÉ)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Irish Government has started collecting biometric data from certain visa applicants</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tosaíonn Rialtas na hÉireann sonraí bithmhéadracha ó iarratasóirí víosa áirithe a bhailiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Since March 2010 all visa applicants aged 6 years and over residing in Nigeria must provide fingerprints</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó Márta 2010 ní mór do gach iarratasóir víosa atá os cionn aois 6 agus ina chónaí sa Nigéir, méarloirg a sholáthar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find information about biometric data on the INIS website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh eolais faoi shonraí bithmhéadracha ar fáil ar an suíomh gréasáin SEIÉ</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Detailed information on the application procedures is available on the website of the Irish Naturalisation and Immigration Service (INIS)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Molann Seirbhís Eadóirseachta agus Inimirce na hÉireann go dtabharfá 8 seachtaine ar a laghad chun d’iarratas ar víosa a phróiseáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Applying for a re-entry visas</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cur isteach ar víosaí athiontrála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Before applying for a re-entry visa you must register with the local immigration officer for the district in which you are staying</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sula gcuireann tú isteach ar víosa athiontrála ní mór duit clárú le hoifigeach inimirce an cheantair sin ina bhfuil tú i do chónaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can read more about registration in our document on Registration of non-EEA nationals in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú tuilleadh a léamh faoi chlárú inár ndoiciméad faoi Clárú náisiúnach nach den LEE iad in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Sent your completed Re-Entry Visa Application Form, along with all required documentation, by registered post to the Re-entry Visa Processing Office - see 'Where to apply' below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seol an Foirm Iarratais le haghaidh Víosa Athiontrála comhlánaithe mar aon leis an gcáipéisíocht riachtanach go léir trí phost cláraithe chuig:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you wish to apply in person at the Visa Office you must book an appointment online</seg></tuv>
+  <tuv xml:lang="ga"><seg>Oifig Próiseála Víosaí Athiontrála,</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will need to have a completed application form and all required documentation with you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seirbhís Eadóirseachta agus Inimirce na hÉireann, 13-14 Cé an Bhúrcaigh, Baile Átha Cliath 2</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Apply for your re-entry visa well in advance of your proposed dates of travel</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuir isteach ar do víosa athiontrála i bhfad roimh na dátaí a bhfuil sé ar intinn agat taisteal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Postal applications for re-entry visas will be processed within 4 days of receipt and your re-entry visa will be returned to you by registered post</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfar iarratais ar víosaí athiontrála a fhaightear tríd an bpost a phróiseáil laistigh de 4 lá ón am a fhaightear iad, agus cuirfear do víosa athiontrála ar ais chugat trí phost cláraithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is more information on applying for a re-entry visa, as well as information on photographic requirements on the Irish Naturalisation and Immigration Service website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mian leat iarratas a dhéanamh go pearsanta chuig Oifig Víosaí, ní mór duit coinne a chur in áirithe ar líne. Beidh ort foirm iarratais chomhlánaithe agus an cháipéisíocht riachtanach go léir a bheith agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where to apply  Your visa application must be made online</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh eolais faoi cur isteach ar víosa athiontrála agus faisnéis faoi riachtanais ghrianghrafadóireachta le fáil ar láithreán gréasáin Sheirbhís Eadóirseachta agus Inimirce na hÉireann</seg></tuv>
+</tu>
+</body>
+</tmx>

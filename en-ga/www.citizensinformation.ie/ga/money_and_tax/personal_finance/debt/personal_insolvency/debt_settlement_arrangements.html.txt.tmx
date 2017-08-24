@@ -1,0 +1,629 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>• Main elements of a DSA</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Na príomhghnéithe de DSA</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A Debt Settlement Arrangement (DSA) is one of 3 debt resolution mechanisms introduced by the Personal Insolvency Act 2012 for people who cannot afford to pay their personal debts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Socrú Réitigh Fiachais (DSA) ar cheann amháin de 3 mheicníocht réitigh fiachais a tugadh isteach leis an Acht um Dhócmhainneacht Phearsanta 2012 do dhaoine nach bhfuil sé ar a n-acmhainn a bhfiacha pearsanta a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These mechanisms offer different solutions to people in different situations</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tairgeann na meicníochtaí sin réitigh dhifriúla do dhaoine i gcásanna difriúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Debt Settlement Arrangement applies to the agreed settlement of unsecured debts, usually over a period of 5 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann an Socrú Réitigh Fiachais le socrú comhaontaithe fiach neamhurraithe thar thréimhse 5 bliana de ghnáth</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The limit of 5 years can increase to 6 years in some situations</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir an teorainn 5 bliana a mhéadú go 6 bliana i gcásanna áirithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When the DSA concludes successfully, the debts that it covers will be fully discharged and the debtor will be solvent again</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a chuirtear an DSA i gcrích go sásúil, urscaoilfear na fiacha a chlúdaíonn sé agus beidh an féichiúnaí sócmhainneach an athuair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This document describes how to qualify for a DSA and how the DSA process works</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar cur síos sa doiciméad seo ar conas cáiliú le haghaidh DSA agus conas a oibríonn an próiseas DSA</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Insolvency Service of Ireland (ISI) has published detailed information about DSAs, including possible scenarios, FAQs and a booklet</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhoilsigh Seirbhís Dócmhainneachta na hÉireann (ISI) faisnéis mhionsonraithe faoi DSAnna, lena n-áirítear cásanna féideartha, ceisteanna coitianta agus leabhrán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It also provides extra information on DSAs, including a quick guide (pdf), on its website backontrack.ie, aimed at people who are struggling with debt</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann an SDÉ eolas breise ar DSAanna agus treoir ghearr (pdf) ar an suíomh backontrack.ie, atá dírithe ar dhaoine a bhfuil fadhbanna fiachais acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can read a general overview of personal insolvency options here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir forbhreathnú ginearálta ar an gcóras dócmhainneachta pearsanta a léamh anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Debt Settlement Arrangements provide for the agreed settlement of debts in the case of people who have unsecured debts and have no prospect of being able to pay off their debts in the next 5 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann Socruithe Réitigh Fiachais foráil do shocrú comhaontaithe fiach i gcás daoine a bhfuil fiacha neamhurraithe acu agus nach bhfuil aon ionchas acu go mbeidh siad ábalta a bhfiacha a íoc sna 5 bliana romhainn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may opt for a DSA if you have secured debts as well, but your secured debts will not be covered by the DSA</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú DSA a roghnú má tá fiacha urraithe agat freisin, ach ní chlúdóidh an DSA d’fhiacha urraithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>See ‘Secured and unsecured debts’ below for an explanation of these terms</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féach ‘fiacha urraithe agus fiacha neamhurraithe’ thíos le haghaidh míniú ar na téarmaí sin a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can only avail of a DSA once in your lifetime</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní fhéadfaidh tú leas a bhaint as DSA ach uair amháin i do shaol</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You cannot get a DSA if you are involved in one of the other debt resolution processes introduced by the Act, or in the bankruptcy process</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní fhéadfaidh tú DSA a fháil má tá baint agat le ceann amháin de na próisis eile um réiteach fiachais a tugadh isteach leis an Acht, nó má tá baint agat leis an bpróiseas féimheachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Nor can you get a DSA if you have completed a Personal Insolvency Arrangement or a bankruptcy within the last 5 years, or a Debt Relief Notice within the last 3 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní fhéadfaidh tú DSA a fháil ach oiread más rud é gur chuir tú Socrú um Dhócmhainneacht Phearsanta nó féimheacht i gcrích le 5 bliana anuas nó gur chuir tú Fógra um Fhaoiseamh Fiachais i gcrích le 3 bliana anuas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can only get a DSA by agreement of a specified majority of your unsecured creditors – see Main elements of a DSA below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní fhéadfaidh tú DSA a fháil ach trí chomhaontú a fháil ó fhormhór do chreidiúnaithe neamhurraithe - féach na príomhghnéithe de DSA thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Before you make your application, you must either be domiciled in the State or, within the year, have been living in the State or had a place of business in the State</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sula ndéanann tú d’iarratas, caithfidh go bhfuil sainchónaí ort sa Stát nó, laistigh den bhliain, go raibh tú i do chónaí sa Stát nó go raibh áit ghnó agat sa Stát</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As mentioned above, the only debts that a DSA can cover are unsecured debts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar a luaitear thuas, féadann an DSA fiacha neamhurraithe agus na fiacha sin amháin a chlúdach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is no limit on the total amount of debt that can be covered</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon teorainn leis an méid iomlán fiachais is féidir a chlúdach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if your total debt is unsecured and is €35,000 or less (formerly €20,000) you can opt for a Debt Relief Notice instead of a DSA</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin féin, más rud é go bhfuil d’fhiachas iomlán neamhurraithe agus go bhfuil sé cothrom le €35,000 nó níos lú (€20,000 ar dtús) féadfaidh tú Fógra um Fhaoiseamh Fiachais a roghnú in ionad DSA</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have some secured debts, you can apply for a Personal Insolvency Arrangement, which can cover both secured and unsecured debts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá roinnt fiacha urraithe agat, féadfaidh tú iarratas a dhéanamh ar Shocrú um Dhócmhainneacht Phearsanta, rud a fhéadann fiacha urraithe agus fiacha neamhurraithe araon a chlúdach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if you can manage to cover your secured debts, whether by making full repayments or by agreeing an arrangement with your secured creditors (such as interest-only repayments on your mortgage) you can apply for a Debt Settlement Arrangement to cover your unsecured debts separately</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin féin, más féidir leat d’fhiacha urraithe a chlúdach, trí aisíocaíochtaí iomlána a dhéanamh nó trí shocrú a chomhaontú le do chreidiúnaithe urraithe (ar nós aisíocaíochtaí úis amháin ar do mhorgáiste), féadfaidh tú iarratas a dhéanamh ar Shocrú um Dhócmhainneacht Fiachais le d’fhiacha neamhurraithe a chlúdach ar leithligh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>At least three-quarters (75%) of your unsecured debts must have built up at least 6 months before you apply for a DSA – in other words, you can’t apply for a DSA if any more than 25% of your unsecured debts were incurred in the last 6 months</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is gá gur ardaíodh trí cheathrú (75%) ar a laghad de d’fhiacha neamhurraithe 6 mhí ar a laghad sula ndéanann tú iarratas ar DSA - is é sin le rá, ní fhéadfaidh tú iarratas a dhéanamh ar DSA má tabhaíodh 25% de d’fhiacha neamhurraithe le 6 mhí anuas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Secured and unsecured debts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fiacha urraithe agus fiacha neamhurraithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A Debt Settlement Arrangement only covers unsecured debts so it is important to know whether your debts are secured or not</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chlúdaíonn Socrú Réitigh Fiachais ach fiacha neamhurraithe. Dá bhrí sin, tá sé tábhachtach gurb eol duit cé acu atá d’fhiacha urraithe nó nach bhfuil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A secured debt is a loan on which property or goods are available as security against non-payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é is fiach urraithe ann ná iasacht ar a bhfuil réadmhaoin nó earraí ar fáil mar urrús in aghaidh neamhíoca</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Mortgages and car loans are the most common secured loans</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad morgáistí agus iasachtaí cairr na hiasachtaí urraithe is coitianta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some examples of unsecured debts are: utility bill arrears (gas, electricity etc.); credit card debt; bank overdrafts; credit union loans</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar roinnt samplaí d’fhiacha neamhurraithe tá: riaráiste bille fóntais (gás, leictreachas, etc.); fiach cárta creidmheasa; rótharraingtí bainc; iasachtaí comhar creidmheasa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if they are rolled up into your mortgage, they become secured loans</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chuirtear san áireamh i do mhorgáiste iad, áfach, éiríonn siad ina n-iasachtaí urraithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Personal Insolvency Act 2012 specifies certain types of debt that cannot be written off by the new debt settlement procedures, which include the Debt Settlement Arrangement</seg></tuv>
+  <tuv xml:lang="ga"><seg>San Acht um Dhócmhainneacht Phearsanta 2012, sonraítear cineálacha áirithe féich nach féidir leis na socruithe nua réitigh fiachais iad a dhíscríobh, lena n-áirítear an Socrú Réitigh Fiachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These are called excluded debts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar fiacha eisiata orthu sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The types of debt that are excluded and cannot be covered by a DSA are:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad seo na cineálacha féich atá eisiata agus nach féidir le DSA iad a chlúdach:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Debts under family law orders, such as maintenance orders for spouses and children</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Fiacha faoi orduithe dlí teaghlaigh, ar nós orduithe cothabhála do chéilí agus do leanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Debts due under court awards for personal injury or wrongful death</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Fiacha atá dlite faoi dhámhachtainí cúirte as gortú pearsanta nó bás éagórach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Debts arising from a loan (or forbearance of a loan) obtained through fraud or similar wrongdoing</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Fiacha a thagann as iasacht (nó staonadh iasachta) a fuarthas trí chalaois nó trí éagóir chosúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Debts arising under fines imposed by the courts for criminal offences or court orders made under the Proceeds of Crime Acts</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Fiacha a thagann as fíneálacha a ghearr na cúirteanna as cionta coiriúla nó orduithe cúirte a rinneadh faoi na hAchtanna um Fháltais ó Choireacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Act specifies certain other types of debt to be excludable from a DSA</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sonraítear san Acht cineálacha áirithe eile féich a bheidh in-eisiata as DSA</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that they can be covered by the DSA if the creditor is asked and agrees to let them be included – in which case they become permitted debts – debts that the creditor permits to be covered</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn sé sin go bhféadfaidh an DSA iad a chlúdach más rud é go n-iarrtar ar an gcreidiúnaí a gcur san áireamh a cheadú agus go gcomhaontaíonn an creidiúnaí leis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the creditor is asked and does not respond, the creditor will also have been deemed to have consented to the debts being included</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás sin, éiríonn siad ina bhfiacha ceadaithe, is iad sin, fiacha a cheadaíonn an creidiúnaí le bheith clúdaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most types of excludable debts are those owed to the State</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad na fiacha sin a dhlitear leis an Stát formhór na gcineálacha féich in-eisiata</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The types of debt that are excludable and may be covered if the creditor agrees are:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad seo na cineálacha féich atá in-eisiata agus a bhféadfar iad a chlúdach má chomhaontaíonn an creidiúnaí:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Taxes, duties, charges or levies owed to the State, such as income tax, the Household Charge, the Local Property Tax, VAT, capital taxes</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cánacha, dleachtanna, muirir nó tobhaigh atá dlite leis an Stát, amhail cáin ioncaim, an Muirear Teaghlaigh, an Cháin Réadmhaoine Áitiúil, CBL, cánacha caipitil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Service charges owed to local authorities</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Muirir sheirbhíse atá dlite le húdaráis áitiúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Money owed under the Nursing Homes Support Scheme (in respect of a loan advanced by the HSE to a nursing home resident to cover the amount due from the principal private residence)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Airgead atá dlite faoin Scéim um Thacaíocht Tithe Banaltrais (i leith iasachta a réamh-íoc FSS le cónaitheoir i dteach banaltrais chun an méid atá dlite as an bpríomhtheach príobháideach a chlúdach)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Money owed to the Department of Social Protection, such as overpayments</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Airgead atá dlite leis an Roinn Coimirce Sóisialaí, ar nós ró-íocaíochtaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Debts due to owners’ management companies in respect of annual service charges or contributions due for multi-unit developments (this is the only non-State debt in this category)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Fiacha atá dlite le cuideachtaí bainistíochta úinéirí i leith muirir bhliantúla sheirbhíse nó ranníocaíochtaí atá dlite as forbairtí ilaonaid (is é seo an t-aon fhiach neamh-Stáit sa chatagóir seo)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Main elements of a DSA</seg></tuv>
+  <tuv xml:lang="ga"><seg>Na príomhghnéithe de DSA</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must make your proposal for a Debt Settlement Arrangement through a Personal Insolvency Practitioner (PIP) – see The DSA process below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit do thogra le haghaidh Socrú Réitigh Fiachais a dhéanamh trí Chleachtóir um Dhócmhainneacht Phearsanta (PIP) - féach an próiseas DSA thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The DSA proposal must be agreed by you and then approved at a creditors’ meeting</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór an togra le haghaidh DSA a bheith comhaontaithe agat agus faofa ag cruinniú na gcreidiúnaithe ina dhiaidh sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The proposed DSA will have to get the support of creditors representing at least 65% of the total debt that it covers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór an DSA molta tacaíocht a fháil ó chreidiúnaithe a dhéanann ionadaíocht do 65% ar a laghad den fhiachas iomlán a chlúdaíonn sé</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A DSA may involve you making regular payments of agreed amounts to your Personal Insolvency Practitioner, who will distribute them to your creditors according to the terms of the DSA</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir go mbeidh sé i gceist le DSA go ndéanfaidh tú íocaíochtaí rialta de na méideanna comhaontaithe le do Chleachtóir um Dhócmhainneacht Phearsanta, a dháilfidh iad ar do chreidiúnaithe de réir théarmaí an DSA</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your creditors may not take any action against you to enforce the debt during the lifetime of the DSA</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní fhéadfaidh do chreidiúnaithe caingean a thionscnamh i d’aghaidh chun an fiach a fhorghníomhú le linn shaolré an DSA</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you keep to the terms of the DSA, the rest of your debt to the creditors that it covered will be discharged and you will be solvent again</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chloíonn tú le téarmaí an DSA, urscaoilfear an chuid eile de d’fhiachas leis na creidiúnaithe a chlúdaigh sé agus beidh tú sócmhainneach an athuair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The DSA has been designated as an insolvency proceeding which can benefit from cross-border recognition</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an DSA ainmnithe mar imeacht dócmhainneachta ar féidir leis leas a bhaint as aitheantas trasteorann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that a debtor availing of a DSA will gain the same protection against creditors in most other EU countries that they receive in Ireland, subject to and in accordance with the Regulation on Insolvency Proceedings (EC) No 1346/2000 (pdf), as updated by Regulation (EU) No.663/2014 (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fágann sé sin go mbeidh an chosaint chéanna ar chreidiúnaithe i bhformhór na dtíortha eile den AE is atá aige/aici in Éirinn ag féichiúnaí atá ag baint leas as DSA, faoi réir agus de réir an Rialacháin (CE) Uimh. 1346/2000 maidir le hImeachtaí Dócmhainneachta (pdf), arna nuashonrú ag Rialachán (AE) Uimh. 663/2014 (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read more in this press release</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léigh tuilleadh sa phreaseisiúint seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Mandatory terms of a DSA</seg></tuv>
+  <tuv xml:lang="ga"><seg>Téarmaí éigeantacha de DSA</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are certain elements that the DSA must contain:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ann do ghnéithe áirithe nach mór a bheith sa DSA:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The maximum duration of the agreement must be 5 years but this may be extended by up to one year in circumstances as specified in the terms of the arrangement</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní mór gurb é 5 bliana uasfhad an chomhaontaithe ach féadfar é sin a shíneadh le bliain amháin ar a mhéad i gcásanna a shonraítear i dtéarmaí an chomhaontaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you keep to the terms of the agreement your remaining debts to the creditors covered by the DSA will be discharged</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má chloíonn tú le téarmaí do chomhaontaithe, urscaoilfear na fiacha fágtha leis na creidiúnaithe a chlúdaigh sé</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You remain liable for certain debts unless the proposed arrangement explicitly provides for a compromise agreement and the creditor has agreed in writing to accept this – see ‘Excluded debts’ and ‘Excludable debts’ above</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Beidh tú faoi dhliteanas as fiacha áirithe mura ndéantar foráil shoiléir sa chomhaontú molta do chomhaontú comhréitigh agus gur chomhaontaigh an creidiúnaí i scríbhinn le glacadh leis - féach ‘fiacha eisiata’ agus ‘fiacha in-eisiata’ thuas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The DSA cannot release you from fines or other monetary penalties arising from criminal offences</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní féidir leis an DSA tú a scaoileadh ó fhíneálacha ná ó aon phionóis airgeadaíochta eile a thagann as cionta coiriúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• It cannot require you to sell any assets that are reasonably necessary for your employment or business unless you agree to such a sale</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní féidir leis éileamh ort aon sócmhainní atá riachtanach go réasúnach le haghaidh d’fhostaíochta nó do ghnó a dhíol mura gcomhaontaíonn tú leis an díol sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You must be left with enough income to maintain a reasonable standard of living for yourself and your dependants</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Is gá go bhfuil go leor ioncaim fágtha agat chun caighdeán réasúnach maireachtála a choinneáil duit féin agus do do chleithiúnaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• It must not require you to dispose of your principal private residence (your home) or to cease to occupy it unless specific conditions are met</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Is gá nach n-éilíonn sé ort do phríomhtheach cónaithe (do theach) a dhiúscairt ná scor de chónaí ann mura gcomhlíontar coinníollacha ar leith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• It must outline how your debts will be treated in the event of your death or mental incapacity</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Is gá go leagann sé amach conas a dhéileálfar le d’fhiacha i gcás do bháis nó d’éagumais mheabhrach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• It must provide that your circumstances be reviewed by the Personal Insolvency Practitioner at regular intervals (not more than 12 months) during the currency of the DSA; this review will involve the preparation of a new Prescribed Financial Statement that must be sent to all the creditors</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Is gá go ndéanann sé foráil go ndéanfaidh an Cleachtóir um Dhócmhainneacht Phearsanta athbhreithniú ar do chúinsí go tráthrialta (nach mó ná 12 mhí) le linn thréimhse feidhme an DSA; is éard a bheidh i gceist san athbhreithniú seo ná ullmhú a dhéanamh ar Ráiteas Airgeadais Forordaithe nua nach mór a sheoladh chuig na creidiúnaithe go léir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• It must make provision for the Personal Insolvency Practitioner’s costs</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Is gá go ndéanann sé foráil do chostais an Chleachtóra um Dhócmhainneacht Phearsanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are entitled to receive pension income or a pension lump sum, it will be treated as an income/asset for the purposes of a Debt Settlement Arrangement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú i dteideal ioncam pinsin nó cnapshuim phinsin a fháil, déileálfar leis/léi mar ioncam/shócmhainn chun críche an tSocraithe Réitigh Fiachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The terms of the DSA may provide for some or all of that pension lump sum or income to be paid to your creditors while the DSA is in effect</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh téarmaí an DSA foráil a dhéanamh go n-íocfar an chnapshuim phinsin nó an t-ioncam pinsin ar fad, nó cuid di/de, le do chreidiúnaithe le linn don DSA bheith in éifeacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your pension fund itself will be excluded from any DSA arrangement if it is a relevant pension arrangement for the purposes of the Act</seg></tuv>
+  <tuv xml:lang="ga"><seg>Eiseofar do chiste pinsean féin ó aon socrú DSA más “socrú ábhartha pinsin” é chun críche an Achta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Approved Retirement Funds (ARFs) are not relevant pension arrangements and may be included in a DSA</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní “socruithe ábhartha pinsin” iad Cistí Scoir Formheasta (ARFanna) agus féadfar iad a chur san áireamh i socrú DSA</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must be transparent in relation to all pension contributions that you have made in the past</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit bheith follasach i leith gach ranníocaíochta pinsin a rinne tú roimhe seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The PIP will review these and where the PIP or a creditor considers that you have made excessive pension contributions within 3 years prior to application for a protective certificate, either of them can apply to the court to recover these contributions for distribution to creditors</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfaidh an PIP athbhreithniú orthu sin agus, sa chás go measann an PIP nó creidiúnaí go ndearna tú ranníocaíochtaí iomarcacha pinsin laistigh de 3 bliana sula ndearnadh iarratas ar dheimhniú cosanta, féadfaidh duine amháin díobh iarratas a dhéanamh chuig an gcúirt ar na ranníocaíochtaí sin a aisghabháil lena ndáileadh ar chreidiúnaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>While the DSA is in effect, you may not get credit for any amount over €650 without informing the lender that you have a DSA</seg></tuv>
+  <tuv xml:lang="ga"><seg>Le linn don DSA bheith in éifeacht, ní fhéadfaidh tú creidmheas a fháil le haghaidh aon mhéid níos mó ná €650 gan eolas a thabhairt don iasachtóir go bhfuil DSA agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may not sell or deal in property above a certain value, except in accordance with the terms of the DSA</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní fhéadfaidh tú réadmhaoin os cionn luach áirithe a dhíol ná déileáil léi, seachas de réir théarmaí an DSA</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, no such restriction is placed on your spouse or civil partner</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin féin, ní chuirtear aon srianadh den chineál sin ar do chéile ná ar do pháirtnéir sibhialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must make your proposal for a DSA through a Personal Insolvency Practitioner (PIP)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit do thogra le haghaidh DSA a dhéanamh trí Chleachtóir um Dhócmhainneacht Phearsanta (PIP)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is a professional who is authorised by the Insolvency Service of Ireland (ISI) and will act on your behalf throughout the Debt Settlement Arrangement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is gairmí é sin atá údaraithe ag Seirbhís Dócmhainneachta na hÉireann (ISI) agus a ghníomhóidh thar do cheann ar fud an tSocraithe Réitigh Fiachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The ISI has developed a standard protocol for use by PIPs when making straightforward proposals to creditors for a DSA</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhorbair an ISI prótacal caighdeánach lena úsáid ag PIPanna agus tograí furasta á ndéanamh acu do chreidiúnaithe le haghaidh DSA</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must disclose all details of your financial affairs to the PIP, who will then advise you whether or not you meet the conditions for a DSA, what the consequences will be and what fees you may have to pay</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit gach sonra faoi do chúrsaí airgeadais a nochtadh don PIP, a chuirfidh comhairle ort ina dhiaidh sin maidir le cé acu a chomhlíonann tú nó nach gcomhlíonann tú na coinníollacha le haghaidh DSA, maidir leis na hiarmhairtí a bheidh air agus maidir leis na táillí a d’fhéadfadh a bheith ort a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The PIP will also advise you of any other options that are available</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chomh maith leis sin, cuirfidh an PIP comhairle ort maidir le haon roghanna eile atá ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The PIP will help you complete a Prescribed Financial Statement as part of your application, giving full and honest information about your financial circumstances</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cabhróidh an PIP leat Ráiteas Airgeadais Forordaithe a chur i gcrích mar chuid de d’iarratas agus tabharfaidh sé/sí faisnéis iomlán ionraic agat faoi do chúinsí airgeadais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must also make a declaration that you have been unable to agree an alternative repayment arrangement with your creditor(s)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh tú freisin dearbhú a dhéanamh nach raibh tú ábalta socrú malartach aisíocaíochta a chomhaontú le do chreidiúnaí/chreidiúnaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will have to give your written consent to enable:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh tú do thoiliú i scríbhinn a thabhairt chun:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The PIP to disclose your personal data to the ISI</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cur ar chumas an PIP do shonraí pearsanta a nochtadh don ISI</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The ISI to process your application</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cur ar chumas an ISI d’iarratas a phróiseáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The ISI to make any necessary enquiries about you and</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cur ar chumas an ISI aon fhiosruithe riachtanacha fút a dhéanamh agus</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The ISI to disclose your personal data to the creditors concerned, as required</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cur ar chumas an ISI do shonraí pearsanta a nochtadh do na creidiúnaithe lena mbaineann, de réir mar is gá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In general, you must act in good faith and co-operate fully with the process</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, ní mór duit gníomhú le hintinn mhaith agus comhoibriú go hiomlán leis an bpróiseas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The ISI has published detailed information on fees</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhoilsigh an ISI faisnéis mhionsonraithe faoi tháillí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A fee of €250 was payable to the ISI for the issue of a protective certificate – described below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bhíodh táille €250 iníoctha leis an ISI as deimhniú cosanta (féach thíos) a eisiúint </seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is no set scale of fees for PIPs, but they are required to specify their charges and associated costs clearly before being appointed to act on your behalf</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní ann d’aon scála socraithe táillí do PIPanna, ach ceanglaítear orthu a dtáillí agus a gcostais ghaolmhara a shonrú sula gceaptar iad chun gníomhú thar do cheann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Personal Insolvency Practitioner sends your application to the Insolvency Service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seolann an Cleachtóir um Dhócmhainneacht Phearsanta d’iarratas chuig an tSeirbhís Dócmhainneachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The ISI checks that all the details are in order and, if so, issues a certificate to that effect and forwards all the documentation to the relevant court (the Circuit Court in cases up to €2.5 million and the High Court in larger cases)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann an ISI cinnte go bhfuil na sonraí go léir i gceart agus, má tá, eisíonn sí deimhniú chuige sin agus cuireann sí na doiciméid go léir ar aghaidh chuig an gcúirt ábhartha (an Chúirt Chuarda i gcásanna suas go dtí €2.5 milliún agus an Ard-Chúirt i gcásanna níos mó)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The court reviews the documentation and, if all is in order, issues a protective certificate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann an chúirt athbhreithniú ar na doiciméid agus, má tá gach ní i gceart, eiseoidh sí deimhniú cosanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Insolvency Service records the details of the protective certificate on its Register of Protective Certificates</seg></tuv>
+  <tuv xml:lang="ga"><seg>Taifeadann an tSeirbhís Dócmhainneachta sonraí an deimhnithe cosanta ar a Clár um Dheimhnithe Cosanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Personal Insolvency Practitioner then notifies each of your creditors of the existence of the protective certificate and your intention to make a proposal for a DSA</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann an Cleachtóir um Dhócmhainneacht Phearsanta in iúl do gach ceann de do chreidiúnaithe ansin go bhfuil deimhniú cosanta ann agus go bhfuil sé beartaithe agat togra le haghaidh DSA a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The protective certificate will give you 70 days during which your creditors may not:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabharfaidh an deimhniú cosanta 70 lá duit nach féidir le creidiúnaithe na nithe seo a leanas a dhéanamh lena linn:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Start or continue legal proceedings in respect of the debt</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Imeachtaí dlí i leith an fhiachais a thosú ná leanúint d’imeachtaí dlí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Take or continue any steps to enforce a judgment or contact you about the debt unless you agree to this</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Aon bhearta a dhéanamh ná leanúint d’aon bhearta d’fhonn breithiúnas a fhorghníomhú ná dul i dteagmháil leat i dtaobh an fhiachais mura gcomhaontaíonn tú leis sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Start or continue bankruptcy proceedings against you</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Imeachtaí dlí i d’aghaidh a thosú ná leanúint d’imeachtaí dlí i d’aghaidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The court may extend the period of the protective certificate by a further 40 days if it is satisfied that:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh an chúirt tréimhse an deimhnithe cosanta a shíneadh le 40 lá sa bhreis más deimhin léi:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You and the Personal Insolvency Practitioner have acted in good faith and with reasonable expedition, and</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gur ghníomhaigh tusa agus an Cleachtóir um Dhócmhainneacht Phearsanta le hintinn mhaith agus le brostú réasúnach, agus</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• It is likely that, if the extension is granted, a proposal for a DSA will be made that is likely to be accepted by the creditors and successfully completed by you</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gur dócha, sa chás go ndeonaítear an síneadh, go ndéanfar togra le haghaidh DSA ar dóigh go nglacfar na creidiúnaithe leis agus go gcuirfidh tú i gcrích é go rathúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A creditor may apply to the court for an order directing that the protective certificate not apply to him or her</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh creidiúnaí iarratas a dhéanamh chuig an gcúirt ar ordú lena dtugtar treoir nach mbeidh feidhm ag an deimhniú cosanta leis nó léi</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The court will grant this order only if satisfied that failing to give it would cause irreparable loss to the creditor that would not otherwise occur and that no other creditor to whom notice of the protective certificate has been given would be unfairly prejudiced</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní dheonóidh an chúirt an t-ordú seo ach amháin más deimhin léi go mbeadh sé ina chúis le caillteanas doleasaithe don chreidiúnaí nach dtarlódh ar shlí eile mura dtabharfaí an t-ordú agus nach ndéanfaí dochar éagórach d’aon chreidiúnaí eile ar tugadh fógra dó/di faoin deimhniú cosanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Formulating a DSA proposal</seg></tuv>
+  <tuv xml:lang="ga"><seg>Togra DSA a cheapadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Once the protective certificate has been granted, your PIP must invite the relevant creditors to make proposals about the manner in which the debts might be dealt with as part of a DSA</seg></tuv>
+  <tuv xml:lang="ga"><seg>A luaithe is a dheonaítear an deimhniú cosanta, ní mór don PIP iarraidh ar na creidiúnaithe lena mbaineann tograí a dhéanamh faoin dóigh a bhféadfaí déileáil leis na fiacha mar chuid de DSA</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The creditors must be given your Prescribed Financial Statement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór do Ráiteas Airgeadais Forordaithe a thabhairt do na creidiúnaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In order to help the PIP to formulate the proposal, you will be required to provide an honest and accurate account of your living expenses, your life plans and any circumstances that may be relevant to how much of your debts you can pay, now and in the future</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhonn cabhrú leis an PIP an togra a cheapadh, éileofar ort cuntas ionraic cruinn a chur ar fáil ar do chostais mhaireachtála, ar do phleananna saoil agus ar aon chúinsí a d’fhéadfadh a bheith ábhartha don mhéid de d’fhiacha a fhéadann tú a íoc faoi láthair agus a fhéadfaidh tú a íoc sa todhchaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When formulating the proposal for a DSA, the PIP will ensure, as far as is reasonably practicable, that you are not required to sell or move out of your principal private residence (your home)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Agus an togra le haghaidh DSA á cheapadh, cinnteoidh an PIP, a oiread is féidir go réasúnach, nach n-éileofar ort do phríomhtheach príobháideach (do theach) a dhíol ná bogadh amach as</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you wish to move out, or if the PIP believes that the running costs of staying in your home are disproportionately large, the DSA may provide for you to move out of it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mian leat bogadh amach, nó má chreideann an PIP gur mór go díréireach atá na costais reatha chun fanacht i do theach, féadfaidh an DSA foráil a dhéanamh duit chun bogadh amach as</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you have consented to the proposal for a DSA that has been formulated by your PIP, the PIP must call a creditors’ meeting</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a thoilíonn tú leis an togra le haghaidh DSA ar cheap do PIP é, ní mór don PIP cruinniú na gcreidiúnaithe a ghairm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If there is only one creditor, he or she may write to the PIP indicating agreement or rejection</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más rud nach bhfuil ach creidiúnaí amháin ann, féadfaidh sé nó sí scríobh chuig an PIP chun comhaontú nó diúltú a chur in iúl</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The creditors vote on whether or not to accept the proposed arrangement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Vótálann na creidiúnaithe ar cé acu a ghlacfaidh siad nó nach nglacfaidh siad leis an socrú beartaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Each vote is proportional to the amount of debt owed to that creditor</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá gach vóta i gcomhréir leis an méid fiachais atá dlite leis an gcreidiúnaí sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In order for the arrangement to be accepted, creditors representing 65% or more of the value of your total unsecured debt must vote in favour of the proposal</seg></tuv>
+  <tuv xml:lang="ga"><seg>Le go nglacfar leis an socrú, ní mór do chreidiúnaithe a dhéanann ionadaíocht do 65% nó níos mó de luach d’fhiachais neamhurraithe iomláin vótáil i bhfabhar an togra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the creditors reject the proposal, the protective certificate ceases to have effect and the DSA process will have come to an end</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhiúltaíonn na creidiúnaithe don togra, ní bheidh éifeacht ag an deimhniú cosanta a thuilleadh agus beidh deireadh leis an bpróiseas DSA</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the proposal is accepted, the PIP must inform the Insolvency Service and tell creditors of their right to object to the relevant court - (the Circuit Court in cases up to €2.5 million and the High Court in larger cases)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má ghlactar leis an togra, caithfidh an PIP fógra a thabhairt don tSeirbhís Dócmhainneachta agus insint do chreidiúnaithe faoina gceart chun agóid a dhéanamh chuig an gcúirt ábhartha (an Chúirt Chuarda i gcásanna suas go dtí €2.5 milliún agus an Ard-Chúirt i gcásanna níos mó)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Insolvency Service notifies the court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann an tSeirbhís Dócmhainneachta fógra don chúirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If there is any objection, the protective certificate remains in place until the matter is decided</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más rud é go bhfuil aon agóid ann, beidh an deimhniú cosanta i bhfeidhm go dtí go gcinnfear an t-ábhar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The grounds on which an objection to the coming into effect of the Debt Settlement Arrangement may be made are limited and include the following:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is teoranta atá an foras ar a bhféadfar agóid a dhéanamh in aghaidh theacht in éifeacht an tSocraithe Réitigh Fiachais agus áirítear na nithe seo a leanas leis:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You arranged your affairs in the previous 2 years primarily with a view to becoming eligible for a Debt Settlement Arrangement or a Personal Insolvency Arrangement</seg></tuv>
+  <tuv xml:lang="ga"><seg>• D’eagraigh tú do chúrsaí sa 2 bhliain roimhe go príomha d’fhonn éirí incháilithe le haghaidh Socrú Réitigh Fiachais nó Socraithe um Dhócmhainneacht Phearsanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The procedural requirements were not followed</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Níor leanadh na riachtanais nós imeachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A material inaccuracy or omission exists in your Prescribed Financial Statement that causes a material detriment to the creditor</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tá míchruinneas ábhartha nó easnamh i do Ráiteas Airgeadais Forordaithe atá mar chúis le dochar ábhartha don chreidiúnaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You did not meet the requirements when the arrangement was proposed</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Níor chomhlíon tú na riachtanais nuair a beartaíodh an socrú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The arrangement unfairly prejudices the interests of a creditor</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Déanann an socrú dochar éagórach do leasanna creidiúnaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You have committed an offence under the personal insolvency legislation</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Rinne tú coir faoin reachtaíocht um dhócmhainneacht phearsanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You have entered into a transaction at an undervalue or given a preference to a person in the previous three years that has materially contributed to your inability to pay your debts</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Chuaigh tú isteach in idirbheart ag gannluach nó thug tú tosaíocht do dhuine sna trí bliana roimhe sin a chuir, ar bhealach ábhartha, le do neamhábaltacht chun d’fhiacha a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Issuing a Debt Settlement Arrangement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Socrú Réitigh Fiachais a eisiúint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If there is no objection or an objection is not upheld, the court approves the Debt Settlement Arrangement if satisfied that all the conditions have been met</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura ndéantar aon agóid nó mura seastar le hagóid, ceadóidh an chúirt an Socrú Réitigh Fiachais más deimhin leis gur comhlíonadh na coinníollacha go léir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Insolvency Service records the DSA in its Register of Debt Settlement Arrangements and it comes into effect.   Deferring Local Property Tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Taifeadann an tSeirbhís Dócmhainneachta an DSA ina Clár um Shocruithe Réitigh Fiachais agus tagann sé in éifeacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Varying or ending a Debt Settlement Arrangement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Socrú Réitigh Fiachais a athrú nó deireadh a chur leis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Debt Settlement Arrangements may be varied if there is a material change in a debtor’s circumstances that would affect his/her ability to make repayments under the DSA – the procedures are similar to those for setting up the arrangement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfar Socruithe Réitigh Fiachais a athrú má tá athrú ábhartha ar chúinsí féichiúnaí a rachadh i bhfeidhm ar a (h)ábaltacht chun aisíocaíochtaí a dhéanamh faoin DSA - tá na nósanna imeachta cosúil leo sin le haghaidh an socrú a bhunú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A creditor or a PIP may apply to the court at any time during the Debt Settlement Arrangement to have it ended</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh creidiúnaí nó PIP iarratas a dhéanamh chuig an gCúirt tráth ar bith le linn an tSocraithe Réitigh Fiachais ar dheireadh a chur leis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The grounds for such an application will be limited and include the following:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is teoranta a bheidh an foras le haghaidh iarratais den chineál sin agus áirítear na nithe seo a leanas leis:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Your Prescribed Financial Statement has a material inaccuracy or omission that causes a material detriment to the creditor</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tá míchruinneas ábhartha nó easnamh i do Ráiteas Airgeadais Forordaithe atá mar chúis le dochar ábhartha don chreidiúnaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You did not meet the eligibility criteria when you started the process</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Níor chomhlíon tú na critéir cháilitheachta nuair a thosaigh tú an próiseas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You did not comply with the terms of the Debt Settlement Arrangement</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Níor chloígh tú le téarmaí an tSocraithe Réitigh Fiachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You have committed an offence under the personal insolvency legislation since the arrangement came into effect</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Rinne tú coir faoin reachtaíocht um dhócmhainneacht phearsanta ó tháinig an socrú in éifeacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You are in arrears with your payments for a period of not less than 3 months</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tá tú i riaráiste le d’íocaíochtaí ar feadh tréimhse nach lú ná 3 mhí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The full list of grounds is in Section 83 of the Personal Insolvency Act 2012</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an liosta iomlán forais in Alt 83 den Acht um Dhócmhainneacht Phearsanta 2012</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are in arrears with your payments for more than 6 months, the DSA will be deemed to have failed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú i riaráiste le d’íocaíochtaí ar feadh níos mó ná 6 mhí, measfar gur theip ar an DSA</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This will be recorded in the Register of Debt Settlement Arrangements</seg></tuv>
+  <tuv xml:lang="ga"><seg>Taifeadtar é sin sa Chlár um Shocruithe Réitigh Fiachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When a Debt Settlement Arrangement ends</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair atá deireadh le Socrú Réitigh Fiachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the arrangement ends other than by successful completion, you become fully liable for all specified debts, including arrears, charges and interest that have accrued during the DSA period, less any payments made by you during that time, unless the terms of the DSA specify, or the court has ordered, otherwise</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más é rud ar bith eile seachas cur i gcrích rathúil is cúis le deireadh an tsocraithe, éireoidh tú faoi dhliteanas iomlán as gach fiach sonraithe, lena n-áirítear riaráiste, muirir agus ús a fabhraíodh le linn na tréimhse DSA, lúide aon íocaíochtaí a rinne tú le linn na tréimhse sin, mura sonraítear a mhalairt i dtéarmaí an DSA nó murar ordaigh an chúirt a mhalairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the arrangement is successfully completed, you are discharged from the debts covered by the DSA</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chuirtear an socrú i gcrích go rathúil, urscaoilfear thú ó na fiacha a gclúdaíonn an DSA iad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The successful completion is recorded on the Register of Debt Settlement Arrangements</seg></tuv>
+  <tuv xml:lang="ga"><seg>Taifeadtar an cur i gcrích rathúil sa Chlár um Shocruithe Réitigh Fiachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are now solvent</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tú sócmhainneach anois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your application for a Debt Settlement Arrangement must be made through a through a Personal Insolvency Practitioner (PIP)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór d’iarratas ar Shocrú Réitigh Fiachais a dhéanamh trí Chleachtóir um Dhócmhainneacht Phearsanta (PIP)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can choose one from the Register of Personal Insolvency Practitioners that is published by the ISI</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat PIP a roghnú ó Chlár na gCleachtóirí Dócmhainneachta Pearsanta a bhfoilsíonn an ISI é</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further information is available from the ISI’s helpline 0761 06 4200 (Monday to Friday, 9 am to 6 pm) and from its main website isi.gov.ie, as well as its website backontrack.ie for people who are struggling with debt</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh faisnéise ar fáil ó líne chabhrach an ISI, 0761 06 4200 (Luan go hAoine, 9am go 6pm), óna láithreán gréasáin ag isi.gov.ie agus ón láithrean backontrack.ie, atá dírithe ar dhaoine a bhfuil fadhbanna fiachais acu</seg></tuv>
+</tu>
+</body>
+</tmx>

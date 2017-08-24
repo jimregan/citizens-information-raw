@@ -1,0 +1,365 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Repossession of rented social housing</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tithíocht shóisialta ar cíos a athshealbhú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Legal basis for repossession</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An bonn dlíthiúil le hathshealbhú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• After a tenancy warning has issued</seg></tuv>
+  <tuv xml:lang="ga"><seg>• I ndiaidh gur eisíodh rabhadh tionóntachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Up to recently, a local authority could evict a tenant without giving a reason, as long as it followed the correct procedure</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go dtí le gairid, d’fhéadfadh údarás áitiúil tionónta a dhíshealbhú gan cúis a thabhairt, a fhad agus gur lean siad an nós imeachta ceart</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This meant first issuing a notice to quit and then applying to court for an order</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chiallaigh seo go raibh orthu fógra fágála a eisiúint ar dtús agus iarratas a dhéanamh ar an gcúirt ar ordú ina dhiaidh sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, in practice, local authorities did not evict their tenants without reason</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcleachtas, áfach, ní dhearna údaráis áitiúla a dtionóntaí a dhíshealbhú gan chúis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you paid your rent and complied with other conditions of the tenancy, you would normally be able to stay in your home for as long as you wanted</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má d’íoc tú do chíos agus má chomhlíon tú coinníollacha eile na tionóntachta, ba ghnách go mbeifeá in ann fanacht i do theach chomh fada agus ba mhian leat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The main reason for repossessions of local authority rented accommodation in recent years has been arrears of rent</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an phríomhchúis a bhíonn le cóiríocht ar cíos údaráis áitiúil a athshealbhú le blianta beaga anuas ná riaráistí cíosa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Anti-social behaviour has also been the cause of some repossessions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, bhí iompar frithshóisialta ina chúis le roinnt athshealbhaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Legal basis for repossession</seg></tuv>
+  <tuv xml:lang="ga"><seg>An bonn dlíthiúil le hathshealbhú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Up to recently, the legal basis for repossession was Section 62 of the Housing Act 1966</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go dtí le gairid, ba é Alt 62 den Acht Tithíochta, 1966 an bonn dlíthiúil le hathshealbhú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In 2012, the Supreme Court held that this section was not compatible with the European Convention on Human Rights because it did not allow for an independent hearing of the merits of the proposed repossession</seg></tuv>
+  <tuv xml:lang="ga"><seg>In 2012, dheimhnigh an Chúirt Uachtarach nach raibh an t-alt seo comhoiriúnach don Choinbhinsiún Eorpach um Chearta Daonna mar gheall nár cheadaigh sé éisteacht neamhspleách a dhéanamh ar fhiúntais an athshealbhaithe bheartaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Housing (Miscellaneous Provisions) Act 2014 replaces Section 62 with new procedures, which involve an independent assessment of the merits of the proposed repossession</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tagann an tAcht Tithíochta (Forálacha Ilghnéitheacha), 2014 in ionad Alt 62 le nósanna imeachta nua, ina ndéantar measúnú neamhspleách ar fhiúntais an athshealbhaithe bheartaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These procedures are set out in Part 2 of the Act, which came into effect on 13 April 2015</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagtar amach na nósanna imeachta seo i gCuid 2 den Acht, a tháinig i bhfeidhm an 13 Aibreán 2015</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The new procedures apply where local authorities want to repossess because:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn na nósanna imeachta nua i gceist sa chás gur mian le húdaráis áitiúla athshealbhú a dhéanamh mar gheall ar an méid a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• There has been a serious or repeated breach of a condition of the tenancy agreement, for example, anti-social behaviour or non-payment of rent</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Rinneadh sárú tromchúiseach nó leantach ar choinníoll de chuid an chomhaontaithe tionóntachta, mar shampla, iompar frithshóisialta nó neamhíocaíocht cíosa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The dwelling has been abandoned by the tenant and is occupied by a squatter</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Thréigh an tionónta an áit chónaithe agus tá an áit chónaithe áitithe ag suiteoir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The tenant has died and the dwelling is occupied by someone who is not entitled to succeed to the tenancy</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Fuair an tionónta bás agus tá an áit chónaithe áitithe ag duine nach bhfuil i dteideal teacht i gcomharbacht ar an tionóntacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The new procedures provide that a local authority may issue a tenancy warning if there is an alleged breach of the tenancy conditions, such as non-payment of rent or anti-social behaviour</seg></tuv>
+  <tuv xml:lang="ga"><seg>Forálann na nósanna imeachta seo gur féidir le húdarás áitiúil rabhadh tionóntachta a eisiúint má líomhnaítear gur sáraíodh coinníollacha na tionóntachta, ar nós neamhíocaíocht cíosa nó iompar frithshóisialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A tenancy warning may not be necessary in the case of very serious breaches, but if the local authority applies to repossess the dwelling without first issuing a tenancy warning, the application for a possession order must state the reasons why no such warning was issued</seg></tuv>
+  <tuv xml:lang="ga"><seg>B’fhéidir nach mbeidh gá le rabhadh tionóntachta i gcás sáruithe an-tromchúiseacha, ach má dhéanann an t-údarás áitiúil iarratas ar an áit chónaithe a athshealbhú gan rabhadh tionóntachta a eisiúint i dtosach, ní mór go luafar san iarratas ar ordú sealbhaithe na cúiseanna nár eisíodh an rabhadh sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Housing (Miscellaneous Provisions) Act 2014 sets out detailed requirements as regards tenancy warnings</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagtar amach san Acht Tithíochta (Forálacha Ilghnéitheacha), 2014 ceanglais mhionsonraithe maidir le rabhaidh thionóntachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Housing (Local Authority Tenancy Warnings) Regulations 2015 set out who can be validly served with a warning in the tenant’s absence; alternative methods for serving a warning; and the type of circumstances to be taken into account for extending the period in which the tenant can seek a review</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagtar amach sna Rialacháin Tithíochta (Rabhaidh Thionóntachta Údaráis Áitiúil), 2015 cé ar féidir rabhadh bailí a sheirbheáil orthu má bhíonn an tionónta as láthair; modhanna malartacha chun rabhadh a sheirbheáil; agus saghas na gcúinsí atá le cur san áireamh chun an tréimhse a shíneadh inar féidir leis an tionónta athbhreithniú a lorg</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Sections 7 and 8 of the Act set out particular requirements for how tenancy warnings should be issued where the terms of the tenancy agreement have been breached as regards anti-social behaviour (Section 7) and rent-related obligations (Section 8)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagtar amach in ailt 7 agus 8 den Acht ceanglais ar leith maidir le conas ar cheart rabhaidh thionóntachta a eisiúint sa chás gur sáraíodh téarmaí an chomhaontaithe tionóntachta maidir le hiompar frithshóisialta (Alt 7) agus dualgais a bhaineann le cíos (Alt 8)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>See below for the specific requirements for such tenancy warnings</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féach thíos chun teacht ar cheanglais shonracha maidir leis na rabhaidh thionóntachta siúd</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Section 9 deals with tenancy warnings in relation to breaches of the tenancy agreement as regards any other matter</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déileálann Alt 9 le rabhaidh thionóntachta maidir le sáruithe ar an gcomhaontú tionóntachta maidir le haon saincheist eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Such a warning must specify the breach, what needs to be done and the possibility that the local authority may look for a possession order against the tenant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go sonróidh an rabhadh sin an sárú, cad is gá a dhéanamh agus an fhéidearthacht go bhféadfadh an t-údarás áitiúil ordú sealbhaithe a lorg i gcoinne an tionónta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Section 7 deals with tenancy warnings in relation to anti-social behaviour and similar behaviour – including nuisance or conduct likely to annoy or disturb neighbours, or allowing a person to be in the dwelling in breach of an order excluding them from it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déileálann Alt 7 le rabhaidh thionóntachta maidir le hiompar frithshóisialta agus a mhacasamhail d’iompar – núis nó iompar san áireamh ar dóchúil go gcuirfidh sé isteach ar chomharsana nó go gcuirfidh sé as do chomharsana, nó a ligeann do dhuine a bheith san áit chónaithe a sháraíonn ordú a dhéanann iad a eisiamh ón áit chónaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The tenancy warning must:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don rabhadh tionóntachta an méid a leanas a dhéanamh:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Set out what part of the tenancy agreement has been breached, the nature of the breach and the name (if known) of the household member involved</seg></tuv>
+  <tuv xml:lang="ga"><seg>• A leagan amach cén chuid den chomhaontú tionóntachta a sáraíodh, cineál an tsáraithe agus ainm an bhaill den teaghlach (más eol é) atá i gceist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Say when the breach occurred and its detrimental effects on the quality of life of people living nearby</seg></tuv>
+  <tuv xml:lang="ga"><seg>• A rá cathain a tharla an sárú agus an tionchar díobhálach a d’imir sé ar cháilíocht beatha na ndaoine a chónaíonn i ngar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Require the tenant to ensure that the household member involved does (or stops doing) certain things so as to stop these detrimental effects continuing or happening again</seg></tuv>
+  <tuv xml:lang="ga"><seg>• A cheangal ar an tionónta a chinntiú go ndéanann an ball den teaghlach atá i gceist rudaí áirithe (nó stop a chur le rudaí áirithe a dhéanamh) d’fhonn stop a chur leis an tionchar díobhálach seo a imirt nó tarlú arís</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Warn the tenant that the local authority may initiate repossession proceedings or seek an excluding order if the breach continues or happens again within 12 months</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Rabhadh a thabhairt don tionónta gur féidir leis an údarás áitiúil tús a chur le himeachtaí athshealbhaithe nó ordú eisiaimh a lorg má leanann an sárú nó má tharlaíonn sé arís laistigh de 12 mhí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Set out the tenant’s right to request a review of the tenancy warning</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An ceart atá ag an tionónta a leagan amach chun athbhreithniú ar an rabhadh tionóntachta a lorg</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Section 8 deals with tenancy warnings in relation to breaches of rent-related obligations – either the rent agreed in the tenancy agreement or whatever repayments were agreed in a rescheduling arrangement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déileálann Alt 8 le rabhaidh thionóntachta maidir le sáruithe ar dhualgais a bhaineann le cíos – an cíos ar a ndearnadh comhaontú sa chomhaontú tionóntachta nó pé íocaíochtaí ar ar comhaontaíodh i gcomhaontú athsceidealaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The tenancy warning must:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don rabhadh tionóntachta an méid a leanas a dhéanamh:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Set out the rent-related obligation that has been breached, the amount of arrears now owing and the period over which rent was not paid</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An dualgas a bhaineann le cíos a leagan amach a sáraíodh, méid na riaráistí atá le híoc anois agus an tréimhse inar theip orthu an cíos a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Require the tenant to pay the arrears immediately or, in case of hardship, contact the local authority to discuss rescheduling the payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>• A cheangal ar an tionónta chun na riaráistí a íoc láithreach nó, i gcás cruatain, teagmháil a dhéanamh leis an údarás chun plé a dhéanamh ar na híocaíochtaí a athsceidealú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Warn the tenant that the local authority may initiate repossession proceedings if the arrears are not paid or rescheduled within 2 months</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Rabhadh a thabhairt don tionónta gur féidir leis an údarás áitiúil tús a chur le himeachtaí athshealbhaithe mura n-íoctar na riaráistí nó mura n-athsceidealaítear iad laistigh de 2 mhí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Warn the tenant that, even if the rent arrears are paid or rescheduled within 2 months, the local authority may initiate repossession proceedings (without a further tenancy warning) if the tenant misses a payment in the next 12 months, unless a further rescheduling is arranged</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Rabhadh a thabhairt don tionónta, fiú má íoctar na riaráistí cíosa nó má athsceidealaítear iad laistigh de 2 mhí, gur féidir leis an údarás áitiúil tús a chur le himeachtaí athshealbhaithe (gan rabhadh breise tionóntachta a thabhairt) má theipeann ar an tionónta íocaíocht a dhéanamh sa tréimhse 12 mhí amach roimhe/roimpi mura socraítear athsceidealú breise</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Set out the legal provisions as regards rent arrears that have not been rescheduled</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Na forálacha dlíthiúla a leagan amach maidir le riaráistí cíosa nach ndearnadh a athsceidealú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Set out the tenant’s right to request a review of the tenancy warning</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An ceart atá ag an tionónta a leagan amach chun athbhreithniú ar an rabhadh tionóntachta a lorg</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the local authority knows that the tenant has other debts as well as the rent arrears, the tenancy warning must also include information on sources of advice on problem debt in general</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más eol don údarás áitiúil go bhfuil fiachais eile ag an tionónta mar aon le riaráistí cíosa eile, ní mór go n-áireofar leis an rabhadh tionóntachta faisnéis, chomh maith, ar aon fhoinsí comhairle ar fhiachas fadhbach go ginearálta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>After a tenancy warning has issued</seg></tuv>
+  <tuv xml:lang="ga"><seg>I ndiaidh gur eisíodh rabhadh tionóntachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under Section 10 of the Act the tenant is entitled to request an internal review of a tenancy warning</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi Alt 10 den Acht, tá an tionónta i dteideal iarraidh go ndéanfar athbhreithniú inmheánach ar rabhadh tionóntachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This request should normally be made within 10 working days of the issue of the warning – or within 20 working days in exceptional circumstances</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba ghnách gur cheart an t-iarratas seo a dhéanamh laistigh de 10 lá oibre tar éis go n-eisítear an rabhadh – nó laistigh de 20 lá oibre faoi chúinsí eisceachtúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The request should outline the grounds on which it is made, include any supporting documents and indicate whether the tenant or a household member wishes to make oral representations as part of the review</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart go dtabharfar cuntas san iarratas ar an mbunús ar a ndéantar é, aon cháipéisí tacaíochta a chur san áireamh agus a thabhairt le fios an mian nó nach mian leis an tionónta nó le ball den teaghlach uiríll ó bhéal a dhéanamh mar chuid den athbhreithniú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The review must be carried out by a local authority official who was not involved in the initial warning and who is more senior than the official who issued the warning</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go dtabharfaidh oifigeach d’údarás áitiúil faoin athbhreithniú nach raibh baint acu sa rabhadh tosaigh agus atá ina oifigeach níos sinsearaí ná an t-oifigeach a d’eisigh an rabhadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In general, the reviewer should conclude the review within 20 working days of being appointed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, ba cheart don athbhreithneoir an t-athbhreithniú a chríochnú laistigh de 20 lá tar éis a bheith ceaptha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if the review involves meeting the tenant or a household member, or if a variation to the warning is proposed, this may take up to 30 working days</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhíonn casadh le tionónta nó le ball de theaghlach i gceist leis an athbhreithniú nó má bheartaítear athrú ar an rabhadh, áfach, d’fhéadfadh seo a fhad le 30 lá oibre a ghlacadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The reviewer can decide to confirm the tenancy warning, vary its terms (after giving the tenant a chance for feedback) or annul the warning</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh an t-athbhreithneoir cinneadh a dhéanamh chun an rabhadh tionóntachta a dheimhniú, a théarmaí a athrú (tar éis deis a thabhairt don tionónta aiseolas a thabhairt) nó chun an rabhadh a chur ar neamhní</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The local authority must send the tenant a written copy of the decision</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don údarás áitiúil cóip scríofa den chinneadh a sheoladh chuig an tionónta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the case of intimidation, the reviewer can accept a statement by a Garda or a local authority official as evidence that a person has been engaged in anti-social behaviour</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás imeaglú, féadfaidh an t-athbhreithneoir glacadh le ráiteas ag Garda nó ag oifigeach den údarás áitiúil mar fhianaise go raibh iompar frithshóisialta ar bun ag duine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the tenant does not ask for a review, the warning takes effect from the second working day after the period for requesting a review has expired</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura n-iarann an tionónta ar athbhreithniú, beidh an rabhadh i bhfeidhm ón dara lá oibre i ndiaidh gur éag an tréimhse inar féidir iarraidh ar athbhreithniú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the tenant has asked for a review, and the warning has been upheld or varied, it comes into effect on the second working day after the decision was sent to the tenant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má d’iarr an tionónta ar athbhreithniú, agus má seasadh leis an rabhadh nó má athraíodh é, tiocfaidh sé i bhfeidhm ar an dara lá oibre i ndiaidh gur seoladh an cinneadh chuig an tionónta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the tenant does not deal with the breach of the tenancy agreement, even after the tenancy warning, the local authority can apply to the District Court for a possession order to enable it to repossess the dwelling</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura ndéileálann an tionónta le sárú an chomhaontaithe tionóntachta, fiú i ndiaidh gur eisíodh an rabhadh tionóntachta, féadfaidh an t-údarás áitiúil iarratas a dhéanamh ar an gCúirt Dúiche ar ordú sealbhaithe lena chur ar a gcumas an áit chónaithe a athshealbhú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The court hearing may be held in camera in some cases</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadtar éisteacht na cúirte a chur ar bun mar chruinniú iata i roinnt cásanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The court may order the ending of the tenancy or, in the case of anti-social behaviour, may order the exclusion of a member of the household from the tenancy</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh an chúirt deireadh a chur leis an tionóntacht a ordú nó, i gcás iompar frithshóisialta, féadfaidh siad eisiamh baill den teaghlaigh a ordú ón tionóntacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The local authority must generally give the tenant at least 10 days’ notice of the court hearing, but if the breach of the tenancy agreement is having serious effects on people living nearby, it must give the tenant a copy of the possession application as soon as it applies for the order, with a written explanation of why the tenant was not given the 10 days’ notice</seg></tuv>
+  <tuv xml:lang="ga"><seg>De ghnáth, ní mór go dtabharfaidh an t-údarás áitiúil fógra ar a laghad 10 lá sula mbíonn éisteacht na cúirte ar siúl, ach má bhíonn tionchar tromchúiseach á imirt ag an gcomhaontú tionóntachta ar dhaoine a chónaíonn i ngar, ní mór dóibh cóip den iarratas ar shealbhú a thabhairt don tionónta a luaithe a dhéanann siad iarratas ar an ordú, mar aon le míniú scríofa ar cén fáth nár tugadh fógra 10 lá don tionónta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The possession application must give the grounds for the application, including full details of the breach, the name of person causing it (if known) and its effects on people living nearby</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go sonrófar san iarratas ar shealbhú an bunús atá leis an iarratas, lena n-áirítear sonraí iomlána faoin sárú, ainm an duine is cúis leis (más eol é) agus an tionchar a imríonn sé ar dhaoine atá ina gcónaí i ngar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The application must also give details of any tenancy warnings issued to the tenant or household members within the last 5 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chomh maith leis sin, ní mór go dtugtar sonraí san iarratas ar aon rabhaidh thionóntachta a eisíodh don tionónta nó do bhaill den teaghlach le 5 bliana anuas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If no tenancy warning was issued for the current breach, the application must give reasons why one was issued</seg></tuv>
+  <tuv xml:lang="ga"><seg>Murar eisíodh aon rabhadh tionóntachta don sárú reatha, ní mór go dtabharfar san iarratas na cúiseanna ar eisíodh an rabhadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If there is a tenancy warning for a similar breach currently under review, the application must give the reasons why the possession order is being sought at the same time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá rabhadh tionóntachta mar gheall ar a mhacasamhail de shárú faoi athbhreithniú, ní mór go dtugtar na cúiseanna san iarratas ar an bhfáth a bhfuil an t-ordú sealbhaithe á lorg ag an tráth céanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a possession order is granted, it gives the date on which the local authority can repossess the dwelling</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dheonaítear ordú sealbhaithe, luaitear an dáta ann ar ar féidir an t-údarás áitiúil an áit chónaithe a athshealbhú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This must be no sooner than 2 months (and no later than 9 months) after the date of the order</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níor cheart go mbeidh seo tráth níos luaithe ná 2 mhí (agus tráth nach déanaí ná 9 mí) i ndiaidh dháta an ordaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The tenancy will be terminated on the date that the local authority takes possession of the dwelling under the possession order</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirfear deireadh leis an tionóntacht ar an dáta a ghlacann an t-údarás áitiúil seilbh ar an áit chónaithe faoin ordú sealbhaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Section 14 of the Act allows the local authority, in certain circumstances, to enter an abandoned dwelling that is at risk of damage or trespass</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceadaítear faoi Alt 14 den Acht don údarás áitiúil, faoi chúinsí áirithe, chun áit chónaithe thréigthe a iontráil atá i mbaol díobhála nó foghla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The local authority can do this either with the tenant’s consent or with a warrant from the District Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh an t-údarás áitiúil seo a dhéanamh cibé acu le toiliú an tionónta nó le barántas ón gCúirt Dúiche</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if that property has been vandalised or is at imminent risk of damage, the local authority can enter it to do whatever is necessary, without getting a warrant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má rinneadh an réadmhaoin sin a lot, áfach, nó má tá sí i ngarbhaol díobhála, féadfaidh an t-údarás áitiúil í a iontráil chun pé rud atá riachtanach a dhéanamh, gan barántas a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the local authority plans to repossess an abandoned dwelling, it must give the tenant 4 weeks to confirm whether or not they intend to occupy it again</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bheartaíonn an t-údarás áitiúil chun áit chónaithe thréigthe a athshealbhú, ní mór dóibh tréimhse 4 seachtaine a thabhairt don tionónta lena dheimhniú cibé acu an mbeartaíonn nó nach mbeartaíonn siad chun í a áitiú arís</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>After 4 weeks, the local authority can serve a notice on the tenant, ending the tenancy, and can then take possession of the dwelling without any further proceedings</seg></tuv>
+  <tuv xml:lang="ga"><seg>I ndiaidh 4 seachtaine, féadfaidh an t-údarás áitiúil fógra a sheirbheáil ar an tionónta, a chuireann deireadh leis an tionóntacht, agus féadfaidh siad seilbh a ghlacadh ar an áit chónaithe gan dul i mbun aon imeachtaí breise</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The former tenant may apply to the District Court (within 6 months) for the termination to be reconsidered</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh an t-iar-thionónta iarratas a dhéanamh ar an gCúirt Dúiche (laistigh de 6 mhí) go ndéanfar athbhreithniú ar dheireadh a chur leis an tionóntacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Occupiers who are not tenants</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áititheoirí nach tionóntaí iad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If someone who is not entitled to a tenancy is occupying a dwelling, the local authority can apply to the District Court for a possession order, setting out its grounds</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá áit chónaithe á háitiú ag duine nach bhfuil i dteideal tionóntacht a bheith acu, féadfaidh an t-údarás áitiúil iarratas a dhéanamh ar an gCúirt Dúiche ar ordú sealbhaithe, ina leagtar amach a gcuid bunús</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It must have regard to protecting the identity of anyone who informed it of the occupation, if there is reason to believe that this is necessary</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go dtugtar aird ar aitheantas aon duine a chosaint a chuir ar an eolas iad faoin áitiú, más ann do chúis lena gcreidiúint go bhfuil gá leis seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the tenant has died and the occupier is (or claims to be) a member of the late tenant’s household, but is not entitled to succeed to the tenancy, the local authority can apply for a possession order, setting out its grounds</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fuair an tionónta bás agus más ball de theaghlach an tionónta a fuair bás (nó má mhaíonn siad gurb amhlaidh atá iontu), ach níl siad i dteideal teacht i gcomharbas ar an tionóntacht, féadfaidh an t-údarás áitiúil iarratas a dhéanamh ar ordú sealbhaithe, ina leagtar amach a gcuid bunús</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the occupier has applied for a succession tenancy and been refused, the possession application must give the basis for that refusal and refer to the local authority’s written policy on succession tenancies</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má rinne an t-áititheoir iarratas ar thionóntacht comharbais agus má diúltaíodh don iarratas sin, ní mór go dtugtar an bunús a bhí leis an diúltú sin san iarratas ar shealbhú agus ní mór dó tagairt a dhéanamh do bheartas scríofa an údaráis áitiúil maidir le tionóntachtaí comharbais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>At least 10 working days before the District Court hearing, the local authority must give the occupant written notice of the hearing and details of the possession application</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don údarás áitiúil fógra scríofa a thabhairt don áititheoir maidir leis an éisteacht mar aon le sonraí faoin iarratas ar shealbhú ar a laghad 10 lá roimh éisteacht na Cúirte Dúiche</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Court may decide to hear some or all of the case in camera</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh an Chúirt a chinneadh, ina dhiaidh sin, chun éisteacht le cuid den chás nó an cás go léir mar chruinniú iata</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Court can make a possession order if it appears that:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh an Chúirt ordú sealbhaithe a dhéanamh más dealraitheach an méid a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The local authority has grounds for the recovery of possession</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tá údar ag an údarás áitiúil chun seilbh a aisghabháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Repossession is a proportionate response to the occupier’s occupation of the dwelling and</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Is ionann athshealbhú agus freagairt chomhréireach ar áitiú áititheora na háite cónaithe, agus</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Making such an order is reasonable in all the circumstances</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Is réasúnta a leithéid d’ordú a dhéanamh faoi na cúinsí uile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All decisions in the District Court (such as the granting of a possession order) may be appealed to the Circuit Court and a further appeal on a point of law may be made to the High Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadtar gach cinneadh sa Chúirt Dúiche (ar nós ordú sealbhaithe a dheonú) a achomharc leis an gCúirt Chuarda agus féadtar achomharc breise a dhéanamh ar phointe dlí leis an Ard-Chúirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Housing associations can evict you without any reason as long as they follow the correct procedure</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh comhlachais tithíochta thú a dhíshealbhú gan aon chúis a thabhairt duit a fhad agus a leanann siad an nós imeachta ceart</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means first issuing a notice to quit and then applying to court for a possession order</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn seo go bhfuil orthu fógra fágála a eisiúint ar dtús agus iarratas a dhéanamh ar an gcúirt ar ordú ina dhiaidh sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, in practice, housing associations do not evict their tenants without reason and if you pay your rent and comply with other conditions of the tenancy, you will normally be able to stay in your home for as long as you want</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcleachtas, áfach, ní dhíshealbhaíonn comhlachais tithíochta a dtionóntaí gan chúis agus má íocann tú do chíos agus má chomhlíonann tú coinníollacha eile na tionóntachta, is gnách go mbeidh tú in ann fanacht i do theach chomh fada agus is mian leat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are in temporary accommodation provided by a housing association, such as a short-term hostel, your position is much weaker and legally the housing association does not even need to issue a notice to quit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú i gcóiríocht shealadach a sholáthraíonn comhlachas tithíochta, níl suíomh chomh tréan sin agat agus i dtaobh cúrsaí dlíthiúla de, ní gá don chomhlachas tithíochta fiú fógra fágála a eisiúint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Again, however, in practice, housing associations do not evict their tenants without reason</seg></tuv>
+  <tuv xml:lang="ga"><seg>Arís eile, i gcleachtas, áfach, ní dhíshealbhaíonn comhlachais tithíochta a dtionóntaí gan chúis</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>It is possible to have an ordinary referendum which is one that does not relate to amending Bunreacht na hEireann (the Irish Constitution)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is gnáth reifreann ceann nach mbaineann le leasú a dhéanamh ar an mBunreacht, cé nach raibh aon reifreann den chineál seo ann fós</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Since the foundation of the State however, no ordinary referendum has ever been held</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó bhunús an Stáit ní raibh aon reifreann den chineál seo ann fós</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An ordinary referendum would take place if the Irish President received a joint petition from both houses of the Oireachtas (the Irish Parliament), that is, the Dáil and the Seanad</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dá bhfaigheadh an tUachtarán comhachainí ón Dáil agus ón Seanad d'fhéadfaí gnáth reifreann a bheith ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The petition would set out that a proposed Bill was of such national importance that the will of the people of Ireland should be found out before it became law</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bheadh sé leagtha síos san achainí go raibh tábhacht mór náisiúnta ag baint le Bille molta nach mór toil mhuintir a fhiosrú romh dlí a dhéanamh den bhille</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The joint petition must be passed by the majority of the members of the Seanad and one-third of the members of the Dáil</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór do thromlach na Seanadóirí agus aon trian de na Teachtaí Dála a bheith ar son na hachainí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When the President receives the petition, he/she must consult the Council of State</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a thagann an achainí os comhair an Uachtaráin ní mór dí/dó dul i gcomhairle leis an gComhairle Stáit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the President decides that the Bill contains a proposal of such national importance that the will of the people should be found out, he/she will refuse to sign the Bill until a referendum has been held</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéanann an tUachtarán cinneadh go bhfuil tábhacht mór náisiúnta ag baint leis an moladh sa bhille gur gá toil mhuintir na hÉireann a lorg diúltóidh sí/sé an bille a shíniú go dtí go mbeidh reifreann ar an gceist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The referendum must be held within 18 months of the President's decision not to sign the Bill</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go mbeadh reifreann ann taobh istigh de 18 mí ó dhéanann an tUachtarán cinneadh gan an bille a shíniú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This referendum gives the people of Ireland a chance to decide whether the Bill should become part of Irish law</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann an reifreann deis do phobal na hÉireann cinneadh a dhéanamh an ceart dlí a dhéanamh den bhille</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The voting procedure at the ordinary referendum is the same as in a constitutional referendum, except that the proposal is deemed to have been vetoed by the people if:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an córas vótála céanna i bhfeidhm do ghnáth reifreann agus a bhíonn do reifreann bunreachtúil , ach amháin go meastar go bhfuil diúltaithe ag an bpobal don mholadh má:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The majority of the votes cast are against the Bill and</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bhíonn tromlach na vótaí caite i gcoinne an Bhille agus</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Those votes make up at least one-third of the presidential electors on the register of electors</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Dhéanann na vótaí sin suas ar a laghad aon trian de na toghthóirí uachtaráin ar chlár na dtoghthóirí</seg></tuv>
+</tu>
+</body>
+</tmx>

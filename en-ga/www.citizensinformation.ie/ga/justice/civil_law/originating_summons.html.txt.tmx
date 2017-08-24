@@ -1,0 +1,477 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>• Setting down for trial</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Triail a chur síos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the High Court, the person who is bringing the case, that is, the person who is suing, is known as the plaintiff</seg></tuv>
+  <tuv xml:lang="ga"><seg>San Ard-Chúirt, tugtar an gearánaí ar an duine a bhfuil tús á chur acu leis an gcás, is é sin, an duine a bhfuil agairt á dhéanamh acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The person who is being sued is known as the defendant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar an cosantóir ar an duine a bhfuil agairt á dhéanamh orthu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To commence proceedings, that is, to start a legal action, the plaintiff's barrister prepares an originating summons</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun tús a chur le himeachtaí, is é sin, chun tús a chur le caingean dlí, ullmhaíonn abhcóide an ghearánaí toghairm thionscnaimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The purpose of this document is to state the case being made against the defendant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é cuspóir na cáipéise seo chun an cás atá á dhéanamh i leith an chosantóra a lua</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When the defendant receives the summons, they must enter an appearance to show that they are now a party to the case</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a fhaigheann an cosantóir an toghairm, ní mór dóibh láithreas a thaifeadadh lena thaispeáint gur páirtí anois iad sa chás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Depending on the type of originating summons, the plaintiff may have to serve a statement of claim on the defendant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag brath ar shaghas na toghairme tionscnaimh, b’fhéidir go mbeidh ar an ngearánaí ráitis éilimh a sheirbheáil ar an gcosantóir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When the defendant has received the statement of claim, they will issue a defence, setting out why the defendant is not to blame</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a bhíonn an ráiteas éilimh faighte ag an gcosantóir, eiseoidh siad cosaint, ina leagtar amach cén fáth nach bhfuil an locht ar an gcosantóir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the defendant believes that they actually have a claim against the plaintiff, the defendant will include a counterclaim with the defence setting out their claim against the plaintiff</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chreideann an cosantóir go dtarlaíonn go bhfuil éileamh acu i gcoinne an ghearánaí, cuirfidh an cosantóir frithéileamh san áireamh leis an gcosaint ina leagtar amach a n-éileamh i leith an ghearánaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Usually proceedings in the High Court are commenced by an originating summons</seg></tuv>
+  <tuv xml:lang="ga"><seg>De ghnáth, cuirtear tús le himeachtaí san Ard-Chúirt le toghairm thionscnaimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>After the summons has been prepared by your barrister, your solicitor takes it to the Central Office to be issued - this involves paying the stamp duty</seg></tuv>
+  <tuv xml:lang="ga"><seg>I ndiaidh gur ullmhaigh d’abhcóide an toghairm, tabharfaidh d’aturnae í chuig an Lároifig go n-eiseofar í – is gá an dleacht stampála a íoc mar chuid de seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>After the stamp duty has been paid, the summons is stamped and it is ready to be served on the defendant</seg></tuv>
+  <tuv xml:lang="ga"><seg>I ndiaidh go n-íoctar an dleacht stampála, stampáiltear an toghairm agus bíonn sí réidh le seirbheáil ar an gcosantóir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is more information in Order 5 of the Rules of the Superior Courts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá níos mó faisnéise ar fáil in Ordú 5 de Rialacha na nUaschúirteanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are 3 types of originating summons:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá 3 shaghas de thoghairm thionscnaimh ann:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A plenary summons is used to commence proceedings where there is a real dispute between the parties and/or the amount of the plaintiff's claim is not specific or easy to calculate</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Úsáidtear toghairm iomlánach chun tús a chur le himeachtaí nuair atá fíor-dhíospóid idir na páirtithe agus/nó mura mbíonn méid éileamh an ghearánaí sonrach nó furasta le ríomh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, a plenary summons may be used where the plaintiff claims that they were injured in a road traffic accident due to the defendant's negligence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, féadtar toghairm iomlánach a úsáid nuair a mhaíonn an gearánaí gur gortaíodh iad i dtimpiste um thrácht ar bhóithre mar gheall ar fhaillí an chosantóra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When a plenary summons is issued, the next step is for the parties to exchange pleadings (see statement of claim and delivering the defence below)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a eisítear toghairm iomlánach, is í an chéad chéim eile do na páirtithe chun pléadálacha a mhalartú (féach ‘ráiteas éilimh’ agus ‘an chosaint a sholáthar’ thíos)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Eventually, the case will be given a date for a trial and there may be evidence given by witnesses</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar deireadh, tabharfar dáta trialach don chás agus féadfaidh finnéithe fianaise a thabhairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A summary summons is used when the amount of the plaintiff's claim is easily quantifiable and the defendant does not have any valid defence</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Úsáidtear toghairm iomlánach nuair atá méid éileamh an ghearánaí furasta le cainníochtú agus nuair nach mbíonn aon chosaint bhailí ag an gcosantóir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, a summary summons may be used where the plaintiff claims that they lent the defendant a specific amount of money that has not been repaid</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, is féidir toghairm iomlánach a úsáid nuair a mhaíonn an gearánaí gur thug siad suim shonrach airgid ar iasacht don chosantóir nár aisíoc siad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Summary proceedings do not involve pleadings and do not end in a trial with evidence given by witnesses</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl pléadálacha i gceist le himeachtaí achomair agus ní chríochnaítear iad le triail ina dtugann finnéithe fianaise</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is a fast-track procedure where the judge decides the case after reading affidavits submitted by both sides</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is nós imeachta mear é ina ndéanann an breitheamh cinneadh ar an gcás i ndiaidh mionnscríbhinní a sheol an dá thaobh isteach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if it becomes clear to the judge that the defendant has a stateable defence to the claim, the judge may order that the case be dealt with as plenary proceedings</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más soiléir don bhreitheamh go bhfuil cosaint inluaite ag an gcosantóir leis an éileamh, féadfaidh an breitheamh a ordú go ndéileálfar leis an gcás mar imeachtaí iomlánacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that pleadings will be exchanged and the matter may go to trial</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn seo go ndéanfar pléadálacha a mhalartú agus go bhféadfadh an cheist triail a bhaint amach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A special summons is used for cases that involve pure issues of law or very specific issues of fact</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Úsáidtear toghairm speisialta do chásanna ina bhfuil saincheisteanna glana dlí nó saincheisteanna an-ghlana fírice i gceist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, a special summons will be issued to commence a claim relating to the administration of the estate of a deceased person</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, eiseofar toghairm speisialta chun tús a chur le héileamh a bhaineann le riar eastát duine éagtha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Like summary proceedings, this is a fast-track procedure where the judge decides the case by reading affidavits submitted by both sides</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar nós imeachtaí iomlánacha, is nós imeachta mear seo ina ndéanann an breitheamh cinneadh ar an gcás trí mhionnscríbhinní a léamh a sheolann an dá thaobh isteach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is more information on originating summons on the Courts Service website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá fáil ar bhreis faisnéise ar thoghairmeacha tionscnaimh ar láithreán gréasáin na Seirbhíse Cúirteanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All originating summonses must contain the following information:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór an fhaisnéis a leanas a bheith cuimsithe i ngach toghairm thionscnaimh:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A title – the plaintiff's name and the defendant's name make up the title of the proceedings</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Teideal – comhdhéanann ainm an ghearánaí agus ainm an chosantóra teideal na n-imeachtaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The type of the summons, for example, plenary summons</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Saghas na toghairme, mar shampla, toghairm iomlánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A description of the parties – the summons must state the surname, first name, the residence or place of business and the occupation of the plaintiff</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cur síos ar na páirtithe – ní mór go luafar sa toghairm sloinne, céadainm, áit chónaithe nó áit ghnó agus gairm an ghearánaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It must also state the name and address of the defendant (or their solicitor)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chomh maith leis sin, ní mór go luafar ainm agus seoladh an chosantóra (nó a n-aturnae)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• An indorsement of claim – this is the part of the summons that sets out what the plaintiff claims they are entitled to</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Formhuiniú éilimh – tá seo mar chuid den toghairm ina leagtar amach an méid a mhaíonn an gearánaí atá siad i dteideal a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The level of detail necessary in this section depends on the type of summons</seg></tuv>
+  <tuv xml:lang="ga"><seg>Braitheann an méid sonraí a theastaíonn sa mhír seo ar shaghas na toghairme</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the summons is a plenary summons, it is only necessary to give the defendant information about the general nature of the plaintiff's claim – more detail will be provided in the statement of claim that follows</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más toghairm iomlánach an toghairm, ní gá ach faisnéis a thabhairt don chosantóir faoi chineál ginearálta éileamh an ghearánaí – soláthrófar níos mó sonraí sa ráiteas éilimh a leanfaidh sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the summons is a summary summons or a special summons, much more detail must be given about the nature, extent and grounds of the plaintiff's claim against the defendant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más toghairm iomlánach nó toghairm speisialta an toghairm, ní mór i bhfad níos mó sonraí a thabhairt faoi chineál, méid agus bunúis éileamh an ghearánaí i leith an chosantóra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It should clearly set out the allegations that are being made by the plaintiff and the amount that the plaintiff claims they are entitled to</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart go leagfaí amach go soiléir na líomhaintí atá á ndéanamh ag an ngearánaí agus an méid a mhaíonn an gearánaí go bhfuil siad i dteideal a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Serving an originating summons</seg></tuv>
+  <tuv xml:lang="ga"><seg>Toghairm thionscnaimh a sheirbheáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To serve an originating summons, a copy of the summons must be handed to the defendant and they must be shown the original</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun toghairm thionscnaimh a sheirbheáil, ní mór cóip den toghairm a thabhairt don chosantóir agus ní mór dóibh an bhunchóip a thaispeáint dóibh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The summons can be served on the defendant's solicitor if they accept service on behalf of their client and is authorised to do so</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadtar an toghairm a sheirbheáil ar aturnae an chosantóra má ghlacann siad le seirbheáil a dhéanamh thar ceann a gcliaint agus má tá siad údaraithe chun amhlaidh a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is more information on serving a summons in Order 9 of the Rules of the Superior Courts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá níos mó faisnéise ar thoghairm a sheirbheáil in Ordú 9 de Rialacha na nUaschúirteanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When a defendant receives a plenary or a summary summons they should enter an appearance within 8 days</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás go bhfaigheann cosantóir toghairm iomlánach nó achomair, ba cheart dóibh láithreas a thaifeadadh laistigh de 8 lá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This time limit is not strict and in most cases, an appearance can be entered after the time has expired</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl an teorainn ama dian agus, i dtromlach na gcásanna, féadtar láithreas a iontráil i ndiaidh gur éag an t-am</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When a defendant receives a special summons they may enter an appearance at any time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás go bhfaigheann cosantóir toghairm speisialta, féadfaidh siad láithreas a thaifeadadh ag aon tráth</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They will not be heard at any proceedings unless they have entered an appearance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní éistfear leo ag aon imeachtaí murar iontráil siad láithreas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Entering an appearance is a very important step as it indicates that the defendant intends to defend the proceedings</seg></tuv>
+  <tuv xml:lang="ga"><seg>Céim an-tábhachtach is ea láithreas a thaifeadadh mar gheall go dtugann sé le fios go mbeartaíonn an cosantóir chun na himeachtaí a chosaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To enter an appearance, the defendant must lodge a memorandum of appearance at the Central Office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun láithreas a thaifeadadh, ní mór don chosantóir meabhrán láithris a sheoladh ar aghaidh ag an Lároifig</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The plaintiff's solicitor must then be notified by the defendant that an appearance has been entered</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don chosantóir fógra a thabhairt d’aturnae an ghearánaí ina dhiaidh sin gur iontráladh láithreas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The short form must contain the following information:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go gcuimsítear an fhaisnéis a leanas san fhoirm ghearr:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The name of the defendant's solicitor. If the defendant does not have a solicitor, it must state that the defendant defends in person</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ainm aturnae an chosantóra Mura bhfuil aturnae ag an gcosantóir, ní mór go luafar ann go ndéanfaidh an cosantóir na himeachtaí a chosaint iad féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The form must also give the solicitor's address</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní mór seoladh an aturnae a thabhairt san fhoirm, chomh maith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the defendant does not have a solicitor, it must state an address where documents can be left for them</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil aturnae ag an gcosantóir, ní mór go luafar seoladh ann inar féidir cáipéisí a fhágáil dóibh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further information on entering an appearance is available in Order 12 of the Rules of the Superior Courts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá fáil ar thuilleadh faisnéise ar láithreas a iontráil in Ordú 12 de Rialacha na nUaschúirteanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the case has been commenced by a plenary summons and the defendant has entered an appearance, then the next step is for the plaintiff to serve a statement of claim on the defendant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má cuireadh tús leis an gcás trí thoghairm iomlánach agus má d’iontráil an cosantóir láithreas, is é an chéad chéim ná go seirbheálfaidh an gearánaí ráiteas éilimh ar an gcosantóir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The plaintiff has 21 days to deliver the statement of claim after the defendant has entered an appearance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar 21 lá don ghearánaí chun an ráiteas éilimh a sholáthar i ndiaidh gur iontráil an cosantóir láithreas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the plaintiff fails to deliver the statement of claim within the required time, the defendant can apply to the court to dismiss the action for want of prosecution</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má theipeann ar an ngearánaí an ráiteas éilimh a iontráil laistigh den tráth a theastaíonn, féadfaidh an cosantóir iarratas a dhéanamh ar an gcúirt chun an caingean a dhíbhe d’fhonn ionchúiseamh a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is not necessary to serve the statement of claim personally on the defendant – it may be sent by registered post</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní gá an ráiteas éilimh a sheirbheáil go pearsanta ar an gcosantóir – is féidir é a sheoladh sa phost cláraithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The purpose of the statement of claim is to show the defendant the case that is being made against them and which they have to meet at the trial of the action</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é cuspóir an ráitis éilimh an cás a thaispeáint don chosantóir atá á dhéanamh ina leith agus an cás a mbeidh orthu aghaidh a thabhairt air ag triail na caingne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The statement of claim must contain the following information:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór an fhaisnéis a leanas a bheith cuimsithe sa ráiteas éilimh:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The title and record number – the plaintiff's name and the defendant's name make up the title of the proceedings</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An teideal agus an uimhir thaifid – comhdhéanann ainm an ghearánaí agus ainm an chosantóra teideal na n-imeachtaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A description of the parties – the statement of claim must state the surname, first name, the residence or place of business and the occupation of the plaintiff and the defendant</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cur síos ar na páirtithe – ní mór go luafar sa ráiteas éilimh sloinne, céadainm, áit chónaithe nó áit ghnó agus gairm an ghearánaí agus an chosantóra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The statement of claim must state the nature, extent and grounds of the plaintiff's claim against the defendant</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní mór go luafar sa ráiteas éilimh cineál, méid agus bunúis éileamh an ghearánaí i leith an chosantóra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It should clearly set out the allegations that are being made by the plaintiff and the damage that the plaintiff suffered</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart go leagfaí amach go soiléir na líomhaintí atá á ndéanamh ag an ngearánaí agus an díobháil a raibh an gearánaí thíos léi</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It should also state what the plaintiff is seeking from the court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Anuas air sin, ba cheart go luafaí cad atá á lorg ag an ngearánaí ón gcúirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The statement of claim must be dated and signed by the plaintiff or their solicitor</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní mór don ráiteas éilimh a bheith dátaithe agus sínithe ag an ngearánaí nó ag a n-aturnae</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further information is available in Order 20 of the Rules of the Superior Courts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá fáil ar thuilleadh faisnéise in Ordú 20 de Rialacha na nUaschúirteanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The defendant must deliver a defence to the plaintiff and they must deliver the defence within 28 days of receiving the statement of claim</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don chosantóir cosaint a sholáthar don ghearánaí agus ní mór dóibh an chosaint a sholáthar laistigh de 28 lá tar éis an ráiteas éilimh a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This time limit is not strict and in most cases, a defence can be delivered after the time has expired</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl an teorainn ama seo dian agus, i dtromlach na gcásanna, féadtar cosaint a sholáthar i ndiaidh gur éag an t-am</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When they receive the statement of claim they may decide that not only have they done nothing wrong and the claim should not have been brought against them, but that they have a claim against the plaintiff</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a fhaigheann siad an ráiteas éilimh, féadfaidh siad a chinneadh ní hamháin nach ndearna siad aon rud mícheart agus nár cheart an t-éileamh a dhéanamh ina choinne, ach go bhfuil éileamh acu i gcoinne an ghearánaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In those circumstances, they may wish to include a counterclaim with their defence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi na cúinsí siúd, b’fhéidir gur mian leo frithéileamh a chur san áireamh lena gcosaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are no set rules about what must be contained in the defence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon rialacha seasta ann maidir leis an méid ar cheart a chuimsiú sa chosaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The document starts with the title of the proceedings and the record number</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tosaítear an cháipéis le teideal na n-imeachtaí agus an uimhir thaifid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is up to the defendant to admit or deny the allegations that the plaintiff has made in their statement of claim</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is faoin gcosantóir atá sé chun na líomhaintí a admháil nó a shéanadh a rinne an gearánaí ina ráiteas éilimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is also up to the defendant to state any specific defence that they are relying on</seg></tuv>
+  <tuv xml:lang="ga"><seg>Anuas air sin, is faoin gcosantóir atá sé chun aon chosaint shonrach a lua a bhfuil siad ag brath uirthi</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, if the defendant is claiming that the plaintiff's claim has been brought outside of the time limits, then the defendant should specifically plead that fact in the defence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, má tá mhaíonn an cosantóir go ndearnadh éileamh an ghearánaí lasmuigh de na teorainneacha ama, ba cheart don chosantóir an fhíric sin a phléadáil go sonrach sa chosaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the plaintiff has made a specific allegation and the defendant fails to deny that allegation in the defence, it will be assumed that the defendant is admitting that the allegation is true</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má rinne an gearánaí líomhain shonrach agus má theipeann ar an gcosantóir an líomhain sin a shéanadh sa chosaint, meastar go bhfuil an cosantóir ag admháil go bhfuil an líomhain fíor</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, if the plaintiff has claimed in the statement of claim that they were involved in a road traffic accident and the defence fails to deny that the road traffic accident occurred, then it is assumed that the defendant is admitting that the road traffic accident happened</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, má mhaíonn an gearánaí sa ráiteas éilimh go raibh baint ag an ngearánaí i dtimpiste um thrácht ar bhóithre agus má theipeann ar an gcosaint a shéanadh gur tharla an timpiste um thrácht ar bhóithre, meastar go bhfuil an cosantóir ag admháil gur tharla an timpiste um thrácht ar bhóithre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is not then necessary for the plaintiff to prove to the judge that the accident occurred</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní gá don ghearánaí a chruthú don bhreitheamh gur tharla an timpiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>On the other hand, when the defendant specifically denies a claim that the plaintiff has made, they are putting the plaintiff on proof of the allegation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar an taobh eile den phingin, nuair a shéanann an cosantóir go sonrach éileamh a rinne an gearánaí, cuirtear an gearánaí ar cruthúnas na líomhna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that the plaintiff must prove that the claim is true</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn seo nach mór don ghearánaí a chruthú go bhfuil an t-éileamh fíor</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, if the defence specifically denies that the road traffic accident occurred, the plaintiff must prove it by introducing evidence in court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, má shéantar sa chosaint go sonrach gur tharla an timpiste um thrácht ar bhóithre, ní mór don ghearánaí a chruthú gur tharla sí trí fhianaise a thabhairt chun na cúirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the defendant wishes to make a claim against the plaintiff, this can be done by adding a counterclaim section to the defence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más main leis an gcosantóir éileamh a dhéanamh i gcoinne an ghearánaí, féadtar seo a dhéanamh trí mhír frithéilimh a chur leis an gcosaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This must clearly set out the allegations that the defendant is making against the plaintiff and what the defendant seeks from the court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go leagtar amach go soiléir ann seo na líomhaintí atá á ndéanamh ag an gcosantóir i gcoinne an ghearánaí agus an méid atá á lorg ag an gcosantóir ón gcúirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is more information in Order 21 of the Rules of the Superior Courts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá níos mó faisnéise ar fáil in Ordú 21 de Rialacha na nUaschúirteanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is often necessary to reply to points raised in a defence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is minic gur gá freagairt do phointí a thugtar chun solais i gcosaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the plaintiff wishes to deliver a reply, they must do so within 14 days of receiving the defence unless the time is extended by the Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mian leis an ngearánaí freagairt a sholáthar, ní mór dóibh amhlaidh a dhéanamh laistigh de 14 lá tar éis an chosaint a fháil, mura síneann an Chúirt an méid ama</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where a counterclaim has been delivered by the defence, the reply is subject to the rules that apply to a defence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás gur sholáthair an chosaint frithéileamh, bíonn an fhreagairt faoi réir na rialacha a bhíonn i gceist le cosaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further information is available in Order 23 of the Rules of the Superior Courts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá fáil ar thuilleadh faisnéise in Ordú 23 de Rialacha na nUaschúirteanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the defendant fails to enter an appearance, the plaintiff can apply to court for judgement in default of appearance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má theipeann ar an gcosantóir chun láithreas a thaifeadadh, féadfaidh an gearánaí iarratas a dhéanamh ar an gcúirt ar bhreithiúnas d’éagmais láithris</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that because the defendant has failed to acknowledge the proceedings and indicate that they intend to defend them, the plaintiff may obtain a judgement from the court against the defendant without the need for a trial</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn seo gur theip ar an gcosantóir na himeachtaí a aithint agus a thabhairt le fios go mbeartaíonn siad iad a chosaint. Is féidir leis an ngearánaí breithiúnas a fháil ón gcúirt i leith an chosantóra gan aon ghá a bheith le triail</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the defendant fails to deliver a defence, the plaintiff can apply to Court for judgement in default of defence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn seo gur theip ar an gcosantóir cosaint a sheoladh chuig an ngearánaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that because the defendant has failed to send a defence to the plaintiff, the plaintiff may obtain a judgement from the court against the defendant without the need for a trial</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis an ngearánaí breithiúnas a fháil ón gcúirt i leith an chosantóra gan aon ghá a bheith le triail</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is more information in Order 27 of the Rules of the Superior Courts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá níos mó faisnéise ar fáil in Ordú 27 de Rialacha na nUachúirteanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where either plaintiff or defendant is unsure of the case they have to meet, they can seek particulars</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás nach mbíonn gearánaí nó cosantóir cinnte faoin gcás ar gá dóibh aghaidh a thabhairt air, féadfaidh siad sonraí a lorg</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is a request for more information about the case</seg></tuv>
+  <tuv xml:lang="ga"><seg>Iarratas atá ann ar bhreis faisnéise faoin gcás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They can also seek further and better particulars about any matter stated in any pleading</seg></tuv>
+  <tuv xml:lang="ga"><seg>Anuas air sin, féadfaidh siad sonraí breise agus níos fearr a lorg faoin aon cheist a luaitear in aon phléadáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They can apply for the particulars by letter or seek an order from the Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh siad iarratas a dhéanamh ar na sonraí trí litir nó féadfaidh siad ordú a lorg on gCúirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further information is available in Rules 7 and 8 of Order 19 of the Rules of the Superior Courts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá fáil ar thuilleadh faisnéise i Rialacha 7 agus 8 d’Ordú 19 de Rialacha na nUaschúirteanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Setting down for trial</seg></tuv>
+  <tuv xml:lang="ga"><seg>Triail a chur síos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In general, in actions commenced by plenary summons a notice of trial (Form 18 or 19) is served by the plaintiff on the defendant and is set down for trial in the Central Office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, i gcaingne a gcuireann toghairm iomlánach tús leo, seirbheálann an gearánaí fógra trialach (Foirm 18 nó 19) ar an gcosantóir agus cuirtear síos é le haghaidh trialach sa Lár-Oifig</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>At least 21 days’ notice must be given, unless shorter notice has been agreed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfear ar a laghad fógra 21 lá a thabhairt, mura ndearnadh comhaontú ar fhógra níos giorra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A motion to set aside the notice of trial must be brought within 4 days of the service of the notice</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfear rún chun fógra trialach a chur i leataobh a thabhairt laistigh de 4 lá i ndiaidh an fógra a sheirbheáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the plaintiff does not give notice of trial within 6 weeks after the close of the pleadings, or within such extended time as the Court may allow, the defendant may give notice of trial or may apply to the Court to dismiss the action for want of prosecution</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura dtugann an gearánaí fógra trialach laistigh de 6 seachtaine i ndiaidh go dtugtar na pléadálacha chun críche, nó laistigh den am sínte sin a cheadóidh an Chúirt, féadfaidh an cosantóir fógra trialach a thabhairt nó iarratas a dhéanamh ar an gCúirt chun an chaingean a dhíbhe mar gheall ar easpa ionchúisimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Notice of trial is given before setting down the action for trial</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar fógra trialach sula ndéantar an chaingean a chur síos le haghaidh trialach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the action is not set down by either party within 14 days of notice of trial being served, the notice of trial will no longer be in force</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura gcuireann ceachtar páirtí an chaingean síos laistigh de 14 lá i ndiaidh gur seirbheáiltear an fógra trialach, ní bheidh an fógra trialach i bhfeidhm a thuilleadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The party setting down the proceedings for trial does so by delivering to the Central Office a copy of the notice of trial together with 2 copies of the whole of the pleadings (and of any letter or notice for particulars and reply to it), one of which is for the use of the judge at the trial</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann an páirtí a chuireann na himeachtaí le haghaidh trialach síos amhlaidh trí chóip a sholáthar don Lár-Oifig den fhógra trialach, anuas ar 2 chóip de na pléadálacha iomlána (agus d’aon litir nó fógra do chritéir agus aon fhreagra a tugadh orthu), agus úsáidfidh an breitheamh cóip amháin díobh ag an triail</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further information is available in Order 36 of the Rules of the Superior Courts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá fáil ar thuilleadh faisnéise in Ordú 36 de Rialacha na nUaschúirteanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When the case is set down for trial, it is assigned to the relevant listing for the type of case</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a cuireadh an cás síos le haghaidh trialach, sanntar é don liostú ábhartha i dtaobh shaghas an cháis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Information on listing procedures is available on the Courts Service website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá faisnéis ar nósanna imeachta liostaithe ar fáil ar láithreán gréasáin na Seirbhíse Cúirteanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The stamp duty that must be paid when a summons is issued is €190</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ionann an dleacht stampála nach mór a íoc nuair a eisítear toghairm agus €190</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The stamp duty for entering an appearance is €60</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an dleacht stampála atá le híoc chun láithreas a thaifeadadh €60</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is no fee or stamp duty for lodging a defence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní ghearrtar aon táille nó dleacht stampála ar chosaint a sheoladh ar aghaidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further information on High Court fees is available on the Courts Service website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá fáil ar bhreis faisnéise ar tháillí na hArd-Chúirte ar láithreán gréasáin na Seirbhíse Cúirteanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your solicitor and barrister will also charge fees for their services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gearrfaidh d’aturnae agus d’abhcóide táillí ar a gcuid seirbhísí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further information on High Court procedures, High Court rules and forms is available on the Courts Service website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá fáil ar bhreis faisnéise ar nósanna imeachta na hArd-Chúirte, rialacha na hArd-Chúirte agus ar fhoirmeacha ar láithreán gréasáin na Seirbhíse Cúirteanna</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Parole Board of Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bord Parúil na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are a prisoner in Ireland serving a life sentence or a long term sentence, the issue of your early release from prison may be considered by the Parole Board of Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más príosúnach thú in Éirinn a bhfuil tréimhse phríosúnachta saoil nó fadtéarmach gearrtha ort d’fhéadfadh sé go mbreathnódh Bord Parúil na hÉireann ar tú a shaoradh go luath ón bpríosún</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Board, which replaced the Sentence Review Group, was established on an administrative basis in 2001</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bunaíodh an Bord ar bhonn riaracháin le teacht i gcomharbacht ar an nGrúpa Athbhreithnithe Breithe i 2001</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Board's principal function is to advise the Minister for Justice and Equality in relation to the administration of long-term prison sentences</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé mar phríomhfheidhm ag an mBord comhairle a chur ar an Aire Dlí agus Cirt agus Comhionannais maidir le riaracháin a dhéanamh ar thréimhsí fadtéarmacha príosúnachta in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are approximately ten members of the Board, including the head of the Probation Service; the Medical Director of the Central Mental Hospital; senior officials from the Department of Justice and Equality and various community representatives</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann an Bord scéal chuig an Aire maidir le dul chun cinn go dáta an phríosúnaigh, cé chomh maith atá an príosúnach ag glacadh páirte sna seirbhísí éagsúla teiripeacha agus cén bealach is fearr leis an mbreith a riaradh sa todhchaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When is a prisoner's case reviewed?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cathain a dhéantar athbhreithniú ar chás príosúnaigh?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Parole Board reviews the cases of prisoners sentenced to determinate (fixed-term) sentences of 8 years or more (but less than 14 years) at half sentence stage</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann an Bord Parúil athbhreithniú ar chásanna príosúnach a ndaortar téarmaí príosúnachta (téarma socraithe) ocht mbliana nó níos mó (ach níos lú ná 14 bliain) orthu ag leathbhealach tríd an bpianbhreith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Prisoners sentenced to 14 years or more, (including life) are reviewed after 7 years have been served</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar athbhreithniú ar phríosúnaigh a ndaortar ceithre bliana déag nó níos mó orthu (lena n-áirítear pianbhreith beatha) nuair a bhíonn 7 mbliana caite sa phríosún acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Prisoners serving sentences for certain offences (see 'Rules' section below), are excluded from the process</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar príosúnaigh atá daortha i gcomhair cionta áirithe (féach an rannóg 'Rialacha' thíos) a choinneáil amach as an bpróiseas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(In other words, they cannot apply for parole)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(I bhfocail eile, ní ceadmhach dóibh cur isteach ar pharúl)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Board advises the Minister of the prisoner's progress to date, the degree to which the prisoner has engaged with the various therapeutic services and how best to proceed with the future administration of the sentence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann an Bord comhairle ar an Aire maidir le dul chun cinn an phríosúnaigh go nuige sin, an méid comhoibrithe ag an bpríosúnach leis na seirbhísí teiripeacha éagsúla, agus conas is fearr dul ar aghaidh le riaradh thodhchaí na pianbhreithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where a prisoner is not recommended by the Board for release, a second or further review of their case will generally take place on an annual basis if the prisoner is serving less than 10 years for an offence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás nach molann an Bord go ndéanfaí príosúnach a shaoradh, is iondúil go dtarlóidh athbhreithniú eile ar a gcás ar bhunús bliantúil má dhaortar an príosúnach chun níos lú ná 10 mbliana i gcomhair ciona</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Prisoners who have not been recommended by the Board for release and who are serving more than 10 years, will generally receive subsequent reviews every 3 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair nach bhfuil sé molta ag an mBord go saorfaí príosúnaigh agus go bhfuil siad daortha chun tréimhse níos mó ná 10 mbliana, is iondúil go bhfaighidh siad athbhreithnithe eile gach 3 bliana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further information including the number and type of cases referred to the Parole Board, the nature of offences and institutions in which prisoners are held is available in the Annual Report of the Parole Board of Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá eolais eile - lena n-áirítear an méid agus an cineál cásanna a chuirtear faoi bhráid an Bhoird Pharúil, cineál na gcionta agus na n-institiúidí ina gcoinnítear na príosúnaigh - ar fáil i dTuarascáil Bhliantúil An Bhoird Pharúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Prisoners not eligible for review by the Parole Board</seg></tuv>
+  <tuv xml:lang="ga"><seg>Príosúnaigh nach bhfuil i dteideal athbhreithnithe ón mBord Parúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Prisoners guilty of the following offences are not (as a general principle) eligible for review by the Parole Board:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl príosúnaigh atá ciontach as na cionta seo a leanas i dteideal (mar phrionsabal ginearálta) athbhreithnithe ón mBord Parúil:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Murder or attempted murder committed within Ireland for a political motive, of the head of a foreign country, or of a member of the Government, or a diplomat from another country;</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Dúnmharú nó iarracht ar dhúnmharú a rinneadh laistigh d'Éirinn ar chúis pholaitiúil, ar cheann tíre eachtrannaí, nó ball den Rialtas, nó taidhleoir ó thír éigin eile;</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Murder of a member of An Garda Síochána or the Irish Prison Service in the course of his or her duty (Section 3 of the Criminal Justice Act, 1990);</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Dúnmharú baill den Gharda Síochána nó de Sheirbhís Phríosúin na hÉireann agus iad i mbun dualgais Alt 3 den Acht um Cheartas Coiriúil, 1990</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Murder or attempted murder as set out in Section 6 of the Offences Against the State Act 1939 or Section 18 of that Act</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Dúnmharú nó iarracht ar dhúnmharú mar atá leagtha síos in Alt 6 den Acht um Chionta in aghaidh an Stáit, 1939 nó Alt 18 den Acht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In making its recommendations, the Parole Board of Ireland considers a number of factors, which include:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann Bord Parúil na hÉireann roinnt cúinsí san áireamh nuair atá sé ag breathnú ar chás, ina measc:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• whether the prisoner's release would constitute a threat to the community;</seg></tuv>
+  <tuv xml:lang="ga"><seg>• an mbeadh bagairt don phobal ann dá mbeadh an príosúnach seo scaoilte saor;</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• whether it is reasonable to grant early/temporary release in view of the nature and circumstances of the offence committed;</seg></tuv>
+  <tuv xml:lang="ga"><seg>• an bhfuil sé réasúnta scaoileadh leis an bpríosúnach seo go luath/ar feadh tréimhse ag cur nádúr agus cúinsí na coire a bhí i gceist san áireamh;</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• whether the offender warrants release, taking into account his or her behaviour in custody;</seg></tuv>
+  <tuv xml:lang="ga"><seg>• an bhfuil údar ann an ciontóir a scaoileadh, ag cur a (h)iompar faoi choimeád san áireamh;</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• whether there are there any compelling compassionate grounds which merit special consideration</seg></tuv>
+  <tuv xml:lang="ga"><seg>• an bhfuil aon chúinsí ceannasacha truacha ann gur ceart machnamh speisialta a dhéanamh ar an gcás dá mbarr</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• whether the offender has engaged constructively with the prison-based therapeutic services to combat his/her offending behaviour</seg></tuv>
+  <tuv xml:lang="ga"><seg>• ar ghlac an ciontóir páirt tairbheach i seirbhísí teiripeacha an phríosúin le dul i ngleic lena (h)iompar ciontach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The final decision regarding the recommendations of the Parole Board lies with the Minister for Justice and Equality</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann an cinneadh deireanach maidir leis na moltaí a dhéanann an Bord Parúil leis an Aire Dlí agus Cirt agus Comhionannais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Minister can choose to accept the Board's recommendations in their entirety, accept them in part or reject them</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis an Aire glacadh le moltaí an Bhoird ina n-iomlán, nó diúltú do chuid dóibh nó dóibh ar fad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In deciding on the release of a prisoner with a life sentence, the Minister will always consider the advice and recommendations of the Parole Board</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair atá cinneadh dhá dhéanamh ag an Aire maidir le príosúnach ar gearradh príosún saoil air/uirthi, cuirfidh sé/sí comhairle agus moltaí an Bhoird san áireamh i gcónaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Board, at present, initially reviews prisoners sentenced to life imprisonment at the seven-year stage of their sentence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi láthair déanann an Bord athbhreithniú ar chásanna na bpríosúnach ar gearradh príosún saoil orthu nuair atá 7 mbliana sa phríosún curtha isteach acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Prisoners serving very long sentences, including life sentences, are normally reviewed on a number of occasions over a number of years before any substantial concessions would be recommended by the Board</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iondúil go ndéantar athbhreithniú ar phríosúnaigh a bhfuil tréimhsí an-fhada príosúnachta gearrtha orthu, tréimhsí saoil san áireamh, roinnt babhtaí thar blianta sula ndéanann an Bord aon mholtaí maidir le mórghéilleadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The final decision as to whether a prisoner with a life sentence should be released rests with the Minister for Justice and Equality</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann an cinneadh deireanach an ceart príosúnach ar gearradh príosún saoil air/uirthi a scaoileadh saor leis an Aire Dlí agus Cirt agus Comhionannais</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Primary Care Reimbursement Service</seg></tuv>
+  <tuv xml:lang="ga"><seg>An tSeirbhís Aisíoctha do Chúram Príomhúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Primary Care Reimbursement Service administers payments to doctors, pharmacists, dentists and opticians who provide services under the Primary Care Reimbursement Service (PCRS) scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is í an tSeirbhís Aisíocaíochta do Chúram Príomhúil a riarann íocaíochtaí le lianna, cógaiseoirí, fiaclóirí agus radharceolaithe a sholáthraíonn seirbhísí faoi scéim na Seirbhíse Aisíocaíochta do Chúram Príomhúil (PCRS)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All aspects of the management and operation of the PCRS are operated through the Health Service Executive (HSE)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is í Feidhmeannacht na Seirbhíse Sláinte a riarann gach gné de bhainistiú agus d’fheidhmiú na Scéimeanna Aisíoctha do Chúram Príomhúil anois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This scheme was previously called the General Medical Services Payments Board, usually referred to as the GMS</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugadh an Bord Íocaíochtaí na Seirbhísí Leighis Ginearálta, dá ngairfear an SLG, mar ainm ar an scéim seo roimhe sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The PCRS scheme includes medical card services provided by doctors and pharmacists, prescribed drugs and medicines services provided by community pharmacists and dental services and opthalmic services provided to medical card holders</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áirítear leis an scéim PCRS seirbhísí chárta leighis a fhónann lianna agus cógaiseoirí, seirbhísí drugaí agus cógais ar oideas a thugann cógaiseoirí pobail agus seirbhísí fiaclóireachta agus seirbhísí oftalmacha a thugtar do shealbhóirí cárta leighis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Doctors, pharmacists, dentists and opticians have contracts with the Health Service Executive (HSE) to provide these services and the PCRS makes the payments on behalf of the HSE</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá conarthaí ag lianna, cógaiseoirí, fiaclóirí agus radharceolaithe le Feidhmeannacht na Seirbhíse Sláinte (FSS) chun na seirbhísí úd a fhónamh agus is í an PCRS a dhéanann na híocaíochtaí ar son na FSS</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The level of payments and other conditions of service are negotiated by the Department of Health and the relevant professional bodies</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann an Roinn Sláinte idirbheartaíocht leis na comhlachtaí gairmiúla ábhartha faoi mhéid na n-íocaíochtaí agus faoi choinníollacha seirbhíse eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>What is the PCRS responsible for?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Céard as a bhfuil an tSeirbhís Aisíoctha do Chúram Príomhúil (SACP) freagrach?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The PCRS is responsible for:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an tSeirbhís Aisíoctha do Chúram Príomhúil freagrach go bunúsach as:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Calculating payments to be made for the services provided</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Costas na n-íocaíochtaí a áireamh i gcás na seirbhísí a cuireadh ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Making payments for services provided</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An t-airgead sin a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Verifying the accuracy and reasonableness of claims made by services</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Déanamh cinnte go bhfuil na héilimh ar íocaíocht as na seirbhísí seo cruinn réasúnta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Compiling statistics and other information in relation to services</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Staitisticí agus faisnéis eile a chur le chéile faoi na seirbhísí seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The PCRS issues an Annual Report that shows the number of people covered by medical cards, the costs of the services and related information</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann an tSeirbhís tuarascáil bhliantúil ar fáil a léiríonn líon na ndaoine a bhfuil cártaí leighis acu, costas na seirbhísí agus faisnéis eile bhainteach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The PCRS has a Complaints Tribunal that investigates complaints by the Health Service Executive (HSE) against individual doctors, pharmacists or dentists and complaints and appeals by the health professionals against HSE decisions affecting them</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Binse Gearán ag an tSeirbhís a iniúchann na gearáin a dhéanann Feidhmeannacht na Seirbhíse Sláinte (FSS) in aghaidh dochtúirí, cógaiseoirí agus fiaclóirí éagsúla, agus gearáin agus achomhairc a dhéanann gairmithe sláinte in aghaidh cinntí na FSS a théann i bhfeidhm orthu</seg></tuv>
+</tu>
+</body>
+</tmx>

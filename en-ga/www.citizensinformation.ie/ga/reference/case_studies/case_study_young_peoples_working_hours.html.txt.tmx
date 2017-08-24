@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Case study: Young people's working hours</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cás-staidéar: Uaireanta oibre do dhaoine óga</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Lorraine is aged 14 and she worked 6 hours a day 3 days a week in a supermarket over the summer holidays</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Lorraine 14 bliana d'aois agus d'oibrigh sí in ollmhargadh 6 uair in aghaidh an lae ar feadh 3 lá na seachtaine le linn laethanta saoire an tsamhraidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, when she asked the owner for work during the Christmas holidays, the owner said that she had been told she should not be employing anyone under 16 so she cannot give Lorraine work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin féin, nuair a d'iarr sí obair ar an úinéir le linn laethanta saoire na Nollag, dúirt an t-úinéir go ndúradh di gan duine ar bith faoi 16 a fhostú. Ní fhéadfadh í obair a thairiscint do Lorraine ar an ábhar sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Is the supermarket owner correct?</seg></tuv>
+  <tuv xml:lang="ga"><seg>An bhfuil an ceart ag úinéir an ollmhargaidh?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The supermarket owner is incorrect in thinking that she cannot employ a person of Lorraine's age</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá úinéir an ollmhargaidh mícheart ag ceapadh nach féidir léi duine atá an aois chéanna le Lorraine a fhostú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>She can employ her to do light work, but only during school holidays</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir léi í a fhostú chun obair éadrom a dhéanamh, ach le linn laethanta saoire na scoile amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In Ireland the working hours for young people are regulated by the Protection of Young Persons (Employment) Act 1996</seg></tuv>
+  <tuv xml:lang="ga"><seg>In Éirinn, tá uaireanta oibre do dhaoine óga rialaithe ag An tAcht um Chosaint Daoine Óga (Fostaíocht), 1996</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The maximum hours per day are 7, with a maximum working week of 35 hours</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an líon uaireanta ar a mhéid in aghaidh an lae ná 7 n-uair an chloig, le seachtain oibre de 35 uair an chloig ar a mhéid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Lorraine should receive a 30-minute break after a maximum of 4 hours work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir do Lorraine sos 30 nóiméad a fháil tar éis uasmhéid de 4 uair oibre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In addition, Lorraine should have had a break of at least 3 weeks from work during the summer holidays</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, ba chóir go mbeadh briseadh ón obair ag Lorraine ar feadh 3 seachtaine ar a laghad le linn laethanta saoire an tsamhraidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Lorraine should not be asked to work between 8pm and 8am and should receive 2 days' rest in any 7-day period</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níor chóir iarraidh ar Lorraine oibriú idir 8in agus 8rn agus ba chóir di sos dhá lá a fháil i dtréimhse 7 lá ar bith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Before employing Lorraine, the supermarket owner should see a copy of Lorraine's birth certificate and have the written consent of her parent or guardian</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sula bhfostaíonn sé/sí Lorraine, bá chóir d'úinéir an ollmhargaidh cóip de theastas breithe Lorraine a fheiceáil agus toiliú scríofa tuismitheora nó caomhnóra a bheith faighte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The owner must also keep a record of Lorraine's full name, date of birth, start and finishing times each day, and details of her pay</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh an t-úinéir taifead a choinneáil chomh maith d'ainm iomlán Lorraine, dáta breithe, am tosaithe agus críochnaithe gach lá, agus sonraí dá cuid íocaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These records should be retained for at least 3 years after Lorraine ceases to work at the supermarket</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir na taifid seo a choinneáil ar feadh 3 bliana ar a laghad tar éis do Lorraine críochnú ag obair san ollmhargadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Finally, the owner should display a summary of the legislation concerning the employment of children and young people at the premises, and meet the legal requirements regarding written terms of employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar deireadh, ba chóir don úinéir achoimre den reachtaíocht maidir le fostaíocht leanaí agus daoine óga a léiriú san áitreabh, agus na ceanglais dhlíthiúla maidir le téarmaí scríofa na fostaíochta a shásamh</seg></tuv>
+</tu>
+</body>
+</tmx>

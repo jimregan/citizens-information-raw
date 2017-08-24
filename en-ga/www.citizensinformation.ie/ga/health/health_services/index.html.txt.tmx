@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>• GP and hospital services</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seirbhísí Lia-chleachtóirí agus Ospidéal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Dental, aural and optical health</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seirbhísí Fiaclóireachta, Súl agus Cluas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Health services for older people</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seirbhísí sláinte do sheanóirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Health services for people with disabilities</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seirbhísí Sláinte do Dhaoine Míchumasaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Care in your community</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cúram i do phobal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Blood and organ donation</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bronnadh orgán agus fola</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Alcohol and drug treatment services</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seirbhísí Cóireála Alcóil agus Drugaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Entitlement to health services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Teidlíocht do sheirbhísí sláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Describes the entitlement to public health services of people resident in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léiríonn seo an teidlíocht atá ag daoine a bhfuil cónaí orthu in Éirinn do sheirbhísí sláinte poiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This document is in: Health &gt; Health system</seg></tuv>
+  <tuv xml:lang="ga"><seg>This document is in: Sláinte &gt; Córas sláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most Read in "Health"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ábhar is mó éilimh i "Sláinte"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Admission to a psychiatric hospital</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ospidéal síciatrach a iontráil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Medical card means test: aged under 70</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tástáil mhaoine cárta leighis: daoine faoi bhun 70 bliain d’aois</seg></tuv>
+</tu>
+</body>
+</tmx>

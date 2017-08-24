@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Office of the Court of Appeal – Civil</seg></tuv>
+  <tuv xml:lang="ga"><seg>Oifig na Cúirte Achomhairc – Sibhialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Office of the Court of Appeal for civil matters:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn Oifig na Cúirte Achomhairc do ábhair shibhialta:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Provides administrative support to the Court of Appeal</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag cur tacaíocht riarthach ar fáil don Chúirt Achomhairc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Processes civil appeals from decisions of the High Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag próiseáil achomhairc ó chinneadh de chuid na hArd-Chúirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further information is available from the Office of the Court of Appeal for civil appeals</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh eolais ar fáil ó Oifig na Cúirte Achomhairc maidir le hachomhairc sibhialta</seg></tuv>
+</tu>
+</body>
+</tmx>

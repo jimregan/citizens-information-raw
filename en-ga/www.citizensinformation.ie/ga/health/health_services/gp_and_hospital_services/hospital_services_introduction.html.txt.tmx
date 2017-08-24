@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Overview of hospital services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seirbhísí Ospidéil - Réamhrá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are three different types of hospital provision in Ireland:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá trí chineál éagsúla de sholáthar ospidéil in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Health Service Executive (HSE) hospitals, owned and funded by the HSE</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ospidéil Fheidhmeannacht na Seirbhíse Sláinte (FSS), atá faoi úinéireacht FSS agus atá á maoiniú aici</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Voluntary public hospitals, most of whose income comes from State funds</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ospidéil dheonacha phoiblí, a dtagann an chuid is mó dá n-ioncam ó chistí an Stáit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Voluntary public hospitals are sometimes owned by private bodies, for example, religious orders</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcásanna áirithe, tá ospidéil dheonacha phoiblí faoi úinéireacht comhlachtaí poiblí, mar shampla, oird rialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Other voluntary public hospitals are incorporated by charter or statute and are run by boards often appointed by the Minister for Health</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is corpraithe le cairt nó le reacht atá ospidéil dheonacha phoiblí eile, agus iad á reáchtáil ag boird, a gceapann an tAire Sláinte iad go minic</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Private hospitals, which receive no State funding</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ospidéil phríobháideacha, nach bhfaigheann aon mhaoiniú ón Stát</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Public health services are provided in HSE hospitals and public voluntary hospitals and in practice there is very little difference between these two types of hospital</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is in ospidéil FSS agus in ospidéil dheonacha poiblí a chuirtear seirbhísí sláinte poiblí ar fáil. Is beag difríocht idir an dá chineál sin d’ospidéal sa chleachtas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most of these hospitals also provide private health care but they must clearly distinguish between public and private beds</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann formhór na n-ospidéal sin cúram sláinte príobháideach ar fáil freisin, ach ní mór dóibh idirdhealú soiléir a dhéanamh idir leapacha poiblí agus leapacha príobháideacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are a number of purely private hospitals that operate independently of state health services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ann do roinnt ospidéal nach gcuireann ach seirbhísí sláinte príobháideacha amháin ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you opt for private care in a private hospital, you must pay the full cost of treatment and maintenance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má roghnaíonn tú chun cúram príobháideach a fháil in ospidéal príobháideach, ní mór duit lánchostas na cóireála agus na cothabhála a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Acute hospital services diagnose, treat and care for seriously ill or injured patients</seg></tuv>
+  <tuv xml:lang="ga"><seg>Diagnóisíonn seirbhísí ospidéil ghéarmhíochaine othair atá an-tinn nó an-ghortaithe, cuireann siad cóireáil orthu agus tugann siad aire orthu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Acute hospital services are provided in HSE hospitals, public voluntary hospitals and private hospitals</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is in ospidéil FSS, in ospidéil dheonacha phoiblí agus in ospidéil phríobháideacha a chuirtear seirbhísí ospidéil ghéarmhíochaine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some hospitals are specialist, for example, maternity or psychiatric hospitals, while others are general</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is sainospidéil atá in ospidéil áirithe, mar shampla, ospidéil mháithreachais nó ospidéil shíciatracha, agus is ospidéil ghinearálta atá i gcinn eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The large general and regional hospitals provide a broad range of services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann na hospidéil ghinearálta mhóra agus réigiúnacha raon leathan seirbhísí ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Smaller local hospitals may not be able to cater for all illnesses and treatments and you may have to be transferred to a larger hospital or to a specialist hospital</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh nach mbeadh na hospidéil áitiúla bheaga in ann freastal ar gach cineál galair agus cóireála agus d'fhéadfadh gur ghá tú a aistriú chuig ospidéal níos mó nó chuig sainospidéal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In-patient services are institutional services provided for people in hospitals, convalescent homes or homes for people with physical or mental disabilities</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é is seirbhísí othair chónaithigh ann ná seirbhísí institiúideacha a chuirtear ar fáil do dhaoine in ospidéil, in ionaid téarnaimh nó in ionaid do dhaoine faoi mhíchumas fisiciúil nó meabhrach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Day-case treatment is regarded as an in-patient service but you do not stay in hospital overnight</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féachtar ar chóireáil cás lae mar sheirbhís othair chónaithigh, ach ní fhanann an t-othar san ospidéal thar oíche</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Out-patient services are generally taken to include accident and emergency services as well as planned services provided on an out-patient basis</seg></tuv>
+  <tuv xml:lang="ga"><seg>De ghnáth, glactar leis go n-áirítear le seirbhísí othair sheachtraigh seirbhísí timpistí agus éigeandála, mar aon le seirbhísí pleanáilte a sholáthraítear ar bhonn othar seachtrach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, you may be referred by your family doctor (GP) for specialist assessment by a consultant or his or her team or for diagnostic assessments such as x-rays or laboratory tests or for treatment such as physiotherapy</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, d’fhéadfadh go ndéanfadh do dhochtúir teaghlaigh (LG) tú a atreorú do shainmheasúnú ag comhairleach nó ag a f(h)oireann, do mheasúnuithe diagnóiseacha ar nós x-ghathanna nó tástálacha saotharlainne nó do chóireáil ar nós fisiteiripe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As a public patient, you do not have to pay for consultants' services and you do not have a choice of consultants</seg></tuv>
+  <tuv xml:lang="ga"><seg>Agus tú i d’othar poiblí, ní gá duit íoc as seirbhísí comhairleach agus ní féidir leat do chomhairleach a roghnú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In many areas, there are waiting lists for non-emergency services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá liosta feithimh le haghaidh seirbhísí neamhéigeandála ann i mórán ceantar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Information on waiting times for in-patient treatment is available online</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá faisnéis ar amanna feithimh le haghaidh cóireáil othair chónaithigh ar fáil ar líne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you choose to be a private patient in a public hospital, you become the private patient of the consultant treating you and you must pay for all consultant services provided to you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má roghnaíonn tú chun a bheith i d’othar príobháideach in ospidéal poiblí, caitear leat mar othar príobháideach de chuid an chomhairligh a bhfuil cóireáil á cur aige/aici ort agus ní mór duit íoc as gach ceann de na seirbhísí a chuireann an comhairleach ar fáil duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is also a set daily charge for private patients in public hospitals</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá táille laethúil shocraithe ann i leith othair phríobháideacha in ospidéil phoiblí freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Private hospitals are free to set their own charges to patients</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le hospidéil phríobháideacha a dtáillí féin a shocrú i leith othar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Private health insurance may cover some or all of the costs involved</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh go ndéanfadh árachas sláinte príobháideach na costais uile atá i gceist, nó cuid díobh, a chlúdach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Deaf and hard of hearing patients are entitled to interpretation services in public hospitals in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá othair atá bodhar nó a bhfuil moill éisteachta orthu i dteideal seirbhísí ateangaireachta in ospidéil phoiblí in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should notify the hospital that you are deaf or hard of hearing in advance of your visit so they can make any necessary arrangements</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir duit fógra a thabhairt don ospidéal go bhfuil tú bodhar nó go bhfuil moill éisteachta ort roimh an gcuairt chun gur féidir leis na socruithe is gá a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further information regarding these services is available from the Director of Disability Services at your Local Health Office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh faisnéise faoi na seirbhísí sin ar fáil ó Stiúrthóir na Seirbhísí Míchumais ag d’Oifig Áitiúil Sláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Public and voluntary hospitals are subject to Freedom of Information legislation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá ospidéil phoiblí agus dheonacha faoi réir reachtaíocht Saoráil Faisnéise</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means, among other things, that they are obliged to publish information about their structures, services and practices</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fágann sé sin, i measc nithe eile, go bhfuil dualgas orthu faisnéis a fhoilsiú faoina gcuid struchtúr, seirbhísí agus cleachtas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the hospital holds personal information about you, you can access those records</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá faisnéis fút á coinneáil ag an ospidéal, tá tú i dteideal teacht ar na taifid sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>See our document on hospital charges for details of the charges that may apply and who is exempt from charges</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féach ár gcáipéis maidir le táillí ospidéil le haghaidh sonraí faoi na táillí a d’fhéadfadh bheith ann agus faoi cé atá díolmhaithe ó tháillí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should obtain a letter of referral from your GP if you need to receive hospital treatment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir duit litir atreoraithe a fháil ó do LG má theastaíonn cóireáil ospidéil uait</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can attend accident and emergency departments in most general hospitals and some specialist hospitals without a letter of referral but you may be charged for your visit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat freastal ar rannóga timpistí agus éigeandála i bhformhór na n-ospidéal ginearálta agus i roinnt sainospidéal gan litir atreoraithe a bheith agat, agus d’fhéadfadh go ngearrfaí táille ort i leith do chuairte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>View contact information for public hospitals in your area</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féach an fhaisnéis teagmhála d’ospidéil phoiblí i do cheantar</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,265 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Public libraries are open to everyone. You do not have to be a member of the library if you just want to read something in the library, ask a question or consult a reference work (for example, a telephone directory or a dictionary or an encyclopaedia)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn leabharlanna poiblí ar oscailt do gach duine agus ní gá duit a bheith i do bhall den leabharlann mura bhfuil tú ach ag iarraidh rud éigin a léamh sa leabharlann, ceist a chur nó ábhar tagartha a sheiceáil (m.sh. eolaí teileafóin nó foclóir nó ciclipéid)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will, however, need to join the library if you want to borrow books or other items or, in most cases, if you want to use the internet</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh tú a bheith mar bhall den leabharlann má bhíonn tú ag iarraidh leabhair nó ábhair a thógáil ar iasacht nó mar a bhíonn i gceist go minic, má bhíonn tú ag iarraidh úsáid a bhaint as an Idirlíon</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are differences in the services particular libraries provide, depending on the size and location of the branch and on the policies of the library service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá difríochtaí sna seirbhísí a chuireann leabharlanna áirithe ar fáil, bíonn sé sin ag brath ar a méid agus ar an áit a bhfuil an brainse suite agus ar pholasaithe an tseirbhís leabharlainne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All public libraries provide books which can be borrowed by members of the library</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann gach leabharlann phoiblí leabhair ar fáil gur féidir le muintir an phobal a thabhairt ar iasacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All kinds of books can be borrowed, fiction (such as the latest bestseller or a classic novel) and non-fiction (such as history, biography, science, travel or self-help)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir gach cineál leabhar a thabhairt ar iasacht, ficsean, (ar nós an leabhair is mó a díoladh le deireanasí nó úrscéal clasacach) agus leabhair nach ficsean iad (ar nós leabhair staire, beatháisnéisí, leabhair eolaíochta, leabhair taistil, leabhair féinchúnaimh ,rl.)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In addition to standard books, libraries also have many books in large print format, which are popular with readers with a visual impairment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chomh maith le gnáthleabhair bíonn cóipeanna ag leabharlanna de leabhair i gcruth "cló mór", a thaitníonn go mór le léitheoirí a mbíonn amharc lag acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In most libraries there are adult and junior sections</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bionn roinn na nÓg agus na nDaoine Aosacha i bhformhór leabharlann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Children up to a certain age use the junior section only which provides books and other materials especially for children</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leanaí suas go dtí aois áirithe a bhaineann leas as roinn na nÓg a chuireann leabhair agus ábhair ar fáil do leanaí go speisialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Books for children of all ages, from babies up to teenagers are available in the junior library</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá leabhair ar fáil i leabharlann na nÓg do leanaí ag gach aois, ó naíonáin suas go dtí déagóirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the book you want is already out on loan, you can reserve it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhíonn an leabhar atá ag teastáil amuigh ar iasacht ag duine éigin eile, is féidir leat an leabhar sin a chur in áirthint duit féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The library will notify you when the book is available for you to borrow</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirfidh an leabharlann ar an eolas tú nuair a bheidh an leabhar réidh le tabhairt amach ar iasacht arís</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the library does not have the book you want, you can request it, again by filling in a form</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil an leabhar atá uait ag an leabharlann, is féidir leat iarratas a dhéanamh air, trí fhoirm eile a chomhlánú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The library may purchase the book or may look for a copy through the inter-library loan system</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh an leabharlann an leabhar a cheannach nó féadfaidh siad cóip eile a lorg trí iasacht idir-leabharlann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is a system through which libraries in Ireland, the UK, and around the world, loan items to each other for the use of library members</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is córas é sin inar féidir le leabharlanna in Éirinn, sa Ríocht Aontaithe agus ar fud an domhain rudaí a thabhairt ar iasacht dá chéile lena n-úsáid ag baill na leabharlainne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In addition to books, in most libraries you can borrow audio-books, which are recorded readings of books</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chomh maith le leabhair a thógáil ar iasacht, is féidir leat leabhair-éisteachta a thógáil ar iasacht as go leor leabharlanna, agus is éard atá iontu seo ná léitheoireacht taifeadta ar na leabhair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Books of all kinds are available on recording and they come on both cassettes and CDs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn gach cineál leabhair ar fáil atá taifeadta agus tá tú in ann iad a fháil ar caiséad agus ar CD</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In some libraries you can borrow ebooks</seg></tuv>
+  <tuv xml:lang="ga"><seg>I roinnt leabharlanna is féidir leat e-leabhair a thógáil ar iasacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In many libraries you can borrow compact discs and cassettes of music</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn duine in ann dlúthdhioscaí agus téipeanna ceoil a thógáil ar iasacht as go leor leabharlann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These range from popular chart music to traditional and classical music</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bionn gach réimse ceoil orthu seo, ó cheol a bhíonn sna cairteanna go ceol traidisiúnta nó ceol clasacach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some libraries have selections of prints and paintings which can also be borrowed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn roinnt priontaí agus pictiúr ag leabharlainne freisin agus is féidir iad sin a thógáil ar iasacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Public libraries carry a range of journals and periodicals including national and local newspapers and magazines on a variety of topics (for example, business, health and lifestyle, gardening, science, nature, history)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn sraith nuachtán laethúil agus tréimhseachán i leabharlanna poiblí lena n-áirítear nuachtáin náisiúnta agus áitiúla agus irisleabhair le topaici éagsúla iontu. (m.sh. gnó, sláinte agus saol maireachtála, garraíodóireacht, eolaíocht, an nádúr, stair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Reference and general information services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tagairt agus Seirbhísí Eolas Ginearálta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All public libraries have reference sections, containing books and other materials which can be consulted in the library</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn roinn "tagartha" ag gach leabharlann phoiblí, ina mbíonn leabhair agus ábhair eile gur féidir a úsáid sa leabharlann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Reference sections typically include resources such as dictionaries, directories, encyclopaedias, government publications, business information, yearbooks and atlases</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar na rudaí is mó a bhíonn le fáil sa roinn tagartha, bíonn achmhainní mar fhoclóirí, eolaithe, ciclipéidí, foilseacháin rialtais, eolas gnó, leabhair chinn bhliana agus léarscáileanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some reference material, in particular business-related material, is available on CD or over the internet</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn ábhar tagartha, go háirithe ábhair gnó, le fáil ar CD nó ar an Idirlíon</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Public libraries can also provide contact details and information on the services provided by the county council or corporation and by government departments, for example, social welfare information</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le leabharlanna poiblí sonraí teagmhála a chur ar fáil chomh maith le heolas ar na seirbhísí a chuireann an chomhairle chontae nó bardas ar fáil agus chomh maith leis sin ranna rialtais, ina mbeadh eolas faoi chúrsaí leasa shóisialaigh, ,rl</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most libraries also hold a lot of local information about clubs and societies and events in their locality</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn go leor eolas áitiúil le fáil i go leor leabharlann chomh maith le heolas faoi imeachtaí clubanna agus cumann go háitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All public libraries collect materials about the history of their county or locality</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cruinníonn gach leabharlann phoiblí ábhar faoi stair a gcontae nó a n-áite féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is a huge range of material available including county and parish histories, maps, photographs, drawings, old records, and newspapers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn gach cineál ábhair ar fáil lena n-áirítear stair an pharóiste agus an chontae, mapaí, grianghraif, pictiúir, seanthaifid, agus nuachtáin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In some cases the main local history collection will be in the county library so you should check this at your local branch</seg></tuv>
+  <tuv xml:lang="ga"><seg>I go leor cásanna bíonn an bailiúchán staire áitiúla le fáil i leabharlann an chontae mar sin ba chóir duit é sin a seiceáil ag do bhrainse áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All public library services now have computers which the public can use to access the internet</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá ríomhairí anois ag gach seirbhís leabharlainne poiblí ar féidir leis an bpobal úsáid a bhaint astu chun rochtain a fháil ar an Idirlíon</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In most cases you must be a member of the library to use the computers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caitheann tú bheith i do bhall den leabharlann chun úsáid a bhaint as na ríomhairí sa chuid is mó de na cásanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Usually you will have to book a session in advance but you should check this in your local branch</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iondúil go gcaithfidh tú seisiún a chur in áirithe roimh ré, ach ba cheart duit é sin a sheiceáil i do bhrainse áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Many libraries now offer introductory sessions for new users</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tairgeann go leor leabharlann seisiúin tosaigh d’úsáideoirí nua anois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Individual library catalogues can be searched online by author, title or keyword</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir catalóga leabharlainne aonair a chuardach ar líne de réir údair, teidil nó eochairfhocail anois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The system is accessed using library borrower number and a personal identification number (PIN)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faightear rochtain ar an gcóras ach úsáid a bhaint as uimhir iasachtóra leabharlainne agus uimhir aitheantais phearsanta (PIN)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In addition, it is possible to request a book, renew loans and check borrower information such as loans and reservations online</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin is féidir leabhar a iarraidh, iasachtaí a athnuachan agus eolas iasachtaí a cheadú ar nós iasachtaí agus áirithintí ar líne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Online access to digitised content from public libraries is available through, for example, askaboutireland.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn rochtain ar líne ar ábhar digitithe ó leabharlanna poiblí ar fáil mar shampla trí askaboutireland.ie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Through the BorrowBooks service, library members can borrow items from across the public library authorities via their local library service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is tríd an tseirbhís BorrowBooks ar féidir le baill leabharlainne míreanna a fháil ar iasacht ó fud na n-údarás leabharlainne poiblí trí mheán a seirbhíse leabharlainne áitiúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All public libraries are becoming part of Libraries Ireland which will allow anyone with a public library card borrow and reserve items from any public library</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá gach leabharlann phoiblí ag glacadh ballraíochta le Libraries Ireland, rud a ligfidh do dhuine ar bith le cárta leabharlainne poiblí chun míreanna a fháil ar iasacht agus a chur in áirithe ó leabharlann phoiblí ar bith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Ebooks and eaudio books can be borrowed via the BorrowBox service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir ríomhleabhair agus ríomh-chlosleabhair a fháil ar iasacht trí mheán na seirbhíse BorrowBox</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find more information on online services on the Department of Housing, Planning, Community and Local Government website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat teacht ar a thuilleadh eolais i leith seirbhísí ar líne ar láithreán gréasáin na Roinne Tithíochta, Pleanála, Pobail agus Rialtais Áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Many public libraries, particularly the larger ones, provide resources to enable users learn or follow a course of study themselves</seg></tuv>
+  <tuv xml:lang="ga"><seg>Soláthraíonn go leor leabharlann phoiblí, go háirithe na cinn mhóra, acmhainní chun úsáideoirí a chumasú chun foghlaim nó chun cúrsa staidéir a dhéanamh dá stuaim féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These include learning packs, online learning modules, learning booths, training materials and short courses</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áirítear leo sin pacaí foghlama, modúil foghlama ar líne, botháin foghlama, ábhair oiliúna agus gearrchúrsaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Ask for details at your local branch</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fiosraigh mionsonraí ag do bhrainse áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Anyone can use and/or join their public library</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le haon duine a bheith ina bhall den leabharlann nó an leabharlann phoiblí a úsáid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The number of items you can borrow at any one time and the length of time you may keep them varies</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá difríocht sa méid ábhair atá tú in ann a thógáil ar iasacht ag aon am amháin agus san achar gur féidir leat an t-ábhar a choinneáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should ask for details at your local library</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigh sonraí fúthu sin ag do bhrainse áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may need to book some services, such as language learning or the internet in advance</seg></tuv>
+  <tuv xml:lang="ga"><seg>B'fhéidir go mbeadh ort roinnt seirbhísí a chur in áirthint, mar shampla ag foghlaim teanga nó an tIdirlíon roimh ré</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Children may only borrow items from the junior library</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir le leanaí iasacht a fháil ach ó leabharlann na n-Óg</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The age at which young people may use the adult library varies so you should check this at your local library</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn an aois gur féidir le daoine óga úsáid a bhaint as leabharlann na nAosach difriúil i ngach leabharlann mar sin is féidir leat é sin a sheiceáil ag do leabharlann áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Although most services in most public libraries are free, there are some charges which you may have to pay</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cé go bhfuil an chuid is mó de na seirbhísí i bhformór leabharlann áitiúil saor in aisce, bíonn táillí áirithe a chaithfidh tú a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some libraries have a small membership charge and most levy fines for the late return of books or other borrowed items</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá táille bheag ballraíochta ag cuid de na leabharlanna agus gearrann go leor leabharlann fineáil ar leabhair nó ar ábhar eile a bhíonn ar iasacht a thagann ar ais mall</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is usually a small charge for reservations or requests</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn táille freisin ar ábhar a chur in áirthint nó ábhar a ndéantar iarratas air</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Ask at your local library for details</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigh eolas faoi sin ag do leabharlann áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All public libraries charge for photocopying</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gearrann gach leabharlann phoiblí táille ar chóipeanna a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some requirements will vary, depending on the library service, but the following apply to most, if not all, library services:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn cuid de na riachtanais difriúil, ag brath ar sheirbhís na leabharlainne, ach baineann na rialacha seo a leanas le gach seirbhís leabharlainne beagnach:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• In order to join the library you need to fill out an application form at any branch</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Chun a bheith i do bhall den leabharlann bíonn ort foirm iarratais a chomhlánú ag aon bhrainse ar bith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You must produce some proof of your identity and of your address</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Caithfidh tú cruthúnas ar do chéannacht agus do sheoladh a thaispeáint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you are under 18 years of age you will have to have get someone aged over 18 (for example, a parent or guardian) to sign as a guarantor</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má tá tú faoi ocht mbliana déag d'aois beidh ar dhuine éigin os cionn ocht mbliana déag d'aois (m.sh tuismitheoir nó caomhnóir) an fhoirm a shíniú mar ráthóir thar do cheann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Each library service issues its own library card which can only be used in the branches of that library service</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Eisíonn gach seirbhís leabharlainne a gcárta leabharlainne féin agus ní féidir an cárta sin a úsáid ach i mbrainsí a bhaineann leis an tseirbhís leabharlainne sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you want to use the branches of more than one library service then you need to be a member of each of them</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhíonn tú ag iarraidh brainse i níos mó ná leabharlann amháin a úsáid caithfidh tú a bheith i do bhall de gach ceann de na leabharlanna sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If, for example, you want to use the libraries run by Dublin City Council and by Fingal County Council, you must become a member of both.   Further information</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhíonn tú, mar shampla, ag iarraidh úsáid a bhaint as leabharlanna Bhardas Átha Cliath agus Chomhairle Chontae Fingal, caithfidh tú a bheith i do bhall den dá leabharlann sin</seg></tuv>
+</tu>
+</body>
+</tmx>

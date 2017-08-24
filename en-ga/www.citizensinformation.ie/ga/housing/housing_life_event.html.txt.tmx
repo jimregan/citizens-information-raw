@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>This section of our website will provide you with a wide range of information related to housing</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabharfaidh an rannóg seo eolas duit ar réimse fairsing a bhaineann le tithíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are thinking of buying a home, you will find useful information in steps involved in buying a home, the costs of buying a home and taking out a mortgage</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá sé ar intinn agat teach a cheannach, aimseoidh tú eolas úsáideach mar gheall ar na céimeanna a bhaineann le teach a cheannach, morgáiste a fháil, agus na costais a bhaineann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are looking for private rented accommodation, you will find information on looking for a flat or house to rent, Rent Supplement, and the new Housing Assistance Payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá lóistín ar cíos uait, aimseoidh tú eolas faoi árasán nó teach ar cíos a chuardach, Forlíonadh Cíos agus an Íocaíocht Cúnaimh Tithíochta (ÍCT)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will also find information on what to do if your landlord wants to end your tenancy or increase the rent</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gheobhaidh tú faisnéis freisin ar céard le déanamh má theastaíonn ó do thiarna talún go mbogfá amach nó do chíos a mhéadú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have a problem with your landlord, you can contact the Residential Tenancies Board (RTB), which provides a confidential dispute resolution service between landlords and tenants</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá fadhb agat le do thiarna talún, d'fheadfá dul i dteagmháil leis an mBord um Thionóntachtaí Cónaithe (BTC) a chuireann seirbhís réitigh ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Local authority and social housing</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cóiríocht ó údarás áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is information on applying for local authority housing and on social housing in general</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir eolas maidir le tithe de chuid na n-údarás áitiúil a fháil i morgáistí údaráis áitiúil, aistriú a fháil do theach údarás áitiúil eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is information on development plans,planning permission and commenting on a planning application</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá spéis agat sa phróiseas pleanála, aimseoidh tú an t-eolas a theastaíonn uait faoi chead pleanála, faoi phleananna forbartha agus faoi thrácht a dhéanamh ar iarratas ar chead pleanála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Other housing-related areas covered here are mortgage arrears, homelessness and housing for older people</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar na réimsí eile a bhaineann le tithíocht tá riaraistí morgáiste, easpa dídine, agus tithíocht do dhaoine níos sine</seg></tuv>
+</tu>
+</body>
+</tmx>

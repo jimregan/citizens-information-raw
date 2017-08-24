@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Case study 1: Family Income Supplement (FIS)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cás-Staidéar 1: Forlíonadh Ioncaim Teaghlaigh (FIT)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is an example showing how income is assessed for Family Income Supplement in 2017</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seo sampla a thaispeánann conas a ríomhtar ioncam i leith Forlíonadh Ioncaim Teaghlaigh in 2017</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Mary has three children</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá triúr leanaí ag Mary</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Her youngest child is five years old</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an leanbh is óige atá aici cúig bliana d’aois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>She is getting a One-Parent Family Payment (OFP) and was recently offered work part-time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá íocaíocht do Theaghlach Aon-Tuismitheora á fáil aici agus tairgeadh obair pháirtaimseartha di le déanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If she takes the job, she will work three days each week and earn €300</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má ghlacann sí leis an bpost, beidh sí ag obair trí lá sa tseachtain agus tuillfidh sí €300</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Mary wants to take the job as all of her children are now in school but she knows her One-Parent Family Payment will be affected</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba mhaith le Mary glacadh leis an bpost toisc go bhfuil a leanaí ar fad ar scoil anois ach tuigeann sí go gcuirfear isteach ar a hÍocaíocht do Theaghlach Aon-Tuismitheora</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Would Mary be better off financially if she takes the job offer?</seg></tuv>
+  <tuv xml:lang="ga"><seg>An mbeadh Mary níos fearr as ó thaobh airgid de dá nglacfadh sí leis an tairiscint oibre?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>She has lived in her home for 20 years and has a small mortgage</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sí ina cónaí ina teach le 20 bliain anuas agus tá morgáiste measartha beag aici</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>She gets a weekly maintenance payment of €80 for her mortgage costs which does not affect her One-Parent Family Payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigheann sí íocaíocht chothabhála €80 in aghaidh na seachtaine i leith a costais mhorgáiste, rud nach gcuireann isteach ar a hÍocaíocht do Theaghlach Aon-Tuismitheora</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Her 18-year-old daughter is a student has a part-time job in a local shop</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá post páirtaimseartha ag a hiníon is sine i siopa áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Weekly net income from employment (See note 1) €300.00</seg></tuv>
+  <tuv xml:lang="ga"><seg>Glanioncam seachtainiúil ó fhostaíocht (féach nóta 1) €300.00</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Add Weekly net income from self-employment €0.00</seg></tuv>
+  <tuv xml:lang="ga"><seg>Móide Glanioncam seachtainiúil ó fhéinfhostaíocht €0.00</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Add reduced OFP (See note 2) €194.90</seg></tuv>
+  <tuv xml:lang="ga"><seg>Móide Íocaíochtaí Leasa Shóisialaigh (Féach nóta 2) €194.90</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Add Income from occupational pensions €0.00</seg></tuv>
+  <tuv xml:lang="ga"><seg>Móide Ioncam ó Phinsin ghairme €0.00</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Add Maintenance received €80.00</seg></tuv>
+  <tuv xml:lang="ga"><seg>Móide Airgead Cothabhála a fhaightear €80.00</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Family Income Supplement (FIS) maximum income limit for a family with three children is €713</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an uasteorainn ioncaim don Fhorlíonadh Ioncaim Teaghlaigh (FIT) i gcás teaghlaigh ina bhfuil triúr leanaí ná €713</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The difference between €713 and €574.90 is €138.10</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an difríocht idir €713 agus €574.90 ná €138.10</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>60% of the difference (€138.10) is €82.86</seg></tuv>
+  <tuv xml:lang="ga"><seg>60% den difríocht €138.10 is €82.86</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Mary will get a FIS payment of €83 (rounded up) each week</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gheobhaidh Mary íocaíocht FIT €83 gach seachtain (slánaithe suas)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If she takes the job her total gross income including FIS will be €657.90 (€194.90 OFP plus €83 FIS plus €300 income from work plus €80 from maintenance)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má ghlacann sí leis an bpost beidh ioncam iomlán €657.90 aici lena n-áirítear FIT</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Mary’s net income from employment is assessed for FIS, however her daughter’s income is not assessed because she is under 22 years of age and in full-time education</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar glanioncam Mary ó fhostaíocht a mheasúnú i leith FIT, ach, ní mheasúnaítear ioncam a hiníne toisc go bhfuil sí faoi bhun 22 bliain d’aois agus in oideachas lánaimseartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If Mary gets €300 from employment, her One-Parent Family Payment will be reduced. (€110 of income from employment is disregarded and 50% of the remaining €190 - which is €95 - is assessed as means)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhaigheann Mary €300 ó fhostaíocht, laghdófar a hÍocaíocht do Theaghlach Aon-Tuismitheora go dtí €105.50</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>She gets €29.80 for each child so her total payment will be €194.90</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gheobhaidh sí €29.80 freisin do gach leanbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>More information is available about how income from employment affects your One-Parent Family Payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léigh anseo chun tuilleadh eolais a fháil faoin gcaoi a dtéann ioncam ó fhostaíocht i bhfeidhm ar d’Íocaíocht do Theaghlach Aon-Tuismitheora</seg></tuv>
+</tu>
+</body>
+</tmx>

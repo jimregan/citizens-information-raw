@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Case study: Jobseeker’s Benefit and systematic short time work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sochar Cuardaitheora Poist agus obair ghearr-ama chórasach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Michael has been working for the same company for over 10 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Michael ag obair sa chuideachta chéanna le breis agus 10 mbliana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The company has run into difficulties and 12 months ago it temporarily reduced the number of days employees work each week from 5 days to 3 days</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bhí deacrachtaí ag an gcuideachta agus rinneadh laghdú sealadach 12 mhí ó shin ar líon na laethanta a oibríonn gach fostaí sa tseachtain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When this happened Michael went to his social welfare local office where he was assessed for Jobseeker’s Benefit (JB)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Laghdaíodh iad ó 5 lá go 3 lá. Nuair a tharla sé sin chuaigh Michael go dtí a Oifig Leasa Shóisialaigh áitiúil áit a ndearnadh measúnú air ó thaobh Sochar Cuardaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As Michael’s number of days at work had been reduced temporarily from 5 days per week to 3 days per week he was assessed as a systematic short time worker. This means that he is considered unemployed for 2 days a week. He is paid 2/5th of the weekly rate of JB for these 2 days</seg></tuv>
+  <tuv xml:lang="ga"><seg>De bhrí gur laghdaíodh laethanta oibre Michael go sealadach ó 5 lá sa tseachtain go 3 lá sa tseachtain measadh gur oibrí gearr-ama córasach é agus tugadh dhá chúigiú d’uasmhéid an tSochair Cuardaitheora Poist dó i gcomhair an dá lá a raibh sé dífhostaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Michael has been getting Jobseeker’s Benefit for a year and wants to know how long he can continue to get Jobseeker’s Benefit?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Sochar Cuardaitheora Poist á fháil ag Michael anois agus is mian leis a fháil amach cén t-achar eile a fhéadfaidh sé leanúint air ag fáil an tSochair sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The number of days a person can claim Jobseeker’s Benefit (JB) depends on a number of factors. Since Michael has over 260 PRSI contributions he is entitled to 234 days JB</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá roinnt tosca ann a chinntíonn an t-achar is féidir le duine Sochar Cuardaitheora Poist a éileamh, agus ós rud é go bhfuil breis agus 260 ranníocaíocht ÁSPC déanta ag Michael tá sé i dteideal Sochar Cuardaitheora Poist a fháil ar feadh 312 lá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He is claiming 2 days JB every week</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl ach 2 lá Sochair in aghaidh na seachtaine á éileamh aige</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Divide 234 by the number of days he claims JB each week to find the potential number of weeks he could claim JB</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má roinntear 312 ar líon na laethanta a éilíonn sé Sochar Cuardaitheora Poist gach seachtain gheobhaimid líon iomlán na seachtainí a bhféadfaidh sé an Sochar sin a éileamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means, he could potentially claim JB for 117 weeks, that is, over 2 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn sé sin go bhféadfaidh sé an Sochar a éileamh ar feadh 156 seachtain nó trí bliana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For the last 12 months (52 weeks) Michael has been getting 2 days Jobseeker’s Benefit for systematic short time work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bhí Sochar Cuardaitheora Poist á fháil ag Michael le 12 mhí anuas (52 seachtain) ó thaobh obair ghearr-ama chórasach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To find out how many days JB he has used to date, multiply the number of days JB he gets each week by the number of weeks he is claiming JB</seg></tuv>
+  <tuv xml:lang="ga"><seg>Le fáil amach cén mhéid lá Sochar Cuardaitheora Poist atá úsáidte aige go dtí seo níl le déanamh ach líon na laethanta a fhaigheann sé an Sochar gach seachtain a mhéadú faoi líon na seachtainí a bhfuil sé éilithe aige</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>2 x 52 = 104</seg></tuv>
+  <tuv xml:lang="ga"><seg>2 x 52 = 104</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He has used up 104 days of his Jobseeker’s Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá 104 lá dá chuid Sochar Cuardaitheora Poist úsáidte aige</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To find the number of days he has left on his JB claim, subtract the number of days he has used (104 days) from the maximum number he can claim (234 days)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Le fáil amach cén mhéid lá dá Shochar Cuardaitheora Poist atá fágtha aige dealaigh an méid lá atá úsáidte aige (104 lá) ón líon is airde laethanta a d’fhéadfadh sé a éileamh (312 lá)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, 2 years is not short term and Michael is currently being assessed as temporarily laid off from work i.e</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn sé sin go bhfuil 208 lá dá Shochar Cuardaitheora Poist fágtha aige</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>DSP uses a 5-day week for systematic short time working and a 6-day week for part-time working (note that this is different from the payment week which is 5 days for both)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéantar é a athmheasúnú mar oibrí páirtaimseartha, agus má leanann sé ar aghaidh leis an leagan amach oibre atá aige, agus má bhíonn sé incháilithe chun Sochar Cuardaitheora Poist a bheith aige beidh sé i dteideal an sochar sin a fháil ar feadh 208 lá eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If Michael is reassessed as a part-time worker and continues to work 3 days per week for his employer, he will be considered to be unemployed for 3 days a week rather than 2 days a week (this means that his JB claim will end sooner)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Roinn 208 ar líon na laethanta a éilíonn sé Sochar Cuardaitheora Poist gach seachtain le fáil amach líon iomlán na seachtainí a bhféadfaidh sé an Sochar sin a éileamh</seg></tuv>
+</tu>
+</body>
+</tmx>

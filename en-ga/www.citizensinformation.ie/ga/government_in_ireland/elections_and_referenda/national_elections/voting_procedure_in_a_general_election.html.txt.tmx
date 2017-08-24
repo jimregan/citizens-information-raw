@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Voting procedure in a general election</seg></tuv>
+  <tuv xml:lang="ga"><seg>Modh vótála in olltoghchán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The returning officer is the County Sheriff or the County Registrar for the county and is the person responsible for organising the poll, printing the ballot papers and counting the votes in each constituency</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é Sirriam an Chontae, nó Cláraitheoir an Chontae an ceann comhairimh agus is é/í an duine atá freagrach as an vótáil a eagrú, na páipéir ballóide a phriontáil, agus na vótaí a chomhaireamh i ngach dáilcheantar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The returning officer provides polling stations - usually schools and public buildings are used</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann an ceann comhairimh ionaid vótála ar fáil -de ghnáth baintear úsáid as scoileanna agus foirgnimh phoiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Each candidate at a general election may be represented by a "personation agent" at the polling station</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh gach iarrthóir gníomhaire pearsanaíochta a bheith aige/aice ag an ionad vótála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The personation agent supervises the polling and helps prevent electoral offences</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann an gníomhaire pearsanaíochta maoirseacht ar an vótáil agus tugann sé/sí cúnamh chun coireanna vótála a sheachaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are on the Register of Electors, a polling card will be sent to your home before the date of the general election</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ar Chlár na Vótálaithe, seolfar carta vótála chuig do theach roimh dáta an olltoghcháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your polling card will include your elector number and will tell you where you can vote</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh d'uimhir vótála ar an gcárta vótála agus tabharfaidh sé eolas duit faoin ionad vótála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you arrive at the polling station, you will be asked to state your name and address and you may be asked to prove your identity</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a shroicheann tú an t-ionad vótála, iarrfar ort d'ainm agus do sheoladh a lua, agus d'fhéadfadh sé go n-iarrfaí ort cruthú cé thú féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are asked to prove your identity and you cannot do so, you may not be allowed to vote</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má iarrtar ort cruthú cé thú féin agus má tharlaíonn sé nach bhfuil tú in ann é sin a dhéanamh, d'fhéadfadh sé nach dtabharfaí cead vótála duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the presiding officer is satisfied in relation to your identity, your ballot paper will be stamped and handed to you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá an ceann comhairimh sásta maidir le d'aitheantas, stampáilfear do pháipéar ballóide agus tabharfar duit é</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will then go into a voting compartment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ansin, rachaidh tú chuig bothán vótála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The names of the candidates in the election appear in alphabetical order on the ballot paper along with an indication of their political party, if any</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar ainmneacha na n-iarrthóirí sa toghchán ar an bpáipéar ballóide in ord aibitre, le tagairt dá bpáirtí polaitíochta má tá baint acu le páirtí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A photograph of the candidate and/or a party emblem may also appear on the ballot paper</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh griangraf iarrthóra agus/nó comhartha páirtí a bheith ar an bpáipéar ballóide freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must indicate the order of your choice of candidates by writing 1 in the box beside the photograph of your first choice of candidate and, if you wish, write 2 beside the photograph of your second choice of candidate, 3 beside the photograph of your third choice and so on</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní foláir duit ord do rogha a thaispeáint trí 1 a scríobh sa bhosca le hais griangraif an iarrthóra a roghnaíonn tú sa chéad áit, agus más mian leat, 2 le hais griangraf do dara rogha iarrthóra, 3 le hais do thriú rogha, agus mar sin de</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you vote this way, you are instructing the returning officer to transfer your vote to your second choice candidate if the first choice is either elected or eliminated</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a vótáileann tú sa chaoi seo, tugann tú ordú don cheann comhairimh do vóta a aistriú chuig do dara rogha iarrthóra má tá do chéad rogha tofa nó díbeartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your second choice candidate is either elected or eliminated, your vote will be transferred to your third choice and so on</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá do dara rogha iarrthóra tofa nó díbeartha, aistreofar do vótá go dtí do thríú rogha agus mar sin de</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is known as a single transferable vote</seg></tuv>
+  <tuv xml:lang="ga"><seg>Glaotar vóta amháin inaistrithe ar an gcóras seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must then fold your ballot paper to hide your vote and place it in the sealed ballot box</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní foláir duit, ina dhiaidh sin, do phaipéar ballóide a fhilleadh chun do vóta a chur i bhfolach, agus é a chur sa bhosca ballóide séalta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may only vote once at the election</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl cead agat vótáil ach uair amháin sa toghchán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are a number of procedures in place to allow people with disabilities to vote</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá roinnt modhanna ar fáil chun deis a thabhairt do dhaoine faoi mhíchumas a vótaí a chaitheamh </seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Prisoners can vote by registering on the Postal Voters List</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le príosúnaigh vótáil trí chlárú ar an Liosta Postvótálaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Eligibility to vote in a general election</seg></tuv>
+  <tuv xml:lang="ga"><seg>Intofacht chun vótáil in Olltoghchán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In order to be able to vote in a general election:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun a bheith in ann vótáil in olltoghchán :</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You must be a citizen of Ireland or Britain</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní foláir duit a bheith i do shaoránach Éireannach nó Briotanach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You must be 18 years of age on the day of the election</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní mór duit a bheith 18 mbliana d’aois ar lá an toghcháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Your name must be on the Register of Electors</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Caithfidh d'ainm a bheith ar Chlár na Vótálaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must bring a valid form of personal identification, such as a:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh tú foirm bhailí d'ábhar aitheantais pearsanta a thabhairt leat, mar shampla:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Employee identity card containing a photograph</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cárta aitheantais fostaithe le griangraf</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Student identity card issued by an educational institution and containing a photograph</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cárta aitheantais do mhic léinn le griangraf eisithe ag institiúid oideachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Travel document containing name and photograph</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cáipéis taistil le hainm agus griangraf</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Bank or Savings or Credit Union book containing your address in the constituency or electoral area</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Leabhar bainc, leabhar coigiltis, nó leabhar Comhar Creidmheasa le seoladh sa dáilcheantar nó sa cheantar toghchánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Cheque book and another document containing your address in the constituency</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seicleabhar agus doiciméad eile a bhfuil do sheoladh sa cheantar ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Cheque card and another document containing your address in the constituency</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seic-chárta agus doiciméad eile a bhfuil do sheoladh sa cheantar ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Credit card and another document containing your address in the constituency</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cárta creidmheasaagus doiciméad eile a bhfuil do sheoladh sa cheantar ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Birth certificate and another document containing your address in the constituency</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Teastas breithe agus doiciméad eile a bhfuil do sheoladh sa cheantar ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Marriage certificate and another document containing your address in the constituency</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Teastas pósta agus doiciméad eile a bhfuil do sheoladh sa cheantar ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The address of your local polling station will be given on your polling card, which will be posted out to you before the election is held</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh seoladh d'ionad vótála áitiúil ar do charta vótála, a seolfar chugat roimh an toghchán</seg></tuv>
+</tu>
+</body>
+</tmx>

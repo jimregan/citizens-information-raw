@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Nomination to the Seanad by the Taoiseach</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ainmniúcháin an Taoisigh chuig an Seanad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Eleven members of the Seanad are nominated by the Taoiseach</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ainmníonn an Taoiseach aon chomhalta déag den Seanad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Taoiseach can nominate any person who is eligible to become a Senator</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis an Taoiseach aon duine atá intofa mar Sheanadóir a ainmniú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When the Government is a coalition government, it is usual for the nominations to be shared between the parties in proportion to party strengths</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair is comhrialtas atá ann, is iondúil go roinníonn na páirtithe na hainmniúcháin de réir cumhacht na bpáirtithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Normally, the Taoiseach makes his nominations after the other Seanad seats have been filled</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go hiondúil, déanann an Taoiseach daoine a ainmniú nuair atá na suíocháin eile sa Seanad líonta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the Constitution, 2 Senators may become members of the Government so it is possible for the Taoiseach to nominate a person so that they can be appointed to the Government</seg></tuv>
+  <tuv xml:lang="ga"><seg>De réir an Bhunreachta, is féidir beirt Seanadóir a ainmniú ina mbaill den Rialtas agus mar sin is féidir leis an Taoiseach duine a ainmniú ar mhaithe leis an duine sin a cheapadh mar bhall den Rialtas</seg></tuv>
+</tu>
+</body>
+</tmx>

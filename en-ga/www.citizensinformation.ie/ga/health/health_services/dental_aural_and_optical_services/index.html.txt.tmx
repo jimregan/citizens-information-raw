@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Dental, aural and optical health</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seirbhísí Fiaclóireachta, Súl agus Cluas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Aural services that are provided by your Health Service Executive (HSE) Area include hearing tests and hearing aids</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann na Limistéir Fheidhmeannacht na Seirbhíse Sláinte (FSS) seirbhísí cluas ar fáil do dhaoine atá i dteideal dóibh, tástálacha éisteachta agus áiseanna éisteachta san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Find out who qualifies for free services and how you can obtain a hearing aid at a reduced rate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigh amach cé hiad atá cáilithe ó thaobh seirbhísí saor in aisce</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Optometric and ophthalmic services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seirbhísí optaiméadracha agus oftalmacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Optometric and ophthalmic health services provided through the public health service are free for certain people</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá seirbhísí optúla agus oftalmacha atá curtha ar fáil ag an seirbhís sláinte phoiblí saor in aisce do dhaoine áirithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Health Service Executive (HSE) provides some free dental services to certain citizens</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann do Limistéir Feidhmeannachta na Seirbhíse Sláinte (FSS) seirbhísí fiacla ar fáil do shaoránaigh áirithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most Read in "Health"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ábhar is mó éilimh i "Sláinte"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Admission to a psychiatric hospital</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ospidéal síciatrach a iontráil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Medical card means test: aged under 70</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tástáil mhaoine cárta leighis: daoine faoi bhun 70 bliain d’aois</seg></tuv>
+</tu>
+</body>
+</tmx>

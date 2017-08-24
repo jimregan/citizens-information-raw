@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Maximum fines on summary conviction</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fíneálacha uasta ar ciontú achomair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A summary offence is one which can only be dealt with by a judge sitting without a jury, that is, in the District Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciontú achomair is ea ciontú nach féidir ach le breitheamh déileáil leis a shuíonn gan ghiúiré, is é sin, sa Chúirt Dúiche</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the Fines Act 2010, since January 2011 there are 5 categories or classes of maximum fine applying to summary convictions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoin Acht Fíneálacha, 2010, ó Eanáir 2011, is ann do 5 chatagóir nó aicme d’fhíneáil uasta a bhaineann le ciontuithe achomair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If someone is liable on summary conviction to a particular class of fine, the maximum fine is as given below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá duine faoi dhliteanas ar ciontú achomair fíneáil d’aicme áirithe a íoc, tugtar thíos an fhíneáil uasta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, the maximum fine for class B is €4,000</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, is é €4,000 an fhíneáil uasta d'aicme B</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Fine Class │A │B │C │D │E │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Aicme fíneála │A │B │C │D │E │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Maximum fine │€5,000 │€4,000 │€2,500 │€1,000 │€500 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Fíneáil Uasta │€5,000 │€4,000 │€2,500 │€1,000 │€500 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Maximum fines enacted before 2011</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fíneálacha uasta arna n-achtú roimh 2011</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the maximum fine on summary conviction for a particular offence was enacted or set before January 2011, it will now fit into one of the fine classes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má achtaíodh nó má shocraíodh an fhíneáil uasta ar ciontú achomair le haghaidh cion áirithe roimh Eanáir 2011, rangaítear anois í faoi cheann de na haicmí fíneála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Which fine class it belongs to depends on when the fine was set and the amount the maximum fine was set at</seg></tuv>
+  <tuv xml:lang="ga"><seg>Braitheann an t-aicme fíneála lena mbaineann sí ar cathain a socraíodh an fhíneáil ar an méid ar ar socraíodh an fhíneáil uasta dó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, if legislation (an act or statutory instrument) set the maximum fine on summary conviction for a particular offence at €500 in 1992, a class D fine now applies</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, má shocraigh an reachtaíocht (acht nó ionstraim reachtúil) an fhíneáil uasta ar ciontú achomair le haghaidh cion áirithe ag €500 i 1992, baineann fíneáil aicme D anois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Fine Class │A │B │C │D │E │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Aicme fíneála │A │B │C │D │E │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Set in period │Fine (€) │Fine (€) │Fine (€) │Fine (€) │Fine (€) │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Tréimhse ionsuite │Fíneáil (€) │Fíneáil (€) │Fíneáil (€) │Fíneáil (€) │Fíneáil (€) │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Up to 1914 │101 - 5,000 │51 - 100 │26 - 50 │7 - 25 │1 - 6 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Up to 1914 │101 - 5,000 │51 - 100 │26 - 50 │7 - 25 │1 - 6 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Indictable offences tried summarily</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciontuithe indíotáilte a thriailtear go hachomair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An indictable offence is one which may be or must be tried before a judge and jury, that is, in the Circuit Court or the Central Criminal Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn cion indíotáilte cion nach mór nó a fhéadtar a thriail os comhair breithimh agus giúiré, is é sin, sa Chúirt Chuarda nó sa Phríomh-Chúirt Choiriúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where an indictable offence is tried summarily the maximum fine that applies is a class A fine</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás go dtriailtear cion indíotáilte go hachomair, is é fíneáil aicme A an fhíneáil uasta lena mbaineann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Maximum fines if convicted on indictment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fíneálacha uasta má chiontaítear thú ar díotáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the maximum fine for conviction on indictment for a particular offence was set on or after 1997, it is still the maximum fine for that offence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má socraíodh an fhíneáil uasta le haghaidh ciontú ar díotáil le haghaidh cion áirithe i 1997 nó tráth dá éis sin, is í sin an fhíneáil uasta don chion sin go fóill</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the maximum fine was set before then, the value it was set at is multiplied by the appropriate multiplier, as given in the table below, to find the current value of the maximum fine</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má socraíodh an fhíneáil uasta roimhe sin, méadaítear an luach ar ar socraíodh í faoin iolraitheoir cuí, amhail a thugtar sa tábla thíos, d’fhonn luach reath na fíneála uasta a dheimhniú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, if the maximum fine was set at €5,000 in 1984, you multiply by 2 to obtain the current value of €10,000</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, más ionann agus €5,000 a socraíodh an fhíneáil uasta i 1984, iolraítear faoi 2 é seo le luach reatha €10,000 na fíneála a fháil</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,505 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>In general, large employers in Ireland have occupational pension schemes, but many smaller employers throughout the country do not</seg></tuv>
+  <tuv xml:lang="ga"><seg>De ghnáth, bíonn scéimeanna pinsin gairme ag fostóirí móra ach tá go leor do na fostóirí beaga nach bhfuil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Each pension scheme has its own set of rules</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá rialacha áirithe ag baint le gach scéim phinsin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Pension schemes nationally are generally regulated by the Pensions Authority</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá na scéimeanna pinsin stiúrtha ag tÚdarás Pinsean</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Members of schemes have certain rights in respect of such matters as information</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá cearta áirithe ag baill na scéimeanna maidir le nithe ar nós eolais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Contibutions to approved occupational pension schemes may attract tax relief</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá rialáil le haghaidh cháin maoirsithe ag an Cheantar Sochar Scor na gCoimisinéirí Ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Regulation for tax purposes is supervised by the Retirement Benefits District of the Revenue Commissioners</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gheobhaidh tú tuilleadh eolais mar gheall ar an tobhach pinsin ar shuíomh gréasáin na Roinne Airgeadais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is no legal obligation on employers to provide occupational pension schemes for employees</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon dualgas dleathúil ar fhostóirí scéim phinsin a chur ar fáil d'hostaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, more and more employers are putting schemes in place and there is positive government encouragement to do so</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach mar sin féin, tá níos mó agus níos mó fostóirí ag bunú scéimeanna agus spreagann an rialtas iad go mór chun é seo a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Occupational pensions and personal pensions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Pinsin gairme agus pinsin phearsanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Occupational pensions are organised by employers to provide pensions to one or more employees on retirement or to surviving dependants on the death of an employee</seg></tuv>
+  <tuv xml:lang="ga"><seg>Eagraíonn fostóirí pinsin gairme le pinsean a chur ar fáil d'fhostaí nó d'fhostaithe nuair a théann siad amach ar phinsean nó nuair a fhaigheann fostaí bás, go mbeidh pinsean ag na cleithiúnaithe a mhaireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A personal pension scheme (properly known as a Retirement Annuity Contract- RAC) is an arrangement by a self-employed person or an employee, generally a person who is not a member of an occupational pension scheme, to provide a pension on retirement or to surviving dependants on death</seg></tuv>
+  <tuv xml:lang="ga"><seg>Socrú a dhéanann duine atá féinfhostaithe nó fostaithe é pinsean pearsanta (a ghairfear i gceart Conradh Blianachta Scoir - CBS), go ginearálta duine nach bhfuil ina b(h)all de scéim phinsin gairme sa chaoi is go mbeidh pinsean aige/aici nuair a théann sé/sí amach ar phinsean nó ag a c(h)uid cleithiúnaithe a mhaireann nuair a fhaigheann sé/sí bás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>RACs are governed by tax legislation and financial services legislation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann reachtaíocht chánach agus reachtaíocht seirbhísí airgeadais le CBS</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They are not regulated by the Pensions Authority</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl siad rialaithe ag an mBord Pinsean</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may be a member of an occupational pension scheme and also arrange a personal pension</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat a bheith i do bhall de scéim phinsin gairme agus ag an am céanna pinsean pearsanta a bheith agat freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, it may not be possible to avail of the tax benefits in respect of both</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach, ní gá go mbeidh tú in ann sochair cánach a fháil ar an dá phinsean</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may not contribute to an occupational pension scheme and a personal pension arrangement at the same time in relation to the same employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leat ranníocaíochtaí a dhéanamh chuig scéim phinsin gairme agus pinsean pearsanta ag an am céanna maidir leis an bhfostaíocht chéanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, you may make a personal pension arrangement in respect of earnings from another employment or from self-employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach, is féidir leat pinsean pearsanta a shocrú maidir leis an méid a shaothraíonn tú ó fhostaíocht eile nó ón bhféinfhostaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A person becoming an employee and joining an occupational pension scheme can now continue to contribute to the RAC schemes where they join an occupational pension scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le fostaí atá ag dul i scéim pinsin gairme lean ar aghaidh ag tabhairt ranníocaíochtaí don CBS</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, tax relief will not be given to continued contributions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áfach ní bheidh aon fhaoiseamh cáin ar ranníocaíochtaí leanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>From 2003 onwards, Personal Retirement Savings Accounts (PRSAs) became available</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó 2003 ar aghaidh, tháinig Cuntais Coigiltis Scoir Pearsanta (CCSP) i bhfeidhm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These are designed to be used instead of occupational pension schemes by employers who do not wish to sponsor such schemes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá siad seo deartha le gur féidir le fostóirí nach mian leo urraíocht a dhéanamh ar scéim pinsin gairme úsáid a bhaint astu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They may also be used to supplement occupational scheme benefits, as Additional Voluntary Contributions (AVCs) and as a substitute for personal pension schemes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir iad a úsáid freisin chun cur le sochair scéim gairme, mar Ranníocaíochtaí Breise Deonacha (RBD) agus in ionad scéimeanna pinsin phearsanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Employers must offer access to at least one standard PRSA to any employee who is not eligible to join an occupational pension scheme within 6 months of joining employment and must offer a PRSA for AVC purposes if there is no facility for AVCs within the scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó 15 Meán Fómhair 2003, ní mór d'fhostóirí rochtain ar ar a laghad CCSP caighdeánach amháin a tháirgeadh d'aon fhostaí nach bhfuil i dteideal dul isteach i scéim pinsin gairme laistigh de 6 mhí ón dáta a thosaíonn siad ag obair, agus ní mór dóibh CCSP a thairiscint mar Ranníocaíochtaí Breise Deonacha (RBD) mura bhfuil aon áiseanna do RBD laistigh den scéim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further information on PRSAs (pdf) is available from the Pension Authority's website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh eolais ar CCSP (pdf) ar fáil ó láithreán gréasáin Bhord na bPinsean</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Occupational pension schemes may be contributory or non-contributory, funded or unfunded, defined benefit or defined contribution</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le scéimeanna pinsin gairme a bheith ranníocach nó neamhranníocach, maoinithe nó neamhmaoinithe, sainmhínithe sochair nó sainmhínithe ranníocaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In contributory schemes, both you and your employer pay contributions towards the scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann tú féin agus an fostóir ranníocaíochtaí isteach sa scéim ranníocach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In non-contributory schemes, you do not contribute but your employer does</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann d'fhostóir ranníocaíochtaí isteach sa scéim neamhranníocach, ach ní íocann tusa tada</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Virtually all occupational schemes are funded - the contributions are put into a designated fund and the benefits are paid from that fund</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá beagnach gach scéimgairme maoinithe - tá na ranníocaíochtaí curtha isteach i gciste faoi leith agus baintear na sochair as an gciste seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The most notable exception is the public service pension arrangement where there is no fund and benefits are paid out of current government funds</seg></tuv>
+  <tuv xml:lang="ga"><seg>Pinsean na seirbhísí poiblí an eisceacht is mó, áit nach bhfuil aon chiste agus íoctar na sochair as ciste reatha an rialtais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A National Pensions Reserve Fund (NPRF) has been established to provide a fund that can be drawn upon for future payments of public service and social welfare pensions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bunaíodh Cúlchiste Náisiúnta na bPinsean (CNP) le ciste a sholáthar as a íocfar pinsin na seirbhíse poiblí agus pinsin leasa shóisialaigh sa todhchaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is different from funded pension schemes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá seo difriúil ó scéimeanna pinsin maoinithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In a funded scheme, you are a member of the scheme and you have a direct interest in the fund</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sna scéimeanna maoinithe, tá suim díreach agat sa chiste mar bhall den scéim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You have no direct claim on the NPRF</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon éileamh díreach agat ar an CNP</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A defined benefit scheme is one where the benefit entitlement is defined in some way by reference to your earnings, your length of service, an index or a fixed amount</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an sochar atá tuillte agat sainmhínithe ar bhealach éigin a bhaineann le d'ioncam, le fad do sheirbhíse, le innéacs nó is méid socraithe é i Scéim Sainmhínithe Sochair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>So, you know in advance that your pension will be, for example, half of your final salary if you have 40 years service or that it will be a certain amount each week</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin bíonn a fhios agat roimhré mar shampla go mbeidh do phinsean leath de do thuarastal deireanach má tá 40 bliain seirbhíse oibrithe agat, nó go mbeidh sé méid áirithe sa tseachtain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In defined benefit schemes, the contributions may have to be varied from time to time in order to make sure that the fund can meet the level of benefits</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seans go mbeidh gá na ranníocaíochtaí a athrú ó am go chéile le scéimeanna sainmhínithe sochair le cinntiú go mbeidh an ciste in ann do leibhéal na sochar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some schemes have provisions for the employer to top up the fund if necessary</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá scéimeanna áirithe i bhfeidhm inár féidir leis an bhfostóir cur leis an gciste más gá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Finance Act 2006 introduced a limit on the value of an individual's pension fund which may attract tax relief and this may vary from year to year. This is called the Standard Fund Threshold</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn an ranníocaíocht socraithe tríd comhaontú i Scéim Ranníocaíochta Sainmhínithe ach déantar na sochair a mheas ar luach na ranníocaíochtaí a dhéantar faoin scéim agus níl siad socruithe roimh ré</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>From the same date the value of a defined benefit differs depending on the age at which the pension is drawn down</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dá bhrí sin ní bhíonn a fhios agat cén leibhéal pinsin a gheobhaidh tú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the scheme is fully funded then all liabilities are met. If the pension scheme is underfunded or insolvent, then people with a lower order of priority do not get what they expected from the scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú i do bhall de scéim pinsean ceirde le ranníocaíocht shainithe agus má théann tú ar scor sa tréimhse ón 4 Nollaig 2008 go dtí an 31 Nollaig 2010, tá an rogha agat anois do chnapshuim saor ó cháin a thógáil agus blianacht scoir a cheannach díreach nuair a imíonn tú ar scor nó do chnapshuim a thógáil agus ceannach blianachta a chur siar, faoi réir é a chomhaontú le hiontaobhaí do scéime, go dtí 31 Nollaig 2010</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The new rules which apply to the winding up of schemes after 25 December 2013 reduce the rights of current pensioners and improve the priority given to future pensioners. These new rules differ depending on whether or not the employer is solvent</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fógraíodh sa Bhuiséad 2011 go mbeadh deiseanna solúbtha scoir, mar shampla, rochtain ar chistí scoir formheasta (CSF) sínte don uile bhall de scéimeanna ranníocaíochta sainmhínithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Single insolvency order - If the employer is solvent</seg></tuv>
+  <tuv xml:lang="ga"><seg>Pinsin gairme agus pinsin leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The second priority is the pensions payable to current pensioners but there are now limits on the amounts to which priority is attached as follows:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Oibríonn na pinsin gairme agus na pinsin phearsanta neamhspleách on gcóras pinsin leasa shóisialaigh agus níl aon nasc reachtúil eatarthu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Pensions under €12,000 may not be reduced. The maximum reduction is then 10% of pensions under €60,000 (but they cannot be reduced to less than €12,000) and 20% of pensions over €60,000.   Double insolvency order - Employer insolvent</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Áirítear pinsin leasa shóisialaigh pinsin ranníocach agus pinsin neamhranníocach.) Ach mar sin féin tá sé comónta do phinsin gairme, leibhéal íocaíochta na bpinsean leasa shóisialaigh a thabhairt san áireamh nuair atá siad ag comhaireamh leibhéal na sochar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The priority in the winding up of a defined benefit pension scheme in cases where the employer is insolvent is as follows:  1. Additional Voluntary Contributions (AVCs) and defined contribution benefits 2</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, cuireann scéimeanna áirithe sochair ar fáil a thabharfaidh duit leath nó dhá thrian de do thuarastal deireanach in éineacht leis an bpinsean leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where the scheme does not have enough funds to pay 50% of pensioner and future pensioner benefits and pensioner benefits up to €12,000 a year, the Minister for Finance must provide the necessary funding</seg></tuv>
+  <tuv xml:lang="ga"><seg>B'fhéidir go ndéanfaí é seo nuair a fhaigheann tú an pinsean ar dtús ach ní féidir do phinsean ceirde a laghdú má dhéantar do phinsean leasa shóisialaigh a ardú ina dhiaidh sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>So, you do not know what level of pension you will get</seg></tuv>
+  <tuv xml:lang="ga"><seg>Uaireanta tugtar scéimeanna comhtháite nó comhordnaithe ar na scéimeanna seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Occupational pensions and social welfare pensions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoiseamh cánach ar ranníocaíochtaí pinsin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, it is common for occupational pensions to take into account the level of social welfare pension received in calculating the level of benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú i do bhall de scéim phinsin cheadaithe, is féidir leat faoiseamh cánach a fháil ar do chuid ranníocaíochtaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are a member of an approved pension scheme, you can get tax relief at your highest rate on your contributions to the scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocann tú cáin ar an bpinsean nuair a fhaigheann tú é</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are various rules that pension schemes must meet in order to get the tax relief and there is a limit to the amount of the relief</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá rialacha áirithe nach mór do scéimeanna pinsin a chomhlíonadh leis an bhfaoiseamh cánach a fháil agus tá teorainn leis an bhfaoiseamh gur féidir a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Since 1 January 2011 you pay PRSI and the Universal Social Charge on your pension contributions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó 1 Eanáir 2011 íocann tú ÁSPC agus an Muirear Sóisialta Uilíoch ar do ranníocaíochtaí pinsin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The maximum pension contributions, in any one year, for which you are entitled to tax relief, is related to your age and is expressed as a percentage of your gross income</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann uaslíon na ranníocaíochtaí pinsean, i mbliain amháin ar bith, a bhfuil tú i dteideal faoiseamh cánach ina leith, le d’aois agus léirítear é mar chéatadán de d’ollioncam</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The maximum gross income figure for relief purposes is €115,000</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é €115,000 (€150,000 roimhe seo) an figiúr don ollioncam uasta in 2011</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The percentage relief limits are:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad na teorainneacha maidir leis an gcéatadán d’fhaoiseamh ná:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│under 30 years │15% of *net relevant earnings │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Faoi 30 bliain │*15% d'ioncam glan cuí │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│30-39 years │20% of *net relevant earnings │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Aois 30-39 │*20% d'ioncam glan cuí │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│40-49 years │25% of *net relevant earnings │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Aois 40-49 │*25% d'ioncam glan cuí │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│50-54 years │30% of *net relevant earnings │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Aois 50-54 │*30% d'ioncam glan cuí │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│55-59 years │35% of *net relevant earnings │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Aois 55-59 │*35% d'ioncam glan cuí │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│60 years plus │40% of *net relevant earnings │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Aois 60 + │*40% d'ioncam glan cuí │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>*For employees, earnings means gross pay for tax purposes. For the self-employed, earnings means net relevant earnings, that is, earnings less allowable expenses</seg></tuv>
+  <tuv xml:lang="ga"><seg>* Ciallaíonn tuilleamh d'fhostaithe iomlán pá le haghaidh cáin, agus ciallaíon tuilleamh d'fhéinfhostaithe ioncam glan cuí, tuilleamh lúide costais ceadaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You pay tax on the pension when you receive it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair fhaigheann tú an pinsean íocann tú cáin air</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Since 1 January 2011 there is a limit of €200,000 on the amount of the tax-free retirement lump sum</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó 1 Eanáir 2011 tá teorainn €200,000 ar an méid cnapshuime scoir atá saor ó cháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Lump sum payments above that limit will be taxed as follows (in 2014 and 2015):</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gearrfar cáin ar íocaíochtaí cnapshuime níos mó ná an teorainn seo mar a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Amount of lump sum │Income tax rate │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Méid cnapshuime │Ráta cáin ioncam │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Up to €200,000 │0% │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Suas go €200,000 │0% │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Over €500,000 │Taxpayer's marginal rate │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Níos mó ná €575,000 │Ráta immeallach an cháiníocóra │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Levy on private pension funds</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ráta cáin ioncaim ar aisíoc ranníocaíochtaí le scéimeanna pinsin gairme</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is a levy of 0.6% on the market value of assets which are managed in pension funds and pension plans approved under Irish tax legislation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Laghdófar an ratá cánach ar aisíocaíochtaí ranníocaíochtaí a rinne cáiníocóir le scéim phinsin gairme , ón ráta reatha 25% go dtí an gnáth-ráta cánach ioncaim, sé sin 20% faoi láthair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(These include occupational pension schemes, Retirement Annuity Contracts and Personal Retirement Savings Accounts)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirfear an t-athrú seo i bhfeidhm ar aisíocaíochtaí a dhéantar ar agus i ndiaidh an 5 Nollaig 2001</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Pensions Authority is the regulatory body for occupational pensions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bord stiúrtha na bpinsean gairme é tÚdarás Pinsean</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Authority consists of representatives nominated by trade unions, employers, the Government, the pensions industry and professional groups involved with occupational pension schemes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá ionadaithe ainmnithe ar an mbord ag na ceardchumainn, ag fostóirí, ag an Rialtas, ag tionscal na bpinsean agus ag grúpaí proifisiúnta a bhfuil baint acu le scéimeanna pinsin gairme</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The main functions of the Authority are:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seo a leanas príomhfheidhmeanna an Bhoird:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• To monitor and supervise the operation of the Pensions Act and pension developments generally;</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Monatóireacht agus maoirseacht a dhéanamh ar chur i bhfeidhm Acht na bPinsean agus ar fhorbairtí pinsin go ginearálta;</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• To issue guidelines on the duties and responsibilities of pension scheme trustees and Codes of Practice on specific aspects of their responsibility;</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Treoirlínte a eisiúint ar dhualgais agus cúraimí iontaobhaithe scéimeanna pinsin agus ar chóidchleachtaidh maidir le gnéithe áirithe dá gcuid dualgas;</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• To encourage the provision of appropriate training for trustees</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Soláthar traenála cuí do na hiontaobhaithe a spreagadh;</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• To advise the Minister on standards for trustees;</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Comhairle a chur ar an Aire maidir le caighdeáin do na hiontaobhaithe;</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• To investigate complaints concerning possible non-compliance with the pensions legislation and to resolve disputes that may arise in relation to some aspects of the legislation and</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Fiosrú a dhéanamh ar ghearáin a bhaineann le neamhchomhlíonadh reachtaíocht phinsin agus aon chonspóid a thagann aníos maidir le aon ghné den reachtaíocht a réiteach;</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• To advise the Minister for Social Protection on pensions matters generally</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Comhairle a chur ar an Aire Coimirce Sóisialaí ar nithe ginearálta a bhaineann le pinsin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Occupational pension schemes are obliged to register with the Authority</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh scéimeanna pinsin saothair clarú leis an mBord de réir dlí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Ombudsman for Pensions has the power to investigate and determine your complaints concerning disputes of fact or law and errors in relation to occupational pension schemes and PRSAs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh an chumhacht ag an Ombudsman na bPinsean fiosrúchán a dhéanamh agus cinneadh a thógáil maidir le do ghearáin a bhaineann le easaontas fíricí nó dlí agus botúin a bhaineann le scéimeanna pinsin gairme agus CCSP</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Ombudsman has the power to give any directions necessary to resolve the complaint or dispute and can give financial compensation (redress) but this cannot exceed the actual loss of benefit under the occupational pension scheme or PRSA</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé de chumhacht ag an Ombudsman aon treoracha cuí a thabhairt le réiteach a fháil ar an ngearán nó easaontas agus cúiteamh airgeadais a thabhairt ach ní féidir leis an tsuim seo a bheith níos mó ná an sochar caillte faoin scéim phinsin saothair nó CCSP</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Ombudsman does not have the power to award legal costs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bheidh sé de chumhacht ag an Ombudsman costais dlíthiúla a bhronnadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All decisions made by the Ombudsman are binding between the parties subject to a right of appeal by either party to the High Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór do na páirtithe ar fad cloí le cinneadh an Ombudsman faoi réir ag an gceart atá ag na páirtithe ar fad achomharc a lorg ón Ardchúirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your rights as a pension scheme member</seg></tuv>
+  <tuv xml:lang="ga"><seg>Do chuid cearta mar bhall de scéim phinsin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Pensions Authority has produced a number of leaflets on the operation of the Pensions Act</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá go leor bileoga foilsithe ag tÚdarás Pinsean ar fheidhmiú Acht na bPinsean</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It provides information to members of pension schemes about their rights under the legislation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann siad eolas ar fáil do na baill scéimeanna pinsin maidir lena gcearta de réir na reachtaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have a complaint, the Authority will advise you about your rights</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá gearán agat, cuirfidh an Bord comhairle ort maidir le do chuid cearta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If necessary, the Authority has extensive powers to inspect the scheme's books and records, to enter premises and to require people to give explanations</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más gá tá cumhachtaí leathan ag an mBord gur féidir a úsáid le scrúdú a dhéanamh ar leabhair agus ar thaiféid na scéime, le dul isteach in áitribh agus le iachall a chur ar dhaoine míniú a thabhairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It may apply to the High Court to have pension scheme trustees replaced in order to protect the interests of the members</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé de chumhacht ag an mBord dul chuig an Ardchúirt le iontaobhaithe séimeanna pinsin a athrú óna bpost le leas na mball a chosaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Among the more important rights you have as a member of a pension scheme are:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seo cuid de na cearta is tabhachtaí atá agat mar bhall scéim pinsin:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The trustees of the scheme must provide information to members, prospective members, their spouses, people entitled or prospectively entitled to benefits under the scheme and to representatives of trade unions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh iontaobhaithe na scéime eolas a chur ar fáil do na baill atá acu faoi láthair, do na baill a bheidh acu sa todhchaí, dá gcuid céilithe, do dhaoine atá agus a bheidh i dteideal sochar faoin scéim agus do ionadaithe na gceardchumann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are entitled to get information about the scheme, about how it is administered, what rights you have and what obligations you have</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an ceart agat eolas a fháil faoin scéim, faoin gcóras riaracháin, faoi do chuid cearta agus na dualgais atá ort</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The trustees are obliged to tell you if more than 5% of the scheme's assets are invested in the employer's business or in any one investment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní foláir do na hiontaobhaithe tú a chur ar an eolas má tá níos mó na 5% de shocmhainní na scéime infheistithe i gnó an fhostóra nó in infheistíocht amháin ar leith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The right to be involved in the scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceart a bheith páirteach sa scéim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In certain cases, you are entitled to be involved in the selection of trustees</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcásanna áirithe tá sé de cheart agat páirt a ghlacadh i roghnú na n-iontaobhaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is the case if your scheme has 50 or more qualified members or 12 or more qualified members of a directly invested scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn an cás seo amhlaidh má bhíonn níos 50 baill cáilithe nó níos mó ag an scéim nó 12 nó níos mó baill cáilithe i Scéim Infheistíochta Díreach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A qualified member is a member of the scheme currently in employment or a pensioner, but does not include a member who is covered only for death in service or a non-member (e.g. a dependant) who is receiving benefits from the scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ball cáilithe é ball scéime atá fostaithe faoi láthair, ach ní thugtar san áireamh baill atá clúdaithe do bhás i seirbhís amháin nó baill atá ag fáil sochar ón scéim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Members can elect half the total number of trustees (excluding the chairperson), subject to a minimum of two</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis na baill leath na n-iontaobhaithe iomlán a thogh ar an mbord (seachas an cathaoirleach) faoi réir ag íosmhéid de bheirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Rules about pension schemes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Na rialacha a bhaineann le scéimeanna pinsin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Pension schemes can, to a considerable extent, set their own rules about contributions and benefits</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le scéimeanna pinsin a gcuid rialacha féin a shocrú maidir le ranníocaíochtaí agus sochair go pointe áirithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are some rules set out in legislation to which they must adhere</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá rialacha áirithe leagtha síos sa reachtaíocht agus caithfidh siad cloí leo seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Preservation and Transfer of Benefits</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caomhnú agus aistriú sochair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are specific rules about what happens if you leave the pension scheme for whatever reason, for example, if you change jobs or you become self-employed or retire early without a pension</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá rialacha sainiúla leagtha síos má fhágann duine scéim phinsin ar chúis ar bith, mar shampla, má athraíonn duine a phost, nó má thógann duine suas féinfhostaíocht nó má éiríonn duine as an obair go luath, gan pinsean</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your benefits from the pension scheme may be preserved within the scheme or transferred to another scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir sochair a chaomhnú laistigh den scéim nó iad a aistriú go dtí scéim eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have at least 2 years service, you are entitled to a preserved benefit if you leave before the normal retirement age</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá 2 bhliain seirbhíse déanta ag duine, tá an duine i dteideal sochair chaomhnaithe, fiú má fhágann sé/sí an post roimh an ghnáth aois dul amach ar phinsean</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A preserved benefit means that you get a pension when you reach the scheme's normal retirement age</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn sochar caomhnaithe go bhfaighidh an duine ansin pinsean nuair a shroicheann sé/sí gnáthaois pinsin a bhaineann leis an scéim sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(Prior to 2 June 2002, 5 years service was needed to qualify for preservation)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Roimh 2 Meitheamh 2002, ní raibh mór duit 5 bhliain den tseirbhís a bheith agat chun cáiliú do chaomhnú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Alternatively, you can ask the trustees to transfer your pension rights to a new pension scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach freisin, is féidir leat a iarraidh ar iontaobhaithe na scéime do chuid cearta pinsin a aistriú chuig scéim eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The trustees are obliged to meet the minimum standards of funding for funded occupational schemes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé de dhualgas ar na hiontaobhaithe na bunchaighdeán maonaithe a bhaineann le scéimeanna ceirde maonaithe a shásamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Pension schemes usually have benefits for you when you retire and for your widowed spouse and dependent children after your death</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn sochair ag scéimeanna pinsin go hiondúil duit féin nuair a théann tú amach ar phinsean agus do do chéile bhaintrí agus do do chuid páistí cleithiúnacha tar éis do bháis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Not all schemes have arrangements for dependants</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl socruithe déanta do chleithiúnaithe sna scéimeanna uilig</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under an occupational pension scheme, the maximum benefit that can be provided for a spouse or dependent has been increased from 2/3 of the full pension to 100% of the provision</seg></tuv>
+  <tuv xml:lang="ga"><seg>Méadaíodh an t-uasmhéid socair soláthartha do chéile nó chleithiúnaí ó 2/3 iomlán pinsin go dtí 100% an tsoláthair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some schemes may allow you to designate the person who should benefit under the scheme so it is possible, in some cases, to nominate a person other than a spouse</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh sé go mbeadh duine in ann le scéimeanna áirid an té a gheobhaidh na sochair faoin scéim a ainmniú agus mar sin, is féidir, i gcásanna áirid, duine a ainmniú seachas do chéile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Occupational pensions and marriage breakdown</seg></tuv>
+  <tuv xml:lang="ga"><seg>Pinsin gairme agus cliseadh pósta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In judicial separation and divorce proceedings, the court may make various types of financial settlements</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcásanna cúirte a bhaineann le scaradh agus colscaradh is féidir leis an gCúirt socruithe eagsúla airgeadais a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Among these is a Pension Adjustment Order</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina measc sin tá Ordú Leasú Pinsin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Pension Adjustment Order designates a part of the pension for payment to a spouse (usually the wife) and dependant children</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann Ordú Leasú Pinsin cuid den phinsean a thabhairt do chéile (go hiondúil an bhean) agus do na páistí cleithiúnacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The judge decides how much of the pension should be designated</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann an breitheamh an cinneadh cé mhéid den phinsean atá le tabhairt don chéile eile / do na páistí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The effect of such an order is that the designated part of the pension remains in the pension scheme but is payable to your spouse and children when you reach pension age or die</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar thoradh ar an ordú seo bíonn cuid ainmnithe den phinsean fágtha sa scéim phinsin ach tá sé iníoctha le do chéile agus do pháistí nuair a shroicheann tú aois an phinsin nó nuair a fhaigheann tú bás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Information about your own scheme is available from the trustees of the scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá eolas faoi do scéim féin le fáil ó iontaobhaithe na scéime</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Information on pensions generally and your rights is available from the Pensions Authority</seg></tuv>
+  <tuv xml:lang="ga"><seg>Soláthraíonn tÚdarás Pinsean eolas ar phinsin go ginearálta agus ar do chuid cearta pinsin</seg></tuv>
+</tu>
+</body>
+</tmx>

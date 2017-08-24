@@ -1,0 +1,313 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>If you are arrested and charged with an offence, you will be brought before a District Court as soon as possible</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéantar duine a ghabháil agus a chúisiú le coir, tabharfar ós comhair na Cúirte Dúiche é/í chomh luath agus is féidir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may make an application in court to be released from custody on bail</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir iarratas a chur ós comhair na cúirte go scaoilfí an duine amach ar bhannaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Bail is when you are released from custody because of a bond or promise made either by you or by another person (a surety) to guarantee that you will appear in court for your trial</seg></tuv>
+  <tuv xml:lang="ga"><seg>Scaoiltear duine ar bhannaí mar gheall ar bhanna nó geallúint a dhéanann sé/sí féin nó duine eile (urra) le cinntiú go mbeidh an duine atá cúisithe i láthair le dul ós comhair na cúirte dá t(h)riail</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Bail is based on the principle that the accused is presumed innocent until proved guilty</seg></tuv>
+  <tuv xml:lang="ga"><seg>Glactar leis go bhfuil duine neamhciontach go dtí go bhfuil sé cruthaithe go bhfuil sé/sí ciontach agus is ar an mbunús sin a scaoiltear duine ar bhannaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you enter into a bail bond, you are committing yourself to appear in court to answer the charges made against you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má théann duine faoi bhannaí tá sé/sí ag glacadh leis go dtiocfaidh sé/sí ós comhair na cúirte leis na cúiseanna atá curtha ina leith a fhreagairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are sent for trial in the Special Criminal Court you cannot get bail unless the Director of Public Prosecutions directs otherwise</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chuirtear ar aghaidh thú chun trialach sa Chúirt Choiriúil Speisialta, ní féidir leat bannaí a fháil mura n-ordaíonn an Stiúrthóir Ionchúiseamh Poiblí a mhalairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The court may not be satisfied with your promise that you will appear in court to answer the charges made against you</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh sé go mbeidh an chúirt sásta le geallúint ón té atá cúisithe go mbeidh sé/sí i láthair sa chúirt leis na cúiseanna atá curtha ina c(h)oinne a fhreagairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The court may decide that an "independent surety" is required to guarantee your appearance</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh sé go ndéanfaidh an chúirt cinneadh go bhfuil "urra neamhspléach" ag teastáil le cinntiú go mbeidh an duine i láthair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An independent surety is a person who makes him or herself responsible for your appearance in court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Duine a ghlacann freagracht air/uirthi féin go mbeidh an té atá cúisithe i láthair sa chúirt é/í urra neamhspléach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He or she promises to pay a sum of money to the court if you do not appear as agreed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Geallann sé/sí suim airgid a íoc leis an gcúirt muna dtagann an té atá cúisithe ós a comhair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When a Garda brings you into custody to a Garda station, the station may release you on bail either with or without sureties</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a thugann Garda isteach i Stáisiún na nGardaí duine faoi choimeád, is féidir leis an stáisiún an duine sin a scaoileadh ar bhannaí le nó gan urraí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The amount of money specified in the bail bond is set by the Garda in charge of the station</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é/í an Garda atá i gceannas an stáisiúin a dhéanann cinneadh cé mhéid airgid a bheidh i gceist leis an mbanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must enter into a bond to appear before the District Court on a specific date</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don té atá cúisithe geallúint a thabhairt a bheith i láthair ag an gCúirt Dúiche ar dáta faoi leith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you are brought before the District Court, the judge may either remand you in custody or release you conditionally when you enter into a bail bond with or without surety</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a thagann duine ós comhair na Cúirte Dúiche is féidir leis an mBreitheamh é/í a choinneáil faoi choimeád nó a scaoileadh ar choinníollacha bannaí le nó gan urra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The amount of money specified in the bail bond is set by the judge</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é/í an breitheamh a dhéanann an cinneadh cé mhéid airgid a bheidh i gceist leis an mbanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are granted bail you (or your surety) must pay into court at least one-third of the amount of money promised in the bail bond</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má thugtar cead do dhuine dul ar bhannaí ní mór dó/dí (nó a (h)urra) ar a laghad aon thrian den mhéid airgid atá geallta sa bhanna a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This money will be returned to you if you appear in court as promised</seg></tuv>
+  <tuv xml:lang="ga"><seg>Aisíocfar an t-airgead má thagann an té atá cúisithe ós comhair na cúirte mar a gheall sé/sí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Director of Public Prosecutions can appeal the decision to grant you bail or the conditions of your bail to the High Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh an Stiúrthóir Ionchúiseamh Poiblí an cinneadh a achomharc chun bannaí a dheonú duit nó coinníollacha do bhannaí a achomharc leis an Ard-Chúirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the District Court refuses bail, you will be remanded in custody</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhiúltaíonn an Chúirt Dúiche duine a scaoileadh ar bhannaí coinneofar siar faoi choimeád an duine sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can appeal the decision to the High Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le duine achomharc faoin gcinneadh sin a chur ós comhair na hArdchúirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are charged with treason, war crimes, murder, attempt to murder, conspiracy to murder or piracy and genocide, the District Court does not have the power to grant you bail</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chuirtear cúiseanna a bhaineann le tréas, coireanna cogaidh, dúnmharú, iarracht duine a dhúnmharú, comhcheilg le dúnmharú nó píoráideacht agus cinedhíothú, i leith duine níl sé de chumhacht ag an gCúirt Dúiche an duine sin a scaoileadh ar bhannaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Certain offences under the Offences Against the State Act, 1939 and the Official Secrets Act, 1963 also rule out the granting of bail in the District Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl cead ag an gCúirt Dúiche ach an oiread duine atá cúisithe le coireanna faoi leith a bhaineann leis an Acht um Chiontuithe in Aghaidh an Stáit 1939 agus leis an Acht um Rúndachta Oifigiúil 1963</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In those cases, you or your legal representative must apply to the High Court for bail</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sna cásanna sin, ní mór don té atá cúisithe nó dá (h)ionadaí dlí iarratas a chur ós comhair na hArdcúirte ar bhannaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Considerations of the Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rudaí nach mór don Chúirt a chur san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Whether or not the District Court will grant you bail depends on a number of factors;</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá roinnt rudaí ar a mbunófaidh an Chúirt Dúiche an cinneadh duine a scaoileadh ar bhannaí nó bannaí a dhiúltú:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Whether you are likely to flee</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An bhfuil cosúlacht ann go n-éalóidh an duine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you are charged with a serious offence, whether you are likely to commit a serious offence while on bail</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Más coir throm atá curtha i leith an duine an bhfuil cosúlacht ann go ndéanfaidh sé/sí coir throm eile agus é/í saor ar bhannaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A serious offence is one for which you may be punished by a term of 5 years imprisonment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is coir throm aon choir lena mbaineann téarma sa phríosún de 5 bhliain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The fact that you were caught red-handed</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má rugadh ar an duine atá cúisithe agus é/í i mbun na coire</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Whether you are likely to interfere with evidence, witnesses or jurors</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An bhfuil seans ann go gcuirfidh an duine isteach ar fhianaise, ar fhinnéithe nó ar bhaill den ghiúiré</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Whether you have ever breached a bail bond before</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ar sháraigh an duine téarmaí bannaí cheana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Your character and previous criminal record</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cén sórt duine atá i gceist agus an bhfuil stair coireanna aige/aici</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Your circumstances (whether you have a family, a job, a house, etc.)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• A s(h)aol pearsanta (an bhfuil clann, post agus teach, &amp; rl ag an duine)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Whether you have roots in this jurisdiction - i.e., property, family, employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An bhfuil ceangal ag an duine leis an Stát seo - i.e., áitreabh, clann, fostaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Whether you are willing to keep to certain conditions (e.g., surrendering your passport)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An bhfuil an duine sásta aontú le coinníollacha faoi leith (e.g., a p(h)ás a thabhairt suas)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The seriousness of the offence</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cé chomh trom atá an choir atá curtha i leith an duine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The likely sentence if you are convicted</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cén bhreith gur dócha a bheadh ann dá mbeadh an duine ciontach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The strength of the evidence against you</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cé chomh láidir atá an fhianaise i gcoinne an duine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Whether the Gardai object to you being granted bail</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An bhfuil na Gardaí i gcoinne an duine a scaoileadh ar bhannaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>People who cannot be accepted as sureties or bails-persons</seg></tuv>
+  <tuv xml:lang="ga"><seg>Daoine nach féidir glacadh leo mar urraí ná mar dhaoine bannaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A court cannot reject a person as a surety simply because of his/her moral character or political opinions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leis an gcúirt diúltú glacadh le duine mar urra bunaithe go simplí ar a d(h)rocháil morálta nó ar a c(h)laonadh polaitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, a surety may be rejected if it is clear that he or she could not pay the amount of money specified if the bail-bond was breached</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach, is féidir diúltú glacadh le duine mar urra má tá sé soiléar nach mbeadh an duine sin in ann an suim airgid atá luaite leis an mbanna a íoc dá sárófaí coinníollacha na mbannaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The following persons may not be accepted as bails-persons;</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir glacadh leis na daoine seo a leanas mar urraithe bhannaí:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• those under 18 years of age</seg></tuv>
+  <tuv xml:lang="ga"><seg>• aon duine atá faoi 18 bliain d'aois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• those with previous convictions</seg></tuv>
+  <tuv xml:lang="ga"><seg>• iad siúd a bhfuil cionta ina leith roimhe seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• those recently declared bankrupt by Order of the Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>• iad siúd a dearbhaíodh go bhfuil siad ina bhféimheach le hOrdú na Cúirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where an application for bail is made by someone charged with a serious offence, a court may refuse the application</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chuirtear cion tromchúiseach i leith duine féadfaidh cúirt diúltiú d'iarratas an té sin go ligfaí é nó í amach ar bhannaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These grounds for refusal are set out in Section 2 of the Bail Act, 1997</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá na fáthanna séanta seo leagtha síos i gCuid 2 den Acht um Bannaí, 1997</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Grounds on which the courts may refuse the application are where it is considered necessary to prevent the person committing of a serious offence while on bail</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh na cúirteanna iarratas a shéanadh má mheastar gur gá é chun duine a chosc ó chion a dhéanamh fad atá sé nó sí amuigh ar bhannaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Items the court takes into account when making a decision to refuse bail are:</seg></tuv>
+  <tuv xml:lang="ga"><seg>I measc na rudaí a chuireann an chúirt san áireamh agus cinneadh á dhéanamh aici bannaí a shéanadh tá:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• evidence or submissions concerning the nature and seriousness of the crime charged;</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Fianaise nó aighneacht faoin gcineál coire atá á chur i leith duine agus a thromchúisí is atá sí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• the severity of the punishment provided for by law for the offence;</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Géire an phianóis atá leagtha síos de réir an dlí don choir sin;</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• the strength of the case against the accused;</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Treise an cháis in aghaidh an chúisí;</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• the prospect of a reasonably speedy trial;</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An cosúlacht go mbeidh an triail ann gan ró-mhoill;</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• the opposition of the Attorney General;</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An tArd-Aighne a bheith ina aghaidh;</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• any previous convictions of the accused person including any conviction the subject of an appeal (which has neither been determined nor withdrawn) to a court; and</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gur ciontaíodh an cúisí cheana féin, fiú má tá achomharc cúirte á dhéanamh aige nó aici faoin scéal is nach ndearnadh cinneadh faoi is nár tarraingíodh siar é; agus</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• any other offence in respect of which the accused person is charged and is awaiting trial</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Aon chion eile atá curtha i leith an té atá cúisithe agus a bhfuil sé nó sí ag fanacht le triail dá bharr</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Consequences of breaching a bail bond</seg></tuv>
+  <tuv xml:lang="ga"><seg>Céard a tharlaíonn má sháraíonn duine na bannaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you do not appear in court as agreed, a bench warrant will be issued for your arrest</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má theipeann ar dhuine teacht i láthair na cúirte mar a bhí aontaithe, éiseófar barántas binse leis an duine sin a ghabháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that the Gardai have been ordered to arrest you and bring you before the court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh ordú tugtha do na Gardaí an duine a ghabháil agus a thabhairt ós comhair na cúirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The amount of money that was specified in the bail bond will be forfeited by you and/or your independent surety</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Íocfaidh tú an tsuim airgid a sonraíodh sa chúirtbhanna agus/nó do bhanna urra neamspleách</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You will have committed a further criminal offence that carries a maximum penalty of a Class A fine and/or 12 months imprisonment</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Beidh cion breise coiriúil déanta agat ar a ngearrtar pionós uasta fíneáil Aicme A agus/nó príosúnacht 12 mhí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This sentence is set down in Section 13 of the Criminal Justice Act, 1984 as amended</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an phianbhreith seo leagtha síos in Alt 13 den Acht um Cheartas Coiriúil, 1984 arna leasú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You will be refused bail in the future</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Diúltófar bannaí a thabhairt duit amach anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can show you had a reasonable cause for not appearing on the date</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú a thaispeáint go raibh cúis réasúnta agat gan teacht i láthair ar an dáta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Possible circumstances might include an illness, family emergency, or a family death</seg></tuv>
+  <tuv xml:lang="ga"><seg>I measc na gcúinsí féideartha, d’fhéadfadh an méid a leanas a bheith i gceist: breoiteacht, éigeandáil teaghlaigh, nó bás duine mhuinteartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It remains, however, at the discretion of the court as to whether or not any such excuse is accepted</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé faoi lánrogha na cúirte, áfach, i gcónaí maidir le cibé acu an bhfuil an leithscéal sin inghlactha nó nach bhfuil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>After you are arrested and brought to a Garda station, the member in charge of the station may decide to release you on station bail</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tar éis duine a ghabháil agus a thabhairt chuig Stáisiún na nGardaí d'fhéadfadh sé go ndéanfaidh an duine atá i gceannas an stáisiúin cinneadh é/í a shaorú ar bhannaí stáisiúin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He or she will grant bail if he or she "considers it prudent to do so"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfaidh an Garda an cinneadh seo má cheapann sé/sí "gur cinneadh stuama" a bheadh ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He or she does not have the power to release you on bail if there is a court warrant for your detention</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl sé de chumhacht ag an nGarda duine a scaoileadh ar bhannaí a bhfuil barántas cúirte éisithe len é/í a ghabháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are granted bail at the station, you will have to enter into a bond to appear in the District Court as agreed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má scaoiltear duine ar bhannaí stáisiúin beidh air/uirthi dul faoi bhanna le teacht i láthair ag an gCúirt Dúiche mar a aontaíodh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may have to pay a sum of money and you may also have to get an independent surety to guarantee that you will appear in court as agreed</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh sé go mbeadh ar an té atá cúisithe suim airgid a íoc agus urra neamhspléach a fháil freisin le cinntiú go dtiocfaidh sé/sí ós comhair na cúirte mar a aontaíodh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are arrested and detained, you will be brought to the District Court as soon as possible</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéantar duine a ghabháil agus a choinneáil, tabharfar ós comhair na Cúirte Dúiche é/í chomh luath agus is féidir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>At the District Court, your legal representative may make a formal application to the judge that you be released on bail</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le hionadaí dlí an duine atá cúisithe iarratas foirmiúil a chur ós comhair an Bhreithimh é/í a scaoileadh ar bhannaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Usually the most important issue that will be discussed during the application is whether you are likely to abscond and avoid your trial</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go hiondúil agus iarratas ar bhannaí dhá phlé leagfar béim ar an gceist an bhfuil cosúlacht ann go n-éalóidh an té atá cúisithe gan teacht i láthair dá t(h)riail</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,293 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="pl"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Coming to Ireland - tax and social insurance</seg></tuv>
+  <tuv xml:lang="pl"><seg>Przyjazd do Irlandii - podatki i ubezpieczenie spoleczne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your liability for tax in Ireland can be affected by whether you are resident in the country and whether Ireland is your permanent home</seg></tuv>
+  <tuv xml:lang="pl"><seg>Obowiązek uiszczania podatku w Irlandii zależy od tego, czy jesteś mieszkańcem kraju oraz czy Irlandia jest Twoim stałym miejscem zamieszkania</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is a specific definition of residence for tax purposes depending on how many days you spend in the country</seg></tuv>
+  <tuv xml:lang="pl"><seg>Istnieje konkretna definicja “miejsca zamieszkania” dla celów podatkowych w zależności od tego, ile dni spędzasz w kraju</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are not resident in a particular year, you can still be ordinarily resident in Ireland since this term refers to the country where you are usually resident over a number of years</seg></tuv>
+  <tuv xml:lang="pl"><seg>Jeśli w danym roku nie mieszkasz w kraju, nadal możesz mieć status zwyczajnego mieszkańca w Irlandii, gdyż termin ten odnosi się do kraju, w którym zwykle mieszkasz od pewnej ilości lat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The country that is your permanent home is known as your domicile</seg></tuv>
+  <tuv xml:lang="pl"><seg>Kraj, w którym posiadasz stały adres uznawany jest jako miejsce Twojego zamieszkania</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find more information in our document about tax residence and domicile</seg></tuv>
+  <tuv xml:lang="pl"><seg>Poniżej możesz uzyskać więcej informacji na temat miejsca zamieszkania, zwyczajnego miejsca zamieszkania oraz miejsca pobytu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Generally you will be charged Irish tax on your world-wide income earned or arising in a tax year during which you are resident, ordinarily resident and domiciled in Ireland for tax purposes</seg></tuv>
+  <tuv xml:lang="pl"><seg>Ogólnie rzecz ujmując, osoby pracujące w Irlandii zobowiązane są do zapłacenia podatku w Irlandii od dochodu ze wszystkich źródeł lub powstałego w roku, w którym osoby te posiadały status rezydenta, zwykłego rezydenta i zamieszkiwały na stałe w Irlandii dla celów podatkowych</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For any tax year during which you are non-resident and not ordinarily resident in Ireland you will be charged tax on your income from Irish sources only</seg></tuv>
+  <tuv xml:lang="pl"><seg>W roku podatkowym, w trakcie którego dana osoba nie posiadała statusu rezydenta oraz zwykłego rezydenta w Irlandii, jedynie dochód tej osoby uzyskany ze źródeł w Irlandii będzie podlegał opodatkowaniu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The extent of your liability to Irish tax may also be influenced by your domicile status and possibly by a double taxation agreement - see below</seg></tuv>
+  <tuv xml:lang="pl"><seg>Wpływ na zakres odpowiedzialności wobec irlandzkiego systemu podatkowego ma również status pobytu stałego i ewentualna umowa o unikaniu podwójnego opodatkowania</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In addition to income tax and the Universal Social Charge, social insurance, known in Ireland as PRSI (Pay-Related Social Insurance), is also deducted through the tax system by employers – see ‘Social insurance’ below</seg></tuv>
+  <tuv xml:lang="pl"><seg>Oprócz podatku dochodowego, również ubezpieczenie społeczne (zwane w Irlandii „ubezpieczeniem społecznym zależnym od dochodu" lub PRSI), oraz, Powszechne obciążenie z tyt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Self-employed people pay them directly to Revenue</seg></tuv>
+  <tuv xml:lang="pl"><seg>świadczeń socjalnych w ramach systemu podatkowego przez pracodawców lub odprowadzane bezpośrednio przez osoby samozatrudnione do urzędów skarbowych Irlandii (Revenue Commissioners)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find more information about this in the Revenue guide for those transferring residence to Ireland</seg></tuv>
+  <tuv xml:lang="pl"><seg>Więcej informacji podano również w dalszej części tego dokumentu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will be resident in Ireland for a particular tax year if:</seg></tuv>
+  <tuv xml:lang="pl"><seg>Status rezydencji dla celów podatkowych w Irlandii zależy od liczby dni pobytu w Irlandii w danym roku podatkowym</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you spend 183 days or more in Ireland for any purpose in that tax year</seg></tuv>
+  <tuv xml:lang="pl"><seg>• Dana osoba przebywała na terytorium Irlandii 183 dni lub więcej w danym roku podatkowym bez względu na przyczyny pobytu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you spend 280 days or more in Ireland for any purpose over a period of 2 consecutive tax years you will be regarded as resident in Ireland for the second tax year</seg></tuv>
+  <tuv xml:lang="pl"><seg>• Jeśli, bez względu na przyczyny pobytu, dana osoba przebywała na terytorium Irlandii 280 lub więcej dni przez okres dwóch kolejnych lat podatkowych, zostanie uznana za rezydenta w Irlandii przez drugi rok podatkowy</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However if you spend 30 days or less in total in Ireland in either tax years, those days will not be reckoned for the purpose of applying this test</seg></tuv>
+  <tuv xml:lang="pl"><seg>Jeśli, jednakże, dana osoba przebywała na terytorium Irlandii łącznie 30 dni lub mniej w trakcie jakiegokolwiek roku podatkowego, te dni nie zostaną wzięte pod uwagę przy przyznawaniu statusu rezydenta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It does not matter if you come and go several times during that tax year or if you are here continuously</seg></tuv>
+  <tuv xml:lang="pl"><seg>Wyjazdy z kraju czy też nieprzerwany pobyt nie mają znaczenia</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A count is made of the total number of days you spend in Ireland for any purpose in each tax year</seg></tuv>
+  <tuv xml:lang="pl"><seg>Przy obliczaniu uwzględnia się łączną liczbę dni pobytu w Irlandii bez względu na przyczynę, w trakcie każdego roku podatkowego</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An individual is present for a ‘day’ for residence purposes if he or she is present in the State at any time during the day</seg></tuv>
+  <tuv xml:lang="pl"><seg>Dana osoba jest obecna w “dzień” w celach rezydencyjnych jeśli spędzi ona w kraju pewną część dnia</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The ownership of property in Ireland will not make you resident for Irish tax purposes</seg></tuv>
+  <tuv xml:lang="pl"><seg>Fakt posiadania nieruchomości nie wpłynie na przyznanie statusu rezydenta w Irlandii dla celów podatkowych</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, this factor could be relevant in determining a single country of residence under a double taxation agreement where the other treaty country is also claiming that you are resident there</seg></tuv>
+  <tuv xml:lang="pl"><seg>Niemniej jednak, ten czynnik może być istotny przy ustalaniu kraju rezydencji na podstawie umowy o unikaniu podwójnego opodatkowania w przypadku, gdyby drugie z państw objętych umową również twierdziło, iż dana osoba jest rezydentem tego państwa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Electing to be resident</seg></tuv>
+  <tuv xml:lang="pl"><seg>Decyzja o statusie rezydenta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Even if you have not spent the required total number of days in Ireland, you can, if you wish, elect to be resident for that tax year</seg></tuv>
+  <tuv xml:lang="pl"><seg>Nawet jeśli dana osoba nie może wykazać się wymaganą liczbą dni pobytu w Irlandii, może dobrowolnie sama wybrać status rezydenta na dany rok podatkowy</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A condition of making an election is that you must establish to the satisfaction of your local tax office that you will be resident here in the following tax year for the required number of days, under either of the tests</seg></tuv>
+  <tuv xml:lang="pl"><seg>Warunkiem dokonania takiego wyboru jest zadeklarowanie przed lokalnym urzędem podatkowym, iż dana osoba uzyska status rezydenta w następnym roku podatkowym na podstawie wymaganej liczby dni pobytu, zgodnie z wybranym sposobem przyznawania statusu rezydenta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Once you have made such an election you cannot cancel it subsequently</seg></tuv>
+  <tuv xml:lang="pl"><seg>Należy pamiętać, iż po dokonaniu takiego wyboru, nie można się z niego wycofać</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As a resident you will be liable to tax on your world-wide income earned or arising during the entire tax year of your arrival in Ireland</seg></tuv>
+  <tuv xml:lang="pl"><seg>Jako rezydent, dana osoba zobowiązana jest odprowadzić podatek od osiągniętego dochodu ze wszystkich źródeł lub powstałego w trakcie całego roku podatkowego od momentu przyjazdu do Irlandii</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Employment income however will be taxable only from the date of your arrival</seg></tuv>
+  <tuv xml:lang="pl"><seg>Jednakże dochód z tytułu zatrudnienia będzie podlegał opodatkowaniu od daty przyjazdu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An election may be made in writing to your local tax office</seg></tuv>
+  <tuv xml:lang="pl"><seg>O w/w decyzji należy poinformować lokalny urząd skarbowy na piśmie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have been resident for the previous 3 tax years then you become ordinarily resident from the start of the fourth year</seg></tuv>
+  <tuv xml:lang="pl"><seg>Jeśli przez trzy ostatnie lata podatkowe zamieszkiwałeś kraj, nabywasz status mieszkańca wraz z początkiem czwartego roku</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you leave the country, you will continue to be ordinarily resident until you have been non-resident for 3 continuous tax years</seg></tuv>
+  <tuv xml:lang="pl"><seg>Jeśli opuścisz kraj, utrzymasz status mieszkańca przez kolejne trzy lata podatkowe, po czym utracisz status mieszkańca</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your domicile is the country where you live with the intention of remaining there permanently</seg></tuv>
+  <tuv xml:lang="pl"><seg>Twoim miejscem stałego zamieszkania jest kraj, gdzie mieszkasz z zamiarem pozostania tam na stałe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It may be different to your residence or nationality</seg></tuv>
+  <tuv xml:lang="pl"><seg>Miejsce to może się różnić od miejsca zamieszkania czy narodowości</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you are born, you have a domicile of origin</seg></tuv>
+  <tuv xml:lang="pl"><seg>W momencie urodzenia osoba posiada miejsce pochodzenia</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This domicile can be changed to a domicile of choice, if you move to a different country with the intention of living there permanently</seg></tuv>
+  <tuv xml:lang="pl"><seg>Może ono ulec zmianie na wybrane miejsce zamieszkania w przypadku, jeśli przeprowadzisz się do innego kraju z zamiarem osiedlenia się tam na stałe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Domicile levy: Since 2010 there is a Irish domicile levy</seg></tuv>
+  <tuv xml:lang="pl"><seg>Podatek od miejsca zamieszkania: Od 2010 r</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can get more information about the domicile levy from Revenue</seg></tuv>
+  <tuv xml:lang="pl"><seg>wprowadzono nowy podatek od miejsca zamieszkania obowiązujący obywateli irlandzkich</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As a particular item of income can be taxable in both the country where it is sourced and also in the country in which you, as the recipient, are resident, Ireland has a number of double taxation agreements with other countries in order to avoid double taxation</seg></tuv>
+  <tuv xml:lang="pl"><seg>W związku z tym, iż niektóre pozycje dochodu mogą podlegać opodatkowaniu zarówno w kraju, w którym zostały uzyskane jak i w kraju, w którym dana osoba jest rezydentem jako odbiorca, Irlandia zawarła szereg umów o unikaniu podwójnego opodatkowania</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is a list of the double taxation agreements that are in effect on revenue.ie</seg></tuv>
+  <tuv xml:lang="pl"><seg>Na stronie internetowej Urzędu Skarbowego można znaleźć listę umów dotyczących podwójnego opodatkowania aktualnie obowiązującego</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your income is taxable in Ireland and in a country with which Ireland has a double taxation agreement, you do not pay tax in both countries on the same income by either:</seg></tuv>
+  <tuv xml:lang="pl"><seg>Jeśli dochód podlega opodatkowaniu w Irlandii i w kraju, z którym Irlandia związana jest umową o unikaniu podwójnego opodatkowania, zgodnie z umową, podwójnego opodatkowania można uniknąć poprzez:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Exempting the income from tax in one of the countries, or</seg></tuv>
+  <tuv xml:lang="pl"><seg>• Zwolnienie dochodu z opodatkowania w jednym z krajów, lub</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Allowing credit in one country for the tax paid in the other country on the same income</seg></tuv>
+  <tuv xml:lang="pl"><seg>• Uznanie w jednym kraju podatku zapłaconego w innym kraju od tego samego dochodu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The precise treatment of your income will depend on the details of the particular agreement, the nature and source of your income and, in some cases, on your nationality or citizenship</seg></tuv>
+  <tuv xml:lang="pl"><seg>Zajęcie stanowiska wobec dochodu będzie zależało od szczegółowych postanowień danej umowy, charakteru i źródła dochodu oraz, w niektórych przypadkach, od narodowości/obywatelstwa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the income arises in a country with which Ireland does not have an agreement, the amount of tax paid in Ireland will be based on the net amount received by you after the deduction of the foreign tax paid</seg></tuv>
+  <tuv xml:lang="pl"><seg>Jeśli należy uiścić podatek w kraju, z którym Irlandia nie podpisała umowy dotyczącej podatków, wysokość podatku należnego do zapłaty w Irlandii będzie obliczona na podstawie sumy netto po potrąceniu podatku uiszczonego za granicą</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is no credit available for foreign tax paid against your Irish tax liability on the same income</seg></tuv>
+  <tuv xml:lang="pl"><seg>Podatek zapłacony zagranicą nie zostanie zaliczony na poczet zobowiązań podatkowych w Irlandii od tego samego dochodu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Income earned prior to moving to Ireland</seg></tuv>
+  <tuv xml:lang="pl"><seg>Dochód osiągnięty przed wyjazdem do Irlandii</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are moving to Ireland for the first time or you are an Irish citizen returning to live in Ireland and you were not resident or ordinarily resident when the income was earned, the position will be as follows:</seg></tuv>
+  <tuv xml:lang="pl"><seg>W przypadku przeprowadzenia się do Irlandii po raz pierwszy lub gdy dana osoba jest obywatelem Irlandii powracającym do Irlandii z kraju, w którym nie posiadała statusu rezydenta lub zwykłego rezydenta gdy dochód został osiągnięty, zastosowane mogą zostać następujące zasady:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Funds accumulated from income earned prior to the beginning of the tax year in the year that you become resident in Ireland will not be liable to income tax</seg></tuv>
+  <tuv xml:lang="pl"><seg>• Środki uzyskane z dochodu osiągniętego przed rozpoczęciem roku podatkowego w trakcie roku podatkowego, w którym osoba uzyskała status rezydenta w Irlandii nie będą podlegały opodatkowaniu podatkiem dochodowym</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• However, income other than employment income arising between the beginning of the tax year and the date of your arrival will be taxable if brought into Ireland, unless a double taxation agreement provides for a different treatment</seg></tuv>
+  <tuv xml:lang="pl"><seg>• Jednakże, dochód inny niż z tytułu zatrudnienia powstały od początku roku podatkowego do daty przyjazdu będzie podlegał opodatkowaniu, jeśli zostanie przeniesiony do Irlandii, o ile umowa o unikaniu podwójnego opodatkowania nie stanowi inaczej</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are working in Ireland but are paid from abroad</seg></tuv>
+  <tuv xml:lang="pl"><seg>Praca w Irlandii a wynagrodzenie otrzymywane z zagranicy</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Unless your income is not liable to Irish tax under the provisions of a double taxation agreement, it will be taxable here from the date of your arrival regardless of your Irish residence status for tax purposes</seg></tuv>
+  <tuv xml:lang="pl"><seg>O ile dochód nie jest zwolniony z podatku w Irlandii na mocy postanowień umowy o unikaniu podwójnego opodatkowania, zostanie on opodatkowany na miejscu od daty przyjazdu bez względu na status rezydenta w Irlandii dla celów podatkowych</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if you are an Irish citizen who is not ordinarily resident or you are not Irish domiciled, your foreign employment income (excluding UK sourced income) will only be taxable to the extent that it is remitted into Ireland</seg></tuv>
+  <tuv xml:lang="pl"><seg>W przypadku obywateli Irlandii bez statusu zwykłego rezydenta lub z miejscem stałego zamieszkania poza terytorium Irlandii, dochód z tytułu zatrudnienia zagranicą (oprócz dochodu uzyskanego w Wlk</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are resident for Irish tax purposes in the year that the income is earned, you will be entitled to full personal tax credits and reliefs</seg></tuv>
+  <tuv xml:lang="pl"><seg>Brytanii) będzie podlegał opodatkowaniu jedynie w zakresie, w jakim został on przeniesiony do Irlandii</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Temporary employment in Ireland</seg></tuv>
+  <tuv xml:lang="pl"><seg>Zatrudnienie czasowe w Irlandii</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are coming to Ireland to take up temporary employment and will not become resident for Irish tax purposes, proportionate credits and reliefs are available to non-resident Irish citizens and to citizens, subjects or nationals of another EU member state</seg></tuv>
+  <tuv xml:lang="pl"><seg>W przypadku przyjazdu do Irlandii w celu podjęcia zatrudnienia czasowego bez zamiaru ubiegania się o status rezydenta w Irlandii dla celów podatkowych, obywatelom Irlandii niebędącym rezydentami oraz obywatelom, poddanym oraz mieszkańcom innych Państw Członkowskich Unii Europejskiej przysługują proporcjonalne ulgi i zwolnienia podatkowe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This also applies to residents or nationals of a country with which Ireland has a double taxation agreement which provides for such allowances</seg></tuv>
+  <tuv xml:lang="pl"><seg>Dotyczy to również rezydentów lub obywateli kraju, z którym Irlandia podpisała umowę o unikaniu podwójnego opodatkowania, która dopuszcza takie zwolnienia</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The proportion of allowances is determined by reference to your income for the tax year which is subject to Irish tax over your income from all sources</seg></tuv>
+  <tuv xml:lang="pl"><seg>Proporcja ulg podatkowych ustalana jest poprzez odniesienie dochodu za rok podatkowy podlegającego opodatkowaniu w Irlandii do dochodu osiągniętego ze wszystkich innych źródeł</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, residents of another member state of the European Union are entitled to full personal tax credits and reliefs in respect of any tax year that 75% or more of their world-wide income is taxable in Ireland</seg></tuv>
+  <tuv xml:lang="pl"><seg>Niemniej jednak, rezydenci innego Państwa Członkowskiego Unii Europejskiej mają prawo do pełnej wysokości ulg i zwolnień podatkowych w zakresie podatku dochodowego od osób fizycznych w odniesieniu do roku podatkowego, za jaki 75% lub więcej ich dochodu ze wszystkich źródeł podlega opodatkowaniu w Irlandii</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Pensions and other assets are normally taxable apart from some exceptions, for example, some UK pensions</seg></tuv>
+  <tuv xml:lang="pl"><seg>Emerytury i inne dochody podlegają opodatkowaniu z pewnymi wyjątkami, jak na przykład emerytury w Wielkiej Brytanii</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your employer will also deduct social insurance contributions, which are referred to as PRSI (Pay Related Social Insurance), from your pay</seg></tuv>
+  <tuv xml:lang="pl"><seg>Pracodawca będzie również potrącał składki na ubezpieczenie społeczne (zwane w Irlandii „ubezpieczeniem społecznym zależnym od dochodu" lub PRSI) od wynagrodzenia, co umożliwi ubieganie się o świadczenia społeczne z tytułu opłacanych składek takie jak zasiłek dla bezrobotnych, zasiłek z tytułu niepełnosprawności oraz emeryturę (z tytułu opłacanych składek)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They will help you to qualify for contributory social welfare payments such as Jobseeker's Benefit, Illness Benefit and State Pension (Contributory)</seg></tuv>
+  <tuv xml:lang="pl"><seg>Kwota składki będzie uzależniona od zaszeregowania w ramach zatrudnienia</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The amount of your contribution will depend on your category as an employee</seg></tuv>
+  <tuv xml:lang="pl"><seg>Na przykład, większość pracowników sektora niepublicznego płaci składki „klasy A", a dokładna kwota zależy od dochodów</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, most employees pay Class A contributions, the precise rate depending on your earnings</seg></tuv>
+  <tuv xml:lang="pl"><seg>Więcej informacji w przeprowadzka do Irlandii i uprawnienia do świadczeń społecznych podano tutaj</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can read more about moving to Ireland and your social security entitlements and get a general overview of the social security system in Ireland</seg></tuv>
+  <tuv xml:lang="pl"><seg>Dostępny jest również ogólny zarys systemu ubezpieczeń społecznych w Irlandii</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Personal Public Service Number</seg></tuv>
+  <tuv xml:lang="pl"><seg>Numer PPS (Personal Public Service – numer ubezpieczenia społecznego)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In order to work, you require a Personal Public Service Number (PPS number)</seg></tuv>
+  <tuv xml:lang="pl"><seg>Do podjęcia pracy potrzebny będzie numer PPS</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can obtain a PPS number (or ask for your old number, if any, to be traced) at your local social welfare office or Intreo centre</seg></tuv>
+  <tuv xml:lang="pl"><seg>Numer PPS można uzyskać (lub poprosić o odnalezienie ewentualnego starego numeru) w lokalnym urzędzie opieki społecznej</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are a foreign national, you will need your passport or your GNIB certificate of registration and supporting documentation such as household bills</seg></tuv>
+  <tuv xml:lang="pl"><seg>rachunki domowe. (Uprzednio numer PPS był znany pod nazwą RSI – Revenue and Social Insurance number). Zobacz, aby uzyskać informacje jak starać się o numer PPS</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Specific queries regarding residency and taxation of income earned prior to moving to Ireland should be addressed to Revenue</seg></tuv>
+  <tuv xml:lang="pl"><seg>Konkretne pytania dotyczące rezydencji i opodatkowania dochodu osiągniętego przed przeprowadzką do Irlandii należy kierować do Revenue tu w Irlandii</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Queries in connection with social insurance (PRSI) should be addressed to your local social welfare office or Intreo centre</seg></tuv>
+  <tuv xml:lang="pl"><seg>Zapytania dotyczące ubezpieczenia społecznego (PRSI) należy kierować do lokalnego Urzędu Opieki Społecznej tu w Irlandii, lub</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Queries about getting a PPS number should be addressed to the Client Identity Services of the Department of Social Protection using the secure online request form or by phone at 1890 927 999 or (071) 967 2616</seg></tuv>
+  <tuv xml:lang="pl"><seg>Pytania dotyczące Numeru PPS winny być kierowane do Działu Identyfikacji Klienta przy Departamencie Ochrony Społecznej za pomocą bezpiecznego formularza pytań on-line lub telefonicznie pod numerami 1890 927 999 lub (071) 967 2616</seg></tuv>
+</tu>
+</body>
+</tmx>

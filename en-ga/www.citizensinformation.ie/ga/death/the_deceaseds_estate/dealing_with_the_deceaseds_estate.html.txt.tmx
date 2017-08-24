@@ -1,0 +1,469 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Dealing with the deceased's estate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Deileáil le hEastát an Mhairbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This document describes the process of administering a deceased person's estate in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá cur síos an seo ar an gcóras a bhaineann le heastát an mhairbh a riaradh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Issues regarding the right of access to the deceased person's estate, the rights of spouses/civil partners and family members and what happens if the deceased person has not made a will are all described in What happens the deceased's estate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá cur síos sa mhír Céard a tharlaíonn do mhaoin an mhairbh ar na cearta atá ag daoine i dtaobh eastát an mhairbh, cearta an chéile/páirtnéirí sibhialta agus baill eile an teaghlaigh agus céard a tharlaíonn sa chás nach bhfuil uacht déanta ag an duine atá básaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If there is a will and an executor has been appointed, then the executor deals with the estate. This means that they make sure that the spouse/civil partner is aware of the right to a legal right share and distributes the estate in accordance with the will and the law</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá uacht ann agus seiceadóir ceapaithe, ansin is faoin seiceadóir atá sé deileáil leis an eastát, déanamh cinnte go bhfuil a fhios ag an gcéile/páirtnéirí sibhialta go bhfuil sciar dleathúil ag dul aige/aici mar cheart agus dáileann an seiceadóir maoin an eastáit de réir na huachta agus an dlí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If there is no will, or, if there is a will but there is no executor, an administrator is appointed - usually the next of kin or a solicitor</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna bhfuil uacht ann, nó má tá uacht ann ach níl aon seiceadóir ann, ceaptar riarthóir - is iondúil gurb é an gaol is giorra nó dlíodóir a cheaptar ina riarthóir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Law Society of Ireland has published a useful guide (pdf) on the administration of estates</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá treoir úsáideach (pdf) ar riarachán eastát foilsithe ag Dlí-Chumann Corpraithe na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If there is a will, then the executor needs to take out probate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá uacht ann ní mór ansin don seiceadóir iarratas a dhéanamh ar Dheonú Probháide</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If there is no will, or, if no executor has been appointed or the appointed person cannot act, an administrator may be appointed and they take out a Letter of Administration (or a Letter of Administration with Will Annexed if there is a will)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna bhfuil aon uacht ann, nó, muna bhfuil seiceadóir ceapaithe nó muna féidir leis an duine atá ainmnithe ina s(h)eiceadóir feidhmiú, is féidir riarthóir a cheapadh agus déanann sé/sí iarratas ar Litir Riaracháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The duties of the executor and administrator are broadly the same</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mórán na dualgais chéanna atá ar sheiceadóir agus ar riarthóir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the estate is complex, it may be advisable to appoint a solicitor to do the job</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá eastát casta i gceist d'fhéadfadh sé gur fiú dlíodóir a cheapadh leis na dualgais a chur i gcrích</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They will be paid out of the estate and will usually charge around 3% of the value of the estate (or less on very large estates). If matters are fairly straightforward, the executor/administrator may decide to make a personal application</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocfar é/í as an eastát agus is iondúil go ngearrtar tuairim is 3% de luach an eastáit ar an tseirbhís seo (nó níos lú ar eastáit an-mhóra) Má tá rudaí simplí go leor is féidir leis an seiceadóir/riarthóir iarratas a dhéanamh é/í féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Taking out probate basically means having the Probate Office or the appropriate District Probate Registry certify that the will is valid and that all legal, financial and tax matters are in order so that the executor or administrator can be allowed to get on with the job of distributing the estate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Iarratas chuig an Oifig Phrobháide deimhniú go bhfuil uacht bhailí ann agus go bhfuil gach gnó dleathúil, airgeadais agus cánach in ord atá i gceist le probháid. Is féidir ansin leis an seiceadóir nó riarthóir dul ar aghaidh agus an t-eastát a roinnt mar is cóir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>"Proving" the will is the process by which the Probate Office accepts that the will is valid and may be put into effect</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann an Oifig Phrobháide an uacht a "Dheimniú" agus mar sin a ghlacann an oifig gur uacht bhailí atá inti agus gur féidir dul ar aghaidh leis na tiomnachtaí a chur i gcrích</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Office may carry out some enquiries, for example, it may ask to see the witnesses to the will but this does not always happen</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dfhéadfadh sé go ndéanfaidh an oifig roinnt fiosrucháin, e.g., d'fhéadfadh sé go mbéifí ag iarraidh castáil le finnéithe na huachta ach ní tharlaíonn seo i gcónaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you don't make a will, an administrator must be appointed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna bhfuil uacht agat ní mór riarthóir a cheapadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An administrator is also appointed where an executor is not named in the will, dies before the testator or is unwilling or unable to act</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceaptar riarthóir freisin nuair nach bhfuil aon seiceadóir ainmnithe san uacht, má tá an seiceadóir básaithe roimh an tiomnóir, muna féidir nó muna mian leis an seiceadóir feidhmiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The next of kin may apply for a grant of administration</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis an ngaol is giorra iarratas ar dheonú riaracháin a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Priority is given in the following order:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar tús áite mar seo a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Spouse or civil partner</seg></tuv>
+  <tuv xml:lang="ga"><seg>• do chéile nó do pháirtí sibhialta,</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If there is doubt about who is entitled to be the administrator, the issue will be decided by the Probate Registrar</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá amhras ann cé atá i dteideal a bheith ina riarthóir, déanfaidh an Cláraitheoir Probháide cinneadh ar an gceist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Usually, an administrator is required to give an administration bond to the Probate Office - this is a sort of guarantee that you will carry out your duties properly</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go hiondúil iarrtar ar an riarthóir banna riaracháin a thabhairt don Oifig Phrobháide - le cinntiú go gcomhlíonfaidh sé/sí a d(h)ualgais mar is cóir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Any person may oppose a grant of probate or a letter of administration</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le duine ar bith cur i gcoinne Deonú Probháide nó Deonú Litir Riaracháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have an objection, you may lodge a caveat (objection) in the appropriate District Probate Registry or at the Probate Office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ag iarraidh dul ina choinne is féidir é sin a dhéanamh trí iarratas a chur chuig an gClár Probháide Dúiche cuí nó ag an Oifig Phrobháide</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To make a personal application you must attend in person</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun iarratas pearsanta a dhéanamh, ní mór duit dul ann tú féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Probate Office has discretion to refuse to allow a personal applicant to be attended by an adviser</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé faoin Oifig Phrobháide a dhiúltú chun cead a thabhairt d'iarratasóir pearsanta ligean do chomhairleoir freastal air/uirthi</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It may also refuse to allow an applicant to personally continue an application if it had been initiated by a solicitor</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, d’fhéadfaidís cead a dhiúltú d’iarratasóir chun leanúint go pearsanta le hiarratas má chuir aturnae tús leis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where an application is made in connection with a case that has already been before the courts, that application must be made by a solicitor unless a special direction is received from the Probate Office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás go ndéantar iarratas i gcónascadh le cás a bhí os comhair na gcúirteanna cheana, ní mór an t-iarratas sin a dhéanamh ag aturnae mura bhfaightear ordú speisialta ón Oifig Phrobháide</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Probate Office will help an executor/administrator who is acting personally</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cabhróidh an Oifig Phrobháide le seiceadóir/riarthóir atá ag gníomhú go pearsanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A personal applicant for probate or for administration of the estate must take the following steps:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór d’iarratasóir pearsanta ar phrobháid nó ar riarachán an eastáit dul i mbun na mbeart a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Get the form for personal applicants (Form PA2) from the Probate Office or one of the 14 local Probate Offices and fill it out</seg></tuv>
+  <tuv xml:lang="ga"><seg>An fhoirm le haghaidh iarratasóirí a fháil (Foirm PA2) ón Oifig Phrobháide nó ó cheann de na 14 Oifig Phrobháide áitiúla agus í a chomhlánú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>See guidance notes PA3</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féach ar nótaí treorach PA3</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You also need Inland Revenue Affidavit (Form CA24)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, teastaíonn Mionnscríbhinn Ioncam Intíre (Foirm CA24) uait freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Fill out 2 copies of the Revenue Affidavit form as best you can by entering details of the deceased's estate such as bank, post office, building society accounts, property, assets, stocks, shares, debts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Comhlánaigh 2 chóip d’fhoirm na Mionnscríbhinne Ioncaim a mhéid agus is féidir leat trí shonraí faoi eastát an mhairbh a iontráil, ar nós bainc, oifig an phoist, cuntais chumainn foirgníochta, réadmhaoine, sócmhainní, stoc, scaireanna, fiachas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>See guidance leaflet CA25</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féach bileog threorach CA25</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Sign and swear both copies of the Revenue Affidavit before a practising solicitor or a commissioner for oaths</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sínigh agus dearbhaigh an dá chóip den Mhionnscríbhinn Ioncaim i láthair aturnae cleachtach nó coimisinéir mionnaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(One copy of the affadavit, as well as any other relevant information, will be sent by the Probate Office to the Revenue Commissioners after Probate is granted.)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Seolfaidh an Oifig Phrobháide cóip amháin den mhionnscríbhinn, mar aon le haon fhaisnéis ábhartha eile, chuig na Coimisinéirí Ioncaim tar éis go ndeonaítear Probháid.)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Return the personal application form to the Probate Office along with:</seg></tuv>
+  <tuv xml:lang="ga"><seg>An fhoirm iarratais phearsanta a sheoladh ar ais chuig an Oifig Phrobháide mar aon leis an méid a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>- the 2 copies of the Revenue Affadavit</seg></tuv>
+  <tuv xml:lang="ga"><seg>- an dá chóip den Mhionnscríbhinn Ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>- a photocopy of the will and codicil/s (if any)</seg></tuv>
+  <tuv xml:lang="ga"><seg>- fótachóip den uacht agus den chodaisíl/codaisíleacha (más ann dóibh)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>- any other necessary document, for example, official copy of divorce decree</seg></tuv>
+  <tuv xml:lang="ga"><seg>- aon doiciméad eile riachtanach, mar shampla, cóip oifigiúil d’fhoraithne colscartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Probate Office will contact you if there are other requirements or issues</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rachaidh an Oifig Phrobháide i dteagmháil leat más ann d’aon riachtanais nó saincheisteanna eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the Probate Office is satisfied it can process the application you will get an acknowledgement and an estimated waiting time for an appointment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá an Oifig Phrobháide sásta gur féidir leo an t-iarratas a phróiseáil, cuirfear seo in iúl duit mar aon le tréimhse mheasta feithimh le haghaidh coinne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In due course you will be given an appointment for interview</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabharfar coinne duit le haghaidh coinne in am trátha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(More than one appointment may be necessary.)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(D’fhéadfadh go mbeadh gá le breis agus agallamh amháin.)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Attend the interview in person and bring the following required items:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Freastail ar an agallamh tú féin agus tabhair leat na míreanna riachtanacha a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>- proof of identity, such as your passport</seg></tuv>
+  <tuv xml:lang="ga"><seg>- Cruthúnas aitheantais, ar nós do phas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>- original will and codicil/s (if any), as well as 3 copies of each</seg></tuv>
+  <tuv xml:lang="ga"><seg>- an uacht agus an codaisíl/codaisíleacha bhunúil/bunúla (más ann dóibh), mar aon le 3 chóip díobh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>- statements up to the time of death of deposits in banks, post offices, credit unions, building societies, etc</seg></tuv>
+  <tuv xml:lang="ga"><seg>- ráitis a fhad le tráth an bháis ar thaiscí i mbainc, oifigí poist, comhair chreidmheasa, cumainn foirgníochta etc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>- details of other assets (for example, assurance policies, gratuities, superannuation schemes, stocks, shares, cash, prize bonds, etc.)</seg></tuv>
+  <tuv xml:lang="ga"><seg>- sonraí faoi shócmhainní eile (mar shampla, polasaithe árachais, aiscí, scéimeanna aoisliúntais, stoic, scaireanna, airgead tirim, duaisbhannaí etc.)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>- details of any liabilities or debts such as outstanding mortgages, loans, wages due to staff</seg></tuv>
+  <tuv xml:lang="ga"><seg>- sonraí faoi aon dliteanais nó fiachais, ar nós morgáistí, iasachtaí gan íoc nó pánna atá le híoc le baill foirne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(You may have to put an advertisement in the papers asking creditors to send in their claims within a certain period.)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(B’fhéidir go mbeadh ort fógra a chur sna nuachtáin ina n-iarrtar ar chreidiúnaithe a n-éilimh a sheoladh ar aghaidh laistigh de thréimhse áirithe.)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>- details of any debts owing to the deceased's estate (wages, holiday pay, court case settlements, etc</seg></tuv>
+  <tuv xml:lang="ga"><seg>- sonraí faoi aon fhiacha atá le híoc le heastát an mhairbh (pánna, pá saoire, réitigh chásanna cúirte, etc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>- details about property (valuation required) together with title deeds or copy of land registry folio</seg></tuv>
+  <tuv xml:lang="ga"><seg>- sonraí faoin réadmhaoin (teastaíonn luacháil) mar aon leis na gníomhais teidil nó cóip fóilió Chlárlann na Talún</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If an administrator, rather than an executor, is applying for a grant, an administration bond may have to be provided</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá iarratas á dhéanamh ar riarthóir, seachas seiceadóir, ar dheontas, d’fhéadfadh go mbeadh gá le banna riaracháin a chur ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The surety (guarantor) for the administration bond must be worth the gross value of the estate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níor mhór gurbh fhiú an t-urra (ráthóir) don bhanna riaracháin oll-luach an eastáit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Swear the Executor's oath</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mionn an tSeiceadóra a mhionnú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is an oath swearing that they believe that the will in question is the last will of the deceased, that they are the person appointed as executor and that they will administer the will in accordance with the law</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seo mionn a mhionnaíonn go gcreideann sé/sí gurb í an uacht atá faoi chaibidil uacht deiridh an mhairbh, gurb é/í an duine a ceapadh mar an seiceadóir agus go ndéanfaidh sé/sí an uacht a riar i gcomhréir leis an dlí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An administrator swears a similar oath</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann riarthóir mionn atá cosúil leis seo a mhionnú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Pay the fee for probate</seg></tuv>
+  <tuv xml:lang="ga"><seg>An táille don phrobháid a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the Registrar of the Probate Office is satisfied that the will is valid and there are no caveats (objections) entered then probate will be granted (or letters of administration)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá Cláraitheoir na hOifige Probháide sásta gur bailí don uacht agus nár iontráladh ann aon caveat (aighneachtaí), deonófar probháid ansin (nó Litir Riaracháin)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If there are problems (for example, if the original will cannot be found or there is doubt about signatures) then the Registrar may require sworn statements from witnesses</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más ann d’fhadhbanna (mar shampla, murar féidir an uacht bhunúil a aimsiú nó má táthar amhrasach faoi shínithe) d’fhéadfadh an Cláraitheoir iarraidh ar na finnéithe ráitis faoi mhionn a sholáthar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If there are no problems, the grant of probate or administration is issued on the oath of the executor or administrator</seg></tuv>
+  <tuv xml:lang="ga"><seg>Murab ann d’aon fhadhbanna, eiseofar an Deonú Probháide nó Riaracháin ar mionn an tseiceadóra/riarthóra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Probate Office or the District Probate Office will make a standard form of grant unless there is a contentious aspect to the application</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfaidh an Oifig Phrobháide nó an Oifig Phrobháide Dúiche deonú d’fhoirm chaighdeánach mura mbaineann aon rud conspóideach leis an iarratas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where a contentious issue arises, the matter must be decided by the High Court judge in charge of probate matters although the High Court can direct that the matter be resolved by the Circuit Court in certain circumstances</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás go n-eascraíonn saincheist chonspóideach, ní mór do bhreitheamh den Ard-Chúirt cinneadh a dhéanamh faoin ábhar, cé gur féidir leis an Ard-Chúirt a ordú go réiteoidh an Chúirt Chuarda an t-ábhar faoi chúinsí áirithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find more information on personal applications on the Courts Servce website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat breis eolais a fháil ar iarratais phearsanta ar láithreán gréasáin na Seirbhíse Cúirteanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Generally, you are obliged to distribute the assets as soon as possible after the death (within a year if possible - you may be sued by the beneficiaries if you do not distribute the estate within a year)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, tá dualgas ort sócmhainní an mhairbh a dháileadh chomh luath agus is féidir tar éis a b(h)áis (taobh istigh de bhliain más féidir - is féidir leis na tairbhithe an dlí a chur ort muna ndáileann tú an t-eastát taobh istigh de bhliain)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This may not be possible if there are legal issues to be decided)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhíonn ceisteanna dleathúla le socrú ní gá go mbeidh sé seo indéanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are under a duty to preserve the assets of the deceased until they are distributed and to protect the assets from devaluation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá dualgas ort sócmhainní an té atá básaithe a chosaint go dtí gur féidir iad a dháileadh agus na sócmhainní a chosaint ó díluacháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, you should make sure that all assets are properly insured</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, ní mór duit a chinntiú go bhfuil árachas cuí ar aon sócmhainní go dteastaíonn a leithéid uathu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You have power to:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé de chumhacht agat:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Deal with the estate (for example, to sell it to pay debts or distribute amongst beneficiaries)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• déileáil leis an eastát (mar shampla, é a dhíol le n-íoc as aon fhiacha nó leis an luach a roinnt idir na tairbhithe)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Represent the deceased in legal actions and to settle legal actions against the deceased's estate</seg></tuv>
+  <tuv xml:lang="ga"><seg>• ionadaíocht a dhéanamh don té atá básaithe in aon ghníomhachtaí dleathúla agus gníomhachtaí dleathúla i gcoinne eastát an mhairbh a shocrú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Gather together and protect all the deceased's assets such as money, shares and property and find out their combined value</seg></tuv>
+  <tuv xml:lang="ga"><seg>• sócmhainní uilig an mhairbh a thabhairt le chéile agus iad a chosaint (airgead, scaireanna, maoin &amp; rl) agus luach a fháil orthu le chéile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Call in any outstanding funds due (money owing to the deceased)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• aon chistí a sheasann amach a lorg (airgead atá ag seasamh amach don mharbh)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Pay any debts or taxes owed</seg></tuv>
+  <tuv xml:lang="ga"><seg>• aon bhillí nó cáin atá le n-íoc ag an marbh a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Pay the funeral expenses</seg></tuv>
+  <tuv xml:lang="ga"><seg>• costais na sochraide a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Make sure that the spouse (or civil partner) and children know about their legal right share</seg></tuv>
+  <tuv xml:lang="ga"><seg>• déanamh cinnte go dtuigeann an céile/páirtí sibhialta agus na páistí faoina sciar dleathúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Make sure the entitled beneficiaries or next of kin get what they are entitled to, and that ownership of property is passed on correctly</seg></tuv>
+  <tuv xml:lang="ga"><seg>• déanamh cinnte go bhfaigheann na tairbhithe cuí nó na gaolta gairide a bhfuil ag dul dóibh agus go dtiteann úinéireacht maoine chuig na daoine cuí mar is cóir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the deceased was receiving a social assistance payment, you must inform the Minister for Social Protection of the death before distributing the estate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhí íocaíocht cúnaimh shóisialaigh dhá fháil ag an té a cailleadh ní mór an bás a chur in iúl don Aire Coimirce Sóisialaí roimh maoin an eastáit a roinnt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is to allow the Minister to reclaim any overpayment of pension that may have been made</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar é seo le cead a thabhairt don Aire aon íocaíocht pinsin iomarcaigh a thógáil ar ais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Department has 3 months to decide whether or not an overpayment was made</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé mhí ag an Roinn cinneadh a dhéanamh an bhfuil airgead le n-íoc ar ais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can read more about social welfare requirements in the Department's document on estate cases</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má theipeann ort teagmháil a dhéanamh leis an Roinn d'fhéadfadh sé go mbeidh ort féin aon aisíoc a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You transfer land by way of an "Assent" to the beneficiary under the will or under the Succession Act</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ar bhonn aontaithe a aistrítear úinéireacht talún chuig an tairbhí atá ainmnithe san uacht nó de réir rialacha atá leagtha síos san Acht Comharbachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An assent must be in writing</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don aontú a bheith i scríbhinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are the beneficiary, it is not absolutely necessary for you to vest the property in yourself by way of an assent (as technically the property already vests in you)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más tú an tairbhí freisin níl sé riachtanach úinéireacht maoine a aistriú chugat féin le haontú (mar go teicniúil tá an mhaoin sin dílsithe agat cheana)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, it is recommended practice that you do so in order to facilitate any future selling of that land</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach, moltar duit é seo a dhéanamh i gcás talún ar mhaithe leis an talamh sin a dhíol go héasca as sin amach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The executor/administrator is not required to deduct and pay the Capital Acquisitions Tax (CAT) due from the beneficiaries before passing on the bequest</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl dualgas ar an seiceadóir/riarthóir an Cháin ar Fháltais Chaipitiúla (CFC) a asbhaint nó a íoc atá dlite ó na tairbhithe sula gcuirtear ar aghaidh an réadtiomnú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When probate has been granted, the Probate Office sends a copy of the Revenue Affadavit to the Revenue Commissioners</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a bhíonn an phrobháid arna deonú, seolann an Oifig Phrobháide cóip den Mhionnscríbhinn Ioncaim chuig na Coimisinéirí Ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Revenue Commissioners will then issue a Form IT38 to each beneficiary who it understands may have a requirement to pay and file a CAT return</seg></tuv>
+  <tuv xml:lang="ga"><seg>Eiseoidh na Coimisinéirí Ioncaim Foirm IT38 do gach tairbhí a dtuigeann siad is gá tuairisceán CFC a íoc a chur i gcomhad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The obligation to pay and file a return rests with the beneficiary</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is faoin tairbhí atá an dualgas chun tuairisceán a íoc agus a chur i gcomhad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>See Revenue's Guide to completing the IT38 return</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féach Treoir na gCoimisinéirí Ioncaim maidir le tuairisceán IT38 a chomhlánú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Someone who is a beneficiary under an Irish will has to supply a Personal Public Service (PPS) number before a grant of probate can issue</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chailltear an duine agus é/í dóchmainneach nó muna bhfuil dóthain airgid ann leis na tiomnachtaí ar fad a íoc, déantar na híocaíochtaí seo ón eastát san ord seo:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the deceased dies in debt</seg></tuv>
+  <tuv xml:lang="ga"><seg>• coastais sochraide, tiomnacha agus riaracháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the deceased dies insolvent or there isn't enough money to meet the bequests made, payments from the estate are prioritised in the following order:  1</seg></tuv>
+  <tuv xml:lang="ga"><seg>• creidiúnaithe a bhfuil urrúis acu i leith na maoine i bhfoirm morgáiste, táille nó lian (bealaí difriúla le hiasachtaí a chur faoi urrús iad seo)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>2. Creditors who have security against the property of the deceased in the form of a mortgage, charge or lien (these are different ways of securing loans) 3</seg></tuv>
+  <tuv xml:lang="ga"><seg>• rátaí agus cáin atá le n-íoc ar bhás an tiomnóra, pá agus tuarastal a bhaineann le hobair a déanadh ar son an té atá básaithe taobh istigh de cheithre mhí ó am an bháis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Rates and taxes due at the testator's death, wages and salary for work done for the deceased within four months of death and sums payable by the estate in respect of contributions payable by the deceased in the twelve months prior to death under social welfare legislation (their own PRSI contributions as well as PRSI contributions for employees)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Suimeanna atá le n-íoc ag an eastát maidir le ranníocaíochtaí a thiteann ar an marbh sa dhá mhí dhéag roimh an mbás faoin reachtaíocht leasa shóisialaigh (a c(h)uid ranníocaíochtaí ÁSPC féin chomh maith le ranníocaíochtaí ÁSPC fostaithe)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>4. All other creditors</seg></tuv>
+  <tuv xml:lang="ga"><seg>• na creidiúnaithe eile ar fad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where the deceased dies in debt, creditors can only bring a claim against the estate of the deceased</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a chailltear duine le fiacha is féidir leis na creidiúnaithe éileamh a dhéanamh ar an airgead i gcoinne an estáit amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Even if there isn't enough money in the estate to meet all the debts, the relatives of the deceased are not personally responsible or liable for the deceased's debts (unless, of course they had guaranteed them)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fiú muna bhfuil dóthain airgid san eastát leis na fiacha ar fad a íoc, ní thiteann na fiacha ar ghaolta an mhairbh go pearsanta agus ní gá doibh iad a íoc. (ach amháin sa chás go bhfuil na fiacha urraithe acu)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Contact the Probate Office to obtain the personal application probate form</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déan teagmháil leis an Oifig Phrobháide leis an bhfoirm iarratais phearsanta phrobháide a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This form is for use by personal applicants only</seg></tuv>
+  <tuv xml:lang="ga"><seg>Úsáideann iarratasóirí pearsanta amháin an fhoirm seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is not for use by those applying through a solicitor</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní úsáideann iad siúd a dhéanann iarratas trí aturnae an fhoirm seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This application form is also available from your District Probate Registry</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá fáil ar an bhfoirm seo freisin ó do Chlárlann Phrobháide Dúiche</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Staff in the Registry will be able to provide assistance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh baill foirne sa Chlárlann in ann cúnamh a chur ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The application, along with the required documentation, should be returned to the Registry in the area where the deceased lived at the date of death</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart an t-iarratas, mar aon leis an doiciméadúchán riachtanach, a sheoladh ar ais chuig an gClárlann atá sa cheantar inar chónaigh an marbh tráth dháta an bháis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Obtaining a copy of a will</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cóip d’uacht a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Once a grant of probate (or letters of administration) has been issued, anybody can apply for copies of the grant and the will using Form PAS1 (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>A luaithe a eisítear deonú probháide (nó litreacha riaracháin), féadfaidh aon duine iarratas a dhéanamh ar chóipeanna den deonú agus den uacht trí úsáid a bhaint as Foirm PAS1 (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The grant sets out the name and address of the executor or administrator of the estate and the name of the solicitor acting on their behalf (if any)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagtar amach sa deonú ainm agus seoladh sheiceadóir nó riarthóir an eastáit agus ainm an aturnae a ghníomhaíonn thar a gceann (más ann dó/di)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It also sets out the gross value and the net value of the estate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagtar amach ann, chomh maith, oll-luach agus glanluach an eastáit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Detailed information about the estate is not normally available to the general public, however, certain people may be able to inspect the Inland Revenue Affidavit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní gnách go mbíonn faisnéis mhionsonraithe ar fáil don phobal i gcoitinne faoin eastát, ach b’fhéidir go mbeidh daoine áirithe in ann an Mhionscríbhinn Ioncam Intíre a scrúdú, áfach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A beneficiary who is named in the will</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tairbhí atá ainmnithe san uacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Someone who is entitled to a share of the estate</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Duine éigin atá i dteideal sciar den eastát a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A child who is entitled to bring proceedings against the estate under Section 117 of the Succession Act 1965</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Leanbh atá i dteideal imeachtaí a thionscnamh i gcoinne an eastáit faoi Alt 117 den Acht Comharbais, 1965</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Information on obtaining a copy of a will is available on the Courts Service website as well as in the information notes of Form PAS1</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá faisnéis ar chóip d’uacht a fháil ar fáil ar láithreán gréasáin na Seirbhíse Cúirteanna, agus i nótaí faisnéise Fhoirm PAS1</seg></tuv>
+</tu>
+</body>
+</tmx>

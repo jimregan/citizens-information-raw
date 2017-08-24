@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>President and the Defence Forces</seg></tuv>
+  <tuv xml:lang="ga"><seg>An tUachtarán agus na Fórsaí Cosanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The President of Ireland is Supreme Commander of the Irish Defence Forces</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é/í Uachtarán na hÉireann an tArdcheannasaí ar Fhórsaí Cosanta na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Officers in the Defence Forces hold commissions from the President</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ón Uachtarán a fhaigheann oifigigh na bhFórsaí Cosanta a gcoimisiúin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the Defence Act of 1954, military command is exercised by the Irish Government through the Minister for Defence who manages and controls the forces</seg></tuv>
+  <tuv xml:lang="ga"><seg>De réir Acht Cosanta na bliana 1954, is é Rialtas na hÉireann a riarann ceannasaíocht an airm tríd an Aire Cosanta a bhainistíonn agus a stiúraíonn na fórsaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Defence Forces in Ireland consist of:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad na ranna atá i bhFórsaí Cosanta na hÉireann ná:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Permanent Defence Force and</seg></tuv>
+  <tuv xml:lang="ga"><seg>• an Buan-Fhórsa Cosanta (BFC) agus</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is more information in our document on the Defence Forces</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh eolais inár ndoiciméad ar Óglaigh na hÉireann</seg></tuv>
+</tu>
+</body>
+</tmx>

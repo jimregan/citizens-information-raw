@@ -1,0 +1,241 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="fr"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Medical card means test: aged under 70</seg></tuv>
+  <tuv xml:lang="fr"><seg>Condition de ressources de la carte médicale : personnes de moins de 70 ans</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Assessment of capital and property</seg></tuv>
+  <tuv xml:lang="fr"><seg>• Évaluation du capital et de la propriété</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To qualify for a medical card your weekly income must be below a certain figure for your family size</seg></tuv>
+  <tuv xml:lang="fr"><seg>Pour pouvoir bénéficier d'une carte médicale, vos revenus hebdomadaires ne doivent pas dépasser un certain montant pour la taille de votre famille</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Here we explain the means test for those who are aged under 70</seg></tuv>
+  <tuv xml:lang="fr"><seg>Nous expliquons ici la condition de ressources pour ceux qui ont moins de 70 ans</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>See also other information about the medical card and how to apply</seg></tuv>
+  <tuv xml:lang="fr"><seg>Consultez également les autres informations sur la carte médicale et comment faire une demande</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are different means test rules for those over 70 years of age</seg></tuv>
+  <tuv xml:lang="fr"><seg>Il y a plusieurs règles de condition de ressources pour les personnes de plus de 70 ans</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The assessment of a couple for medical card purposes is based on the age of the older person</seg></tuv>
+  <tuv xml:lang="fr"><seg>L'évaluation d'un couple pour la demande d'une carte médicale est basée sur l'âge de la personne la plus âgée</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Income, savings, investments and property (except for your own home) are taken into account in the means test</seg></tuv>
+  <tuv xml:lang="fr"><seg>Les revenus, l'épargne, les investissements et la propriété (sauf votre propre maison) sont inclus dans la condition de ressources</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, there are certain exceptions</seg></tuv>
+  <tuv xml:lang="fr"><seg>Cependant, il y a certaines exceptions</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>According to the HSE's guidelines, if your income is derived solely from social welfare allowances or benefits or HSE allowances, you should be granted a medical card even though your payment may be in excess of the income guidelines for your age and situation</seg></tuv>
+  <tuv xml:lang="fr"><seg>Selon les directives de la HSE, si vos revenus ne proviennent que des allocations ou des avantages de la sécurité sociale ou des allocations de la HSE, vous devriez pouvoir recevoir une carte médicale même si votre salaire peut dépasser les directives des revenus pour votre âge et votre situation</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your income is above the guidelines you will automatically be assessed for the GP visit card which has higher income limits</seg></tuv>
+  <tuv xml:lang="fr"><seg>Si vos revenus dépassent les directives, vous serez automatiquement évalué pour la carte de consultation du médecin généraliste qui a des limites de revenus plus élevées</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can also apply for the Drugs Payment Scheme</seg></tuv>
+  <tuv xml:lang="fr"><seg>Vous pouvez également faire la demande pour le régime de paiement des médicaments</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are some categories of people exempt from the means test, including people entitled to a medical card under EU Regulations</seg></tuv>
+  <tuv xml:lang="fr"><seg>Il existe certaines catégories de personnes exemptes de la condition de ressources, y compris les personnes ayant droit à une carte médicale selon les règlements de l'UE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Weekly income limit (gross less tax, Universal Social Charge and PRSI)</seg></tuv>
+  <tuv xml:lang="fr"><seg>Limite des revenus hebdomadaires (bruts avant impôt, charge sociale universelle et contributions sociales liées au salaire)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Category │Aged │Aged over│</seg></tuv>
+  <tuv xml:lang="fr"><seg>│Catégorie │Moins de│Plus de│</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│ │under 66 │66 │</seg></tuv>
+  <tuv xml:lang="fr"><seg>│ │66 ans │66 ans │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Single person living alone │€184 │€201.50 │</seg></tuv>
+  <tuv xml:lang="fr"><seg>│Personne seule vivant seule │€184 │€201.50│</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Single person living with family │€164 │€173.50 │</seg></tuv>
+  <tuv xml:lang="fr"><seg>│Personne seule vivant avec sa famille │€164 │€173.50│</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Couple, married/cohabiting/civil partners (or lone parent with │€266.50 │€298 │</seg></tuv>
+  <tuv xml:lang="fr"><seg>│Couple, marié/en concubinage /partenaires civils (ou parent seul │€266.50 │€298 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│dependent children) │ │ │</seg></tuv>
+  <tuv xml:lang="fr"><seg>│avec enfants à charge) │ │ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Allowance for each of first 2 children aged under 16 │€38 │€38 │</seg></tuv>
+  <tuv xml:lang="fr"><seg>│Allocation pour chacun des deux premiers enfants de moins de 16 │€38 │€38 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Allowance for 3rd and each subsequent child under 16 │€41 │€41 │</seg></tuv>
+  <tuv xml:lang="fr"><seg>│Allocation pour le 3e enfant et pour chaque enfant suivant de │€41 │€41 │ │moins de 16 ans │ │ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Allowance for each of first 2 children aged over 16 (with no │€39 │€39 │</seg></tuv>
+  <tuv xml:lang="fr"><seg>│Allocation pour chacun des deux premiers enfants de plus de 16 ans│€39 │€39 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│income) │ │ │</seg></tuv>
+  <tuv xml:lang="fr"><seg>│(sans revenus) │ │ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Allowance for 3rd and each subsequent child over 16 (with no │€42.50 │€42.50 │ │income) │ │ │</seg></tuv>
+  <tuv xml:lang="fr"><seg>│Allocation pour le 3e enfant et pour chaque enfant suivant de plus│€42.50 │€42.50 │ │de 16 ans (sans revenus) │ │ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Each dependant over 16 years in full-time third-level │€78 │€78 │</seg></tuv>
+  <tuv xml:lang="fr"><seg>│Chacun enfant à charge de plus de 16 ans étudiant à temps plein │€78 │€78 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│education, who is not grant aided │ │ │</seg></tuv>
+  <tuv xml:lang="fr"><seg>│dans l'enseignement supérieur, sans recevoir d'aides financières │ │ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Reasonable expenses for childcare costs and rent/mortgage payments will also be allowed</seg></tuv>
+  <tuv xml:lang="fr"><seg>Des dépenses raisonnables encourues concernant les frais de garde d'enfants et des paiements de loyer/hypothèque seront également déduites</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Mortgage-related insurance payments are allowable: fire and contents insurance, mortgage protection insurance and associated life assurance. Maintenance payments made are allowable. Nursing home costs are also allowable</seg></tuv>
+  <tuv xml:lang="fr"><seg>Les paiements de l'assurance liée à l'hypothèque sont déductibles : les assurances incendie et habitation, l'assurance garantissant l'hypothèque et l'assurance vie associée</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For weekly travel costs to work, the actual cost of public transport is allowable or, if a car is required, mileage at a rate of 30 cent per mile/18 cent per km</seg></tuv>
+  <tuv xml:lang="fr"><seg>Pour les frais de transport hebdomadaires pour se rendre au travail, le coût actuel des transports en commun est déductible ou, pour les propriétaires de voiture, le kilométrage à un taux de 18 centimes par km / 30 centimes par mile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where a couple needs two cars to travel to work, a double allowance applies. The cost of parking can be taken into account</seg></tuv>
+  <tuv xml:lang="fr"><seg>Si un couple a besoin de deux voitures pour se rendre au travail, une double allocation s'applique</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you don’t qualify for a medical card, you are then assessed for a GP visit card. If your income is over the relevant limit, the deciding officer will consider whether it would be ‘unduly burdensome’ for you to pay for GP Services if you don’t have a GP visit card</seg></tuv>
+  <tuv xml:lang="fr"><seg>Si vos revenus dépassent ces limites, vous pouvez toujours faire une demande pour la carte médicale en cas de difficultés financières : par exemple, si vous avez d'importantes dépenses médicales ou si vos revenus sont seulement légèrement au-dessus de la limite</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Compensation payments made by the Residential Institutions Redress Board</seg></tuv>
+  <tuv xml:lang="fr"><seg>• Indemnisations versées par le conseil de réparation des institutions résidentielles (Residential Institutions Redress Board)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Repayments made under the Health (Repayment) Scheme (that is, the Nursing Home repayment scheme)</seg></tuv>
+  <tuv xml:lang="fr"><seg>• Remboursements versés dans le cadre du régime de santé (remboursement) (c'est-à-dire, le régime de remboursement des soins infirmiers à domicile)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Awards made to people who contracted Hepatitis C or HIV from contaminated blood products (together with income from the investment of that money)</seg></tuv>
+  <tuv xml:lang="fr"><seg>• Réparations versées aux personnes qui ont contracté l'hépatite C ou le VIH par des produits contenant du sang contaminé (ainsi que des revenus provenant de l'investissement de cet argent)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Ex-gratia payments approved by the Lourdes Hospital Redress Board under the terms of the Lourdes Hospital Redress Scheme 2007</seg></tuv>
+  <tuv xml:lang="fr"><seg>• Paiements à titre gracieux approuvés par le conseil de réparation de l'hôpital de Lourdes dans le cadre du régime de réparation de l'hôpital de Lourdes de 2007</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Certain payments made by the State:</seg></tuv>
+  <tuv xml:lang="fr"><seg>Certains paiements versés par l'État :</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• HSE payments: Mobility Allowance, Blind Welfare Allowance</seg></tuv>
+  <tuv xml:lang="fr"><seg>• Paiements de la HSE : Allocation de soutien au placement familial, allocation de déplacement, allocation sociale aux non-voyants</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Social welfare payments: Family Income Supplement, Child Benefit, Carer's Allowance, Domiciliary Care Allowance, Guardian's Payments; weekly supplements (such as a diet or heating supplement) paid under the Supplementary Welfare Allowance scheme; Fuel, Island, Living Alone and Over 80 Allowances</seg></tuv>
+  <tuv xml:lang="fr"><seg>• Paiements de la sécurité sociale : Supplément aux revenus de famille, allocation pour enfant, allocation pour garde, allocation de soins à domicile, rémunération des tuteurs ; suppléments hebdomadaires (tels qu'un supplément pour les repas et le chauffage) payés dans le cadre du régime des allocations sociales supplémentaires ; carburant, île, vivant seul et plus de 80 allocations</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Other payments: Third-level educational maintenance grants; Rehabilitation Maintenance Allowance; earnings from employment of a rehabilitative nature (up to €120.00 per week), Foster Care Allowance</seg></tuv>
+  <tuv xml:lang="fr"><seg>• Autres paiements : Bourses d'entretien de l'enseignement supérieur ; allocations d'entretien et de réinsertion ; revenus d'un emploi visant à la réinsertion (jusqu'à 120,00 € par semaine)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Assessment of capital and property</seg></tuv>
+  <tuv xml:lang="fr"><seg>Évaluation du capital et de la propriété</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All capital (savings and investments) is taken into account for medical card purposes</seg></tuv>
+  <tuv xml:lang="fr"><seg>Tout le capital (l'épargne et les investissements) est inclus pour la demande de la carte médicale</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, income from savings, investments or property of €36,000 for a single person or €72,000 for a couple is disregarded</seg></tuv>
+  <tuv xml:lang="fr"><seg>Cependant, les revenus provenant de l'épargne, des investissements ou de la propriété de 36 000 € pour une personne seule ou de 72 000 € pour un couple ne sont pas pris en compte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The value of your family home is not assessed</seg></tuv>
+  <tuv xml:lang="fr"><seg>La valeur de votre domicile familial n'est pas évaluée</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For amounts over the disregard limits, interest is taken into account in the means test. A notional assessment of interest is used</seg></tuv>
+  <tuv xml:lang="fr"><seg>Pour des montants supérieurs aux limites non prises en compte, une évaluation des intérêts notionnels s'applique</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Notional assessment of interest</seg></tuv>
+  <tuv xml:lang="fr"><seg>Évaluation des intérêts notionnels</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│First €36,000 (single), €72,000 │Nil │</seg></tuv>
+  <tuv xml:lang="fr"><seg>│Premiers 36 000 € (personne │Zéro │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Next €10,000 │€1 per €1,000 │</seg></tuv>
+  <tuv xml:lang="fr"><seg>│Prochains 10 000 € │1 € par tranche de 1 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Next €10,000 │€2 per €1,000 │</seg></tuv>
+  <tuv xml:lang="fr"><seg>│Prochains 10 000 € │2 € par tranche de 1 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Balance │€4 per €1,000 │</seg></tuv>
+  <tuv xml:lang="fr"><seg>│Reste │4 € par tranche de 1 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Certain specified types of State compensation are not assessable. Prize bonds are included in the amount assessed</seg></tuv>
+  <tuv xml:lang="fr"><seg>En substance, seuls les revenus notionnels gagnés sur l'épargne et les investissements similaires seront considérés comme des revenus, pas la valeur totale de l'épargne ou des investissements eux-mêmes</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Property (other than the family home) Where land or buildings are leased to another person, the income to be assessed will be the gross income, less any cost necessarily incurred associated with the property and such cost may include insurance premiums, loan/mortgage repayments, maintenance etc</seg></tuv>
+  <tuv xml:lang="fr"><seg>Propriété (autre que le domicile familial) Si les terrains ou les bâtiments sont loués à une autre personne, les revenus à évaluer seront les revenus bruts moins tous les coûts nécessairement encourus associés à la propriété et ces coûts peuvent inclure les primes d'assurance, les remboursements du prêt/hypothèque, l'entretien, etc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For land or buildings that are not being used but are capable of being leased or sold, the following assessment options can be used, with the more beneficial option applying to the applicant:</seg></tuv>
+  <tuv xml:lang="fr"><seg>Pour les terrains ou les bâtiments qui ne sont pas utilisés mais peuvent être loués ou vendus, les options d'évaluation suivantes peuvent être utilisées, avec l'option la plus avantageuse s'appliquant au demandeur :</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Notional assessment of the rental/lease “going rate” for the area</seg></tuv>
+  <tuv xml:lang="fr"><seg>• Évaluation du taux notionnel en vigueur de la location/bail pour le secteur</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Assessment of capital value as in the table for capital, above</seg></tuv>
+  <tuv xml:lang="fr"><seg>• Évaluation de la valeur du capital telle que décrite dans le tableau pour le capital, ci-dessus</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read more information about the medical card, including how to apply</seg></tuv>
+  <tuv xml:lang="fr"><seg>Apprenez-en davantage sur la carte médicale, y compris sur la manière de faire une demande</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The HSE has published Medical Card/GP Visit Card National Assessment Guidelines (pdf)</seg></tuv>
+  <tuv xml:lang="fr"><seg>La HSE a publié les directives nationales de l'évaluation de la carte médicale / carte de consultation du médecin généraliste (pdf)</seg></tuv>
+</tu>
+</body>
+</tmx>

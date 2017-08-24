@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Nomination of candidates for membership of Dáil Éireann</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ainmniúchán mar theachta i nDáil Éireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In order to be nominated for membership of the Dáil, you may either nominate yourself or a Dáil elector may nominate you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun a bheith ainmnithe mar theachta i nDáil Éireann, d'fhéadfá tú féin a ainmniú, nó d'fhéadfadh vótálaí Dála thú a ainmniú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Before nomination you should check that you are eligible for membership of the Dáil</seg></tuv>
+  <tuv xml:lang="ga"><seg>Roimh ainmniúchán ba chóir duit seiceáil go bhfuil tú i dteideal bheith mar theachta i nDáil Éireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To be eligible for membership of the Dáil:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun a bheith intofa mar theachta i nDáil Éireann:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You must be a citizen of Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní foláir duit a bheith i do shaoránach Éireannach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You must be over 21 years of age and</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní mór bliain agus fiche a bheith slán agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You must not be disqualified from election to the Dáil</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní fhéadfaidh tú a bheith dícháilithe i dtaobh toghcháin chuig Dáil Éireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must complete a nomination paper and present it to the returning officer of the constituency in which you are standing</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní foláir duit paipéar ainmniúcháin a líonadh agus é a thabhairt do cheann comhairimh do dháilcheantair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is possible to be nominated as a candidate in more than one constituency and you don't necessarily have to be living in a constituency to be nominated</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh a bheith ainmnithe mar theachta i níos mó ná dáilcheantar amháin agus ní gá duit bheith i do chónaí sa dháilcheantar chun bheith ainmnithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you wish, you may state your party affiliation on your nomination paper</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más maith leat, d'fhéadfá do chomhcheangal le páirtí polaitíochta a lua ar do pháipéar ainmniúcháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may also submit a photograph and/or a political party emblem to appear on the ballot paper</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfá chomh maith griangraf agus/nó comhartha páirtí polaitíochta a chur ar fáil le taispeáint ar an bpáipéar ballóide</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The returning officer must decide on the validity of your nomination paper within one hour after it is presented to them</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh ar an gceann comhairimh cinneadh a dhéanamh ar bhailíocht do pháipéar ainmniúcháin taobh istigh d'uair an chloig tar éis dó/dí é a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They will object to your name (or description) if:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirfidh sé/sí i gcoinne d'ainm (nó an cur síos ort)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• It is not the name by which you are commonly known</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Murab é an t-ainm faoina n-aithnítear tú de ghnáth</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• It is misleading or likely to cause confusion</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má tá sé mírialta nó dá bhféadfadh sé duine a cur amú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• It is unnecessarily long or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má tá sé ró-fhada gan fáth nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• It contains a political reference</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má tá tagairt pholaitíochta ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must change the particulars on the nomination paper if the returning officer raises an objection</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit na sonraí ar an bpáipéar ainmniúcháin a athrú má chuireann an ceann comhairimh ina n-aghaidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The returning officer must hold that your nomination paper is valid if it is properly filled out and signed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní foláir don cheann comhairimh glacadh leis go bhfuil do phaipéar ainmniúcháin bailí má tá sé líonta i gceart agus sínithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As a candidate at a Dáil election, you are entitled to send one election letter free of postage charge to every elector in the constituency</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar iarrthóir i dtoghchán Dála, tá tú i dteideal litir um thoghcháin saor ó chostas poist a sheoladh chuig gach vótálaí sa dáilcheantar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are a member of a political party with another candidate in the constituency, you will only be allowed one election letter free of postage charge between you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más ball de pháirtí polaitíochta thú ag a bhfuil níos mó ná iarrthóir amháin sa dáilcheantar, ní bheidh ceadaithe ach litir amháin saor ó chostas poist eadraibh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must submit your nomination paper to the returning officer for your constituency by 12 noon on the 7th day after the issue of the writ by the Dáil to the returning officer</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní foláir duit do pháipéar ainmniúcháin a chur i láthair ceann comhairimh do dháilcheantair roimh 12 meánlae ar an 7ú lá tar éis don Dáil ordú a eisiúnt don cheann comhairimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To be nominated for membership of the Dáil, candidates must complete one of the following options:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun a bheith ainmnithe mar theachta i nDáil Éireann, ní mór d'iarrthóirí ceann de na roghanna seo leanas a chomhlánú:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Statutory declarations by 30 assentors in the relevant Dáil constituency</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Dearbhaithe reachtúla déanta ag 30 aontaitheora sa Dáilcheantar ábhartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The candidate, or someone on his or her behalf, must lodge a deposit of €500 with the returning officer</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Caithfidh an t-iarrthóir, nó duine ar a shon, éarlais €500 a lóisteáil leis an gceann comhairimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you wish to supply a photograph or a party emblem, it must meet certain requirements regarding shape and size</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ag iarraidh griangraf nó comhartha páirtí a chur ar fáil, ní foláir dó cloí le coinníollacha áirithe maidir le méid agus cruth</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you do not supply a photograph and/or emblem, the space or spaces provided on the ballot paper will be left blank</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura gcuireann tú griangraf agus/nó comhartha ar fáil, fágfar an spás nó na spásanna ar an bpáipéar ballóide folamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To withdraw your nomination, you must inform the returning officer in writing at any time up to 12 noon on the day after the latest date for receiving nominations</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun d'ainmniúchán a tharraingt siar, ní foláir duit an ceann comhairimh a chur ar an eolas i scríbhinn am ar bith roimh 12 meán lae ar an lá tar éis an lae is déanaí le haghaidh glacadh ainmniúcháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must apply to the returning officer for your constituency who is either the county sheriff or the county registrar</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní foláir duit páipéar ainmniúcháin a fháil ó cheann comhairimh do dháilcheantair, is é an sirriam nó an cláraitheoir contae</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Contact information for the returning officer for your constituency is available from the franchise section of your local authority</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sonraí teagmhála don cheann comhairimh do dháilcheantair ar fáil ón rannóg toghchórais d'údarás áitiúil</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,373 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>The Nursing Home Support Scheme replaced the Subvention scheme from 27 October 2009</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireadh an Scéim um Thacaíocht Tithe Banaltrais in áit na Scéime Fóirdheontais an 27 Deireadh Fómhair 2009</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>No new applicants will be accepted</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní ghlacfar le hiarratasóirí nua</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>People who are already getting a subvention can choose whichever scheme is to their advantage</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh daoine a bhfuil fóirdheontas á fháil acu cheana féin rogha a dhéanamh maidir le cibé scéim is fearr a rachadh chun tairbhe dóibh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The rules for qualifying for a subvention were that you must be:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba iad seo a leanas na rialacha ar ghá duit iad a chomhlíonadh chun cáiliú d’fhóirdheontas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Sufficiently dependent to require maintenance in a nursing home and</seg></tuv>
+  <tuv xml:lang="ga"><seg>• A bheith i do chleithiúnaí go dtí an pointe go dteastaíonn cúram i dteach altranais uait</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Unable to pay any or part of the cost of maintenance in the home, that is, you must pass a means test</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gan a bheith in ann íoc as costas nó cuid den chostas cothabhála sa teach altranais, i.e., ní mór scrúdú maoine a shásamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The means test described here applies only to people who continued on the subvention scheme after the Nursing Home Support Scheme was introduced on 27 October 2009</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl feidhm ag an tástáil acmhainne ar a gcuirtear síos anseo ach amháin maidir le daoine a chuaigh ar aghaidh chuig an scéim fóirdheontais nuair a tugadh an Scéim Tacaíochta do Thithe Altranais isteach an 27 Deireadh Fómhair 2009</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It takes into account the income of yourself and your spouse (or partner)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann an scrúdú maoine san áireamh d'ioncam féin agus ioncam do chéile (nó páirtí a chónaíonn leat)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It may also take account of your assets (but not those of a spouse or partner)</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh sé go gcuirfí san áireamh freisin aon sócmhainní atá agat (ach ní chuirfear sócmhainní do chéile/páirtí san áireamh)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Assets in joint names are assessed proportionately</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar sócmhainní atá in ainm beirte (nó níos mó) a mheas go comhréireach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The means test involves looking at the income that you and your spouse (or partner) received in the previous 12 months</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar scrúdú ar an ioncam a bhí agat féin agus ag do chéile (nó páirtí a chónaíonn in éineacht leat) sa 12 mhí atá caite</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Income from all sources is taken into account, including wages, salary, pension, allowances, payments for part-time and seasonal work, income from rentals, investments and savings and all contributions from all sources</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar ioncam ó gach foinse a chur san áireamh, pá, tuarastal, pinsean, liúntais, íocaíochtaí ar obair pháirt-aimseartha nó séasúrach, ioncam ó chíos, infheistíochtaí agus airgead i gcoigealtas agus aon ranníocaíochtaí ó aon fhoinse eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Income is assessed net of social insurance (PRSI), income tax and the health contribution</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar an t-ioncam a mheas glan ar ÁSPC, cáin ioncaim agus an ranníocaíocht sláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The income of a married or cohabiting person is taken to be half the total income of the couple</seg></tuv>
+  <tuv xml:lang="ga"><seg>Glactar leis gurb é ioncam duine phósta nó duine atá ag maireachtáil le duine eile mar chéile leath an ioncaim iomláin atá ag an lánúin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may not deliberately try to reduce your income in order to qualify for a subvention, e.g., by diverting it to someone else</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leat iarracht a dhéanamh d'ioncam a laghdú d'aon ghnó ar mhaithe le bheith i dteideal deontais, e.g., an t-ioncam a chur i dtreo duine eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you do, this income may be taken into account anyway, even if you no longer have access to it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéanann tú é seo, cuirfear an t-ioncam sin san áireamh ar aon chaoi, fiú muna bhfuil fáil agatsa air a thuilleadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your total income for the purposes of the means test is your net income less one-fifth of the weekly rate of the State Pension (Non Contributory) payable at the time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar mhaithe leis an scrúdú maoine tugtar d'ioncam iomlán ar d'ioncam glan lúide an cúigiú cuid den ráta seachtainiúil reatha den Phinsean Stáit (Neamh-Ranníocach)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In effect, you must be allowed retain this amount, which is sometimes referred to as pocket money</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin ní mór go mbeadh cead agat an méid sin a choinneáil, ar a dtugtar airgead póca in amanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Farm or business income</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ioncam feirme nó gnó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Farm, Land or a Business is assessed where the applicant for subvention owns or has legal interest in the Farm, Land or Business</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfar measúnú ar Fheirm, ar Thalamh nó ar Ghnó nuair is leis an té a bhfuil fóirdheontas á iarraidh aige nó aici an Fheirm, an Talamh nó an Gnó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The income from a farm or business is calculated on the basis of the previous year's accounts if they are available</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar ioncam ó fheirm nó gnó a áireamh ar bhunús cuntas na bliana roimhe más ann dóibh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If they are not, a notional assessment is made of the income</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar measúnú barúlach mura mbíonn siad ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the case of a farm where there is an income but where accounts are not available for the previous financial year the total farm income, including headage payments, grants, rental income, etc. will be assessed, less current farm expenditure</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás feirme ina bhfuil ioncam i gceist ach nach bhfuil cuntais ar fáil i gcomhair na bliana airgeadais roimhe sin déantar ioncam iomlán na feirme lena n-áirítear íocaíochtaí cinn, fóirdheontais, ioncam cíosa, is araile a mheas, lúide caiteachas reatha feirme</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where the farm or business is not being used, a notional income may be assessed, as above, but which also takes account of the capital value of the land or business</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más rud é nach bhfuil feirm nó gnó á úsáid féadfar measúnú barúlach a dhéanamh a chuireann luach caipitil na talún nó an ghnó san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The following assets may be taken into account:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir na sócmhainní seo a leanas a chur san áireamh:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• House property (excluding household furniture and goods)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Maoin tí (ní chuirtear troscán agus earraí tí san áireamh)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Stocks, shares or securities</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Stoic, scaireanna nó urrúis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Money on hand, in trust, lodged, deposited or invested</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Airgead ar láimh, in iontabhas, lóisteáilte, i dtaisce nó infheistithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Interests in a company or business of any kind (including a farm)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Leas i gcomhlacht nó i ngnó d’aon chineál (feirm san áireamh)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Life assurance or endowment policies</seg></tuv>
+  <tuv xml:lang="ga"><seg>• árachas saoil nó polasaithe dearlaice</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Valuables held as investments</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Maoin coinnithe mar infheistíochtaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Current value of equipment of a business or machinery, excluding a car, not covered under a previous heading</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Luach reatha ar threalamh gnó nó innealra, gan carr a bheith san áireamh, nár cuireadh san áireamh cheana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you disposed of any assets in the previous 5 years, the value of those assets may also be taken into account</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fuair tú réidh le aon sócmhainní le 5 bhliana d'fhéadfadh sé go mbeadh luach na sócmhainní sin curtha san áireamh freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>That value may include the value of benefit and privilege arising from the transfer</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh sé go mbeadh luach sochair agus pribhléide a éiríonn as aistriú na sócmhainní a bheith curtha san áireamh freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a business was transferred without any agreement on benefit and privilege, the Health Service Executive (HSE) may take into account any payment on transfer or may impute a notional value of 5% of the market value on the date of transfer, whichever is the higher</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más amhlaidh gur déanadh gnó a aistriú gan aon réiteach ar shochar agus pribhléid, is féidir le Feidhmeannacht na Seirbhíse Sláinte (FSS) aon íocaíocht ag am an aistrithe a chur san áireamh nó is féidir luach barúlach de 5% de luach an mhargaidh ar dáta an aistrithe, cibé acu is airde, a chur san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the case of a farm transfer, the HSE may take into account any payment on transfer or any continuing income from the earnings of the farm</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás feirme a aistriú d’fhéadfadh an FSS aon íocaíocht ag am an aistrithe nó aon ioncam leanúnach ó theacht isteach na feirme a chur san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The first €11,000 of any assets is not taken into account</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór an chéad €11,000 d'aon sócmhainní a chur as an áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your principal private residence is not taken into account if it is occupied immediately before the application and continues to be occupied by your spouse, child aged under 21 or in full-time education or relative in receipt of Disability Allowance, Blind Person's Pension, Illness Benefit, Invalidity Pension or State Pension (Non Contributory)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chuirtear do phríomh áit chónaithe san áireamh más ann a bhí tú i do chónaí ag am an iarratais ar dheontas agus má tá aon duine acu seo a leanas fós ina c(h)ónaí ann - do chéile, do chlann atá faoi 21 bliain d'aois nó in oideachas lán-aimseartha nó gaol atá ag fáil aon cheann de na híocaíochtaí seo a leanas, Liúntas Míchumais, Pinsean na nDall, Sochar Breoiteachta, Pinsean Easláinte nó Pinsean Seanaoise (neamhranníocach)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To assess the notional annual income of your house, the HSE takes 5% of the estimated market value if it was not occupied before or at the time of the application by one of the people listed</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh an FSS 5% den luach measta margaidh a chur san áireamh le measúnú a dhéanamh ar ioncam barúlach bliantúil an tí, muna raibh cónaí ar dhuine amháin de na daoine thuasluaite ann roimh nó ag am an iarratais ar dheontas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is calculated net of mortgage, loan rental or purchase repayments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar é seo a ríomh glan ar aon mhorgáiste, cíos iasachta nó aisíocaíochtaí ceannaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The HSE can only assess the value of your home for a total of three years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir le FSS luach an tí sa bhaile a mheas ach ar feadh tréimhse trí bliana san iomlán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you sell your home, the proceeds may be taken into account in the assessment of your means for a nursing home subvention</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhíolann tú do theach d'fhéadfadh sé go mbeadh an t-airgead sin curtha san áireamh mar chuid den scrúdú ioncaim a bhaineann le deontas do theach altranais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(There is a social welfare rule that allows the proceeds of a house sale to be disregarded in certain circumstances</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Tá riail leasa shóisialaigh ann a thugann cead neamhaird a dhéanamh i gcúinsí áirithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This does not apply to the nursing homes subvention means test)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhaineann sé seo leis an scrúdú maoine ar dheontas do theach altranais)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The HSE may refuse to pay any subvention if either of the following apply:</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh sé go ndiúltódh Feidhmeannacht na Seirbhíse Sláinte (FSS)deontas a íoc má tá aon cheann den dá chás seo i gceist:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If your principal residence is valued at €500,000 (for properties in the Dublin area) and €365,000 (for the rest of the country) and your income is greater than the basic rate of State Pension (Non-Contributory) or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má tá luach de €500000 (i mBaile Átha Cliath) agus €365,000 (sa chuid eile den tír) ag an bpríomháit chónaithe agus má tá d’ioncam níos mó ná ráta bunúsach den Phinsean Stáit (Neamh-Ranníocach) nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The value of your assets (excluding your home) is greater than €36,000</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má bhíonn luach do shócmhainní, gan do theach a bheith san áireamh, ós cionn €36,000</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>No new applications for the subvention scheme were accepted after the introduction of the NHSS on 27 October 2009 when the maximum weekly subvention rate was €300</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níor glacadh le haon iarratais nua ar an scéim fóirdheontais tar éis thabhairt isteach na Scéime Tacaíochta do Thithe Altranais an 27 Deireadh Fómhair 2009</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your means are less than the weekly rate of the State Pension (Non-contributory) payable at the time, the HSE may pay an extra subvention</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhíonn do mhaoin mheasta níos lú ná an ráta seachtainiúil den Phinsean Stáit (Neamh-Ranníocach) atá dhá íoc ag an am, is féidir leis an FSS deontas breise a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your only income is a State Pension (Non-contributory), your means are assessed, not at the full amount of your pension, but after a sum equivalent to one fifth of the State Pension (Non-contributory) is disregarded</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna bhfuil d'ioncam agat ach an Pinsean Stáit (Neamh-Ranníocach), ní dhéantar do mhaoin a mheas ag méid iomlán do phinsin, ach tar éis an chúigiú chuid den Phinsean Stáit (Neamh-Ranníocach) a chur as an áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>So, you will be able to get higher than the maximum subvention</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin, beidh tú in ann níos mó ná an t-uasdheontas a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your means are higher than the rate of State Pension (Non-contributory) payable at the time, plus 20% retained for personal use, the subvention may be reduced by the amount of the excess</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhíonn maoin agat atá níos airde ná an ráta den Phinsean Stáit (Neamh-Ranníocach) atá dhá íoc ag an am, móide 20% coinnithe d'úsáid phearsanta, d'fhéadfadh sé go mbeadh an deontas laghdaithe faoin iarmhéid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are circumstances in which the HSE may pay the full cost of a private nursing home bed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá imthosca ann ina bhféadfaidh FSS an costas iomlán a bhaineann le leaba i dteach altranais príobháideach a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is the case where the HSE has what are called "contracted beds" in private nursing homes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an scéal amhlaidh sna cásanna sin ina bhfuil “leapacha ar chonradh” mar a thugtar orthu ag FSS i dtithe altranais príobháideacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are no clear rules about who is entitled to a contracted bed or in what circumstances the HSE offers this arrangement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon riail daingean leagtha síos faoi cé atá i dteideal leaba ar chonradh a fháil nó faoi na himthosca ina bhféadfaidh FSS an socrú seo a thairiscint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In some circumstances the HSE may make an 'enhanced' payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh FSS íocaíocht “feabhsaithe” a thairiscint in imthosca áirithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When considering an enhanced payment, the HSE will take account of the cost of care in the area, the availability of public beds, the means of the applicant and any other funds or assets that may be available to the applicant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair atá íocaíocht feabhsaithe á meas ag FSS cuirfidh sé an costas cúraim sa limistéar sin san áireamh, mar aon leis an méid leapacha poiblí atá ar fáil, acmhainn an iarratasóra agus aon chistí nó sócmhainní eile a d’fhéadfadh a bheith ar fáil don iarratasóir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is no entitlement to an enhanced subvention contribution; it is at the discretion of the HSE</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon teidlíocht ann maidir le fóirdheontas feabhsaithe; braitheann sé ar lánrogha FSS</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The availability of enhanced subvention is limited by the amount of funding available for the scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Braithfidh infhaighteacht an fhóirdheontais fheabhsaithe ar an méid maoinithe atá ar fáil don scéim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When a person is being assessed for subvention, a sum equivalent to one fifth of the State Pension (Non-contributory) is disregarded</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair atá measúnú dhá dhéanamh ar dhuine do dheontas, déantar neamhaird ar mhéid atá cothrom le aon chúigiú den Phinsean Stáit (Neamh-Ranníocach)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is often referred to as "pocket money"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar go minic "airgead póca" air</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Payment of the subvention and payments for care</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocaíocht an deontais agus íocaíochtaí ar chúram</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The subvention is paid to the proprietor of the nursing home and not directly to you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íoctar an deontas le úinéir an teach altranais ní íoctar go díreach leat féin é</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The charges for staying in the nursing home are agreed by you (or somebody acting on your behalf) and the nursing home</seg></tuv>
+  <tuv xml:lang="ga"><seg>Aontaíonn tusa (nó duine ag feidhmiú ar do shon) na táillí atá le n-íoc leis an teach altranais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The amount which you have to pay is set out in the contract of care which must be given to you when you go into the nursing home</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagtar síos an táille atá le n-íoc i gconradh cúraim nach mór a thabhairt duit nuair a théann tú isteach sa teach altranais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The contract of care usually includes a clause which allows for charges to be increased from time to time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn clás go hiondúil sa chonradh cúraim a deireann gur féidir na táillí a ardú ó am go chéile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may not be charged any more than the amount as agreed in the contract of care</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir táille níos airde a ghearradh ort ná an táille atá aontaithe sa chonradh cúraim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that there can be no further separate charges for bed and board, nursing care appropriate to the level of dependency, incontinence wear and bedding, laundry service and aids and appliances necessary to assist a dependent person with the activities of daily living</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin ní féidir aon táillí breise a ghearradh ort ar na rudaí seo - leaba agus loistín, cúram altranais a bhraitheann ar an leibhéal cúnaimh a theastaíonn uait, gléasadh coinneálachta agus ábhar leapa, serirbhís níocháin éadaí agus fearas agus trealamh a theastaíonn le cúnamh a chur ar fáil don duine le tascanna maireachtála laethúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A special service or item of equipment must be the subject of a separate agreement between you and the nursing home and must be set out in the contract of care</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go mbeadh comhaontú faoi leith idir thú féin agus an teach altranais má tá seirbhís speisialta i gceist nó trealamh faoi leith agus ní mór go mbeadh sé seo leagtha síos sa chonradh cúraim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have a nursing home subvention, you must be treated in the same way as a person who does not have a subvention</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhíonn deontas agat le n-íoc as teach altranais ní mór caitheamh leat ar an mbealach céanna le duine eile nach bhfuil deontas aige/aici</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a major change occurs in your level of dependency or in your means, the Health Service Executive (HSE) may review your entitlement to a subvention</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má thagann athrú mór ar an leibhéal cúnaimh a theastaíonn uait nó ar do mhaoin, is féidir le Feidhmeannacht na Seirbhíse Sláinte (FSS) athbhreithniú a dhéanamh ar do chás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(They also have the power to review every 6 months but this does not happen very often.) The HSE must hold a review if you or the person in charge of the home requests them to do so</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Tá sé de chumhacht ag an mbord freisin athbhreithniú a dhéanamh gach 6 mhí ach ní tharlaíonn sin ach go fíor annamh). Ní mór don FSS athbhreithniú a dhéanamh ar do chás má iarrann tusa nó an té atá i gceannas an tí é</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The assessment of dependency and means in the review is carried out in the same way as the initial assessment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar measúnú ar an gcúnamh a theastaíonn uait agus ar do mhaoin don athbhreithniú ar an mbealach céanna agus a déanadh an chéad mheasúnú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As a result of the review, the HSE may increase or decrease the subvention or withdraw it or offer accommodation in a HSE home or make arrangements for your care in your own home</seg></tuv>
+  <tuv xml:lang="ga"><seg>De bharr an athbhreithnithe, d'fhéadfadh sé go ndéanfadh an FSS an deontas a mhéadú nó a laghdú nó é a tharraingt siar ar fad nó lóistín i dteach de chuid an FSS a thairiscint nó socruithe a dhéanamh cúram a chur ar fáil duit i do theach féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The existing subvention is paid while the review is being conducted</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íoctar an deontas atá ar fáil cheana le linn an athbhreithnithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the HSE decide to reduce or stop the subvention, it must notify you and continue to pay the subvention for 28 days</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéanann an FSS cinneadh an deontas a laghdú nó a stopadh ní mór dó é sin a chur in iúl duit agus leanacht leis an deontas a íoc ar feadh 28 lá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are entitled to appeal against any decision to reduce or withdraw the subvention</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé de cheart agat achomharc a dhéanamh i dtaobh aon chinnithe an deontas a laghdú nó a tharraingt siar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the appeal is successful the arrears of subvention due will be paid</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má éiríonn leis an achomharc sin íocfar aon riaráistí a bhaineann leis an deontas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Nursing home care and tax allowances</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cúram i dteach altranais agus liúntais chánacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You or any other person who is paying the costs involved may be able to claim tax relief on the costs of your care in a private nursing home</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh sé go mbeadh tú nó aon duine eile atá ag íoc na gcostas a bhaineann le teach altranais in ann faoiseamh cánach a éileamh ar chostais an chúraim i dteach altranais phríobháideach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>View information on tax relief on nursing home fees and for dependent relatives here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féach faisnéis maidir le faoiseamh cánach ar tháillí tithe altranais agus ar son gaolta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are unhappy with a decision on your subvention, you may appeal to the Appeals Officer in HSE Consumer Affairs in your local area</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir achomharc a dhéanamh i dtaobh an mheasúnaithe a rinneadh ar an gcúram a theastaíonn uait</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may appeal against the assessment of means and/or the amount of the subvention</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir achomharc a lorg ar an scrúdú maoine agus/nó méid an deontais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should appeal within 28 days of receiving the notification of the decision</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart duit achomharc a dhéanamh taobh istigh de 28 lá ón lá a fhaigheann tú fógra maidir leis an gcinneadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are entitled to know the details of the decision and the reasons for it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé de cheart agat sonraí an chinnithe a bheith ar eolas agat agus na fáthanna a bhaineann leis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Details of the means assessment should be provided by the HSE but if they are not or they are not clear, you should look for further information</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart don FSS sonraí maidir leis an scrúdú maoine a sholáthar duit ach muna bhfuileadar curtha ar fáil nó sách soiléar duit ba cheart duit tuilleadh eolais a lorg</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The regulations do not say that you are entitled to an oral hearing but, if you feel that would be an advantage, you should ask for one</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl sé leagtha síos sna rialacha go bhfuil duine i dteideal éisteachta béil, ach má cheapann tú go mbeadh sí ina buntáiste is féidir leat éisteacht béil a iarraidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The appeals officer must give a decision on the appeal within 28 days</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don oifigeach achomhairc cinneadh ar achomharc a thabhairt taobh istigh de 28 lá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Decisions of the appeal officer are subject to review by the Ombudsman and may be subject to judicial review by the courts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le Fear an Phobail athbhreithniú a dhéanamh ar chinneadh an oifigigh achomhairc agus is féidir leis na cúirteanna athbhreithniú a dhéanamh freisin ar an gcinneadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>No new applications are accepted for this scheme, following the introduction of the Nursing Home Support Scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níltear ag glacadh le haon iarratais nua ar an scéim sin tar éis thabhairt isteach na Scéime Tacaíochta do Thithe Altranais</seg></tuv>
+</tu>
+</body>
+</tmx>

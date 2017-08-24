@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Local authorities conduct much of their business at meetings of the full council</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ag cruinnithe den chomhairle uile a dhéanann na húdaráis áitiúla mórchuid dá ngnó a reáchtáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These meetings are regulated by law</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn na cruinnithe seo faoi réir ag reachtaíocht dlíthiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(In other words, there are specific legal rules about how often the meetings should take place and how they are conducted, set out in Part 6 and Schedule 10 of the Local Government Act, 2001 and associated regulations - S.I. No</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Is é sin le rá go bhfuil sainrialacha dlíthiúla maidir le minicíocht na gcruinnithe agus modh oibre na gcruinnithe ar fáil i gCuid 6, agus Sceideal 10 den Acht Rialtais Áitiúil, 2001 agus sna rialacha gaolmhara -I.R.Uimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are essentially four different types of meetings held by the local authority:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá, go bunúsach, ceithre chineál cruinniú ar leith a reáchtálann an rialtas áitiúil:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• An annual meeting (held in May/June each year)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cruinniú cinn bliana (a reáchtáiltear i Mí Bealtaine /Meitheamh gach bliain)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Ordinary meetings (usually held at least monthly)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gnáthchruinnithe (a reáchtáiltear go míosúil de ghnáth)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A budget meeting (usually towards the end of the year)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cruinniú buiséid (a reáchtáiltear i dtreo dheireadh na bliana de ghnáth)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A special meeting (held occasionally)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cruinniú speisialta (a reáchtáiltear ó am go ham)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Special meetings may also be called by the Cathaoirleach or by 5 members of the Council</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis an gCathaoirleach nó le cúigear ball den Chomhairle cruinniú a ghlaoch</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>At the annual meeting (held in May/June each year), the Cathaoirleach is elected by the members</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag an gcruinniú cinn bliana (a glaoitear i Mí Bealtaine/Meitheamh gach bliain), déanann na baill an Cathaoirleach a thoghadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Following a local election, the first meeting of the local authority after the election is the annual meeting)</seg></tuv>
+  <tuv xml:lang="ga"><seg>I ndiaidh toghchán áitiúil, is ionann an cruinniú cinn bliana agus an chéad chruinniú i ndiaidh an toghcháin)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under Section 57 of the Local Authority Reform Act 2014, it is normally held on the fourteenth (14th) day after polling day</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi Alt 57 den Acht um Athchóiriú an Údaráis Áitiúil 2014, de ghnáth reáchtáiltear é ar an gceathrú lá déag (14ú) tar éis lá na votála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is at this annual meeting that the various elected members are appointed to various committees of the local authority, in addition to other organisations</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ag an gcruinniú cinn bliana seo a dhéantar na baill tofa éagsúla a cheapadh ar choistí éagsúla den údarás áitiúil, agus ar eagraíochtaí eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the 2014 Act, the meeting also sets the days for the first meetings of the municipal district members for each of the municipal districts within the local authority's area</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoin Acht 2014, leagann an gcruinniú seo freisin an lá don chéad chruinnithe de na comhaltaí ceantair chathrach do gach ceann de na ceantair chathrach laistigh de cheantar an údaráis áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They must take place within 10 days of the annual meeting</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór dóibh tarlú laistigh de 10 lá ón gcruinniú bliantúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Cathaoirleach chairs the meetings of the council</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rialaíonn an Cathaoirleach cruinnithe de chuid na Comhairle</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He or she is entitled to move that a councillor leave the meeting because of his/her conduct</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn sé de cheart aige nó aici tairiscint a mholadh go bhfágfaidh Comhairleoir an cruinniú mar gheall ar a m(h)í-iompar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If that motion is seconded, the councillor must leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chuidítear leis an tairiscint, bíonn ar an gComhairleoir imeacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Cathaoirleach also has the power to adjourn the meeting due to general disorder or because a person asked to leave has refused to do so</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an chumhacht freisin ag an gCathaoirleach an cruinniú a chur ar athló i ngeall ar mhí-ord ginearálta nó má dhiúltaíonn duine an cruinniú a fhágáil tar éis iarraidh air/uirthi imeacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If it is practical, the authority should hold the meetings at the main offices of the council and should decide on and follow a regular schedule for the holding of ordinary meetings</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá sé praiticiúil, ba chóir don údarás na cruinnithe a reáchtáil i bpríomhoifigí na Comhairle agus ba chóir socrú a dhéanamh do sceideal rialta gnáthchruinnithe agus cloí leis seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Section 45 of the Local Government Act, 2001 gives the public and the press a general right to be present at local authority meetings</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann Rannóg 45 den Acht Rialtais Áitiúil, 2001 gnáthcheart don phobal agus don phreas freastal ar chruinnithe den rialtas áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if the council has a special reason for doing so, it can decide by a resolution of at least 50% of its total members to hold the meeting in a private committee</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá cúis ar leith ag an gComhairle, áfach, is féidir an cruinniú a reáchtáil go príobháideach, má thacaíonn ar a laghad 50% de na baill uile lena leithéid de rún</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It must be in the overall public interest to hold the meeting in private</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór dó a bheith ar mhaithe le leas an phobail an cruinniú a reáchtáil go príobháideach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The public is entitled to 3 days notice of council meetings - the notice must be available for inspection at the main offices of the council</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé de cheart ag an bpobal fógra trí lá a fháil do chruinnithe Comhairle - ní mór fáil a bheith go hoscailte ar an bhfógra i bpríomhoifigí na Comhairle</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A local authority is entitled to make rules regulating the right of the public and the press to attend its meetings</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé de cheart ag an rialtas áitiúil rialacha a chur i bhfeidhm maidir le ceart an phobail agus an phreasa freastal ar a chruinnithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, it can limit the numbers of the public that can attend to take into account available space at the meeting, it can limit the taking of photographs and it can provide for removing members of the public who do not conduct themselves properly at the meeting</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir, mar shampla, srian a chur ar líon na ndaoine ar féidir leo freastal de réir an spáis a bhíonn ar fáil, nó srian a chur ar ghriangrafanna a thógáil, agus is féidir socruithe a chur i bhfeidhm chun daoine a chur amach as an gcruinniú muna mbíonn siad á n-iompar féin mar is cóir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Every local authority will fix a minimum number of members (known as a 'quorum') that must be present in order for a meeting to commence and for business to be conducted</seg></tuv>
+  <tuv xml:lang="ga"><seg>Aontóidh gach rialtas áitiúil ar an íosmhéid ball (ar a dtugtar 'quorum') is gá a bheith i láthair chun cruinniú a thosú agus chun gnó a reáchtáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The quorum is 25% of the total number of members of the local authority plus one</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ionann an quorum agus 25% móide a haon de líon iomlán na mball atá ar an údarás áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where 25% of the total number of members is not a whole number, the quorum is the next highest whole number plus one</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura slánuimhir í an 25% cuid den iomlán, is ionann an quorum agus an chéad slánuimhir eile móide a haon</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In situations where a meeting is abandoned owing to failure to obtain a quorum, the names of those members present are recorded</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chuirtear cruinniú ar ceal toisc nach bhfuil quorum ann, déantar na hainmneacha de na baill atá i láthair a liostáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>At the council meeting, every member of the council is entitled to vote for or against resolutions put forward at the meeting</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag cruinniú na Comhairle, tá sé de cheart ag gach ball den Chomhairle vótáil i bhfábhar nó i gcoinne rún atá molta ag an gcruinniú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In most cases, a resolution is passed where the majority of the members present vote in favour of the resolution</seg></tuv>
+  <tuv xml:lang="ga"><seg>I formhór na gcásanna, glactar le rún nuair a vótálann tromlach na mball atá i láthair i bhfábhar an rúin</seg></tuv>
+</tu>
+</body>
+</tmx>

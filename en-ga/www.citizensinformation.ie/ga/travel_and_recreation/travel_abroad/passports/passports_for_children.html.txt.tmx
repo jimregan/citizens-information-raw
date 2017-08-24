@@ -1,0 +1,409 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>• Children born in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Páistí a rugadh in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the past, children could be included on a parent’s Irish passport</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir do pháistí a chur ar do phas nuair a chuireann tú isteach ar phas nua</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, since October 2004, a child – defined as aged under 18 – must have an individual Irish passport in their own name</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó Dheireadh Fómhair 2004, caithfidh gach leanbh pas Éireannach aonair a fháil ina n-ainm féin, is cuma cén aois atá siad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Children’s passports last for 5 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá dhá chineál pas ann do leanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(Up to 29 March 2017, there was a 3-year passport for children aged under 3.)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá pasanna 3 bliana ar fáil do leanaí faoi 3, agus pasanna 5 bliana ar fáil do leanaí atá idir 3 agus 17 mbliana d’aois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An application for a passport for a child is made on form APS 1 if living in the State, or form APS 2 if living in Northern Ireland or abroad. The child's full birth certificate, showing the names of his/her parents, must be submitted with the form</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar iarratas ar phas do leanbh ar fhoirm APS 1 má tá cónaí ort sa Stát, nó ar fhoirm APS 2 má tá cónaí ort thar sáile agus ní mór teastas iomlán breithe an linbh, ag léiriú ainmneacha a t(h)uismitheoirí, a chur isteach leis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The application form includes a section for parental consent which must be signed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar an bhfoirm iarratais tá alt le haghaidh thoiliú na dtuismitheoirí agus ní mór é a shíniú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>What additional documentation needs to accompany the application depends on a number of factors, including when and where the child was born</seg></tuv>
+  <tuv xml:lang="ga"><seg>Braitheann an cháipéisíocht bhreise a chaithfear a chur isteach leis an iarratas ar roinnt fachtóirí lena n-áirítear uair agus áit bhreithe an linbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An application to renew a passport for a child under 18 years of age must be accompanied by the child's old passport</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go ngabhfaidh iarratas ar phas a athnuachan do leanbh atá faoi 18 mbliana d’aois le seanphas an linbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the old passport was issued before 2005 you must also submit the child’s birth certificate. If you are renewing a child’s passport which has been issued since January 2005, you do not need to submit the birth certificate unless:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá pas linbh á athnuachan, a eisíodh ó Eanáir 2005 i leith, ní gá duit an teastas breithe a sheoladh ar aghaidh, seachas sna cásanna a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The child’s birth has been re-registered since the old passport was issued or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Athchláraíodh breith an linbh ó eisíodh an seanphas, nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You are submitting a sole guardian affidavit or a court order</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tá mionnscríbhinn chaomhnóir aonair nó ordú cúirte á seoladh ar aghaidh agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are the sole guardian, you have to provide an up-to-date affidavit (AFF 1) stating that you are the sole guardian each time you apply to renew your child's passport – see 'Parental consent' below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más tusa an caomhnóir aonair, tá ort mionnscríbhinn a sholáthar (AFF 1) ina luaitear gur tusa an caomhnóir aonair – féach ‘Toiliú tuismitheora’ thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Application is made on form APS 1 or APS 2, as appropriate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar iarratas ar fhoirm APS 1 nó APS 2, faoi mar is cuí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are or were married to the other parent of your child, and the other parent is still alive, or if you are a joint guardian of the child, both parents/guardians must sign the parental consent section (Section 7) of the passport application form</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá nó má bhí tusa agus tuismitheoir eile do linbh pósta, agus má tá an tuismitheoir eile beo, nó más comhchaomhnóir an linbh thú, ní mór do na tuismitheoirí/caomhnóirí araon alt thoiliú na dtuismitheoirí a shíniú (alt 7) d’fhoirm iarratais an phas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are not in touch with your child's other parent/guardian, or if that parent/guardian refuses to give consent, you can apply to the District Court for a court order, which will allow the Passport Office to issue the passport without that consent</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura mbíonn teagmháil agat le tuismitheoir/caomhnóir eile do linbh, nó má dhiúltaíonn an tuismitheoir/caomhnóir sin toiliú a thabhairt, is féidir leat iarratas a dhéanamh chuig an gCúirt Dúiche le haghaidh ordú cúirte, a ligfidh d’Oifig na bPasanna an pas a eisiúint gan an toiliú sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Sole guardian: The situation is different if you are the sole guardian of a child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caomhnóir amháin: Bíonn an cás difriúil más caomhnóir aonair an linbh thú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This can happen if you are a single mother and the father has not arranged to become a joint guardian</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis seo tarlú más máthair aonair thú agus nach bhfuil socrú déanta ag an athair le bheith ina chomhchaomhnóir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It also happens if the other parent/guardian is deceased</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tarlaíonn sé fosta má bhíonn an tuismitheoir/caomhnóir eile marbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Alternatively, instead of the father signing the parental consent section, you will have to provide an affidavit (AFF 1) stating that you are the sole guardian</seg></tuv>
+  <tuv xml:lang="ga"><seg>In ionad an dara cuid d’alt toilithe an tuismitheora a chomhlánú, caithfidh tú mionnscríbhinn (AFF1) a shonraíonn go bhfuil tú i do chaomhnóir aonair a shíniú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This should be completed in the presence of a solicitor or Commissioner for Oaths</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir é seo a chomhlánú i láthair aturnae nó Coimisinéir Mionnaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the other parent/guardian is deceased, you will also have to provide a death certificate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhíonn an tuismitheoir/caomhnóir eile marbh, beidh ort deimhniú báis a sholáthar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a death certificate is not yet available as the coroner has to hold an inquest into the death, you should provide an Interim Certificate of the Fact of Death which is issued by the coroner</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura mbíonn teastas báis ar fáil fós toisc ní mór don chróinéir coiste cróinéara a thionól, ba chóir duit Teastas Sealadach Báis atá curtha ar fáil ag an gcróinéir a sholáthar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Babies born in the UK: If the birth was jointly registered by both parents in Northern Ireland or Great Britain, the father may have joint guardianship even if the parents never married</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leanaí a rugadh sa Ríocht Aontaithe: Má bhí an bhreith cláraithe i gcomhpháirt ag an dá thuismitheoirí i dTuaisceart Éireann nó sa Bhreatain Mhór, d'fhéadfadh an t-athair go mbeadh comhchaomhnóireacht fiú má na tuismitheoirí pósta riamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Department of Foreign Affairs has more information on parental consent on its website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá níos mó eolais a fháil ar an toiliú tuismitheora ar a láithreán gréasáin na Roinne Gnóthaí Eachtracha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Children born in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Páistí a rugadh in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Children born before 1 January 2005</seg></tuv>
+  <tuv xml:lang="ga"><seg>Páistí a rugadh roimh an 1 Eanáir 2005</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The application for a passport must be accompanied by the child's full birth certificate (and the child's old passport, if issued)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh an fhoirm iarratais ar phas a bheith in éineacht le teastas breithe an linbh (agus seanphas an linbh, má eisíodh é)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Children born on or after 1 January 2005</seg></tuv>
+  <tuv xml:lang="ga"><seg>Páistí a rugadh an 1 Eanáir 2005 nó ina dhiaidh sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where your child was born on or after 1 January 2005 on the island of Ireland, your child's entitlement to a passport is determined by your or the other parent's citizenship, or by your or the other parent's residence history prior to the birth</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás gur rugadh do leanbh an 1 Eanáir 2005 nó ina dhiaidh sin ar oileán na hÉireann, is é do shaoránacht nó saoránacht an tuismitheora eile a chinneann incháilitheacht do linbh le haghaidh pas, nó i ngeall ar do stair chónaitheach féin nó stair chónaitheach an tuismitheora eile roimh an bhreith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Therefore, in addition to the child's full birth certificate, other documentation must be supplied with the application as evidence of this citizenship or residency</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dá bhrí sin, ní mór cáipéisíocht bhreise a sholáthar leis an iarratas mar fhianaise ar shaoránacht nó chónaitheacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where a parent is an Irish citizen, or is entitled to be, the full birth certificate or passport of that parent must be provided</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás gur saoránach Éireannach tuismitheoir, nó go bhfuil an tuismitheoir incháilithe le bheith ina saoránach Éireannach, ní mór teastas iomlán breithe nó pas an tuismitheora sin a sholáthar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where a parent is a British citizen, that parent's passport is required</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás gur saoránach Briotanach tuismitheoir, tá pas an tuismitheora sin de dhíth</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where a parent is a national of an EU/EEA Member State or Switzerland, the parent must have resided in the island of Ireland for a total of 3 or more years during the 4 years immediately before the birth</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás gur náisiúnach Bhallstát an AE/LEE nó na hEilvéise tuismitheoir, ní mór go raibh an tuismitheoir ina chónaí ar oileán na hÉireann ar feadh 3 bliana ar fad nó níos mó le linn na 4 bliana roimh an mbreith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>That parent's passport, or national identity card, and Declaration Form A (pdf) must be provided</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór pas an tuismitheora sin, nó cárta náisiúnta aitheantais, agus Foirm Dhearbhaithe A (pdf) a sholáthar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(Declaration Form B is used by a guardian, or someone acting in loco parentis, where the parent is unable to make the declaration.) As proof of that parent's residency the following documents can be supplied:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann caomhnóir, nó duine atá ag feidhmiú in áit tuismitheora úsáid as (Foirm Dhearbhaithe B, nuair nach mbíonn tuismitheoir ábalta an dearbhú a dhéanamh.) Mar chruthúnas ar cónaitheachta an tuismitheora is féidir na doiciméid seo a leanas a chur ar fáil:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Tax records, including P60, P45 and P35L certificates</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Taifid chánach, lena n-áirítear P60, P45 agus P35L teastais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Records of any social welfare benefits or a statement from the Department of Social Protection confirming that the parent received benefits and giving exact dates</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Taifid ar aon sochar leasa shóisialaigh nó ráiteas ón Roinn Coimirce Sóisialaí ag deimhniú go bhfuair an tuismitheoir buntáistí agus ag tabhairt dátaí cruinne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Other documents to fill any gaps in periods of residency, such as, pay slips, utility bills, an official rent/lease agreement, a rent book or bank statements showing local transactions</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Doiciméid eile chun aon bhearnaí a líonadh i dtréimhsí cónaitheachta, mar shampla, a íoc duillíní, billí fóntais, comhaontú oifigiúil cíos / léas, leabhar cíosa nó ráitis bhainc ag taispeáint idirbhearta áitiúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The documents must be originals</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór na doiciméid a bheith bhunaidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Copies are not accepted</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní cóipeanna glacadh leo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where a parent is not a national of an EU/EEA Member State or Switzerland, the parent must have been lawfully resident in the island of Ireland for a total of 3 or more years during the 4 years immediately before the birth</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás nach náisiúnach Bhallstát an AE/LEE nó na hEilvéise, an tuismitheoir, ní mór go raibh an tuismitheoir ina chónaí go dleathach ar oileán na hÉireann ar feadh 3 bliana ar fad nó níos mó le linn na 4 bliana go díreach roimh an mbreith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(This does not include periods awaiting a decision on refugee status or residency granted specifically for the purpose of study.) The following must be provided:</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Níl san áireamh anseo tréimhsí ina mbítear ag fanacht ar chinneadh ar stádas dídeanaithe nó le linn tréimhse staidéir). Ní mór an méid a leanas a sholáthar:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• That parent's passport as well as a detailed note indicating which pages contain immigration stamps covering the reckonable periods of residence</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Pas an tuismitheora sin chomh maith le mion-nóta a léiríonn na leathanaigh ina bhfuil stampaí inimirce a chlúdaíonn na tréimhsí inríofa cónaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the passport office is unable to confirm the required three years residence from the passport, the parent will have to get a letter from the Garda National Immigration Bureau (GNIB) to confirm the reckonable periods of residence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura féidir le hOifig na bPasanna na trí bliana riachtanacha cónaithe a dhearbhú ón bpas, beidh ar an tuismitheoir litir a fháil ó Bhiúró Náisiúnta Inimirce an Gharda Síochána (BNGS) chun na tréimhsí inríofa cónaithe a dhearbhú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• That parent's registration card issued by the GNIB</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cárta Clárúcháin an tuismitheora sin mar a d’eisigh an BNGS</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where a parent has been granted refugee status prior to the birth, there is no 3-year residency requirement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás inar tugadh stádas dídeanaithe do thuismitheoir roimh an mbreith, níl riachtanas cónaithe 3 bliana ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The following must be provided:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór an méid a leanas a sholáthar:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• That parent's passport or travel document</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Pas nó cáipéis taistil an tuismitheora sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The letter from the Department of Justice and Equality notifying that parent that refugee status had been granted</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Litir ón Roinn Dlí agus Cirt agus Comhionannais ag cur in iúl gur tugadh stádas dídeanaithe don tuismitheoir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• That parent's registration card issued by the GNIB (if available)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cárta clárúcháin an tuismitheora sin mar a d’eisigh an BNGS (má tá sé ar fáil)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where a parent has permission to reside in Northern Ireland without any time restriction and that parent is not a national of an EU/EEA Member State or Switzerland, a certificate of nationality in respect of the child must first be obtained from the Department of Justice and Equality</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a bhíonn cead ag tuismitheoir cónaí a dhéanamh i dTuaisceart na hÉireann gan srian ar bith ama agus nach náisiúnach Bhallstát an AE/LEE ná na hEilvéise é, ní mór teastas náisiúntachta maidir leis an leanbh a fháil ar dtús ón Roinn Dlí agus Cirt agus Comhionannais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The certificate and that parent's passport must be provided</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór an teastas agus pas an tuismitheora a sholáthar ar dtús</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To obtain a certificate of nationality, that parent must complete Declaration Form C (pdf) which can be obtained from the Department of Justice and Equality</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun teastas náisiúntachta a fháil, ní mór don tuismitheoir sin Foirm Dhearbhaithe C (pdf) a chomhlíonadh ón Roinn Dlí agus Cirt agus Comhionannais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(Declaration Form D is used by a guardian, or somone acting in loco parentis, where the parent is unable to make the declaration.)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann caomhnóir, nó duine atá ag feidhmiú in áit tuismitheora úsáid as (Foirm Dhearbhaithe D, nuair nach mbíonn tuismitheoir ábalta an dearbhú a dhéanamh)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your child was born abroad and you were born in the island of Ireland, your child's full birth certificate, your full birth certificate and your marriage certificate (if applicable) must be provided</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má rugadh do leanbh thar lear agus má rugadh thú féin ar oileán na hÉireann, ní mór teastas iomlán breithe do linbh, do theastas iomlán breithe féin agus do theastas pósta (más infheidhme) a sholáthar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If neither you or your child's other parent were born in Ireland, then the child's certificate of entry in the Foreign Births Register, which was issued by the Department of Foreign Affairs and Trade, and the child's birth certificate must be supplied</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura rugadh thú féin ná tuismitheoir eile do linbh in Éirinn, ansin ní mór teastas iontrála i gClár na mBreitheanna Eachtracha, a d’eisigh an Roinn Gnóthaí Eachtracha agus Trádála, agus teastas breithe an linbh a sholáthar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are an Irish citizen and your child was born abroad and adopted under Irish law, the certificate of entry in the Irish Adoption Authority's Register of Intercountry Adoptions as well as your passport or birth certificate is required</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más saoránach Éireannach thú agus má uchtaíodh do leanbh de réir dhlí na hÉireann, tá an teastas iontrála i gClár na nUchtaithe Idir Thíortha ag Údarás Uchtála na hÉireann ag teastáil chomh maith le do theastas breithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(If you are living abroad and adopted your child abroad, you should apply for the adoption to be entered in the Register of Intercountry Adoptions.)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Má tá tú ina chónaí thar lear agus má d’uchtaigh tú leanbh thar lear, ba chóir duit iarratas ar chlárú an uchtaithe sa Chlár um Uchtuithe Idir Thíortha.)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The fee when applying for a child's Irish passport using An Post's Passport Express (see below) or through an embassy or consulate is €30</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is mar seo a leanas atá na táillí i bhfeidhm agus iarratas á dhéanamh ar phas Éireannach do leanbh ach úsáid as Seirbhís na bPasanna Luais de chuid An Post (féach thíos) nó trí ambasáid nó trí chonsalacht:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This fee does not include the charge payable to An Post for using its Passport Express service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní áiríonn na táillí an muirear le haghaidh úsáid an tseirbhís na bPasanna Luais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When applying for a child’s passport in person at a Passport Office (see’Contacts’ below) the fee is €45</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair atáthar ag déanamh iarratas ar phas go pearsanta ag Oifig na bPasanna, tá na táillí mar seo a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Emergency charge: There is an additional charge of €38 if you require a child passport urgently (within 3 to 5 working days)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muirear éigeandála: Gearrfar táille bhreise €30 má theastaíonn an pas leanbh uait go práinneach (laistigh de 5 lá oibre)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you use An Post's Passport Express service there will be an additional charge of €9.50 per application</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gearrfar táille bhreise €9.50 san iarratas ort má úsáideann tú Seirbhís na bPasanna Luais de chuid An Post</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An Post also offers a 'Family Application' option whereby up to 4 passport applications may be enclosed in one envelope</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chomh maith leis sin, tairgeann An Post rogha ‘Iarratas Teaghlaigh’ trínar féidir 4 iarratas ar phas ar a mhéad do theaghlach a iamh i gclúdach amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The additional charge for a Family Application is €16</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é €16 an táille bhreise ar Iarratas Teaghlaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The additional charge includes postage to and from the Passport Office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Folaíonn an táille bhreise postas chuig Oifig na bPasanna agus amach uaithi</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Passport Express service is also available through UK Post Office branches in Northern Ireland (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Sheirbhís na bPasanna Luais ar fáil trí bhrainsí Oifig Phoist na Ríochta Aontaithe i dTuaisceart Éireann (pdf) freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When applying for a passport through an Irish embassy or consulate, there may be additional administrative costs or handling charges depending on where you live</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más rud é go bhfuil tú ag cur isteach ar phas trí ambasáid Éireannach nó trí chonsalacht Éireannach, d’fhéadfadh costais bhreise riaracháin nó táille láimhseála a bheith i gceist, ag brath ar an áit ina bhfuil cónaí ort</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Check this in advance with the Irish embassy or consulate in the country in which you are living</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déan é seo a chinntiú roimh ré leis an ambasáid Éireannach nó leis an gconsalacht Éireannach sa tír ina bhfuil cónaí ort</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can pay for an Irish passport through Passport Express or at a Passport Office public counter if you are living in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú íoc as do phas Éireannach trí Sheirbhís na bPasanna Luais nó trí chuntar poiblí de chuid Oifig na bPasanna má tá cónaí ort in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are using An Post's Passport Express service, you should pay the passport application fees and the extra Passport Express fee directly to An Post</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más rud é go bhfuil Seirbhís na bPasanna Luais de chuid An Post á húsáid agat, ba cheart duit na táillí iarratais ar phas agus táille bhreise Sheirbhís na bPasanna Luais a íoc go díreach le An Post</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are living abroad, you can pay by post or at your nearest Irish embassy or consulate abroad</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más rud é go bhfuil cónaí ort thar lear, féadfaidh tú íoc as tríd an post nó tríd an ambasáid Éireannach nó tríd an gconsalacht Éireannach is cóngaraí duit thar lear</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>While emergency travel documents are usually not issued to minors, in the case of a genuine and life-threatening medical emergency involving a child, the duty officer at the Department of Foreign Affairs and Trade may issue an emergency travel document that is valid for a limited amount of time</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcásanna fíoréigeandála, féadann an t-oifigeach dualgais ag an Roinn Gnóthaí Eachtracha agus Trádála pas éigeandála atá bailí ar feadh tréimhse theoranta a eisiúint. Tá táille ar an tseirbhís éigeandála as uaireanta seo - €55 do leanbh. Caithfear iarratas ar phas rialta a dhéanamh ina dhiaidh sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is not possible to apply for (or renew) a child’s passport online</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir iarratas a dhéanamh ar phas Éireannach ar líne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is also not currently possible to download the application form you need to complete</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir ach oiread an fhoirm iarratais nach mór duit a chomhlánú a íoslódáil faoi láthair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are living in Ireland you can apply using Passport Express or in person at a Passport Office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más rud é go bhfuil cónaí ort in Éirinn, féadfaidh tú iarratas a dhéanamh ach úsáid a bhaint as Seirbhís na bPasanna Luais nó go pearsanta ag oifig d’Oifig na bPasanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are living abroad you can apply in person or using ordinary or registered post to your nearest Irish embassy or consulate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá cónaí ort thar lear, féadfaidh tú iarratas a dhéanamh go pearsanta nó gnáthphost nó post cláraithe a úsáid ag an ambasáid Éireannach nó ag an gconsalacht Éireannach is cóngaraí duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are living in the State, you should fill out form APS 1, which is available from Garda stations and at any Post Office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más rud é go bhfuil cónaí ort sa Stát, ba cheart duit foirm APS 1 a chomhlánú. Tá sí le fáil ó Stáisiúin na nGardaí agus ó aon Oifig Phoist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are living in Northern Ireland or outside Ireland, you should fill out form APS 2</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más rud é go bhfuil cónaí ort i dTuaisceart Éireann nó lasmuigh d’Éirinn, ba cheart duit foirm APS 2 a chomhlánú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can get the application form from the Irish embassy or consulate in the country where you live (or the closest embassy or consulate)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat an fhoirm iarratais a fháil ón ambasáid Éireannach nó ón gconsalacht Éireannach sa tír ina bhfuil cónaí ort (nó ón ambasáid nó ón gconsalacht is cóngaraí duit)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Passport Express service including forms is available through certain UK Post Office branches in Northern Ireland (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Seirbhís na bPasanna Luais, lena n-áirítear foirmeacha, ar fáil trí bhrainsí áirithe d’Oifig Phoist na Ríochta Aontaithe i dTuaisceart Éireann (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you get the form, you should read the detailed notes provided with it, to help you complete your application correctly</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tar éis duit an fhoirm a fháil, ba cheart duit na nótaí mionsonraithe a chuirtear ar fáil léi a léamh chun cabhrú leat d’iarratas a chomhlánú i gceart</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The application form must be signed by an official witness who can confirm the details given</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór an fhoirm iarratais a bheith sínithe ag finné oifigiúil a fhéadann na sonraí a tugadh a dheimhniú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In all applications for a child's passport, as well as the completed application form, you must submit:</seg></tuv>
+  <tuv xml:lang="ga"><seg>I ngach iarratas ar phas do leanbh, ní mór duit na nithe seo a leanas a chur isteach i dteannta na foirme iarratais comhlánaithe:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Four passport photographs of the child, 2 of which have been signed by a witness as per instructions provided with the application form</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ceithre ghrianghraf pas den leanbh, a bhfuil 2 cheann díobh sínithe ag finné de réir na dtreoracha a chuirtear ar fáil leis an bhfoirm iarratais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Proof of Irish citizenship (as described above)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cruthúnas ar shaoránacht Éireannach (mar a shonraítear thuas)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Child's birth certificate (see 'Renewals' above)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Teastas breithe an linbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Child's old passport (if applicable)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seanphas an linbh (má bhaineann)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Treoir provides information on passports for children of unmarried parents on its website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann Treoir faisnéis faoi phasanna do leanaí tuismitheoirí neamhphósta ar fáil ar a láithreán Gréasáin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further information on how and where to apply for a passport is available in our document on applying for an Irish passport</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh faisnéise faoi cén dóigh agus cén áit ar féidir iarratas a dhéanamh ar phas le fáil inár ndoiciméad iarratas a dhéanamh ar phas Éireannach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you receive your child's passport, your child should sign it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a fhaigheann tú pas do pháiste, ba chóir do leanbh a shíniú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your child is not able to sign their name, it should be left blank</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más rud é nach bhfuil do leanbh in ann a n-ainm a shíniú, ba cheart é a fhágáil bán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Tel:+353 (0)1 671 1633</seg></tuv>
+  <tuv xml:lang="ga"><seg>Teil:+353 (0)1 671 1633</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Fax:+353 (0)1 671 1092</seg></tuv>
+  <tuv xml:lang="ga"><seg>Facs:+353 (0)1 671 1092</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Tel:+353 21 494 4700</seg></tuv>
+  <tuv xml:lang="ga"><seg>Teil:+353 21 494 4700</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Department of Justice Office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Oifig na Roinne Dlí agus Cirt agus Comhionannais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Opening Hours:Helpline: 10:00 am -12:30 pm, Tuesdays and Thursdays only</seg></tuv>
+  <tuv xml:lang="ga"><seg>Uaireanta Oscailte:Líne chabrach 10-12.30pm Dé Máirt agus Déardaoin amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Garda National Immigration Bureau</seg></tuv>
+  <tuv xml:lang="ga"><seg>Biúró Náisiúnta an Gharda Síochána um Inimirce</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>If you are a public healthcare patient and require treatment that is not available to you in Ireland, you may be able to use the Treatment Abroad Scheme to get the treatment in another country in the European Union (EU), the European Economic Area (the EEA also includes Iceland, Liechtenstein and Norway) or Switzerland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más othar cúram sláinte poiblí thú agus má theastaíonn cóireáil uait nach bhfuil ar fáil in Éirinn b’fhéidir go mbeidh tú in ann an Scéim um Chóireáil Thar Lear a úsáid go gcuirfear cóireáil ort i dtír eile san Aontas Eorpach (an AE), an Limistéar Eorpach Eacnamaíochta (tá sa LEE an Íoslainn, Lichtinstéin agus an Iorua) nó san Eilvéis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Treatment that is available in Ireland may be accessed abroad under the Cross-Border Healthcare Directive</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadtar cóireáil atá ar fáil in Éirinn a rochtain thar lear faoin Treoir um Chúram Sláinte Trasteorann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To qualify for the Treatment Abroad Scheme, you must need medical treatment that is not available in Ireland or, taking account of your medical circumstances, is not available within the time normally necessary to obtain it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun cáiliú don Scéim um Chóireáil Thar Lear, ní mór go mbíonn cóir leighis ag teastáil uait nach bhfuil ar fáil in Éirinn nó, agus do chúinsí leighis á gcur san áireamh, nach bhfuil ar fáil laistigh den tréimhse ama is gnách go dteastaíonn go gcuirfear an chóireáil sin ort</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It must be a treatment that comes under the benefits provided for in Irish law</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór gurb ionann agus cóireáil í a thugann faoi chuimsiú na dtairbhí dá bhforáiltear i ndlí na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Unproven, experimental or test treatments are not covered</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chumhdaítear cóireálacha neamhchruthaithe, turgnamhacha nó tástála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The treatment you have abroad must be in public healthcare under a registered medical practitioner in a recognised hospital or other institution that accepts form S2 (also known as E112)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go bhfuil an chóireáil a chuirtear ort thar lear i gcúram sláinte poiblí faoi chleachtóir cláraithe leighis in ospidéal aitheanta nó in institiúid eile a ghlacann le foirm S2(ar a dtugtar foirm E112 chomh maith)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Form S2 authorises treatment abroad so that the patient does not have to make any payment to the healthcare provider</seg></tuv>
+  <tuv xml:lang="ga"><seg>Údaraíonn foirm S2 cóireáil thar lear ionas nach mbíonn ar an othar aon íocaíocht a dhéanamh leis an soláthraí cúram sláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must provide confirmation of every appointment you are due to attend so that the Health Service Executive (HSE) can issue an S2 form that will cover the cost of your visit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit deimhniú a sholáthar i leith gach coinne a bhfuil ort freastal orthu ionas gur féidir le Feidhmeannacht na Seirbhíse Sláinte (FSS) foirm S2 a eisiúint a íocfaidh as costas do chuairte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you don’t have the document at your appointment, you may be charged and not be refunded</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil an cháipéis agat ag do choinne, féadtar an costas a ghearradh ort agus ní dhéanfar thú a aisíoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Additional treatments or associated examinations or consultations which may arise while you are abroad, but have not been pre-approved, will not be covered</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chumhdófar cóireálacha breise nó scrúduithe nó comhairliúcháin ghaolmhara a d’fhéadfadh teacht aníos fad a bhíonn tú thar lear, ach nach ndearnadh a réamhfhaomhadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Treatment Abroad Scheme may provide assistance with travel costs for the patient and a travelling companion, where appropriate</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh an Scéim um Chóireáil Thar Lear cúnamh a sholáthar leis na costais taistil a mbíonn ar an othar íoc astu agus costais chompánach taistil, nuair is cuí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must be referred for treatment abroad by an Irish-based consultant who is treating you as a public patient</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go n-atreoróidh comhairleach atá bunaithe in Éirinn thú a bhfuil cóir leighis á cur aige/aici ort mar othar poiblí, i dtaobh cóireála thar lear</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You cannot refer yourself or be referred by a GP</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leat tú féin a atreorú ná ní féidir le LG thú a atreorú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You, and your referring consultant, must complete an application form and include a copy of your referral letter</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duitse, agus do chomhairleach atreoraithe, foirm iarratais a chomhlánú agus cóip de do litir atreoraithe a chur san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The HSE has produced a guide for consultants referring patients for funding under the Treatment Abroad Scheme (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chuir FSS treoir do chomhairligh a atreoraíonn othair le haghaidh cistiú faoin Scéim um Chóireáil Thar Lear (‘Guide for consultants referring patients for funding under the Treatment Abroad Scheme’) (pdf) i dtoll a chéile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your application must be approved by the HSE before you travel or start treatment abroad</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go bhfaomhfaidh FSS d’iarratas sula dtaistealaíonn tú nó sula gcuireann tú tús leis an gcóireáil thar lear</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will get a decision on your application by letter, usually within 15 to 20 working days</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is gnách go bhfaighidh tú an cinneadh a rinneadh ar d’iarratas trí litir, idir 15 agus 20 lá oibre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your application is not approved, you will be told the reasons and given information on how to appeal the decision</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfaomhtar d’iarratas, inseofar duit na cúiseanna a bhí leis sin agus tabharfar faisnéis duit ar conas an cinneadh a achomharc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For an application form, contact the Treatment Abroad Scheme Office on the relevant contact number below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun teacht ar fhoirm iarratais, déan teagmháil leis an Oifig um Chóireáil Thar Lear trí ghlao ar an uimhir ábhartha theagmhála thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For child patients of the following hospitals, the contact number is 056 778 4553: Our Lady’s Children’s Hospital, Crumlin; Children’s University Hospital, Temple Street; The National Children’s Hospital, Tallaght</seg></tuv>
+  <tuv xml:lang="ga"><seg>I dtaobh othair linbh na n-ospidéal a leanas, is í an uimhir theagmhála 056 778 4553: Ospidéal Mhuire na Leanaí, Cromghlinn; Ospidéal Ollscolaíoch na Leanaí, Sráid Temple; Ospidéal Náisiúnta na Leanaí, Tamhlacht</seg></tuv>
+</tu>
+</body>
+</tmx>

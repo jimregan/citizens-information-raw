@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Farm Assist is an income support scheme for farmers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Scéim tacaíochta ioncaim do fheirmeoirí é Cúnamh Feirme</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Find out about the means test for this payment and the rules about who can qualify</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigh amach tuilleadh faoin scrúdú maoine den íocaíocht seo agus faoi na rialacha maidir le cé a cháilíonn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Rural Social Scheme (RSS) provides income support for farmers and fishermen/women who are getting certain social welfare payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is í aidhm na scéime Sóisialta Tuaithe ná fordheontas ioncaim a sholáthar d'fheirmeoirí agus iascairí in Éirinn atá ag fáil íocaíochtaí leasa shóisialaigh ar bhonn fadtéarmach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most Read in "Social Welfare"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ábhar is mó éilimh i "Leas Sóisialach"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Back to School Clothing and Footwear Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Liúntas Éadaí agus Coisbhirt chun Filleadh ar Scoil</seg></tuv>
+</tu>
+</body>
+</tmx>

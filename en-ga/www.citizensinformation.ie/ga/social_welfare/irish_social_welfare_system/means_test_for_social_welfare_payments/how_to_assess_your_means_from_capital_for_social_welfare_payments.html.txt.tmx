@@ -1,0 +1,281 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Capital and social welfare payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caipiteal agus íocaíochtaí leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Assessment of capital for couples</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Conas a láimhseáiltear réadmhaoin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are applying for a social assistance payment you must satisfy a means test</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá iarratas á chur isteach agat ar íocaíocht cúnaimh shóisialaigh caithfidh tú tástáil mhaoine a chomhlíonadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All your sources of income (for example, cash income, employment, capital and maintenance) are assessed by the Department of Social Protection (DSP)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann an Roinn Coimirce Sóisialaí measúnú ar gach foinse ioncaim de do chuid (mar shampla ioncam airgid thirim, fostaíocht, caipiteal agus cothabháil) Faoi reachtaíocht um Leas Sóisialach áfach, ní chuirtear roinnt míreanna san áireamh agus do chuid acmhainní á measúnú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The purpose of this document is to explain how the DSP assesses your means from capital for social welfare payments (with the exception of Family Income Supplement as capital is not assessed in this income test)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é cuspóir an doiciméid seo míniú a thabhairt ar an dóigh a dhéanann an Roinn Coimirce Sóisialaí measúnú ar do chuid acmhainní ó chaipiteal i gcomhair íocaíochtaí leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>More information on other sources of income and income not taken into account is available in our document on the means test</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh eolais maidir le foinsí ioncaim eile agus ioncam nach chuirtear san áireamh ar fáil inár ndoiciméad maidir leis an tástáil mhaoine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To find your means from capital, first you must calculate your total capital value</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun do chuid acmhainní a ríomh ó chaipiteal, sa chéad dul síos ní foláir duit do luach chaipitiúil iomlán a ríomh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You do this by adding together all your sources of capital (for example, property, savings and investments)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn sé seo go caithfidh tú gach foinse caipitil de do chuid a shuimiú (mar shampla, maoin, coigilteas agus infheistíochtaí)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Then you apply the relevant formula below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ansin cuir an fhoirmle ábhartha thíos i bhfeidhm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The formula for assessing means from capital for all social welfare payments (except Disability Allowance and Supplementary Welfare Allowance) is as follows:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is í an fhoirmle chun acmhainní ó chaipiteal a mheasúnú maidir le gach íocaíocht leasa shóisialaigh (seachas Liúntas Míchumais agus Liúntas Leasa Forlíontach) ná mar a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Capital │Weekly means assessed │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Caipiteal │Maoin sheachtainiúil measúnaithe │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│First €20,000 │Nil │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│An chéad €20,000 │Dada │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Next €10,000 │€1 per €1,000 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│An chéad €10,000 eile │€1 in aghaidh gach €1,000 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Next €10,000 │€2 per €1,000 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│An chéad €10,000 eile │€2 in aghaidh gach €1,000 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Balance │€4 per €1,000 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Iarmhéid │€4 in aghaidh gach €1,000 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The formula for assessing means from capital for Disability Allowance is as follows:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is í an fhoirmle chun acmhainní ó chaipiteal a mheasúnú maidir le Liúntas Míchumais ná mar a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Capital │Weekly means │ │ │assessed │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Caipiteal │Maoin sheachtainiúil measúnaithe │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│First €50,000 │Nil │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│An chéad €50,000 │Dada │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Next €10,000 │€1 per €1,000 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│An chéad €10,000 eile │€1 in aghaidh gach €1,000 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Next €10,000 │€2 per €1,000 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│An chéad €10,000 eile │€2 in aghaidh gach €1,000 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Balance (any capital over │€4 per €1,000 │ │€70,000) │ │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Iarmhéid (aon chaipiteal os cionn €70,000) │€4 in aghaidh gach €1,000 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The formula for assessing means from capital for Supplementary Welfare Allowance is as follows:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is í an fhoirmle chun acmhainní ó chaipiteal maidir le Liúntas Leasa Forlíontach a mheasúnú ná mar a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Capital │Weekly means assessed │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Caipiteal │Maoin sheachtainiúil measúnaithe │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│First €5,000 │Nil │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│An chéad €5,000 │Dada │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Next €10,000 │€1 per €1,000 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│An chéad €10,000 eile │€1 in aghaidh gach €1,000 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Next €25,000 │€2 per €1,000 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│An chéad €25,000 eile │€2 in aghaidh gach €1,000 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Balance │€4 per €1,000 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Iarmhéid │€4 in aghaidh gach €1,000 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>How property is treated</seg></tuv>
+  <tuv xml:lang="ga"><seg>Conas a láimhseáiltear réadmhaoin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The home in which you live is not included in the assessment of your means from capital unless you are getting an income from it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chuirtear san áireamh an teach ina gcónaíonn tú sa mheasúnú ar do mhaoin ó chaipiteal mura bhfuil ioncam á fháil agat uaidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are getting an income from your home (for example, if you have rented a room in the house) that income is assessed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá ioncam á fháil agat ó do theach (mar shampla, tá seomra ar cíos agat sa teach), déantar measúnú ar an ioncam sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, income from renting a room in your home is not assessed if you are getting a State Pension (Non-Contributory) or a Widow's, Widower's or Surviving Civil Partner's (Non-Contributory) Pension and not renting the room means that you would be living alone</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áfach, ní dhéantar measúnú ar ioncam ó sheomra a ligean ar cíos i do theach má tá Pinsean Stáit (Neamh-Ranníocach) nó Pinsean Baintrí, Baintreach Fir nó Páirtnéara Shibhialta Mharthanaigh (Neamh-Ranníocach) á fháil agat agus go mbeifeá i do chónaí leat féin mura mbeadh an seomra ligthe ar cíos agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you sell your home, the proceeds of the sale are normally taken into account as means</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhíolann tú do theach, is gnách go gcuirtear fáltais an díola san áireamh mar mhaoin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are living in accommodation which no longer suits you or which you are no longer able to maintain, you may be able to sell your home and move to more suitable accommodation and have up to €190,500 of the proceeds of the sale exempt from the means test</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá cónaí ort i gcóiríocht nach n-oireann duit a thuilleadh nó nach bhfuil tú in ann a choimeád a thuilleadh, d’fhéadfá do theach a dhíol agus bogadh chuig cóiríocht níos oiriúnaí agus a mhéid agus €190,500 d’fháltais an díola bheith díolmhaithe ón tástáil mhaoine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This exemption only applies if you are getting one of the following payments:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhaineann an díolúine seo ach amháin má tá ceann de na híocaíochtaí a leanas á fáil agat:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Widow's, Widower's or Surviving civil Partner's (Non-Contributory) Pension (if you are 66 years of age or over)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Pinsean Baintrí, Baintrí Fir nó Páirtnéara Shibhialta Mharthanaigh (Neamh-Ranníocach) (má tá tú 66 bliain d’aois nó níos sine)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The exemption only applies if you are getting one of the above social welfare payments and sell your house in order to:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhaineann an díolúine seo ach amháin má tá ceann de na híocaíochtaí thuas á fáil agat agus má dhíolann tú do theach d’fhonn an méid a leanas a dhéanamh:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Buy or rent more suitable alternative accommodation</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cóiríocht eile níos oiriúnaí a cheannach nó a fháil ar cíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Move into a private nursing home which is registered under the Health (Nursing Homes) Act 1990</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bogadh isteach chuig teach príobháideach altranais atá cláraithe faoin Acht Sláinte (Tithe Banaltrais), 1990</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Move in with a person who getting a carer's payment to care for you</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bogadh isteach le duine a bhfuil íocaíocht chúramóra á fáil acu duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Move to sheltered or special housing in the voluntary, co-operative, statutory or private sectors</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bogadh chuig tithíocht dhídeanach nó speisialta sna hearnálacha deonacha, comhoibritheacha, reachtúla nó príobháideacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Usually the first €190,500 of the sale proceeds is not taken into account</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is gnách nach gcuirtear an chéad €190,500 d’fháltais an díola san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if you use the proceeds of the sale to buy more suitable accommodation, the balance of the proceeds after buying the new accommodation is exempt up to a limit of €190,500</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má úsáideann tú fáltais an díola, áfach, chun cóiríocht níos oiriúnaí a cheannach, tá iarmhéid na bhfáltas i ndiaidh an chóiríocht nua a cheannach díolmhaithe a fhad le teorainn €190,500</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Investment income from the sale of your home</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ioncam infheistíochta ó dhíol do thí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Any benefit you get from investing the sale proceeds is assessable as means</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá aon rud a rachadh chun do shochair ó fháltais an díola a infheistiú inmheasúnaithe mar mhaoin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Any interest paid and retained is assessable as capital</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá aon ús a íocadh agus a coimeádadh inmheasúnaithe mar chaipiteal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, the Department of Social Protection's Operational Guidelines on Means Assessment state that an allowance should be made where a person has significant maintenance expenses, such as nursing home costs, which are met out of interest payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Luaitear i dTreoirlínte Oibriúcháin maidir le Tástáil Mhaoine gur cheart go ndéanfaí lamháltas má tá costais shuntasacha chothabhála le híoc ag duine, ar nós costais teach altranais, as a n-íoctar ag íocaíochtaí úis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In such cases, the interest on the exempted capital (up to a maximum of €190,500) may be disregarded as means</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás sin, féadfar neamhaird a thabhairt ar an ús ar an gcaipiteal díolmhaithe (a fhad le €190,500) mar mhaoin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Leaving your home but not selling</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag fágáil do thí agus gan é a dhíol</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If, due to old age or incapacity, you leave your home either on a temporary basis or indefinitely, the value of your home will not be assessed as means</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhágann tú do theach, de bharr seanaoise nó éagumais, ar bhonn sealadach nó ar feadh tréimhse neamhchinnte, ní dhéanfar luach do thí a mheasúnú mar mhaoin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if it is put to profitable use (for example, rented out), the capital value of the house will then be assessed as means</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhaintear feidhm bhrabúsach as do theach (mar shampla, má ligtear ar cíos é), measúnófar luach caipitil an tí mar mhaoin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The home in which you live is not included in the assessment of your means from capital (see above)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chuirtear san áireamh an teach ina gcónaíonn tú sa mheasúnú ar do mhaoin ó chaipiteal (féach thuas)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you own a house which is let, you are assessed on the capital value of the property</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá teach agat a ligtear ar cíos, déanfar measúnú ort ar luach caipitil na réadmhaoine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will not be assessed on the income from the letting</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní dhéanfar measúnú ort ar an ioncam ón leasú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Any outstanding mortgage registered against the property is deducted from the market value to find the capital value</seg></tuv>
+  <tuv xml:lang="ga"><seg>Asbhaintear aon mhorgáiste atá gan íoc ón luach margaidh leis an luach caipitil a ríomh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if the mortgage on the home in which you live has been re-structured to raise capital to buy the second property, this re-structured mortgage will not be deducted from the capital assessment of the second property</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá athstruchtúrú déanta ar an morgáiste ar an teach ina gcónaíonn tú chun caipiteal a chruthú chun an dara maoin a cheannach, ní asbhainfear an morgáiste athstruchtúrtha seo ón measúnú caipitil don dara réadmhaoin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For all second homes the property must be capable of being sold, let or put to profitable use before a capital value assessment is applied</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cásanna ina ndéantar ioncam ó chíos a mheasúnú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>More information about the assessment of capital as means can be found on the Department of Social Protection website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá leas saoil agat i réadmhaoin, déantar measúnú ar an ioncam ó chíos seachas ar an luach caipitil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Situations where rental income is assessed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfar measúnú ar an luach caipitil ar an ngnáthbhealach, áfach, mura bhfuil an réadmhaoin ligthe ar cíos – féach ‘Luach Caipitil' thuas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Usually income from renting a property is not assessed. However there are some situations where rental income is assessed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar ioncam ó chíos a mheasúnú mar airgead tirim sa tástáil mhaoine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you have a life interest in a property the rental income is assessed instead of the capital value</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás gach athbhaile, ní mór gur féidir an réadmhaoin a dhíol, a ligean ar cíos nó a chur chun úsáide brabúsaí sula gcuirfear measúnú ar luach caipitil i bhfeidhm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you apply for Family Income Supplement (FIS) rental income from the letting of property or land will be taken into account when assessing your income (the capital value is not assessed)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir teacht ar níos mó faisnéise faoi mheasúnú ar chaipiteal mar mhaoin ar láithreán gréasáin na Roinne Coimirce Sóisialaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Assessment of capital for couples</seg></tuv>
+  <tuv xml:lang="ga"><seg>Measúnú ar chaipiteal le haghaidh lánúineacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have a joint account with your spouse, civil partner or cohabitant, legally the total amount in the account is owned by each of you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá comhchuntas agat le do chéile, páirtnéir sibhialta nó comháitritheoir, is faoi úinéireacht na beirte agaibh an méid iomlán atá sa chuntas, de réir an dlí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Therefore it could be assessed in full against each of you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar an ábhar sin, is féidir measúnú a dhéanamh ar an méid iomlán i leith na beirte agaibh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if you and your spouse, civil partner or cohabitant are both getting means-tested social assistance payments, it will be assessed either on a shared basis or against only one of you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar a shon sin, má tá íocaíochtaí cúnaimh shóisialta ar a ndéantar tástáil mhaoine á bhfáil agat agus ag do pháirtnéir sibhialta nó do chomháitritheoir, déanfar measúnú air ar bhonn roinnte nó i leith duine amháin agaibh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can read more about assessing the means of a couple for social assistance payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat níos mó a léamh faoi mheasúnú a dhéanamh ar mhaoin lánúine le haghaidh íocaíochtaí cúnaimh shóisialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Using the table below - find your total capital value and your weekly means as assessed by the Department of Social Protection</seg></tuv>
+  <tuv xml:lang="ga"><seg>Agus leas á bhaint as an tábla thíos – deimhnigh do luach iomlán caipitil agus do mhaoin sheachtainiúil amhail a dhéanann an Roinn Coimirce Sóisialaí measúnú orthu</seg></tuv>
+</tu>
+</body>
+</tmx>

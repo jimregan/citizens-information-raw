@@ -1,0 +1,297 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Driving tests for drivers with disabilities</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tástálacha tiománaithe do thiománaithe le míchumas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All drivers (including drivers with disabilities) who have been issued with 2 two-year learner driving permits are required to undergo a driving test</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní foláir do gach tiománaí (lena n-áirítear tiománaithe le míchumas) ar eisíodh ceadúnas tiomána foghlaimeora 2 bhliana dóibh tabhairt faoi thástáil tiomána</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This requirement to undergo a driving test is compulsory</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is éigeantach é an riachtanas seo chun tabhairt faoi thástáil tiomána</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is important to be aware of the fact that you may not apply for a third or subsequent learner permit for any category of vehicle unless you can show evidence that you have applied for a driving test</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé tábhachtach go bhfuil tú ar an eolas nach bhféadfaidh tú cur isteach ar an tríú ceadúnas foghlaimeora ná ar aon cheann ina dhiaidh sin i leith aon chatagóir feithicle mura féidir leat fianaise a thaispeáint gur chuir tú isteach ar thástáil tiomána</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You cannot take a driving test for at least six months after getting your first learner permit (where you are not changing from a provisional licence to a learner permit)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leat tástáil tiomána ar a laghad sé mhí tar éis dul do chéad cheadúnas foghlaimeora (sa chás nach bhfuil tú ag athrú ó cheadúnas sealadach go ceadúnas foghlaimeora)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Driver testing is carried out directly by the Road Safety Authority to a standard that complies with the EU Directive on Driving Licences</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is í an tUdarás Um Shábháilteacht Ar Bóithre go díreach a chuireann tástáil na dtiománaithe in Éirinn i bhfeidhm go caighdeán a chomhlíonann Treoir an AE ar Cheadúnais Tiomána</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Testing is conducted out of test centres throughout the country and where possible, your test will be arranged for the centre you nominate on your application form</seg></tuv>
+  <tuv xml:lang="ga"><seg>Reachtáiltear an tástáil as ionad tástála ar fud na tíre agus socrófar do thástáil, más féidir ar chor ar bith é, don ionad a ainmníonn tú ar d'fhoirm iarratais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Waiting times vary from county to county, so it is advisable to apply for a test about 6 months before your second learner permit is due to expire</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is éagsúil iad na tréimhsí feithimh ó chontae amháin go céile, mar sin moltar duit cur isteach ar thástáil timpeall 6 mí sula rachaidh do dhara ceadúnas sealadach in éag</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is a standard test and all test centres use the same testing procedures</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is tástáil chaighdeánach í agus baineann gach ionad tástála leas as na nósanna imeachta céanna don tástáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is now possible to apply and pay for your driving test online (see "How to apply" below)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir cur isteach agus íoc ar líne anois ar do thástáil tiomána (féach "Conas iarratas a dhéanamh" thíos)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should notify the Road Safety Authority in advance if you have a severe hearing problem or are restricted in your movements, or have any disability which could affect your driving</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir duit fógra a thabhairt don Údarás um Shábháilteacht ar Bhóithre roimh ré má tá tú fadhb éisteachta dian nó srianta i do ghluaiseachtaí, nó má tá aon mhíchumas a d'fhéadfadh difear a dhéanamh do tiomána</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have a disability, you are asked on your driving test application form to outline whether you are driving an adapted vehicle</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá míchumas agat, fiafraítear díot ar fhoirm iarratais do thástála tiomána an bhfuil feithicil oiriúnaithe á tiomáint agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This will ensure that any necessary arrangements are in place for you on the day of your test</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cinnteofar leis seo go mbeidh aon riachtanas speisialta curtha in alt a chéile duit ar lá do thástála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Driving tests for disabled drivers are broadly the same as those for all other motorists</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ionann agus mar a chéile iad tástálacha tiomána do thiománaithe le míchumas agus na tastálacha do gach tiománaí eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In other words, your test is to determine that you:</seg></tuv>
+  <tuv xml:lang="ga"><seg>I bhfocail eile, cinntítear le do thástáil go bhfuil:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Know the Rules of the Road</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Rialacha an Bhóthair ar eolas agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Possess the knowledge and skill to drive competently in accordance with these rules</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An fios agus an oilteacht agat a chuirfear ar do chumas tiomáint go hinniúil de réir na rialacha sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Drive with proper regard for the safety and convenience of other road users</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Go dtiománann tú leis an meas cuí do shabháilteacht agus do chaoithiúlacht úsáideoirí eile an bhóthair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Driving test examiners for drivers with disabilities have been specially trained to be aware of your needs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireadh oiliúint ar leith ar scrúdaitheoirí tástála tiomána do thiománaithe le míchumas lena bheith feasach ar do chuid riachtanas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(They are normally supervising driving test examiners)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Is iondúil go mbíonn siad ag maoirsiú na scrúdaitheoirí tástála tiomána eile)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In addition to increased awareness of special needs, they are also trained to ensure that if you are using an adapted vehicle, you are in control of your vehicle appropriately at all times and can operate your adapted vehicle safely on the road</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gceann ar an méadú feasachta atá acu ar riachtanais speisialta, oiltear iad chun a chinntiú; más rud é go mbaineann tú leas as feithicil oiriúnaithe, go bhfuil smacht agat ar d'fheithicil i gcónaí mar ba chóir, agus go bhfuil tú in ann d'fheithicil oiriúnaithe a úsáid go sabháilte ar an mbóthar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Facilities for drivers with special needs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áiseanna do thiománaithe le riachtanais speisialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most driving test centres in Ireland are wheelchair-accessible</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is inrochtana do chathaoir rotha mórchuid na n-ionad tástála tiomána in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Given that some drivers with disabilities would prefer not to conduct the first part of their test in the centre, it is possible to have this part (i.e., the part where you are examined on your knowledge of the Rules of the Road) in your vehicle</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ós rud é gurbh fhearr le roinnt de na tiománaithe le míchumas gan an chéad chuid dá dtástáil a dhéanamh istigh san ionad féin, is féidir an chuid seo (.i</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can of course opt to be tested on your knowledge of the Rules of the Road in the test centre if you wish</seg></tuv>
+  <tuv xml:lang="ga"><seg>an chuid ina ndéantar tástáil ort faoi d'eolas ar Rialacha an Bhóthair) a reachtáil i d'fheithicil féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Check with your test centre in advance to see if they can facilitate wheelchair access if you would prefer this option</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seiceáil le d'ionad tástála roimhré féachaint an féidir leo rochtain do chathaoir rotha a éascú dá mb'fhearr leat an rogha sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are deaf or hard of hearing, you are allowed to have an interpreter accompany you for the first part of the test</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más duine bodhar nó duine lagéisteachta tú, ceadófar d'ateangaire dul in éineacht leat don chéad chuid den tástáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your interpreter cannot be your driving instructor and he or she cannot accompany you on the other practical part of your test (i.e., the test of your driving skills)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir le do theagascóir tiomána a bheith mar ateangaire duit agus ní féidir leo dul in éineacht leat ar an gcuid phraicticiúil eile den tástáil (.i</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The tester may show written instructions for the first part of the test and display them as appropriate; the tester may also use basic sign language</seg></tuv>
+  <tuv xml:lang="ga"><seg>an tástáil ar d'oilteachtaí tiomána). Féadann an tástálaí treoracha scríofa a thaispeáint don chéad chuid den tástáil agus iad a chur ar taispeáint mar is cuí; féadann an tástálaí leas a bhaint as teanga bhunúsach na gcomharthaí freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should also note that if the vehicle you present for the test is adapted to suit a disability (e.g., it has additional controls), this will be signified on your full driving licence via code numbers</seg></tuv>
+  <tuv xml:lang="ga"><seg>go bhfuil breis rialtán (cnaipí, troitheáin srl.) curtha ann), ba chóir go dtabharfá faoi deara, freisin, go gcomharthófar é seo ar do láncheadúnas tiomána trí uimhreacha cóid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is possible to apply for your driving test to be conducted through Irish</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir cur isteach le do thástáil tiomána a reachtáil trí mheán na Gaeilge</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(You will need to complete the Irish language version of the application form and submit as normal)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Ní foláir duit an leagan Gaeilge den fhoirm iarratais a chomhlánú agus a chur isteach mar is gnách)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Practical test of driving skills</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tástáil phraicticiúil ar oilteachtaí tiomána</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Before your driving test commences, the examiner will ask to see your licence and ask you to sign a form stating that the car is both roadworthy and insured</seg></tuv>
+  <tuv xml:lang="ga"><seg>Iarrfar an scrúdaitheoir ort, sula dtosóidh do thástáil tiomána, do cheadúnas tiomána a fheiceáil agus foirm a shíniú á dearbhú gur fiúntach don bhóthar é agus go bhfuil árachas ar an gcarr</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will then have to answer some random questions from the Rules of the Road and explain how to do some technical checks</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh ort roinnt ceisteanna randamacha a fhreagairt ó Rialacha an Bhóthair agus a mhíniú conas a dhéanamh ar roinnt seiceálacha teicniúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You now begin the practical test of your driving skills</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tosóidh tú ansin leis an tástáil phraicticiúil ar d'oilteachtaí tiomána</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Driving testers are aware that drivers with disabilities driving adapted vehicles may take a little longer to complete some manoeuvres than other drivers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is feasach do scrúdaitheoirí tiomána go bhféadfadh tiománaithe le míchumas, agus a thiománann feithiclí ar oiriúnaithe iad, ábhairín níos mó ama a ghlacadh i gcomhlánú roinnt beart seachas tiománaithe eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This does not mean that you are authorised to drive slower during your test; you are required to maintain the same progress on the road in line with national speed limits as all other drivers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chiallaíonn sé sin gur údaraithe le tiomáint níos moille i rith do thástáil tiomána tú; ní foláir duit an dul chun cinn céanna a choinneáil ar na bóithre ag cloí leis na teorainneacha náisiúnta luais mar aon le gach tiománaí eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Instead, you are allowed a little more time to demonstrate that you have adequate control of your vehicle and can drive on public roads with due regard for the safety of others</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina ionad sin, ceadaítear beagáinín breise ama duit chun a thaispeáint go bhfuil an smacht iomchuí agat ar d'fheithicil agus gur féidir leat tiomáint ar bhóithre poiblí le meas leordhóthanach do shabháilteacht daoine eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In addition, drivers who are deaf or hard of hearing are also given a little longer to go through the practical test of skills than other drivers in the event of any communication difficulties</seg></tuv>
+  <tuv xml:lang="ga"><seg>Lena chois sin, tugtar beagáinín níos mó ama do thiománaithe ar bodhar nó ar tiománaithe lagéisteachta iad seachas tiománaithe eile chun dul ar aghaidh leis an tástáil phraicticiúil ar oilteachtaí sa chás go n-éireodh deacrachtaí cumarsáide aníos sa tástáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will be given clear instructions throughout the test, but if you do not understand something, ask the examiner to repeat it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabharfar treoracha soiléire chugat i gcaitheamh na tástála, ach mura dtuigeann tú rud éigin, iarr ar an scrúdaitheoir é a athrá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Do not panic if you make a mistake during the test</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ná cuir scaoll ort féin má dhéanann tú meancóg i rith na tástála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It may not be as serious as you think and it may not mean that you have failed</seg></tuv>
+  <tuv xml:lang="ga"><seg>B'fhéidir nach chomh tromchúiseach agus a cheapann tú é, agus b'fhéidir nach gciallódh sé gur theip ort</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will be assessed in the following situations: moving off, driving in traffic, stopping, reversing round a corner, a turn about, a hill-start and parking</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfar measúnú ort sna cúinsí seo a leanas: an bogadh chun siúil, an tiomáint i lár tráchta, an stopadh, an cúlú timpeall cúinne, an casadh timpeall, tosach ar chnoc agus an pháirceáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The aspects of your driving that will be assessed include road positioning; overtaking and passing; anticipation and observation; use of mirrors and signals; progress; speed; compliance with traffic lights, road signs and road markings and proper use of your vehicle controls</seg></tuv>
+  <tuv xml:lang="ga"><seg>I measc na ngnéithe de do chuid tiomána a ndéanfar measúnú orthu atá aimsiú do shuímh ar an mbóthar; do scoitheadh agus do ghabháil thar ghluaisteáin eile, do chuid cumas oirchille (cúinsí a mheas roimhré) agus breathnóireachta; an leas a bhaineann tú as na scátháin agus as comharthaí; do dhul chun cinn; do luas; do chloí le soilse tráchta, le comharthaí bóthair agus le marcanna bóthair agus an leas cuí a bhaineann tú as rialtáin d'fheithicle</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>At some point during your test, the examiner will ask you to demonstrate your hand signals unless a physical disability prevents this demonstration</seg></tuv>
+  <tuv xml:lang="ga"><seg>Iarrfaidh an scrúdaitheoir ort, ag pointe áirithe le linn na tástála, do chuid comharthaí láimhe a thaispeáint mura gcuireann míchumas fisiciúil cosc ort</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can also expect to make a number of left and right turns, encounter a roundabout and stop at traffic lights</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú a bheith ag súil, freisin, le roinnt castaí ar chlé agus ar dheis a dhéanamh, le bualadh le timpealláin agus le teacht chun staid ag soilse tráchta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you return to the test centre, you have the option of receiving your results in your vehicle or the examiner will bring you back into the examination room to give you the result</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a fhillfidh tú ar an ionad tástála, beidh an rogha agat do chuid torthaí a fháil i d'fheithicil nó tabharfaidh an scrúdaitheoir ar ais isteach i seomra na scrúdúithe tú leis an toradh a thabhairt duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you pass, you will be given a Certificate of Competency, which is valid for 2 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má éiríonn leat pas a bhaint amach, tabharfar Teastas Inniúlachta duit, ar bailí le haghaidh 2 bhliain é</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you fail to apply for a full licence during this 2-year period, you will have to complete your driving test again</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má mhainníonn tú cur isteach ar láncheadúnas le linn na tréimhse 2 bhliain sin, beidh ort do thástáil tiomána a chomhlánú in athuair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you fail your driving test, you will be given a detailed list of your mistakes, which you should study and rectify before you sit another driving test</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má theipeann ort i do thástáil, tabharfar liosta mionsonrach duit le do chuid meancóg air, liosta ar cheart duit staidéar a dhéanamh ar na meancóga ann agus a chur ina gceart sula ndéanfaidh tú tástáil tiomána eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are a number of things all drivers need to do in preparation for your driving test and a number of legal requirements you must comply with</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá roinnt nithe ann nach foláir do gach tiománaí a dhéanamh i gcomhair do thástála tiomána agus tá roinnt riachtanas dlíthiúil ann nach mór duit cloí leo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You must have a current learner permit to sit a driving test</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní mór ceadúnas sealadach reatha a bheith agat chun tástáil tiomána a shuí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Current motor tax and motor insurance discs and an NCT certificate (if applicable) must be displayed on the vehicle you are using</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní mór dioscaí reatha mótarchánach agus árachais mhótair agus teastas NCT (más infheidhmithe é) a bheith ar taispeáint ar an bhfeithicil atá tú á húsáid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• L-plates should be displayed on the front and rear of the vehicle</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ba chóir go mbeadh plátaí-L ar taispeáint ar thosach agus ar chúl na feithicle</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The vehicle should be roadworthy, for example, all tyres should have a minimum depth of 1.6mm - the legal thread depth limit for tyres in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ba cheart gurbh fhiúntach don bhóthar an fheithicil agus go mbeadh íosdoimhneacht 1.6 mm - an teora dlíthiúil do dhoimhneacht na snáitheacha boinn in Éirinn - ar gach bonn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Everything should be in perfect working order, e.g., windscreen wipers, indicators, mirrors, etc</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ba cheart go mbeadh gach ní i bhfearas foirfe chun oibre, m.sh. glantóirí an scáileáin ghaoithe, táscairí, scátháin, srl</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The examiner will check the indicators and brake lights before your practical driving test</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seiceálfaidh an scrúdaitheoir na táscairí agus soilse na gcoscán roimh do thástáil tiomána phraicticiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The interior and exterior of your car should be clean</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ba chóir go mbeadh do charr glan laistigh agus lasmuigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The appropriate fee for the category of test must accompany your driving test application</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór an táille iomchuí i gcomhair na catagóire tástála a bheith i dteannta le d'iarratas ar an tástáil tiomána</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The fee for motorcycles and cars is €85</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an táille do ghluaisrothair agus gluaisteáin € 85</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For all other categories the fee is €120</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás gach catagóir eile go bhfuil an táille € 120</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can pay by cheque, postal order or money order</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú íoc le seic, le hordú poist nó le hordú airgid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These should be crossed and made payable to the Road Safety Authority</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir go grosálfaí iad seo agus iad a chur iníoctha chuig An tUdarás Um Shábháilteacht Ar Bóithre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can apply and pay for your driving test online here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú cur isteach agus íoc ar do thástáil tiomána ar líne anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will require a credit card to do this (VISA or Mastercard)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh cárta creidmheasa de dhíth ort lena aghaidh seo - ceann VISA nó ceann Mastercard</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You also need to have a valid e-mail address</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór seoladh bailí ríomhphoist a bheith agat freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Alternatively, you can download a driving test application form (pdf) here, or obtain a copy from your local Motor Taxation Office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ta malairt rogha agat, áfach; agus is féidir leat foirm iarratais a íosluchtú (pdf) ón tUdarás Um Shábháilteacht Ar Bóithre nó is féidir leat cóip a fháil ón Oifig Mótarchánach is áitiúla duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The correct fee must accompany your completed application form</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór an táille cheart a bheith i dteannta le d'fhoirm iarratais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Ten days notice must be given if you need to cancel your driving test; otherwise your fee is forfeit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart go dtabharfá deich lá d'fhógra má theastaíonn uait do thástáil tiomána a chur ar ceal; nó beidh do tháille forghéillithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may cancel two appointments without forfeiting your fee or having to make a new application</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadann tú dhá choinne a chur ar ceal gan do tháille a fhorghéilleadh ná gan iarratas nua a dhéanamh</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Case study 1: Calculating your pension under EU social security agreements</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cás-staidéar 1: Do phinsean a ríomh faoi chomhaontuithe slándála sóisialaí an AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This example shows how entitlement to State Pension (Contributory) is calculated under EU social security agreements</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léiríonn an sampla seo conas a dhéantar teidlíocht ar Phinsean Stáit (Ranníocach) a ríomh faoi chomhaontuithe slándála sóisialaí an AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Peter is turning 66 years of age and wants to know if he will qualify for a State Pension (Contributory)</seg></tuv>
+  <tuv xml:lang="ga"><seg>An bhliain seo chugainn, beidh sé 66 bliain d’aois agus teastaíonn uaidh a fháil amach an mbeidh sé i dteideal Pinsean Stáit (Ranníocach) a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He started his working life in Ireland and worked in Ireland for 2 years in total</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a bheidh Peter ag dul ar scor, beidh 364 ranníocaíocht íoctha aige in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He has worked in Ireland for the last 5 years and before that he worked in Germany for 23 years and paid 1,196 contributions there</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bhí sé ag obair sa Ghearmáin ar feadh 23 mbliana agus d’íoc sé 1,196 ranníocaíocht ansin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He doesn't have any breaks in his employment record in Germany, that is, he worked in Germany continuously for 23 years immediately before coming back to Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní raibh aon bhriseadh ina chuid taifead fostaíochta sa Ghearmáin i ’oibrigh sé go leanúnach sa Ghearmáin ar feadh 23 mbliana sular tháinig sé go hÉirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Peter's wife Maria is 61 years of age, her only income is from work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá bean chéile Peter, Maria, 61 bliain d’aois, níl aon ioncam aici seachas a hioncam ón obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>She earns €250 per week</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tuileann sí €250 in aghaidh na seachtaine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Firstly you must check whether Peter would qualify for an Irish State Pension based on his Irish contributions alone</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is éard atá ann ná ráta an Phinsin Stáit (Ranníocach) a bheadh Peter i dteideal a fháil dá ndéanfaí a ranníocaíochtaí ar fad a mheasúnú mar ranníocaíochtaí Éireannacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Peter's Irish contributions: 364</seg></tuv>
+  <tuv xml:lang="ga"><seg>Líon iomlán na ranníocaíochtaí inmheasúnaithe ar fad atá ag Peter: 364 + 1,196 = 1,560 ranníocaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Total number of years worked (since entering into insurable employment to the end of the last complete tax year before reaching pension age): 40 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Líon iomlán na mblianta a oibríodh = 40 bliana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Total number of contributions by the number of years worked: 364 ÷ 40 = 9.1</seg></tuv>
+  <tuv xml:lang="ga"><seg>Líon iomlán na ranníocaíochtaí roinnte faoi líon na mblianta a oibríodh: 1,560 ÷ 40 = 39</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Peter's yearly average number of contributions is 9.1</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dá bhrí sin is ionann a ráta barúlach pinsin agus ráta uasta an Phinsin Stáit (Ranníocach) de €209.70</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He would not qualify for an Irish State Pension (Contributory)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an méadú dá bhean chéile mar dhuine aosaithe cáilithe ná €59.40.   Móide</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Calculate Peter’s notional rate of pension</seg></tuv>
+  <tuv xml:lang="ga"><seg>A = an ráta barúlach pinsin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To calculate the notional rate of pension, find the total of all Peter’s contributions (both foreign and Irish) divided by the number of years since he entered into insurable employment to get his yearly average</seg></tuv>
+  <tuv xml:lang="ga"><seg>C = líon iomlán na ranníocaíochtaí (Éireannacha agus eachtracha)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Total of all Peter's assessable contributions: 364 +1,196 = 1,560 contributions</seg></tuv>
+  <tuv xml:lang="ga"><seg>€269.10 x 364 = €97,952</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Total number of years since entering into insurable employment to the end of the last complete tax year before reaching pension age: 40 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ansin déan €97,952 a roinnt faoi líon iomlán na ranníocaíochtaí Éireannacha agus Briotanacha a ríomhamar níos luaithe mar 1,560 ceann:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Peter's notional rate of pension is €209.70 (the rate paid in 2016 for people with a yearly average of contributions between 30 and 39)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigheann Peter ráta an Phinsin Stáit (Ranníocach) de €62.79 lena n-áirítear méadú dá bhean chéile mar dhuine aosaithe cáilithe</seg></tuv>
+</tu>
+</body>
+</tmx>

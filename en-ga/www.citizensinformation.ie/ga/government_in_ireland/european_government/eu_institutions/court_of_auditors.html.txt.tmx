@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>The Court of Auditors has its headquarters in Luxembourg and is composed of 28 members, one from each member state</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is sa Lucsamburg atá ceanncheathrú Chúirt na nIniúchóirí agus tá 28 ball ann, duine ó gach ballstát</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Each member state suggests a candidate who is appointed by the Council of the European Union in consultation with the European Parliament for a renewable term of 6 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Molann gach ballstát iarrthóir a cheapann an Chomhairle Aontas na hEorpa ansin i gcomhairle le Parlaimint na hEorpa ar feadh tréimhse inathnuaite de 6 bliana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Members of the Court of Auditors are independent and have experience in the field of audit of public finances</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá baill Chúirt na nIniúchóirí neamhspléach agus bíonn taithí acu iniúchadh a dhéanamh ar airgead poiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The court members elect their president for a term of 3 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Toghann Baill na Cúirte Uachtarán ar feadh tréimhse 3 bliana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The main task of the Court of Auditors is to audit the accounts and oversee the implementation of the budgets of the institutions of the European Union</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé mar phríomhdhualgas ag Cúirt na nIniúchóirí iniúchadh a dhéanamh ar chuntais agus breathnú i ndiaidh cur i bhfeidhm na mbuiséad in institiúidí Aontas na hEorpa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It aims to improve financial management of EU money and to report to EU citizens on how EU money is used</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé mar aidhm aici bainistíocht airgeadais a fheabhsú maidir le airgead an Aontais agus tuairisc a chur ar fáil do shaoránaigh an AE maidir leis an mbealach ina gcaitear airgead an AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It draws up an annual report at the end of each financial year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann sí tuairisc bhliantúil le chéile ag deireadh na bliana airgeadais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is forwarded to the other institutions and must be published in the Official Journal of the Community so that any person can study the budget and spending of any particular EU institution</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirtear an tuairisc seo ar fáil do na hinstitiúidí eile agus ní mór í a fhoilsiú in Iris Oifigiúil an Chomhphobail ionas gur féidir le duine ar bith scrúdú a dhéanamh ar an mbuiséad agus ar chaiteachas aon institiúide de chuid an AE</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Apart from the European Union, the Oireachtas is the only institution in Ireland with power to make laws for the State</seg></tuv>
+  <tuv xml:lang="ga"><seg>Taobh amuigh de Aontas na hEorpa, níl an chumhacht ag aon institiúid dlíthe a dhéanamh don Stát seo ach amháin ag an Oireachtas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Oireachtas consists of the President, and the 2 Houses of the Oireachtas: Dáil Eireann and Seanad Eireann</seg></tuv>
+  <tuv xml:lang="ga"><seg>San Oireachtas tá an tUachtarán, agus 2 theach an Oireachtais: Dáil Éireann agus Seanad Éireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A new law starts life as a Bill</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bille a thugtar ar dhlí nua i dtosach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A Bill is a proposal for legislation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Moladh chun reachtú atá sa bhille</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Apart from Private Members' Bills, Bills are usually initiated by the Government</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad an Rialtas, de ghnáth, a mholann Bille ach amháin i gcás Billí na mBall Príobháideach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A Bill may be commenced in either the Dáil or the Seanad but it must be passed by both Houses to become law</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le bille teacht ón Dáil nó ón Seanad ach ní mór don dá theach é a cheadú sula ndéantar dlí de</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Usually, Bills are commenced in Dáil Eireann</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ó Dháil Éireann, de ghnáth, a thagann na billí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Usually there will be a process of consultation with government departments and groups likely to be affected by the Bill</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceadaíonn an Rialtas a bhfuil sa Bhille sula gcuirtear ós cómhair na Dála é</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(Examples of these groups are voluntary organisations, lobby groups or members of the public.)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn próiséas caidrimh ann, de ghnáth, ar dtús leis na ranna rialtais agus le grúpaí éagsúla go mbaineann an bille leo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Sometimes, the Government will publish a Green Paper</seg></tuv>
+  <tuv xml:lang="ga"><seg>Uaireanta, foilsíonn an Rialtas Paipéar Glas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A Green Paper is a discussion document setting out ideas and inviting comment and views from individuals and relevant organisations</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa Phaipéar Glas tugtar deis do dhaoine agus do ghrúpaí éagsula a dtuairm a thabhairt faoin mBille agus é a phlé go mion</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Bill is then put before the Dáil for a general debate on the principles of the Bill</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirtear an Bille ansin ós cómhair na Dála le deis a thabhairt do Bhaill iomlán na Dála an Bille a phlé</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Members of the Dáil may make suggestions for amendments and additions to the Bill</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le Baill na Dála athruithe a mholadh nó píosa a chuir leis an mbille le linn an ama seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Bill is then sent to committees to be examined section by section</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirtear an Bille ansin chuig na Coistí chun go ndéanfar mionscrúdú ar gach rannóg ann féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>After the committee stage, more amendments may be made to the Bill</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina dhiaidh sin is féidir leasú a dhéanamh ar an mBille, freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is known as the report stage</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar céim na tuarascála air</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The final stage in the process is a debate in the Dáil, confined to the contents of the Bill</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl fágtha, ansin, ach go ndéanfaí díospóireacht sa Dáil ar ábhar an Bhille</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The members of the Dáil will then vote on whether to pass the Bill</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh Baill na Dála vóta, ansin, i bhfábhar an Bhille nó ina aghaidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Bill will then be sent down to the Seanad to go through the entire process of debate and committee examination again</seg></tuv>
+  <tuv xml:lang="ga"><seg>Téann an Bille ansin chuig an Seanad chun dul tríd an bpróiséas céanna aríst maidir le díospóireacht agus le Coistí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Seanad has 90 days (or any longer period agreed by both Houses) to consider the Bill and do one of the following:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá 90 lá ag an Seanad (nó níos mó má aontaíonn an dá Theach Oireachtais air) chun an Bille a phlé agus ceann díobh seo a leanas a dhéanamh:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Pass the Bill without any amendment or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Glacadh leis an mBille gan aon leasú a dhéanamh nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Reject the Bill completely or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An Bille a chaitheamh amach ina iomlán nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Return the Bill to the Dáil with amendments</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An Bille a chuir ar ais chun na Dála chun leasuithe a dhéanamh ar an mBille</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the Seanad rejects the Bill or returns it to the Dáil with amendments that the Dáil does not accept, the Bill will lapse after 180 days</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chaitheann an Seanad amach an Bille nó má chuireann said an Bille ar ais chun na Dála le leasuithe nach nglacfaidh an Dáil leo imíonn an Bille as feidhm tar éis 180 lá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Dáil may, within those 180 days, pass a resolution declaring that the Bill is deemed to have been passed by both Houses</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis an Dáil, áfach, taobh istigh den tréimhse ama sin rún a chuir ós cómhair na Dála ag rá go bhfuil glactha leis an reachtú ag an Seanad agus an Dáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This provision means that the Seanad cannot generally stop the Dáil from introducing legislation – it can only cause delays</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cialaíonn an riail seo nach féidir leis an Seanad an Dáil a stopadh ag cuir dlíthe i bhfeidhm ach gur féidir leo moill a chuir ar an reachtú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Money Bills are Bills that relate to taxation or relate to spending by the Government</seg></tuv>
+  <tuv xml:lang="ga"><seg>Billí Airgid a thugtar ar bhillí a bhaineann le Cáin nó le caiteachas an Rialtais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Seanad has only 21 days to consider these Bills</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl ach 21 lá ag an Seanad chun an cinéal seo Billí a phlé agus cinneadh a dhéanamh futhu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Once the Bill has been passed by both Houses, the Taoiseach presents a copy of the Bill to the President for signature. Once the President has signed the Bill it becomes an Act and has legal force</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a ghlacann an dá theach leis an mBille, tugann an Taoiseach cóip den Bhille chuig an Uachtarán chun síniú agus ansin is Acht atá sa Bhille agus tá cumhacht dlí aige</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can view all Irish legislation 1922 to date here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú iomlán reachtaíocht Éireannach ó 1922 go dtí sin a fheiceáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When the Bill comes to the President for signature, they do have an important power</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair tagann an Bille chuig an Uachtarán chun síniú, tá cumhacht faoi leith ag an Uachtarán maidir leis an mBille</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If they consider that the new Bill may conflict with the Constitution, they may, after consultation with the Council of State, refer the question of whether or not the Bill is constitutional to the Supreme Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má cheapann sé nó sí go bhfuil an Bille Nua in aghaidh an Bhunreachta , is féidir leis nó léi tar éis comhairle a fháil ón gComhairle Stáit, an Bille a chuir ar aghaidh chuig an gCúirt Uachtarach chun a chinntiú nach bhfuil an Bille ag dul in aghaidh an Bhunreachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Supreme Court must then decide whether or not the Bill is constitutional before it can be made law</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní dhéanfar dlí den Bhille go dtí go ndeireann an Chúirt Uachtarach go bhfuil an Bille ag cloí leis an mBunreacht</seg></tuv>
+</tu>
+</body>
+</tmx>

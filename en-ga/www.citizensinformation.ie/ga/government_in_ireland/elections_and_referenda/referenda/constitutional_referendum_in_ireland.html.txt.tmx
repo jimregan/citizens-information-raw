@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>The Irish Government cannot introduce legislation in Ireland that conflicts with Bunreacht na hEireann (the basic law or Constitution of the country). Sometimes it is necessary therefore, to change or amend the Constitution</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leis an rialtas reachtaíocht a thabhairt isteach má tá sí in aghaidh an bhunreachta mar sin amanna bíonn athruithe nó leasuithe ar an mBunreacht ag teastáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Each time the Government wishes to change or amend the Constitution, it must do it by holding a referendum</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gach uair atá an Rialtas ag iarraidh athraithe nó leasaithe a dhéanamh ar an mBunreacht, ní foláir dó é sin a dhéanamh trí reifreann a eagrú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A referendum gives the people of Ireland the opportunity to express their opinion and vote for or against the proposed change or amendment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann reifreann deis do mhuintir na hÉireann vótáil ar son nó in aghaidh an athraithe nó an leasaithe atá beartaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In order to call a constitutional referendum, a proposal to amend the Constitution must be introduced in the Dáil as a Bill</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun reifreann a fhógairt, ní foláir an moladh chun athrú a dhéanamh ar an mBunreacht a thabhairt isteach sa Dáil mar Bhille</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Bill sets out the proposed amendment to the Constitution</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann an Bille cur síos ar an leasú bunreachtúil atá beartaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Bill must be passed by both the Dáil and the Seanad</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh an Dáil agus an Seanad araon glacadh leis an mBille</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Bill is then submitted to the people so that they can vote for or against it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ansin cuirtear an Bille os comhair an phobail ionas go mbeidh siad in ann vótáil ar a shon nó ina aghaidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the majority of the votes cast at the referendum are in favour of the change, the Bill is signed by the Irish President and the Constitution is then amended</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tromlach na vótaí a caitheadh sa Reifreann i bhfabhar an athraithe, síníonn an tUachtarán an Bille agus déantar leasú ar an mBunreacht ansin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read more about the President and legislation here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leigh tuilleadh faoin tUachtarán agus reachtaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A list of referenda is available on the Department of the Taoiseach's website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá liosta de na reifrinn ar fáil ar shuíomh gréasáin na Roinne an Taoisigh</seg></tuv>
+</tu>
+</body>
+</tmx>

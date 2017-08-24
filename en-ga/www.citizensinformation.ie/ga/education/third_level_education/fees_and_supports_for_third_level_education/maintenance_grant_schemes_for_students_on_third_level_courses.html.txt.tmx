@@ -1,0 +1,537 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>• Introduction • Qualifying for a student grant</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag cáiliú do dheontas do mhac léinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• How to apply • Where to apply</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Conas iarratas a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Approved courses and institutions</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cá háit a ndéanfaidh mé iarratas?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The student grant scheme is the main financial support for students</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is í an scéim deontas mac léinn an phríomhthacaíocht airgeadais do mhic léinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The scheme is governed by legislation made under the Student Support Act 2011</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an scéim rialaithe ag an reachtaíocht a dhéantar faoin Acht um Thacaíocht do Mhic Léinn, 2011</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Student grants are divided into maintenance grants, fee grants and the postgraduate contribution</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá deontais mhac léinn roinnte ina ndeontais chothabhála, deontais táillí agus an ranníocaíocht mhac léinn iarchéime</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This document only deals with undergraduates</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní dhéileáiltear sa cháipéis seo ach le fochéimithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Postgraduates can get information about financial assistance in our document, Postgraduate student grants</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh iarchéimithe faisnéis a fháil faoi chúnamh airgeadais inár gcáipéis, deontais mhac léinn iarchéime</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Since 1 September 2015, school leavers who have been in the asylum protection system for 5 years and meet certain criteria can apply for student supports under the Pilot Student Support Scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ón 1 Meán Fómhair 2015 ar aghaidh, féadfaidh fágóirí scoile a bhíonn sa chóras cosanta tearmainn ar feadh 5 bliana agus a shásaíonn critéir áirithe iarratas a dhéanamh ar thacaíochtaí mac léinn faoin Scéim Tacaíochta Mac Léinn Píolóta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Other financial supports to students: There is detailed information on the range of grants and funds for students in further and higher education on the website studentfinance.ie for example it has details of the Fund for Students with Disabilities, the Student Assistance Fund and some third-level scholarships</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tacaíochtaí eile airgeadais do mhic léinn: Tá faisnéis mhionsonraithe ann ar an réimse deontas agus cistí atá ann do mhic léinn i mbreisoideachas agus in ardoideachas ar an láithreán gréasáin studentfinance.ie, mar shampla, tá sonraí ann ar an gCiste do Mhic Léinn atá faoi Mhíchumas, an Ciste um Chúnamh Mac Léinn agus roinnt scoláireachtaí tríú leibhéal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A maintenance grant is a contribution towards the student’s living costs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ranníocaíocht do chostais maireachtála an mhic léinn atá sa deontas cothabhála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Students who started or are starting courses from the academic year 2010-2011 onward do not qualify for a maintenance grant if they are on a Back to Education Allowance or VTOS allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní cháilíonn mic léinn a thosaigh nó atá ag tosú ar chúrsaí ón mbliain acadúil 2010-2011 ar aghaidh le haghaidh deontais cothabhála má tá siad ag fáil Liúntas um Filleadh ar Oideachas nó Liúntas VTOS</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Maintenance grants are available for approved courses below graduate level in Ireland and other EU states</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá deontais chothabhála ar fáil do chúrsaí formheasta atá níos ísle ná leibhéal na céime in Éirinn agus stáit eile de chuid an AE agus do chúrsaí iarchéime formheasta in Éirinn agus i dTuaisceart Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A fee grant can cover any of the following 3 elements:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le deontais táillí aon cheann de na heilimintí seo a leanas a chlúdach:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• All or part of the student contribution</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Táillí teagaisc ar fad nó cuid dóibh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Costs of essential field trips</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cuid de ranníocaíocht an mhic léinn nó í ar fad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• All or part of a student’s tuition fees (unless covered by the Free Fees Scheme)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Na costais a bhaineann le turais páirce riachtanacha (mura gcuimsítear iad faoin Scéim um Tháillí Saor in Aisce)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In general, if you qualify for a maintenance grant you will qualify for all elements of the fee grant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, má tá tú i dteideal deontais cothabhála beidh tú i dteideal gach eilimint den deontas táillí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, you will not get the tuition element of a fee grant if you already qualify for free tuition under the Free Fees Schemes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach ní bhfaighidh tú an chuid teagaisc de dheontas táillí má tá tú i dteideal teagaisc shaor in aisce faoi na Scéimeanna um Tháillí Shaor in Aisce</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may qualify for a fee grant, but not a maintenance grant, if you are a 'tuition student' under the Student Grant Scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfá cáiliú do dheontas táillí, seachas do dheontas cothabhála, más mac léinn thú ar a nglaoitear ‘mac léinn teagaisc’ faoi Scéim Deontais na Mac Léinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A tuition student is someone who fulfils all the conditions for a student grant except for residence in the State, but who has been resident in an EEA state or Switzerland for 3 of the last 5 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is éard is mac léinn teagaisc ann duine a shásaíonn na coinníollacha uile do dheontas mac léinn seachas cónaí sa Stát, ach ar a raibh cónaí i stát den LEE nó san Eilvéis ar feadh 3 bliana de na 5 bliana dheireanacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Students doing Post-Leaving Certificate (PLC) courses do not get fee grants, but if you qualify for a maintenance grant you will be exempt from the PLC participant contribution</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní fhaigheann mic léinn atá ag tabhairt faoi chúrsaí Iar-Ardteistiméireachta (PLC) deontais táillí, ach má cháilítear thú do dheontas cothabhála, beidh tú díolmhaithe ón ranníocaíocht do rannpháirtithe PLC</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Fee grants are available for approved courses below graduate level in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá deontais táillí ar fáil do chúrsaí formheasta atá níos ísle ná leibhéal na céime in Éirinn agus do chúrsaí iarchéime formheasta in Éirinn agus i dTuaisceart Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, there are no fee grants for courses elsewhere in the EU</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach, ní aon deontas táillí do chúrsaí i mballstáit eile de chuid an AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>See 'Approved courses and institutions' below for further detail</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féach ‘Cúrsaí agus institiúidí formheasta’ thíos le haghaidh tuilleadh sonraí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Qualifying for a student grant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag cáiliú do dheontas do mhac léinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To qualify for a student grant, you must fulfil the conditions of the scheme as regards:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun a bheith i dteideal dheontas mac léinn, ní mór duit coinníollacha na scéime a shásamh i leith:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Nationality and immigration status</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Náisiúntacht agus stádas inimirce</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must also be attending an approved course in an approved institution – see ‘Approved courses and institutions’ below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit a bheith ag freastal ar chúrsa formheasta in institiúid fhormheasta – féach ‘Cúrsaí formheasta agus institiúidí formheasta’ thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are detailed conditions about the level of the course you are attending; whether you have attended a course at the same level already; and whether the course represents progression from your previous studies</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is coinníollacha cruinn iad seo maidir le leibhéal a chúrsa ar a bhfuil tú ag freastal; más rud é gur fhreastal tú ar chúrsa den leibhéal céanna cheana’ agus más rud é go seasann an cúrsa mar dhul chun cinn ón staidéar atá déanta agat cheana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In general, you will not get a grant for repeating a year or attending a course at a level that does not represent progression from what you have done before</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, ní bhfaighidh tú deontas chun bliain a dhéanamh in athuair nó chun freastal ar chúrsa nach seasann do dhul chun cinn ón méid atá déanta agat cheana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, second-chance students may be eligible for a grant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach, d’fhéadfadh ‘mic léinn dara seans’ a bheith i dteideal deontais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A second-chance student is someone who is aged over 23, did not successfully complete an earlier course and is returning to pursue an approved course after a full break in studies of at least 5 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is éard is ‘mac léinn dara seans’ ann ná duine atá níos sine ná 23 bliain, nár chríochnaigh cúrsa go rathúil cheana agus atá ag filleadh ar chúrsa formheasta tar éis 5 bliana ar a laghad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you qualify for a maintenance grant, you will qualify for all relevant elements of a fee grant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú i dteideal deontais cothabhála beidh tú i dteideal gach eilimint chuí den deontas táillí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may qualify for a fee grant, but not a maintenance grant, if you are what is called a tuition student under the Student Grant Scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfá cáiliú do dheontais táillí, seachas deontas cothabhála, más mac léinn thú ar a nglaoitear ‘mac léinn teagaisc’ faoi Scéim Deontais na Mac Léinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A tuition student is someone who fulfils all the conditions for a student grant except for residence in the State, but who has been resident in an EEA state or Switzerland for 3 of the last 5 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is éard is mac léinn teagaisc ann duine a shásaíonn na coinníollacha uile do dheontas mac léinn seachas cónaí sa Stát, ach ar a raibh cónaí i stát den LEE nó san Eilvéis ar feadh 3 bliana de na 5 bliana dheireanacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Nationality and immigration status</seg></tuv>
+  <tuv xml:lang="ga"><seg>Náisiúntacht agus stádas inimirce</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In order to get a student grant you must be a national of an EEA member state or Switzerland or have immigration status or leave to remain which is one of the following:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun deontas mac léinn a fháil, ní mór duit bheith i do náisiúnach de bhallstát den LEE nó den Eilvéis nó stádas inimirce nó cead a bheith agat chun fanacht, agus ceann amháin de na ceanglais a leanas a chomhlíonadh:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Family member of one of the above, with permission to remain in the State as a family member of such person under the European Communities (Free Movement of Persons) Regulations 2015 and EU Treaty rights provisions</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bheith i do dhuine muinteartha le duine de na daoine thuas, a bhfuil cead agat chun fanacht sa Stát mar dhuine muinteartha an duine sin faoi fhorálacha Rialacháin na gComhphobal Eorpach (Saorghluaiseacht Daoine), 2006 agus 2008 agus cearta Conartha an AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Humanitarian leave to remain in the State before the Immigration Act 1999 came into effect</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cead daonnúil a bheith agat chun fanacht sa Stát sular tháinig an tAcht Inimirce, 1999 i bhfeidhm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Foreign nationals granted leave to remain under the Irish Born Child scheme - IBC/05 are not eligible</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl náisiúnaigh iasachta ar deonaíodh cead dóibh fanacht faoin scéim um Leanaí a Rugadh in Éirinn – LRÉ/05 incháilithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Permission to reside in the State under the European Union (Subsidiary Protection) Regulations 2013</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cead a bheith agat chun fanacht sa Stát faoi Rialacháin an Aontais Eorpaigh (Cosaint Choimhdeach), 2013</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Permission to remain following a determination not to make a deportation order</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cead a bheith agat chun fanacht i ndiaidh go ndearnadh cinntiúchán gan ordú díbeartha a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Permission to remain in the State by virtue of marriage to, or civil partnership with, an Irish national living here or be the dependent child of a person with such permission</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cead chun fanacht sa Stát de bhua pósta le, nó páirtnéireacht shibhialta le, náisiúnach Éireannach a chónaíonn anseo nó bheith mar leanbh cleithiúnach duine ag a bhfuil an cead sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must have been ordinarily resident in the State for 3 of the previous 5 years to qualify for a maintenance grant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go raibh gnáthchónaí ort sa Stát ar feadh 3 bliana le 5 bliana anuas chun cáiliú do dheontas cothabhála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if you are studying elsewhere in the EU for a recognised qualification, and you were resident in the State for 3 of the 5 years before starting that course, you satisfy this requirement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áfach, má dhéanann tú staidéar ar cháilíocht aitheanta in áit eile san AE agus bhí tú i do chónaí sa Stát ar feadh 3 bliana as na 5 bliana roimh thús an chúrsa, tá an coinníoll seo sásta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you fulfil all the criteria for a maintenance grant except for the residence condition in the State, you may still qualify for a fee grant or a postgraduate fee contribution as a tuition student</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má shásaíonn tú na critéir do dheontas cothabhála seachas don choinníoll um chónaí sa Stát, d’fhéadfaí thú a cháiliú do dheontas táillí fós féin mar ‘mhac léinn teagaisc’</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A tuition student is someone who fulfils all the conditions for a student grant except for residence in the State, but who has been resident in an EEA state or Switzerland for 3 of the last 5 years.The members of the EEA (the European Economic Area) are the member states of the EU, along with Iceland, Norway and Liechtenstein</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is éard is mac léinn teagaisc ann duine a shásaíonn na coinníollacha uile do dheontas mac léinn seachas cónaí sa Stát, ach ar a raibh cónaí i stát den LEE nó san Eilvéis ar feadh 3 bliana de na 5 bliana dheireanacha. Is iad ballstáit an LEE (an Limistéar Eacnamaíoch Eorpach) na ballstát den AE, mar aon leis an Íoslainn, an Iorua agus Lichtinstéin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The means test for a student grant in 2017-2018 is based on your family's gross income for the previous full tax year (2016)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bhí an tástáil acmhainne do dheontas mic léinn i 2017-2018 bunaithe ar ollioncam do theaghlaigh ón mbliain cánach iomlán roimhe sin (2016)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if you or your family have had a change of circumstances (which is likely to be permanent) since 31 December 2016, your changed circumstances may be taken into account</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach, más rud é gur athraigh do chúinsí nó cúinsí do theaghlaigh (agus más dóchúil go bhfuil an t-athrú sin buan) ó 31 Nollaig 2016, d’fhéadfadh do chúinsí athraithe a bheith tógtha san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Reckonable income for a student grant is gross income from all sources</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ea ioncam inríofa le haghaidh deontas do mhic léinn ollioncam ó gach foinse eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some social welfare payments are excluded from 'reckonable income' for the purposes of student grants - see more details on reckonable income on susi.ie and also in the Student Grant Scheme 2017 (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá íocaíocht leasa shóisialaigh áirithe eisiata ó ‘ioncam inríofa’ ar mhaithe le deontais chothabhála – féach tuilleadh eolais ar ioncam inríofa ar susi.ie agus sa Scéim um Dheontas do Mhic Léinn 2017</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you were ordinarily resident with your parents from October 1 of the year before the year of entry to the course, you are considered dependent on your parents and your income (if any) is assessed together with your parents' income(s)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Pléitear leat mar chleithiúnach má bhí tú i do chónaí le do thuismitheoirí ó 1 Deireadh Fómhair na bliana roimh tosach an chúrsa agus meastar aon ioncaim atá agat in éineacht le ioncam do thuismitheoirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An allowance is made for your earnings outside of term-time – up to €4,500</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuillimh ó fhostaíocht lasmuigh den am téarma ceadaithe suas go €4,500</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Outside term time is 2 weeks at Christmas, 2 weeks at Easter and 12 weeks during the summer months of June, July and August only</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní hionann an t-achar lasmuigh den bhliain acadúil ach amháin coícís ag an Nollaig, coící ag an gCáisc agus 12 seachtain i rith mhíonna an tsamhraidh sa Mheitheamh, Iúil agus Lúnasa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(Holiday pay earned outside these periods may also be allowed by the grant awarding authority on receipt of a letter from the school/college confirming the exact dates of term)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(D’fhéadfadh go gceadódh an t-údarás bronnta deontais pá saoire a tuilleadh lasmuigh de na tréimhsí seo, chomh maith, i ndiaidh litir a fháil ón scoil/gcoláiste a dheimhníonn dátaí cruinne an téarma)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Independent mature candidates are candidates aged 23 or over on 1 January in the year of entry to the course</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iarrthóirí lánfhásta neamhspleácha iad na hiarrthóirí os cionn 23 bliana d'aois nach bhfuil ina gcónaí lena dtuismitheoirí ón 1 Deireadh Fómhair na bliana roimh bhliain an iarratais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To be assessed as an independent mature candidate you must also live separately from your parents from 1 October of the year before the year of entry to the course</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mac léinn neamhspleách thú déantar thú a mheasúnú de réir d'ioncaim féin (agus de réir ioncaim do chéile, pháirtnéir sibhialta nó chomhchónaitheoir)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The only points at which you can be reclassified from a dependent student to an independent student are when you:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leat athaicmiú ó mhac léinn cleithiúnach go dtí mac léinn neamhspleách ach amháin má:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Progress from further education to higher education or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tá tú ag dul chun cinn ó oideachas leanúnach go hardoideachas nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Have a 3 year break in your studies or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tá briseadh 3 bhliain i do staidéar agat nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Are returning as a second-chance student after a 5 year break in your studies</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Filleann tú mar mhac léinn dara seans tar éis briseadh 5 bliain i do staidéar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Income limits for maintenance grant and full fee grant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Teorainneacha ioncaim ar mhaithe le deontas cothabhála agus táille</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The family income limits for eligibility for a maintenance grant in 2017-2018 are set out below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá na teorainneacha ioncaim ar mhaithe le deontas cothabhála i 2017-2018 leagtha amach sa tábla thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These income limits are applied after your means are assessed - see 'Means test' above</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann na teorainneacha ioncaim seo leat tar éis go meastar d’acmhainní - féach ‘tástáil mhaoine’ thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The income limits also apply to the fee grant (that is, if you don't qualify for the free fees scheme and are eligible for a fee grant)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat bheith cáilithe le haghaidh na teorainneacha seo ar mhaithe le deontas táille freisin (má tá tú i dteideal)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Number of dependent children Full maintenance Part maintenance (75%) Part maintenance (50%) Part maintenance (25%)</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Líon na leanaí cleithiúnacha │Deontas iomlán cothabhála │Deontas laghdaithe cothabhála (75%) │Deontas laghdaithe cothabhála (50%) │Deontas laghdaithe cothabhála (25%) │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Fewer than 4 €39,875 €40,970 €43,380 €45,790</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Níos lú ná 4 │€39,875 │€40,970 │€43,380 │€45,790 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>4 to 7 €43,810 €45,025 €47,670 €50,325</seg></tuv>
+  <tuv xml:lang="ga"><seg>│4 go 7 │€43,810 │€45,025 │€47,670 │€50,325 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>8 or more €47,575 €48,890 €51,760 €54,630</seg></tuv>
+  <tuv xml:lang="ga"><seg>│8 nó níos mó │€47,575 │€48,890 │€51,760 │€54,630 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Income limits for partial fee grant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Teorainneacha ioncaim do dheontas páirt-táille</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The family income limits for eligibility for a partial fee grant in 2017-2018 are set out below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá na teorainneacha ioncaim teaghlaigh chun a bheith i dteideal deontais pháirt-táille sa bhliain 2017-2018 leagtha amach thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Number of dependent children 50% tuition fees and 100% student contribution 50% student contribution only</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Líon na bpáistí cleithiúnacha │50% táillí teagaisc agus 100% ranníocaíocht an mhic léinn │50% ranníocaíocht an mhic léinn amháin │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Fewer than 4 €49,840 €54,240</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Níos lú ná 4 │€49,840 │€54,240 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>4 to 7 €54,765 €59,595</seg></tuv>
+  <tuv xml:lang="ga"><seg>│4 go 7 │€54,765 │€59,595 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>8 or more €59,455 €64,700</seg></tuv>
+  <tuv xml:lang="ga"><seg>│8 nó níos mó │€59,455 │€64,700 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The 50% tuition fee is not payable if your fees are covered under the Free Fees Scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl an 50% le h-íoc má íoctar na táillí cheana féin tríd an Tionscnamh Saor ó Tháillí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Other family members in college</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baill eile den teaghlach ag freastal ar choláiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The reckonable income limits may be increased as follows for each additional family member who is pursuing a full-time course of at least one year’s duration:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá ball eile den teaghlach ag freastal ar chúrsa lánáimseartha ar feadh bliain amháin ar a laghad, d'fhéadfaí na teorainneacha ioncaim a ardú mar a leanas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• In full maintenance and partial fee grant categoriesby €4,830</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Deontas iomlán cothabhála agus deontas pháirt-táille: €4,830</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• In part maintenance 75%, 50% and 25% categoriesby €4,670</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Deontas laghdaithe cothabhála 75%, 50%, 25%: €4,670</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are an independent applicant, the family member taken into account is your spouse, civil partner or cohabitant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más iarratasóir neamhspleách thú, is é an ball teaghlaigh a thógtar san áireamh ná do chéile, do pháirtí sibhialta nó do chomhchónaitheoir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are dependent on your parents, the family members taken into account are your parent(s) and their other dependent children</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ag brath ar do thuismitheoirí, is iad na baill teaghlaigh a thógtar san áireamh ná do thuismitheoir(í) agus páistí cleithiúnacha eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Special rates of grants for disadvantaged students</seg></tuv>
+  <tuv xml:lang="ga"><seg>Deontais bhreise do mhic léinn faoi mhíbhuntáiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Disadvantaged students who meet a number of conditions can qualify for a special rate of maintenance grant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le mac léinn faoi mhíbhuntáiste atá in ann coinníollacha áirid a shásamh deontas breise a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Applicants must have qualified for the standard maintenance grant for the academic year 2017-2018 and total reckonable income in the tax year January to December 2016 must not be more than €23,000, not including Qualified Child Increases and standard exclusions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór do na hiarrthóirí a bheith i dteideal an ghnáthdheontais chothabhála don bhliain acadúil 2017-2018 agus ní féidir lena n-ioncam measta don bhliain chánach Eanáir–Nollaig 2016 a bheith ós cionn €23,000 glan ar Mhéadú do Leanbh Cáilithe agus na gnáthíocaíochtaí eile a ndéantar neamhaird orthu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For students, including mature students, who are assessed on parent(s)/guardian's income, their parent(s)/guardian must, on 31 December 2016, have been:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá mic léinn, mic léinn aibí san áireamh, measta ar ioncam a dtuismitheoirí/a gcaomhnóirí ní mór go raibh siad siúd ar an 31 Nollaig 2016 ag déanamh éilimh ar:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Claiming long-term social welfare payments, or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Íocaíochtaí fadtéarmacha leasa shóisialaigh, nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Claiming Family Income Supplement or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Forlíonadh Ioncaim Teaghlaigh, nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Participating in designated programmes (for example, a Community Employment Scheme)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag glacadh páirte i gcláracha ainmnithe (mar shampla,Scéim Fhostaíochta Pobail)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These payments and programmes are listed in Schedule 2 of the Student Grant Scheme 2017 (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá na híocaíochtaí agus cláir liostaithe sa Sceideal 2 na Scéime um Dheontais do Mhic Léinn 2017</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For students who are assessed on their own income, on 31 December 2016 the student must have been getting one of these social welfare payments or participating in a designated programme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá mic léinn measta ar a n-ioncam féin, ní mór go raibh siad ar an 31 Nollaig 2016 ag fáil aon cheann de na híocaíochtaí leasa shóisialaigh a luaitear thuas, nó ag glacadh páirte i gclár ainmnithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Changes in grant rates take effect in January each year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tagann athruithe ar na rátaí deontas i bhfeidhm i mí Eanáir gach bliain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Maintenance grant rates for 2017/2018</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad seo rátaí an deontais chothabhála don bhliain 2017/2018:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Type │Non-adjacent rate │Adjacent rate │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Rátaí │Ráta neamh-chóngarach │Ráta cóngarach │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Special rate │€5,915 │€2,375 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Ráta speisialta │€5,915 │€2,375 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Full Maintenance │€3,025 │€1,215 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Cothabháil iomlán │€3,025 │€1,215 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Part maintenance (75%) │€2,270 │€910 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Cothabháil laghdaithe (75%) │€2,270 │€910 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Part maintenance (50%) │€1,515 │€605 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Cothabháil laghdaithe (50%) │€1,515 │€605 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Part maintenance (25%) │€755 │€305 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Cothabháil laghdaithe (25%) │€755 │€305 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Adjacent and non-adjacent rates</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rátaí cóngaracha agus neamh-chóngaracha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For students who live 45 kilometres or less from the college being attended, the adjacent rate of maintenance grant is payable</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íoctaí an ráta cóngarach don deontas cothabhála má bhí cónaí ar an mac léinn 45 ciliméadar nó níos lú ón gcoláiste a bhfuil sé ag freastal air</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This rate applies to all students living within this distance, including all mature students, both dependent and independent</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann an ráta seo le mic léinn a bhfuil cónaí laistigh den achar seo orthu, mic léinn aibí (cleithiúnach nó neamh-chleithiúnach) san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The non-adjacent rate applies to everyone else</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann an ráta neamh-chóngarach le gach duine eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>From 3 April 2017, you can apply for a student grant for the 2017/2018 academic year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ón 3 Aibreán 2017 amach, is féidir iarratas a dhéanamh ar dheontas mac léinn i leith na bliana acadúla 2017/2018</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Since 2012, Student Universal Support Ireland (SUSI) is the single grant-awarding authority handling all new applications for student grants</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó 2012 i leith, is í Tacaíocht Chomhchoiteann do Mhic Léinn in Éirinn (SUSI) an t-údarás aonair bronnta deontais a láimhseálann gach iarratas nua ar dheontais mhac léinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All new grant applications will be made online</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfar an uile iarratas nua ar dheontas ar líne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You do not need to know the exact course you will be attending in order to apply online</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní gá a fhios a bheith agat cé'n cúrsa a mbeidh tú ag freastal air, sula ndéanann tú d'iarratas ar dheontas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can get information about applying online for a student grant for the 2017-2018 academic year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat iarratas a dhéanamh ar líne do dheontas i leith na bliana 2016-2017</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will need your Personal Public Service Number (PPSN) and an email address and phone number to apply online</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is gá duit d’Uimhir Phearsanta Seirbhíse Poiblí, uimhir bailí teileafóin agus seoladh ríomhphoist chun iarratas ar líne a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The closing date for receipt of student grant applications for the 2017-2018 academic year is 13 July 2017</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sé an dáta deiridh i gcomhair iarratais ar dheontas mic léinn le haghaidh na bliana acadúil 2017-2018 ná an 13 Iúil 2016</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>SUSI's helpdesk is handling email and telephone queries - see 'Where to apply' below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá deasc cabhrach SUSI ag déileáil le ceisteanna cheana féin, trí ríomhphost agus ar an dteileafón - féach 'Cá háit a dhéanfaidh mé iarratas' thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Renewals of existing grants will be handled by the authority that issued them initially</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás athnuachan deontais reatha, leanfaidh an t-údarás a d'eisigh an deontas cheana ar aghaidh ag déileáil leo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Student grants are reviewed each year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar athbhreithniú ar dheontas do mhic léinn gach bliain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you had a grant in one academic year and are continuing your studies on the course in the following year, the body that awarded the grant will be in contact with you in order to renew or re-assess your student grant for that next year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más rud é go raibh deontas agat in bliain acadúil amháin agus má tá tú ag leanúint ar aghaidh le do chuid staidéir ar an gcúrsa sa bhliain ina dhiadh sin, déanfaidh an comhlacht a d' íoc do dheontas teagmháil leat chun athnuachan nó athmheasúnú a dhéanamh ar do dheontas do mhic léinn don bhliain eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are considered eligible on initial assessment of your application, you will get a provisional grant approval in the post and a personalised list of the supporting documents that you need to provide</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má mheastar gur incháilithe thú tar éis measúnú tosaigh a dhéanamh ar d’iarratas, gheobhaidh tú ceadú sealadach deontais sa phost mar aon le liosta pearsantaithe de na doiciméid tacaíochta is gá duit a sholáthar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should send the necessary documents (photocopies, not originals) as soon as possible in the envelope supplied</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart duit na doiciméid riachtanacha (fotachóipeanna seachas bunchóipeanna) a sheoladh ar aghaidh a luaithe agus is féidir sa chlúdach litreach a chuirtear ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>SUSI will then process your application to award stage, subject to confirmation of your acceptance on an approved course</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfaidh SUSI d’iarratas a phróiseáil ansin chuig céim an cháiliúcháin, faoi réir deimhniú go nglacfaidh tú le háit ar chúrsa ceadaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you think that you have been unjustly refused a grant, you may appeal by writing to the organisation you applied to</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más dóigh leat gur diúltaíodh deontas duit go héagórach, is féidir leat achomharc a dhéanamh i scríbhinn chuig an eagraíocht ar chuir tú isteach orthu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must appeal within 30 days of getting your decision</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit achomharc a dhéanamh laistigh de 30 lá tar éis do chinneadh a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your appeal is turned down, and you feel that the conditions have not been interpreted correctly, you can make a further appeal</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhiúltaítear d’achomharc, agus má bhraitheann tú nár baineadh an chiall ba cheart as na coinníollacha, is féidir leat achomharc breise a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are not satisfied with the decision from an appeals officer in a grant-awarding authority you can make a further appeal to the Student Grants Appeals Board</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bheidh tú ag tosú nó ag bogadh go dtí cúrsa nua ó 2011 ar aghaidh, ba cheart duit an t-achomharc breise seo a sheoladh, laistigh de 30 lá tar éis do chinneadh a fháil, go dtí an Bord Achomhairc um Dheontais Mhic Léinn, a bunaíodh faoin Acht um Thacaíocht do Mhic Léinn, 2011</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should submit your appeal online to the Student Grants Appeals Board</seg></tuv>
+  <tuv xml:lang="ga"><seg>Comhlánaigh an fhoirm ‘Fógra Achomhairc leis an mBord Achomharc um Dheontais do Mhic Léinn’, atá ar fáil ó d’údarás cáiliúcháin deontais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your appeal must be submitted within 30 days from the date of the letter from the appeals officer in SUSI or the awarding authority</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ag leanúint le cúrsa a thosaigh tú roimh 2011, ba cheart duit an t-achomharc breise seo a sheoladh chuig an rannóg do Chothromas Rochtana ar an Ardoideachas den Roinn Oideachais agus Scileanna trí leas a bhaint as an bhfoirm ‘Fógra Achomhairc leis an Aire’, atá ar fáil ó údarás cáiliúcháin an deontais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can only appeal the outcome of a decision from an appeals officer in a grant-awarding authority to the Student Grants Appeals Board</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níor cheart duit scríobh chuig an mBord Achomharc nó chuig an Roinn Oideachais agus Scileanna más mian leat toradh achomhairc thosaigh a achomharc le húdarás cáiliúcháin an deontais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Student Universal Support Ireland (SUSI)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tacaíocht Uilíoch do Mhic Léinn, Éire (SUSI)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Tel: 0761 08 7874</seg></tuv>
+  <tuv xml:lang="ga"><seg>Teil: 0761 08 7874</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Approved courses and institutions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cúrsaí agus institiúidí ceadaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In general, the Student Grant Scheme covers all the approved courses and institutions covered by the 4 schemes it replaced. Details of what each scheme covered are below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, clúdaíonn an Scéim Deontais nua do Mhic Léinn gach cúrsa formheasta agus institiúidí clúdaithe ag na 4 scéim a d’athchuir sé</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The approved courses are prescribed in the Student Support Regulations 2017 (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sonraí maidir leis an méid a chlúdaigh gach scéim ar fáil thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The approved institutions are listed in Schedules 1 and 2 of the Regulations</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá na cúrsaí formheasta leagtha síos i Rialachán 4 de na Rialacháin Tacaíochta do Mhic Léinn 2016 agus tá na hinstitiúidí formheasta liostáilte i Sceidil 1 agus 2 de na Rialacháin</seg></tuv>
+</tu>
+</body>
+</tmx>

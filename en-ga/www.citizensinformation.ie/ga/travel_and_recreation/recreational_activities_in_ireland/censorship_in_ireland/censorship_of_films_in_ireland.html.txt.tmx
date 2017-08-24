@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>The Irish Film Classification Office (IFCO), formerly called the Irish Film Censor's Office is responsible for examining all films, videos and DVDs intended for public distribution in Ireland. In addition, IFCO is responsible for certifying that they are fit to be viewed by members of the public</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá dualgas ar an Oifig Aicmithe Scannán na hÉireann (OASÉ) gach scannán, fístéipeanna agus DVD, a bhfuil sé i gceist iad a scaipeadh ar an bpobal a scrúdú agus deimhniú go bhfuileadar sásúil le go mbeadh an pobal ag breathnú orthu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>IFCO may prohibit a film, video or DVD or, more usually, classify it according to its suitability for different age groups</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis an OASÉ cosc a chur ar scannán, fístéip nó DVD nó, is iondúil, go ndéantar iad a rangú de réir feiliúnachta do na haoisghrúpaí éagsúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A film can be certified as unfit for viewing (in other words, banned) because IFCO is of the opinion that the film is likly to cause harm to children, or is indecent, obscene or blasphemous, or that viewing it might be contrary to, or undermine public morality</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir a rá nach bhfuil scannán feiliúnach go mbeadh daoine ag breathnú air (i bhfocail eile, cosc curtha air) má bhíonn an OASÉ den tuairim go bhfuil an scannán mígheanasach, gáirsiúil nó diamhaslach nó go bhféadfadh sé a bheith in aghaidh nó in ann bonn a bhaint ón moráltacht phoiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>IFCO may also rule that certain parts of a film must be removed before it can be certified for viewing</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis an OASÉ freisin rialú nach mór píosaí faoi leith a bhaint as scannán sular féidir teastas a thabhairt dó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Director of Film Classification must also view and approve the advertising material connected to the film to ensure it is appropriate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don OASÉ freisin breathnú ar an ábhar bolscaireachta a bhaineann leis an scannán agus é a cheadú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A copy of the Certificate must be shown for at least 10 seconds immediately before the film is shown</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór cóip den teastas a eisítear a thaispeáint ar feadh 10 soicind ar a laghad díreach roimh tús an scannáin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Censorship and private film clubs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cinsireacht agus clubanna príobháideacha scannáin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Private film clubs (for example, the Irish Film Institute) are not obliged to seek classification for films that are shown only to their club members</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon dualgas ar chlubanna príobháideacha scannáin (mar shampla Ionad Scannáin na hÉireann) scannáin a thaispeáintear do bhaill an chlub amháin a chur chuig an OASÉ le rangú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Film classifications currently in use</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rangú scannáin in úsáid faoi láthair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Irish film classifications are broadly similar to those in use in other countries</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar scannáin in Éirinn a rangú mórán ar an mbunús céanna le tíortha eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Film trailers are also classified and may only be shown with a film of a similarly suitable classification</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar sleachta bolscaireachta ó scannáin a rangú freisin agus ní féidir iad a thaispeáint ach amháin nuair atá scannán den rangú céanna dhá thaispeáint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An overview of the current system of film classification for Ireland is as follows:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar seo a leanas atá forbhreathnú ar an gcóras reatha aicmithe scannán d’Éirinn:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• G (General): The film is suitable for everyone, including young children</seg></tuv>
+  <tuv xml:lang="ga"><seg>• G (Ginearálta): Tá an scannán oiriúnach do gach duine, leanaí óga san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• PG (Parental Guidance): While the film may be watched by unaccompanied children, parental guidance is recommended as to its suitability for children under 12 years of age</seg></tuv>
+  <tuv xml:lang="ga"><seg>• PG (Treoir Tuismitheora): Cé gur féidir le leanaí gan tionlacan tuismitheora féachaint ar an scannán, moltar go mbeadh treoir tuismitheora tugtha do leanaí faoi 12 bhliain d’aois maidir le hoiriúnacht an scannáin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The film may contain adult themes or concepts that parents may wish to be aware of</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh téamaí nó coincheapa daoine fásta a bheith sa scannán gur mhaith le tuismitheoirí a bheith ar an eolas fúthu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If it has a romantic theme, it might have some sexual scenes or very brief nudity</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más téama rómánsúil atá i gceist, d’fhéadfadh go mbeadh radhairc ghnéasacha nó nochtacht ar feadh seal an-ghearr ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It might also have some violence or mild bad language</seg></tuv>
+  <tuv xml:lang="ga"><seg>Anuas air sin, d’fhéadfadh roinnt foréigin nó drochtheanga éadrom a bheith i gceist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• 12A: While the film is, in the opinion of IFCO, suitable only for people over 12 years of age, a person under that age may be admitted to see this film if he or she is accompanied by a parent or guardian</seg></tuv>
+  <tuv xml:lang="ga"><seg>• 12A: Cé go bhfuil an scannán oiriúnach, i dtuairim an OASÉ, do dhaoine atá os cionn 12 bhliain d’aois amháin, is féidir duine atá faoi bliana d’aois a scaoileadh isteach le breathnú air má tá tuismitheoir nó caomhnóir in éineacht leis/léi</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• 15A: While the film is, in the opinion of IFCO, suitable only for people over 15 years of age, a person under that age may be admitted to see this film if he or she is accompanied by a parent or guardian</seg></tuv>
+  <tuv xml:lang="ga"><seg>• 15A: Cé go bhfuil an scannán oiriúnach, i dtuairim an OASÉ, do dhaoine atá os cionn 15 bliana d’aois amháin, is féidir duine atá faoi 15 bliana d’aois a scaoileadh isteach le breathnú air má tá tuismitheoir nó caomhnóir in éineacht leis/léi</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• 16: Films classified in this category are considered to be suitable for persons of sixteen or over</seg></tuv>
+  <tuv xml:lang="ga"><seg>• 16: Meastar go bhfuil scannáin a aicmítear sa chatagóir seo oiriúnach do dhaoine atá sé bliana déag d’aois nó os a chionn sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Children under this age cannot be admitted to screenings</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir cead isteach a thabhairt do leanaí faoin aois seo chuig taispeáint an scannáin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Violent content and depicition of violence may be stronger than in films designated 15A</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh ábhar foréigneach agus léiriú foréigin a bheith ní ba threise ná i scannáin a shainítear amhail 15A</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Over 18: Only people over the age of 18 may attend a screening of this film</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Os cionn 18: Ní féidir ach le daoine os cionn 18 mbliana freastal ar thaispeáint an scannáin seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There will be adult themes and there may be explicit scenes of sex or violence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh téamaí daoine fásta ann agus d’fhéadfadh go mbeadh radhairc de ghnéas nó d’fhoréigean ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There may also be bad language, including strong sexual swear words</seg></tuv>
+  <tuv xml:lang="ga"><seg>Anuas air sin, d’fhéadfadh drochtheanga, lena n-áirítear eascainí láidre gnéasacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can make a complaint about IFCO decisions on classification</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú gearán a dhéanamh faoi chinntí an OASÉ maidir le haicmiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are not satisfied with IFCO’s decision on your complaint you can escalate your complaint to the relevant Ombudsman</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil tú sásta le cinneadh an OASÉ ar do ghearán, féadfaidh tú do ghearán a chur faoi bhráid an Ombudsman ábhartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For complaints regarding children contact the Office of the Ombudsman for Children, for all other complaints contact the Office of the Ombudsman</seg></tuv>
+  <tuv xml:lang="ga"><seg>I dtaobh gearán a bhaineann le leanaí, déan teagmháil le hOifig an Ombudsman do Leanaí, i dtaobh na ngearán go léir eile, déan teagmháil le hOifig an Ombudsman</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Censorship of Films Appeal Board</seg></tuv>
+  <tuv xml:lang="ga"><seg>An Bord Achomhairc um Chinsireacht Scannán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Classification of Films Appeal Board has 9 members who are appointed by the Minister for Justice and Equality</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá naonúr comhaltaí ar an mBord Achomhairc um Aicmiú Scannán a cheapann an tAire Dlí agus Cirt agus Comhionannais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The decision of the Appeal Board is final, but the film may be re-submitted to IFCO after seven years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá cinneadh an Bhoird Achomhairc críochnaitheach, ach féadtar an scannán a chur faoi bhráid an OASÉ athuair i ndiaidh seacht mbliana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Offences and Penalties under the Censorship of Films Acts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Coireanna agus Pionóis faoi na hAchtanna um Chinsearacht Scannán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are a number of offences under the Censorship of Films Acts, including exhibiting a film without a certificate, failing to comply with the terms of a restricted certificate and displaying publicity material that has not been approved by IFCO</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá roinnt coireanna faoi na hAchtanna um Chinsireacht Scannán, san áireamh tá scannán a thaispeáint gan teastas, teip cloí le téarmaí an teastais teoranta agus ábhar bolscaireachta a thaispeáint nach bhfuil ceadaithe ag an OASÉ</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is also an offence in Ireland for a cinema to allow entry to a film by someone below the classified age</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá athbhreithniú dhá dhéanamh faoi láthair ar na fíneálacha a bhaineann le sárú na nAchtanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Records held by IFCO</seg></tuv>
+  <tuv xml:lang="ga"><seg>Taifid coinnithe in OASÉ</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Various registers, not all of which are computerised, are held by IFCO</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá cláir éagsúla, nach bhfuil ar fad coinnithe ar ríomhaire, coinnithe in OASÉ</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Register of Films gives basic information for each film and trailer examined, including the certification</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá buneolas ar fáil ar Chlár na Scannán maidir le gach scannán agus sliocht bolscaireachta a scrúdaíodh, an teastas a bronnadh san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Cuts Register records details of cuts made in particular films and the Rejects Register gives details of prohibited films</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá eolas maidir le píosaí a gearradh amach as scannáin faoi leith coinnithe ar Chlár na nGearrthacha agus sonraí ar Chlár na gColfairtí maidir le scannáin ar cuireadh cosc orthu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Appeal Board Register records details of appeals and decisions made by the Classification of Films Appeal Board</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sonraí maidir le cinneadh a tógadh ar achomhairc ar Chlár Bhord na nAchomharc chomh maith le aon chinneadh a thóg Bord Achomhairc um Chinsearacht Scannán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is also an Accounts and Payments Register</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Clár Cuntas agus Íocaíochtaí ann freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The above information may be examined at IFCO's Office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir an t-eolas thuasluaite a scrúdú in OASÉ</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>At present, no fee is charged for this service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi láthair, níl aon táille le n-íoc as an tseirbhís seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is no fee for making a complaint to an Ombudsman</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní ghearrtar aon táille ar ghearán a dhéanamh leis an Ombudsman</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>IFCO, (which is self-financing), charges fees to film distributors to offset the costs of certification and classification</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gearrann OASÉ, atá féin-mhaoinithe, táillí ar dháileoirí scannán leis na costais a bhaineann le teastais agus rangú a chlúdach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A distributor is not charged a fee if the film, in the opinion of IFCO, is an educational film</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní ghearrtar táille ar dháileoir má cheapann an OASÉ gur scannán oideachasúil atá i gceist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The fee for appealing to the Classification of Films Appeals Board is €1,000</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá athbhreithniú dhá dhéanamh faoi láthair ar an gcóras táillí reatha</seg></tuv>
+</tu>
+</body>
+</tmx>

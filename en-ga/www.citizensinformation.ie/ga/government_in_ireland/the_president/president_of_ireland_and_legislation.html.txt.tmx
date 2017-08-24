@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>President of Ireland and legislation</seg></tuv>
+  <tuv xml:lang="ga"><seg>An tUachtarán agus reachtaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Legislation starts life as a Bill which is passed by both Houses of the Oireachtas (the Irish parliament)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tosaíonn reachtaíocht mar Bhille, a ritheann dá Theach an Oireachtais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Every Bill must be signed by the Irish President before it can become law</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don Uachtarán gach Bille a shíniú roimh dó theacht ina dlí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As soon as the Bill has been passed by both Houses of the Oireachtas, it is presented to the President for signature</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chomh luath agus a ritheann dá Theach an Oireachtais Bille cuirfear é ós comhair an Uachtaráin le síniú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A Bill must be signed on the 5th, 6th or 7th day after it has been presented to the President</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór bille a shíniú ar an 5ú, 6ú nó 7ú lá tar éis é a chur chuig an Uachtarán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if the Seanad agrees, the Government may request that the Bill be signed sooner</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach, má aontaíonn an Seanad is féidir leis an Rialtas iarratas a dhéanamh an Bille a shíniú níos luaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When a Bill has been presented to the President, they have the power to refer it to the Supreme Court within 7 days</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a chuirtear Bille ós comhair an Uachtaráin le síniú, tá sé de chumhacht aige nó aici an bille a chur faoi bhreith na Cúirte Uachtaraí taobh istigh de 7 lá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This power is exercised by the President when there is doubt as to whether the Bill is constitutional</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann an tUachtarán é seo sa chás go bhfuil amhras ann nach bhfuil an Bille ag teacht leis an mBunreacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They must first consult with the Council of State but the decision to refer the Bill is the President's alone</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór dó/dí dul i gcomhairle ar dtús leis an gComhairle Stáit ach is é an tUachtarán amháin a dhéanann cinneadh an Bille a chur faoi bhreith na Cúirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a Bill is referred to the Supreme Court, it must decide whether or not the Bill conflicts with the Constitution</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chuirtear Bille faoi bhreith na Cúirte Uachtaraí ní mór don Chúirt cinneadh a dhéanamh an bhfuil an bille in aghaidh an Bhunreachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the Supreme Court holds that the Bill is unconstitutional, the President cannot sign it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más é breith na Cúirte Uachtaraí go bhfuil an Bille in aghaidh an Bhunreachta ní féidir leis an Uachtarán é a shíniú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Once a Bill has been signed, the President must then publish a notice in Iris Oifiguil (the official State gazette) stating that the Bill has become law</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair atá Bille sínithe, ní mór ansin don Uachtarán fógra a chur san Iris Oifigiúil ag fógairt go bhfuil an Bille ina dhlí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the Government wishes to change or amend the Constitution, a Bill must be passed by both Houses of the Oireachtas to amend the Constitution</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mian leis an Rialtas athrú nó leasú a dhéanamh ar an mBunreacht, ní mór do dhá Theach an Oireachtais Bille a rith chun an Bunreacht a leasú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Irish people must then approve the Bill in a constitutional referendum</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór ansin do Phobal na hÉireann tacú leis an mBille i reifreann bunreachtúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Once the Bill has been approved by the people in a referendum, the President must then sign the Bill so that the Constitution can be amended</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair atá toil an phobail tugtha don bhille i reifreann ní mór don Uachtarán an Bille a shíniú leis an mBunreacht a leasú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The President has 2 additional powers in relation to legislation that have never been exercised</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá 2 chumhacht eile ag an Uachtarán maidir le reachtaíocht nár cuireadh i bhfeidhm ariamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They may refuse to sign a Bill if a majority of the members of the Seanad and at least one-third of the members of the Dáil petition them not to sign the Bill</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis/léi diúltú bille a shíniú má chuireann tromlach de chomhaltaí Sheanad Éireann agus, ar a laghad, aon trian de chomhaltaí Dháil Éireann comhachainí chuige/chuici ag iarraidh air /uirthi diúltú an Bille a shíniú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The President must consult with the Council of State before deciding within 6 days whether or not to sign the Bill</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don Uachtarán dul i gcomhairle leis an gComhairle Stáit taobh istigh de shé lá roimh cinneadh a dhéanamh an Bille a shíniú nó gan é sin a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The President also has a power in relation to possible Money Bills</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá cumhacht ag an Uachtarán maidir le Billí Airgid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Seanad has less power in relation to Money Bills</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá níos lú cumhachta ag an Seanad maidir le Billí Airgid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a conflict arises between the Dáil and the Seanad as to whether or not a particular Bill is a Money Bill, the Seanad may ask the President to refer the question to a Committee of Privileges</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhíonn easaontas idir Dáil agus Seanad Éireann an Bille Airgid atá i gceist le Bille faoi leith, is féidir leis an Seanad iarraidh ar an Uachtarán an cheist a chur faoi bhráid Choiste Pribhléidí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The President must consult with the Council of State before they decide whether or not to refer it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don Uachtarán dul i gcomhairle leis an gComhairle Stáit roimh cinneadh a dhéanamh an cheist a chur faoi bhráid an Choiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>View all Irish legislation from 1922 here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú iomlán reachtaíocht Éireannach ó 1922 go dtí sin a fheiceáil</seg></tuv>
+</tu>
+</body>
+</tmx>

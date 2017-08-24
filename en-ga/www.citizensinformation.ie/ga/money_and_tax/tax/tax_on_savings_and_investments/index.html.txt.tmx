@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Tax on savings and investments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cáin ar choigiltis agus infheistíochtaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Employee share option schemes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Scéimeanna Scaireanna Fostaithe in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Employees in Ireland can avail of certain share optionsfrom their company that may be "tax free" or "tax efficient"</seg></tuv>
+  <tuv xml:lang="ga"><seg>In Éirinn, is féidir le fostaithe roghanna faoi leith scaireanna a ghlacadh óna gcomhlacht a d'fhéadfadh a bheith saor ó cháin nó cáin éifeachtúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Find out about the two main ways an employee can benefit from shares in the company</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigh amach faoin dá phríomhbhealach gur féidir le fostaí leas a bhaint as scaireanna ó chomhlacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Deposit Interest Retention Tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cáin Choinneála ar Ús Taisce</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you earn interest on savings then you pay a tax on the interest called Deposit Interest Retention Tax (DIRT).Information about DIRT, who pays it and exemptions and reliefs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má thuilleann tú ús ar choigilteas b'fhéidir go mbeidh ort cáin a íoc ar an ús sin ar a dtugtar Cáin Choinneála ar Ús Taisce</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most Read in "Money and Tax"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ábhar is mó éilimh i "Airgead agus Cáin"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>How your income tax is calculated</seg></tuv>
+  <tuv xml:lang="ga"><seg>An córas le cáin a mheas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Universal Social Charge (USC)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muirear Sóisialta Uilíoch (MSU)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Introduction to income tax credits and reliefs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Réamhrá ar chreidmheasanna cánach agus faoiseamh ó cháin ioncaim</seg></tuv>
+</tu>
+</body>
+</tmx>

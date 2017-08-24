@@ -1,0 +1,257 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Treatment of child suspects in Garda custody</seg></tuv>
+  <tuv xml:lang="ga"><seg>Láimhseáil amhrasáin linbh i gcoinneáil na nGardaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For the purpose of criminal law in Ireland a child is anyone under 18 years of age</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun críocha an dlí choiriúil in Éirinn is leanbh aon duine atá faoi 18 mbliana d’aois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As children are deemed vulnerable due to their age and level of maturity, the law has provided special provisions which protect the personal rights of child suspects while they are being detained in Garda stations</seg></tuv>
+  <tuv xml:lang="ga"><seg>Os rud é go meastar leanaí a bheith leochaileach de dheasca a n-aoise agus a leibhéal aibíochta, tá forálacha speisialta curtha ar fáil ag an dlí a chosnaíonn cearta pearsanta na n-amhrasán linbh agus iad á gcoinneáil i staisiúin Ghardaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These laws place special duties or obligations on the Gardaí in their dealings with child suspects while in the Garda station</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann na dlithe seo dualgais nó oibleagáidí speisialta ar na Gardaí agus iad ag déileáil le hamhrasáin linbh agus iad i stáisiún Gardaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>While it is the primary role of the Gardaí to investigate crime and protect the rights of the public, these obligations also include the proper treatment of suspects who are detained in Garda stations, especially child suspects</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cé gurb é príomhról na nGardaí coireacht a fhiosrú agus cearta an phobail a chosaint, cuimsíonn na hoibleagáidí seo cóireáil ceart na n-amhrasán atá á gcoinneáil i stáisiúin Ghardaí, go háirithe amhrasáin linbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Part 6 of the Children Act 2001 specifically deals with the treatment of child suspects while in Garda stations</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déileálann Cuid 6 den Acht um Leanaí 2001 go sainiúil le láimhseáil amhrasán linbh agus iad i stáisiúin Ghardaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under Section 129 of the Criminal Justice Act 2006, which amended the Children Act 2001, children under 12 years of age cannot be arrested and detained in a Garda station unless the offence is one of the following:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi Alt 129 den Acht um Cheartas Coiriúil 2006, a leasaigh an tAcht um Leanaí 2001, ní féidir leanaí faoi bhun 12 bhliain d’aois a ghabháil agus a choinneáil i stáisiún Gardaí murar ceann de na cionta seo a leanas an cion:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In any other situation where a Garda has reasonable grounds for believing that a child under 12 years of age has committed an offence the Garda is obliged to bring the child to the child’s parents or guardian</seg></tuv>
+  <tuv xml:lang="ga"><seg>In aon chás eile ina bhfuil cúis réasúnta ag Garda a chreidiúint go bhfuil cion déanta ag leanbh faoi 12 bhliain d’aois tá oibleagáid ar an nGarda an leanbh a thabhairt chuig tuismitheoirí nó gairdiain an linbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Separation of children from adults in Garda stations</seg></tuv>
+  <tuv xml:lang="ga"><seg>Scaradh leanaí ó dhaoine fásta i stáisiúin Ghardaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When a child is detained in a Garda station it is the duty of the Garda in charge of the station to ensure that, as far as possible, the child is not allowed meet with or associate with adult suspects being detained in the station at the same time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a choinnítear leanbh i stáisiún Gardaí tá sé de dhualgas ar an nGarda atá i mbun an stáisiúin a chinntiú nach ligtear don leanbh, chomh fada agus is féidir, bualadh le nó caidreamh a bheith acu le hamhrasáin fhásta atá á gcoinneáil sa stáisiún ag an am céanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Children are usually not kept in a cell unless there is no other safe or secure accommodation available</seg></tuv>
+  <tuv xml:lang="ga"><seg>De ghnáth, ní choinnítear leanaí i gcillín ach amháin sa chás nach bhfuil aon chóiríocht slán nó daingean eile ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Notice to be given to a child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fógra le tabhairt do leanbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When a child suspect is brought to a Garda station, it is the duty of the Garda in charge to tell the child without delay in a way that the child understands:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a thugtar amhrasán linbh chuig stáisiún Gardaí, is é dualgas an Gharda atá i mbun a insint don leanbh gan mhoill ar bhealach a thuigfidh an leanbh:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The details of the crime for which he/she is detained</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Mionsonraí na coireachta as a bhfuil an leanbh á choinneáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• That he/she is entitled to consult a solicitor and</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Go bhfuil sé/sí i dteideal comhairle a fháil ó aturnae agus</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• That his/her parents/guardian have or are being notified</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gur cuireadh tuismitheoirí/gairdian an linbh ar an eolas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the parents/guardian cannot be contacted, or if they simply refuse to attend the Garda station, then the child must be informed that he/she can nominate another adult relative or other adult to be informed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Murar féidir teagmháil a dhéanamh leis na tuismitheoirí/gairdian, nó má dhiúltaíonn siad glan teacht chuig an stáisiún Gardaí, caithfear a chur in iúl don leanbh gur féidir leis/léi gaol fásta eile nó duine fásta eile a ainmniú chun cúrsaí a chur in iúl dóibh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Any such person (parent, guardian or other nominated person) is obliged to attend the Garda station without delay</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá oibleagáid ar aon duine mar sin (tuismitheoir, gairdian nó duine ainmnithe eile) teacht i láthair ag an stáisiún Gardaí gan mhoill</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Notifying the child’s solicitor</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag cur aturnae an linbh ar an eolas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When a child who is detained has asked for a solicitor, the Garda in charge is obliged to notify that solicitor as soon as possible</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a deir leanbh atá á choinneáil gur mhaith leis aturnae, tá oibleagáid ar an nGarda atá i mbun aturnae a fhaisnéisiú a luaithe agus is féidir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the solicitor cannot be contacted or is unwilling or unable to attend, the child must be informed and allowed to ask for another solicitor</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura féidir teagmháil a dhéanamh leis an aturnae nó mura bhfuil an t-aturnae toilteanach nó in ann teacht, caithfear a chur in iúl don leanbh agus deis a thabhairt don leanbh aturnae eile a iarraidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This solicitor must then be notified by the Gardaí</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh na Gardaí an t-aturnae seo a fhaisnéisiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the child requests a solicitor but doesn’t know one or doesn’t name one specifically then the Garda in charge gives the child the name of a number of solicitors who are willing to attend the Garda station</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má iarrann an leanbh aturnae ach gan aithne aige/aici ar aturnae nó mura n-ainmníonn an leanbh aturnae go sainiúil, tugann an Garda atá i mbun ainm roinnt aturnaetha atá sásta teacht chuig an stáisiún Gardaí don leanbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The request for a solicitor extends to the parents or guardian or other relative</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann an ceart aturnae a iarraidh leis na tuismitheoirí nó gairdiain nó gaol eile chomh maith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All of these people are entitled to ask for a solicitor on behalf of the child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá na daoine seo go léir i dteideal aturnae a iarraidh ar son an linbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Interviewing children in Garda stations</seg></tuv>
+  <tuv xml:lang="ga"><seg>Agallaimh a dhéanamh le leanaí i stáisiúin Ghardaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Section 61 of the Children Act 2001 provides that a child may not be interviewed unless in the presence of his/her parent or guardian</seg></tuv>
+  <tuv xml:lang="ga"><seg>Forálann Alt 61 d’Acht na Leanaí 2001 nach féidir agallamh a dhéanamh le leanbh ach i bhfianaise a t(h)uismitheoir nó a g(h)airdian</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In cases, however, where the Gardaí believe a delay in questioning a child suspect would involve</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcásanna, áfach, ina gcreideann na Gardaí go mbeadh ceann de na féidearthachtaí seo ann dá mbeadh moill ar amhrasán linbh a cheistiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• a risk of death or injury</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Contúirt bháis nó ghortaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• serious loss of or damage to property</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Mórchaillteanas nó díobháil do mhaoin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• destruction of or interference with evidence or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Scrios nó cur isteach ar fhianaise</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>then the Garda in charge of the station can authorise the questioning of the child or the taking of a written statement in the absence of a parent or guardian</seg></tuv>
+  <tuv xml:lang="ga"><seg>is féidir leis an nGarda i mbun an stáisiuin ceistiú an linbh nó tógáil ráitis scríofa a údarú in éagmais tuismitheora nó gairdiain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is not a common practice, however, and very serious circumstances must exist before the Garda in charge would allow it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní gnáthchleachtas é seo, áfach, agus caithfidh imthosca an-olca a bheith ann sula gceadódh an Garda i mbun é</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Garda in charge can also remove an adult during the questioning of a child suspect or during the taking of a written statement where:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis an nGarda atá i mbun duine fásta a ordú amach le linn ceistithe amhrasáin linbh nó le linn tógáil ráitis scríofa, más amhlaidh:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The parent or guardian is the victim of, or has been arrested in connection with, the offence being investigated</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gur íobartach an chiona atá á fhiosrú an tuismitheoir nó gairdian, nó gur gabhadh iad maidir leis an gcion sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The Garda in charge suspects the parent or guardian of being involved in the offence or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Go bhfuil amhras ar an nGarda atá i mbun go raibh an tuismitheoir nó an gairdian bainteach sa chion, nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The Garda in charge believes the parent or guardian would be likely to obstruct the course of justice if they were present during the interview of the child or during the taking of a written statement from the child</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Go gcreideann an Garda atá i mbun gur dócha go dtoirmiscfeadh an tuismitheoir nó an gairdian cúrsa an cheartais dá mbeidís i láthair le linn an agallaimh leis an leanbh nó le linn ráiteas scríofa a thógáil ón leanbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the Gardaí propose to question a child in the absence of a parent or guardian, they must try and arrange for another parent, relative or other responsible person to be present during the interview</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má ar intinn na Gardaí a cheistiú leanbh in éagmais tuismitheora nó caomhnóra, ní mór dóibh iarracht a dhéanamh socrú a dhéanamh chun tuismitheoir eile, duine atá freagrach i gcoibhneas nó eile a bheith i láthair le linn an agallaimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Notification to parents/ guardian when a child is charged with an offence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faisnéisiú nuair a chiontaítear tuismitheoirí/gairdian i gcion</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When the Gardaí decide to charge a child with the offence for which the child is detained he/she is charged on a charge sheet</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a chinneann na Gardaí leanbh a chiontú sa chion a bhfuil an leanbh á choinneáil faoi, cúisítear é ar dhuilleog na gcúiseamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A charge sheet is a document which contains particulars of the offence, the name of the Garda who is prosecuting and the name of the person being charged</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is doiciméad é duilleog na gcúiseamh a bhfuil mionsonraí an chiona ann, ainm an Gharda atá ag cúiseamh agus ainm an duine atá á chiontú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Once the child is charged with the offence, the parents or guardian present is given a copy of the charge sheet</seg></tuv>
+  <tuv xml:lang="ga"><seg>I ndiaidh chiontú an linbh sa chion, tugtar cóip de dhuilleog na gcúiseamh do na tuismitheoirí nó don ghairdian atá i láthair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Garda in charge of the station also ensures that details of the time, date and place of the child’s first appearance in court are given to the parents or guardian as soon as possible</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cinntíonn an Garda atá i mbun an stáisiúin go dtugtar sonraí an ama, an dáta agus áit chéad láithris an linbh sa chúirt do na tuismitheoirí nó don ghairdian a luaithe agus is féidir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The parents or guardian must also be informed of their obligation to attend the court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfear a chur in iúl do na tuismitheoirí nó don ghairdian go bhfuil oibleagáid orthu a bheith i láthair ag an gcúirt chomh maith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where the child’s parents or guardian is not present in the Garda station when the child is being charged the Garda in charge must ensure that a copy of the charge sheet and details of the time, date and place of the child’s first appearance in court are given to the parents or guardian as soon as possible</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair nach bhfuil tuismitheoirí nó gairdian an linbh i láthair ag an stáisiún Gardaí nuair a chúisítear an leanbh caithfidh an Garda atá i mbun a chinntiú go dtugtar cóip de dhuilleog na gcúiseamh, agus mionsonraí an ama, an dáta agus na háite a mbeidh céad láithreas an linbh sa chúirt do na tuismitheoirí nó don ghairdian a luaithe agus is féidir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They must also be informed of the name of any adult who attended the Garda station at the request of the child and the name and address of any solicitor who may have visited the child while in custody in the Garda station</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfear a chur in iúl dóibh ainm aon duine fásta a bhí i láthair ag an stáisiún Gardaí ar éileamh an linbh agus ainm agus seoladh aon aturnae a thug cuairt ar an leanbh le linn dó a bheith ar coimeád sa stáisiún Gardaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Gardaí may decide to summons a child to appear in court in respect of an alleged offence</seg></tuv>
+  <tuv xml:lang="ga"><seg>B’fhéidir go gcinneodh na Gardaí toghairm a thabhairt do leanbh a bheith i láthair sa chúirt maidir le cion líomhanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(This is mostly done in less serious cases involving minor crimes)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Déantar é seo don chuid is mó i gcúiseanna nach bhfuil chomh tromchúiseach céanna a bhaineann le mionchoireachtaí)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In such circumstances, the child’s parents or guardian may be named on the summons and, if they are named, they are required to attend at the sitting of the court stated in the summons</seg></tuv>
+  <tuv xml:lang="ga"><seg>I dtosca den sórt sin, is féidir tuismitheoirí nó gairdian an linbh a ainmniú ar an toghairm agus má ainmnítear iad, tá riachtanas orthu a bheith i láthair ag suí na cúirte atá sainráite sa toghairm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Release on bail by a member of the Garda Siochana</seg></tuv>
+  <tuv xml:lang="ga"><seg>Scaoileadh saor ar bannaí ag comhalta den Gharda Síochána</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When a decision is made to charge a child with a criminal offence, the Garda in charge of the station may direct that the child be brought before the next available sitting of the Children Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a dhéantar cinneadh leanbh a chúiseamh i gcion coiriúil, is féidir leis an nGarda atá i mbun an stáisiúin a ordú go dtabharfaí an leanbh os comhair an chéad suí atá ar fáil de Cúirt na Leanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This could involve the child remaining in the custody of the Gardaí until the following morning</seg></tuv>
+  <tuv xml:lang="ga"><seg>B’fhéidir go mbeadh ar an leanbh fanacht i gcoimeád na nGardaí go dtí an mhaidin dar gcionn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Alternatively, the Garda in charge may release the child from custody on bail to appear at a sitting of the Children Court within 30 days</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar mhalairt air sin, is féidir leis an nGarda atá i mbun an leanbh a scaoileadh saor ó choimeád ar bannaí le bheith i láthair ag suí de Chúirt na Leanaí taobh istigh de 30 lá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is done by requiring the child to enter into a recognisance with or without sureties to appear in court at a future date</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar é seo trí cheangal ar an leanbh dul i gcúirtbhanna gan nó le slándáil le teacht i láthair ag an gcúirt ag am éigin san am atá le teacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(A recognisance is a pledge or promise made and signed by the child and/or by the parents or guardian that the child will appear in court on the date requested)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Is móid nó gealltanas é cúirtbhanna a dhéanann agus a shíníonn an leanbh agus/nó tuismitheoirí nó gairdian an linbh go dtiocfaidh an leanbh chun na cúirte ar an lá a iarradh)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The recognisance might be made with a surety attached</seg></tuv>
+  <tuv xml:lang="ga"><seg>B’fhéidir go ndéanfaí an cúirtbhanna le slándáil ceangailte leis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>That is, in addition to making the promise to appear in court, a sum of money is guaranteed to ensure that the child does appear in court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é sin, chomh maith leis an ngealltanas teacht i láthair ag an gcúirt, ráthaítear suim airgid lena chinntiú go dtiocfaidh an leanbh i láthair ag an gcúirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the child fails to appear then the sum of money is lost and must be paid over to the State</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura dtiocfaidh an leanbh caillfear an t-airgead agus íocfar leis an Stát é</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>While a surety is a promise of money, the Garda in charge is also allowed to accept a sum of money in cash from the parents or guardian to ensure that the child appears in court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cé gur gealltanas airgid atá ann slándáil, tá cead ag an nGarda atá i mbun glacadh le suim airgid in airgead reatha ó thuismitheoirí nó ó ghairdian lena chinntiú go dtiocfaidh an leanbh i láthair ag an gcúirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This money is returned when the child’s case is finally dealt with or the judge decides to reduce or vary the terms of the bail</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar an t-airgead ar ais nuair a dhéileálfar leis an an gcás sa deireadh nó nuair a chinneann breitheamh ar théarmaí na mbannaí a laghdú nó a athrú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further information on the consequences of breaching bail terms is available here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh faisnéise ar iarmhairtí téarmaí na mbannaí a shárú ar fáil anseo</seg></tuv>
+</tu>
+</body>
+</tmx>

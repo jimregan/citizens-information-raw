@@ -1,0 +1,241 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>In general, all income arising from pensions in Ireland is subject to taxation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, ní mór cáin a íoc ar aon ioncam a éiríonn as pinsin in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This document sets out the way in which pensions are taxed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá eolas anseo faoin mbealach a ghearrtar cáin ar phinsin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Occupational pensions are taxable</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá cáin le n-íoc ar phinsin cheirde</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Many pensioners do not actually have to pay tax, because their income is too low</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní gá do go leor pinsinéirí cáin a íoc áfach mar tá a n-ioncam ró-íséal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Occupational pensions are subject to tax under the PAYE system (the 'Pay-As-You-Earn' System) so the process is the same as that applied when you were being paid your salary</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gearrtar cáin faoin gcóras ÍMAT ar phinsin cheirde agus mar sin tá an córas díreach mar an gcéanna leis an gcóras nuair a bhí tuarastal dhá íoc leat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have both an occupational pension and a social welfare pension, you may have to pay tax on both</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá pinsean ceirde agus pinsean leasa shóisialaigh ag duine, d'fhéadfadh sé go mbeadh cáin le n-íoc acu araon</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read more about taxation of social welfare payments here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leigh tuilleadh faoi ghearradh cánach ar íocaíochtaí leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Occupational pensions are not subject to social insurance contributions (PRSI) but if you are aged under 66, you may have to pay PRSI on other income</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní ghearrtar ÁSPC ar phinsin cheirde ach má tá duine faoi bhun 66, d'fhéadfadh sé go mbeadh ÁSPC le n-íoc ar ioncam eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Occupational pensions are subject to the Universal Social Charge (USC)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gearrtar an Muirear Sóisialta Uilíoch ar phinsin cheirde</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The general tax credits available to people aged 65 and over are described in our document on taxation for people aged over 65 and in the Revenue Commissioner's information leaflet 'Tax Credits and Reliefs for Over 65s (IT 45) (pdf)'</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá cur síos ar na creidmheasanna ginearálta cánacha atá ar fáil do dhaoine atá 65 nó ós a chionn san alt Cáin do dhaoine atá ós cionn 65 agus bileog eolais na gCoimisinéirí Ioncaim IT 45 (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Occupational pensions are taxed in the same way as salaries and wages</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gearrtar cáin ar phinsin cheirde ar an mbealach céanna le cáin ar thuarastal nó ar phá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are getting an occupational pension from an Irish source, it is usually taxed under the PAYE system in exactly the same way as you were taxed while employed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá pinsean ceirde agat ó fhoinse in Éirinn gearrtar cáin ÍMAT air go hiondúil díreach mar a bhíodh cáin gearrta ort nuair a bhí tú ag obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your pension comes from outside Ireland, you usually pay tax in a lump sum annually</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má thagann an pinsean as taobh amuigh den tír seo is iondúil gur cnapshuim a íocann tú go bliantúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are living abroad and you receive your pension from Ireland, it may or may not be taxable under PAYE</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá cónaí thar lear ort agus tú ag fáil pinsin as Éirinn d'fhéadfadh cáin ÍMAT a bheith gearrtha air ach ní gá go mbeadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If there is a Double Taxation Agreement, you may be exempted from Irish tax (but usually liable in the other country)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá Comhaontú Dé-Chánach leis an tír eile, d'fhéadfadh sé nach mbeadh ort cáin Éireannach a íoc (ach bheadh cáin sa tír eile le n-íoc agat)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If this is the case, the Revenue Commissioners may notify the payer of the pension (i.e., your former employer, the pension fund, etc.) that income tax is not to be deducted under PAYE</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más é seo an cás d'fhéadfadh na Coimisinéirí Ioncaim a chur in iúl don té a íocann an pinsean (mar shampla d'iarfhostóir, an ciste pinsin, &amp; rl) nár cheart cáin ioncaim a ghearradh ar do phinsean faoin gcóras ÍMAT</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the Revenue Commissioners do not notify the pension payer, then PAYE must be deducted in the usual way</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna bhfuil fógra den chineál seo faighte uaidh na Coimisinéirí Ioncaim ní mór don té a íocann do phinsean cáin ÍMAT a ghearradh faoin gnáthchóras</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Income from the following sources is exempted and does not have to be included on a return of income:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon cháin le n-íoc ar ioncam ó na foinsí seo a leanas agus níl aon ghá tagairt a dhéanamh dóibh ar fhaisnéis ioncaim:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Wound and disability pensions and all gratuities granted in respect of wounds or disabilities under the Army Pensions Acts (any part of such pensions that is not attributable to disability is taxable)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Pinsin chréachta agus míchumais agus aon airgead scoir a tugadh maidir le créacht nó míchumas faoi na hAchtanna um Phinsin na bhFórsaí Cosanta (ní mór cáin a íoc ar aon chuid de na pinsin seo nár ceadaíodh ar son créachta nó míchumais)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Military gratuities and demobilisation pay granted to army officers and various allowances under the Army Pensions Acts and a few other army pension-related acts</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Airgead scoir ón arm agus pá díshlógaidh ceadaithe d'oifigigh airm agus liúntais eile faoi na hAchtanna um Phinsin na bhFórsaí Cosanta agus achtanna eile a bhaineann le pinsin na bhFórsaí Cosanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Pensions and other allowances payable to War of Independence veterans and their families</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Pinsin, liúntais &amp; rl a íoctar le seansaighdiúirí Chogadh na Saoirse nó lena gclann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Certain foreign pensions that would not be taxable if the recipient lived in the country that granted them</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Pinsin faoi leith ó thíortha thar lear nach mbeadh inchánaithe dá mbeadh an faighteoir ina c(h)ónaí sa tír as atá an pinsean ag teacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is no mechanism for taxing social welfare pensions at source</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá pinsean leasa shóisialaigh agus pinsean ceirde agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your other source of income determines how tax is levied. The most common situation is where a pensioner (State Pension (Contributory) or Widow's/Widower's/Surviving Civil Partner's (Contributory) Pension) has both an occupational pension and a social welfare pension</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tarlaíonn sé go fíormhinic go bhfuil pinsean ceirde agus pinsean leasa shóisialaigh ag pinsinéir (Pinsean Stáit (Ranníocach) nó Pinsean Baintrí/Baintrí Fir/Páirtnéara Shibhialta Mharthanaigh (Ranníocach))</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the occupational pension is paid from within Ireland, it is taxed by PAYE in the same way as a wage or salary</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá an pinsean ceirde dhá íoc as an tír seo gearrtar cáin air tríd an gcóras ÍMAT ar nós pá nó tuarastála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that you get your tax credits in the normal way</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigheann duine creidmheasanna cánacha sa ghnáthbhealach mar sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In order to tax your social welfare pension your annual tax credits are reduced by the tax liability on your social welfare pension. For higher incomes, the standard rate cut off point will also be reduced</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun cáin a ghearradh a an bpinsean leasa shóisialaigh déantar an pointe scoir meán ráta a laghdú faoi méid an phinsin leasa shóisialaigh agus déantar na creidmheasanna cánacha a laghdú faoin dliteanas cánach ar an bpinsean leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You then effectively pay tax on both the pensions, but it is collected from the occupational pension</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin is amhlaidh go n-íocann tú cáin ar an dá phinsean ach íoctar an cháin tríd an bpinsean ceirde</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The technical term for this is coding in of credits</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar codú creidmheasanna ar seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The same arrangement applies if you have income from a job and a social welfare pension</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an scéal céanna ann má bhíonn ioncam ag duine ó phost agus pinsean leasa shóisialaigh aige/aici freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your social welfare pension was not coded in, you would have to pay tax as a self employed person in a lump sum by 31 October each year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna mbeadh an pinsean leasa shóisialaigh cutha san áireamh ar an mbealach seo bheadh cáin le n-íoc air faoin 31 mí Dheireadh Fómhair ina cnapshuim go bliantúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your other source of income is not taxed on the PAYE system, for example if you have an occupational pension from abroad or you have investment income, then you are classed as a self-employed person and your tax is payable annually by 31 October each year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna bhfuil cáin dhá ghearradh ar an bhfoinse eile ioncaim atá agat tríd an gcóras ÍMAT mar shampla, má tá pinsean ceirde agat ó thír thar lear nó má tá ioncam infheistíochta agat, ní mór duit an cháin a íoc go bliantúil ina cnapshuim faoin 31 Deireadh Fómhair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have a social security pension from abroad, it is also generally taxable in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá pinsean árachais shóisialaigh agat ó thír thar lear is iondúil go bhfuil sé inchánaithe in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The tax is payable annually unless you have a source of income that is subject to PAYE</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór an cháin a íoc go bliantúil muna bhfuil foinse ioncaim eile in Éirinn agat a thiteann faoin gcóras ÍMAT</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Income coming from abroad</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ioncam a thagann ó thar lear</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Income that comes from abroad is generally taxable in Ireland if you are resident in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta tá ioncam a thagann ó thar lear incháinithe in Éirinn má tá cónaí sa tír seo ort</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Income from outside Ireland is almost never taxable by PAYE</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhíonn ioncam a thuilltear taobh amuigh den tír seo inchánaithe in Éirinn de ghnáth faoin gcóras ÍMAT</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Tax is always paid in a lump sum annually</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íoctar an cháin i gcónaí ina cnapshuim go bliantúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Technically, it is described as subject to Schedule D</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar cáin faoi Sceideal D ar seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(The technical term for PAYE is Schedule E.)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Sceideal E an téarma teicniúil do cháin ÍMAT)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Certain foreign pensions that would be exempt from tax if you were resident in the country paying the pension are also exempt from tax in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá pinsin faoi leith ó thíortha thar lear nach mbeadh inchánaithe sa tír iasachta dá mbeadh duine ina chónaí ann agus mar sin níleadar inchánaithe in Éirinn ach an oiread</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Double Taxation Agreements generally make a distinction between pensions payable by governments to former employees and pensions payable by private employers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iondúil go mbíonn idirdhealú déanta i gcomhaontaithe déchánacha idir pinsin a íocann rialtais le iarfhostaithe agus pinsin a íocann fostóirí príobháideacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are some variations between the agreements and not all agreements make this distinction and they vary in other ways so you would need to check how exactly you are affected</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá roinnt difríochtaí idir na comhaontaithe agus ní bhíonn an t-idirdhealú seo curtha san áireamh i ngach ceann acu. Tá difríochtaí eile idir comhaontaithe agus mar sin ní mór a bheith cinnte faoi do chás féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most of them provide that pensions for non-governmental employees are taxed in the country of residence</seg></tuv>
+  <tuv xml:lang="ga"><seg>De réir formhór na gcomhaontaithe íocann daoine nach raibh fostaithe ag rialtas cáin ar phinsin sa tír ina bhfuil cónaí orthu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>So, if you are living in Ireland and getting an occupational pension from another country, you should generally receive it gross and then pay Irish tax on it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin má tá cónaí ort in Éirinn agus pinsean ceirde dhá fháil agat ó thír eile ba cheart go mbeadh an pinsean ar fad ag teacht chugat agus cáin dhá íoc agat air in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The opposite is the case for pensions for former Government employees - generally they are taxable only in the country where they are paid</seg></tuv>
+  <tuv xml:lang="ga"><seg>A mhalairt ar fad a tharlaíonn más iarfhostaí rialtais tú atá ag fáil pinsin - go ginearálta tá na pinsin sin inchánaithe amháin sa tír ina éisítear iad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>So, if you are a former employee of the US government now living in Ireland, you pay tax on your occupational pension in the USA only</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más iarfhostaí de rialtas Mheiriceá thú atá anois i do chónaí in Éirinn íocann tú cáin ar an bpinsean ceirde i Meiriceá amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In some cases, this applies to pensions from local authorities or other political sub-divisions - again, the particular agreement needs to be checked</seg></tuv>
+  <tuv xml:lang="ga"><seg>I roinnt cásanna baineann seo le pinsin ó údaráis áitiúla nó ó fhó-rannóga polaitíochta eile - arís, ní mór an comhaontú faoi leith a fhiosrú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are over 66, you are not liable to pay PRSI contributions at all</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl ÁSPC le n-íoc ag duine atá ós cionn 66</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Find out more about social insurance in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigh amach tuilleadh maidir le árachas sóisialach in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are under 66 and are employed or self-employed, you pay PRSI on your income from that employment or self-employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú faoi 66 agus fostaithe nó féin-fhostaithe íocann tú ÁSPC ar d'ioncam ón bhfostaíocht nó ón bhféinfhostaíocht sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You do not pay it on your occupational or social welfare pension</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní íocann tú ÁSPC ar do phinsean ceirde ná ar do phinsean leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Universal Social Charge (USC) replaced the health contribution and the income levy from 1 January 2011</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an Muirear Sóisialta Uilíoch (MSU) a d’ionadaigh an tobhach sláinte agus an tobhach ioncaim ón 1 Eanáir 2011</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All social welfare payments including pensions are exempt from the USC</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá gach íocaíocht leasa shóisialaigh lena n-áirítear pinsin díolmhaithe ón Muirear Sóisialta Uilíoch</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, occupational pensions are subject to the USC</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áfach gearrtar an Muirear Sóisialta Uilíoch ar phinsin cheirde</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The rate you pay varies depending on your age and on whether you hold a full medical card</seg></tuv>
+  <tuv xml:lang="ga"><seg>Braitheann an méid a íocann tú ar d'aois agus do theidlíocht cárta leighis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>See our document on the Universal Social Charge for more information</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féach ár ndoiciméad maidir le Muirear Sóisialta Uilíoch chun tuilleadh eolais a fháil</seg></tuv>
+</tu>
+</body>
+</tmx>

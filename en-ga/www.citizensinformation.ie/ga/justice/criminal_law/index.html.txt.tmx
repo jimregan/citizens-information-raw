@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Criminal convictions for a range of minor offences can become spent after seven years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh ciontuithe coiriúla do réimse mionchionta a bheith spíonta i ndiaidh seacht mbliana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most Read in "Justice"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ábhar is mó éilimh i "Dlí"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Alcohol and the law</seg></tuv>
+  <tuv xml:lang="ga"><seg>Alcól agus an dlí</seg></tuv>
+</tu>
+</body>
+</tmx>

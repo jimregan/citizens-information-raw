@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Factors considered by a court in a separation/divorce/dissolution</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gnéithe a thugann an cúirt san áireamh i gcásanna scaradh/ colscaradh/díscaoilte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In granting a decree of judicial separation, divorce or dissolution, a court has the power to make a wide variety of ancillary orders</seg></tuv>
+  <tuv xml:lang="ga"><seg>Le foraithne scartha dhlíthúil, colscartha nó díscaoilte a cheadú, tá cumhacht ag an gcúirt réimse leathan ordaithe cúntacha a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The most usual court orders relate to the following:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is dóibh seo a leanas a bhaineann na gnáth ordaithe cúirte:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Custody of and access to children</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cúram agus teacht ar na bpáistí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Maintenance and lump sum payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Íocaíochtaí cothaithe agus cnapshuimeanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Ownership of the family/shared home</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Úinéireacht ar theach an teaghlaigh/áras comhroinnte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Occupation of the family/shared home</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cónaí i dteach an teaghlaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Ownership of property and assets such as shares</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Úinéireacht ar mhaoin agus ar shócmhainní ar nós scaireanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is no standard or usual amount of maintenance payable just as there is no standard set of circumstances in which a court will make a particular order in relation to the family or shared home</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An t-ionchur a bhí, agus a d'fhéadhfadh a bheith,ag an mbeirt lánúin ar leas an teaghlaigh - san áireamh tá aon chabhair a tugadh a mhéadaigh ioncam agus achmhainní airgeadais an pháirtí eile</seg></tuv>
+</tu>
+</body>
+</tmx>

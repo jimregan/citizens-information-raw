@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>GPs and private patients</seg></tuv>
+  <tuv xml:lang="ga"><seg>Liachleachtóirí Ginearálta agus Othair Phríobháideacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you do not have a medical card or GP Visit Card, you are considered a private patient if you visit your family doctor (GP)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil cárta leighis agat, ní foláir duit cuairt a thabhairt ar Liachleachtóir ginearálta mar othar príobháideach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that you must pay for the services provided</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh tú íoc as na seirbhísí a chuirfear ar fáil duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some GPs provide services only to private patients</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá roinnt Liachleachtóirí ginearálta ann nach gcuireann seirbhísí ar fáil ach amháin d'othair phríobháideacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>GPs who are in the General Medical Services (GMS) Scheme cannot treat private patients differently from medical card or GP Visit Card holders</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leis na Liachleachtóirí ginearálta atá sa scéim Seirbhísí Ginearálta Leighis caitheamh ar bhealach difriúil le othair príobháideacha agus le sealbhóirí chartaí leighis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must be seen in the same premises and have access to the same surgery hours, etc</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart don dochtúir freastal a dhéanamh ort san áitreabh céanna agus ba cheart duit a bheith in ann teacht ar na huaireanta céanna clinic leis na hothair phríobháideacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are no set fees or charges for GP services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon táillí socraithe i gcomhair seirbhísí an Liachleachtóra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The relationship between a private patient and a GP is essentially a contract - you enter into a contract with your GP to provide you with services and you pay for the service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go bunúsach is conradh é an gaol idir othar príobháideach agus liachleachtóir ginearálta - déanann tú conradh le do Liachleachtóir ginearálta le seirbhís a sholáthar duit agus íocann tú as an tseirbhís</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The amount of the payment is a matter for you and the GP</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is fút féin agus faoin liachleachtóir ginearálta costas na seirbhíse a shocrú eadraibh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>GPs may provide cetain services to private patients free of charge - for example, maternity and infant welfare services and immunisation and vaccination services if they have agreements with the Health Service Executive (HSE) to do so</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh LGanna seirbhísí áirithe a sholáthar saor in aisce – mar shampla, seirbhísí máithreachais agus leas naíonán agus seirbhísí imdhíonachta agus vacsaínithe má bhíonn comhaontuithe acu le Feidhmeannacht na Seirbhíse Sláinte (FSS) chun amhlaidh a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the case of some vaccination services, (for example, the flu vaccine for at-risk groups), the arrangement for private patients is that the actual vaccination is free of charge but you must pay for the GP's service</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás cuid de na seirbhísí vacsaínithe, (mar shampla, vacsaín an fhliú do ghrúpaí atá i mbaol), is é an socrú atá ann i measc othair phríobháideacha go bhfuil an vacsaíniú féin saor in aisce, ach is gá duit íoc as seirbhís an LG</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Changing job: tax, PRSI and pension</seg></tuv>
+  <tuv xml:lang="ga"><seg>Athrú poist: cáin, ÁSPC agus pinsean</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are changing your job, (that is, leaving your existing job and commencing a new one), there are a number of steps you should take in relation to tax and social insurance contributions (PRSI)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ag athrú poist (is é sin, má tá tú ag fágáil do phost reatha agus ag tosú ar cheann nua), tá roinnt céimeanna ba cheart duit a thógáil maidir le cáin agus ranníocaíochtaí árachais shóisialta (ÁSPC)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In addition, there are important issues to be aware of, regarding your pension</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chomh maith leis sin, tá ceisteanna tábhachtacha le cur san áireamh, maidir le pinsin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Whenever you leave a job you should get a P45 certificate from your employer</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart duit teastas P45 a fháil ó d’fhostóir agus tú ag fágáil poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your P45 is a statement from your employer that shows your pay, tax, Universal Social Charge (USC), and PRSI details for the year up to the date you leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ráiteas ó d’fhostóir an P45 a thaispeánann an méid pá a fuair tú chun dáta, an méid cánach, Mhuirir Shóisialta Uilíoch agus árachais shóisialta (ÁSPC) a d’íoc tú chun dáta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you begin work at your new job, you will need this P45 to give to your new employer</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a thosaíonn tú ar do phost nua beidh an fhoirm P45 seo ag teastáil uait chun í a thabhairt do d’fhostóir nua</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your new employer then takes some details from your P45 and then sends your P45 to the tax office on your behalf</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tógann d’fhostóir nua roinnt sonraí ó do P45 agus seolann sé/sí do P45 chuig an oifig cánach ar do shon</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is to notify the tax office that you have now commenced working for a new employer and ensures that they are deducting tax appropriately</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is fógra é sin don oifig chánach go bhfuil tú tar éis obair a thosú le fostóir nua agus déanann sé cinnte go bhfuil siad ag baint cánach i gceart</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you give the P45 to your new employer, they will:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a thugann tú an P45 do d’fhostóir nua, déanfaidh sé/sí:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Operate PAYE in accordance with the tax credits and standard cut off point details shown on the P45 until they receives a tax credit certificate from the tax office</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An córas ÍMAT a chur i bhfeidhm bunaithe ar na creidmheasanna cánacha agus na sonraí faoin scoithphointe bunúsach taispeánta ar an teastas P45 go dtí go bhfaigheann sé/sí teastas creidmheasanna cánach ón oifig chánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Notify the tax office that you have changed jobs so that a tax credit certificate can be issued for your new job</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tuairisc a chur chuig an oifig chánach go bhfuil do phost athraithe agat le gur féidir teastas creidmheasanna cánach don phost nua a eisiúint duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you do not give your new employer a P45 certificate, emergency tax will be deducted</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna dtugann tú an P45 do d’fhostóir nua, bainfear cáin éigeandála díot</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your employer has not received either a:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura mbeidh siad seo a leanas faighte ag d’fhostóir:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Certificate of tax credits from the tax office or,</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Teastas creidmheasanna cánach ón oifig cánach nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• P45 certificate (parts 2 and 3) from you, in respect of your previous employment,</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Teastas P45 (codanna 2 agus 3) uait féin, maidir le d'fhostaíocht roimhe seo,</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>your employer will be obliged to deduct tax on an emergency basis when paying your employee's wages or salary</seg></tuv>
+  <tuv xml:lang="ga"><seg>beidh sé d'oibleagáid ar d’fhostóir cáin a asbhaint ar bhonn éigeandála nuair a bheidh siad ag íoc do chéad phá nó tuarastal mar fhostaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that they will give you a temporary tax credit for the first month of employment but tax deductions are increased progressively from the second month onwards</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn sé sin go dtabharfaidh siad liúntas saor ó cháin sealadach duit don chéad mhí fostaíochta agus méadófar asbhaintí cánach de réir a chéile ón dara mí ar aghaidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The effect of emergency basis is that after 4 weeks, no tax credits are given and tax is paid at the higher rate from week 9, regardless of the level of pay</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an toradh a bhíonn ag an mbunús éigeandála ná: tar éis 4 seachtaine, ní thugtar aon liúntas shaor ó cháin agus íoctar cáin ag an ráta is airde ó sheachtain 9, beag beann ar an leibhéal pá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It makes sense therefore to avoid the emergency basis by following the simple steps outlined earlier when you start work in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann sé ciall mar sin an bunús éigeandála sin a sheachaint trí na céimeanna simplí a tugadh cuntas orthu ní ba luaithe a leanúint nuair a thosaíonn tú ag obair in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Details of emergency tax rates are on the Revenue website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léigh tuilleadh faisnéise faoi cáin éigeandála anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>More information can be found in our document about tax and starting work </seg></tuv>
+  <tuv xml:lang="ga"><seg>Léigh tuilleadh eolais faoi cáin agus obair a thosú anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most employers and employees (over 16 years of age) pay social insurance contributions into the national Social Insurance Fund</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocann an chuid is mó d’fhostóirí agus fostaithe (os cionn 16 bliain d’aois) ranníocaíochtaí árachais shóisialta isteach i gCiste Árachais Shóisialta náisiúnta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Social insurance contributions entitle you to a range of benefits that are administered by the Department of Social Protection</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann ranníocaíochtaí árachais shóisialta teidlíocht duit do réimse sochar a riarann an Roinn Coimirce Sóisialaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is important therefore to inform your new employer of your Personal Public Service Number (PPS number) as this will ensure that your combined social welfare contributions are recorded and that your entitlement to benefits is protected for the future</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé tábhachtach, mar sin, d’uimhir phearsanta seirbhíse poiblí, (UPSP) a thabhairt do d’fhostóir ionas go ndéanfar taifead ar do ranníocaíochtaí árachais shóisialta comhcheangailte agus go gcosnófar do theidlíocht do shocair don todhchaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find more information in our document about social insurance (PRSI)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léigh tuilleadh faoi árachas sóisialta (ÁSPC)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Changing jobs and pensions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Athrú poist agus pinsin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Occupational pensions: If you have an occupational pension your benefits from the pension scheme may be preserved within the scheme or transferred to another scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Pinsin ghairme: Má tá pinsean gairme agat d’fhéadfaí do shochair ón scéim pinsean a chaomhnú laistigh den scéim nó a aistriú go scéim eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Legislation requires that when a member leaves a scheme that they must be provided with a Leaving Service Options letter within 2 months of their exit from the scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>De réir na reachtaíochta, nuair a fhágann ball scéim pinsean, caithfear litir le Roghanna Fágála Seirbhíse a sholáthar dóibh faoi cheann 2 mhí ón tráth a fhágann siad an scéim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This letter should detail any options relating to the members’ benefits</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir go dtabharfaí mionsonraí sa litir seo a bhaineann le haon roghanna maidir le sochair na mball</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A preserved benefit means that you get a pension when you reach the scheme's normal retirement age</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn sochar caomhnaithe go bhfaigheann tú pinsean nuair a shroicheann tú gnáthaois scoir na scéime</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have less than 2 years' contributions to the scheme, you can get a refund of your own contributions (but not any contributions made by your employer)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá níos lú ná 2 bhliain de ranníocaíochtaí agat sa scéim, is féidir leat aisíoc a fháil ar do chuid ranníocaíochtaí féin (ach ní bheidh aisíoc ar ranníocaíochtaí ar bith atá déanta ag d’fhostóir)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This refund will be taxed, as you received tax relief when you made the contribution</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh an t-aisíoc seo inchánach, toisc go bhfuair tú faoiseamh cánach nuair a rinne tú an ranníocaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Before you leave your employment, you should talk to the person in the company who has responsibilty for administering the pension scheme, as each scheme has its own rules</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sula bhfágann tú d’fhostaíocht, ba chóir duit labhairt leis an duine sa chomhlacht atá freagrach as an scéim pinsean a riaradh, mar baineann rialacha ar leith le gach scéim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Personal Retirement Savings Accounts (PRSA): If you have a PRSA you can stop or start it when you choose, without charges, by contacting your PRSA provider</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuntais Choigiltis Scoir Phearsanta (CCSP): Má tá CCSP agat, gan táillí ar bith i gceist, is féidir CCSP a stopadh nó a thosú ag tráth ar bith a roghnaítear trí theagmháil a dhéanamh le do sholáthraí CCSP</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your PRSA is a contract between you and a PRSA provider in the form of an investment account</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is conradh é do CCSP i bhfoirm cuntais infheistíochta idir tú féin agus soláthraí CCSP</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>PRSAs allow you to change employment and continue to use the same PRSA</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceadaíonn CCSP duit fostaíocht a athrú agus leanúint ar aghaidh leis an gCCSP céanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For further information, see the Pension Authority’s booklet, PRSAs – a consumer and employer's guide (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun tuilleadh eolais a fháil, féach ar leabhrán na hÚdaráis Pinsean, PRSAs – a consumer and employer's guide (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are entitled to a P45 certificate when you leave work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tú i dteideal teastais P45 nuair a éiríonn tú as post</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you experience any difficulty in obtaining a P45 from your employer, you should notify your tax office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá deacracht ar bith agat foirm P45 a fháil ó d’fhostóir, ba cheart duit d'oifig chánach a chur ar an eolas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have difficulty in obtaining your P45 from your former employer, contact your tax office or contact your regional PAYE lo-call telephone service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá deacracht agat do theastas P45 a fháil ó d’iarfhostóir, téigh i dteagmháil le d’oifig chánach áitiúil nó téigh i dteagmháil le do sheirbhís fhóin reigiúnda ar chostas íseal de chuid ÍMAT</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For information on your PPS number, contact your local Intreo centre or social welfare office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Téigh i dteagmháil le d’ionad Intreo nó oifig leasa shóisialta áitiúil chun eolas a fháil faoi d’uimhir phearsanta seirbhíse poiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Occupational pensions and PRSAs are regulated by the Pensions Authority</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an tÚdarás Pinsean an comhlacht reachtúil atá freagreach sa rialú scéimeanna pinsin in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Its free booklet What are my Pension Options?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Soláthraíonn a leabhráin saor in aisce Cad iad na Roghanna Pinsin atá agam?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>' (pdf) provides you with an overview of the pension arrangements available</seg></tuv>
+  <tuv xml:lang="ga"><seg>(pdf) forbhreathnú ar na socruithe pinsin ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In addition, this booklet sets out the options suitable in various circumstances and requirements</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagann an leabhráin amach freisin na roghanna oiriúnacha le cúinsí agus riachtanais éagsúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have any queries in connection with a pension, contact the Pensions Authority's Information Unit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá aon ceist agat faoi phinsean, téigh i dteagmháil leis an Aonad Eolais na hÚdaráis Pinsean</seg></tuv>
+</tu>
+</body>
+</tmx>

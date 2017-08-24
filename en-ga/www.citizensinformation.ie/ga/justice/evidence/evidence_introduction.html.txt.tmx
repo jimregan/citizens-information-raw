@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>In any court case, whether criminal or civil, evidence may be introduced by both sides</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis an dá thaobh in aon chás cúirte, bíodh sé coiriúil nó sibhialta, fianaise a tharraingt anuas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Evidence is something that tends to prove or disprove a particular fact - it makes the existence or non-existence of that fact more likely</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rud a chuireann cuma na fírinne ar nó a bhréagnaíonn fíric faoi leith í fianaise - déanann sé an scéal níos cosúil go bhfuil nó nach bhfuil an fíric sin ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The law of evidence lays down rules to decide what items of evidence may be introduced to prove facts in a trial</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagann dlí na fianaise síos rialacha le cinneadh a dhéanamh cén fhianaise gur féidir a tharraingt anuas le fíricí a chruthú i dtriail</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An item of evidence is described as "inadmissible" if the law of evidence does not allow it to be introduced at a trial</seg></tuv>
+  <tuv xml:lang="ga"><seg>Deirtear go bhfuil píosa fianaise "neamhcheadaithe" muna féidir de réir dlí na fianaise é a tharraingt anuas i dtriail</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Conversely, an item of evidence is described as "admissible" if the law of evidence allows it to be introduced to prove or disprove a particular fact</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar an láimh eile deirtear go bhfuil píosa fianaise "ceadaithe" más féidir de réir dlí na fianaise é a tharraingt anuas le fíric faoi leith a chruthú nó a bhréagnú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In this section, you will find information on a wide range of types of evidence and you will find out when those types of evidence may be admissible or inadmissible in a case</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa rannóg seo tá eolas ar fáil ar réimse leathan cineálacha fianaise agus inseofar duit cén uair a bhíonn na cineálacha fianaise sin ceadaithe nó neamhcheadaithe i gcás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>We will consider the oral testimony of witnesses, real evidence and documentary evidence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Breathnófar ar fhianaise bhéil ó fhinnéithe, fíor fhianaise agus fianaise scríofa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>We will also consider hearsay evidence, circumstantial evidence, unlawfully obtained evidence, identification evidence and confessions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfar plé freisin ar fhianaise chlostráchta, fianaise imthoisceach, fianaise faighte go neamhdhleathach, fianaise aitheantais agus admhálacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some evidence may be relevant and it may be admissible but it may be privileged evidence so it cannot be introduced</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh fianaise a bheith ag baint leis an gcás agus ceadaithe ach d'fhéadfadh sí a bheith ina fianaise phribhléide agus mar sin nach féidir í a tharraingt anuas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Other evidence may be admissible but may be suspect evidence so that certain safeguards have to be put in place to protect the accused</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh fianaise eile a bheith ceadaithe ach gur fianaise amhrastúil í agus go bhfuil gá cosaintí a chur i bhfeidhm leis an gcúisí a chosaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The rules on what may be admitted in evidence in a criminal trial are complex</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá rialacha casta ann faoin bhfianaise lenar féidir glacadh i dtriail choiriúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Criminal Justice Act 2006 provides for the admissibility of statements which were made by witnesses and which the witness subsequently refuses to stand over</seg></tuv>
+  <tuv xml:lang="ga"><seg>Forálann an tAcht um Cheartas Coiriúil 2006 gur féidir glacadh le ráitis a rinne finnéithe fiú má dhiúltaíonn an finné iad a dhearbhú níos déanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The court now has the power to decide whether or not to admit such a statement and the Act sets out guidelines for the court in making the decision</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an chumhacht ag an gcúirt anois socrú an nglacfaidh nó nach nglacfaidh sí le ráiteas den sórt seo agus leagann an tAcht treoirlínte síos don chúirt chun cabhrú léi an socrú seo a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For more detailed information you should seek legal advice</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir duit comhairle dlí a lorg chun faisnéis mionsonraithe a fháil</seg></tuv>
+</tu>
+</body>
+</tmx>

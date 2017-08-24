@@ -1,0 +1,457 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Each year in Ireland, thousands of people are issued with licences to drive motor vehicles</seg></tuv>
+  <tuv xml:lang="ga"><seg>Eisítear ceadúnais do na mílte duine in Éirinn gach bliain chun mótarfheithiclí a thiomáint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These vehicles include motorcycles, cars, vans, trucks, agricultural machinery, etc</seg></tuv>
+  <tuv xml:lang="ga"><seg>I measc na bhfeithiclí seo tá gluaisrothair, gluaisteáin, veaineanna, leoraithe, innealra talmhaíochta, etc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In order to ensure high standards of road safety, it's important that everyone is aware of the laws in place regarding motoring in Ireland and the penalties in place if you break the law</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhonn ardchaighdeáin um shábháilteacht ar bhóithre a chinntiú, tá sé tábhachtach go mbíonn gach duine feasach ar na dlíthe atá i bhfeidhm maidir le gluaisteánaíocht in Éirinn agus ar na pionóis a ghearrtar nuair a sháraítear an dlí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Road Traffic Acts set out the main provisions for motoring in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagtar amach san Acht um Thrácht ar Bhóithre na príomhfhorálacha lena mbaineann gluaisteánaíocht in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This legislation deals with issues such as vehicle licensing, vehicle standards, your obligations and responsibilities, etc</seg></tuv>
+  <tuv xml:lang="ga"><seg>Pléann an reachtaíocht le saincheisteanna ar nós ceadúnú feithicle, caighdeáin feithicle, do chuid oibleagáidí agus freagrachtaí, etc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Motoring offences can include drink driving, speeding, driving without evidence of insurance or motor tax, driving without due care and attention and driving without a seatbelt</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir a áireamh le cionta gluaisteánaíochta tiomáint ar meisce, tiomáint ar luas, tiomáint gan fianaise i leith árachais nó mótarchánach, tiomáint gan aird agus aire chuí a thabhairt agus tiomáint gan crios sábhála ort</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A new offence of driving while holding a mobile telephone was introduced in 2006</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugadh isteach cion nua in 2006 – tiomáint agus guthán póca i do lámh agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can be disqualified from driving a vehicle if a judge convicts you of a motoring offence or of driving a defective vehicle</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir thú a dhícháiliú ó fheithicil a thiomáint má chiontaíonn breitheamh thú i leith cion tiomána nó i leith feithicil lochtach a thiomáint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Driving a defective vehicle can include driving a vehicle that is not road-worthy</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir a áireamh le feithicil lochtach a thiomáint feithicil a thiomáint nach bhfuil sábháilte chun bóthair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A system of parking restrictions and fines is also in place throughout Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, tá córas srianta agus fíneálacha páirceála i bhfeidhm ar fud na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Summonses issued to citizens for motoring offences are heard in the District Court and the presiding judge has the power to impose disqualifications for driving and endorsements of driving licenses</seg></tuv>
+  <tuv xml:lang="ga"><seg>Éistear le gairmeacha a eisítear do shaoránaigh mar gheall ar chionta gluaisteánaíochta sa Chúirt Dúiche agus tá ag an mbreitheamh i gceannas an chumhacht chun dícháiliú ó thiomáint a ghearradh mar aon le droimscríobhanna ceadúnais tiomána</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Motoring offences that result in a charge of dangerous driving causing death are heard in the Circuit Court before a judge and jury unless the defendant pleads guilty prior to the hearing</seg></tuv>
+  <tuv xml:lang="ga"><seg>Éistear le ciontaí gluaisteánaíochta i gciontú tiomána dáinséaraí atá ina cúis le bás sa Chúirt Chuarda os comhair breithimh agus giúiré mura bpléadálann an cosantóir ciontach roimh an éisteacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Gardaí have the power to arrest the driver of a vehicle for certain motoring offences</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá ag an nGarda Síochána an chumhacht chun tiománaí feithicle a ghabháil mar gheall ar roinnt cionta gluaisteánaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These offences include drink driving an dangerous driving</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áirítear leis na cionta seo tiomáint ar meisce agus tiomáint dháinséarach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Penalties on conviction for motoring offences depend on the severity of the offences and on whether or not they are repeated offences</seg></tuv>
+  <tuv xml:lang="ga"><seg>Braitheann pionóis ar chiontú mar gheall ar chionta gluaisteánaíochta ar a thromchúisí atá na cionta agus ar cé acu cionta athuaire iad nó céaduaire iad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Penalties can include monetary fines, endorsement of driving license, disqualification from driving for life, and in the most serious cases, imprisonment</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfaí a áireamh le pionóis fíneálacha airgid, droimscríobh ceadúnas tiomána, dícháiliú ó thiomáint ar feadh an tsaoil, agus sna cásanna is tromchúisí, príosúnacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In addition a penalty points system is in place for certain motoring offences</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa mhullach air sin, tá córas pointí pionóis i bhfeidhm maidir le roinnt cionta gluaisteánaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>View a list of motoring offences that attract penalty points (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féach ar liosta de na cionta gluaisteánaíochta a dtugtar pointí pionóis (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Road Traffic Act, 2006 increased the maximum monetary penalties (fines) which a court can impose in relation to most common motoring offences</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tháinig méadú faoi na pionóis uasta airgid (fíneálacha) faoin Acht um Thrácht ar Bhóithre, 2006 is féidir le cúirt a ghearradh maidir le formhór na gcionta comónta gluaisteánaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Penalties on conviction for dangerous driving causing death are the same as penalties for manslaughter and also carry a mandatory disqualification from driving for a minimum of 4 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ionann na pionóis ar chiontú mar gheall ar thiomáint dháinséarach atá ina cúis le básagus na pionóis i leith dúnorgan agus déantar thú a dhícháiliú ó thiomáint ar feadh tréimhse ceithre bliana ar a laghad i dteannta an phionóis thuas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Since October 2011 all convictions in the District Court for drink driving offences carry a mandatory disqualification for a minimum of 6 months</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó Dheireadh Fómhair 2011, gabhann dícháiliú éigeantach leis an uile chiontú sa Chúirt Dúiche mar gheall ar chionta um thiomáint ar meisce ar feadh tréimhse 6 mhí ar a laghad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Gardaí also have the power to impound vehicles which are not insured or in certain circumstances vehicles which are not taxed or vehicles which do not have a certificate of roadworthiness</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, tá sé de chumhacht ag an nGarda Síochána feithiclí a ghabháil nach bhfuil faoi chumhdach árachais nó, faoi chúinsí áirithe, feithiclí nár íocadh cáin orthu nó feithiclí nach bhfuil deimhniú ar ródacmhainneacht acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Disqualification orders are usually made by a court preventing a person from validly holding a drivers licence or from applying for one for a defined or stated period of time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is gnách go ndéanann cúirt orduithe dícháilithe a chuireann srian ar dhuine ceadúnais tiomána a shealbhú go bailí nó ar chur isteach ar cheadúnas ar feadh tréimhse shainithe nó luaite ama</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A disqualification can, however, also arise from the penalty points system</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le dícháiliú, ar a shon sin, bheith mar thoradh ar an gcóras pointí pionóis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are five different types of disqualifications from driving:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ann do chúig shaghas éagsúla de dhícháiliú ó thiomáint:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Consequential Disqualification: Where a court is obliged to make an order disqualifying a person who is convicted of certain offences</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Dícháiliú Iarmhartach: Sa chás go bhfuil an oibleagáid ar chúirt ordú a dhéanamh a dhéanann duine atá arna c(h)iontú i leith cionta áirithe a dhícháiliú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Road Traffic Act 2006 increased the minimum periods established for consequential disqualification orders</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mhéadaigh an tAcht um Thrácht ar Bhóithre, 2006 na híostréimhsí a bunaíodh le haghaidh orduithe dícháilithe iarmhartaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Consequential disqualifications are the most common type of disqualification handed down by the courts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é dícháiliú iarmhartach an cineál is comónta de dhícháiliú a ordaíonn na cúirteanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Ancillary Disqualification: These disqualification orders are an optional addition to any other legal penalty imposed by a court</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Dícháiliú Coimhdeach: Breisiúchán roghnach atá sna horduithe dícháilithe seo ar aon phionós eile dlíthiúil a ghearrann cúirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>So, a judge may impose an ancillary disqualification depending on the circumstances of the case</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin, féadann breitheamh dícháiliú coimhdeach a ghearradh ag brath ar chúinsí an cháis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Examples of this would be where a vehicle was used in a bank raid and the judge imposed an ancillary disqualification on all the occupants of the car and not just the driver</seg></tuv>
+  <tuv xml:lang="ga"><seg>Samplaí den chineál seo ciona ná nuair a úsáideadh feithicil i gcreach bhainc tar éis don bhreitheamh dícháiliú coimhdeach a ghearradh ar gach taistealaí den ghluaisteán seachas ar an tiománaí amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Special Disqualification: Unlike the first two types of disqualification orders (which require someone to have been convicted of an offence before they can be imposed), special disqualification orders do not require someone to be convicted in order to impose the disqualification</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Dícháiliú Speisialta: Éagsúil leis an gcéad dá chineál d’orduithe dícháilithe (lena gceanglaítear duine éigin a chiontú i leith ciona sular féidir iad a ghearradh), ní cheanglaíonn orduithe speisialta dícháilithe go gciontaítear duine éigin d’fhonn an dícháiliú a ghearradh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the Gardaí or the National Driver Licence Service (NDLS) have reasonable grounds for believing that a licence holder is either:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá bonn réasúnach ag an nGarda Síochána nó ag an tSeirbhís Náisiúnta um Cheadúnais Tiomána (NDLS), lena chreidiúint go bhfuil an sealbhóir ceadúnais:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>- unfit to drive by reason of a physical disease or</seg></tuv>
+  <tuv xml:lang="ga"><seg>- Neamhoiriúnach le tiomáint mar gheall ar ghalar fisiciúil nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>- unfit to drive because of a physical or mental disability or</seg></tuv>
+  <tuv xml:lang="ga"><seg>- Neamhoiriúnach le tiomáint de bharr míchumas fisiciúil nó meabhrach nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>- incompetent to drive any vehicle or any class of vehicle</seg></tuv>
+  <tuv xml:lang="ga"><seg>- Neamhinniúil le haon fheithicil nó le haon aicme d’fheithicil a thiomáint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>they can apply to the District Court for a special disqualification order</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leo iarratas a dhéanamh ar an gCúirt Dúiche le haghaidh ordú dícháilithe speisialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• EU Disqualification: Transfers an order made in one EU state to another where the disqualified person resides</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Dícháiliú ón AE: Déanann seo ordú a rinneadh i stát amháin den AE a aistriú chuig stát eile ina gcónaíonn an duine dícháilithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Although the 1998 EU Convention on Driving Disqualifications (98/C 216/01) which allows for such transfer of disqualification orders is not yet in force, it is hoped that this will become law</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann an Coinbhinsiún maidir le Dícháiliú chun Tiomána 1998 (98/C 216/01) foráil don aistriú sin orduithe dícháilithe agus cé nach bhfuil seo i bhfeidhm go fóill, táthar ag súil leis go mbeidh seo mar chuid den dlí seo go luath</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Convention relates to disqualification for offences that involve:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann an Conbhinsiún le dícháiliú mar gheall ar chionta lena mbaineann:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>- reckless or dangerous driving of a motor vehicle</seg></tuv>
+  <tuv xml:lang="ga"><seg>- feithicil a thiomáint ar bhealach dáinséarach nó meargánta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>- driving a motor vehicle while under the influence of alcohol or other substances affecting or diminishing the driver's mental and physical abilities</seg></tuv>
+  <tuv xml:lang="ga"><seg>- mótarfheithicil a thiomaint faoi thionchar alcóil nó substainte eile ag a mbíonn tionchar ar chumas meabhrach agus fisiciúil an tiománaí nó a dhéanann iad a laghdú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>- driving a vehicle faster than the permitted speed</seg></tuv>
+  <tuv xml:lang="ga"><seg>- feithicil a thiomáint níos tapúla ná an luas a cheadaítear</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In advance of the Convention coming into force, the mutual recognition of driving disqualifications between Ireland and the UK (including Norther Ireland) came into operation from 28 January 2010</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sular tháinig an Coinbhinsiún i bhfeidhm, tháinig comhaitheantas dícháiliú tiomána idir Éirinn agus an RA (lena n-áirítear Tuaisceart Éireann) i bhfeidhm ón 28 Eanáir 2010</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(Does not include disqualifications resulting from the accumulation of penalty points.)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Ní áirítear dhícháilíochtaí mar thoradh ar an carnadh na pointí pionóis.)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Penalty Points Disqualification: This disqualification order is not issued by the courts but by the Department of Transport, Tourism and Sport</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Dícháiliú ag Pointí Pionóis: Ní eisíonn na cúirteanna an t-ordú dícháilithe seo ach an Roinn Iompair, Turasóireachta agus Spóirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When a person accumulates a total of 12 points or more on their licence, then the Department will notify them that from a certain date they will be disqualified from driving for a period of six months</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a bhailíonn duine 12 phointe nó níos mó ar a gceadúnas, cuirfidh an Roinn ar an eolas iad go ndícháileofar iad ó thiomáint ar feadh tréimhse shé mhí ó dháta áirithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The person will then be required to send their driving licence to the NDLS</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh an duine, ag an tráth sin, a gceadúnas tiomána a thabhairt don NDLS</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(The disqualification threshold is reduced to 7 penalty points for those who obtain their first learner permit on or after 1 August 2014 and subsequently during the first 2 years while they drive under their first driving licence.)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Tá an tairseach dícháiliú a laghdú go dtí 7 pointí pionóis dóibh siúd fháil ar a gcuid chéad cheadúnas foghlaimeora ar nó tar éis 1 Lúnasa 2014 agus ina dhiaidh le linn na chéad 2 bhliain nuair a thiomáint siad faoina cheadúnas tiomána ar dtús.)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Any disqualification order issued by the courts can be appealed within 14 days from the date of conviction</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir aon ordú dícháilithe a eisíonn na cúirteanna a achomharc laistigh de 14 lá ó dháta an chiontaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the judge orders you to be disqualified from driving and you do not appeal the conviction, you will receive a Notice from the Fines Office of the District Court where you appeared, stating that you must hand in your driving licence immediately</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má ordaíonn an breitheamh thú a dhícháiliú ó thiomáint agus mura ndéanann tú an ciontú a achomharc, gheobhaidh tú Fógra ó Oifig Fíneálacha de chuid na Cúirte Dúiche, an áit ar tháinig tú i láthair, ina luaifear nach mór duit do cheadúnas tiomána a thabhairt dóibh láithreach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Fines Office of the District Court will require you to submit any driving licence/learner permit you hold to the NDLS, together with the details of the Court Order</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceanglóidh Oifig Fíneálacha na Cúirte Dúiche ort aon cheadúnas tiomána/cead foghlaimeora atá agat a sheoladh chuig an tSeirbhís Náisiúnta um Cheadúnais Tiomána (SNCT), mar aon le sonraí faoin Ordú Cúirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The NDLS will hold your driving licence/learner permit until the period of disqualification is over</seg></tuv>
+  <tuv xml:lang="ga"><seg>Coimeádfaidh an SNCT do cheadúnas tiomána/chead foghlaimeora go dtí go bhfuil an tréimhse dhícháilithe thart</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The penalty points system of endorsement is by entry in the licence record</seg></tuv>
+  <tuv xml:lang="ga"><seg>Iontráil i dtaifead na gceadúnas atá i gceist leis an gcóras droimscríofa pointí pionóis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The record is endorsed on the National Vehicle and Driver File operated by the Department of Transport, Tourism and Sport on notification from the Courts or An Garda Síochána as appropriate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann Comhad Náisiúnta na bhFeithiclí agus na dTiománaithe, atá á oibriú ag an Roinn Iompair, Turasóireachta agus Spóirt an taifead a dhroimscríobh, tar éis fógra a fháil ó na Cúirteanna nó ón nGarda Síochána, de réir mar is cuí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Penalty point endorsements remain on your licence record for 3 years and must be notified to your insurance company when applying for motor insurance, providing you hold a current driving licence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fanann droimscríobhanna pointe pionóis ar thaifead do cheadúnais ar feadh 3 bliana agus ní mór iad a chur in iúl do do chomhlacht árachais nuair a dhéanann tú iarratas ar mhótarchánachas, a fhad agus a bhíonn ceadúnas reatha tiomána agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Endorsements on your licence record will often lead to an increase in your motor insurance premium</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is gnách go n-eascróidh méadú ar phréimh do mhótarárachais as droimscríobhanna ar thaifead do cheadúnais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A system of fixed charge driving offences operates in Ireland which allows the driver of a vehicle who has been detected of committing certain offences under the Road Traffic Acts to pay a fixed charge or fine as an alternative to going to court to answer the driving offence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá córas de chiontuithe tiomána muirir sheasta á oibriú in Éirinn a ligeann do thiománaí feithicle a rinne ciontuithe áirthe faoin Acht um Thrácht ar Bhóithre agus a braitheadh, muirear nó fíneáil sheasta a íoc mar mhalairt ar dhul os comhair na cúirte leis an gcion tiomána a fhreagairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>View a list of fixed charge only offences (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féach ar liosta de na muirear seasta ach cionta (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Minister has the power to declare any summary (or minor) offence under the Road Traffic Acts 1961-2011 to be fixed charge offences</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá ag an Aire an chumhacht a dhearbhú gur ciontuithe muirir sheasta a bheidh in aon chion achomair (nó aon mhionchion) faoin Acht um Thrácht ar Bhóithre, 1961-2011</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A person has 28 days from the date of the issue of the fixed charge notice to pay the fine</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá ag duine 28 lá ó dháta eisiúint fhógra an mhuirir sheasta leis an bhfíneáil a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If it is not paid within 28 days, the charge is increased by 50% and if it is still unpaid after a further 28 days then court proceedings are initiated</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura n-íoctar é laistigh de 28 lá, méadaítear an muirear faoi 50% agus mura n-íoctar ina dhiaidh sin é tar éis 28 lá sa bhreis air sin, cuirtear tús le himeachtaí cúirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you receive a fixed charge notice for a driving offence and you were not the driver of the vehicle you must return the notice to the Garda Fixed Charge Processing Office (see 'Where to apply' below) and include the details of the person who was driving (including his/her driving licence number) in the form attached to the fixed charge notice for that purpose</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhaigheann tú fógra um muirear seasta le haghaidh cion tiomána, agus mura raibh tú ag tiomáint na feithicle, ní mór duit an fógra a thabhairt ar ais chuig an Oifig Próiseála Muirear Seasta an Gharda Síochána (féach 'Cá ndéanfaidh mé iarratas' thíos) le sonraí faoin duine ag a raibh an fheithicil á tiomáint (lena n-áirítear a (h)uimhir cheadúnas tiomána) san fhoirm atá ceangailte leis an bhfógra muirir sheasta don chuspóir sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Gardaí will then issue a fixed charge notice to the driver of the vehicle</seg></tuv>
+  <tuv xml:lang="ga"><seg>Eiseoidh an Garda Síochána ansin fógra muirir sheasta do thiománaí na feithicle sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The registered owner of the vehicle is the person to whom the fixed charge notice will be sent if the driver of the vehicle was not identified at the time the offence was detected, (e.g</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é úinéir cláraithe na feithicle an duine a seolfar an fógra um muirear seasta chucu murar sainaithníodh tiománaí na feithicle ag an tráth a braitheadh an chion, (e.g</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>detected by a speed camera or if a car was parked illegally)</seg></tuv>
+  <tuv xml:lang="ga"><seg>bhraith ceamara luais an chion nó má bhí gluaisteán páirceáilte go mídhleathach)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the registered owner was not the driver he/she is still obliged by law to notify the Gardaí of who the driver of the vehicle was at the time of the offence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Murabh é úinéir cláraithe na feithicle an tiománaí, tá dualgas air/uirthi, de réir an dlí, an Garda Síochána a chur ar an eolas faoin duine ag a raibh an fheithicil á tiomáint ag tráth na ciona</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you misplace, lose or damage your fixed charge notice, you should contact the Garda Fixed Charge Processing Office at:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chailleann tú d’fhógra um muirear seasta nó má dhéantar díobháil dó, ba cheart duit dul i dteagmháil leis an Oifig Próiseála Muirear Sheasta:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Locall 1890 30 40 60</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Lóghlao: 1890 30 40 60</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A re-print of the notice will be sent to you by post</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seolfar athphriontáil den fhógra chugat sa phost</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, the time period allowed for payment is not extended by your request for a re-print</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar a shon sin, ní chuirtear síneadh leis an tréimhse ama a cheadaítear le haghaidh íocaíochta trí iarratas a chur isteach ar athphriontáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the fixed charge notice is paid within the legal time limits and court proceedings are not commenced you will not have a criminal record in respect of the offence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má íoctar an fógra um muirear seasta laistigh de na teorainneacha dlíthiúla ama agus mura gcuirtear tús le himeachtaí cúirte, ní bheidh seo le sonrú ar thaifead coiriúil i dtaca leis an gcion</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further information on fixed charge notices is available on the Garda website. It also has a guide to cancellations of fixed charge notices</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá breis faisnéise le fáil ar fhógraí um muirear seasta ar láithreán gréasáin an Gharda Síochána, chomh maith le treoir do cealuithe fógraí muirir sheasta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Motorists in Ireland are obliged to display evidence that they have paid their motor tax and have current motor insurance on the windscreen of their vehicles</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá dualgas ar thiománaithe in Éirin fianaise a thaispeáint gur íoc siad a mótarcháin agus go bhfuil acu árachas reatha mótair ar ghaothscáth a bhfeithiclí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a vehicle is found by the Gardaí not to have a current motor insurance policy they have the power to impound the vehicle until such time as an insurance certificate is produced by the owner which insures the use of the vehicle</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má thagann an Garda Síochána ar fheithicil nach bhfuil polasaí reatha árachas mótar, tá acu an chumhacht an fheithicil a ghabháil go dtí an tráth a sholáthraíonn an t-úinéir deimhniú árachais a dhéanann úsáid na feithicle a chur faoi árachas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The owner of the vehicle will be liable to all charges or costs incurred by the Gardaí in the removal and storage of the vehicle</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh úinéir na feithicle faoi dhliteanas an uile mhuirir nó chostais a thabhaíonn an Garda Síochána i mbaint nó i stóráil na feithicle</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Road Traffic Act 2006 extended this power to include the power to impound vehicles registered outside of Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chuir an tAcht um Thrácht ar Bhóithre, 2006, síneadh leis an gcumhacht seo le feithiclí a ghabháil a chláraítear lasmuigh d’Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Similarly, the Gardaí are empowered to impound any vehicle which has not been taxed for a period of two months or more</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar an gcuma chéanna, tá ag an nGarda Síochána an chumhacht aon fheithicil a ghabháil nár íocadh cáin uirthi ar feadh tréimhse dhá mhí nó níos faide</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In reality this means that if you are stopped by the Gardaí while driving a vehicle and the road tax for that vehicle is out of date by two months or more, the Gardaí can seize that vehicle and impound it until such time as the owner can show proof that the motor tax has been paid for that vehicle to include the date on which it was impounded (i.e. paying the arrears due on the vehicle)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is éard a chiallaíonn seo, go réalaíoch, má stopann an Garda Síochána thú agus feithicil á tiomáint agat agus má tá dáta na mótarchánach don fheithicil éagtha le dhá mhí nó níos faide, is féidir leis an nGarda Síochána an fheithicil sin a urghabháil agus a ghabháil go dtí an tráth is féidir leis an úinéir cruthúnas a thaispeáint gur íocadh an mhótarcháin don fheithicil sin, le dáta gafa na feithicile a áireamh freisin (i.e., na riaráistí a bhí dlite ar an bhfeithicil a íoc)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Again, the owner of the vehicle will be liable for all charges and costs incurred by the Gardaí in the removal and storage of the vehicle</seg></tuv>
+  <tuv xml:lang="ga"><seg>Arís eile, beidh úinéir na feithicle faoi dhliteanas an uile mhuirir agus chostais a thabhaíonn an Garda Síochána i mbaint nó i stóráil na feithicle</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Driving offences committed in other jurisdictions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cionta tiomána a rinneadh i ndlínsí eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Penalty points and endorsements on driving licences acquired in other countries (including EU/EEA member states) are not recognised between states</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní aithnítear idir ballstáit pointí pionóis agus droimscríobhanna ar cheadúnais tiomána a fuarthas i dtíortha eile (lena n-áirítear Ballstáit an tAE/LEE)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Although a European Convention on driving disqualifications was signed by the member states in June of 1998 which allowed making certain disqualification effective throughout the EU, the Convention has not yet come into force</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cé gur shínigh na ballstáit Coinbhinsiún Eorpach maidir le dícháiliú tiomána i Meitheamh 1998, a thug éifeacht le dícháiliú áirithe ar fud an AE, níor tháinig an Coinbhinsiún i bhfeidhm go fóill</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In practice therefore, this means if you acquired penalty points or have endorsements on your driving licence before coming to Ireland, these penalty points or endorsements will not transfer over to an Irish driving licence</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcleachtas, ar an ábhar sin, ciallaíonn seo má fhaigheann tú pointí pionóis nó má tá droimscríobhanna agat ar do cheadúnas tiomána sula dtéann tú go hÉirinn, ní aistreofar na pointí pionóis nó na droimscríobhanna seo chuig ceadúnas tiomána Éireannach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If, however, you have been disqualified from driving in another country and this was in addition to a prison sentence for driving offences it may not be possible for you to exchange your full foreign driving licence for a full driving licence here in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dícháilíodh thú, áfach, ó thiomáint i dtír eile agus go raibh seo anuas ar thréimhse phríosúnachta do chionta tiomána, d’fhéadfadh nach mbeifeá in ann do cheadúnas iomlán eachtrach tiomána a aistriú do cheadúnas iomlán tiomána anseo in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Mutual recognition of driving disqualifications between Ireland and the UK (including Norther Ireland) came into operation from 28 January 2010</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tháinig comhaitheantas dícháiliú tiomána idir Éirinn agus an RA (lena n-áirítear Tuaisceart Éireann) i bhfeidhm ón 28 Eanáir 2010</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It does not include disqualifications resulting from the accumulation of penalty points</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní áirítear dhícháilíochtaí mar thoradh ar an carnadh na pointí pionóis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Driving on a foreign licence in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag tiomáint ar cheadúnas eachtrannach in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are driving on a foreign driving licence in Ireland and acquire penalty points here, a record will be created and the points added to the record</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ag tiomáint agus má tá ceadúnas tiomána iasachta agat in Éirinn agus má ghearrtar pointí pionóis ort anseo, cruthófar taifead agus cuirfear na pointí leis an taifead</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you accumulate 12 penalty points on the record in a 3-year period you will be disqualified from driving in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhailíonn tú 12 phointe pionóis ar an taifead i dtréimhse 3 bliana, dícháileofar thú ó thiomáint in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Appeals to the Circuit Court to reverse a conviction leading to disqualification from driving are free of charge</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá achomhairc leis an gCúirt Chuarda d’fhonn ciontú a fhreaschur as a n-eascraíonn dícháiliú ó thiomáint saor in aisce</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Appeals to the District Court for the early restoration of your driving license if you are disqualified cost €55</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cosnaíonn achomhairc leis an gCúirt Dúiche d’athbhronnadh do cheadúnais tiomána má dícháilíodh thú €55</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All fines and fees collected by the Gardaí or authorised persons are paid to the state unless otherwise stated in the law</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íoctar an uile fhíneáil a bhailíonn an Garda Síochána nó daoine údaraithe leis an stát mura luaitear a mhalairt sa dlí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A copy of your driving licence record from the NDLS costs €15</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá cóip de do thaifead ceadúnais tiomána ó an NDLS € 15</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have been convicted of motoring offences and disqualified from driving in a District Court, you can appeal the disqualification to the Circuit Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má ciontaíodh thú i leith cionta gluaisteánaíochta agus má dícháilíodh thú ó thiomáint i gCúirt Dúiche, is féidir leat an dícháiliú a achomharc leis an gCúirt Chuarda</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must lodge an appeal within 14 days of your conviction</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit achomharc a chur isteach laistigh de 14 lá ó dháta do chiontaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you wish to represent yourself, the court clerk in your local District Court will help you complete the necessary forms</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mian leat ionadaíocht a dhéanmh duit féin, cabhróidh an cléireach cúirte i do Chúirt Dúiche áitiúil na foirmeacha riachtanacha a chomhlánú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Alternatively, your solicitor can assist you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar mhalairt air sin, is féidir leis an dlíodóir cabhrú leat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Removal of a disqualification</seg></tuv>
+  <tuv xml:lang="ga"><seg>Deireadh a chur le dícháiliúchán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have been disqualified from driving and wish to apply to the courts for an early restoration of your licence, you may do so in person or through a solicitor following payment of the appropriate fee.You may apply for the early restoration when half your disqualification period is over</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dícháilíodh thú ó thiomáint agus más mian leat iarratas a dhéanamh ar na cúirteanna d'athbhronnadh luath do cheadúnais ort, is féidir leat amhlaidh a dhéanamh as do stuaim féin nó trí dhlíodóir i ndiaidh na táillí cuí a íoc. Is féidir leat cur isteach ar athbhronnadh luath do cheadúnais tiomána ort nuair atá leath de do thréimhse dhícháilithe caite</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, you cannot apply for an early restoration:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach ní féidir leat cur isteach ar athbhronnadh luath:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If the disqualification is for 2 years or less</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má tá an dícháiliúchán ar feadh dhá bhliain nó níos lú nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If the disqualification is not your first disqualification order within the previous 10 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Más rud é nach bhfuil an dícháiliúchán do ordú dícháiliúcháin chéad laistigh de na 10 mbliana roimhe sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The court can reduce the period of disqualification to two-thirds of the original period of disqualification or to 2 years, whichever is the greater</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis an gcúirt an tréimhse dhícháilithe a laghdú go dtí dhá thrian den tréimhse dhícháilithe tosaigh nó go 2 bhliain, cibé acu is mó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The court clerk of your District and Circuit Court will tell you about the court venues and dates</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabharfaidh cléireach cúirte do Chúirte Dúiche agus Cuarda faisnéis duit faoi na hionaid agus na dátaí cúirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The National Driver Licence Service (NDLS) holds your driving licence while you are disqualified</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn do cheadúnas tiomána á choimeád ag an Seirbhís Náisiúnta um Cheadúnais Tiomána (NDLS) nuair a bhíonn tú dícháilithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To get your driving licence back when your period of disqualification expires contact customer service in the NDLS (see below)</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhonn do cheadúnas tiomána a fháil ar ais nuair a bhíonn do thréimhse dhícháilithe éagtha, déan teagmháil le seirbhís do chustaiméirí sa NDLS (féach thíos)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will need your PPS number or your driver number</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh ort a bheith d'uimhir PSP nó d'uimhir tiománaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can apply to the NDLS for a copy of your driving licence record</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú iarratas a dhéanamh ar an NDLS chun cóip a fháil de thaifead do cheadúnais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Contact information for your local District Court and contact information for your local Circuit Court is located at the front of all public telephone directories and on the Courts Service website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá faisnéis teagmhála do Chúirt Dúiche áitiúla chomh maith le faisnéis teagmhála do Chúirte Cuarda áitiúl ar fáil ag tús an uile eolaí gutháin phoiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Garda Fixed Charge Processing Office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Oifig Próiseála Muirear Seasta an Gharda Síochána</seg></tuv>
+</tu>
+</body>
+</tmx>

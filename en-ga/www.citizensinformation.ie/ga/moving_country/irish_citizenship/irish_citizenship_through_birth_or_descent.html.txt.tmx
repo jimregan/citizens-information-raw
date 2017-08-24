@@ -1,0 +1,361 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Irish citizenship through birth or descent</seg></tuv>
+  <tuv xml:lang="ga"><seg>Saoránacht d'Éirinn ó bhreith nó ó ghinealach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Irish citizenship through birth or descent is a complex area</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is réimse casta í saoránacht Éireannach ó bhreith nó ó ghinealach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This document aims to explain the law regarding Irish citizenship as clearly as possible</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is éard is aidhm leis an gcáipéis seo ná an dlí a bhaineann le saoránacht Éireannach a mhíniú chomh soiléir agus is féidir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It includes information regarding children born to foreign nationals, foreign births and registration procedures</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá eolas curtha leis seo a bhaineann go sonrach le leanaí a saolaítear do naisiúnaigh eachtracha, le breitheanna eachtrannacha agus le nósanna imeachta ó thaobh an chlárúcháin de</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further information regarding Irish citizenship through birth, descent, naturalisation and following marriage is available from your nearest Irish embassy or consulate – see 'Where to apply' below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn fáil i gcónaí ar tuilleadh eolas a bhaineann le saoránacht Éireannach tríd an mbreith, ó ghinealach, tríd an eadóirseacht, agus tar éis pósadh ón ambasáid nó ón gconsalacht Éireannach is gaire duit – féach 'Cá háit a ndéanfaidh mé iarratas' thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you were born on the island of Ireland before 1 January 2005, you are entitled to be an Irish citizen</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má saolaíodh in oileáin na hÉireann tú roimh 1 Eanáir 2005 tá tú i dteideal saoránacht Éireannach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you were born in Ireland after 1 January 2005 and your parent(s) were Irish citizens, then you are also an Irish citizen</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má saolaíodh in Éirinn tú i ndiaidh 1 Eanáir 2005 agus gur Éireannaigh iad do thuismitheoirí, dá réir sin is saoránach Éireannach tusa freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, in certain circumstances some people born in Ireland have to claim Irish citizenship</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áfach, i gcúinsí áirithe, ní mór do dhaoine a saolaíodh in Éirinn saoránacht Éireannach a éileamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find more details about claiming Irish citizenship through special declaration in 'Further information' below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá eolas faoi shaoránacht Éireannach a éileamh trí dhearbhú a dhéanamh ar fhoirm speisialta - féach 'Tuilleadh faisnéise' thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A child born in the island of Ireland on or after 1 January 2005 is entitled to Irish citizenship if they have a British parent or a parent who is entitled to live in Northern Ireland or the Irish State without restriction on their residency</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tuismitheoir Briotanach, nó tuismitheoir atá cónaí neamhtheoranta in Éirinn nó i dTuaisceart air, ag leanbh a shaolaítear ar nó tar éis 1 Eanáir 2005, beidh an leanbh i dteideal saoránacht d’Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A child born in Ireland to a parent who has been granted refugee status is also automatically entitled to Irish citizenship</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh leanbh a shaolaítear in Éirinn do thuismitheoir a mbronntar stádas teifigh i dteideal saoránacht Éireannach sa ghnáthchúrsa freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the Irish Nationality and Citizenship Act 2004, children born of other foreign national parents in the island of Ireland on or after 1 January 2005 are not automatically entitled to Irish citizenship</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoin tAcht Náisiúntachta agus Saoránachta Éireann 2004 níl leanaí a shaolaítear in Éirinn ar nó tar éis 1 Eanáir 2005 do thuismitheoirí náisiúnacha eachtracha eile i dteideal saoránacht Éireannach sa ghnáthchúrsa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These parents must prove that they have a genuine link to Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór do thuismitheoirí náisiúnacha eachtracha áirithe a chruthú go bhfuil fíor-cheangal acu le hÉirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This will be evidenced by their having 3 out of the previous 4 years reckonable residence in the island of Ireland immediately before the birth of the child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cruthófar é seo trí chónaí inríofa a bheith orthu in Éirinn ar feadh 3 bliana as na 4 bliana roimh bhreith an leanbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>On proof of a genuine link to Ireland their child will be entitled to Irish citizenship and they can apply for an Irish passport for their child - see 'How to apply' below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a chruthaítear fíor-cheangal le hÉirinn, beidh a leanbh i dteideal saoránachta Éireannach agus is féidir leo iarratas ar phas Éireannach don leanbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Irish citizen parents born in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tuismitheoirí saoránach Éireannach a rugadh in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If either of your parents was an Irish citizen who was born in Ireland, then you are automatically an Irish citizen, irrespective of your place of birth</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dá mba shaoránach Éireannach ceachtar de do thuismitheoirí agus rugadh sé/sí in Éirinn, is é an gnáthchúrsa é gur saoránach Éireannach tusa, beag beann ar áit do bhreithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are an Irish citizen, you can apply for an Irish passport</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más saoránach Éireannach thú, féadfaidh tú iarratas ar phas Éireannach a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You do not need an Irish passport in order to be an Irish citizen but having an Irish passport is evidence that you are an Irish citizen</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní gá duit pas Éireannach a bheith agat ach má tá pas Éireannach agat, is é seo fianaise gur saoránach Éireannach thú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Irish citizen parents born outside Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tuismitheoirí saoránach Éireannach a rugadh lasmuigh d'Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you were born outside Ireland to an Irish citizen who was born outside Ireland, then you are entitled to become an Irish citizen</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dá mba rud é gur saolaíodh lasmuigh d’Éirinn tú do shaoránach Éireannach, agus gur rugadh eisean nó ise lasmuigh d'Éirinn, tá tú i dteideal saoránach Éireannach a dhéanamh díot féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your parent derived Irish citizenship in another manner, for example, through marriage, adoption or naturalisation, and was an Irish citizen at the time of your birth, you can become an Irish citizen</seg></tuv>
+  <tuv xml:lang="ga"><seg>tríd an bpósadh, tríd an uchtú nó tríd an eadóirseacht agus a raibh ina saoránaigh Éireannacha ag tráth do bhreithe, tá tú i dteideal, saoránach Éireannach a dhéanamh díot féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the parent through whom you derive Irish citizenship was deceased at the time of your birth, but would have been an Irish citizen if alive at that time, you are also an Irish citizen</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhí an tuismitheoir a bhfaigheann tú saoránacht d'Éirinn tríothu básaithe nuair a rugadh tú, ach gur saoránach Éireannach a bheadh ann dá mbeadh sé/sí beo ag an am, is saoránach Éireannach tusa, dá réir sin, freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Also, you derive citizenship through an Irish parent whether or not your parents were married to each other at the time of your birth</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigheann tú saoránacht trí thuismitheoir Éireannach, is cuma an raibh nó nach raibh do thuismitheoirí pósta le chéile ag tráth do bhreithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Claiming Irish citizenship: Before you can claim Irish citizenship, you must have your birth registered in the Foreign Births Register – see below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag éileamh saoránacht Éireannach: Sular féidir leat saoránacht Éireannach a éileamh, áfach, ní mór duit do bhreith a chlárú i gClár na mBreitheanna Eachtrannacha a chothabhálann An Roinn Gnóthaí Eachtracha agus Trádála - féach thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are entitled to register, your Irish citizenship is effective from the date of registration – not from the date when you were born</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más rud é go bhfuil tú i dteideal clárú, beidh éifeacht ag do shaoránacht d’Éirinn ó dháta an chlárúcháin - ní ón dáta ar ar rugadh tú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Citizenship through descent from Irish grandparents</seg></tuv>
+  <tuv xml:lang="ga"><seg>An tsaoránacht ó ghinealach seantuismitheoirí Éireannacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If one of your grandparents is an Irish citizen who was born in Ireland, but neither of your parents was born in Ireland, you may become an Irish citizen</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má saoránach d'Éirinn is ea ceann de do sheantuismitheoirí a rugadh in Éirinn, ach níor saolaíodh in Éirinn aon cheann de do thuismitheoirí, b'fhéidir go mbeifeá i dteideal a bheith i do shaoránach Éireannach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will need to have your birth registered in the Foreign Births Register – see below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní foláir duit cur isteach le do bhreith a chlárú i gClár na mBreitheanna Eachtrannacha - féach thios</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Unless at least one parent or an Irish-born grandparent was an Irish citizen at the time of your birth, you cannot claim Irish citizenship on the basis of extended previous ancestry (that is, ancestors other than your parents or grandparents)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura raibh do thuismitheoirí nó do sheantuismitheoirí a rugadh in Éirinn ina saoránaigh Éireannacha ag tráth do bhreithe, ní féidir leat saoránacht d'Éirinn a éileamh ar an mbonn go bhfuil sinsearacht i bhfad amach agat (.i</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In addition, you cannot claim Irish citizenship on the basis that a relation such as a cousin, aunt or uncle was an Irish citizen if none of your parents or grandparents was an Irish citizen at the time of your birth</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina cheann ar sin, ní féidir leat saoránacht d'Éirinn a éileam ar an mbonn gurbh shaoránaigh Éireannacha a bhí i do chol ceathrair, i d'aintín nó i d'uncail; murarbh amhlaidh gurbh shaoránaigh Éireannacha a bhí i do thuismitheoirí nó i do sheantuismitheoirí ag tráth do bhreithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The following table may help to explain the situation:</seg></tuv>
+  <tuv xml:lang="ga"><seg>B'fhéidir go gcabhródh an tábla seo a leanas leis na cúinsí a mhíniú:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are: Then you are:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dá mba rud é gur: Dá réir sin, is/tá:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A Born in the island of Ireland on or before 31 December 2004 Entitled to Irish citizenship or you are an Irish citizen</seg></tuv>
+  <tuv xml:lang="ga"><seg>A Gur rugadh ar oileán na hÉireann tú ar 31 Nollaig 2004 nó roimhe sin Tá tú i dteideal ar shaoránacht Éireannach nó is saoránach Éireannach tú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Entitled to Irish citizenship if one or both of your parents:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tú i dteideal ar shaoránacht Éireannach más do thuismitheoir:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>B Born on the island of Ireland on or after 1 January 2005 • Is British or entitled to live in Northern Ireland or the Irish State without restriction on their residency</seg></tuv>
+  <tuv xml:lang="ga"><seg>B Gur rugadh ar oileán na hÉireann tú ar 1 Eanáir 2005 nó ina dhiaidh sin • Briotanach nó i dteideal bheith ina chónaí i dTuaisceart na hÉireann nó sa Stát gan aon srian ar a gcónaitheacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Is a foreign national legally resident in the island of Ireland for 3 out of 4 years immediately prior to your birth</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Náisiúnach eachtrach a raibh cónaí orthu go dleathach in Éirinn ar feadh 4 bhliana ar a laghad as an tréimhse 4 bliana díreach roimh bhreith duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Has been granted refugee status in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bronntar stádas teifigh air/uirthi</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>C Child of A, born outside the island of Ireland An Irish citizen</seg></tuv>
+  <tuv xml:lang="ga"><seg>C Gur páiste le hA tú, agus gur saolaíodh lasmuigh d'Éirinn tú Saoránach Éireannach tú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>D Child of C and a grandchild of A, born outside the island of Ireland Entitled to Irish citizenship, but you must first register in the Foreign Births Register</seg></tuv>
+  <tuv xml:lang="ga"><seg>D Gur páiste le C tú, agus gur garpháiste le hA tú, agus gur saolaíodh lasmuigh d'Éirinn tusa Tá tú i dteideal shaoránacht d'Éirinn, ach ní mór duit clárú ar Chlár na mBreitheanna Eachtrannacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>E a child of D and a great-grandchild of A, born outside the island of Ireland Entitled to Irish citizenship, by having your birth registered in the Foreign Births Register, but only if your parent D had registered by the time of your birth</seg></tuv>
+  <tuv xml:lang="ga"><seg>E Gur páiste le D tú, agus gur gharpháiste mhac/iníon le hA tú, agus gur saolaíodh lasmuigh d'Éirinn tú Tá tú i dteideal shaoránacht d'Éirinn, ó tharla gur chláraíodh do bhreith i gClár na mBreitheanna Eachtracha, sa chás amháin gur chláraíodh breith do thuismitheora D faoi thráth do bhreithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can use the online tool on the INIS website to check if you are an Irish citizen by birth or decent</seg></tuv>
+  <tuv xml:lang="ga"><seg>An tsaoránacht Éireannach tríd an uchtú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the Irish Nationality and Citizenship Act 1956, if a child who is not an Irish citizen is adopted by an Irish citizen or a couple where either spouse is an Irish citizen, then the adopted child shall be an Irish citizen</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi Acht Náisiuntachta agus Saoránachta Éireann 1956, dá mba rud é go ndéanann saoránach Éireannach nó lánúin inar saoránach Éireannach ceachtar den nuachar, go ndéanann siad páiste a uchtú nach saoránach Éireannach é an páiste sin; dá réir sin is saoránach Éireannach é an páiste ar uchtaíodh é</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If an Irish citizen who is living abroad adopts child abroad, they should apply for the adoption to be entered in the Register of Intercountry Adoptions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá saoránach Éireannach ina chónaí thar lear agus má d’uchtaigh siad leanbh thar lear, ba chóir duit iarratas ar chlárú an uchtaithe sa Chlár um Uchtuithe Idir Thíortha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Once it is registered, the adoption has the same legal status as if the adoption was made in the State</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair tá an t-uchtú cláraithe, is ionann stádas dlíthiúil an uchtaithe agus uchtaithe déanta sa Stát</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If an Irish citizen living in the State adopts a child from outside the State, immigration procedures must be observed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá saoránach Éireannach ina chónaí sa Stát leanbh agus déanann siad leanbh a uchtú ó lasmuigh den Stát, ní mór cloí le nósanna imeachta a bhaineann leis an inimirce</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In order for the adopted child to enter the State, immigration clearance must be obtained in advance from the Department of Justice and Equality</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór imréiteach inimirce a fháil roimhré sa chaoi go ligfear don pháiste teacht isteach sa Stát; imréiteach a fhaightear ón Roinn Dlí agus Cirt agus Comhionannais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This clearance will only be granted once the adoptive parent(s) proposing to adopt abroad have successfully completed the assessment procedure and have had a declaration made in their favour by the Adoption Authority of Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhronnfar an t-imréiteach seo ach a gcomhlíonfaidh an/na tuismitheoir(í) uchtála, ar leo an togra páiste a uchtú thar lear; ach a gcomhlíonfaidh siad an nós imeachta measúnaithe agus gur eisigh Údarás Uchtála na hÉireann dearbhúchán i bhfabhar a leith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This process is known as intercountry adoption</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh eolais faoin uchtú idirthíorthach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Every deserted infant first found in Ireland will, unless the contrary is proved, (that is, the parents of the child come forward and clarify that the child is not Irish) be considered to have been born in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gach naíonán a gcéadtagtar orthu in Éirinn agus iad tréigthe ag a gcuid tuismitheoirí; measfar fúthu, mura gcruthófar a mhalairt, (.i. tagann tuismitheoirí an linbh chun cinn agus soiléiríonn siad nach naíonán Éireannach é an leanbh) gur rugadh in Éirinn iad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Department of Foreign Affairs and Trade maintains the Foreign Births Register where people who are eligible to become Irish citizens can register their birth</seg></tuv>
+  <tuv xml:lang="ga"><seg>Coinníonn an Roinn Gnóthaí Eachtracha agus Trádála Clár na mBreitheanna Eachtrannacha ina gcláraíonn daoine atá i dteideal saoránachta Éireann a gcuid breith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have a grandparent born in Ireland or if your parent was granted Irish citizenship or was deemed to be an Irish citizen before you were born, then you can apply to register in the Foreign Births Register – see ‘How to apply’ below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má rugadh do sheantuismitheoir nó má bhronnadh saoránacht Éireannach ar do thuismitheoir, is féidir iarratas ar chlárú sa Chlár na mBreitheanna Eachtrannacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are entitled to register, your Irish citizenship is effective from the date of registration</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más rud é go bhfuil tú i dteideal do chláraithe, beidh éifeacht ag do shaoránacht d'Éirinn ón dáta cláraithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Irish citizenship of successive generations may be maintained in this way by each generation ensuring their registration in the Foreign Births Register before the birth of the next generation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfar saoránacht d'Éireann de chuid na nglúnta ina dhiaidh sin a chothabháil ar an mbealach sin, trí gach glúin ag cinntiú go gclárófar iad féin i gClár na mBreitheanna Eachtrannacha sula saolófar an chéad ghlúin eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Since 1 July 1986, a person registered in the Foreign Births Entry Book after 1986 is deemed to be an Irish citizen only from the date of their entry in the Register and not from the date of birth</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ón 1 Iúil 1986, i gcás an duine ar cláraithe sa Chlár na mBreitheanna Eachtrannacha iad, meastar nach saoránach Éireannach iad ach amháin ón dáta ar ar iontráladh sa Chlár iad agus ní ó dháta a mbreithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that children born to that person before their date of entry in the Register are not entitled to citizenship</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is éard is brí leis seo ná nach mbíonn páistí a shaolaítear don duine sin roimh dháta a n-iontrála sa Chlár i dteideal saoránachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>People registered before July 1986 are deemed Irish citizens either from the date the original Irish Nationality and Citizenship Act came into force, that is, 17 July 1956, or their date of birth, whichever is later</seg></tuv>
+  <tuv xml:lang="ga"><seg>Meastar daoine ar cláraíodh roimh an Iúil 1986 iad a bheith ina saoránaigh Éireannacha ón dáta inar tháinig an bun-Acht Saoránachta i bhfeidhm, .i. 17 Iúil 1956, nó ó dháta a mbreithe, cibé ceann acu is déanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Only children born after 17 July 1956 can claim citizenship in such cases</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir ach le páistí ar rugadh tar éis 17 Iúil 1956 iad saoránacht a éileamh ina leithéid de chás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you wish to be included in the Foreign Births Register you must use the online application facility</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mian leat bheith áirithe ar Chlár na mBreitheanna Eachtrannacha, caithfidh tú an áis iarratais ar líne a úsáid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find information about making an online application, the documents required, the photographic requirements and the fees on the website of the Department of Foreign Affairs and Trade</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá faisnéis maidir le hiarratas ar líne a dhéanamh, na doiciméid riachtanach, na riachtanais fótagrafach agus na táillí ar shuíomh gréasáin na Roinne Gnóthaí Eachtracha agus Trádála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Once you have completed the online form you must send your printed application and required supporting documentation to the Irish embassy or consulate for the country in which you live – see 'Where to apply' below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair atá an fhoirm ar líne comhlánaithe agat, caithfidh d’iarratas clóite agus cáipéisíocht tacaíochta riachtanach a sheoladh a chuig an ambasáid nó chuig an chonsalacht don tír ina bhfuil tú i do chónaí – féach ‘Cá háit a ndéanfaidh mé iarratas’ thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are resident in Ireland you must send your application to the Consular Section of the Department of Foreign Affairs and Trade in Dublin – see ‘Where to apply’ below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhuil tú i do chónaí in Éirinn, caithfidh tú d’iarratas a sheol chuig an Rannóg Chonsalachta na Roinne Gnóthaí Eachtracha agus Trádála – féach ‘Cá háit a ndéanfaidh mé iarratas’ thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Once the process is completed, you will be provided with a certificate confirming your entry in the Irish Register of Foreign Births</seg></tuv>
+  <tuv xml:lang="ga"><seg>Soláthrófar teastas don iarrthóir, ach a gcomhlántar an próiseas, ag deimhniú a n-iontrála i gClár na mBreitheanna Eachtrannacha de chuid na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This certificate can be used as proof of Irish citizenship when applying for an Irish passport</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfar leas a bhaint as an teastas sin mar chruthúnas ar shaoránacht d'Éirinn nuair a bheifear ag cur isteach ar phas Éireannach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Please note that Irish passport applications cannot be accepted at the same time as citizenship applications - these are 2 very distinct processes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabhair faoi deara , le do thoil, nach féidir glacadh le hiarratais ar phasanna Éireannacha ag aon tráth amháin le hiarratais ar shaoránacht - is dhá phróiseas ar leithligh óna chéile iad seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Passport for an Irish-born child of foreign national parents</seg></tuv>
+  <tuv xml:lang="ga"><seg>Pas do leanbh a rugadh in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Residence in Ireland: Non-EEA nationals must provide evidence of residence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cónaí in Éirinn: Ní mór do dhaoine nach saoránaigh den LEE fianaise chónaithe a sholáthar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Their passport application must include a letter listing their passport's immigration stamps which detail their residence in Ireland and their Certificate of Registration (GNIB card)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh a n-iarratas ar phas a áirigh litir a thugann le fios na stampaí inimirce ar a bpas ar fhianaise chónaithe iad agus a dTeastas Clárúcháin (cárta BNGSI)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Residence in Northern Ireland: Non-EEA nationals who have permission to live in the UK must apply to the Department of Justice and Equality for a certificate of nationality for their Irish-born child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cónaí i dTuaisceart Éireann: Caithfidh náisiúnaigh neamh-LEE atá cead acu cónaí sa Ríocht Aontaithe iarratas ar theastas náisiúntachta le haghaidh a leanbh a rugadh in Éirinn a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The letter of application must be accompanied by a completed declaration form C (pdf) together with 2 documents for each of the 3 years giving proof of address in Northern Ireland such as driving licence and utility bills</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don litir gabh le foirm ráitis C (pdf)comhlánaithe chomh maith le 2 dhoiciméad do gach bliain de na 3 bliana a chruthaíonn an seoladh i dTuaisceart Éireann, mar cheadúnas tiomána nó bhillí fóntais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When the certificate of Irish nationality for the child has been received by the parents, they may then apply for an Irish passport for the child, using the certificate of nationality as proof of Irish citizenship</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a gheobhaidh na tuismitheoirí an teastas náisiúntachta Éireann don leanbh, féadfaidh siad ansin cur isteach ar phas Éireann don leanbh, ag baint leasa as an teastas náisiúntachta mar chruthú ar shaoránacht Éireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>EEA and Swiss nationals</seg></tuv>
+  <tuv xml:lang="ga"><seg>Náisiúnaigh an LEE agus na hEilvéise</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>EEA and Swiss nationals who wish to apply for a Irish passport for their child do not need a certificate of nationality</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mian le saoránaigh an LEE agus na hEilvéise iarratas a dhéanamh ar phas Éireann don leanbh, ní gá dóibh teastas náisiúntachta a bheith acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The passport application must include a declaration form A (pdf) completed by the parent and a person such as a solicitor or teacher who knows the parent</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh an iarratas ar phasan fhoirm ráitis A (pdf) a chur san áireamh an fhoirm ráitis A (pdf) a chur san áireamh, arna comhlánú ag an tuismitheoir agus ag duine mar aturnae nó mhúinteoir a bhfuil aithne aige ar an tuismitheoir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Contact your nearest Irish embassy or consulate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déan teagmháil leis an ambasáid nó ón gconsalacht Éireannach is gaire duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Department of Foreign Affairs and Trade</seg></tuv>
+  <tuv xml:lang="ga"><seg>An Roinn Gnóthaí Eachtracha agus Trádála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Opening Hours:Monday to Friday, 10am - 1pm</seg></tuv>
+  <tuv xml:lang="ga"><seg>Uaireanta Oscailte:Monday to Friday, 10am - 1pm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Tel:+353 1 408 2555</seg></tuv>
+  <tuv xml:lang="ga"><seg>Teil:+353 1 408 2555</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Department of Justice Office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Oifig na Roinne Dlí agus Cirt agus Comhionannais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Opening Hours:Helpline: 10:00 am -12:30 pm, Tuesdays and Thursdays only</seg></tuv>
+  <tuv xml:lang="ga"><seg>Uaireanta Oscailte:Líne chabrach 10-12.30pm Dé Máirt agus Déardaoin amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Claiming Irish citizenship through special declaration</seg></tuv>
+  <tuv xml:lang="ga"><seg>Saoránacht d’Éirinn a éileamh trí dhearbhú a dhéanamh ar fhoirm speisialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some people may only claim Irish citizenship by making a declaration on a special form</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá roinnt daoine, nach féidir leo saoránacht d’Éirinn a éileamh ach amháin trí dhearbhú a dhéanamh ar fhoirm speisialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A person born on the island of Ireland to a foreign national who at the time of that person's birth was entitled to diplomatic immunity within the State (for example, a foreign ambassador)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Duine a saolaíodh ar oileán na hÉireann do náisiúnach eachtrach a bhí i dteideal ar dhíolúine taidhleoireachta laistigh den Stát ag an tráth ar saolaíodh an duine sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A person born in Irish sea or air space to a foreign national on a foreign ship or in a foreign aircraft</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Duine a saolaíodh do náisiúnach eachtrach ar long eachtrannach nó in aerárthach eachtrannach i limistéar farraige nó in aerspás na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A person born on the island of Ireland who has made a declaration of alienage on form 13 (pdf) under Section 21 of the Irish Nationality and Citizenship Act 1956 (that is, a person who has declared that they are no longer an Irish citizen)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Duine a saolaíodh ar oileán na hÉireann agus a rinne dearbhú eachtrannais san fhoirm 13 (pdf) faoi Alt 21 d’Acht Náisiúntachta agus Saoránachta Éireann 1956 (.i. duine a dhearbhaigh nach saoránach d’Éireann a thuilleadh é nó í)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Such a person can resume Irish citizenship by making a declaration using form 1 (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh an duine sin saoránacht d’Éirinn a athshealbhú dóibh féin trí dhearbhúchán a dhéanamh san fhoirm 1 (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These forms are available from the Irish Naturalisation and Immigration Service or your nearest Irish embassy or consular office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá fáil ar na foirmeacha a gcuirtear síos orthu thuas ón tSeirbhís na hÉireann um Eadóirseacht agus Inimirce nó ón ambasáid Éireannach nó ón oifig chonsalachta is gaire duit</seg></tuv>
+</tu>
+</body>
+</tmx>

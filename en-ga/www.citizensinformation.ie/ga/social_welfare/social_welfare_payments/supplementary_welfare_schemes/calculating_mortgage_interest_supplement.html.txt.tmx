@@ -1,0 +1,453 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Calculating Mortgage Interest Supplement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Conas Forlíonadh Ús Morgáiste a ríomh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Step 1: Find weekly household income</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Céim 1: Faigh amach ioncam teaghlaigh seachtainiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Step 2: Subtract income disregards</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Céim 2: Dealaigh neamhairde ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Step 3: Deduct Supplementary Welfare Allowance rate</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Céim 3: Bain as ráta an Liúntais Leasa Fhorlíontaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Step 4: Find your monthly contribution to mortgage interest</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Céim 4: Faigh amach do ranníocaíocht mhíosúil úis morgáiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>From 1 January 2014, the Mortgage Interest Supplement scheme is closed to new entrants and no new applications will be accepted from this date</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó 1 Eanáir 2014, tá deireadh leis an scéim Forlíonadh Ús Morgáiste d'iarratasóirí nua agus ní ghlacfar aon iarratas nua ón dáta seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This measure does not affect current claimants immediately (people who were getting Mortgage Interest Supplement before 1 January 2014)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhainfidh an beart seo le héilitheoirí reatha láithreach (daoine a fhaigheann Forlíonadh Ús Morgáiste roimh 1 Eanáir 2014</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The scheme will be wound down for existing claimants over a 4-year period</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tiocfaidh an scéim chun críche d’éilitheoirí reatha thar thréimhse 4 bhliain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Before you start to calculate your Mortgage Interest Supplement you must check whether you qualify</seg></tuv>
+  <tuv xml:lang="ga"><seg>Roimh d’Fhorlíonadh Ús Morgáiste a ríomh, caithfidh tú faigh amach go bhfuil tú cáilithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>More information on the qualifying criteria is available in our document on Mortgage Interest Supplement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh eolais faoi na critéir cáilithe ar fáil sa doiciméad maidir le Forlíonadh Ús Morgáiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will only get help with the interest portion of your mortgage repayments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní thabharfar cúnamh duit ach amháin le sciar úis na haisíocaíochtaí morgáiste atá agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will not get help with the portion that pays off the actual loan and house insurance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní thabharfar cúnamh duit leis an sciar a íocann an iasacht iarbhír agus árachas tí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your interest is assessed as your gross monthly interest less any mortgage interest relief and any mortgage allowance or mortgage subsidy payable towards the interest part of your mortgage by the local authority</seg></tuv>
+  <tuv xml:lang="ga"><seg>Meastar d'ús mar ús comhlán míosúil arna laghdú d' fhaoiseamh úis morgáiste agus de aon liúntas morgáiste nó fóirdheontas morgáiste a íocann an t-údarás áitiúil le haghaidh na coda úis de do mhorgáiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Calculating Mortgage Interest Supplement is very complex</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé an-chasta Forlíonadh Ús Morgáiste a ríomh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Department of Social Protection's representative (formerly known as the Community Welfare Officer) will calculate your entitlement to Mortgage Interest Supplement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfaidh an tOifigeach Leasa Pobail atá agat do theidlíocht ar Fhorlíonadh Ús Morgáiste a ríomh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have any questions about your entitlement to Mortgage Interest Supplement you should contact your local DSP representative</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá ceisteanna ar bith agat faoi do theidlíocht maidir le Forlíonadh Ús Morgáiste, ba chóir duit dul i dteagmháil le an t-ionadaí Roinne Coimirce Sóisialaí (a tugadh an tOifigeach Leasa Pobail air roimhe seo)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This document shows you the steps involved in calculating Mortgage Interest Supplement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léiríonn an doiciméad seo na céimeanna a bhaineann le Forlíonadh Ús Morgáiste a ríomh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are 5 steps:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seo iad na 5 céimeanna:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Step 1 is to find your weekly household income</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Céim 1 chun d'ioncam teaghlaigh iomlán seachtainiúil a fháil amach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Steps 2 and 3 are to find out your weekly assessable income</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Céimeanna 2 agus 3 chun d'ioncam inmheasúnaithe seachtainiúil a fháil amach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Only a certain amount of your weekly household income is taken into account</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní dhéantar ach méid áirithe den ioncam teaghlaigh iomlán seachtainiúil atá agat a thógáil san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your assessable income is the amount of household income which is taken into account when calculating your Mortgage Interest Supplement</seg></tuv>
+  <tuv xml:lang="ga"><seg>An t-ioncam inmheasúnaithe atá agat ná an méid ioncaim teaghlaigh a thógann an t-ionadaí Roinne Coimirce Sóisialaí san áireamh nuair atá Forlíonadh Ús Morgáiste á ríomh duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Step 4 is to find your total monthly contribution to mortgage interest by adding your weekly assessable income and the minimum Household Contribution</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Céim 4 ná d'ioncam inmheasúnaithe seachtainiúil a chur leis an Ranníocaíocht Teaghlaigh íosmhéide chun do ranníocaíocht ús morgáiste iomlán mhíosúil a fháil amach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Step 5 is to find your Mortgage Interest Supplement by subtracting your total monthly contribution to your mortgage interest from the monthly mortgage interest due to your lender</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Céim 5 ná do ranníocaíocht míosúíl iomlán i dtreo d’úis morgáiste a thógáil agus a dhealú ón ús morgáiste míosúil atá agat chun do Fhorlíonadh Ús Morgáiste dlite d’iasachtóir a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Step 1: Find weekly household income</seg></tuv>
+  <tuv xml:lang="ga"><seg>Céim 1: Faigh amach ioncam teaghlaigh seachtainiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Find your total weekly household income</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigh amach d'ioncam teaghlaigh iomlán seachtainiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Income source Amount per week</seg></tuv>
+  <tuv xml:lang="ga"><seg>Foinse ioncaim Méid in aghaidh na seachtaine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Assessable income from part-time employment - see Note 1</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ioncam inmheasúnaithe ó fhostaíocht páirtaimseartha - féach Nóta 1</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Cash income (for example, maintenance)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ioncam in airgead tirim (mar shampla, cothabháil)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Capital (for example, property, savings and investments) - see Note 2</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caipiteal (mar shampla, maoin, coigiltis agus infheistíochtaí - féach Nóta 2</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Assessable income from part-time employment is gross income less PRSI and reasonable travel expenses</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is éard is ioncam inmheasúnaithe ó fhostaíocht ná ollioncam lúide ÁSPC agus speansais taistil réasúnta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>How your travel expenses are assessed can depend on where you live</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá measúnú do chostais taisteal ag brath ar an áit ina bhfuil tú i do chónaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The capital value of property (except your own home), investments and savings will be assessed on a weekly basis as follows:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfar luach caipitil maoine (seachas do theach féin), infheistíochtaí agus coigiltis a mheasúnú ar bhonn seachtainiúil mar seo a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>First €5,000 is not taken into account</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chuirtear an chéad €5,000 san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Next €10,000 is assessed at €1 per €1,000</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar an chéad €10,000 eile a mheasúnú ag €1 in aghaidh €1,000</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Next €25,000 is assessed at €2 per €1,000</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar an chéad €25,000 eile a mheasúnú ag €2 in aghaidh €1,000</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Any capital over €40,000 is assessed at €4 per €1,000</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar caipiteal ar bith eile os cionn €40,000 eile a mheasúnú ag €4 in aghaidh €1,000</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Step 2: Subtract income disregards</seg></tuv>
+  <tuv xml:lang="ga"><seg>Céim 2: Dealaigh neamhairde ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Subtract any income not taken into account in the assessment for Mortgage Interest Supplement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dealaigh ioncam ar bith nach dtógtar san áireamh sa mheasúnú maidir le Forlíonadh Ús Morgáiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Income not taken into account is also known as an income disregard</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar neamhaird ioncaim freisin ar ioncam nach bhfuil san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The following items are not taken into account as income for calculating Mortgage Interest Supplement:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní thógtar na míreanna seo a leanas san áireamh mar ioncam agus Forlíonadh Ús morgáiste á ríomh:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Foster care payments from the Health Service Executive (HSE)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Íocaíochtaí um chúram altrama ó Fheidhmeannacht na Seirbhíse Sláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Payments for accommodating children under the Child Care Act</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Íocaíochtaí as cóiríocht a thabhairt do leanaí faoin Acht um Chúram Leanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Income from Gaeltacht students</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ioncam ó mhic léinn ag freastal ar an nGaeltacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Grants or allowances from schemes promoting the welfare of blind people</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Deontais nó liúntais ó scéimeanna a chuireann leas na ndall chun cinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Money received from charitable organisations, for example, St Vincent de Paul</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Airgead a fhaightear ó eagraíochtaí carthanachta, mar shampla, Cumann Naomh Uinseann de Pól</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Compensation awarded by the Compensation Tribunal in respect of Hepatitis C contracted from certain blood products, to those who have disabilities caused by Thalidomide and to those receiving compensation under the Residential Institutions Redress Board</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cúiteamh a dhámh an Bord um Shásamh maidir le Heipitíteas C fuarthas ó tháirgí fola áirithe, dóibh siúd a bhfuil míchumais orthu mar gheall ar Tailídimíd agus dóibh siúd a bhfuil cúiteamh á fháil acu ón mBord um Shásamh i leith Foras Cónaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Maintenance grants paid by VEC or Local Authorities for educational purposes • Domiciliary Care Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Deontais chothabhála arna íoc ag an gCoiste Gairmoiliúna nó ag na hÚdaráis Áitiúla chun críocha oideachasúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Guardian's Payment (Contributory) and Guardian's Payment (Non-Contributory) • Pensioners: If you are aged 65 or over (or where one of a couple is of pensionable age) and have a combined household income greater than the rate of SWA appropriate to your household circumstances, the difference between the maximum rate of State Pension (Contributory) appropriate to your circumstance and the rate of SWA appropriate to your circumstances is not taken into account</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má tá tú 65 bliana d'aois nó níos sine ná sin (nó sa chás go bhfuil aois an phinsin bainte amach ag duine de lánúin) agus comhioncam teaghlaigh acu atá níos mó ná ráta an LLF atá iomchuí d'imthosca do theaghlach, ceadaítear neamhaird duit atá cothrom leis an difear idir uasráta an Phinsin Stáit (Ranníocach) atá iomchuí do d'imthosca agus ráta an LLF atá iomchuí do d'imthosca</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Carers' payments: The half-rate Carer's Allowance is never taken into account</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An Liúntas Cúramóra ar leathráta nua</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you are getting Carer's Allowance, the amount of Carer's Allowance above the appropriate SWA rate for your situation (either the adult dependent rate for a couple or the personal rate of SWA) is not taken into account</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má tá an Liúntas Cúramóra caighdeánach á fháil agat, ní thógtar an méid ón Liúntas Cúramóra atá os cionn ráta bunúsach an LLF a bhaineann le do staid (ceachtar den ráta do chleithiúnaí aosaithe nó den ráta pearsanta do dhuine aonair) san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Any amount of Carer's Benefit in excess of the basic SWA rate for your situation (either the adult dependent rate or the personal rate of SWA) is not taken into account</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní thógtar Sochar Cúramóra os cionn ráta bunúsach an LLF a bhaineann le do staid (ceachtar den ráta do chleithiúnaí aosaithe nó den ráta pearsanta do dhuine aonair) san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Income from working as a home help with the HSE used to be disregarded for all social assistance payments but from January 2012 this income is taken into account</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Deontas Cúraim Faoisimh • Íocaíocht Chaomhnóra (Ranníocach) agus Íocaíocht Chaomhnóra (Neamh-Ranníocach)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Additional Household Income Disregard</seg></tuv>
+  <tuv xml:lang="ga"><seg>Neamhaird Ioncaim Teaghlaigh Bhreise</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are working or getting maintenance or have additional household income* you should apply the Additional Household Income Disregard</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ag obair nó ag fáil cothabhála nó má tá ioncam teaglaigh bhreise agat, caithfidh tú an Neamhaird Ioncaim Teaghlaigh Bhreise a úsáid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Additional Household Income Disregard is a certain amount of your household income above the SWA rate which is not taken into account</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is méid áirithe é an Neamhaird Ioncaim Teaghlaigh de d'ioncam teaghlaigh nach dtugtar san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>€75 of any additional household income is not taken into account</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní thugtar €75 de ioncam teaghlaigh breise ar bith san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Also, 25% of your additional household income over €75 is not taken into account</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, ní thugtar 25% ó do ioncam teaghlaigh breise os cionn €75 san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is no upper limit on the amount that can be disregarded – see Note 3</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon uasteorainn ar an méid gur féidir neamhaird a dhéanamh de – féach Nóta 3</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>*Additional household income includes income from the following:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áiríonn Neamhaird Ioncaim Teaghlaigh Bhreise ioncam mar a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Part-time employment or part-time self employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Fostaíocht páirtaimseartha nó féinfhostaíocht páirtaimseartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Any employment or training scheme, for example, Community Employment, Back to Work Allowance, Back to Work Enterprise Allowance or FÁS course</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Scéim fostaíochta nó oiliúna ar bith, mar shampla, FP, Liúntas um Fhilleadh ar Obair, Liúntas Fiontraíochta um Fhilleadh ar Obair nó cúrsa FÁS</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Maintenance payments over €95.23</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Íocaíochtaí Cothabhála os cionn €95.23</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To calculate the Additional Household Income Disregard:</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhonn an Neamhaird Ioncaim Teaghlaigh Bhreise a ríomh:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Less Supplementary Welfare Allowance rate – see Step 3 below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Lúide ráta Liúntas Leasa Forlíontach (LLF) – féach Céim 3 thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Less 25% of any income you have after you have subtracted €75</seg></tuv>
+  <tuv xml:lang="ga"><seg>Lúide 25% ó ioncam ar bith atá agat i ndiaidh duit €75 a dhealú uaidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Income (less SWA rate ) €200 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Ioncam (lúide ráta LLF) €200 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Get 25% of total: €125 ÷ 4 = €31.25 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Faigh 25% de méid iomlán: €125 ÷ 4 = €31.25 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Add both disregards: €75 + €31.25 = €106.25 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Suimigh an dá neamhairde: €75 + €31.25 = €106.25 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Household Income Disregard = €106.25 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Neamhaird Ioncaim Teaghlaigh = €106.25 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Note 3: Rehabilitative Earnings Disregard</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nóta 3: Neamhaird Tuillimh Athshlánúcháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are working and getting Disability Allowance or Blind Pension you can either use the Rehabilitative Earnings Disregard or the Additional Household Income Disregard (but not both)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ag obair agus ag fáil Liúntais Míchumais nó Pinsin na nDall, is féidir leat Neamhaird Tuillimh Athshlánúcháin nó Neamhaird Ioncaim Teaghlaigh a úsáid (ní féidir an dá cheann a úsáid)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Use whichever is in your interest</seg></tuv>
+  <tuv xml:lang="ga"><seg>Úsáid cibé ceann is fearr a oireann duit féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Rehabilitative Earnings Disregard is a certain amount of your income from rehabilitative work which is not taken into account</seg></tuv>
+  <tuv xml:lang="ga"><seg>Neamhaird Tuillimh Athshlánúcháin is ea méid áirithe den ioncam atá agat ó obair athshlánúcháin nach dtógtar san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>€120 from rehabilitative training or employment is not taken into account</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní thógtar €120 ó oiliúint nó fostaíocht athshlánúcháin san áireamh sa mheasúnú maidir le Forlíonadh Ús Morgáiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the assessment for contribution to Mortgage Interest Supplement all earnings over €120 from rehabilitative training or employment are taken into account and will affect your Mortgage Interest Supplement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tógtar gach tuilleamh os cionn €120 ó oiliúint nó fostaíocht athshlánúcháin san áireamh agus beidh tionchar aige ar bForlíonadh Ús Morgáiste atá agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Step 3: Deduct Supplementary Welfare Allowance rate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Céim 3: Bain as ráta an Liúntais Leasa Fhorlíontaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Subtract the basic Supplementary Welfare Allowance (SWA) weekly rate for your household from the weekly household income after disregards that you calculated in Step 2, unless you have applied the Additional Household Income Disregard</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dealaigh an ráta bunúsach seachtainiúil de Liúntas Leasa Forlíontach (LLF) an teaghlaigh ón ioncam teaghlaigh iomlán seachtainiúil i ndiaidh neamhairde atá ríofa agat i gCéim 2, mura mbíonn an Neamhaird Ioncaim Teaghlaigh Bhreise úsáidte agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you applied the Additional Household Income Disregard in Step 2 you will have already deducted the appropriate SWA rate for your household</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá an Neamhaird Ioncaim Teaghlaigh Bhreise úsáidte agat i Céim 2, beidh an ráta LLF an teaglaigh asbhainte cheana féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are 26 years of age or over, the basic weekly SWA rate in 2014 is:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá bonn ráta an LLF mar seo a leanas (2014):</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>People under 26 years of age get a reduced age related rate of Supplementary Welfare Allowance. However, there are exceptions and some people under 26 may get a higher basic SWA rate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh eolais faoin ráta LLF do dhaoine faoi bhun 26 bliana d’aois ar fáil sa doiciméad maidir le Liúntas Leasa Forlíontach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should now have calculated your weekly assessable income</seg></tuv>
+  <tuv xml:lang="ga"><seg>Anois, tá d'ioncam inmheasúnaithe seachtainiúil ríofa agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Step 4: Find your monthly contribution to mortgage interest</seg></tuv>
+  <tuv xml:lang="ga"><seg>Céim 4: Faigh amach do ranníocaíocht mhíosúil úis morgáiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Find the total amount you must pay towards your mortgage interest</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigh amach an méid iomlán a chaithfidh tú a íoc i dtreo d’ús morgáiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To do this, add your weekly assessable income (this is the total figure from Step 3) and your minimum Household Contribution (either €30 or €40 per week – see Note 5)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leis an méid seo a dhéanamh, suimigh d'ioncam inmheasúnaithe seachtainiúil (an figiúr iomlán ó Chéim 3) agus do Ranníocaíocht Teaghlaigh íosmhéide (€30 ó €40 sa tseachtain – féach Nóta 5)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Then multiply this figure by 52 and divide by 12 to get your monthly contribution to mortgage interest</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ansin iolraigh an figúir seo faoi 52 agus roinn faoi 12 chun do ranníocaíocht mhíosúil úis morgáiste a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Weekly assessable income €</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ioncam inmheasúnaithe seachtainiúil €</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Add Household Contribution €____</seg></tuv>
+  <tuv xml:lang="ga"><seg>Suimigh Ranníocaíocht Teaghlaigh €____</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Total weekly contribution to mortgage interest €</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ranníocaíocht sheachtainiúil úis morgáiste €</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Monthly contribution to mortgage interest €</seg></tuv>
+  <tuv xml:lang="ga"><seg>Méid iomlán ranníocaíocht mhíosúil úis morgáiste €</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Note 5: Further information about the Household Contribution</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nóta 5: Faisnéis bhreise faoi Ranníocaíocht Teaghlaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must contribute at least €30 towards your mortgage interest</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don teaghlach €30 i dtreo úis morgáiste a ranníoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Non-dependent household members who are solely dependent on a personal social welfare payment must also contribute at least €30</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní do bhaill teaghlaigh neamhchleithiúnacha atá ag brath go hiomlán ar íocaíocht leasa shóisialaigh phearsanta €30 a ranníoc chomh maith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if benefit and privilege has been assessed against your social welfare payment you will not have to contribute €30</seg></tuv>
+  <tuv xml:lang="ga"><seg>É sin ráite, má bhí an Sochar agus Pribhléid measúnaithe i gcoinne d'íocaíocht leasa shóisialaigh ní bheidh ort €30 a ranníoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Department of Social Protection's representative (formerly known as the Community Welfare Officer) can reduce the amount of Mortgage Interest Supplement payable by an amount which in their opinion should be payable by each non-dependent household member in employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis an Oifigeach Leasa Pobail méid an Fhorlíonta Ús Morgáiste atá iníoctha a laghdú faoi mhéid ar bith atá inchurtha i leith gach ball teaghlaigh neamhspleách i bhfostaíocht dar leis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Custom and practice is that the assessable income of the non-dependent household member (that is, gross income less PRSI and travel costs to work) is divided by the appropriate rate of SWA for their situation which is then multiplied by €30 to establish their liability to contribute</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an nósmhaireacht agus an cleachtas go ndéantar ioncam inmheasúnaithe an bhaill teaghlaigh neamhchleithiúnaigh (i., ollioncam lúide ÁSPC agus costais taistil go dtí an áit oibre) a roinnt faoi ráta iomchuí an LLF dá staid agus ansin déantar é sin a iolrú faoi €30 chun a dhliteanas i leith ranníocaíochta a oibriú amach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Your 26 year old daughter is living with you and earning €700 per │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Má tá d'iníon atá 26 bliana d'aois ina cónaí leat agus €700 á shaothrú aici i │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│€700 ÷ €186 (SWA) = €3.76 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│€700 ÷ €196 (LLF) = €3.57 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Multiply 3.76 by €30 = €112.80 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Iolraigh 3.57 faoi €24 = €85.68 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Mortgage Interest Supplement is reduced by €112.80 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Sa chás seo, laghdaítear d'Fhorlíonadh Ús Morgáiste faoi €85.68 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A couple over 65 with an income equal or less than the State Pension (Contributory) for their situation will contribute €40 towards their mortgage interest</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní dhéanfaidh lánúin thar aois 65 a bhfuil ioncam acu atá cothrom nó níos lú ná an Pinsean Stáit (Ranníocach) dá staid ach €40 a íoc i leith a gcuid ús morgáiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A couple who both have State Pensions (Contributory) and no other income will also contribute €40 towards their mortgage interest</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní dhéanfaidh lánúin a bhfuil Pinsin Stáit (Ranníocach) ag an mbeirt acu gan ioncam ar bith eile ach €40 a íoc i leith a gcuid ús morgáiste ach an oiread</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Step 5: Find your Mortgage Interest Supplement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Céim 5: Faigh amach d’íocaíocht ús morgáiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To calculate your Mortgage Interest Supplement you subtract your monthly contribution from the mortgage interest due to your lender</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dealaigh do ranníocaíocht mhíosúíl ón ús morgáiste dlite d’iasachtóir chun do Fhorlíonadh Ús Morgáiste a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Monthly mortgage interest due to lender €</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ús morgáiste míosúil dlite d’iasachtóir €</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Less your monthly contribution to mortgage interest - €_____</seg></tuv>
+  <tuv xml:lang="ga"><seg>Lúide do ranníocaíocht mhíosúil úis morgáiste - €_____</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Total Mortgage Interest Supplement €</seg></tuv>
+  <tuv xml:lang="ga"><seg>Forlíonadh Ús Morgáiste iomlán €</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Note: The Mortgage Interest Supplement payable to you is the difference between your actual mortgage interest and your contribution to mortgage interest, as long as the difference between the two is a reasonable amount to meet your residential needs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nóta: Is an Forlíonadh Ús Morgáiste iníoctha duit é an difríocht idir d' Fhorlíonadh Ús Morgáiste agus do ranníocaíocht mhíosúil úis morgáiste agus is an difríocht méid réasúnach í chun do riachtanais cónaithe a shásamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your local officer may use the maximum rent limits set out for Rent Supplement as a guide to decide what is a reasonable amount</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le d’ Oifigeach Leasa Pobail na uasteorainneacha cíosa socraithe maidir le Forlíonadh Cíos a úsáid chun treoir mhéid réasúnach a chinneadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Contact the Department of Social Protection's representative (formerly known as the Community Welfare Officer) at your local health office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Téigh i dteagmháil le an t-ionadaí Roinne Coimirce Sóisialaí (a tugadh an tOifigeach Leasa Pobail air roimhe seo) ag oifig sláinte áitiúil na háite</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,169 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>In certain situations when someone dies in Ireland, it may be necessary to carry out a postmortem examination (also called an autopsy) of the deceased's body</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcásanna faoi leith nuair a chailltear duine in Éirinn, d'fhéadfadh sé go mbeadh gá le scrúdú iarbháis (tugtar corpdhioscadh ar seo freisin) a dhéanamh ar chorp an mhairbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A postmortem examination is a medical examination of a dead body to determine the exact cause of death</seg></tuv>
+  <tuv xml:lang="ga"><seg>Scrúdú leighis é an scrúdú iarbháis a dhéantar ar chorp an mhairbh le cúis chruinn an bháis a dhéanamh amach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the case of a violent death, the postmortem may be necessary as part of a criminal investigation</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás anbháis d'fhéadfadh sé go mbeadh gá leis an scrúdú iarbháis mar chuid de fhiosrú coiriúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Postmortems in Ireland are carried out by a specific type of physician called a 'pathologist'</seg></tuv>
+  <tuv xml:lang="ga"><seg>In Éirinn is dochtúir speisialta ar a dtugtar a dhéanann scrúduithe iarbháis a chur i gcrích</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It's important to remember that during a postmortem examination, the body is treated with utmost respect and no disfigurement of the body takes place</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé tábhachtach cuimhniú go dtugtar omós den chaighdeán is airde don chorp le linn scrúdaithe iarbháis agus nach bhfágtar aon mháchail ar an gcorp</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In fact, the body may be viewed afterwards, and usually should not delay funeral arrangements</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is amhlaidh gur féidir breathnú ar an gcorp ina dhiaidh agus is iondúil nach gcuirtear aon mhoill ar na socruithe sochráide</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The family or next of kin will normally be asked for their permission before a postmortem is carried out</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iondúil go n-iarrtar cead an teaghlaigh nó an neasghaoil sula ndéantar scrúdú iarbháis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, where a Coroner has ordered a postmortem examination, the permission of the next of kin is not necessary</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach, nuair a ordaíonn an Cróinéir scrúdú iarbháis níl aon ghá le cead a fháil ón neasghaol</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>During a postmortem examination, all body cavities (head, chest and abdomen) are examined and the organs dissected</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar scrúdú ar gach coguas coirp (cloigeann, cliabhrach agus bolg) le linn scrúdaithe iarbháis agus na baill bheatha ar fad a dhioscadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Small blocks of tissue and blood samples may be retained by the pathologist for further examination</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh sé go mbeadh míreanna beaga fíocháin agus samplaí fola coinnithe ag an bpaiteolaí le tuilleadh scrúdaithe a dhéanamh orthu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Occasionally, it may be necessary for the pathologist to retain a whole organ (or organs) for more detailed examination in order to establish the cause of death</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó am go chéile, d'fhéadfadh sé go mbeadh ar an bpaiteolaí ball beatha ina iomlán a choinneáil (nó baill bheatha) le mionscrúdú a dhéanamh orthu le cúis an bháis a dhéanamh amach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where an organ is retained, this is purely for the purpose of establishing or clearly determining the cause of death</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a dhéantar ball beatha a choinneáil, déantar é seo ar mhaithe leis an gcúis bháis a dhéanamh amach amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Consent of the next-of-kin is not required, but they will be notified</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon ghá le cead a fháil ó na neasghaolta, ach cuirfear scéal chucu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In addition, the next-of-kin will be required to express a preference for ultimate disposal of any organs removed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chomh maith, iarrfar ar na neasghaolta moladh a dhéanamh cén chaoi gur mhaith leo fáil réidh ag deireadh thiar thall le aon bhaill bheatha a coinníodh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Retention of an organ for any other purposes by a pathologist (i.e., teaching, research, etc.) requires specific consent from the next-of kin</seg></tuv>
+  <tuv xml:lang="ga"><seg>Teastaíonn cead faoi leith ó na neasghaolta más mian leis an bpaiteolaí aon bhall beatha a choinneáil ar aon chúis eile (mar shampla, cúrsaí teagaisc nó taighde &amp; rl)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Following the postmortem examination, the body will normally be released to the spouse or next-or-kin immediately after the examination has been completed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iondúil go mbeidh an corp curtha ar fáil don chéile nó do na neasghaolta díreach tar éis an scrúdaithe iarbháis a bheith déanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Although the need for a postmortem will not usually delay the funeral, the results may not be available until three to eight weeks later</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cé nach iondúil go gcuireann scrúdú iarbháis moill ar chúrsaí sochraide, d'fhéadfadh sé nach mbeadh na torthaí ar fáil go ceann trí go ocht seachtainí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In certain circumstances, it may be several weeks before the postmortem report is received from the pathologist</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcúinsí faoi leith, d'fhéadfadh sé roinnt seachtainí a thógáil go dtí go mbeadh an tuairisc ar an scrúdú iarbháis faighte ón bpaiteolaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, in situations where a toxicology (drug) screen is required it may be several months before the postmortem report is completed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, sa chás go bhfuil scrúdú tocsaíneolaíochta (drugaí) ag teastáil d'fhéadfadh roinnt míonna dul thart go dtí go mbeadh tuairisc an scrúdaithe iarbháis críochnaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Queries relating to postmortem reports should be made to the Coroner’s office and not to the hospital concerned</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart fiosrúcháin maidir le tuairiscí ar scrúduithe iarbháis a dhéanamh le hoifig an Chróinéara níl aon bhaint ag an ospidéal a bhí i gceist leis an scéal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can discuss the results with the deceased's doctor once the results are available, and you can then proceed with registering the death in the usual way</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat na torthaí a phlé le dochtúir an mhairbh nuair atá siad ar fáil, agus is féidir leat ansin dul ar aghaidh agus an bás a chlárú sa ghnáthbhealach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You cannot register the death until the postmortem results are received by the Coroner's Office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir an bás a chlárú go dtí go mbíonn torthaí an scrúdaithe iarbháis faighte ag Oifig an Chróinéara</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read more about death certificates here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léigh tuilleadh maidir le teastais bháis anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Prior to inquest (or whilst awaiting the postmortem report) the Coroner will provide on request an Interim Certificate of the Fact of Death</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sula mbíonn an coiste cróinéara ann (nó nuair atá tú ag fanacht le tuairisc an scrúdaithe iarbháis) cuirfidh an Cróinéir Teastas Sealadach Báis ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(This may be acceptable to banks, insurance companies and other institutions but you should check with the institutions for their requirements)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(D'fhéadfadh sé go mbeadh na bainc, comhlachtaí árachais agus institiúidí eile sásta glacadh leis seo ach ba cheart duit teagmháil a dhéanamh leis na hinstitiúidí lena riachtanais a phlé leo)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Each year in Ireland, organ donors save the live of countless people</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sábháiltear beatha go leor daoine in Éirinn gach bliain de bharr go ndéanann daoine a mbaill bheatha a dheonadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If someone is an organ donor, but their death is (or will be) reportable to a Coroner, permission of the Coroner and next-of kin is required before organs can be donated</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más deontóir baill bheatha é/í duine, ach más gá a b(h)ás a chur in iúl don Chróinéir, teastaíonn cead ón gCróinéir agus ó na neasghaolta sula ndéantar aon bhall beatha a dheonadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In situations where the Coroner grants permission for donation, the following postmortem examination will be limited</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás go dtugann an Cróinéir cead na baill a dheonadh, beidh teorainn leis an scrúdú iarbháis a dhéantar ina dhiaidh sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is for the Coroner to decide this matter, following consultation with the Gardai and advice from medical professionals</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is cinneadh don Chróinéir é seo, tar éis dó/dí dul i gcomhairle leis an nGarda agus lucht leighis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In general, the Coroner will facilitate requests for organ donation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, beidh an Cróinéir sásta cead a thabhairt na baill bheatha a dheonadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read more about body and organ donation in Ireland here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir tuilleadh a léamh maidir le corp agus baill bheatha a dheonadh in Éirinn anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Post mortem practice and Organ retention</seg></tuv>
+  <tuv xml:lang="ga"><seg>Scrúduithe Iarbháis agus coinneáil orgáin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In May 2005 the Department of Health commissioned a report into post mortem practice and procedures</seg></tuv>
+  <tuv xml:lang="ga"><seg>Choimisiúnaigh an Roinn Sláinte tuarascáil ar chleachtas agus nósanna imeachta iarbháis i mBealtaine 2005</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Madden Report (2006) sets out the facts relating to post mortem practice in Ireland (including organ retention) in relation to children born alive and under 12 years between 1970 and 2000</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagann Tuarascáil Madden (2006) amach na fíricí a bhaineann le cleachtas iarbháis in Éirinn (lena n-áirítear coinneáil orgáin) i leith páistí a rugadh beo agus a bhásaigh agus faoi 12 bliana d'aois idir 1970 agus 2000</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>View the Madden Report on Post Mortem Practice and Procedures and it's recommendations here (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féach Tuarascáil Madden ar Chleachtas agus Nósanna Imeachta Iarbháis agus a mholtaí anseo (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Report makes more than 50 recommendations and in January 2006 the Minister for Health requested an action plan be prepared to implement the recommendations</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá breis is 50 moladh sa Tuarascáil agus d'iarr an tAire Sláinte i mí Eanáir 2006 go n-ullmhófaí plean gníomhaíochta chun na moltaí seo a chur i bhfeidhm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Minister has also agreed to set up a Working Group to examine issues not covered under the terms of reference of the Madden Report</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'aontaigh an tAire freisin go mbunófaí Grúpa Oibre chun na ceisteanna sin a iniúchadh nár scrúdaíodh faoi théarmaí tagartha Thuarascáil Madden (i</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>That is, post mortem practice in relation to babies in Ireland who died before or during birth, minors over 12 years and adults), etc</seg></tuv>
+  <tuv xml:lang="ga"><seg>naíonáin a fuair bás le linn breithe nó roimhe, mionaoisigh os cionn 12 agus daoine fásta), srl</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further information regarding progress on the Action Plan and Working Group will be published when it is available</seg></tuv>
+  <tuv xml:lang="ga"><seg>Foilseofar faisnéis bhreise faoin dul chun cinn nuair a bheidh sí ar fáil</seg></tuv>
+</tu>
+</body>
+</tmx>

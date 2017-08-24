@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Primary and post-primary education</seg></tuv>
+  <tuv xml:lang="ga"><seg>Oideachas bunscoile agus iar-bhunscoile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Going to primary school</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Dul chun na bunscoile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Going to post-primary school</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Dul chun scoile iar-bhunoideachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Attendance and discipline in schools</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cúrsaí Láithreachais agus smachta sna scoileanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most Read in "Education and Training"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ábhar is mó éilimh i "Oideachas agus Oiliúint"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>School terms in primary and post-primary schools</seg></tuv>
+  <tuv xml:lang="ga"><seg>Téarmaí scoile i mbunscoileanna agus iarbhunscoileanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further Education and Training (FET) allowances</seg></tuv>
+  <tuv xml:lang="ga"><seg>Liúntais Bhreisoideachais agus Oiliúna (BOO)</seg></tuv>
+</tu>
+</body>
+</tmx>

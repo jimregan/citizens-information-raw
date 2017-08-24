@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Studying in the UK including Northern Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag staidéar sa Bhreatain agus i dTuaisceart Éireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Many people leave to study in Northern Ireland and elsewhere in the UK where there are different application procedures and fees</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fágann go leor daoine chun staidéar a dhéanamh i dTuaisceart Éireann agus in áiteanna eile sa Bhreatain áit a bhfuil modhanna éagsúla chun iarratas a dhéanamh agus táillí a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Outlines sources of information and programmes available if you are interested in studying in Europe</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann sé léiriú ar fhoinsí eolais agus na cláir atá ar fáil má tá suim agat i staidéar san Eoraip</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most Read in "Education and Training"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ábhar is mó éilimh i "Oideachas agus Oiliúint"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>School terms in primary and post-primary schools</seg></tuv>
+  <tuv xml:lang="ga"><seg>Téarmaí scoile i mbunscoileanna agus iarbhunscoileanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further Education and Training (FET) allowances</seg></tuv>
+  <tuv xml:lang="ga"><seg>Do roghanna maidir le cúram leanaí</seg></tuv>
+</tu>
+</body>
+</tmx>

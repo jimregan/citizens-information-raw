@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Case study: Taxation of Maternity Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cás-staidéar: Gearradh cánach ar Shochar Máithreachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Example 1: Ann is paid her full salary while on maternity leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sampla 1: Íoctar a tuarastal iomlán le hÁine fad a bhíonn sí ar saoire mháithreachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Example 2: Sally is not paid any top-up by her employer while she is on maternity leave. Her Maternity Benefit is paid directly to her while she is on leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sampla 2: Ní íocann fostóir Sally aon bhreisiú fad atá sí ar saoire mháithreachais Íoctar a Sochar Máithreachais léi go díreach fad atá sí ar an tsaoire</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This case study shows how tax credits and bands are adjusted by Revenue to account for Maternity Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léiríonn an cás-staidéar seo conas a dhéanann na Coimisinéirí Ioncaim creidmheasanna agus bandaí cánach a choigeartú le haghaidh Sochar Máithreachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Note that these examples do not refer to people who are jointly assessed with their spouse or civil partner</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabhair faoi deara nach dtagraíonn na samplaí seo do dhaoine ar a ndéantar comh-mheasúnú lena gcéile nó lena bpáirtnéir sibhialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Employees are entitled to a personal tax credit (€1,650 in 2015) and a PAYE tax credit (€1,650 in 2015)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá fostaithe i dteideal creidmheas pearsanta cánach (€1,650 in 2015) mar aon le creidmheas cánach ÁSPC (€1,650 in 2015) a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Their standard rate cut-off point is the amount of their personal standard rate tax band</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ionann a scoithphointe ráta chaighdeánaigh agus méid a mbanda phearsanta chaighdeánaigh cánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For each pay period, they pay tax at the standard rate of tax (20%) up to their standard rate cut-off point</seg></tuv>
+  <tuv xml:lang="ga"><seg>Le haghaidh gach tréimhse phá, íocann siad cáin ar an ráta caighdeánach (20%) a mhéid lena scoithphointe ráta chaighdeánaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Any income over the standard rate cut-off point is taxed at the higher rate of 40%</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gearrtar an ráta níos airde cánach (41%) ar aon ioncam os cionn an scoithphointe chaighdeánaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When the total amount of tax has been calculated their tax credits are subtracted from this figure to give the total amount of tax owed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a bhíonn an méid iomlán cánach ríofa, baintear a gcreidmheasanna cánach ón bhfigiúr seo leis an méid iomlán cánach atá le híoc a dheimhniú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When a woman goes on maternity leave she may qualify for 26 weeks of Maternity Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a ghabhann bean ar shaoire mháithreachais, féadfaidh sí cáiliú le haghaidh Sochar Máithreachais ar feadh 26 seachtain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The standard rate of Maternity Benefit is €230 each week so a woman who qualifies for the standard payment will be paid €5,980 of Maternity Benefit in total</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an méid de Shochar Máithreachais €230 gach seachtain, mar sin, íocfar le bean a cháilítear le haghaidh na híocaíochta €5,980 de Shochar Máithreachais ar an iomlán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Revenue will reduce her tax credits and weekly standard rate cut-off point to account for the tax payable on her Maternity Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Laghdóidh na Coimisinéirí Ioncaim a cuid creidmheasanna cánach agus a scoithphointe caighdeánach seachtainiúil chun an cáin atá iníoctha ar a Sochar Máithreachais a chur san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The tax due on the weekly Maternity Benefit (€230 x 20% = €46) will be deducted from her weekly tax credits and the total amount of Maternity Benefit will be deducted from her weekly cut-off point</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bainfear an cháin atá le híoc ar an Sochar Máithreachais seachtainiúil (€230 x 20% = €46) óna creidmheasanna seachtainiúla cánach agus bainfear an méid iomlán de Shochar Máithreachais óna scoithphointe seachtainiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a woman does not have her Maternity Benefit topped up by her employer a refund of tax may arise which can be calculated when she returns to work (see Example 2 below)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura ndéanann a fostóir a Sochar Máithreachais a bhreisiú, d’fhéadfadh aisíocaíocht cánach bheith i gceist, agus is féidir an aisíocaíocht seo a ríomh nuair a fhilleann sí ar an obair (féach Sampla 2 thíos)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Single Person’s Tax Credit │€1,650 annually │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Creidmheas Cánach Duine Shingil │€1,650 gach bliain │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Employee (PAYE) Tax Credit │€1,650 annually │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Creidmheas Cánach Fostaí (ÍMAT) │€1,650 gach bliain │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Weekly Tax Credit │€63.46 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Creidmheas Cánach Seachtainiúil │€63.46 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Maternity Benefit deduction │less €46 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Asbhaint Sochar Máithreachais │lúide €46 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Revised tax credit │€17.46 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Creidmheas cánach leasaithe │€17.46 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Standard weekly cut off point (income taxed at 20%) │€630.76 (€32,800 annually) │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Scoithphointe caighdeánach seachtainiúil (gearrtar cáin 20% ar an ioncam) │€630.76 (€32,800 gach bliain) │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Revised weekly cut off point (standard cut off point minus Maternity Benefit at €230) │€400.76 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Scoithphointe seachtainiúil leasaithe (an scoithphointe caighdeánach lúide Sochar Máithreachais €262) │€400.76 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Example 1: Ann is paid her full salary while on maternity leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sampla 1: Íoctar a tuarastal iomlán le hÁine fad a bhíonn sí ar saoire mháithreachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Ann is on maternity leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Áine ar saoire mháithreachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>She continues to receive her normal gross salary of €700 per week and Maternity Benefit of €230 per week is paid directly by the Department of Social Protection (DSP) to Ann’s employer</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leanann sí lena gnáth-olltuarastal €700 sa tseachtain a fháil agus íocann an Roinn Coimirce Sóisialaí (RCS) Sochar Máithreachais €230 sa tseachtain go díreach le fostóir Áine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Revenue will receive the Maternity Benefit details directly from the DSP, reduce Ann’s annual tax credits and rate band by the Maternity Benefit amount (see above for how this is done), and send a revised tax credit certificate to her employer</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gheobhaidh na Coimisinéirí Ioncaim na sonraí faoi Shochar Máithreachais go díreach ón RCS, déanfaidh siad creidmheasanna bliantúla cánach agus banda ráta Áine a laghdú faoi mhéid an tSochair Mháithreachais (féach thuas lena fheiceáil conas a dhéantar seo), agus seolfaidh siad deimhniú leasaithe creidmheas cánach chuig a fostóir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Ann’s revised weekly rate band will be €400.76 and her weekly tax credits will be €17.46</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ionann a bheidh banda ráta leasaithe Áine agus €400.76 agus is ionann a bheidh a creidmheasanna seachtainiúla cánach agus €17.46</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Ann’s weekly salary of €700 while she is on maternity leave is made up of:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is éard atá i dtuarastal seachtainiúil €700 Áine fad a bhíonn sí ar saoire mháithreachais:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The company salary portion (€470) has tax, USC and PRSI deducted by the employer</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann an fostóir cáin, MSU agus ÁSPC a asbhaint ó chomhréir thuarastal na cuideachta (€470)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The tax payable on the Maternity Benefit portion (€230) is collected by the reduction in Ann’s tax credits and rate band</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bailítear an cháin atá le híoc ar chomhréir an tSochair Mháithreachais (€230) tríd an laghdú ar chreidmheasanna cánach agus banda ráta Áine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Maternity Benefit is not chargeable to USC or PRSI</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir MSU nó ÁSPC a ghearradh ar Shochar Mháithreachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Calculation of the tax payable by Ann on the company salary portion (€470):</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seo a leanas conas a ríomhtar an cháin atá le híoc ag Áine ar chomhréir thuarastal na cuideachta (€438):</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Tax payable on €400.76 @ 20% │€80.15 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Cáin iníoctha ar €400.76 @ 20% │€80.15 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Tax payable on €69.24 @ 40% │€27.70 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Cáin iníoctha ar €69.24 @ 40% │€27.70 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Total tax is €107.85 – less tax credit of €17.46 │Net tax payable is €90.39 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Is é an cháin iomlán €107.85 – lúide creidmheas cánach €17.46 │Is é an glanmhéid cánach atá iníoctha €90.39 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Universal Social Charge (USC) on €470 │€16.44 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│An Muirear Sóisialta Uilíoch (MSU) ar €470 │€16.44 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│PRSI on €470 │€18.80 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│ÁSPC ar €438 │€18.80 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Total deductions │€125.63 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Asbhaintí iomlána │€125.63 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Example 2: Sally is not paid any top-up by her employer while she is on maternity leave. Her Maternity Benefit is paid directly to her while she is on leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sampla 2: Ní íocann fostóir Sally aon bhreisiú fad atá sí ar saoire mháithreachais Íoctar a Sochar Máithreachais léi go díreach fad atá sí ar an tsaoire</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Sally is not paid by her employer while on maternity leave so the following applies</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní íocann fostóir Sally í fad atá sí ar saoire mháithreachais, agus ar an ábhar sin, cuirtear an méid a leanas i bhfeidhm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Sally earned €700 per week (€36,400 a year)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Thuill Sally €700 sa tseachtain (€36,400 sa bhliain)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>She paid tax, PRSI and Universal Social Charge weekly</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’íoc sí cáin, ÁSPC agus an Muirear Sóisialta Uilíoch gach seachtain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Her tax and Universal Social Charge were deducted on the assumption that she would continue to earn the same amount for the rest of the year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Asbhaineadh a cáin agus a Muirear Sóisialta Uilíoch ag glacadh leis go leanfadh sí leis an méid céanna a thuilleamh don chuid eile den bhliain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When she goes on maternity leave and starts getting Maternity Benefit she is no longer liable to pay the Universal Social Charge or PRSI (since these are not charged on Maternity Benefit)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a théann sí ar saoire mháithreachais agus nuair a thosaíonn sí le Sochar Máithreachais a fháil, níl sí faoi dhliteanas a thuilleadh an Muirear Sóisialta Uilíoch nó ÁSPC a íoc (mar gheall nach ngearrtar iad ar Shochar Máithreachais)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>She may get a refund of Universal Social Charge</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh sí aisíocaíocht an Mhuirir Shóisialta Uilíoch a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When she returns to work she will probably also get a refund of tax since while she is on maternity leave her tax credits are more than the tax due on her Maternity Benefit and she may also have paid extra tax on her salary before going on maternity leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a fhilleann sí ar an obair, is dócha go dtabharfar di aisíocaíocht cánach, chomh maith, mar gheall gur mó a creidmheasanna cánach fad atá sí ar saoire mháithreachais ná an méid cánach atá le híoc ar a Sochar Máithreachais agus d’fhéadfadh gur íoc sí cáin bhreise ar a tuarastal sula ndeachaigh sí ar saoire mháithreachais</seg></tuv>
+</tu>
+</body>
+</tmx>

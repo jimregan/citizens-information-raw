@@ -1,0 +1,333 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>• Setting down for trial</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Triail a chur síos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the District Court, the person who is bringing the case, that is, the person who is suing, is known as the claimant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa Chúirt Dúiche, tugtar an t-éilitheoir ar an duine a bhfuil tús á chur acu leis an gcás, is é sin, an duine a bhfuil agairt á dhéanamh acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The person who is being sued is known as the respondent</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar an freagróir ar an duine a bhfuil agairt á dhéanamh orthu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To commence proceedings, that is, to start a legal action, the claimant’s solicitor prepares and serves a claim notice on the respondent</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun tús a chur le himeachtaí, is é sin, chun tús a chur le caingean dlí, ullmhaíonn agus seirbheálann aturnae an éilitheora fógra éilimh ar an bhfreagróir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The respondent’s solicitor responds with an appearance and defence to show that they intend to defend the case</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann aturnae an fhreagróra freagairt le láithreas agus cosaint lena thaispeáint go mbeartaíonn siad chun an cás a chosaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They may also include in the appearance and defence a statement of counterclaim if they believe they have a claim against the claimant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Anuas air sin, féadfaidh siad ráiteas frithéilimh a áireamh leis an láithreas agus an chosaint má chreideann siad go bhfuil éileamh acu i leith an éilitheora</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A claim notice is issued to commence proceedings in the District Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Eisítear fógra éilimh chun tús a chur le himeachtaí sa Chúirt Dúiche</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Usually a claim notice is prepared by the claimant's solicitor</seg></tuv>
+  <tuv xml:lang="ga"><seg>De ghnáth, ullmhaíonn aturnae an éilitheora fógra éilimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The claim notice must then be filed for issuing and the stamp duty paid at the District Court office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór an fógra éilimh a chomhdú lena eisiúint agus an dleacht stampála a íoc air ag oifig na Cúirte Dúiche</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The claim notice must contain the following information:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go gcuimsítear an fhaisnéis a leanas i bhfógra an éilimh:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A description of the parties</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cur síos ar na páirtithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The notice must state the full name, address, occupation, solicitor’s details and address for service of documents for the claimant and for the respondent (where possible)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go luafar san fhógra ainm iomlán, seoladh, gairm, sonraí aturnae agus an seoladh chun cáipéisí a sheoladh chuige i gcás an éilitheora agus an fhreagróra (sa chás gur féidir)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A statement of the claim set out in numbered paragraphs</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ráiteas ar an éileamh a leagtar amach in ailt uimhrithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The notice must clearly and concisely set out the allegations that are being made by the claimant and the amount or other remedy being sought</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go leagfar amach san fhógra go soiléir agus go gonta na líomhaintí atá á ndéanamh ag an éilitheoir agus an méid nó an réiteach eile atá á lorg</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It must contain a list of all correspondence and other documents on which the claim relies</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go gcuimseofar ann liosta den chomhfhreagras agus gach cáipéis eile ar a mbraitheann an t-éileamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It should clearly indicate to the respondent that they have a case to answer</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart go dtabharfadh sé le fios go soiléir don fhreagróir go bhfuil cás aige nó aici atá le freagairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The notice must recite the appropriate District Court area in which the claim is being brought</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní mór go luaitear san fhógra limistéar cuí na Cúirte Dúiche ina bhfuil an t-éileamh á dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The notice must set out that, if the respondent wishes to admit the claim, they should contact the claimant within 10 days of service of the notice to agree payment of the claim and costs</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní mór go leagtar amach san fhógra, más mian leis an bhfreagróir an t-éileamh a admháil, gur cheart dóibh teagmháil a dhéanamh leis an éilitheoir laistigh de 10 lá tar éis gur seirbheáladh an fógra orthu agus a chomhaontú chun an t-éileamh agus na costais a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The proceedings will not then be continued</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní leanfar leis na himeachtaí ansin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The notice must explain what steps the respondent must take if they wish to dispute the claim</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní mór go mínítear san fhógra cén bearta ar ghá don fhreagróir a ghlacadh más mian leo cur in aghaidh an éilimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The notice must be signed by the claimant or their solicitor</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní mór don fhógra a bheith sínithe ag an éilitheoir nó ag a n-aturnae</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find a copy of a claim notice for general damages on the Courts Service website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá fáil ar chóip d’fhógra éilimh ar dhamáistí ginearálta ar láithreán gréasáin na Seirbhíse Cúirteanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The District Court clerk will issue the claim notice to the solicitor for service on the respondent</seg></tuv>
+  <tuv xml:lang="ga"><seg>Eiseoidh Cléireach na Cúirte Dúiche an fógra éilimh don aturnae lena sheirbheáil ar an bhfreagróir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are 2 ways to serve the claim notice:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá dhá bhealach ann chun an fógra éilimh a sheirbheáil:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• By registered prepaid post</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An fógra a chur sa phost cláraithe réamhíoctha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A copy of the notice may be given to the respondent personally or to the respondent’s spouse, civil partner, child, employee or agent at the respondent’s last known residence or workplace, as long as that person is not under 16 years of age</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadtar cóip a thabhairt den fhógra don fhreagróir go pearsanta nó do chéile, páirtnéir sibhialta, leanbh, fostaí nó gníomhaí an fhreagróra ag áit chónaithe nó ag áit oibre dheireanach an chosantóra a rabhthas feasach orthu, a fhad agus nach bhfuil an duine sin faoi 16 bliana d’aois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A copy of the notice may be sent by registered prepaid post to the respondent's last known residence or place of business</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadtar cóip den fhógra a sheoladh sa phost cláraithe réamhíoctha chuig áit chónaithe nó áit ghnó dheireanach an fhreagróra a rabhthas feasach orthu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When a respondent receives a claim notice they must choose whether or not to defend the case</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a fhaigheann freagróir fógra éilimh, ní mór dóibh a roghnú chun an cás a chosaint nó gan é a chosaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are the respondent and you wish to admit that you were wrong and prevent the case from going to court, you must contact the claimant or the claimant’s solicitor within 10 days of receiving the claim notice to agree payment of the claim and costs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más tú féin an freagróir agus más mian leat a admháil gur tusa a rinne an éagóir agus cosc a chur ar an gcás ó dhul a fhad leis an gcúirt, ní mór duit teagmháil a dhéanamh le haturnae an éilitheora laistigh de 10 lá tar éis an fógra éilimh a fháil agus a chomhaontú chun an t-éileamh agus na costais a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you believe that the claimant is not entitled to the damages being sought from you and you wish to defend the case in court, you must:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chreideann tú nach bhfuil an t-éilitheoir i dteideal na damáistí a fháil atá á lorg uait agus más mian leat an cás a chosaint sa chúirt, ní mór duit:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Serve an appearance and defence on the claimant or the claimant’s solicitor and</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Láithreas agus cosaint a sheirbheáil ar an éilitheoir nó ar aturnae an éilitheora, agus</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• File a copy of the appearance with the District Court clerk</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cóip den láithreas a chomhdú le cléireach na Cúirte Dúiche</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Appearance and defence content</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ábhar láithris agus cosanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The appearance and defence states:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Luaitear sa láithreas agus sa chosaint:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The District Court area</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ceantar na Cúirte Dúiche</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The names of the claimant and respondent</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ainmneacha an éilitheora agus an fhreagróra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• That the respondent "intends to defend this claim notice"</seg></tuv>
+  <tuv xml:lang="ga"><seg>• “Go mbeartaíonn an fhreagróir chun an fógra éilimh seo a chosaint”</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A statement of the grounds of defence, set out in numbered paragraphs</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ráiteas ar bhunúis na cosanta, a leagtar amach in ailt uimhrithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The grounds of defence must state which of the facts in the claimant’s statement of claim are admitted, not admitted or denied and the reasons for denying the fact</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go luaitear i mbunúis na cosanta cén cinn de na fíricí i ráiteas éilimh an éilitheora a dhéantar a admháil, nach ndéantar a admháil nó a shéantar agus na cúiseanna atá leis an bhfíric a shéanadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It must contain a list of all correspondence and other documents on which the respondent will rely on in a trial</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go gcuimsítear liosta den chomhfhreagras agus de cháipéisí eile ar a mbraithfidh an freagróir i dtriail</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a counterclaim is being made, a notice and statement of counterclaim must also be included</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá frithéileamh á dhéanamh, ní mór fógra agus ráiteas frithéilimh a chur san áireamh chomh maith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The appearance and defence must be dated and signed by the respondent or their solicitor</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don láithreas agus an chosaint a bheith dátaithe agus sínithe ag an bhfreagróir nó a n-aturnae</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find a copy of an appearance and defence (general) on the Courts Service website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá fáil ar chóip de láithreas agus cosaint (ginearálta) ar láithreán gréasáin na Seirbhíse Cúirteanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Serving the appearance and defence</seg></tuv>
+  <tuv xml:lang="ga"><seg>An láithreas agus an chosaint a sheirbheáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The appearance and defence must be sent to the claimant within 28 days of receiving the claim notice</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór an láithreas agus an chosaint a sheoladh chuig an éilitheoir laistigh de 28 lá tar éis an fógra éilimh a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you do not send it in time, then the claimant can apply to the court for judgement in default</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura seolann tú go tráthúil é, féadfaidh an t-éilitheoir iarratas a dhéanamh ar an gcúirt ar bhreithiúnas mainneachtana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that because you have not shown your intention to defend the case, you are taken to have admitted the claim against you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn seo, mar gheall nár thaispeáin tú go mbeartaíonn tú an cás a chosaint, go nglactar leis gur admháil tú an t-éileamh a rinneadh i do choinne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There will be no hearing – the court may simply make an order for judgement against you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bheidh aon éisteacht ann – ní gá ach don chúirt ordú a dhéanamh ar bhreithiúnas a thabhairt i d’éadan</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you receive a claim notice, you may decide that not only have you done nothing wrong and the claim should not have been brought against you, but the claimant has actually caused you damage</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a fhaigheann tú fógra éilimh, féadfaidh tú a chinneadh ní hamháin nach ndearna tú aon rud mícheart agus nár cheart an t-éileamh a dhéanamh i do choinne, ach gur tharla go ndearna an t-éilitheoir díobháil duitse</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In those circumstances, you may wish to bring a claim against the claimant for damages</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi na cúinsí siúd, b’fhéidir gur mian leat éileamh a dhéanamh i leith an éilitheora ar dhamáistí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To make a claim against the claimant (called a counterclaim) you must include a notice and statement of counterclaim in the appearance and defence which must be filed with the District Court clerk and served on the claimant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun éileamh a dhéanamh i leith an éilitheora, (ar a dtugtar frithéileamh), ní mór duit fógra agus ráiteas frithéilimh a chur san áireamh sa láithreas agus sa chosaint, nach mór a chomhdú le cléireach na Cúirte Dúiche agus a sheirbheáil ar an éilitheoir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The notice of counterclaim must state that the respondent counterclaims against the claimant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go luaitear san fhógra frithéilimh go ndéanann an freagróir frithéileamh i leith an éilitheora</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The statement of counterclaim must be set out in numbered paragraphs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór an ráiteas frithéilimh a leagann amach in ailt uimhrithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It must clearly and concisely set out the allegations that are being made by the respondent and the amount or other remedy being sought</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go leagtar amach ann go soiléir agus go gonta na líomhaintí atá á ndéanamh ag an bhfreagróir agus an méid nó an réiteach eile atá á lorg</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It must contain a list of all correspondence and other documents on which the counterclaim relies</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go gcuimsítear ann liosta den chomhfhreagras agus de na cáipéisí eile go léir ar a mbraitheann an frithéileamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>At any time before or when serving an appearance and defence, the respondent can apply to the claimant on a notice requiring copy documents for a copy of any or all of the documents listed in the statement of claim</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag aon tráth sula seirbheáiltear láithreas agus cosaint nó nuair a sheirbheáiltear iad, féadfaidh an freagróir iarratas a dhéanamh ar an éilitheoir ar fhógra a iarrann ar chóipeanna de cháipéisí chun cóip a fháil d’aon cháipéis nó na cáipéisí go léir a liostaítear sa ráiteas éilimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The respondent can also apply to the claimant on a notice requiring further particulars for further particulars on specified matters in the statement of claim to be provided</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, féadfaidh an freagróir iarratas a dhéanamh ar an éilitheoir ar fhógra a iarrann ar bhreis sonraí chun breis sonraí a fháil ar cheisteanna sonraithe a sholáthar sa ráiteas éilimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If further particulars have been requested, the respondent may serve and file an amended defence not later than 28 days after receipt of the further particulars</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má iarradh ar bhreis sonraí, féadfaidh an freagróir cosaint leasaithe a sheirbheáil agus a chomhdú tráth nach déanaí ná 28 lá i ndiaidh go bhfaightear na sonraí breise</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Similarly, within 28 days of receiving the defence the claimant may apply to the respondent for copies of all or any of the documents listed in the defence and for further particulars</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar an nós céanna, laistigh de 28 lá tar éis an chosaint a fháil, féadfaidh an t-éilitheoir iarratas a dhéanamh ar an bhfreagróir ar chóipeanna de gach ceann de na cáipéisí a fháil a liostaítear sa chosaint agus ar shonraí breise</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Setting down for trial</seg></tuv>
+  <tuv xml:lang="ga"><seg>Triail a chur síos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When the appearance and defence have been served and filed by the respondent, the claimant can serve notice of trial on the respondent</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a rinne an freagróir an láithreas agus an chosaint a sheirbheáil agus a chomhdú, féadfaidh an t-éilitheoir fógra trialach a sheirbheáil ar an bhfreagróir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Unless otherwise agreed, not less than 10 days’ notice of trial must be given</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura gcomhaontaítear ar a mhalairt, ba cheart fógra trialach 10 lá, ar a laghad, a thabhairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The notice must be filed with the District Court clerk without delay following service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfear an fógra a chomhdú le cléireach na Cúirte Dúiche gan mhoill i ndiaidh gur seirbheáladh é</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the claimant fails to serve notice of trial with 10 days of receiving the respondent’s defence, the respondent can serve notice of trial on the claimant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má theipeann ar an éilitheoir fógra trialach a sheirbheáil laistigh de 10 lá i ndiaidh cosaint an fhreagróra a fháil, féadfaidh an freagróir fógra trialach a sheirbheáil ar an éilitheoir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Alternatively, the respondent can apply to the Court by notice of motion to dismiss the claim for want of prosecution</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar rogha air sin, féadfaidh an freagróir iarratas a dhéanamh leis an gCúirt trí fhógra rúin chun an t-éileamh a dhíbhe mar gheall ar easpa ionchúisimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Whoever is filing the notice of trial must at the same time file with the clerk, for use by the judge:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh pé duine a bhfuil an fógra trialach á chomhdú aige/aici an méid a leanas a chomhdú leis an gcléireach ag an tráth céanna, go mbainfidh an breitheamh úsáid as:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A set of copies of the pleadings, including particulars, and any affidavits in the case, in chronological sequence</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sraith cóipeanna de na pléadálacha, ina measc critéir, agus aon mhionscríbhinní sa chás, i seicheamh croineolaíoch</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A set of copies of any correspondence relied on by either party, in chronological sequence</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sraith cóipeanna d’aon chomhfhreagras ar bhraith ceachtar páirtí air, i seicheamh croineolaíoch</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Copies of any other documents they are directed to file</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cóipeanna d’aon cháipéisí eile a ordaítear iad a chomhdú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They may also be directed to file a completed case management questionnaire</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chomh maith leis sin, féadtar iad a ordú chun ceistneoir um bainistíocht cáis a comhlánaíodh a chomhdú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In general, the claim is set down for trial at the next available sitting following the notice period</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, déantar an t-éileamh a chur síos chun trialacha ag an gcéad suí eile a bhíonn ar fáil i ndiaidh thréimhse an fhógra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The stamp duty that must be paid when a claim notice is issued is as follows:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar seo a leanas an dleacht stampála nach mór a íoc nuair a eisítear fógra éilimh:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Value of claim │Stamp duty │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Luach an éilimh │Dleacht stampála │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Up to €5,000 │€25 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│A mhéid le €5,000 │€25 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Over €5,000 and up to €10,000 │€70 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Os cionn €5,000 agus a mhéid le €10,000 │€70 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Over €10,000 │€80 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Os cionn €10,000 │€80 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The fee for filing a counterclaim at the District Court office is €15</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an táille chun frithéileamh a chomhdú ag oifig na Cúirte Dúiche €15</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Courts Service website has information on other District Court fees</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá faisnéis ar láithreán gréasáin na Seirbhíse Cúirte ar tháillí eile na Cúirte Dúiche</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your solicitor will charge fees for their services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gearrfaidh d’aturnae táillí ar a gcuid seirbhísí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further information on District Court rules and forms is available on the Courts Service website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá fáil ar bhreis faisnéise ar rialacha na Cúirte Dúiche agus ar fhoirmeacha ar láithreán gréasáin na Seirbhíse Cúirteanna</seg></tuv>
+</tu>
+</body>
+</tmx>

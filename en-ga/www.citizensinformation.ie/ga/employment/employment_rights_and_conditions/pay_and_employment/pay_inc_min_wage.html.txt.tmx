@@ -1,0 +1,473 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Generally, the amount of pay you receive for working is a matter for agreement between you and your employer</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta is ceist í cé mhéad pá a fhaigheann tú d'obair in Éirinn ar gá a shocrú idir tusa agus d'fhostóir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These negotiations normally occur when you receive an offer of a job</seg></tuv>
+  <tuv xml:lang="ga"><seg>De ghnáth tarlaíonn na hidirbhearta seo nuair a fhaigheann tú tairiscint oibre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However under the National Minimum Wage Act 2000 most employees are entitled to a minimum wage</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cibé ar bith, faoin Acht um Pá Íosta Náisiúnta 2000 tá an chuid is mó d'fhostaithe i dteideal íosráta pá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are sub-minimum rates for some people such as those aged under 18 - see 'Rates' section below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá fo-íosrátaí ann do dhaoine áirithe cosúil leis na daoine siúd in aois faoi 18 (féach thíos d'eisceachtaí agus fo-íosrátaí)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are other minimum rates of pay for employees in certain sectors</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá íosrátaí pá eile d'fhostaithe in earnálacha áirithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In some sectors they are set out in Employment Regulation Orders (EROs) made by Joint Labour Committees</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás roinnt earnálacha tá siad leagtha amach in Orduithe Rialacháin Fhostaíochta (ORF) arna ndéanamh ag Comhchoistí Oibreachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find out more in our document, Employment Regulation Orders and registered employment agreements</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat sonraí a fháil amach faoi Orduithe Rialacháin Fhostaíochta agus Comhaontuithe Fostaíochta Cláraithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Since 1 January 2017, under SI 516/2016, the national minimum wage for an experienced adult employee is €9.25 per hour</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó 1 Eanáir 2017, faoi IR 516/2016, is é an pá íosta náisiúnta d’fhostaí fásta a bhfuil taithí aici/aige ná €9.25 in aghaidh na huaire</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An experienced adult employee for the purposes of the National Minimum Wage Act is an employee who has an employment of any kind in any 2 years over the age of 18 - see also 'Rates' section below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is éard is fostaí fásta a bhfuil taithí aici/aige chun críche an tAcht um Pá Íosta Náisiúnta ná fostaí a bhfuil fostaíocht de chineál ar bith in aon dhá bhliain os cionn 18 bliana d'aois - féach freisin an chuid ar 'Rátaí' thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can read this list of frequently asked questions on the national minimum wage</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá liosta ceisteanna coitianta faoin íosphá náisiunta ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, the national minimum wage (NMW) does not stop an employer from offering a higher wage</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dar ndóigh ní chuireann an t-íosráta pá seo bac ar fhostóir ar bith pá níos airde a thairiscint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Calculating the hourly rate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag ríomh an ráta de réir na huaire</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under Section 20 of the National Minimum Wage Act 2000 the basic method of calculation is to divide the gross pay by the total number of hours worked</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi réir Cuid 20 den Acht um Pá Íosta Náisiúnta 2000, is é an modh bunúsach ríofa ná an pá comhlán a roinnt ar iomlán na n-uaireanta a oibríodh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To begin with, however, it is necessary to note what pay is taken into account, what hours are included as working hours and what is the pay reference period (over what period the calculation is made)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór, sula ndéantar sin, a thabhairt faoi deara an pá a chuirtear san áireamh, na huaireanta a chuirtear san áireamh agus an tréimhse tagartha pá (an tréimhse a dhéantar a mheas)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>What does not count as pay?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Céard nár chóir a chur san áireamh mar phá?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are a number of items that are not to be included in the minimum wage calculation, these are:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá roinnt rudaí nár chóir a chur san áireamh agus an t-íosráta pá á ríomh, is iad seo ná:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Tips which are placed in a central fund managed by the employer and paid as part of your wages</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Síneadh láimhe a chuirtear i gciste lárnach arna bhainistiú ag an bhfostóir agus íoctha mar chuid dá phá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Premiums for working public holidays, Saturdays or Sundays</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Préimheanna d'obair ar laethanta saoire poiblí, ar an Satharn nó ar an Domhnach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Allowances for special or additional duties</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Liúntais d'obair speisialta nó d'obair bhreise</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• On-call or standby allowances</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Liúntais maidir le dualgais ar glao nó liúntais fuireachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Certain payments in relation to absences from work, for example, sick pay, holiday pay or pay during health and safety leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Íocaíochtaí áirithe a bhfuil baint acu le bheith as láthair ón obair, mar shampla, pá tinnis, pá saoire nó pá le linn saoire sláinte agus slándála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Payment connected with leaving the employment including retirement</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Íocaíocht a bhfuil baint aige le bheith ag éirí as fostaíocht, lena n-áirítear dul ar scor</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Contributions paid by the employer into any occupational pension scheme available to you</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ranníocaíochtaí arna n-íoc ag an bhfostóir i scéim pinsin cheirde ar bith atá ar fáil duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• An advance payment of, for example, salary: the amount involved will be taken into account for the period in which it would normally have been paid</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Réamhíocaíocht, pá, mar shampla tuarastal: tógfar an méid atá i gceist san áireamh don tréimhse ina mbeadh sé le híoc de ghnáth</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Payment in kind or benefit in kind, other than board and/or lodgings</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Íocaíocht chomhchineáil nó sochar comhchineáil, seachas cothú agus/nó lóistín</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Payment not connected with the person's employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Íocaíocht nach bhfuil baint aici le fostaíocht an duine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Compensation for injury or loss of tools</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cúiteamh do ghortú nó do chailleadh uirlisí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Award as part of a staff suggestion scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Dámhachtain mar chuid de scéim molta foirne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Loan by the employer to you</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Iasacht ón bhfostóir duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>What counts as pay?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Céard a thógfar san áireamh mar íocaíocht?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For the purposes of the national minimum wage your gross wage includes, for example, the basic salary and any shift premium, bonus or service charge</seg></tuv>
+  <tuv xml:lang="ga"><seg>De réir an tAcht um Pá Íosta áirítear le d'ollphá, mar shampla, an bunphá agus préimh ar bith sealoibre, bónas nó táille seirbhíse</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you receive food (known as board) and/or accommodation (known as lodgings) from your employer, the following amounts are included in the minimum wage calculation:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhaigheann tú bia (ar a dtugtar cothú) agus/nó cóiríocht (ar a dtugtar lóistín) ó d'fhostóir, déantar na méid seo a leanas a thógáil san áireamh nuair atá an íosráta pá á ríomh:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• €54.13 for full board and lodgings per week, or €7.73 per day</seg></tuv>
+  <tuv xml:lang="ga"><seg>• €54.13 ar chothú iomlán agus iostais in aghaidh na seachtaine, nó €7.73 in aghaidh an lae</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• €32.14 for full board only per week, or €4.60 per day</seg></tuv>
+  <tuv xml:lang="ga"><seg>• €32.14 ar chothú iomlán amháin in aghaidh na seachtaine, nó €4.60 in aghaidh an lae</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• €21.85 for lodgings only per week, or €3.14 per day</seg></tuv>
+  <tuv xml:lang="ga"><seg>• €21.85 ar iostais amháin in aghaidh na seachtaine, nó €3.14 in aghaidh an lae</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your working hours are whichever is the greater:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ionann d'uaireanta oibre agus cibé acu is mó:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The hours set out in any document such as a contract of employment, collective agreement or statement of terms of employment provided under the Terms of Employment (Information) Act 1994,</seg></tuv>
+  <tuv xml:lang="ga"><seg>• na huaireanta atá leagtha amach i gcáipéis ar bith cosúil le conradh fostaíochta, comhaontú comhchoiteann nó ráiteas de théarmaí fostaíochta a bhfuil foláir dó san Acht um Théarmaí Fostaíochta (Faisnéis) 1994,</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The actual hours worked or available for work and paid</seg></tuv>
+  <tuv xml:lang="ga"><seg>• na huaireanta a oibríodh go hiarbhír nó na huaireanta a raibh fáil ort i gcomhair obair agus a íocadh astu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Travel time where this is part of the job</seg></tuv>
+  <tuv xml:lang="ga"><seg>• am taistil nuair is cuid den phost é</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Time spent on training authorised by the employer and during normal working hours</seg></tuv>
+  <tuv xml:lang="ga"><seg>• am a chaitear ar thraenáil le linn gnáthuaireanta oibre atá údaraithe ag an bhfostóir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>"Working hours" does not include:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní áirítear le "huaireanta oibre":</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Time spent on standby other than at the workplace</seg></tuv>
+  <tuv xml:lang="ga"><seg>• am a chaitear ar fuireachas in áit nach í an áit oibre í</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Time on leave, lay-off, strike or after payment in lieu of notice</seg></tuv>
+  <tuv xml:lang="ga"><seg>• am ar saoire, am a scaoileadh leis an bhfostaí, am ar stailc nó am tar éis íocaíochta in ionad fógra scoir a thabhairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Time spent travelling to or from work</seg></tuv>
+  <tuv xml:lang="ga"><seg>• am a caitheadh ag taisteal chuig nó ón ionad oibre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The employer selects the period, known as the pay reference period, from which the average hourly pay will be calculated</seg></tuv>
+  <tuv xml:lang="ga"><seg>Roghnaíonn an fostóir an tréimhse, ar a dtugtar an tréimhse tagartha pá, a ndéanfar an meánphá in aghaidh na huaire a ríomh ina leith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This might be, for example, on a weekly or fortnightly basis, but cannot be for a period longer than a month</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh sé a bheith, mar shampla, ar bhonn seachtainiúil nó ar bhonn coicíse ach ní fhéadfaidh sé a bheith do thréimhse níos mó ná mí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The employer must include details of the pay reference period in the statement of employment conditions to be given to an employee under the Terms of Employment (Information) Act 1994</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh an fostóir sonraí maidir leis an tréimhse tagartha pá a sholáthar sa ráiteas faoi choinníollacha fostaíochta atá le tabhairt d'fhostaí de réir an tAcht um Théarmaí Fostaíochta (Faisnéis) 1994</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may request a written statement from your employer of your average rate of pay for any pay reference period within the last 12 months</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú ráiteas i scríbhinn a iarraidh ar d'fhostóir maidir le do mheánráta pá do thréimhse tagartha pá ar bith laistigh den 12 mí atá thart</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The employer has 4 weeks to supply the statement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá ceithre seachtaine ag an bhfostóir chun an ráiteas a sholáthar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Exceptions to those entitled to receive the national minimum wage</seg></tuv>
+  <tuv xml:lang="ga"><seg>Eisceachtaí leo siúd atá i dteideal íosráta phá náisiúnta a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are some exceptions to those entitled to receive the national minimum wage</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá roinnt eisceachtaí ann maidir leo siúd atá i dteideal an íosráta phá náisiúnta a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The legislation does not apply to a person employed by a close relative (for example, a spouse, civil partner or parent) nor does it apply to those in statutory apprenticeships</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl feidhm ag an reachtaíocht i gcás duine atá fostaithe ag duine a bhfuil gaol gairid aige/aci leis/léi (mar shampla céile, páirtnéir sibhialta nó tuismitheoir) ná i gcás duine atá i bprintíseacht reachtúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Also some employees such as young people under 18 and trainees are only guaranteed a reduced or sub-minimum rate of the national minimum wage</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chomh maith leis seo níl ráthaíocht ag fostaithe áirithe cosúil le daoine óga nach bhfuil 18 bliana d'aois bainte amach acu agus daoine faoi oiliúint ach go bhfaighidh siad ráta laghdaithe nó ráta atá faoi bhun an íosráta pá náisiúnta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the National Minimum Wage Act young people and those in the first 2 years of employment can be paid lower rates – called sub-minimum rates</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoin Acht um Pá Íosta go n-íocfaí rátaí pá atá faoi bhun an íosráta pá – ar thugtar fo-íosrátaí – le daoine óga agus leo atá sa chéad 2 bhliain fostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>See ‘Sub-minimum rates’ below for examples of how these rates are applied depending on age and experience</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féach ‘Rátaí fo-íosta’ thíos chun teacht ar shamplaí faoi conas a chuirtear na rátaí seo i bhfeidhm, ag brath ar aois agus ar thaithí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The National Minimum Wage Act also provides sub-minimum rates which apply to employees who are aged over 18 and undergoing a course of structured training or directed study that is authorised or approved of by the employer - see 'Rates' below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá foráil san Acht um Pá Íosta go n-íocfaí rátaí pá atá faoi bhun an íosráta pá le fostaithe a bhfuil 18 mbliana d'aois bainte amach acu má tá cúrsa eagraithe oiliúna nó staidéar faoi threoir ar siúl acu atá údaraithe nó faofa ag an bhfostóir - féach 'Rátaí' thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Act provides certain criteria which the training course must meet if the trainee rates are to apply</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagann an tAcht síos critéir áirithe ar ghá don chúrsa oiliúna a shásamh má tá na rátaí seo le cur i bhfeidhm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, the training or study must be for the purposes of improving the work performance of the employee; the employee's participation on the training or study must be directed or approved by the employer; at least 10% of the training must occur away from the employee’s ordinary operational duties; there must be an assessment and certification procedure or written confirmation on the completion of the training course</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, caithfidh an fostaí a bheith i mbun staidéir nó faoi oiliúint le feabhas a chur ar a c(h)uid oibre; caithfidh an fostóir an cúrsa oiliúna/ staidéir a stiúradh nó a fhaomhadh; caithfidh 10% den traenáil, ar a laghad a bheith ar siúl in áit nach í gnáth áit oibre an fhostaí í; agus caithfear córas measúnaithe agus teistiméireachta a bheith ann ag deireadh an chúrsa traenála, nó dearbhú i scríbhinn a bheith ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If an employer cannot afford to pay the national minimum wage due to financial difficulty the Labour Court may exempt an employer from paying the minimum wage rate for between 3 months and one year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá fostóir nach bhfuil in ann an t-íosráta pá náisiúnta a íoc i ngeall ar dheacracht airgid féadfaidh an Chúirt Oibreachais díolúine a thabhairt d'fhostóir ó íocaíocht an íosráta pá náisiúnta le haghaidh tréimhse ó 3 mhí go dtí bliain amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Only one such exemption can be allowed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir ach díolúine amháin den chineál seo a cheadú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The employer must apply to the Labour Court for the exemption with the consent of a majority of the employees, who must also agree to be bound by the Labour Court decision</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don fhostóir an díolúine a iarraidh ar an gCúirt Oibreachais le comhthoiliú fhormhór na bhfostaithe, agus caithfidh siad glacadh freisin go mbeidh cinneadh na Cúirte Oibreachais ina cheangal orthu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The employer must demonstrate that they are unable to pay the national minimum wage and that, if compelled to do so, would have to lay-off employees or terminate their employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh an fostóir a léiriú nach féidir leis/léi an íosráta pá náisiúnta a íoc agus i gcás go gcuirfí iallach air/uirthi íoc as, go mbeadh air/uirthi scaoileadh le fostaithe nó deireadh a chur lena bpoist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An exemption may only be sought from paying the full rate of the national minimum wage, not for cases covered by the reduced rate, for example, employees who are under 18 years of age</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir díolúine a lorg ó íocaíocht an ráta iomláin amháin den íosráta pá náisiúnta, ní féidir í a lorg i gcásanna arna gclúdach ag an ráta laghdaithe, mar shampla, i gcás fostaithe nach bhfuil 18 bliana d'aois bainte amach acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you seek your entitlement to the national minimum wage you are protected from victimisation or dismissal</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéanann tú do theidlíocht ar an íosráta pá náisiúnta a lorg tá tú á chosaint ó ansmacht nó dífhostú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Victimisation is prohibited by the legislation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann an reachtaíocht cosc arÍospairt </seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In addition, if you are dismissed for seeking the national minimum wage, you may bring a claim for unfair dismissal regardless of length of service or number of hours worked per week</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta seo, má dífhostaítear tú de bharr an t-íosráta pá náisiúnta a lorg, féadfaidh tú éileamh a dhéanamh ar dhífhostú éagórachbeag beann ar fhad seirbhíse ná ar líon na n-uaireanta a oibríodh in aghaidh na seachtaine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are due an increase under the National Minimum Wage Act your employer cannot reduce your working hours without a corresponding reduction in duties or the amount of work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú le méadú pá a fháil faoin Acht um Pá Íosta Náisiúnta ní féidir le d'fhostóir d'uaireanta oibre a laghdú gan do dhualgais ná líon do chuid oibre a laghdú dá réir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The national minimum wage for experienced adult employees and the sub-minimum rates for young people and certain trainees are as follows:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an t-íosráta pá d'aosach fostaithe le taithí agus na fo-íosrátaí do dhaoine óga agus oiliúnaithe áirithe mar a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Rates on or after 1 January 2017</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rátaí ó 1 Eanáir 2017</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│ │Minimum hourly rate │% of minimum │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│ │Íosráta pá in │% │ │Fostaí │aghaidh na │íosráta│</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Experienced adult worker │€9.25 │100% │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Fostaí aosach le taithí │€9.25 │100% │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Aged under 18 │€6.48 │70% │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Faoi bhun 18 bliana d'aois │€6.48 │70% │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│First year from date of first employment aged over 18 │€7.40 │80% │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│cionn 18 bliana d'aois │ │ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Second year from date of first employment aged over 18│€8.33 │90% │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Dara bliain ó dáta chéad fostaíochta os │€8.33 │90% │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Employee aged over 18, in structured training during │ │ │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│oiliúint struchtúrtha i rith uaireanta │ │ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│working hours │ │ │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│oibre │ │ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│1st one third period │€6.94 │75% │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Céad tréimhse ar feadh trian │€6.98 │75% │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│2nd one third period │€7.40 │80% │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Dara tréimhse ar feadh trian │€7.40 │80% │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│3rd one third period │€8.33 │90% │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Tríú tréimhse ar feadh trian │€8.33 │90% │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Note: each one third period must be at least one month and no more than one year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabhair faoi deara: ní mór do gach trian díobh a bheith ann ar feadh míosa ar a laghad agus ar feadh bliana ar a mhéid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are not receiving the national minimum wage, you may enforce your rights by completing the online complaint form available on workplacerelations.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil an t-íosráta pá náisiúnta á fháil agat, is féidir do chearta a chur i bhfeidhm tríd an fhoirm ghearáin ar líne nua a chomhlánú á fáil ar workplacerelations.ie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the online complaint form you have 2 options:</seg></tuv>
+  <tuv xml:lang="ga"><seg>San fhoirm ghearáin ar líne tá 2 rogha agat:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may either request an inspector from the Workplace Relations Commission (WRC) to investigate a claim that the national minimum wage is not being paid</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú cigire a iarraidh ar an gCoimisiún um Chaidreamh san Áit Oibre (CCAO) chun éileamh a fhiosrú nach bhfuil an t-íosráta pá náisiúnta á íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may refer a dispute to a WRC adjudicator</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú chomh maith aighneas a chur faoi bhráid breithneora (CCAO)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However this may only be done where you have requested from the employer a statement outlining the calculation of the average hourly pay</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir é seo a dhéanamh áfach ach amháin má d'iarr tú ráiteas ar d'fhostóir ag leagan amach ríomh an mhéanráta pá in aghaidh na huaire</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must refer the dispute with 6 months of the supplying of the statement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh tú an t-aighneas a atreorú laistigh de sé mhí ó dháta soláthair an ráitis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(The time limit for referral limit may be extended to a maximum of 12 months.) Where the employer fails to provide the statement the time starts from the date at which the employer should have provided the statement, that is within 4 weeks of the request</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Féadfar an teorainn atreorúcháin a shíneadh go dtí uasmhéid de 12 mí.) Má theipeann ar an bhfostóir an ráiteas a sholáthar tosaíonn an t-am ag an dáta ar chóir don fhostóir an ráiteas a sholáthar, is é sin laistigh de 4 seachtaine ó dháta an iarratais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Note: you may not refer a complaint to both an adjudicator and an inspector in relation to the same dispute under the Minimum Wage Act</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabhair faoi deara: Ní féidir leat gearán maidir leis an aighneas céanna a chur faoi bhráid an bhreithneora agus cigire araon faoin Acht um Pá Íosta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are alleging victimisation, you should request that the employer restore your employment conditions to their position before the victimisation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá íospairt a líomhain agat, ní mór duit a iarraidh go gcuirfidh d'fhostóir do choinníollacha oibre ar ais sa staid ina raibh siad roimh an íospairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where the employer fails to do this within 2 weeks of the request, you may refer the matter to the WRC adjudicator</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má theipeann ar an bhfostóir é seo a dhéanamh laistigh de choicís ó dháta an iarratais, féadfaidh tú an cheist a chur faoi bhráid an bhreithneora CCAO</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This referral must take place within 6 months (which may be extended to a maximum of 12 months) of the alleged victimisation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don atreorúchán seo tarlú laistigh de 6 mhí (a d'fhéadfar a shíneadh go dtí uasmhéid de 12 mí) ó dháta an ansmachta líomhanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For further information on the national minimum wage contact Workplace Relations Commission's Information and Customer Service - see 'Where to apply' below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun breis faisnéise a fháil, déan teagmháil leis na Seirbhís Faisnéise do Chustaiméirí an Choimisiúin um Chaidreamh san Áit Oibre – féach ‘Cá háit a ndéanfaidh mé iarratas’ thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Information and Customer Service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seirbhíse Faisnéise agus Custaiméara</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Opening Hours: Mon. to Fri. 9.30am to 5pm</seg></tuv>
+  <tuv xml:lang="ga"><seg>Uaireanta Oscailte:Luan go hAoine 9.30rn go 5in</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Tel: (059) 917 8990</seg></tuv>
+  <tuv xml:lang="ga"><seg>Teil: (059) 917 8990</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Locall: 1890 80 80 90</seg></tuv>
+  <tuv xml:lang="ga"><seg>Lóghlao: 1890 80 80 90</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Young employees and those people in first 2 years of employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fostaithe óga agus daoine sa chéad 2 bhliain fostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Since 1 January 2017 the National Minimum Wage Act provides the following sub-minimum rates:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó 1 Eanáir 2016 tá foráil san Acht um Pá Íosta go n-íocfaí na rátaí seo a leanas atá faoi bhun an íosráta phá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• An employee who is aged under 18 is entitled to €6.48 per hour (70% of the minimum wage)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tá fostaí nach bhfuil 18 mbliana d'aois bainte amach aige nó aici i dteideal €6.48 a fháil in aghaidh na huaire (70% den íosráta pá)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• An employee who is in the first year of employment since the age of 18 is entitled to €7.40 per hour (80% of minimum wage)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• I gcás duine atá ag obair don chéad bhliain tar éis di nó dó 18 mbliana d'aois a bhaint amach tá sé nó sí i dteideal €7.40 a fháil in aghaidh na huaire (80% den íosráta pá)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• An employee who is in the second year of employment since the date of first employment over the age of 18 is entitled to €8.33 per hour (90% of the minimum wage)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• I gcás duine atá ag obair don dara bhliain tar éis dó nó di 18 mbliana d'aois a bhaint amach tá sé nó sí i dteideal €8.33 a fháil in aghaidh na huaire (90% den íosráta pá)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Example 1: John was aged 17 when he started work on 1 January 2015 so he was entitled to 70% of the minimum wage</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sampla 1: Bhí Seán 17 mbliana d’aois nuair a thosaigh sé ag oibriú an 1 Eanáir 2015, mar sin, bhí sé i dteideal 70% an pá íosta a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>His 18th birthday was on 1 April 2015 and after that he was entitled to 80% of the minimum wage as he was in his first year of employment after the age of 18</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tháinig a bhreithlá 18 mbliana aníos an 1 Aibreán 2015 agus ina dhiaidh sin, bhí sé i dteideal 80% an pá íosta a fháil mar gheall go bhfuil sé ina chéad bhliain fhostaíochta i ndiaidh aois 18 mbliana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>From 1 April 2016, he was entitled to 90% of the minimum wage as he was in his second year of employment since the age of 18</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ón 1 Aibreán 2016 i leith, bhí sé i dteideal 90% an pá íosta a fháil mar gheall go raibh sé ina dara bliain fhostaíochta ó aois 18 mbliana i leith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>After 1 April 2017 he is entitled to the full minimum wage rate as he is an experienced adult worker for the purposes of the National Minimum Wage Act. (That is, he is not in the first 2 years after the date of first employment over age 18)</seg></tuv>
+  <tuv xml:lang="ga"><seg>I ndiaidh an 1 Aibreán 2017 tá sé i dteideal na rátaí iomlán pá íosta a fháil mar gheall gurb oibrí taithíoch fásta é chun críocha an Achta um Pá Íosta Náisiúnta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find a definition of an experienced adult worker in this list of frequently asked questions on the national minimum wage</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sainmhíniú oibrithe thaithíoch fásta ar fáil sa liosta ceisteanna coitianta faoin bpá íosta náisiúnta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Example 2: Mary worked for 6 months when she was 17</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sampla 2: D’oibrigh Máire ar feadh 6 mhí nuair a bhí sí 17 mbliana d’aois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>She went to college and, on 1 October 2015, at the age of 20 she started work</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhreastail sí ar an gcoláiste agus, an 1 Deireadh Fómhair 2015, ar aois 20 bliain, thosaigh sé an obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>She was entitled to 80% of the minimum wage as she was in her first year of employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bhí sí i dteideal 80% an pá íosta a fháil mar gheall go raibh sí ina céad bhliain fhostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>On 1 June 2016 she turned 21 but her rate of pay did not increase as she was still in first year of employment after the age of 18</seg></tuv>
+  <tuv xml:lang="ga"><seg>An 1 Meitheamh 2016, bhain sí 21 bliain d’aois amach ach níor tháinig méadú ar a ráta pá mar gheall go raibh sí fós ina céad bhliain fhostaíochta i ndiaidh aois 18 mbliana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(Her 6-months’ work when aged 17 is not taken into account.) From 1 October 2016 she was entitled to 90% of the minimum wage as she was in her second year of employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Ní chuirtear an obair a rinne sí ar feadh 6 mhí nuair a bhí sí 17 mbliana d’aois san áireamh.) Ón 1 Deireadh Fómhair 2016, bhí sí i dteideal 90% an pá íosta a fháil mar gheall go raibh sí ina dara bliain fhostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Mary changed job on 1 December 2016 but she was only entitled to 90% of the minimum wage as she continued to be in her second year of employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’athraigh Máire a post an 1 Nollaig 2016, ach ní raibh sí i dteideal ach do 90% an pá íosta a fháil mar gheall go raibh sí fós ina dara bliain fhostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>She is not entitled to the full minimum wage rate until 1 October 2017</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl sí i dteideal na rátaí iomlán íosta pá a fháil go dtí an 1 Deireadh Fómhair 2017</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is when her second year of employment ends</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seo an tráth a thabharfar a dara bliain fhostaíochta chun críche</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can read the current and previous minimum wage rates on workplacerelations.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léigh tuilleadh faoi na rátaí íosphá reatha agus roimhe ar workplacerelations.ie</seg></tuv>
+</tu>
+</body>
+</tmx>

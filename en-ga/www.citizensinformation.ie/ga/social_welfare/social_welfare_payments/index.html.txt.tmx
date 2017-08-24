@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>• Older and retired people</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seanóirí agus Daoine Scortha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Social welfare payments and work</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Íocaíochtaí Leasa Shóisialaigh agus Obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Extra social welfare benefits</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sochair Leasa Shóisialaigh Bhreise</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Voluntary work and social welfare payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Obair dheonach agus íocaíochtaí leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you want to keep your social welfare payment and do some voluntary work, you must follow the rules set down by the Department of Social Protection</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dá mba mhian leat d’íocaíocht leasa shóisialaigh a choinneáil agus roinnt obair dheonach a dhéanamh, ní mór duit cloí leis na rialacha atá leagtha síos ag an Roinn Coimirce Sóisialaí. Faigh tuilleadh eolais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most Read in "Social Welfare"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ábhar is mó éilimh i "Leas Sóisialach"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Back to School Clothing and Footwear Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Liúntas Éadaí agus Coisbhirt chun Filleadh ar Scoil</seg></tuv>
+</tu>
+</body>
+</tmx>

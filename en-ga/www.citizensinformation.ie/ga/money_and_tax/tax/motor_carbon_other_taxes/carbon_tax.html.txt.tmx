@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>In 2010 a carbon tax was introduced in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugadh cáin charbóin isteach in Éirinn in 2010</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The carbon tax applies to kerosene, marked gas oil, liquid petroleum gas, fuel oil, natural gas and solid fuels</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann an cháin charbóin le ceirisín, ola mharcáilte gháis, gás peitriliam leachtaithe, ola bhreosla agus le gás nádúrtha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The rate of tax on solid fuels from 1 May 2013 to 1 May 2014 was based on a charge of €10 per tonne of CO2 emitted by the fuel concerned</seg></tuv>
+  <tuv xml:lang="ga"><seg>Méadaíodh an cháin charbóin i mBuiséad 2012 ó €5 go dtí €20 an tonna CO2 a astaítear ó bhreoslaí iontaise</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The rate increased to €20 per tonne with effect from 1 May 2014</seg></tuv>
+  <tuv xml:lang="ga"><seg>Téann an méadú i bhfeidhm ar pheitreal agus ar dhíosal do ghluaisteáin ó mheán oíche, an 6 Nollaig 2011</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read more about solid fuel carbon tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat rátaí reatha na gcánacha carbóin a fháil ó na Coimisinéirí Ioncaim (pdf)</seg></tuv>
+</tu>
+</body>
+</tmx>

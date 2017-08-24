@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>If you are unable to get a loan from a building society or bank, you may be eligible for a mortgage from your local authority</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna féidir leat iasacht a fháil ó chumann foirgníochta nó ó bhanc b'fhéidir go bhfuil tú i dteideal morgáiste ó d'údarás áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The loan can be up to 97% of the price of the house subject to a maximum loan of €200,000</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis an t-iasacht a bheith chomh hárd le 97% de luach an tí ach le huasmhéid iasachta de €200,000</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A local authority mortgage will be an annuity mortgage with variable interest rates so repayments will go up and down with general interest rates</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh morgáiste údarás áitiúil ina mhorgáiste bhliainachta le rátaí úis malartach ionas go mbeidh na haisíocaíochtaí ag dul suas agus síos le rátaí úis ginearálta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may be eligible for a local authority mortgage if you can show the local authority that you cannot get a loan from a bank or building society and you are:</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfá a bheith i dteideal morgáiste ó údarás áitiúil más féidir leat a thaispeáint don údarás áitiúil nach féidir leat iasacht a fháil ó bhanc ná ó chumann foirgníochta agus:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A first time buyer and</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gur ceannaitheoir céad-uaire tú agus</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Your income satisfies the income test - see below</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Go sásaíonn d’ioncam an tástáil ioncaim - féach thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If your gross income (before tax) in the last income tax year was €50,000 or less, you are eligible</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má bhí do oll-ioncam (roimh cháin) de €50,000 nó níos lú agat sa mbliain dheireanach cánach, tá tú i dteideal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If your combined gross income (before tax) in the last income tax year was €75,000 or less, you are eligible</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má bhí do oll-ioncam (roimh cháin) de €75,000 nó níos lú agat sa mbliain dheireanach cánach, tá tú i dteideal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Contact your local authority</seg></tuv>
+  <tuv xml:lang="ga"><seg>Téígh i dteagmháil led' údarás áitiúil</seg></tuv>
+</tu>
+</body>
+</tmx>

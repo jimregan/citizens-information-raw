@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Credit unions are organisations of people that save together and lend to each other at affordable rates of interest</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is eagras é an comhar creidmheasa de dhaoine a chuireann airgead i dtaisce le chéile agus a chuireann iasachtaí airgid ar fáil dá chéile ar ráta úis réasúnta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This document is in: Money and Tax &gt; Personal finance &gt; Financial institutions</seg></tuv>
+  <tuv xml:lang="ga"><seg>This document is in: Airgead agus Cáin &gt; Airgeadas pearsanta &gt; Faoiseamh cánach ar tháillí don tríú leibhéal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Interest on loans and savings</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ús ar iasachtaí agus coigilteas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you borrow money you will be charged interest</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má thógann tú airgead ar iasacht ó institiúid airgeadais, déanfar ús a ghearradh ort</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you save money you will earn interest</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéanann tú airgead a choigilt in institiúid airgeadais, déanfaidh tú ús a thuilleamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Find out about the different terms used for interest charged or earned</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigh amach faoi théarmaí difriúla a úsáidtear don ús a ghearrtar agus a thuilltear</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most Read in "Money and Tax"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ábhar is mó éilimh i "Airgead agus Cáin"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>How your income tax is calculated</seg></tuv>
+  <tuv xml:lang="ga"><seg>An córas le cáin a mheas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Universal Social Charge (USC)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muirear Sóisialta Uilíoch (MSU)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Introduction to income tax credits and reliefs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Réamhrá ar chreidmheasanna cánach agus faoiseamh ó cháin ioncaim</seg></tuv>
+</tu>
+</body>
+</tmx>

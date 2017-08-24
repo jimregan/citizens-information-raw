@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>• Income Tax in Retirement</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cáin ioncaim do lucht pinsin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Life Event Document Retiring from work For many people the prospect of retirement from work gives an opportunity to seek fresh directions and new challenges</seg></tuv>
+  <tuv xml:lang="ga"><seg>Life Event Document Scor ón obair in Éireann Don fhormhór nuair a smaoiníonn siad ar scor, feiceann siad deis le treonna nua a ghlacadh agus dushláin nua a thabhairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>What you should know about retiring from work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faisnéis ba cheart a bheith ar eolas agat mar gheall ar dhul ar scor ó obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most Read in "Employment"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ábhar is mó éilimh i "Fostaíocht"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Rest periods and breaks</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tréimhsí sosa agus sosanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Tax and starting work - PAYE</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gnó a chur ar bun</seg></tuv>
+</tu>
+</body>
+</tmx>

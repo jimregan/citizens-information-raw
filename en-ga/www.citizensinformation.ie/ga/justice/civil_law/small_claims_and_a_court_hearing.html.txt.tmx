@@ -1,0 +1,261 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Small claims and a court hearing</seg></tuv>
+  <tuv xml:lang="ga"><seg>Éilimh bheaga agus éisteacht chúirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your small claims procedure case could not be resolved and has been referred for a hearing in the District Court, you will receive a letter from the District Court office telling you the date and time of the court hearing and the location of the court itself</seg></tuv>
+  <tuv xml:lang="ga"><seg>Murarbh fhéidir do chás um nós imeachta i leith éileamh beag a réiteach agus gur atreoraíodh é i gcomhair éisteachta sa Chúirt Dúiche, is amhlaidh a gheobhaidh tú litir ó oifig na Cúirte Dúiche ag insint duit dáta agus tráth na héisteachta cúirte agus suíomh na cúirte féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The case will be heard in public as part of a normal sitting of the District Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Éistfear go poiblí an cás mar chuid de ghnáthshuí na Cúirte Dúiche</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have any difficulty with attending court on the date set for the hearing, notify the District Court office and the respondent immediately</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhaineann aon deacracht duit le freastal ar an gcúirt ag an dáta a socraíodh don éisteacht, cuir fógra chuig oifig na Cúirte Dúiche agus chuig an bhfreagróir láithreach bonn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may ask to have the date adjourned, or put back, to another date</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat iarraidh ar an gcúirt chun an dáta a chur ar athló, nó a chur ar aghaidh chuig dáta éigin eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Only the judge can make this order and you will need a very good reason for not being able to attend or go ahead with the case on that date</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad an breitheamh amháin ar féidir leo an t-ordú sin a thabhairt agus teastóidh cúis fhíormhaith uait gan bheith in ann freastal ná dul ar aghaidh ar/leis an gcás an dáta úd</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you cannot attend yourself, you can send a representative to make the request to the court on your behalf</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura féidir leat féin freastal uirthi, is féidir leat ionadaí a chur chuici chun an t-iarratas a dhéanamh os comhair na cúirte ar do shonsa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is very important to prepare yourself for the court hearing</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé fíorthábhachtach go n-ullmhaíonn tú tú féin don éisteacht chúirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It may be advisable to get legal advice</seg></tuv>
+  <tuv xml:lang="ga"><seg>B’fhéidir gurbh inmholta é chun comhairle dhlíthiúil a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under Irish law, a business is required to be legally represented in court-based proceedings</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní foláir go mbeadh ionadaíocht dhlíthiúil ag gnólacht éigin de réir dhlí na hÉireann in imeachtaí na cúirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are not familiar with the court process, you should familiarise yourself with the layout, court practice and operation of the court in advance of the hearing</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil aithne agat ar an bpróiseas cúirte, ba cheart duit dul i dtaithí ar leagan amach, cleachtadh na cúirte agus feidhmiú na cúirte roimh an éisteacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will need to present information to the judge that sets out clearly the nature of your relationship with the respondent, that is, the person you are claiming against</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh tú faisnéis a thabhairt don bhreitheamh ina leagtar amach go soiléir cineáil do chaidrimh leis an bhfreagróir, is é sin an duine a bhfuil tú ag éileamh ina gcoinne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This relationship could relate to the roles of:</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh an caidreamh sin bheith bainteach le róil mar:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Consumer and service provider</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tomhaltóir agus soláthraí seirbhíse</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Owner of property the respondent has allegedly damaged</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Úinéir na maoine a líomhnaítear go ndearna an freagróir damáiste di</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will need to show what went wrong and give the circumstances surrounding the problem</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh tú na fabhtanna a léiriú agus na himthosca a thabhairt timpeall na faidhbe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will need to show how you tried to put the matter right and the steps you took to remedy the situation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh tú léargas a thabhairt faoin gcaoi a ndearna tú iarracht cúrsaí a cheartú agus na céimeanna a ghlac tú chun an fhadhb a fhuascailt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should also know how the various consumer laws protect you in your particular situation and draw the court's attention to them</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir go mbeadh aithne agat freisin ar an gcaoi ina dtugann na dlíthe tomhaltóirí cosaint duit i do chúinsí faoi leith agus aird na cúirte a tharraingt dóibh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can read more about consumer rights here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat a thuilleadh a léamh faoi chearta tomhaltóirí anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should be clear about exactly what it is you are claiming for</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart go mbeifeá soiléir faoin méid beacht a bhfuil tú ag éileamh air</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When presenting your information to the court, you should back it up with evidence wherever possible</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir duit fianaise a thabhairt mar chruthúnas más féidir ar chor ar bith é nuair a chuireann tú d’eolas os comhair na cúirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Have your receipt or other proof of purchase ready</seg></tuv>
+  <tuv xml:lang="ga"><seg>• mbeadh d'admháil nó cruthúnas ceannaigh éigin eile réidh leat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Bring the faulty or damaged goods to the court to show them to the judge</seg></tuv>
+  <tuv xml:lang="ga"><seg>• dtabharfá na hearraí fabhtacha nó damáistithe chun na cúirte lena dtaispeáint don bhreitheamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Take photographs of poor workmanship, damaged property or poor quality goods or services that you cannot bring to court</seg></tuv>
+  <tuv xml:lang="ga"><seg>• dtógfá grianghraif den drochshaoirseacht, den mhaoin dhamáistithe nó d'earraí nó seirbhísí droch-chaighdeáin nach féidir leat tabhairt chun na cúirte leat iad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Get an independent opinion by another expert and have the expert appear in the court as your witness (you will be responsible for any expense this might incur)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• bhfaighfeá tuairim neamhspleách ó shaineolaí éigin eile agus go dtiocfadh an saineolaí os comhair na cúirte mar d’fhinné (is tusa a bheidh freagrach as aon chaiteachas a d’fhéadfadh bheith bainteach leis sin)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Bring any letters, advertisements or any other documents you may have relied on when buying the goods or services</seg></tuv>
+  <tuv xml:lang="ga"><seg>• dtabharfá litir, fógra nó cáipéis ar bith eile leat a ndeachaigh tú i dtuilleamaí orthu nuair a cheannaigh tú na hearraí nó na seirbhísí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Ask any other person who can back up your claim, especially in the case of faulty services provided, to attend as a witness</seg></tuv>
+  <tuv xml:lang="ga"><seg>• n-iarrfá ar dhuine ar bith eile ar féidir leo tacú le d’éileamh, go háirithe i gcás seirbhís fabhtacha arna soláthar, chun freastal mar fhinné</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can send them a witness summons if necessary – the Small Claims Registrar can issue a witness summons on your behalf for a small fee</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat toghairm finné a sheoladh dóibh más gá – is féidir leis an gCláraitheoir um Éilimh Bheaga toghairm finné a eisiúint ar do shonsa ar tháille bheag</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>On the day of your court hearing, you will have to attend the District Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh tú freastal ar an gCúirt Dúiche lá d’éisteachta cúirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It will be a court open to the public and it will be a District Court judge that will hear your case</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is cúirt oscailte don phobal a bheidh inti, agus is breitheamh na Cúirte Dúiche a éistfidh le do chás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When your case is called you will hear your name called out and then the name of the respondent, for example, "Patrick Murphy versus Joe Ryan"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cloisfidh tú d’ainm á ghlaoch os ard agus ainm an fhreagróra ina dhiaidh nuair a ghairtear do chás, mar shampla, "Patrick Murphy i gcoinne Joe Ryan"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>At this point, you should stand up and identify yourself to the court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir duit éirí i do sheasamh ag an tráth sin agus tú féin a chur in aithne don chúirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Small Claims Registrar will then call out to the judge a summary of what your case is about</seg></tuv>
+  <tuv xml:lang="ga"><seg>Glaofaidh An Cláraitheoir um Éilimh Bheaga achoimre faoina mbaineann le do chás don bhreitheamh ansin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will be asked to go to the witness box</seg></tuv>
+  <tuv xml:lang="ga"><seg>Iarrfar orthu chun dul isteach i gclár na mionn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will stand in the witness box and the Court Clerk will assist you to swear an oath or to make an affirmation to tell the truth</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fanfaidh tú i do sheasamh i gclár na mionn agus tabharfaidh Cléireach na Cúirte cúnamh duit chun mionn a ghlacadh nó chun dearbhú a thabhairt chun an fhírinne a insint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The judge will then ask you to begin your case</seg></tuv>
+  <tuv xml:lang="ga"><seg>Iarrfaidh an breitheamh ort ansin chun do chás a thosú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Here is where you must give your side of the dispute, in as clear a fashion as possible and backed up with as much evidence as you need</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is sa tráth sin nach foláir duit do dhearcadh i leith na díospóide a thabhairt, chomh soiléir agus is féidir agus le tacaíocht ón oiread fianaise agus a theastaíonn uait</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The judge will ask you some questions, which you should answer as best you can</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirfidh an breitheamh roinnt ceisteanna ort, ar chóir duit iad a fhreagairt chomh maith agus arbh fhéidir leat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Remember, the correct way to address the judge is "judge" and you should direct your answers to the judge at all times</seg></tuv>
+  <tuv xml:lang="ga"><seg>Meabhraigh gurb é an beannú ceart do bhreitheamh é “a bhreithimh”, agus go mba chóir duit d’fhreagraí a threorú ar an mbreitheamh i gcónaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you have answered the judge's questions, the judge will give the respondent an opportunity to question you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a bheidh freagra tugtha agat do cheisteanna an bhreithimh, is amhlaidh a thabhairt an breitheamh deis don fhreagróir chun ceisteanna a chur ortsa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Answer these questions as best you can but do not start an argument with the respondent</seg></tuv>
+  <tuv xml:lang="ga"><seg>Freagair na ceisteanna úd ar feadh d’eolais, ach ná cuir tús le hargóint leis an bhfreagróir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>After this, you will be allowed to leave the witness box</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ligfear duit clár na mionn a fhágáil dá éis sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you wish to call a witness, you should do so at this time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mian leat finné a ghlaoch, ba cheart duit é sin a dhéanamh ag an tráth úd</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your witness will go through a similar procedure</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rachaidh d’fhinné trí nós imeachta comhchosúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When your witness or witnesses have finished, it will be the respondent's turn to give their evidence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tiocfaidh seal an fhreagróra dá bhfianaise nuair a bheidh d'fhinné nó finnéithe críochnaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your case is against a company, a representative of the company will speak on its behalf</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más i gcoinne comhlachta é do chás, is amhlaidh a labhróidh ionadaí an chomhlachta ar a shonsan</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The procedure for the respondent is very much the same as it was for you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is beagnach mar a chéile é an nós imeachta don fhreagróir agus an nós imeachta duit féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will get an opportunity to question the respondent when the judge has finished asking them questions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gheobhaidh tú deis chun ceisteanna a chur ar an bhfreagróir nuair a bheidh an breitheamh críochnaithe lena gceistiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can prepare for this by studying the respondent's reply on the Notice of Dispute (and Counterclaim, if relevant) and by preparing questions in advance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat ullmhú dó sin ach staidéar a dhéanamh ar fhreagra an fhreagróra don Fhógra Díospóide (agus sa Fhrithéileamh más ábhartha é) agus trí cheisteanna a ullmhú roimh ré</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will also need to listen carefully to what the respondent says while in the witness box and you can challenge any evidence you do not agree with at this time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh ort freisin éisteacht go cúramach lena bhfuil le rá ag an bhfreagróir agus iad i gclár na mionn, agus is féidir leat dúshlán a thabhairt in aghaidh fianaise ar bith nach n-aontaíonn léi ag an tráth sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The respondent will then have an opportunity to call witnesses to give evidence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh deis ag an bhfreagróir ansin chun finnéithe a ghlaoch chun fianaise a thabhairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will also be given an opportunity to put questions to these witnesses</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabharfar deis duit freisin chun ceisteanna a chur ar na finnéithe úd</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When all the witnesses have been heard, the judge will usually make their decision there and then</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iondúil go ndéanfaidh an breitheamh a gcinneadh ar an toirt nuair a bheifear tar éis éisteacht le gach finné</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the judge decides in your favour, they will make an order or decree</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabharfaidh an breitheamh ordú nó foraithne má thagann siad ar chinneadh i d'fhabhar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is usually an order for the respondent to pay an amount of money to you, but the judge can decide to make any order they see fit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iondúil gurb ordú atá anseo chun is go n-íocfaidh an freagróir suim airgid leat, ach is féidir leis an mbreitheamh cinneadh a dhéanamh chun aon ordú a mheasann siad bheith cuí a thabhairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, the judge may direct that the work be completed or the goods be repaired</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, is féidir leis an mbreitheamh treoir a thabhairt go gcríochnaítear an saothar nó go ndeisítear na hearraí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The order will be made to suit your particular case</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceapfar an t-ordú chun bheith oiriúnach don chás faoi leith agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the court makes a decree for an amount of money, the respondent has 28 calendar days to pay you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má cheapann an chúirt foraithne i gcomhair suim airgid, is amhlaidh a bheidh 28 lá de réir an fhéilire ag an bhfreagróir chun tú a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the court makes any other type of decree, it will usually put a time limit within which it must be completed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má cheapann an chúirt cineál foraithne éigin eile, is iondúil go gcuirfear teorainn ama nach foláir di bheith críochnaithe laistigh di</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the judge decides not to uphold your claim, your case will be dismissed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chinneann an breitheamh gan seasamh le d’éileamh, is amhlaidh a dhíbhfear do chás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that no order or decree will be made in your favour</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn sé sin nach ndéanfar ordú ná foraithne ar bith i d’fhabhar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find further information on the District Court hearing on the Courts Service website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat teacht ar a thuilleadh eolais i leith éisteacht na Cúirte Dúiche ar láithreán gréasáin na Seirbhíse Cúirteanna</seg></tuv>
+</tu>
+</body>
+</tmx>

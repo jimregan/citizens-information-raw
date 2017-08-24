@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Pleadings (sometimes called writs) are court documents that are exchanged by the parties in a case</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cáipéisí cúirte iad pléadálacha (ar a dtugtar eascairí amanna) a dhéanann na páirtithe a mhalartú i gcás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the case is a High Court or Circuit Court case, the solicitor will usually appoint a barrister to draft the pleadings in the case</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá an cás san Ard-Chúirt nó sa Chúirt Chuarda, is gnách go gceapfaidh an t-aturnae abhcóide chun na pléadálacha sa chás a dhréachtú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The person who is bringing the case, that is, the person who is suing, is known as the plaintiff or claimant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar an gearánaí nó an t-éilitheoir ar an duine a bhfuil an cás á dhéanamh acu, is é sin, an duine a bhfuil agairt á dhéanamh acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The person who is being sued is known as the defendant or respondent</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar an cosantóir nó an freagróir ar an duine a bhfuil agairt á dhéanamh air/uirthi</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you receive a writ or pleading that was sent to you in error, you should contact the solicitor whose name appears on the document</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhaigheann tú eascaire nó pléadáil a seoladh chugat in earráid, ba cheart duit teagmháil a dhéanamh leis an aturnae a luaitear a (h)ainm ar an gcáipéis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the claimant wishes to commence proceedings (that is, to start the legal action) in the District Court, their solicitor prepares and serves a claim notice on the respondent</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mian leis an éilitheoir tús a chur le himeachtaí, (is é sin, chun tús a chur le caingean dlí) sa Chúirt Dúiche, ullmhaíonn agus seirbheálann a n-aturnae fógra éilimh ar an bhfreagróir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The respondent (or their solicitor) then gives or sends to the claimant (or their solicitor) an appearance and defence to show that they intend to defend the case</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann nó seolann an freagróir (nó a n-aturnae) láithreas agus cosaint don éilitheoir nó chuig an éilitheoir ansin lena thaispeáint go mbeartaíonn siad an cás a chosaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the respondent believes that they actually have a claim against the claimant, the respondent includes in the appearance and defence a statement of counterclaim setting out their claim against the claimant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chreideann an freagróir go dtarlaíonn go bhfuil éileamh acu i leith an éilitheora, cuireann an freagróir ráiteas frithéilimh san áireamh leis an láithreas agus an chosaint ina leagtar amach a n-éileamh i leith a éilitheora</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is more information in our document on District Court procedures</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat níos mó faisnéise a léamh inár gcáipéis ar nósanna imeachta na Cúirte Dúiche</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Circuit Court and High Court cases</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cásanna na Cúirte Cuarda agus na hArd-Chúirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To commence proceedings the plaintiff's barrister prepares a Civil Bill if the case is a Circuit Court case or an originating summons if the case is a High Court case</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun tús a chur le himeachtaí, ullmhaíonn abhcóide an ghearánaí Bille Sibhialta más bheidh an cás ar siúl sa Chúirt Chuarda, nó toghairm thionscnaimh más bheidh an cás ar siúl san Ard-Chúirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The purpose of these documents is to state the case being made against the defendant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é cuspóir na gcáipéisí seo chun an cás atá á dhéanamh i leith an chosantóra a lua</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, if the case is about a road traffic accident, the writ should clearly set out the circumstances of the accident and why and how the defendant is at fault</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, má bhaineann an cás le timpiste um thrácht ar bhóithre, ba cheart go leagfar amach go soiléir san eascaire cúinsí na timpiste agus an fáth a bhfuil an locht ar an gcosantóir agus conas atá an locht air/uirthi</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The document also sets out in detail the injuries that the plaintiff suffered</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chomh maith leis sin, leagtar amach sa cháipéis go mionsonraithe na díobhálacha a raibh an gearánaí thíos leo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When the defendant receives the Civil Bill or originating summons, they must enter an appearance to show that they are now a party to the case and intend to defend it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a fhaigheann an cosantóir an Bille Sibhialta nó an toghairm thionscnaimh, ní mór dóibh láithreas a thaifeadadh lena thaispeáint gur páirtí anois iad sa chás agus go mbeartaíonn siad é a chosaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If it is a High Court case, the plaintiff may then have to send a statement of claim to the defendant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bheidh an cás ar siúl san Ard-Chúirt, b’fhéidir go mbeidh ar an ngearánaí ráiteas éilimh a sheoladh chuig an gcosantóir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The defendant may send the plaintiff a Notice for Particulars requesting further details and more information</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh an cosantóir Fógra le haghaidh Sonraí a sheoladh chuig an ngearánaí ina n-iarrtar ar bhreis sonraí agus níos mó faisnéise</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When the defendant has received Replies to Particulars, they issue their Defence, setting out why the defendant is not to blame</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a fhaigheann an cosantóir Freagairtí ar Shonraí, eisíonn siad a gCosaint, ina leagtar amach cén fáth nach bhfuil an locht ar an gcosantóir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the defendant believes that they actually have a claim against the plaintiff, the defendant includes a counterclaim with the Defence setting out their claim against the plaintiff</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chreideann an cosantóir go dtarlaíonn go bhfuil éileamh acu i gcoinne an ghearánaí, cuirfidh an cosantóir frithéileamh san áireamh leis an gCosaint ina leagtar amach a n-éileamh i leith an ghearánaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further information is available in our documents on Circuir Court procedures and High Court procedures</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá fáil ar thuilleadh faisnéise inár gcáipéisí ar nósanna imeachta na Cúirte Cuarda agus nósanna imeachta na hArd-Chúirte</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,237 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Checklist when applying for Jobseeker's Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seicliosta nuair atá iarratas á dhéanamh ar Shochar Cuardaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you apply for Jobseeker’s Benefit you must bring certain documents with you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a dhéantar iarratas ar Shochar Cuardaitheora Poist, caithfidh tú doiciméid áirithe a thabhairt leat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you lose your job or are made redundant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chailltear post nó má dhéantar iomarcach tú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you lose your job or are made redundant you should bring your P45 or a letter from your employer confirming the last day you worked</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chailltear post nó má dhéantar iomarcach tú, ba chóir duit do P45 nó litir ón bhfostóir a thabhairt leat a dhearbhaíonn an lá deiridh a d'oibrigh tú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you don’t have your P45 or a letter from your employer you should still apply</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil do P45 nó litir ón bhfostóir agat, ba chóir duit iarratas a dhéanamh mar sin féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, it is important to bring either your P45 or a letter from your employer as soon as possible to your Intreo Centre or local Social Welfare Branch Office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin féin, tá sé tábhachtach do P45 nó litir ó d'fhostóir a thabhairt chuig an Oifig Leasa Shóisialaigh Áitiúil chomh luath agus is féidir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have difficulty getting your P45 from your employer tell the member of staff dealing with your claim at your Intreo Centre or Social Welfare Branch Office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá deacracht agat ag fáil do P45 ón bhfostóir, inis do bhall foirne atá ag déileáil le d'éileamh san Oifig Leasa Shóisialaigh Áitiúil (féach ‘Mura bhfuil do P45 agat thíos)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are made redundant you will also need to bring documentation showing how much redundancy you have received</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéantar iomarcach tú, caithfidh tú doiciméid a thabhairt leat a léiríonn an méid iomarcaíochta tugtha duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are getting more than statutory redundancy you should bring a letter from your employer stating how much redundancy you have been given</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fuair tú níos mó ná iomarcaíocht reachtúil, caithfidh tú litir ó d’fhostóir a thabhairt leat a sonraíonn an méid iomarcaíochta tugtha duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your claim for redundancy hasn’t yet been settled you should still apply for Jobseeker’s Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura mbíonn d’éileamh iomarcaíochta socraithe fós, ba chóir duit iarratas a dhéanamh ar Shochar Cuardaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you get your redundancy payment you must inform your Intreo Centre or Social Welfare Branch Office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair gheobhaidh tú d’íocaíocht iomarcaíochta, ní mór duit cur in iúl d’Oifig Leasa Shóisialaigh Áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Find out more about your rights to redundancy payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh eolais ar fáil maidir le do chearta ar íocaíochtaí iomarcaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are laid off</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéantar tú a leagan as</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are laid off temporarily, you may or may not get a P45</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéantar tú a leagan as go sealadach, b'fhéidir go bhfaighfeá nó nach bhfaighfeá P45</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you don’t have a P45 you must bring a letter from your employer stating the following:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil P45 agat, caithfidh tú litir ón bhfostóir a thabhairt a thugann na sonraí a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You have been laid off work without pay</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má dhéantar tú a leagan as gan phá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The last day you worked</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An lá deiridh a d'oibrigh tú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The reason for the lay off</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An chúis leis an leagan as</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• How long he or she expects you will be laid off</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cé chomh fada a shíleann sé/sí a mhairfidh do leagan as</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your days of work are reduced</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéantar do laethanta oibre a laghdú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your days of work are reduced you must bring a letter from you employer stating the following:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má laghdaítear do laethanta oibre, caithfidh tú litir a thabhairt ón bhfostóir a thugann na sonraí a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Your days at work have been reduced on a temporary basis</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Go bhfuil do laethanta oibre laghdaithe ar bhonn sealadach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The number of days you worked each week</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An líon laethanta a d'oibrigh tú gach seachtain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The number of days you now work each week</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An líon laethanta a oibríonn tú gach seachtain anois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The reduction in your pay</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An laghdú pá atá agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will also need to bring the following documents and information with you:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh tú na doiciméid agus an t-eolas a leanas a thabhairt leat chomh maith:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Your Public Services Card (if you don't have one you will be asked to register for one when applying for Jobseeker's Benefit)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Do Cárta Seirbhísí Poiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Your Personal Public Service Number</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Do Uimhir Phearsanta Seirbhíse Poiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Details of your availability for work and any efforts you have made to get work</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sonraí faoi d'infhaighteacht le haghaidh fostaíochta agus na hiarrachtaí atá déanta agat chun obair a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, letters you have written to employers and any responses you have received</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, litreacha atá scríofa agat chuig fostóirí agus na freagraí a fuarthas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Details of your spouse/partner's income (if any)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sonraí ioncaim do chéile nó páirtí (mar is cuí)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Details of your dependent children</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sonraí do leanaí cleithiúnacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is a form you will receive from your last employer detailing tax/PRSI paid to date in the current tax year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é atá anseo ná foirm a gheobhaidh tú ó d’fhostóir deireanach ag tabhairt sonraí na cánach/an ÁSPC atá íoctha go dtí seo sa bhliain chánach reatha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must either bring it on the date of your claim or (if unable to do so), to bring it in on the next day of attendance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit é a thabhairt isteach ar lá d’éilimh nó (mura féidir leat é sin a dhéanamh), é a thabhairt isteach ar an gcéad lá eile a mbeidh tú i láthair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Find out what you can do if your employer will not give you a P45</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigh amach cad is féidir leat a dhéanamh mura dtabharfaidh d’fhostóir P45 duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is a form given to you each year by your employer</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is foirm é seo a thugann d’fhostóir duit gach bliain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It details your pay and tax paid for the relevant year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann sé sonraí faoi do phá agus faoin gcáin atá íoctha don bhliain ábhartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Find out what you can do if you do not get aP60 from your employer</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigh amach cad is féidir leat a dhéanamh mura bhfaigheann tú foirm P60 ó d’fhostóir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Proof of your identity - see below for more information</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cruthúnas céannachta (féach thíos chun tuilleadh eolais a fháil)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Proof of address - see below for more information</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cruthúnas seolta (féach thíos chun tuilleadh eolais a fháil)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can provide evidence of your identity by showing your passport or your driver's licence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat fianaise ar chéannacht a sholáthar trí do phas nó do cheadúnas tiomána a thaispeáint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you do not have either a passport or driver’s licence, you should bring any other document that you may have, particularly one that has your photograph on it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil pas nó ceadúnas tiomána agat, ba chóir duit aon doiciméad eile atá agat a thabhairt isteach, go háirithe ceann a bhfuil grianghraf díot air</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The following documents may also be acceptable: credit card, debit card, medical card, age ID card, work ID card, club membership card</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfaí glacadh leis na doiciméid seo a leanas freisin: cárta creidmheasa, cárta dochair, cárta leighis, cárta aitheantais aoise, cárta aitheantais oibre, cárta ballraíochta club</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The following items are not accepted as proof of identity:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl na nithe seo a leanas inghlactha mar chruthúnas céannachta:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Birth or baptismal certificates</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Deimhnithe baiste nó breithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Bills or personal letters</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Billí nó litreacha pearsanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A claim cannot be decided until identity has been proven</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir cinneadh a dhéanamh faoi éileamh gan chruthúnas céannachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may be asked to show evidence of your address</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfaí iarraidh ort fianaise ar do sheoladh a thaispeáint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should bring any of the following documents:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir duit ceann ar bith de na doiciméid seo a leanas a thabhairt isteach:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Recent bills from utility companies such as electricity, telephone (landline or mobile), gas, cable television, waste charges etc</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Billí le déanaí ó chuideachtaí fóntais cosúil le leictreachas, teileafón (líne talún nó fón póca), gás, teilifís chábla, táillí dramhaíola srl</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Recent statements/letters from banks, building societies, credit unions, credit card companies or other financial institutions</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ráitis/litreacha le déanaí ó bhainc, chumainn foirgníochta, chomhair chreidmheasa, chuideachtaí cárta creidmheasa nó institiúidí airgeadais eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Recent letters addressed to you from insurance companies, local authorities, government departments or the Revenue Commissioners</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Litreacha a seoladh chugat le déanaí ó chuideachtaí árachais, údaráis áitiúla, ranna rialtais nó na Coimisinéirí Ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Local authority rent book, mortgage or leasing agreement</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Leabhar cíosa údaráis áitiúil, morgáiste nó comhaontú léasaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Note: a recent document is one issued within the last 2 months</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabhair faoi deara: is é atá i gceist le doiciméad le déanaí ná ceann a eisíodh le 2 mhí anuas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All documents must be originals, not photocopies</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh na doiciméid go léir a bheith ina mbunchóipeanna, ní ghlacfar le fótachóipeanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If there is doubt about your address, the Jobseeker's Benefit claim is not paid until your address is verified</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá amhras ar bith faoi do sheoladh, ní dhámhfar an t-éileamh ar Shochar do Lucht Cuardaigh Fostaíochta le haghaidh íocaíochta go dtí go ndéanfar do sheoladh a dhearbhú</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>• Money matters after a death</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cúrsaí airgid tar éis báis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Bereavement counselling and support</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Comhairleoireacht agus tacaíocht do lucht méala</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Sudden or unexplained death</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bás obann nó gan mhíniú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Life Event Document When someone dies If you have recently lost someone close to you or know someone who has recently been bereaved, this will guide you through the immediate things that you must do following a death</seg></tuv>
+  <tuv xml:lang="ga"><seg>Life Event Document Nuair a fhaigheann duine bás Má chaill tú duine éigin a bhí gar duit le déanaí nó má tá aithne agat ar dhuine éigin a chaill duine a bhí gar di nó dó, tabharfaidh sé seo treoir duit ar na nithe nach foláir duit a dhéanamh tar éis bás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Also highlights some of the state and voluntary services here to support you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann sé achoimre freisin ar roinnt de na seirbhísí stáit agus seirbhísí deonacha atá ar fáil chun tacú leat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Overview Document When someone dies unexpectedly An overview of what happens when someone dies as a result of an accident or in unexplained circumstances</seg></tuv>
+  <tuv xml:lang="ga"><seg>Overview Document Nuair a fhaigheann duine bás gan choinne Forbhreathnú ar an méid a tharlaíonn nuair a fhaigheann duine bás de dheasca timpiste nó in imthosca nach bhfuil aon míniú orthu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most Read in "Death and Bereavement"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ábhar is mó éilimh i "Bás agus Méala"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Dealing with the deceased's estate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Deileáil le hEastát an Mhairbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>What happens the deceased's estate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Céard a tharlaíonn do mhaoin an mhairbh</seg></tuv>
+</tu>
+</body>
+</tmx>

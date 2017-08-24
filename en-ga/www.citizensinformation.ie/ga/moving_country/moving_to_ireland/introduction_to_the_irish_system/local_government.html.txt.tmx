@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Political system at local level</seg></tuv>
+  <tuv xml:lang="ga"><seg>An córas polaitiúil ag leibhéal aitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Ireland has a local government system</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá córas rialtas áitiúil in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Local authorities include county councils and city councils</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad páirtithe an rialtais áitiúil ná na comhairlí contae agus comhairlí chathrach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Since 1 June 2014, borough and town councils are replaced by a system of municipal districts, integrating town and county governance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó 1 Meitheamh 2014, cuirtear córas ceantar bardais a chomhtháthaíonn rialachas baile agus contae in áit na bardais agus comhairlí ceantair uirbeach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>At county or city level, there are 31 city and county councils with integrated municipal districts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá 31 comhairle contae agus chathrach ag leibhéal contae nó cathrach le ceantair bhardais comhtháite</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These are the main providers of local government services around the country</seg></tuv>
+  <tuv xml:lang="ga"><seg>Soláthraíonn siad seo seirbhísí rialtais ar fud na tíre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Local authorities at all levels are responsible for the representation of local communities and ensuring that concerns are expressed and needs met</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé de dhualgas ar na hÚdaráis áitiúla ionadaíocht a dhéanamh ar shon pobail áitiúla agus déanamh cinnte de go nochtfar a gcuid tuairimí agus a gcuid riachtanais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Local elections are held in order to elect representatives onto the authority</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn toghcháin áitiúla ar siúl agus bíonn ionadaithe tofa ar an Údarás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Local representatives have the power to vote for or against developments that will impact on the local community</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an cumhacht ag na hionadaithe seo, vótáil ar son nó in aghaidh forbairtí go mbeidh tionchar acu ar an bpobal áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Local authorities are also responsible for the delivery of a wide range of services in their local area</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé de dhualgas ar an Údarás áitiúil réimse leathan seirbhísí a sholáthar ina gceantar féin</seg></tuv>
+</tu>
+</body>
+</tmx>

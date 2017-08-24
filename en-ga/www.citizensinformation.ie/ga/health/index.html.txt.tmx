@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>• Medical cards and GP visit cards</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cártaí leighis agus cártaí cuairte LG</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Legal matters and health</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cúrsaí dlí agus sláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Overview Document Heathcare in Ireland An overview of the healthcare system and the services and supports that are available</seg></tuv>
+  <tuv xml:lang="ga"><seg>Overview Document Cúram Sláinte in Éirinn Is ann do shochair leasa shóisialaigh do dhaoine atá breoite nó le míchumas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most Read in "Health"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ábhar is mó éilimh i "Sláinte"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Admission to a psychiatric hospital</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ospidéal síciatrach a iontráil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Medical card means test: aged under 70</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tástáil mhaoine cárta leighis: daoine faoi bhun 70 bliain d’aois</seg></tuv>
+</tu>
+</body>
+</tmx>

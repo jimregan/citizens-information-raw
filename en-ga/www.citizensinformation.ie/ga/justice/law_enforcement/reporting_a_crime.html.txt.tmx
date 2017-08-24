@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>If you live in Ireland and are a victim of a crime, you should contact the Gardai (Irish police force). The emergency services telephone number is 999 or 112</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más íospairt coireachta tú agus má tá cónaí ort in Éirinn ba chóir duit teagmháil a dhéanamh leis na Gardaí (fórsa póilíneachta na hÉireann) Is í an uimhir theileafóin do na seirbhísí éigeandála ná 999 nó 112</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In less urgent situations, you should contact your local Garda station</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcásanna nach bhfuil chomh práinneach ba chóir duit teagmháil a dhéanamh le do stáisiún Garda áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Gardaí must give your case equal priority with other cases, whatever your gender, race, religion, ethnic origin, sexual orientation, age, economic circumstances or membership of any minority group</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór do na Gardaí an tosaíocht chéanna a thabhairt do do chás is a thugann siad do chásanna eile, is cuma cén inscne, cine, reiligiún, bunús eitneach, aois nó cúinsí eacnamaíocht atá agat nó má tá tú in do bhall de ghrúpa mionlaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read here for more information about reporting a crime to the Gardaí</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir a thuilleadh eolais a léamh anseo faoi choir a thuairisciú do na Gardaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Gardai will explain the investigation process to you and make sure that you are kept informed about the progress of the investigation, including whether a suspect is charged or cautioned</seg></tuv>
+  <tuv xml:lang="ga"><seg>Míneoidh na Gardaí an próiseas fiosrúcháin duit agus déanfaidh siad deimhin de go gcoinnítear ar an eolas thú faoin dul chun cinn atá á dhéanamh, lena n-airítear má chúisítear nó má thugtar rabhadh do dhuine faoi amhras</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will also be told about the support services available to victims of crime</seg></tuv>
+  <tuv xml:lang="ga"><seg>Inseofar duit faoi na seirbhísí tacaíochta atá ar fáil le haghaidh íospartaigh na coireachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Crimestoppers is a partnership between the Gardai and the business community</seg></tuv>
+  <tuv xml:lang="ga"><seg>Comhpháirtíocht idir na Gardaí agus an lucht gnó is ea Crimestoppers</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can give information to the Gardai about any criminal investigation using the confidential freephone number 1800 25 00 25</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat faisnéis a thabhairt do na Gardaí faoi aon imscrúdú coiriúil agus an uimhir shaorghlao rúnda 1800 250 025 a úsáid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This confidential freephone number is staffed by members of the Garda National Bureau of Criminal Investigation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baill de Bhiúró Náisiúnta an Gharda Síochána um Imscrúdú Coiriúil a bhíonn i mbun an uimhir shaorghlao rúnda seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Garda Traffic Watch hotline allows you report incidents of dangerous driving to the Gardai so that the drivers can be intercepted, cautioned and brought through the courts process</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann beolíne Traffic Watch an Gharda Síochána ar do chumas tuairiscí a thabhairt do na Gardaí faoi eachtraí baolacha tiomána is slí gur féidir na tiománaithe a idircheapadh, rabhadh a thabhairt dóibh agus iad a thabhairt os comhair cúirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Garda Traffic Watch hotline is contactable by telephone at 1890 205 805</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir dul i dteagmháil le beolíne Traffic Watch an Gharda Síochána ag 1890 205 805</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Furher information on reporting a crime is available on the Director of Public Prosecutions (DPP) website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh eolais ar thuairisciú coir ar láithreán gréasáin an Stiúrthóra Ionchúiseamh Poiblí (DPP)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find information on reporting a missing person on the Garda website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat teacht ar eolas ar thuairisciú le duine ar iarraidh ar an láithreán gréasáin an Gharda Síochána</seg></tuv>
+</tu>
+</body>
+</tmx>

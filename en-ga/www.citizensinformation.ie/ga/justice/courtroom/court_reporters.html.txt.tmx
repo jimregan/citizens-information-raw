@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Court reporters are usually employed by newspaper and legal reports companies</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go hiondúil bíonn tuairisceoirí cúirte fostaithe ag nuachtáin agus comhlachtaí tuairiscí dlí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They attend in court to take a note of interesting or important cases and to report them in the newspapers or in the legal reports</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn siad i láthair sa chúirt chun nótaí a ghlacadh faoi chásanna spéisiúla nó tábhachtacha agus tuairisc a dhéanamh orthu sna nuachtáin nó sna tuairiscí dlí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Court reporters may sit anywhere in court and they do not wear any special clothes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le tuairisceoirí cúirte suí áit ar bith sa chúirt agus ní chaitheann siad aon éadach speisialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They do not play any role in the proceedings - they are simply there to take notes and report about cases</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní ghlacann siad páirt ar bith sna himeachtaí - níl siad ann ach le nótaí a scríobh agus le cásanna a thuairisciú</seg></tuv>
+</tu>
+</body>
+</tmx>

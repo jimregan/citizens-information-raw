@@ -1,0 +1,317 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Deposit Interest Retention Tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cáin Choinneála ar Ús Taisce</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Financial service providers such as banks, building societies and post offices, offer accounts where you can save a sum of money (a deposit) for which they will pay you an annual rate of interest in return, usually as a percentage of the deposit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann soláthróirí seirbhísí airgeadais cosúil le bainc, cumainn foirgníochta agus oifigí poist cuntais ar fáil ina bhfuil tú inn ann suim airgid a shábháil - taisce - a dtugtar siad ráta bliantúil úis duit air, go hiondúil céatadán den taisce</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The interest you receive is subject to a tax called Deposit Interest Retention Tax (DIRT)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gearrtar cáin ar a dtugtar Cáin Choinneála ar Ús Taisce (DIRT) ar an ús a fhaigheann tú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Since 1 January 2014, DIRT is charged at 41% on all interest payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gearrtar DIRT ag an ngnáthráta cánach ioncaim, 41%</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For 2013, the rates were 33% for ordinary deposit accounts and 36% for long-term deposit accounts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Don bhliain 2013, ba iad na rátaí 33% i gcás gnáthchuntais taisce agus 36% do chuntais fhadtéarmacha taisce</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can see historic DIRT rates on revenue.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú teacht ar rátaí stairiúla DIRT ar revenue.ie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The tax is deducted by the bank or other deposit-taker before the interest is paid to you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tú i dteideal ráiteas a fháil faoin méid DIRT a baineadh ó do chuid úis má iarrann tú é</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you request it, you are entitled to be given a statement of the amount of DIRT deducted from your interest</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon cháin bhreise le n-íoc agat ar an ús ach fógraítear mar ioncam é má tá tú ag déanamh tuairisceáin cánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you receive annual interest payments (or similar profit-type payments) of over €300 your bank, building society, credit union or An Post must automatically report this to Revenue</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhaigheann tú íocaíochtaí bliantúla úis (nó a mhacasamhail d’íocaíochtaí de shaghas brabúis) os cionn €300, cuireann do bhanc, cumann foirgníochta, comhar creidmheasa nó An Post seo in iúl do na Coimisinéirí Ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>DIRT is a final liability for income tax purposes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dliteanas deiridh is ea DIRT do chuspóirí cánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that if you have paid DIRT you do not have to pay any further income tax or Universal Social Charge on the interest but it is declared as income if you are making a tax return</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn seo, má d’íoc tú DIRT, ní gá duit aon cháin ioncaim bhreise nó aon Mhuirear Sóisialta Uilíoch a íoc ar an ús, ach dearbhaítear é mar ioncam má tá tuairisceán cánach á dhéanamh agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, in some circumstances, you may have to pay PRSI on deposit interest you have received</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi chúinsí áirithe, áfach, b’fhéidir go mbeidh ort ÁSPC a íoc ar ús taisce a fuair tú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>DIRT does not apply to interest on deposits owned by:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Daoine eile a d’fhéadfadh a bheith cáilithe le haghaidh díolúine ó DIRT nó aisíocaíochta DIRT ná:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Companies that are liable to corporation tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Iontaobhaithe ciste iontaobhais do dhuine atá míchumasaithe go buan</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• People not resident for tax in Ireland (see also below) • Revenue-approved pension schemes</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Daoine nach gcónaíonn sa Stát agus atá neamh-inchánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Certain people may qualify for a refund of DIRT or may have their deposit interest paid without the deduction of DIRT</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le d’institiúid airgeadais d’ús ar thaiscí a íoc gan DIRT a asbhaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must apply to have your deposit interest paid without the deduction of DIRT - see 'Where to apply' below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh tú iarratas a dhéanamh go n-íocfar d’ús taisce gan DIRT asbhainte (féach ‘Cá háit a ndéanfaidh mé iarratas’ thíos)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>First-time buyers who buy or self-build a house or apartment to live in as their home may be able to claim a refund of the DIRT paid on their savings</seg></tuv>
+  <tuv xml:lang="ga"><seg>B’fhéidir go mbeidh ceannaitheoirí céaduaire a cheannaíonn teach nó a thógann teach nó árasán iad féin chun cónaí ann mar a n-áit chónaithe a bheith in ann aisíocaíocht an DIRT a íocadh ar a gcoigiltí a éileamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you buy or self-build a property between 14 October 2014 and 31 December 2017, you may be entitled to claim a refund of DIRT</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má cheannaíonn tú maoin nó má thógann tú maoin tú féin idir an 14 Deireadh Fómhair 2014 agus an 31 Nollaig 2017, b’fhéidir go mbeidh tú i dteideal aisíocaíocht an DIRT a íocadh a éileamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must be a first-time buyer</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór gur ceannaitheoir céaduaire thú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that you have never, either individually or jointly with any other person, previously purchased or built a house or apartment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn seo nár cheannaigh tú nó nár thóg siad teach nó árasán riamh roimhe seo tú féin nó le haon duine eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The property must be purchased or built as your home</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór an mhaoin a cheannach nó a thógáil mar d’áit chónaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The relief does not include properties acquired for investment purposes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní áirítear leis an bhfaoiseamh maoin a fhaightear ar mhaithe le cuspóirí infheistíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can claim a refund of any DIRT deducted from interest earned on savings used for the purchase of a property or a self-build in the 48 months prior to the purchase date (date of conveyance)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú aisíocaíocht aon DIRT a éileamh a asbhaineadh ó ús a tuilleadh ar choigiltí a úsáideadh ar mhaithe le maoin a cheannach nó a fhéintógáil sna 48 mí roimh an dáta ceannaigh (dáta an tíolacais)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can only claim relief on DIRT paid on savings up to a maximum of 20% of the purchase price or in the case of self-builds, 20% of the completion value of the property</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leat faoiseamh a éileamh ar DIRT a íocadh ar choigiltí ach a mhéid le 20% den phraghas ceannaigh nó i gcás féintógála, 20% de luach críochnaithe na maoine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Visit Revenue to get more information on the first-time buyers DIRT exemption and to read FAQs on the exemption</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabhair cuairt ar láithreán gréasáin na gCoimisinéirí Ioncaim chun níos mó faisnéise a fháil ar dhíolúine DIRT na gceannaitheoirí céaduaire agus chun ceisteanna coitianta ar an díolúine a léamh (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>People aged over 65</seg></tuv>
+  <tuv xml:lang="ga"><seg>Daoine os cionn 65</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can get your deposit interest paid without the deduction of DIRT, or you can claim a DIRT refund, if you are over 65 and:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfar d’ús taisce a íoc gan DIRT asbhainte nó aisíocaíocht DIRT a fháil, má tá tú os cionn 65 agus:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Your income (including your spouse's or civil partner's income) is less than the low income exemption limits for people aged over 65 or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Go bhfuil d’ioncam (ioncam do chéile ó páirtnéir sibhialta san áireamh) faoi bhun theorainn na díolúine ísle nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Your tax liability (including your spouse's or civil partner's income) for the year is less than your tax credits (including your spouse's) for that year</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Go bhfuil do dhliteanas cánach (agus dliteanas do chéileó páirtnéir sibhialta san áireamh) don bhliain faoi bhun do chreidmheasanna cánach (creidmheasanna do chéile ó páirtnéir sibhialta san áireamh) don bhliain sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In general, joint accounts where one of the account holders is aged 65 or over will only qualify for the refund of DIRT if the other account holder is that person’s spouse or civil partner</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcoitinne, ní bheidh comhchuntais, a bhfuil duine de na sealbhóirí cuntais 65 bliana d’aois nó níos sine, cáilithe chun DIRT a aisíoc leo ach amháin sa chás gurb é céile an duine sin sealbhóir eile an chuntais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if another person, such as your son or daughter, has the authority to operate your bank account on your behalf, and is named as an account holder for this purpose only, you will continue to qualify for the refund of DIRT provided you are the beneficial owner of the account</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá sé d’údarás ag duine eile, cosúil le do mhac nó d’iníon, do chuntas bainc a fheidhmiú thar do cheann áfach, agus go bhfuil sé nó sí ainmnithe mar shealbhóir cuntais chun na críche seo amháin, beidh tú fós cáilithe le DIRT a aisíoc leat ar an gcoinníoll gur tú úinéir tairbhiúil an chuntais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In this case, when claiming a refund of DIRT, you must include a declaration that you (not your child) are entitled to all of the interest paid in respect of the deposit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás seo, agus aisíocaíocht DIRT á éileamh, caithfidh tú dearbhú a chur leis ag rá go bhfuil tusa (ní do leanbh) i dteideal an úis ar fad a íocadh i leith na taisce</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can get your deposit interest paid without the deduction of DIRT or a DIRT refund, if you are:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfar d’ús taisce a íoc gan DIRT asbhainte nó aisíocaíocht DIRT a fháil, má tá tú:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Permanently incapacitated from maintaining yourself and</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Míchumasaithe go buan ó thaobh tú féin a chothabháil agus</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Your tax credits (including your spouse's) for the year exceed the tax that would be chargeable on your (and your spouse's) income for the year</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Go dtéann do chreidmheasanna cánach (creidmheasanna do chéile san áireamh) don bhliain os cionn na cánach a bheadh inmhuirir ar d’ioncam (agus ar ioncam do chéile) don bhliain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can get more information on "DIRT-free Deposit Accounts for Permanently Incapacitated Individuals - DE2" from Revenue</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú breis faisnéise a fháil ar Chuntais Taisce “saor ó DIRT” do Dhaoine atá ar Éagumas Buan ó na Coimisinéirí Ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are not resident in Ireland for tax, you may get a refund of any Deposit Interest Retention Tax deducted from your Irish deposit interest</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil tú i do chónaí in Éirinn le haghaidh cánach, is féidir aisíoc aon DIRT atá baint as d’ ús taisce Éireannach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To get a refund of DIRT, Ireland must have a double taxation agreement with the country you are resident in</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun aisíoc DIRT a fháil, caithfidh comhaontú dé-chánach idir Éire agus an tír ina bhfuil tú i do chónaí a bheith ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>DIRT will be refunded under the terms of that agreement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh DIRT aisíoctha de réir téarmaí an chomhaontaithe sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Fill in IC5 form (pdf) to apply for a refund of DIRT</seg></tuv>
+  <tuv xml:lang="ga"><seg>Comhlánaigh foirm IC5 (pdf) chun iarratas a dhéanamh ar aisíoc DIRT</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are not resident in Ireland, you may get your Irish deposit interest paid without the deduction of DIRT</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil tú i do chónaí in Éirinn is féidir leat ús taisce Éireannach a fháil gan DIRT a bhaint as</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A non-resident person does not have to be a resident of a country that has a double taxation agreement with Ireland to apply for a DIRT exemption</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl gá do dhuine neamhchónaitheach bheith ina chónaí i dtír atá comhaontú dé-chánach le hÉirinn aige chun iarratas a dhéanamh ar dhíolúine ó DIRT</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should contact your financial institution to find out if you can be exempt from paying DIRT</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh tú dul i dteagmháil le d’institiúid airgeadais chun faigh amach ar féidir leat díolúine ó DIRT a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will have to complete a Non-Residence Declaration</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit Dearbhú Neamhchónaitheach a chomhlánú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must notify them if you become resident again</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh tú fógra a thabhairt dóibh má bhíonn tú i do chónaí in Éirinn arís</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Since 1 January 2014, all credit union share dividend and deposit interest paid to members is subject to DIRT, with the exception of dividend or interest paid to members who are exempt from DIRT (certain people over aged 65 and certain people who are permanently incapacitated)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ón 1 Eanáir 2014, tá gach díbhinn scaireanna agus ús taisce de chuid comhair chreidmheasa a íoctar le comhaltaí faoi réir DIRT, seachas díbhinn nó ús a íoctar le comhaltaí atá díolmhaithe ó DIRT (roinnt daoine os cionn aois 65 agus roinnt daoine atá ar éagumas buan)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Before 2014 certain types of credit union accounts were not subject to DIRT</seg></tuv>
+  <tuv xml:lang="ga"><seg>Roimh 2014, ní raibh saghsanna áirithe de chuntais chomhar creidmheasa faoi réir DIRT</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Special term share credit union accounts opened in the period 1 January 2002 to 15 October 2013 allowed a member of a credit union to opt to hold shares in the account for a minimum term of either 3 or 5 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cheadaigh cuntais speisialta scaireanna de chuid comhar creidmheasa a osclaíodh sa tréimhse ón 1 Eanáir 2002 go dtí an 15 Deireadh Fómhair 2013 do chomhalta de chomhar creidmheasa a roghnú chun scaireanna a shealbhú sa chuntas ar feadh téarma íosta 3 nó 5 bliana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A tax exemption applied to dividends from these accounts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bhí díolúine chánach i bhfeidhm le díbhinní ó na cuntais seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This tax exemption was:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba í an díolúine chánach:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• For the first €480 per annum of dividends where the funds are invested for a minimum of 3 years, and</seg></tuv>
+  <tuv xml:lang="ga"><seg>• I gcás an chéid €480 sa bhliain de dhíbhinní, sa chás go n-infheistítear na cistí ar feadh 3 bliana, ar a laghad, agus</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• For the first €635 per annum of dividends where the funds are invested for a minimum of 5 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>• I gcás an chéid €635 sa bhliain de dhíbhinní, sa chás go n-infheistítear na cistí ar feadh 5 bliana ar a laghad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These accounts can no longer be opened, since 16 October 2013</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir na cuntais seo a oscailt a thuilleadh ón 16 Deireadh Fómhair 2013 ar aghaidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However if you had one of these accounts and the funds in the account mature after 16 October 2013, the tax exemption on dividends is still available</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhí ceann de na cuntais seo agat, áfach, agus má tháinig aibiú ar na cistí sa chuntas i ndiaidh an 16 Deireadh Fómhair 2013, tá fáil go fóill ar an díolúine chánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The remainder is liable to the appropriate rate of DIRT (41% since 1 January 2014)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn an fuílleach faoi dhliteanas an ráta chuí DIRT (41% ón 1 Eanáir 2014)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>First-time buyer DIRT exemption</seg></tuv>
+  <tuv xml:lang="ga"><seg>Díolúine DIRT do cheannaitheoirí céaduaire</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The property must be registered for Local Property Tax (LPT) to make a claim for a refund of DIRT</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don mhaoin a bheith cláraithe do Cháin Mhaoine Áitiúil (CMÁ) chun éileamh a dhéanamh ar aisíocaíocht DIRT</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To make a claim you log in to the LPT On-line system and enter your PPS number or Tax Reference Number, Property ID and PIN</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun éileamh a dhéanamh, logálann tú isteach sa chóras CMÁ ar líne agus iontrálann tú d’uimhir PSP nó d’Uimhir Thagartha Cánach, Aitheantas do Mhaoine agus d’Uimhir Aitheantais Phearsanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Once in the LPT system, you click the Claim DIRT F.T.B. Refund button</seg></tuv>
+  <tuv xml:lang="ga"><seg>A luaithe a bhíonn tú sa chóras CMÁ, cliceálann tú ar an gcnaipe Éiligh an Aisíocaíocht do Cheannaitheoirí Céaduaire</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This will display a claim form</seg></tuv>
+  <tuv xml:lang="ga"><seg>Taispeánfaidh seo foirm éilimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The following information is needed to complete the form and submit the claim:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Teastaíonn an fhaisnéis a leanas chun an fhoirm a chomhlánú agus chun an t-éileamh a sheoladh ar aghaidh:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Amount of DIRT to be refunded (maximum 20% of the purchase price or build cost)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Méid an DIRT atá le haisíoc (a mhéid le 20% den phraghas ceannaigh nó de chostas na tógála)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Purchase price or completion value for a self-build</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Praghas ceannaigh nó luach críochnaithe i gcás féintógála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Bank account details to which the refund is to be paid (if Revenue have your details already these will be displayed but you can amend them if necessary)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sonraí cuntas bainc lena n-íocfar an aisíocaíocht (má tá do chuid sonraí ag na Coimisinéirí Ioncaim cheana féin, taispeánfar iad seo, ach is féidir leat iad a leasú, más gá)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Evidence of DIRT deducted (for example, bank statements)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Fianaise i leith an DIRT a asbhaineadh (mar shampla, ráitis bhainc)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Note that your financial institution (bank, credit union or building society) must provide you with a statement of DIRT deducted from your account(s)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabhair faoi deara nach mór do d’institiúid airgeadais (banc, comhar creidmheasa nó cumann foirgníochta) ráiteas den DIRT a asbhaineadh ó do chunta(i)s a thabhairt duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you qualify for the relief you will get an email confirming this when your claim has been processed and the refund will issue to your bank account</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má cháilíonn tú don fhaoiseamh, gheobhaidh tú ríomhphost ina ndeimhnítear seo nuair a próiseáladh d’éileamh agus eiseofar an aisíocaíocht do do chuntas bainc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are aged over 65 or a permanently incapacitated person or a trustee of a special trust for a permanently incapacitated person, fill in form 54D (pdf) to apply for a refund of DIRT</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú os cionn 65 bliana d’aois nó más duine tú atá míchumasaithe go buan nó i d’iontaobhaí ar iontaobhas speisialta do dhuine atá míchumasaithe go buan, comhlánaigh foirm 54D (pdf) chun cur isteach ar aisíocaíocht DIRT</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Send the completed form to your local Revenue office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seol an fhoirm chomhlánaithe chuig oifig áitiúil na gCoimisinéirí Ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will need to get a Certificate of Interest from your bank, building society, credit union, etc, and include this with your application</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh ort Deimhniú Úis a fháil ó do bhanc, do chumann foirgníochta, do chomhar creidmheasa, srl, agus é seo a chur isteach in éineacht le d’iarratas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can apply to have your deposit interest paid without the deduction of DIRT:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir iarratas a dhéanamh go n-íocfar d’ús taisce gan DIRT asbhainte:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you are aged over 65 years of age you must complete form DE1 (pdf) and return it to your financial institution (not Revenue)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má tá tú os cionn 65 bliana d’aois caithfidh tú foirm foirm DE1 (pdf) a chomhlánú agus a sheoladh chuig d’institiúid airgeadais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you are a permanently incapacitated person or a trustee of a special trust for a permanently incapacitated person, you must complete form DE2 (pdf) and return it to Revenue  Read Revenue's leaflet on claiming refunds or exemptions (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Más duine tú atá míchumasaithe go buan nó i d’iontaobhaí ar iontaobhas speisialta do dhuine atá míchumasaithe go buan, caithfidh tú foirm DE2 (pdf) a chomhlánú agus a sheoladh chuig na Coimisinéirí Ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Lo-call telephone numbers for Revenue regional offices are available</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá uimhreacha lóghlao teileafóin d'Oifigí Áitiúla na gCoimisinéirí Ioncaim le fáil anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are also contact details for the Revenue offices in your region</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat sonraí teagmhála níos mionsonraithe i gcomhair do réigiúin a fháil anseo</seg></tuv>
+</tu>
+</body>
+</tmx>

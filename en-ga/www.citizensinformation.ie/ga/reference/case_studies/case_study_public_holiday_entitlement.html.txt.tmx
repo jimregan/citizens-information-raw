@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Case study: Public holiday entitlement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cás-Staidéar ar theidlíocht saoire poiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Daniel has been working part-time since June</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Daniel ag obair go páirtaimseartha ó Mheitheamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He works from Tuesday to Saturday each week from 6 pm to 9 pm</seg></tuv>
+  <tuv xml:lang="ga"><seg>Oibríonn sé Máirt go Satharn gach seachtain ó 6in go dtí 9in</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The other staff who are all full-time had a day off when the shop was closed for the public holiday in August</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bhí lá saor ag na baill fhoirne eile ar fad atá lánaimseartha nuair a bhí an siopa dúnta don saoire phoiblí i mí Lúnasa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Daniel found out that they were paid for this public holiday and they told him he should also be paid for that day</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fuair Daniel amach gur íocadh leo don tsaoire poiblí seo agus dúirt siad leis gur chóir go mbeadh sé íoctha chomh maith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He asked his employer about this but the employer told him since he never worked on a Monday, he had no right be paid for public holidays</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'iarr sé ar a fhostóir faoi seo ach dúirt a fhostóir leis ós rud é nár oibrigh sé Dé Luain, ní raibh aon cheart aige d'íocaíocht ar shaoire phoiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Daniel's employer is wrong</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá fostóir Daniel mícheart</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Before the August public holiday he had worked in the shop for 15 hours a week for 7 weeks which came to a total of 105 hours</seg></tuv>
+  <tuv xml:lang="ga"><seg>Roimh shaoire phoiblí Lúnasa, bhí 15 uaireanta sa tseachtain ar feadh 7 seachtain oibrithe aige sa siopa leabhair a tháinig go dtí iomlán de 105 uaireanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This meant he was entitled to public holiday leave under the Organisation of Working Time Act 1997</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chiallaigh sé seo go raibh sé i dteideal íocaíocht ar shaoire phoiblí faoin Acht um Eagrú Ama Oibre 1997</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As he was not due to work on the day of the public holiday he is entitled to one-fifth of his normal weekly pay</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ós rud é nach raibh dualgas ar oibriú ar an lá a thit an tsaoire phoiblí tá sé i dteideal d'aon cúigiú dá ghnáthphá seachtainiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Daniel should therefore receive an extra 3 hours' pay</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir do Daniel mar sin 3 uaire bhreise pá a fháil</seg></tuv>
+</tu>
+</body>
+</tmx>

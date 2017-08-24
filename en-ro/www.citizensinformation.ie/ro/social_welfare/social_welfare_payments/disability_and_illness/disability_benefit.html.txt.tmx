@@ -1,0 +1,393 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ro"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>You may get Illness Benefit from the Department of Social Protection if you cannot work because you are sick or ill</seg></tuv>
+  <tuv xml:lang="ro"><seg>În cazul în care nu puteți lucra din cauza unei boli puteți beneficia de indemnizație de boală din partea Departamentului Protecției Sociale</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must be aged under 66, covered by the appropriate class of social insurance (PRSI) and satisfy the PRSI conditions</seg></tuv>
+  <tuv xml:lang="ro"><seg>Trebuie să aveți vârsta sub 66 de ani și asigurare socială (PRSI)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Illness Benefit is not linked to your employer's policy on pay for sick leave (your employer can decide their own policy on sick pay and sick leave)</seg></tuv>
+  <tuv xml:lang="ro"><seg>cu privire la plata concediului medical (angajatorul își poate stabili propria politică cu privire la concediul medical și plata acestuia)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>More information is available in our document about sick leave and employment</seg></tuv>
+  <tuv xml:lang="ro"><seg>Mai multe informații puteți găsi în documentul despre concediul medical și contractul de muncă</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Whether your employer pays you or not while you are out sick from work, you should claim Illness Benefit from the first day of your illness – see “Rules” below</seg></tuv>
+  <tuv xml:lang="ro"><seg>În cazul în care conform termenilor şi condiţiilor contractului de muncă nu aveţi dreptul la plată pentru concediul medical, puteţi solicita Ajutorul Financiar în caz de Boală dacă aveţi suficiente contribuţii la asigurările sociale (consultaţi secţiunea “Reguli” de mai jos)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you get sick pay from work, you should ask your employer what administrative arrangements are in place while you are claiming Illness Benefit</seg></tuv>
+  <tuv xml:lang="ro"><seg>Când concediul medical plătit se încheie, angajatorul nu va mai primi Prestaţiile de boală pentru dumneavoastră</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your income is too low to meet your needs, while you are waiting for a decision on your claim for Illness Benefit, you may be entitled to basic Supplementary Welfare Allowance, which is a means-tested payment</seg></tuv>
+  <tuv xml:lang="ro"><seg>În cazul în care consideraţi că v-a fost refuzat în mod eronat Ajutorul Financiar în caz de Boală, sau dacă nu sunteţi mulţumit de decizia unui Ofiţer de Decizie de Asistenţă Socială legată de drepturile dumneavoastră, puteţi opta pentru contestarea acestei decizii</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must apply for Illness Benefit within 7 days of becoming ill</seg></tuv>
+  <tuv xml:lang="ro"><seg>Trebuie să înaintaţi o cerere pentru Prestaţie de boală în termen de 7 zile din momentul în care v-aţi îmbolnăvit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>No payment is made for the first 6 days of illness which are known as waiting days</seg></tuv>
+  <tuv xml:lang="ro"><seg>Pentru primele trei zile de boală nu se efectuează nicio plată</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Social insurance (PRSI) contributions</seg></tuv>
+  <tuv xml:lang="ro"><seg>Contribuţiile de asigurări sociale (PRSI)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To qualify for payment of Illness Benefit you must satisfy the following two conditions:</seg></tuv>
+  <tuv xml:lang="ro"><seg>Pentru a obţine Ajutorul Financiar în caz de Boală trebuie să aveţi:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>1. You must have at least 104 weeks of PRSI contributions paid since you first started work</seg></tuv>
+  <tuv xml:lang="ro"><seg>• Cel puţin 104 săptămȃni PRSI (clasele A,E,H sau P) plătite de cȃnd aţi ȋnceput pentru prima data lucrul</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>2. 39 weeks of PRSI contributions paid or credited in the relevant tax year, of which 13 must be paid contributions. If you do not have 13 paid contributions in the relevant tax year, then 13 paid contributions in one of the following tax years can be used instead: □ Either of the two tax years before the relevant tax year</seg></tuv>
+  <tuv xml:lang="ro"><seg>• 39 de săptămâni de plată a contribuţiilor la asigurările sociale sau de contribuţii creditate la asigurările sociale în Anul Fiscal Relevant (un minim de 13 săptămâni trebuie să reprezinte contribuţii plătite*)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>26 weeks of PRSI contributions paid in the relevant tax year, and 26 weeks of PRSI contributions paid in the tax year immediately before the relevant tax year</seg></tuv>
+  <tuv xml:lang="ro"><seg>• 26 de săptămâni de plată a contribuţiilor la asigurările sociale în Anul Fiscal Relevant şi 26 de săptămâni de plată a contribuţiilor la asigurările sociale în anul fiscal anterior Anului Fiscal Relevant</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The relevant tax year is the second-last complete tax year before the year in which your claim for Illness Benefit begins. For example:</seg></tuv>
+  <tuv xml:lang="ro"><seg>*Dacă nu aveţi 13 contribuţii la asigurările sociale plătite în Anul Fiscal Relevant, pentru îndeplinirea acestei condiţii pot fi utilizaţi anii menţionaşi mai jos:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│If your claim begins in: │The relevant tax year is: │</seg></tuv>
+  <tuv xml:lang="ro"><seg>• Al doilea şi al treilea, ca apropriere în timp, an fiscal complet</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Only PRSI contributions paid at class A, E, H and P count towards Illness Benefit</seg></tuv>
+  <tuv xml:lang="ro"><seg>Astfel, pentru solicitări efectuate în 2013, Anul Fiscal Relevant este 2011</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you were getting long-term Jobseeker's Allowance, Pre-Retirement Allowance, Invalidity Pension, Carer's Allowance or Carer's Benefit immediately before applying for Illness Benefit, you do not need to have 13 paid contributions</seg></tuv>
+  <tuv xml:lang="ro"><seg>Dacă pȃnă acum primeaţi Alocaţia pentru căutarea unui loc de muncă (15 ani), alocaţia ȋnainte de pensie, pensia de invaliditate, alocaţia de ȋngrijire sau ajutorul pentru ȋngrijire imediat ȋnainte de a aplica pentru alocaţia pentru boală, nu trebuie să fi plătit cele 13 contribuţii</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you were getting Occupational Injury Benefit (OIB) immediately before applying for Illness Benefit you may use the tax year that applied to your OIB claim or the tax year that applies to your Illness Benefit claim, whichever is more beneficial</seg></tuv>
+  <tuv xml:lang="ro"><seg>Dacă primiţi o rată redusă a alocaţiei pentru căutarea unui loc de muncă sau aveţi mai puţin de 260 contribuţii, plata pentru alocaţia de boală poate fi redusă</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To help you qualify for Illness Benefit, you may combine your Irish PRSI contributions with social insurance contributions from a country covered by EU Regulations (and the Channel Islands and the Isle of Man, which are covered under a bilateral agreement)</seg></tuv>
+  <tuv xml:lang="ro"><seg>Puteţi combina contribuţiile irlandeze PRSI cu contribuţiile de asigurare socială dintr-o ţară ce este acoperită de regulamentele UE pentru a vă califica la alocaţia de boală</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>How long is Illness Benefit paid?</seg></tuv>
+  <tuv xml:lang="ro"><seg>Cȃt de mult timp este plătită alocaţia de boală?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• 2 years (624 payment days) if you have at least 260 weeks of reckonable social insurance contributions* paid since you first started work</seg></tuv>
+  <tuv xml:lang="ro"><seg>Dacă aveţi 260 de săptămȃni PRSI plătite de cȃnd aţi ȋnceput prima data lucrul puteţi cere alocaţia de boală pentru o perioadă de maxim 2 săptămȃni (624 zile de plată)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• 1 year (312 payment days) if you have between 104 and 259 weeks of reckonable social insurance contributions* paid since you first started work</seg></tuv>
+  <tuv xml:lang="ro"><seg>Dacă aveţi ȋntre 104 și 259 săptămȃni contribuţii plătite PRSI, puteţi cere alocaţia de boală pentru o perioadă de pȃnă la 52 de săptămȃni (312 zile de plată)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>*Reckonable social insurance contributions paid in Ireland, EU countries, the Channel Islands and the Isle of Man can be combined for this purpose</seg></tuv>
+  <tuv xml:lang="ro"><seg>Cȃnd încheiaţi clauza alocaţiei de boală vă puteţi recalifica pentru alocaţia de plată dacă plătiţi 13 contribuţii PRSI extra (sau un număr mai mic dacă vă aduce contribuţiile totale PRSI plătite la 260)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Before your payment is due to stop, you will be contacted by the Department of Social Protection telling you when payment will stop and giving you further information on options available:</seg></tuv>
+  <tuv xml:lang="ro"><seg>Ȋnainte de luna ianuarie 2009 persoanele cu 260 de săptămȃni PRSI plătite de cȃnd au ȋnceput prima data lucrul, au dreptul la alocaţia de boală pe toată perioada ȋn care sunt apţi de lucru și sub 66 de ani</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you are ill, likely to be permanently incapable of work and satisfy the PRSI conditions, you may qualify for Invalidity Pension</seg></tuv>
+  <tuv xml:lang="ro"><seg>Când dreptul dumneavoastră la plata concediului medical se termină aveţi dreptul la alte plăţi:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you do not qualify for Invalidity Pension and you have a disability that is expected to last for a year or more, you may qualify for a means-tested Disability Allowance</seg></tuv>
+  <tuv xml:lang="ro"><seg>• Dacă sunteţi bolnav, şi este posibil să fiţi permanent incapabil de lucru sau să satisfaceţi condiţiile PRSI vă puteţi califica pentru Pensia de invaliditate</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you do not qualify for any other payments and your income is too low to meet your needs, you may qualify for a basic Supplementary Welfare Allowance</seg></tuv>
+  <tuv xml:lang="ro"><seg>• Dacă nu vă calificaţi pentru pensia de invaliditate şi aveţi o incapacitate care se aşteaptă să dureze un an vă puteţi califica pentru o Alocaţie de dizabilitate după teste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If your Illness Benefit is ending because you are turning 66, you may be eligible for a State Pension. You should apply 3 months before your 66th birthday</seg></tuv>
+  <tuv xml:lang="ro"><seg>• Dacă nu vă calificaţi la nicio plată şi venitul dumneavoastră este prea mic pentru a îndeplini cerinţele vă puteţi califica la o Alocaţie suplimentară de bunăstare</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you return to work, you must have a minimum of 13 reckonable PRSI contributions paid before you may requalify for Illness Benefit</seg></tuv>
+  <tuv xml:lang="ro"><seg>• Dacă Alocaţia medicală se termină din cauză că aţi îndeplinit 66 de ani puteţi fi eligibil pentru Pensia de stat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(All other qualifying conditions must also be satisfied.)</seg></tuv>
+  <tuv xml:lang="ro"><seg>Ar trebui să aplicaţi 3 luni înainte să împliniţi 66 de ani</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Transfer from Carer's Benefit or Carer’s Allowance</seg></tuv>
+  <tuv xml:lang="ro"><seg>Transferul de la Alocaţia pentru îngrijitor sau Plata compensatorie pentru îngrijitor</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you transfer from Illness Benefit to Carer's Benefit or Carer's Allowance and then back to Illness Benefit, your Illness Benefit will not be paid at a lower rate than that you were paid previously</seg></tuv>
+  <tuv xml:lang="ro"><seg>Dacă aţi fost transferat de la Prestaţia de boală la Alocaţia pentru îngrijitor sau Plata compensatorie pentru îngrijitor şi apoi aţi revenit la Prestaţia de boală, veţi primi Prestaţia de boală la o rată cel puţin egală cu cea cu care aţi fost plătit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Work and Illness Benefit</seg></tuv>
+  <tuv xml:lang="ro"><seg>Ajutorul Financiar în caz de Boală şi muncă</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The PCB scheme allows you to return to work (if you have a reduced capacity to work) and continue to receive a social welfare payment. A Medical Assessor (who is a doctor employed by the Department of Social Protection) will assess the restriction on your capacity for work, and the personal rate of PCB paid is based on this assessment</seg></tuv>
+  <tuv xml:lang="ro"><seg>Începând cu 13 februarie 2012, indemnizația pentru capacitate parțială înlocuieşte dispensele anterioare când persoanele care primeau indemnizație de boală puteau obține permisiunea de a lucra cu program redus (dispensă) în scop terapeutic sau de reabilitare și să-și păstreze ajutorul social integral</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You cannot undertake a training or educational course or do voluntary work without prior, written approval from the Department of Social Protection</seg></tuv>
+  <tuv xml:lang="ro"><seg>Persoanele care în prezent beneficiază de această permisiune nu vor fi afectate până în momentul reanalizării acesteia</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must apply to the Illness Benefit section for this approval</seg></tuv>
+  <tuv xml:lang="ro"><seg>În acel moment, nu li se va mai acorda dispensa dar vor putea depune cerere pentru obținerea indemnizației de capacitate parțială</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Since 1 January 2014, new participants on SOLAS training courses can retain Illness Benefit but they cannot get a training allowance or training bonus at the same time</seg></tuv>
+  <tuv xml:lang="ro"><seg>Nu există nicio obligație ca munca depusă de o persoană care primește indemnizație de capacitate parțială să aibă scop terapeutic sau de reabilitare</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Illness Benefit and other social welfare payments</seg></tuv>
+  <tuv xml:lang="ro"><seg>Alocaţia de boală și alte plăţi ale asigurărilor sociale</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Blind Pension │If you are getting Blind Pension, you may also get Illness Benefit if you are ill and unable to work and you satisfy the PRSI conditions</seg></tuv>
+  <tuv xml:lang="ro"><seg>│Pensia pentru persoanele nevăzătoare │Dacă primiţi pensia pentru persoane nevăzătoare puteţi obţine de asemenea alocaţia de boală dacă sunteţi bolnav și nu sunteţi apt de lucru și sunteţi satisfăcut de condiţiile PRSI</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│ │If you are getting Illness Benefit and you satisfy the conditions for Carer's Allowance, you may get half the personal rate of Carer's Allowance along with your Illness Benefit payment</seg></tuv>
+  <tuv xml:lang="ro"><seg>│ │Dacă obţineţi alocaţia de boală și sunteţi mulţumiţi de condiţiile pentru alocaţia de ȋngrijire, puteţi obţine jumătate din rata personală din alocaţia de ȋngrijire ȋmpreună cu plata alocaţiei de boală │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│ │Carer's Allowance │ │</seg></tuv>
+  <tuv xml:lang="ro"><seg>│Alocaţia de ȋngrijire │ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│ │It may also be possible for you to receive an Increase for a Qualified Adult for someone on your Illness Benefit claim while they receive a half-rate Carer's Allowance for caring for you or someone else</seg></tuv>
+  <tuv xml:lang="ro"><seg>│ │Este de asemenea posibil să primiţi o mărire pentru un adult calificat pentru cineva din clauza alocaţiei de boală ȋn timp ce ei primesc o rată ȋnjumătăţită a alocaţiei de ȋngrijire pentru ȋntreţinerea dumneavoastră sau a unei alte persoane</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Disablement Benefit │If you are getting Disablement Benefit, you may also get Illness Benefit if you are ill, unable to work and satisfy the PRSI conditions (provided that the Disablement Benefit payment does not include an increase for Incapacity Supplement)</seg></tuv>
+  <tuv xml:lang="ro"><seg>│Ajutorul de invaliditate │Dacă orimiţi ajutorul de invaliditate puteţi obţine de asemenea alocaţia de boală dacă sunteţi bolnav, nu sunteţi apt de muncă și ȋndepliniţi condiţiile PRSI</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Domiciliary Care Allowance/Carer's Support Grant │Illness Benefit is payable if you are getting Domiciliary Care Allowance and/or the Carer's Support Grant (formerly Respite Care Grant)</seg></tuv>
+  <tuv xml:lang="ro"><seg>│Suplimentul la venitul familial (FIS) │Dacă primiţi suplimentul la venitul familial (FIS) și vă ȋmbolnăviţi, plata FIS poate continua împreună cu alocaţia de boală pentru pȃnă la 6 săptămȃni</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Family Income Supplement (FIS) and Back to Work Family Dividend (BTWFD) │If you are receiving Family Income Supplement (FIS) and become ill, payment of FIS may continue with Illness Benefit for up to 36 days (6 weeks)</seg></tuv>
+  <tuv xml:lang="ro"><seg>│ │Dacă obţineţi oricare din aceste plăţi la rata completă, atunci nu puteţi obţine beneficiul de boală ȋn același timp</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Similarly if you become ill while you are getting Back to Work Family Dividend, payment of BTWFD may continue with Illness Benefit for 36 days (6 weeks)</seg></tuv>
+  <tuv xml:lang="ro"><seg>Cu toate aceste, dacă obţineţi o rată redusă a uneia din aceste plăţi și vă ȋmbolnăviţi, vă puteţi califica pentru o rată redusă a alocaţiei de boală care vă va aduce o rată personală maximă a alocaţiei de boală la care aveţi dreptul</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Widow’s, Widower’s or Surviving Civil Partner’s Pension (including occupational widow’s/widower’s pensions) and One-Parent Family Payment, Deserted Wife's Allowance/Benefit or Prisoner’s Wife's Allowance │If you are getting any of these payments at the full rate, you cannot get Illness Benefit at the same time</seg></tuv>
+  <tuv xml:lang="ro"><seg>│Pensia văduvei, văduvului sau a copilului supravieţuitor (inclusiv pensiile ocupaţionale ale văduvei/ văduvului și plata familiei cu un singur părinte, alocaţia soţiei abandonate sau alocaţia soţiei de prizonier │ │ │ │Persoanele care primeau oricare din aceste plăţi ȋmpreună cu alocaţia de boală ȋnainte de data de 1 februarie 2012 pot continua să le obţină pe ambele ȋn același timp</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if you are getting a reduced rate of one of these payments and become ill, you may qualify for a reduced rate of Illness Benefit (so that the combined amount of both payments is not greater than the rate of Illness Benefit to which you are entitled)</seg></tuv>
+  <tuv xml:lang="ro"><seg>Dacă primeaţi alocaţia de boală ȋnainte de data de 1 februarie 2012 și v-aţi calificat ulterior pentru una din aceste plăti, le puteţi obţine pe durata clauzei pentru alocaţia de boală</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Payment of Illness Benefit abroad</seg></tuv>
+  <tuv xml:lang="ro"><seg>Plata alocaţiei de boală ȋn străinătate</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can continue to get Illness Benefit if you go to live in another country covered by EU Regulations</seg></tuv>
+  <tuv xml:lang="ro"><seg>Puteţi continua să obţineţi alocaţia pentru boală dacă mergeţi să locuiţi într-o altă ţară care este acoperită de reglementările UE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may be called for medical assessment while living abroad (this is arranged by the Department with the Social Security Office of the country you are in)</seg></tuv>
+  <tuv xml:lang="ro"><seg>Trebuie să informaţi în prealabil departamentul pentru protecţia socială (altfel riscaţi să pierdeţi plata sau aceasta poate fi amânată)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you go to live in another country covered by EU Regulations and become ill, you may apply for Illness Benefit from Ireland if you paid your last insurance contribution in Ireland or you were getting Jobseeker’s Benefit in Ireland before you went abroad</seg></tuv>
+  <tuv xml:lang="ro"><seg>Dacă plecaţi într-o altă ţară acoperită de reglementările UE şi vă îmbolnăviţi, puteţi aplica pentru alocaţia de boală din Irlanda dacă v-aţi plătit ultima contribuţie de asigurare în Irlanda sau obţineaţi alocaţia pentru căutarea unui loc de muncă în Irlanda înainte de a fi plecat în străinătate</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Illness Benefit is not paid in countries not covered by EU Regulations</seg></tuv>
+  <tuv xml:lang="ro"><seg>Alocaţia de boală nu este plătită în ţările care nu sunt acoperite de reglementările UE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if you go to a country not covered by EU Regulations to get approved treatment your payment may resume when you return.   You can read detailed FAQs from the Department of Social Protection on claiming Illness Benefit abroad</seg></tuv>
+  <tuv xml:lang="ro"><seg>Cu toate acestea, dacă mergeţi într-o ţară care nu este acoperită de reglementările UE pentru a obţine aprobarea tratamentului, plata dumneavoastră se va rezuma când vă veţi întoarce</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Reviews of Illness Benefit</seg></tuv>
+  <tuv xml:lang="ro"><seg>Revizuirea alocaţiei de boală</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your Illness Benefit claim will be reviewed from time to time and you may be asked to attend for a medical assessment</seg></tuv>
+  <tuv xml:lang="ro"><seg>Clauza alocaţiei de boală poate fi revizuită din când în când şi vi se poate cere să participaţi la o evaluare medicală</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This assessment will be carried out by a Medical Assessor, who is a doctor employed by the Department of Social Protection</seg></tuv>
+  <tuv xml:lang="ro"><seg>Această evaluare va fi întreprinsă de un Evaluator medical, care este un doctor angajat de Departamentul pentru protecţie socială</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Medical Assessor will give an opinion on whether or not you are fit for work</seg></tuv>
+  <tuv xml:lang="ro"><seg>Evaluatorul medical vă va spune dacă consideră că sunteţi sau nu apt să vă întoarceţi la muncă</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must attend for a medical assessment when asked, or your benefit will be suspended</seg></tuv>
+  <tuv xml:lang="ro"><seg>Trebuie să treceţi printr-o evaluare medicală când cereţi acest lucru, sau alocaţia dumneavoastră va fi suspendată</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your Illness Benefit is stopped, you have a right to appeal the decision - see ‘Where to apply’ below</seg></tuv>
+  <tuv xml:lang="ro"><seg>Dacă alocaţia de boală este oprită, aveţi dreptul să apelaţi decizia – vedeţi mai jos “Unde să aplic”</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are receiving credited contributions only and these are stopped, you can seek a review of the decision but you do not have a right to appeal it</seg></tuv>
+  <tuv xml:lang="ro"><seg>Dacă primiţi contribuţiile doar creditate şi acestea s-au oprit, puteţi cere o revizuire a deciziei dar nu aveţi dreptul la apel</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Usually no payment is made for the first 6 days of illness and no payment is made for any Sunday during your illness. Note that this was extended from 3 to 6 days from 6 January 2014</seg></tuv>
+  <tuv xml:lang="ro"><seg>Nicio plată nu va fi făcută pentru primele 3 zile de boală şi nicio plată nu va fi făcută pentru Duminici în timp ce sunteţi bolnav</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Average weekly earnings are calculated by dividing the total reckonable gross earnings (without deductions) in the relevant tax year by the actual number of weeks worked in that year</seg></tuv>
+  <tuv xml:lang="ro"><seg>Ratele Prestaţiei de boală sunt acordate gradat în conformitate cu media veniturilor dumneavoastră săptămânale din anul fiscal aplicabil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Weekly payment in 2016 and up to 13 March 2017 for claims started in 2009 or after</seg></tuv>
+  <tuv xml:lang="ro"><seg>Plată săptămânală în 2013 pentru reclamaţii iniţiate în 2009:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Average weekly │Personal rate,│Qualified adult rate,│ │earnings │€ │€ │</seg></tuv>
+  <tuv xml:lang="ro"><seg>│Câştiguri medii săptămânale │Rată personală │Alocaţie pentru adulţi calificaţi │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│€300 or more │188 │124.80 │</seg></tuv>
+  <tuv xml:lang="ro"><seg>│€300 sau mai mult │€188 │€124,80 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│less than €150 │84.50 │80.90 │</seg></tuv>
+  <tuv xml:lang="ro"><seg>│Mai puţin de €150 │€84,50 │€80,90 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Weekly payment in 2016 and up to 13 March 2017 for claims started in 2008 or before:</seg></tuv>
+  <tuv xml:lang="ro"><seg>Plată săptămânală în 2013 pentru reclamaţii iniţiate în 2008 sau înainte:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Average weekly │Personal rate,│Qualified adult rate,│ │earnings │€ │€ │</seg></tuv>
+  <tuv xml:lang="ro"><seg>│Câştiguri medii săptămânale │Rată personală │Alocaţie pentru adulţi calificaţi │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│€150 or more │188 │124.80 │</seg></tuv>
+  <tuv xml:lang="ro"><seg>│€150 sau mai mult │€188 │€124,80 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│less than €80 │84.50 │80.90 │</seg></tuv>
+  <tuv xml:lang="ro"><seg>│Mai puţin de €80 │€84,50 │€80,90 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│less than €150 │86.70 │83 │ └─────────────────────┴──────────────┴─────────────────────┘</seg></tuv>
+  <tuv xml:lang="ro"><seg>Plata Ajutorului Financiar în caz de Boală poate fi efectuată direct în contul dumneavoastră bancar sau al cooperativei de credit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>or to an account in a credit union which offers the facility for Electronic Funds Transfer (EFT)</seg></tuv>
+  <tuv xml:lang="ro"><seg>Puteţi obţine o creştere a plăţilor dumneavoastră pentru un adult calificat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can get an increase in your payment for an adult dependant or child dependant if you meet certain conditions</seg></tuv>
+  <tuv xml:lang="ro"><seg>Puteţi obţine, de asemenea, o majorare a plăţii dumneavoastră pentru un copil în îngrijirea dumneavoastră</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Taxation of Illness Benefit</seg></tuv>
+  <tuv xml:lang="ro"><seg>Impozitarea indemnizației de boală</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Illness Benefit, both the personal rate and Increase for a Qualified Adult, (excluding increases for child dependants) is considered to be income for tax purposes and it is taxable from the first day of payment</seg></tuv>
+  <tuv xml:lang="ro"><seg>Indemnizația de boală (fără creşterile pentru copiii în întreținere) este considerată din punct de vedere fiscal ca fiind venit și se impozitează din prima zi de plată</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Illness Benefit is paid directly to you without any deduction of income tax</seg></tuv>
+  <tuv xml:lang="ro"><seg>Indemnizația de boală vi se plătește direct fără nicio deducere a impozitului pe venit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are employed, your employer will take your Illness Benefit into account for PAYE purposes</seg></tuv>
+  <tuv xml:lang="ro"><seg>În cazul în care sunteți angajat/ă, angajatorul va lua în calcul indemnizația de boală în scop PAYE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are unemployed, Revenue will take account of the amount of Illness Benefit paid to you when they adjust your tax credits or review the tax affairs of your spouse or civil partner</seg></tuv>
+  <tuv xml:lang="ro"><seg>În cazul în care nu sunteți angajat/ă, în momentul în care administrația fiscală va ajusta creditele fiscale sau va analiza aspectele fiscale ale soțului/soției, va lua în calcul suma indemnizației de boală care v-a fost plătită</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Contact Revenue for more information</seg></tuv>
+  <tuv xml:lang="ro"><seg>Pentru mai multe informații contactați Biroul Fiscal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should apply for Illness Benefit within 7 days of becoming ill</seg></tuv>
+  <tuv xml:lang="ro"><seg>O întârziere de peste 7 zile poate face ca dumneavoastră să pierdeţi o parte din plată</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A delay of more than 7 days may cause you to lose some of your payment. If there is a good reason for a delay in applying, your payment may be backdated</seg></tuv>
+  <tuv xml:lang="ro"><seg>Dacă există un motiv rezonabil pentru o întârziere a solicitării, plata dumneavoastră poate fi antedatată</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can get a first social welfare medical certificate (known as MC1), which includes an application form for Illness Benefit, from your family doctor (GP) or hospital doctor</seg></tuv>
+  <tuv xml:lang="ro"><seg>Formularul de solicitare pentru Ajutorul Financiar în caz de Boală este disponibil la medicul de familie (GP) sau la un medic de la spital</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The reason you can only get this form from a doctor is because a doctor must complete the medical certificate part of the form</seg></tuv>
+  <tuv xml:lang="ro"><seg>Motivul pentru care luaţi acest formular numai de la un medic este acela că medicul trebuie să completeze o parte a formularului</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must get a final medical certificate from your doctor before you go back to work</seg></tuv>
+  <tuv xml:lang="ro"><seg>Acest formular este disponibil online</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Note that in all cases social welfare medical certificates (MC1 and MC2) are not available online or from the Department's offices. They are only available from doctors who are on the Department's panel of medical certifiers</seg></tuv>
+  <tuv xml:lang="ro"><seg>Trebuie să trimiteţi săptămânal un certificat medical (cunoscut ca MC 2) pentru întreaga perioadă în care sunteţi bolnav, numai dacă nu aţi fost instruit să procedaţi altfel</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are not required to pay for a social welfare medical certificate as the Department pays the doctor an agreed fee</seg></tuv>
+  <tuv xml:lang="ro"><seg>Înainte de a reveni la muncă trebuie să obţineţi un certificat medical final de la medicul dumneavoastră</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you wish to make a backdated claim for Illness Benefit, you need to supply a First Medical Certificate (MC1) stating the date the illness began, a letter from your doctor giving details of your illness and treatment and a current MC2 certificate</seg></tuv>
+  <tuv xml:lang="ro"><seg>Nu vi se va cere să plătiţi pentru un certificat medical pentru asigurarea socială deoarece departamentul plăteşte doctorului rata agreată</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have any difficulties completing the forms, staff in your local social welfare office will be happy to help you</seg></tuv>
+  <tuv xml:lang="ro"><seg>Dacă aveţi dificultăţi în completarea acestui formular, personalul de la biroul dumneavoastră local de asistenţă socială vă va ajuta cu plăcere</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Any questions you have about Illness Benefit should be made directly to your social welfare local office or you can call the Illness Benefit enquiries telephone line - see 'Where to apply' below</seg></tuv>
+  <tuv xml:lang="ro"><seg>Oriceîntrebări pe care le aveţi referitor la Ajutorul Financiar în caz de Boală trebuie puse direct la biroul dumneavoastră local de asistenţă socială sau la telefonul pentru întrebări legate de Ajutorul Financiar în caz de Boală: (01) 704 3300</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you think you have been wrongly refused Illness Benefit, you can ask for the decision to be reviewed</seg></tuv>
+  <tuv xml:lang="ro"><seg>Dacă credeţi că vi s-a refuzat fără motiv alocaţia de boală, puteţi cere ca decizia să fie revizuită</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can also appeal the decision to the Social Welfare Appeals Office, either straight away or after the review</seg></tuv>
+  <tuv xml:lang="ro"><seg>Puteţi apela de asemenea decizia oficiului pentru apeluri cu privire la asigurările sociale, fie direct, fie după revizuire</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must request a review or appeal a decision within 21 days of being informed of the decision</seg></tuv>
+  <tuv xml:lang="ro"><seg>Trebuie să cereţi o revizuire sau un apel al deciziei în 21 de zile după ce aţi fost informat cu privire la hotărâre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Department of Social Protection</seg></tuv>
+  <tuv xml:lang="ro"><seg>Department of Social Protection</seg></tuv>
+</tu>
+</body>
+</tmx>

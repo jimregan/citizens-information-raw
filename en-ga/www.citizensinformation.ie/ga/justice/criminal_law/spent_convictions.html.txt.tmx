@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Once a person with a criminal conviction has paid their debt to society, it is very much in society’s interest and that of the offender that they be reintegrated into society as quickly as possible</seg></tuv>
+  <tuv xml:lang="ga"><seg>A luaithe a mhaitheann duine ag a bhfuil ciontú coiriúil a bhfiacha don tsochaí, téann sé chun mórshochair na sochaí agus an chiontóra go ndéantar iad a ath-chomhtháthú isteach sa tsochaí a thapúla agus is féidir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, disclosure of a criminal conviction is likely to have a negative effect on the person’s employment prospects and can also affect a person’s life in numerous other ways:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is dóchúil, áfach, go n-imreoidh nochtadh ciontaithe choiriúil tionchar diúltach ar ionchais fostaíochta duine agus féadfaidh sé tionchar a imirt ar shaol duine ar roinnt mhaith bealaí eile, chomh maith:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Entry to certain professions such as law or medicine is denied</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Diúltaítear iontráil isteach i ngairmeacha áirithe, ar nós an dlí nó leighis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A licence such as PSV (public service vehicle) driver’s licence or a firearms licence is refused</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Diúltaítear ceadúnas ar nós ceadúnas tiomána FSP (feithicil seirbhíse poiblí) nó ceadúnas arm tine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Insurance cover may be declined</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Féadtar cumhdach árachais a dhiúltú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The consequences may be even more serious where the person fails to disclose the conviction but its existence emerges at a later date</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh na hiarmhairtí a bheith fiú níos tromchúisí sa chás go dteipeann ar an duine an ciontú a nochtadh ach go dtagann a láithreacht chun solais ag dáta níos déanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under Section 258 of the Children Act 2001 an offence committed by a child can be automatically removed from the record as if never committed, once certain conditions are met</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi Alt 258 d’Acht na Leanaí, 2001, féadtar cion a rinne leanbh a bhaint go huathoibríoch ón taifead amhail is nach ndearnadh riamh é, a luaithe a chomhlíontar coinníollacha áirithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find more information in our document on children and the criminal justice system</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú teacht ar bhreis faisnéise inár gcáipéis ar leanaí agus an córas ceartais choiriúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the Criminal Justice (Spent Convictions and Certain Disclosures) Act 2016, which came into effect on 29 April 2016, a range of minor offences will become spent after 7 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoin Acht um Cheartas Coiriúil (Ciontuithe Spíonta agus Nochtadh Áirithe), 2016, a tháinig i bhfeidhm an 29 Aibreán 2016, beidh réimse mionchionta spíonta i ndiaidh 7 mbliana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that an adult convicted of an offence covered by the Act does not have to disclose the conviction after 7 years, except in certain circumstances</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn seo nach gá do dhuine fásta atá ciontaithe i leith ciona a cumhdaíonn an tAcht an ciontú a nochtadh i ndiaidh 7 mbliana, seachas faoi chúinsí airithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The convictions which may be regarded as spent after 7 years are set out in Section 5 of the Act</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagtar amach na cionta ar féidir a mheas go bhfuil siad spíonta i ndiaidh 7 mbliana in Alt 5 den Acht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• All convictions in the District Court for motoring offences except for convictions for dangerous driving which are limited to a single conviction</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gach ciontú sa Chúirt Dúiche i ngeall ar chionta tiomána, seachas i dtaobh ciontuithe i ngeall ar thiomáint chontúirteach atá teoranta do chiontú aonair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• All convictions in the District Court for minor public order offences</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gach ciontú sa Chúirt Dúiche i ngeall ar mhionchionta oird phoiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A single conviction (other than a motoring or public order offence) in the District or Circuit Court which resulted in a term of imprisonment of 12 months or less (or a fine)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ciontú aonair (seachas cion tiomána nó oird phoiblí) sa Chúirt Dúiche nó sa Chúirt Chuarda ónar eascair téarma príosúnachta 12 mhí nó níos lú (nó fíneáil)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Act does not apply to any conviction for a sexual offence or an offence which was tried in the Central Criminal Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhaineann an tAcht le haon chiontú i ngeall ar chion gnéasach nó cion a rinneadh a thriail sa Phríomh-Chúirt Choiriúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The 7 years is from the date the custodial or non-custodial sentence became operative and you must have complied with the sentence or order imposed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn an tréimhse 7 mbliana i gceist ón dáta a bhí an phianbhreith choinneála nó neamhchoinneála oibríoch agus ní mór gur chomhlíon tú an phianbhreith nó an t-ordú a gearradh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In general, you are not required to disclose a spent conviction when supplying information on past convictions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, níl ort ciontú spíonta a nochtadh nuair a sholáthraíonn tú faisnéis ar chiontuithe roimhe seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, you may be required to disclose a spent conviction in court proceedings and the circumstances are set out in Section 7 of the Act</seg></tuv>
+  <tuv xml:lang="ga"><seg>B’fhéidir go mbeidh ort ciontú spíonta a nochtadh, áfach, in imeachtaí cúirte agus leagtar amach na cúinsí in Alt 7 den Acht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must also disclose any spent convictions:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit aon chiontuithe spíonta a nochtadh chomh maith:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• In a Garda interview following your arrest in connection with the investigation of an offence</seg></tuv>
+  <tuv xml:lang="ga"><seg>• In agallamh leis an nGarda Síochána i ndiaidh gur gabhadh thú maidir le himscrúdú ciona</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>- to enter, be or remain in the State</seg></tuv>
+  <tuv xml:lang="ga"><seg>- chun an Stát a iontráil, nó fanacht sa Stát</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• In an application or during an investigation under Part 3 of the Central Bank Reform Act 2010</seg></tuv>
+  <tuv xml:lang="ga"><seg>• In iarratas nó i rith imscrúdú faoi Chuid 3 den Acht um Athchóiriú an Bhainc Cheannais, 2010</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have been convicted of fraud, deceit or dishonesty in respect of a claim under a policy of insurance or a policy of assurance, you have to disclose that conviction on any insurance or assurance proposal or form</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má ciontaíodh thú i leith calaoise, meabhail nó caimiléireachta maidir le héileamh faoi pholasaí árachais nó polasaí ráthaíochta, tá ort an ciontú sin a nochtadh ar aon togra nó foirm árachais nó ráthaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Disclosure is required if you are applying for certain types of licence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Teastaíonn nochtadh má bhíonn iarratas á dhéanamh agat ar shaghsanna áirithe de cheadúnas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These licences include public service vehicle, private security, taxi and firearms licences</seg></tuv>
+  <tuv xml:lang="ga"><seg>I measc na gceadúnas seo, tá ceadúnais feithicil seirbhíse poiblí, slándála príobháidí, tacsaí agus airm thine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In general, you are not required to disclose a spent conviction when looking for employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, níl ort ciontú spíonta a nochtadh nuair a bhíonn fostaíocht á cuardach agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, you have to disclose any spent convictions if you are applying to work for certain bodies, such as, the Garda Síochána, the Courts Service and some government departments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá ort aon chiontuithe spíonta a nochtadh má bhíonn iarratas á dhéanamh agat ar obair ó roinnt comhlachtaí, ar nós an Gharda Síochána, na Seirbhís Cúirteanna agus roinnt ranna rialtais, áfach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The list of bodies is given in Schedule 2 of the Act</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar an liosta comhlachtaí i Sceideal 2 den Acht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The non-disclosure regime under the Criminal Justice (Spent Convictions and Certain Disclosures) Act 2016 does not apply to employment relating to children or vulnerable adults</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhaineann an córas neamhnochta faoin Acht um Cheartas Coiriúil (Ciontuithe Spíonta agus Nochtadh Áirithe), 2016 le fostaíocht a bhaineann le leanaí nó le daoine fásta leochaileacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Such applicants must be Garda vetted and Garda vetting has its own non-disclosure regime</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór grinnfhiosrúchán an Gharda Síochána a dhéanamh ar na hiarratasóirí siúd agus tá a chóras féin neamhnochta ag Grinnfhiosrúchán an Gharda Síochána</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Disclosure in other states</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nochtadh i stáit eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Irish spent convictions legislation cannot be used to prevent disclosure when you are required to disclose information about your criminal convictions to another state, for example, the USA or Australia</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir reachtaíocht um chiontuithe spíonta na hÉireann a úsáid chun cosc a chur ar nochtadh nuair a bhíonn ort faisnéis a nochtadh faoi do chiontuithe coiriúla do stát eile, mar shampla, SAM nó an Astráil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are subject to that country’s laws and may have to disclose such convictions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn tú faoi réir dhlíthe na tíre sin agus b’fhéidir go mbeidh ort na ciontuithe siúd a nochtadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Accessing criminal records held by the Gardaí</seg></tuv>
+  <tuv xml:lang="ga"><seg>Measúnú a dhéanamh ar thaifid choiriúla atá á gcoimeád ag na Gardaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the Data Protection Act 1988 you have the right to access personal data about you that is held by the Garda Síochána</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoin Acht um Chosaint Sonraí, 1988, bronntar an ceart ort chun rochtain a fháil ar shonraí pearsanta fút atá á gcoimeád ag an nGarda Síochána</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you request a copy of your criminal record from the Garda Síochána, the record will be provided in 2 parts, with the spent convictions provided separately from the other convictions (if any)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má iarrann tú ar chóip de do thaifead coiriúil ón nGarda Síochána, soláthrófar an taifead in 2 chuid, agus soláthrófar na ciontuithe spíonta ar leithligh ó na ciontuithe eile (más ann dóibh)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that you will be able to provide a clean record if your convictions are spent</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn seo go mbeidh tú in ann taifead glan a sholáthar má tá do chiontuithe spíonta</seg></tuv>
+</tu>
+</body>
+</tmx>

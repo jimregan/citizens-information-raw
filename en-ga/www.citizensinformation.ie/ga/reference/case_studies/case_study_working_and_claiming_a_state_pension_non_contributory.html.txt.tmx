@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Case study: Working and claiming a State Pension (Non-Contributory)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cás-staidéar: Ag obair agus ag éileamh Pinsin Stáit (Neamh-Ranníocach)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This case study shows the effect of work on State Pension (Non-Contributory) in 2016</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léiríonn an cás-staidéar seo an tionchar a bhíonn ag obair ar Phinsean Stáit (Neamh-Ranníocach) in 2016</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Joe is 67 years of age and has been claiming a State Pension (Non-Contributory) for a little over a year now</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Joe 67 bliain d'aois agus tá sé ag fáil Pinsin Stáit (Neamh-Ranníocach) le beagnach bliain anuas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He receives an increase in his payment for his wife Jean</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigheann sé méadú ar a íocaíocht dá bhean chéile Jean</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Jean is 62 years old and works part-time as a book-keeper</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Jean 62 bliain d'aois agus oibríonn sí go páirtaimseartha mar leabharchoimeádaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>She earns €130 a week net</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tuilleann sí €130 glan in aghaidh na seachtaine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(Net earnings are total earnings less deductions for PRSI, private health insurance, superannuation and union dues.) They have no other income but have savings of €56,000</seg></tuv>
+  <tuv xml:lang="ga"><seg>('Séard is brí le tuillimh ghlana tuillimh iomlána lúide déaduchtaithe i PRSI, árachais sláinte phríobháidigh, aoisliúntais agus dleachta aontais.) Níl ioncam ar bith eile acu ach tá coigilteas €56,000 acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>At the moment Joe's pension payment is the maximum State Pension (Non-Contributory) €368.70</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi láthair faigheann Joe an Pinsean Stáit uasta (Neamh-Ranníocach) de €368.70</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Their total weekly income is €498.70</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iomlán a n-ioncaim sheachtainiúil €498.70 é</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Joe has been offered some part-time work as a caretaker in a local school</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tairgeadh roinnt oibre páirtaimseartha do Joe mar fheighlí i scoil áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If he takes the job his net weekly wage will be €260. Jean is thinking of increasing the number of hours she works</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má ghlacann sé leis an bpost beidh pá seachtainiúil aige de €260 Tá Jean ag machnamh ar líon na n-uaireanta a oibríonn sí a mhéadú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Her new net weekly income would be €206</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bheadh ioncam seachtainiúil glan nua aici de €206</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Joe wants to know how his State Pension (Non-Contributory) will be affected if he starts work in the local school and Jean increases the number of days she works</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba mhaith le Joe a fháil amach cén tionchar a bheidh ar a Phinsean Stáit (Neamh-Ranníocach) má mhéadaíonn Jean a cuid laethanta oibre agus má thosaíonn sé sa scoil áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Joe and Jean's new assessable means</seg></tuv>
+  <tuv xml:lang="ga"><seg>Acmhainn inmheasúnaithe nua Joe agus Jean</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Joe's assessable income from work (See note 1) €60</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ioncam inmheasúnaithe Joe ó obair (Féach nóta 1) €60</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Add Jean's assessable income from work (See note 2) €6</seg></tuv>
+  <tuv xml:lang="ga"><seg>Móide acmhainn inmheasúnaithe Jean ó obair (Féach nóta 2) €6</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Add income from savings (See note 3) €16</seg></tuv>
+  <tuv xml:lang="ga"><seg>Móide ioncam ó choigilteas (Féach nóta 3) €16</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Divide by 2 to get their assessable weekly means: €41</seg></tuv>
+  <tuv xml:lang="ga"><seg>Roinn ina dhá leath chun a n-acmhainn sheachtainiúil inmheasúnaithe a fháil: €41</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Total assessable weekly means (See note 4) €41</seg></tuv>
+  <tuv xml:lang="ga"><seg>Acmhainn sheachtainiúil inmheasúnaithe iomlán (Féach nóta 4) €41</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Weekly State Pension (Non-Contributory) (See note 5) €347.90</seg></tuv>
+  <tuv xml:lang="ga"><seg>Pinsean Stáit Seachtainiúil (Neamh-Ranníocach) (Féach nóta 5) €€347.90</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Their new total weekly income will be €813.90</seg></tuv>
+  <tuv xml:lang="ga"><seg>€808.90 a bheas mar ioncam iomlán acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(Total income is made up of Joe's State Pension (Non-Contributory) and their income from work)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Cuimsíonn an t-iomlán Pinsean Stáit Joe (Neamh-Ranníocach) agus a gcuid ioncaim ó obair)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Joe's assessable income from work: Joe will earn €260 (net) per week</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ioncam inmheasúnaithe Joe ó obair: Tuillfidh Joe €260 (glan) in aghaidh na seachtaine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>€200 is not taken into account</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní thabharfar €200 san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Therefore Joe's assessable income from work is €60</seg></tuv>
+  <tuv xml:lang="ga"><seg>€60 is ea ioncam inmheasúnaithe Joe ó obair mar sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Jean's assessable income from work: Jean will earn €206 (net) per week</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ioncam inmheasúnaithe Jean ó obair: Tuillfidh Jean €206 (glan) in aghaidh na seachtaine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>€200 is not taken into account</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní thabharfar €200 san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Therefore Jean's assessable income from work is €6</seg></tuv>
+  <tuv xml:lang="ga"><seg>€6 is ea ioncam inmheasúnaithe Jean ó obair mar sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Income from savings for a couple is calculated as follows:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar ioncam ó choigilteas i gcomhair lánúna a ríomh mar a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│First €40,000 │Nil │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│An chéad €40,000 │Nialas │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Next €20,000 │€1 per €1,000 per week │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│An chéad €20,000 eile │€1 in aghaidh €1,000 in aghaidh na seachtaine │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Next €20,000 │€2 per €1,000 per week │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│An chéad 420,000 eile │€2 in aghaidh €1,000 in aghaidh na seachtaine │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Excess €80,000 │€4 per €1,000 per week │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│De bhreis ar €80,000 │€4 in aghaidh €1,000 in aghaidh na seachtaine │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are married or are cohabiting with another person as husband and wife, your means will be taken as half the joint means of you and your spouse/civil partner/cohabitant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú pósta nó má tá tú ag maireachtáil i bhfochair a chéile mar lánúin phósta, áireofar do chuid acmhainne mar leath chomhacmhainn do chéile/pháirtnéir sibhialta/chomhchónaitheoir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Joe's new personal rate of State Pension (Non-Contributory) is €209.50</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é ráta Phinsean Stáit pearsanta Joe (Neamh-Ranníocach) €209.50</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He also gets an extra amount or increase of €138.40 for Jean as a qualified adult</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigheann sé méad €138.40 sa bhreis i gcomhair Jean mar aosach cáilithe freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find out more about the rate of pension paid after means are assessed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú níos mó a léamh faoin ráta pinsin a íoctar tar éis acmhainn a bheith measúnaithe</seg></tuv>
+</tu>
+</body>
+</tmx>

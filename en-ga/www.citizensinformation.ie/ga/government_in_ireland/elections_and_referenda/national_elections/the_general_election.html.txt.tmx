@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>A general election must be held within 30 days of the dissolution of the Dáil</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní foláir olltoghchán a bheith ann taobh istigh de 30 lá ó lánscor na Dála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The procedure is that the Clerk of the Dáil issues a writ to the returning officer in each constituency instructing them to hold an election</seg></tuv>
+  <tuv xml:lang="ga"><seg>Eisíonn Cléireach na Dála eascaire don cheann comhairimh i ngach dáilcheantar ag tabhairt ordaithe dó/di toghchán a reáchtáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Minister for Housing, Planning and Local Government appoints the polling day which must be between the 18th and 25th day (excluding Good Friday, Sundays and public holidays) after the issue of the writ</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceapann an tAire Tithíochta, Pleanála, Pobal agus Rialtais Áitiúil an lá vótaíochta nach mór a reáchtáil idir an 18ú agus an 25ú lá tar éis aon eascaire a eisiúint (ní bhíonn Aoine an Chéasta, Domhnaí agus Saoirí poiblí san áireamh)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Minister also appoints the polling period which must consist of at least 12 hours between 7am and 10.30pm</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceapann an tAire an tréimhse vótaíochta freisin a mhairfidh ar feadh 12 uair an chloig ar a laghad idir 7rn agus 10.30in</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>More information about general elections is available in the following documents:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh faisnéise faoi olltoghcháin sna doiciméid seo leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Who can be elected to the Dail</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cé is féidir a thoghadh don Dáil?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• How do you become a Dail candidate</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cén chaoi ar féidir leat a bheith mar iarrthóir Dála?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Who can vote at a Dail election</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cé atá i dteideal vótála i dtoghchán Dála?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• How do you vote in a General Election</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cén chaoi a vótálann tú in olltoghchán?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• How are the votes counted</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cén chaoi a chomháirítear vótaí?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• What are the rules about election expenses</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Céard iad na rialacha a bhaineann le costais toghcháin?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>General election posters and signs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Póstaeir agus fógraí do thoghcháin ghinearálta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The law forbids the erection of posters or signs on poles or other structures in public places unless you have the written permission of the owner of the pole or other structure in advance of putting up the posters or signs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní cheadaíonn dlí póstaeir nó fógraí a chur ar chuaillí nó struchtúir eile in áiteanna poiblí gan cead scríofa bheith faighte ó úinéir an chuaille nó an struchtúir eile roimh ré</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Posters are only allowed to be erected for a certain specified time period before an election</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl sé ceadaithe póstaeir a chur suas ach le linn tréimhse áirithe roimh thoghchán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Posters can be erected 30 days before the election or from the date of the polling day order for the election, whichever is the shorter period of time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir póstaeir a chur suas ón 30ú lá roimh lá na vótála, nó ar feadh 30 lá tar éis an dáta ar a n-eisítear an tOrdú um Lá Vótála, pé acu an tréimhse is giorra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Following a general election, a party or candidate must remove posters within a 7-day period</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tar éis toghchán ginearálta, ní mór do pháirtí nó iarrthóir póstaeir a bhaint taobh istigh de thréimhse 7 lá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>After that date, an on-the-spot fine of €150 is issued by your local authority in respect of each offence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tar éis na tréimhse sin, gearrfaidh an t-údarás áitiúil fíneáil láithreach de €150 i dtaca le gach póstaer nach mbaintear</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your local authority will remove the poster as the fine is issued</seg></tuv>
+  <tuv xml:lang="ga"><seg>Agus an fhíneáil á heisiúint, bainfidh an t-údarás áitiúil an póstaer</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a party or candidate has been issued with a fine and refuses to pay, they can be prosecuted in the District Court by their local authority to enforce payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhiúltaíonn páirtí nó iarrthóir fíneáil atá eisithe a íoc, is féidir leis an údarás áitiúil iad a ionchúiseamh sa Chúirt Dúiche chun an íocaíocht a fháil</seg></tuv>
+</tu>
+</body>
+</tmx>

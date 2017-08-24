@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>All proposals for new laws (in other words, Acts of the Oireachtas) start life as Bills</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tosaíonn gach togra le haghaidh dlíthe nua (nó Achtanna an Oireachtais i bhfocail eile) mar Bhillí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Proposals for laws that apply to the general public are called Public Bills which include Government Bills and Private Members’ Bills</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar Billí Poiblí ar thograí le haghaidh dlíthe a bhaineann leis an bpobal i gcoitinne lena n-áirítear Billí Rialtais agus Billí na mBall Príobháideach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Proposals for laws that are promoted by corporate entities or individuals for their own purposes are called Private Bills</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar Billí Príobháideacha ar thograí le haghaidh dlíthe a chuireann aonán corparáideach nó duine aonair ar thograí le haghaidh dlíthe a bhaineann leis an bpobal i gcoitinne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In general, Private Bills are very rare</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is annamh a bhíonn Billí Príobháideacha ann de ghnáth</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A Private Member's Bill is a Public Bill that can be initiated by any member of either of the houses of the Oireachtas (that is, the Dáil or Seanad), regardless of their political affiliation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is Billí Poibli iad Billí na mBall Príobháideach agus is féidir le aon bhall den Dáil nó den Seanad Bille a chuir ós cómhair an Tí is cuma cén páirtí lena mbaineann siad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Private Member's Bill cannot be started by any member of the Government, Minister of State, the Attorney General or leader of the House in the Seanad</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir le aon bhall den Rialtas, le Aire Stáit, leis an Ard Aighne ná le ceannaire an tí sa Seanad Bille Baill Phríobháideach a thosú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Like Government legislation the Private Member's Bill must be passed by both Houses of the Oireachtas</seg></tuv>
+  <tuv xml:lang="ga"><seg>Díreach mar is gá do Reachtú an Rialtais go nglacfaí leo i dTithe an Oireachtais, is gá do Bhille Baill Príobháideach go nglacfaí leis, freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In practice, the Government opposes Private Members' Bills so it is very rare that a Bill will survive to become legislation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa ghnáthbhealach cuireann an Rialtas in aghaidh gach Bille Baill Príobháideach agus is annamh a éiríonn leo dul tríd chun a bheith i ndlí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Sometimes, Private Members' Bills are initiated by members of the Oireachtas simply to draw attention to an issue or to focus public debate on a gap in the law</seg></tuv>
+  <tuv xml:lang="ga"><seg>Uaireanta tugtar Bille Baill Phríobháideach ós cómhair na Dála nó an tSeanaid chun aird a tharraingt ar cheist phoiblí nó chun díospóireacht a thosnú ar locht éigin atá sa dlí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read more about Bills and how legislation is initiated and debated</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat tuilleadh eolais a fháil faoi conas a dhéantar reachtaíocht a thionscnamh agus a chaibidliú</seg></tuv>
+</tu>
+</body>
+</tmx>

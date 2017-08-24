@@ -1,0 +1,405 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Housing and other supports for homeless people</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tithíocht agus tacaí eile do dhaoine gan dídean</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Services for rough sleepers</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seirbhísí do dhaoine atá ag codladh amuigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Accommodation and housing supports</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cóiríocht agus tacaí tithíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This document outlines the various types of support and accommodation options available to people who are homeless – ranging from street-based assistance to long-term housing, as well as social welfare entitlements. Some people who are homeless simply need somewhere to live</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagtar amach sa cháipéis seo na cineálacha éagsúla roghanna tacaíochta agus cóiríochta atá ar fáil do dhaoine gan dídean - ó chúnamh sráid-bhunaithe go tithíocht fhadtéarmach.Is áit chónaí go bunúsach a theastaíonn ó roinnt daoine atá gan dídean</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Others may have specific additional needs, due to mental health difficulties, addiction, relationship breakdown or other problems</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh go bhfuil sainriachtanais bhreise ag daoine eile, de bharr deacrachtaí meabhairshláinte, andúile, cliseadh caidrimh nó fadhbanna eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are particular arrangements for young people who are homeless</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá socruithe ar leith i gceist le haghaidh daoine óga atá gan dídean</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Depending on your location and your circumstances, different support services may be available</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir go mbeidh seirbhísí difriúla tacaíochta ar fáil duit, ag brath ar do láthair agus ar do chúinsí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most homeless people are in the cities</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá formhór na ndaoine gan dídean le fáil sna cathracha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In Dublin and Cork, the local authorities and the Department of Social Protection provide dedicated services for homeless people</seg></tuv>
+  <tuv xml:lang="ga"><seg>I mBaile Átha Cliath agus i gCorcaigh, cuireann na húdaráis áitiúla agus an Roinn Coimirce Sóisialaí seirbhíse dílse ar fáil do dhaoine gan dídean</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Our document on agencies that provide services for homeless people gives details of where to apply for the various supports. You will also find useful information in Focus Ireland’s guidebook: Working to end homelessness</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigh tuilleadh eolais inár gcáipéis Gníomhaireachtaí a chuireann seirbhísí ar fáil do dhaoine gan dídean agus i dtreoirleabhar de chuid Focus Ireland</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Action Plan: The Action Plan to tackle emergency and short-term homelessness was announced in December 2014, including:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Plean Gníomhaíochta: Fógraíodh Plean Gníomhaíochta i mí Nollag 2014 chun deileáil le easpa dídine:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Enhanced services for rough sleepers, priority allocation of social housing and rollout of the Housing Assistance Payment (HAP) for eligible homeless households – all in Dublin</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Feabhsú ar sheirbhísi le haghaidh daoine atá ag codladh amuigh; athruithe i leithdháileadh thithíochta sóisialaí; an scéim HAP a leathnú go daoine gan dídean - na bearta seo go léir i mBaile Átha Cliath</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Extending the Tenancy Protection Service to Cork</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An tSeirbhís Cosanta Tionóntachta a leath u go Corcaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Assessing the scale of homelessness in Cork, Limerick, Galway and Waterford and identifying actions needed</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Easpa dídine i gCorcaigh, Luimneach, Gaillimh agus Port Láirge a thomhas agus bearta a fhorbairt ina leith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Services for rough sleepers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seirbhísí do dhaoine atá ag codladh amuigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some community services offer contact and food to rough sleepers, that is, people who are living and sleeping outdoors by day and night</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tairgeann roinnt seirbhísí pobail teagmháil agus bia do dhaoine atá ag codladh amuigh, is iad sin, daoine atá ag cónaí agus ag codladh amuigh lá agus oíche</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, soup runs provide sandwiches and hot drinks to rough sleepers in many urban areas</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, cuireann cuarda anraith ceapairí agus deochanna teo ar fáil do dhaoine atá ag codladh amuigh i roinnt limistéir uirbeacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Street outreach teams befriend and engage with rough sleepers, aiming to link them with accommodation and other services with a view to helping them off the streets and into long-term accommodation, at their own pace</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann foirne for-rochtana sráide cuidiú agus teagmháil le daoine atá ag codladh amuigh. Is é is aidhm dóibh iad a nascadh le cóiríocht agus le seirbhísí eile d’fhonn cabhrú leo na sráideanna a fhágáil agus bogadh isteach i gcóiríocht fhadtéarmach ar a luas féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some organisations provide medical and related services, including bathing and laundry facilities</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann roinnt eagraíochtaí seirbhísí míochaine agus seirbhísí gaolmhara ar fáil, lena n-áirítear áiseanna folctha agus níocháin éadaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Cold Weather Initiative in Dublin provides additional emergency beds from November to March each year for people who are sleeping rough</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann an Tionscnamh Aimsire Fuaire i mBaile Átha Cliath leapacha éigeandála breise ar fáil ó mhí na Samhna go mí an Mhárta gach bliain do dhaoine atá ag codladh amuigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Housing First Service in the Dublin region provides street outreach to people who are sleeping rough and helps them to access emergency accommodation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireadh Tionscadal Taispeántais Housing First i réigiún Bhaile Átha Cliath cóiríocht fhéinchuimsitheach ar fáil do dhaoine a bhí ag codladh amuigh agus ag a bhfuil mór-riachtanais tacaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It also works to secure longer-term accommodation with extensive supports. It builds on the service formerly offered by the Housing First Demonstration Project (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann an tSeirbhís Housing First an obair seo anois agus oibrionn sí chun coíríocht níos fadtéarmaí a chur ar fáil, chomh maith le tacaíochtaí breise</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the Action Plan of December 2014, additional emergency beds are being provided in Dublin, as well as a Night Café with food, rest area and showers; transport to emergency accommodation; and health and care supports</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoin bPlean Gníomhaíochta ó Nollaig 2014, tá breis leapacha éigeandála á gcur ar fáil i mBaile Átha Cliath, chomh maith le Caifé Oíche</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Accommodation and housing supports</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cóiríocht agus tacaí tithíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Emergency and temporary accommodation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cóiríocht éigeandála agus cóiríocht shealadach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Hostels are the main form of emergency accommodation provided for single homeless people</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad brúnna an phríomhfhoirm de chóiríocht éigeandála a chuirtear ar fáil do dhaoine singile gan dídean</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Private emergency accommodation (such as bed and breakfasts or hotels) is used for people for whom hostel accommodation is not suitable, due to the size or composition of the household or to particular medical or social needs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baintear úsáid as cóiríocht phríobháideach éigeandála (ar nós tithe lóistín nó óstáin) do dhaoine nach bhfuil lóistín i mbrú oiriúnach dóibh de bharr mhéid nó chomhdhéanamh an teaghlaigh nó de bharr riachtanais áirithe mhíochaine nó shóisialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All placements in such accommodation are made on the basis that:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar gach socrúchán sa chóiríocht sin ar an mbonn:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The person or household has been assessed as homeless</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gur measadh an duine nó an teaghlach a bheith gan dídean</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The accommodation is provided as an emergency (short-term) response and is subject to ongoing review</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Go gcuirtear an chóiríocht ar fáil mar fhreagairt éigeandála (ghearrthéarmach) agus go bhfuil sí faoi réir athbhreithniú leanúnach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• There should be active engagement with homeless services with a view to addressing all relevant issues</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gur cheart teagmháil ghníomhach a dhéanamh le seirbhísí gan dídean d’fhonn aghaidh a thabhairt ar gach saincheist ábhartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• All viable options for moving on are explored</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Go bpléitear gach rogha inmharthana le haghaidh bogadh ar aghaidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The person or household complies with any house rules and other conditions of the accommodation</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Go gcloíonn an duine nó an teaghlach le haon rialacha tí agus le coinníollacha eile na cóiríochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Hostels can be short-term and/or long-term</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadann brúnna bheith ina réiteach gearrthéarmach nó ina réiteach fadtéarmach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some provide dormitories and/or single rooms and some include meals and other services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann roinnt brúnna suanliosanna agus/nó seomraí singile ar fáil agus cuireann roinnt díobh béilí agus seirbhísí eile san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some may charge for accommodation on a nightly or weekly basis</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir go ngearrfaidh roinnt díobh táille ar chóiríocht ar bhonn oíche nó seachtainiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Women and children who are experiencing domestic violence may be accommodated in dedicated refuges</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir go gcuirfear cóiríocht i dtearmainn dhílse ar fáil do mhná agus do leanaí atá ag fulaingt foréigean teaghlaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Housing provided by local authorities or voluntary bodies is usually referred to as social housing</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar tithíocht shóisialta go minic ar an tithíocht a chuireann údaráis áitiúla nó comhlachtaí deonacha ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Local authorities have general responsibility under the Housing Act 1988 for the provision of housing for adults who cannot afford to provide it for themselves</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá freagracht ghinearálta ar údaráis áitiúla faoi Acht na dTithe, 1988, as tithe a chur ar fáil do dhaoine fásta nach bhfuil sé ar a n-acmhainn íoc astu iad féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, they do not have a statutory obligation to house people</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin féin, níl oibleagáid reachtúil orthu tithe a chur ar fáil do dhaoine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They may help with accommodation by providing housing directly or through arrangements with voluntary housing organisations and other voluntary bodies</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh údaráis áitiúla cabhrú le cóiríocht trí thithe a chur ar fáil go díreach nó trí shocruithe le heagraíochtaí deonacha tithíochta agus le comhlachtaí deonacha eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They may also provide funding to voluntary bodies for emergency accommodation and for long-term housing for homeless people</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh siad freisin maoiniú a chur ar fáil do chomhlachtaí deonacha le haghaidh cóiríocht éigeandála agus le haghaidh tithíocht fhadtéarmach do dhaoine gan dídean</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you apply for social housing, the local authority must take the fact that you are homeless into account when assessing your need for housing and classifying your specific accommodation requirements</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh an t-údarás áitiúil an fhíric go bhfuil tú gan dídean a chur san áireamh le linn dóibh do ghá le tithíocht a chur san áireamh agus do shainriachtanais chóiríochta a rangú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As part of the Action Plan of December 2014, the 4 Dublin housing authorities were directed to allocate 50% of all housing allocations to homeless households and other vulnerable groups for the next 6 months, having regard to the length of time these households have spent on the homeless list and other housing lists</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoin bPlean Gníomhaíochta a fógraíodh i mí Nollag 2014, caithfidh na 4 údaráis áitiúla i mBaile Átha Cliath 50% a leathdháileadh le daoine gan dídean agus le grúpaí leochaileacha eile ar feadh 6 mhí, agus a méid ama a bhí caite acu ar liostaí tithíochta a chur sam áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the local authority is unable to offer you housing from its own stock, it may refer you to a housing association or to one of the other services described below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh sé tú a tharchur chuig cumann tithíochta nó chuig ceann amháin de na seirbhísí eile a ndéantar cur síos orthu thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To apply for local authority/social housing, you will need to fill in an application form</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun iarratas a dhéanamh ar thithíocht shóisialta, caithfidh tú foirm iarratais a chomhlánú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Each local authority publishes its own version but the information needed is standardised</seg></tuv>
+  <tuv xml:lang="ga"><seg>Foilsíonn gach údarás áitiúil a leagan féin ach is caighdeánaithe atá an fhaisnéis a theastaíonn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can get help (if necessary) to fill in this form from the housing section of your local authority, a Citizens Information Centre or voluntary organisation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat cabhrú chun an fhoirm a chomhlánú a fháil (más gá) ó rannóg thithíochta d’údaráis áitiúil, ó Ionad um Fhaisnéis do Shaoránaigh nó ó eagraíocht dheonach - féach Gníomhaireachtaí a sholáthraíonn seirbhísí do dhaoine gan dídean</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Proof of your current address (homeless accommodation) such as a receipt from a hostel or bed and breakfast</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cruthúnas ar do sheoladh reatha (cóiríocht do dhaoine gan dídean) amhail admháil ó bhrú nó ó theach lóistín</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Photo ID such as passport, driving licence</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Aitheantas fótagrafach ar nós pas, ceadúnas tiomána</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Proof of your citizenship or your permission to remain in the State (pdf)*</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cruthúnas ar do shaoránacht nó ar do chead chun fanacht sa Stát (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>*Migrants: In general, you may be eligible for housing services if you are legally resident in Ireland and you have been living in the relevant local authority area for a specific length of time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Imircigh: Go ginearálta, is féidir go mbeidh tú incháilithe do sheirbhísí tithíochta más rud é go bhfuil cónaí ort go dlíthiúil in Éirinn agus go gcónaíonn tú i limistéar an údaráis áitiúil iomchuí le tréimhse shonrach ama</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Otherwise, you may get temporary help from an agency that provides services for homeless people</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil tú incháilithe do chúnamh fadtéarmach tithíochta, is féidir go bhfaighidh tú cuidiú sealadach ó ghníomhaireacht a chuireann seirbhísí ar fáil do dhaoine gan dídean</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Local authority housing is unfurnished</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl troscán le fáil i dtithíocht údaráis áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are offered a local authority home and you do not have and cannot afford to buy furniture or appliances, you may be eligible for help from the Department of Social Protection – see 'Social welfare' below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más rud é go dtairgtear teach údaráis áitiúil duit agus nach bhfuil sé ar d’acmhainn troscán ná fearais a cheannach, is féidir go mbeidh tú incháilithe le haghaidh cúnaimh ón Roinn Coimirce Sóisialaí - féach ‘leas sóisialach’ thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you cannot be housed by the local authority or a voluntary body, you can look for private rented housing and apply for a weekly Rent Supplement to help pay the rent</seg></tuv>
+  <tuv xml:lang="ga"><seg>Foinse thábhachtach chóiríochta do dhaoine gan dídean is ea tithíocht phríobháideach ar cíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Alternatively, and depending on where you are, you may be eligible for the new Housing Assistance Payment (HAP), which is being introduced to replace long-term Rent Supplement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más rud é go bhfuil teach á fháil ar cíos agat agus go bhfuil d’ioncam ró-íseal chun do chíos a íoc, is féidir go mbeidh tú in ann Forlíonadh Cíosa seachtainiúil a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>HAP is operational in several housing authorities and has been extended on a pilot basis to eligible homeless households in the Dublin region</seg></tuv>
+  <tuv xml:lang="ga"><seg>In áiteanna áirithe, féadfaidh tú Íocaíocht Cúnaimh Tithíochta a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Homeless HAP Pilot is operated by the Dublin Region Homeless Executive</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an Íocaíocht Cúnaimh Tithíochta ar fail do dhaoine i mBaile Átha Cliath ata gan dídean</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Transitional housing is for people who need time and assistance to prepare for independent living</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is do dhaoine a dteastaíonn am agus cúnamh uathu chun ullmhú le haghaidh maireachtáil neamhspleách atá tithíocht idirthréimhseach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As well as providing medium-term accommodation, such schemes generally support residents to build their skills and capacity to establish themselves in a home and address any issues that might make long-term housing unsustainable</seg></tuv>
+  <tuv xml:lang="ga"><seg>De bhreis ar chóiríocht mheántéarmach a chur ar fáil, tugann na scéimeanna sin tacaíocht do chónaitheoirí de ghnáth chun forbairt a dhéanamh ar a gcuid scileanna agus ar a gcumas chun iad féin a bhunú i dteach agus aghaidh a thabhairt ar aon saincheisteanna a d’fhéadfadh tithíocht fhadtéarmach a dhéanamh neamh-inbhuanaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Transitional housing is always time-limited and usually ranges from 6 months to 2 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann teorainn ama le tithíocht idirthréimhseach i gcónaí agus maireann sí idir 6 mhí agus 2 bhliain de ghnáth</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some projects focus on particular groups, such as rough sleepers; single parents; young people leaving State residential care</seg></tuv>
+  <tuv xml:lang="ga"><seg>Díríonn roinnt tionscadal ar ghrúpaí ar leith, ar nós daoine atá ag codladh amuigh; tuismitheoirí singile; daoine óga ag fágáil cúram cónaithe Stáit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The services vary from project to project but are directly linked to the needs of residents</seg></tuv>
+  <tuv xml:lang="ga"><seg>Athraíonn na seirbhísí ó thionscadal go tionscadal ach bíonn nasc díreach acu le riachtanais na gcónaitheoirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They can include individual needs analysis; personal planning and support; court support; outreach; family support; counselling; advocacy; prison community links; education and employment support; and life skills training programmes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leo na nithe seo a leanas a áireamh: anailís ar riachtanais aonair; pleanáil agus tacaíocht phearsanta; tacaíocht chúirte; for-rochtain; tacaíocht do theaghlaigh; comhairleoireacht; abhcóideacht; naisc phobail phríosúin; tacaíocht oideachais agus fostaíochta; agus cláir oiliúna um scileanna saoil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These transitional housing projects can only be accessed through referrals from other agencies</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir rochtain ar na tionscadail tithíochta idirthréimhsí sin ach trí tharchur ó ghníomhaireachtaí eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Transitional housing is funded through local authorities and the Health Service Executive (HSE) or local organisations, depending on the type of project</seg></tuv>
+  <tuv xml:lang="ga"><seg>Maoinítear tithíocht idirthréimhseach trí údaráis áitiúla agus trí Fheidhmeannacht na Seirbhíse Sláinte (FSS) nó eagraíochtaí áitiúla, ag brath ar an gcineál tionscadail</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Residents pay a weekly charge towards their accommodation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocann cónaitheoirí muirear seachtainiúil i dtaobh a gcóiríochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Settlement services work with people who are homeless to help them to move from homelessness and into long-term, sustainable housing</seg></tuv>
+  <tuv xml:lang="ga"><seg>Oibríonn seirbhísí lonnaíochta le daoine atá gan dídean chun cabhrú leo bogadh ón easpa dídine agus isteach i dtithíocht inbhuanaithe fhadtéarmach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They carry out assessments and draw up a settlement plan with each person</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann siad measúnuithe agus dréachtaíonn siad plean lonnaíochta le gach duine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They provide support, advocacy and other assistance in accessing accommodation and preparation for independent living</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann siad tacaíocht, abhcóideacht agus cúnamh eile ar fáil agus iad ag rochtain ar chóiríocht agus ag ullmhú le haghaidh maireachtáil neamhspleách</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Post-settlement services provide time-limited tenancy support to people who have moved to their own accommodation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann seirbhísí iarlonnaíochta tacaíocht am-theoranta tionóntachta ar fáil do dhaoine a bhog chuig a gcóiríocht féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Long-term supported housing is for people who would not be able to live independently, due to problems like addiction or mental illness</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is do dhaoine nach mbeifeá in ann maireachtáil go neamhspleách de bharr fadhbanna ar nós andúile nó galar meabhrach atá tithíocht fhadtéarmach faoi thacaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They are offered a home for as long as is needed, with support as necessary</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tairgtear teach dóibh ar feadh na tréimhse ina bhfuil sé ag teastáil, agus tairgtear tacaíocht dóibh mar is gá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some projects target people with particular care needs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Spriocdhíríonn roinnt tionscadal ar dhaoine ag a bhfuil riachtanais chúraim ar leith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Many voluntary housing bodies (often called housing associations) offer long-term supported housing</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tairgeann roinnt mhaith comhlachtaí deonacha tithíochta (ar a dtugtar cumainn tithíochta go minic) tithíocht fhadtéarmach faoi thacaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Support to Live Independently (SLÍ) scheme provides long-term accommodation in mainstream housing, together with appropriate time-limited supports to make the transition from homelessness to independent living</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann an scéim um Thacaíocht do Mhaireachtáil Neamhspleách (SLI) cóiríocht fhadtéarmach i dtithíocht phríomhshrutha ar fáil i dteannta tacaí cuí am-theoranta chun an trasdul ón easpa dídine go maireachtáil neamhspleách a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is mainly designed for people who need low to moderate support and is provided through voluntary organisations</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé ceaptha go príomha do dhaoine a dteastaíonn idir méid íseal agus méid measartha tacaíochta uathu agus cuirtear ar fáil í trí eagraíochtaí deonacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your entitlement to social welfare payments is not affected by the fact of being homeless but you may have difficulty getting your payments mainly because of not having a permanent address</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní théann an fhíric go bhfuil tú gan dídean i bhfeidhm ar do theidlíocht i leith íocaíochtaí leasa shóisialaigh ach is féidir go mbeidh deacrachtaí agat maidir le d’íocaíochtaí a fháil, go príomha mar nach bhfuil seoladh buan agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may make any claims for payments such as Jobseeker’s Allowance or illness and disability payments in the normal way</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat aon éilimh ar íocaíochtaí amhail Liúntas Cuardaitheora Poist nó íocaíochtaí breoiteachta agus míchumais a dhéanamh ar an ngnáthbhealach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For Rent Supplement and other payments under the Supplementary Welfare Allowance Scheme, outside of Dublin and Cork, you apply in the normal way. If you are in Dublin or Cork, you apply at the relevant Homeless Persons Unit</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás daoine atá lonnaithe lasmuigh de Bhaile Átha Cliath agus de Chorcaigh, déan iarratas sa ghnáthbhealach ar Fhorlíonadh Cíosa agus ar íocaíochtaí eile Liúntais Leasa Fhorlíontaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Migrants: Most weekly means-tested payments require that you meet the habitual residence condition, but you do not need to satisfy this condition in order to get an Exceptional Needs Payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú i mBaile Átha Cliath nó i gCorcaigh, déan d'iarratas ag an Aonad do Dhaoine gan Dídean (HPU) cuí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To be eligible for Rent Supplement, you must either have been assessed by a local authority in the last 12 months as being qualified for social housing support – see ‘Social housing’ above – or else have been living for 6 months (183 days) out of the last 12 months in one, or a combination, of the following:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Le bheith incháilithe le haghaidh Forlíonadh Cíosa, is gá gur mheas údarás áitiúil le 12 mhí aníos go bhfuil tú cáilithe le haghaidh tacaíocht tithíochta sóisialta - féach ‘tithíocht shóisialta’ thuas - nó go raibh tú i do chónaí ar feadh 6 mhí (183 lá) as an 12 mhí anuas i gceann amháin, nó i gcomhcheangal, de na nithe seo a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Accommodation for homeless people</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cóiríocht do dhaoine gan dídean</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• An institution – for example, a hospital, care home or place of detention</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Foras - mar shampla, ospidéal, teach cúraim nó ionad coinneála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can combine time living in more than one rented accommodation to satisfy the 6 months (183 days)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat am ina raibh tú i do chónaí i níos mó ná cóiríocht ar cíos amháin a chomhcheangal leis na 6 mhí (183 lá) a chomhlíonadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must be able to show that you could afford the rent at the beginning of your tenancy and that you could have continued to pay rent but are unable to do so because of a change in your circumstances which occurred after you started renting</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit a bheith ábalta a thaispeáint go raibh sé ar d’acmhainn an cíos a íoc ag tús do thionóntachta agus go bhféadfá leanúint de chíos a íoc ach níl tú ábalta déanamh amhlaidh de bharr athraithe ar do chúinsí a tharla tar éis duit an chóiríocht a fháil ar cíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There may be flexibility in cases where landlords seek rents that are above the Rent Supplement limits. This applies to existing tenants and to new Rent Supplement applicants</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann Threshold Seirbhís Cosanta Tionóntachta ar fáil le haghaidh daoine a bhfuil Forlíonadh Cíosa á fháil acu ach atá i mbaol a mbaile a chailleadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The circumstances of tenants are considered on a case-by-case basis and rents increased above the set limits as appropriate</seg></tuv>
+  <tuv xml:lang="ga"><seg>I mBaile Átha Cliath amháin a bhi an tseirbhís seo ar dtús, ach leathnaíodh í ansin go cathair Chorcaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Contact the local office that administers your Rent Supplement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léigh a thuilleadh mar gheall ar an tseirbhís seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In addition, the Department of Social Protection, in conjunction with Threshold, operates a special protocol in areas where supply issues are particularly acute</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna bhfuil tú i mBaile Átha Cliath ná i gCorcaigh, déan teangmháil leis an oifig a riarann d'Fhorlíonadh Cíosa, chomh tapaidh agus is féidir leat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Other payments under the Supplementary Welfare Allowance scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocaíochtaí eile faoin scéim um Liúntas Leasa Forlíontach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As well as Rent Supplement, the Supplementary Welfare Allowance scheme also includes a basic weekly payment and some discretionary payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Anuas ar an bhForlíonadh Cíosa, áirítear leis an scéim um Liúntas Leasa Forlíontach íocaíocht bhunúsach sheachtainiúil agus roinnt íocaíochtaí lánroghnacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may qualify for the weekly payment if you are not entitled to any other social welfare payment or if you are waiting for your claim for any other payment to be processed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú cáiliú le haghaidh na híocaíochta seachtainiúla mura bhfuil tú i dteideal aon íocaíochta leasa shóisialaigh eile nó má tá tú ag fanacht go dtí go bpróiseáiltear d’éileamh ar aon íocaíocht eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may qualify for a discretionary payment if you are in need</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú cáiliú le haghaidh íocaíocht lánroghnach má tá tú i ngátar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The one most immediately relevant for homeless people is an Exceptional Needs Payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>An ceann atá is ábhartha ar dtús do dhaoine gan dídean is ea Íocaíocht Riachtanas Eisceachtúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is a one-off payment that you may get if you have unforeseen expenses such as clothing, travel, rent deposit or costs relating to setting up a home that you could not reasonably be expected to meet from your weekly income</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é atá i gceist ann ná íocaíocht aonuaire a fhéadfaidh tú a fháil más rud é go bhfuil speansais nach rabhthas ag súil leo agat amhail éadach, taisteal, éarlais chíosa nó costais a bhaineann le teach a shocrú nach bhféadfaí a bheith ag súil le réasún go n-íocfá ó d’ioncam seachtainiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>See our document on agencies providing services for homeless people for details of where to apply for the various supports outlined above</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féach inár gcáipéis Gníomhaireachtaí a sholáthraíonn seirbhísí do dhaoine gan dídean chun a fháil amach cén áit a ndéanfar iarratas ar na tacaíochtaí thuas</seg></tuv>
+</tu>
+</body>
+</tmx>

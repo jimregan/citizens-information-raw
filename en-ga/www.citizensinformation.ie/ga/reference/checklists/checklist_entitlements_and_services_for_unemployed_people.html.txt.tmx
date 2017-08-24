@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>If you are unemployed or are about to lose your job you can use these lists and links to check out the main services and entitlements for your situation.   You can also find this information on the Citizens Information Board website, gettingbacktowork.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú dífhostaithe nó má tá tú ar tí do phost a chailleadh, féadfaidh tú na liostaí agus na naisc seo a úsáid chun súil a chaitheamh ar na príomhsheirbhísí agus teidlíochtaí atá ar fáil duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The headings in the left hand column of each section link to general documents on the subject, and those in the right hand column link to details of specific payments or services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá nasc idir na teidil sa cholún ar chlé de gach mír le roinnt cáipéisí faoin ábhar, agus tá nasc idir iad siúd sa cholún ar dheis le sonraí faoi íocaíochtaí nó seirbhísí sonracha</seg></tuv>
+</tu>
+</body>
+</tmx>

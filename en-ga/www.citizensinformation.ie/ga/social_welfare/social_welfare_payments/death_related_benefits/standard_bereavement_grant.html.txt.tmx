@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>The Bereavement Grant was a once-off payment to help with funeral costs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocaíocht aon uair amháin í an Deontas Méala chun cabhrú le costais sochraide</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Eligibility for this grant was not related to your ability to pay for the funeral</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhaineann an deontas seo le d'acmhainn íoc as an tsochraid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Eligibility was usually based on PRSI contributions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé bunaithe de ghnáth ar ranníocaíochtaí ÁSPC</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A Bereavement Grant is paid on the death of:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun a bheith i dteideal an deontais seo:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• An insured person • The spouse or civil partner of an insured person</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Caithfidh an duine básaithe idir an 2ú Feabhra 1999 ó 1 Éanair 2014</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A spouse or civil partner of a contributory pensioner, • The qualified adult or qualified child of a contributory pensioner • An orphan who was getting Guardian's Payment (Contributory) or on the death of their guardian</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Caithfidh an iarrthóir a bheith faoi árachas nó a bheith pósta/i bpáirtnéireacht shibhialta le nó ina p(h)áiste cleithiúnach ag duine faoi árachas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Note that if a pensioner qualifies for a contributory pension but chose to be paid a non-contributory pension at a higher rate, they or their spouse, civil partner or dependants are still eligible for a Bereavement Grant</seg></tuv>
+  <tuv xml:lang="ga"><seg>(San áireamh anseo tá seirbhísí Poiblí agus Sibhialta (árachas Rannóg B agus Rannóg D), daoine féin-fhostaithe (Rannóg S) agus Ranníocóirí Deonacha)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(This includes Class A, Civil and public servants (Class B and Class D insurance), self-employed people (Class S) and voluntary contributors.) • The deceased must either have a set number of contributions paid over a specified time period (see 'How to qualify using your social insurance record'), or have been getting one of a number of specified contributory social welfare payments or aged between 16 and 22 and getting Disability Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Caithfidh méid áirithe ranníocaíochtaí a bheith íocaithe ag an té a cailleadh thar tréimhse ama atá leagtha síos (féach 'Conas a cháilítear trí úsáid do thaifead árachais shóisialaigh' thíos), nó a bheith ag fáil ceann de íocaíochtaí áirithe leasa shóisialta atá leagtha síos, nó a bheith ag fáil Liúntas Míchumais agus a bhí idir 16 agus 22 bhliain d’aois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>How to qualify using your social insurance record</seg></tuv>
+  <tuv xml:lang="ga"><seg>Conas a cháilítear trí úsáid do thaifead árachais shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To qualify for the Bereavement Grant based on your social insurance contributions, you must have the following:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh tú na nithe seo a leanas a bheith agat anuas chun cáiliú o thaobh an Dheontais Méala go n-úsáidtear do ranníocaíochtaí árachais shóisialaigh:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• At least 156 weeks paid PRSI contributions since you began insurable employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>• 156 seachtaine de ranníocaíochtaí ÁSPC a bheith íoctha agat ó thosach do fhostaíochta inárachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• At least 26 weeks paid PRSI since you began insurable employment (see Note below)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• 26 seachtaine de ranníocaíochtaí ÁSPC ar a laghad a bheith íoctha agat ó thosach do fhostaíochta inárachais (féach Nóta thios)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have at least 26 weeks paid PRSI contributions since you began insurable employment, you must also have:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá 26 seachtaine de ranníocaíochtaí ÁSPC ar a laghad íoctha agat ó thosach do fhostaíochta inárachais, caithfidh tú an ní seo a leanas a bheith agat:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• 39 weeks paid or credited PRSI contributions in the relevant tax year</seg></tuv>
+  <tuv xml:lang="ga"><seg>• 39 seachtainí ÁSPC íoctha nó creidiúnaithe sa bhliain chánach chuí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A yearly average of 39 weeks paid or credited over the 3 or 5 tax years before the relevant tax year</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Meán bliantúil de 39 seachtainí ÁSPC íoctha nó creidiúnaithe thar an 3 nó 5 bliana cánach roimh an bhliain chánach chuí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A yearly average of 26 weeks paid or credited PRSI contributions between 1979 (or starting work if later) and the end of the tax year before the person died or reached pension age, (age 66 at present)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Meán bliantúil de 26 seachtainí ÁSPC íoctha nó creidiúnaithe idir 1979 agus deireadh na bliana cánach roimh an mbás nó roimh a bhain sé/sí aois an phinsin amach (sin aois 66 faoi láthair)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A yearly average of 26 weeks paid PRSI or credited contributions between 1 October 1970 (or since starting work if later) and the end of the tax year before the person died or reached pension age (age 66 at present)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Meán bliantúil de 26 seachtainí ÁSPC íoctha nó creidiúnaithe ón 1 Deireadh Fómhair 1970 (nó ó thosaigh an duine ag obair más ina dhiaidh sin é) agus deireadh na bliana cánach roimh an mbás nó roimh a bhain sé/sí aois an phinsin amach (sin aois 66 faoi láthair)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This was a once-off payment of €850</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocaíocht aon-uaire is ea an Deontas Méala dar luach €850</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The grant is paid by direct payment to an account in a financial institution</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íoctar an deontas díreach isteach i gcuntas in institiúid airgeadais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Department of Social Protection</seg></tuv>
+  <tuv xml:lang="ga"><seg>An Roinn Coimirce Sóisialaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Opening Hours:This office does not offer a service to personal callers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Uaireanta Oscailte:Ní thairgeann an oifig seo seirbhís do chuairteoirí pearsanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All queries must be made using the online enquiry form, by telephone or in writing</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh gach ceist a bheith cur isteach tríd an fhoirm fiosraithe ar líne a úsáid, tríd an teileafón nó i scríbhinn</seg></tuv>
+</tu>
+</body>
+</tmx>

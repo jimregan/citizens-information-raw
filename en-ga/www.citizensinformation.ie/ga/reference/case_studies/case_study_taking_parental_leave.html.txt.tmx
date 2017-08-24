@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Case study: Taking parental leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cás-staidéar: saoire thuismitheoirí a thógáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>John and Mary want to take parental leave in respect of their son Michael, who is 5 years old</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is mian le John agus Mary saoire thuismitheoirí a thógáil maidir lena mac Michael, atá 5</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>John has been working for his employer for 9 months and wants to take the leave in 2 months' time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá John ag obair dá fhostóir le 9 mí anuas agus is mian leis an saoire a thógáil i gceann 2 mhí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The employer has told John that he cannot spare him at this time and anyway, he is not entitled to parental leave as he hasn't been working for him for a year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé ráite ag an bhfostóir le John nach féidir é a spáráil ag an am seo agus ar chaoi ar bith, nach bhfuil sé i dteideal do shaoire thuismitheoirí toisc nach bhfuil sé ag obair dó fós ar feadh bliana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>John's employer is correct about the length of service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá fostóir John ceart faoin tréimhse seirbhíse</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>After 3 months' service, an employee is entitled to reduced parental leave if the child is nearing the upper age limit</seg></tuv>
+  <tuv xml:lang="ga"><seg>I ndiaidh trí mhí seirbhíse, tá John i dteideal saoire thuismitheoirí laghdaithe má tá an leanbh ag druidim i dtreo aois an uasteorainn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Since the child will not be 8 for another 3 years however, this will not apply to John's claim</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cibé ar bith, os rud é nach mbeidh an leanbh 8 ar feadh 3 bliana eile, ní bhainfidh sé seo le hiarratas John</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>John should consider taking his leave when he has one year's service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir do John smaoineamh faoin saoire thuismitheoirí a thógáil nuair atá bliain amháin seirbhíse aige</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>John's employer could postpone the leave then on the grounds of for example, the nature of John's duties</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh fostóir John ansin an saoire a chuir siar ar chúiseanna áirithe, mar shampla, nádúr na ndualgas atá ag John</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Unless John is involved in work with a seasonal variation however, the leave could only be postponed once for up to 6 months</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cibé ar bith, mura bhfuil John bainteach le hobair ina mbíonn athrú séasúrach, ní féidir an saoire a chuir siar ach uair amháin suas chomh fada le 6 mhí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Mary has been with her employer for 15 months</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Mary ag obair lena fostóir ar feadh 15 mí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Her employer says that parental leave is only for emergencies and in any case, it doesn't apply if the employee has already had 18 weeks' maternity leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>Deir a fostóir go mbaineann saoire thuismitheoirí le cásanna éigeandála amháin agus ar chaoi ar bith, ní bhaineann sí má tá saoire mháithreachais de 18 seachtainí cheana féin tógtha ag an bhfostaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>No, Mary's employer is mistaken</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl, tá fostóir Mary mícheart</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Parental leave is not confined to emergency situations and the only stipulation is that the parent uses the leave to care for the child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl saoire thuismitheoirí srianta do chásanna éigeandála agus an coinníoll amháin atá i gceist ná go n-úsáideann an tuismitheoir an saoire chun cúram a thabhairt dá leanbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Mary's employer may be confusing parental leave with force majeure leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh go bhfuil fostóir Mary measctha suas idir saoire thuismitheoirí agus saoire force majeure</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Furthermore, the fact that Mary took maternity leave does not affect parental leave as they are completely separate types of leave set down by different laws</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, níl aon éifeacht ag an saoire mháithreachais a thóg Mary ar a saoire thuismitheoirí, toisc gur cineálacha saoire go hiomlán ar leith iad, atá leagtha síos ag dlithe difriúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As a first step, Mary should give her employer at least 6 weeks' written notice of her intention to take parental leave, the starting date and duration</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar thús, ba chóir do Mary ar a laghad 6 seachtainí fógra scríofa a thabhairt dá fostóir ag cur in iúl go bhfuil sé ar intinn aici saoire thuismitheoirí a thógáil, mar aon leis an dáta tosaigh agus fad an tsaoire</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Mary should keep a copy of this notice</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir do Mary cóip den bhfógra seo a choinneáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If she has continuing difficulties with her employer, Mary should make a complaint to the Workplace Relations Commission using the online complaint form available on workplacerelations.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá deacrachtaí leanúnacha aici lena fostóir, ba chóir do Mary gearáin a chur faoi bhráid an Choimisiúin um Chaidreamh san Áit Oibre tríd an fhoirm ghearáin ar líne a úsáid á fáil ar workplacerelations.ie</seg></tuv>
+</tu>
+</body>
+</tmx>

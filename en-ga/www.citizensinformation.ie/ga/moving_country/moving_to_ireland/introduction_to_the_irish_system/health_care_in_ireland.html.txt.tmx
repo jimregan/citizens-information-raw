@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Public health care for people coming to Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cúram sláinte phoiblí do dhaoine a thagann go hÉirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are a national of the European Economic Area (EEA) or Switzerland, or if you are normally resident in Ireland, you are entitled to receive the same level of health care as Irish citizens</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más saoránach de cheann de bhallstáit an LEE tú nó den Eilvéis, nó má tá gnáthchónaí ort in Éirinn, tá tú i dteideal an leibhéil chéanna cúram sláinte atá ar fáil do shaoránaigh Éireannacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Depending on your income, you may be eligible for a medical card, which entitles you to the full range of medical services at no cost</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag brath ar d'ioncam, d'fhéadfadh sé go mbeadh tú i dteideal cárta leighis a chuireann an réimse iomlán seirbhísí leighis ar fáil duit saor in aisce</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are not from an EEA member state or Switzerland, you will be entitled to certain services free of charge and you will have to pay for the remainder</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más saoránach neamh-LEE tú beidh tú ina theideal cuid de na seirbhísí a fháil in aisce agus beidh ort íoc as an gcuid eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are coming to live, work, study or retire in Ireland you can find out more information on eligibility for public health services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ag teacht chun cónaí, oibriú, staidéir nó ar phinsean go hÉirinn is féidir tuilleadh eolais a fháil maidir le bheith i dteideal seirbhísí leighis phoiblí anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are coming to Ireland on holiday or on a short stay (for example, on business), you can read more information on health services for visitors to Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más ar saoire atá tú in Éirinn nó ar chuairt ghairid (mar shampla, ar ghnó) is féidir tuilleadh eolais a fháil ar sheirbhísí leighis do chuairteoirí anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Private health care for people coming to Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cúram sláinte phríobháideach do dhaoine a thagann go hÉirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In addition to the public health system, people in Ireland can avail of a range of private health care services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa bhreis ar an gcóras sláinte phoiblí is féidir le daoine in Éirinn teacht ar réimse leathan seirbhísí leighis phríobháideacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must pay the full costs of treatment if you opt for private health care</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má roghnaíonn tú cúram sláinte phríobháideach beidh ort íoc as an gcúram ina iomlán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are a number of private health insurance companies in Ireland. Providers include VHI Healthcare, Laya Healthcare, Irish Life Health and HSF Health Plan (does not provide cover for hospital in-patient costs)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá líon chomhlacht a chuireann árachas sláinte phríobháideach ar fáil in Éirinn - VHI, Laya Healthcare, Irish Life Health agus HSF Health Plan (níl aon chumhdach costais ospidéil d'othair chónaitheach)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As long as you are from the EEA or Switzerland or normally resident in Ireland, you are entitled to the same benefits from your private health insurance with any of these companies as any other Irish citizen</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más saoránach den LEE nó den Eilvéis thú nó má tá gnáthchónaí ort in Éirinn tá tú i dteideal na sochar céanna ó cheachtar den dá chomhlacht árachais sláinte phríobháideach seo agus a fhaigheann saoránach ar bith Éireannach eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Since 16 October 2013, up to €1,000 for adults and €500 for children of your private health insurance premium attracts tax relief at the standard rate (20%)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá faoiseamh cánach ag an ngnáthráta (20%) ar fáil ar an táille a íocann tú ar árachas sláinte príobháideach, suas go €1,000 do dhaoine fásta agus €500 do leanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This tax relief is deducted at source by the health insurance provider</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann an comhlacht árachais an faoiseamh cánach ar fáil iad féin</seg></tuv>
+</tu>
+</body>
+</tmx>

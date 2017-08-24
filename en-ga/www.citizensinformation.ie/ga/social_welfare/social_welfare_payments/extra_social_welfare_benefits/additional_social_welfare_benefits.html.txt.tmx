@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Extra social welfare benefits</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sochair bhreise leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are getting a social assistance payment or a social insurance payment from the Department of Social Protection you may be entitled to additional or extra benefits depending on your personal circumstances</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ag fáil íocaíocht leasa shóisialaigh nó íocaíocht árachais shóisialta ón Roinn Coimirce Sóisialaí, b’fhéidir, ag brath ar do chúinsí pearsanta, go mbeifeá i dteideal sochair bhreise a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In some cases, you can get a benefit even if you are not getting a social welfare payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun sochar breise a fháil, ní mór duit na critéir cháilíochta a shásamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, everyone over 66 is entitled to a Free Travel Pass</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, le go bhfaighfeá an Méadú do Chónaí Aonair, ní mór duit íocaíocht áirithe leasa shóisialaigh a fháil agus bheith i do chónaí i d’aonar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To get an extra benefit you must satisfy the qualifying criteria</seg></tuv>
+  <tuv xml:lang="ga"><seg>I roinnt cásanna, gheobhaidh tú sochar breise go huathoibríoch</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, to get the Living Alone Increase you must be getting a certain social welfare payment and be living alone</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, má fhaigheann tú Pinsean Míchumais, gheobhaidh tú Pas Taistil Saor in Aisce</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In some cases you automatically get an additional benefit. For example, if you get Invalidity Pension you automatically get a Free Travel Pass</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní foláir duit iarratas ar leith a dhéanamh le haghaidh gach sochair, áfach, chun go bhfaighfeá formhór na sochar breise</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may be entitled to the following additional social welfare benefits:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá íocaíocht leasa shóisialaigh á fáil agat, b’fhéidir go mbeifeá i dteideal na sochair bhreise leasa shóisialaigh seo a leanas a fháil:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Fuel Allowance is an allowance that provides help with the cost of fuel to people who are dependant on long-term social welfare payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Méadú do Chónaí Aonair. Is íocaíocht fhorlíontach í do dhaoine atá ag fáil íocaíochtaí áirithe leasa shóisialaigh agus atá ina gcónaí ina n-aonar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Household Benefits Package is a package of benefits that provides financial assistance with the cost of some household utilities</seg></tuv>
+  <tuv xml:lang="ga"><seg>Pacáiste Sochar Teaghlaigh Seo pacáiste sochar a thugann cúnamh airgid maidir le costas fóntais áirithe teaghlaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It includes an Electricity or Gas Allowance and a Free Television Licence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áirítear ann Liúntas Leictreachais nó Gáis agus Ceadúnas Teilifíse Saor in Aisce</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Supplementary Welfare Allowance Scheme consists of a basic payment, called Supplementary Welfare Allowance, and other financial supplements for certain expenses you may not be able to meet, including emergency situations</seg></tuv>
+  <tuv xml:lang="ga"><seg>Pas Taistil Saor in Aisce Ceadaíonn sé seo do dhaoine atá ag fáil íocaíochtaí áirithe leasa shóisialaigh seirbhísí iompair phoiblí a rochtain saor in aisce</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These include Rent Supplement, Back to School Clothing and Footwear Allowance, and Heating Supplements</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú i do chónaí ar oileán sonrach amach ó chósta na hÉireann, tig leat seirbhísí príobháideacha iompair áirithe a rochtain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Free Travel Pass allows people on certain social welfare payments to access public transport services for free. If you live on a specified island off the Irish coast you can access certain private transport services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Liúntas Breosla Is liúntas é seo a thugann cabhair maidir le costas breosla do dhaoine atá ag brath ar íocaíochtaí fadtréimhseacha leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Living Alone Increase is a supplementary payment for people getting certain social welfare payments who are living alone</seg></tuv>
+  <tuv xml:lang="ga"><seg>Méadú Oileáin Is íocaíocht fhorlíontach í seo le haghaidh daoine atá ag fáil íocaíochtaí áirithe leasa shóisialaigh agus atá ina gcónaí ar oileáin shonracha amach ó chósta na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Island Increase is a supplementary payment for people getting certain social welfare payments and living on specified islands off the coast of Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina measc seo tá Fordheontas ar Cíosa, Liúntas Éadaí &amp; Coisbhirt don Scoilbhliain Nua, Fordheontas Aiste Bia agus Fordheontas Teasa</seg></tuv>
+</tu>
+</body>
+</tmx>

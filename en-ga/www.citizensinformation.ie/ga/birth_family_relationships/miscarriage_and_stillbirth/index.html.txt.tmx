@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>It's possible to register the birth of a stillborn child. Find out how and where to apply</seg></tuv>
+  <tuv xml:lang="ga"><seg>Imlíne ar conas cur isteach ar theastas marbh-bhreithe in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is a range of services in Ireland available to those who have lost a baby through miscarriage, stillbirth, neonatal death and Sudden Infant Death Syndrome</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féachann an cáipéis seo ar anabaíocht, marbhbhreith, bás neo-naíoch agus Shiondróm Bhás Tobann Naíonán, ó thaobh na seirbhísí atá ar fáil in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most Read in "Family and Relationships"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ábhar is mó éilimh i "Teaghlach agus Caidrimh"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Registrars of Births, Marriages and Deaths</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leanaí agus cearta in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Barring, safety and protection orders</seg></tuv>
+  <tuv xml:lang="ga"><seg>Orduithe Urchoisc, Sábháilteachta agus Cosanta</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>President - Summoning and dissolving the Dáil</seg></tuv>
+  <tuv xml:lang="ga"><seg>An tUachtarán - an Dáil a chomóradh agus a lánscoir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Following a general election, Dáil Éireann is summoned by the Irish President on the advice of the Taoiseach (the Prime Minister)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tar éis olltoghcháin, déanann an tUachtarán Dáil Éireann a chomóradh ar chomhairle an Taoisigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The President must follow the advice of the Taoiseach</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don Uachtarán glacadh le comhairle an Taoisigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The President also has the power to dissolve or end the Dáil on the advice of the Taoiseach</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis an Uachtarán an Dáil a lánscoir ar chomhairle an Taoisigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the Taoiseach has the support of the majority of Dáil Eireann, the President cannot refuse to dissolve it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tacaíocht tromlach na dTeachtaí i nDáil Éireann ag an Taoiseach, ní féidir leis an Uachtarán diúltú an Dáil a lánscoir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the Taoiseach no longer has the support of the majority of Dáil Éireann and they advise the President to dissolve the Dáil, the President may refuse</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna bhfuil tacaíocht tromlach na dTeachtaí i nDáil Éireann ag an Taoiseach a thuilleadh agus má iarrann sé/sí ar an Uachtarán an Dáil a lánscoir, is féidir leis an Uachtarán diúltú é sin a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the President refuses to dissolve the Dáil, the members of the Dáil must then nominate an alternative Government</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhiúltaíonn an tUachtarán an Dáil a lánscoir ní mór ansin do theachtaí na Dála Rialtas eile a mholadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Since the foundation of the State, this power of refusal has never been exercised</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níor tharla sé ariamh gur dhiúltaigh Uachtarán an Dáil a lánscoir</seg></tuv>
+</tu>
+</body>
+</tmx>

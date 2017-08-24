@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>There are a number of agencies and bodies that have a role in delivering health services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá líon gníomhaireachtaí agus comhlachtaí ann a bhfuil ról acu maidir le seirbhísí sláinte a sholáthar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some are involved in delivering services while others are regulatory and/or advisory</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann cuid díobh le seirbhísí a sholáthar agus is gníomhaireachtaí agus comhlachtaí rialála agus/nó comhairleacha cuid eile díobh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are currently 2 bodies in the health area which are the joint responsibility of the governments of Northern Ireland and Ireland, see Island of Ireland below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá 2 chomhlacht ann faoi láthair sa limistéar sláinte a bhfuil rialtais Thuaisceart Éireann agus na hÉireann comhfhreagrach astu, féach ‘Oileán na hÉireann’ thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most healthcare is provided within the main structure of the Health Service Executive (HSE)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Soláthraítear an chuid is mó den chúram sláinte laistigh de phríomhstruchtúr Fheidhmeannacht na Seirbhíse Sláinte (FSS)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Other agencies which it supports are listed below, as well as websites dealing with specific health issues</seg></tuv>
+  <tuv xml:lang="ga"><seg>Liostaítear thíos gníomhaireachtaí eile lena dtacaíonn siad, mar aon le gach láithreán gréasáin a dhéileálann le saincheisteanna sonracha sláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Agencies under the remit of the Department of Health</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gníomhaireachtaí faoi shainchúram na Roinne Sláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>CORU, the Health and Social Care Professional Council</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bord Altranais agus Cnáimhseachais na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Health Information Quality Authority</seg></tuv>
+  <tuv xml:lang="ga"><seg>Údarás Sábháilteachta Bia na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Health Products Regulatory Authority</seg></tuv>
+  <tuv xml:lang="ga"><seg>An tÚdarás Árachais Sláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Irish Blood Transfusion Service</seg></tuv>
+  <tuv xml:lang="ga"><seg>An Bord Taighde Sláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>National Paediatric Hospital Development Board</seg></tuv>
+  <tuv xml:lang="ga"><seg>Clárlann Náisiúnta Ailse na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>National Treatment Purchase Fund</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bord Forbartha an Ospidéil Náisiúnta Phéidiatraicigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Nursing and Midwifery Board of Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>An Ciste Náisiúnta um Cheannach Cóireála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Pharmaceutical Society of Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cumann Cógaiseoirí na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Pre-Hospital Emergency Care Council</seg></tuv>
+  <tuv xml:lang="ga"><seg>An Chomhairle um Chúram Éigeandála Réamhospidéil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Also the VHI, which is a commercial State body</seg></tuv>
+  <tuv xml:lang="ga"><seg>Agus an VHI, ar comhlacht tráchtála Stáit iad</seg></tuv>
+</tu>
+</body>
+</tmx>

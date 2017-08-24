@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>The European Commission is based in Brussels in Belgium</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Coimisiún na hEorpa bunaithe sa Bhruiséal, sa Bheilg</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It also has offices in Luxembourg, representations in all EU countries and delegations in many capital cities around the world</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá oifigí ag an gCoimisiún freisin sa Lucsamburg; ionadaíocht i ngach tír den AE agus toscaireachtaí i go leor príomhchathracha ar fud an domhain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is made up of 28 Commissioners, one from each Member State</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá 28 Coimisinéirí air, ceann ó gach Ballstát</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Commission has a number of important functions:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá roinnt feidhmeanna tábhachtacha ag an gCoimisiún:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The Commission initiates legislation</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cuireann an Coimisiún tús le reachtaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It makes proposals for European laws, which are sent to the Council and European Parliament for amendment and approval</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann sé moltaí do Dhlíthe na hEorpa, a cuirtear chuig an gComhairle agus chuig Parlaimint na hEorpa le leasú agus le ceadú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The Commission acts as a guardian of the EU treaties</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Feidhmníonn an Coimisiún mar choimirceoir conarthaí an AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It ensures that EU legislation is applied by all Member States</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann sé cinnte go bhfuil reachtaíocht an AE curtha i bhfeidhm i ngach Ballstát</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It can institute proceedings against Member States or businesses that fail to comply with EU law</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis an dlí a chur ar Bhallstáit nó ar ghnónna nach gcloíann le dlí na hEorpa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The Commission acts as an executive body - it manages policies and the annual budget</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Údarás feidhmiúcháin atá ann - déanann sé bainistiú ar pholasaithe agus ar an mbuiséad bliantúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The Commission represents the EU on the international stage</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Déanann an Coimisiún ionadaíocht ar son an AE go hidirnáisiúnta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It negotiates trade and co-operation agreements with non-EU countries</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann sé i gcrích comhaontuithe trádála agus comhoibrithe le tíortha taobh amuigh den AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The President of the Commission is nominated by common agreement of the Governments of the Member States after consultation with the European Parliament</seg></tuv>
+  <tuv xml:lang="ga"><seg>Aontaíonn Rialtais na mBallstát ar dhuine le n-ainmniú mar Uachtarán an Choimisiúin tar éis dul i gcomhairle le Parlaimint na hEorpa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Once the President is nominated, the other members of the Commission are selected and agreed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair atá an tUachtarán ainmnithe, déantar baill eile an Choimisiúin a roghnú agus a aontú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In practice, the Government of each Member State nominates a Commissioner according to its own selection procedure</seg></tuv>
+  <tuv xml:lang="ga"><seg>I ndáiríre, ainmníonn Rialtas gach Ballstáit Coimisinéir ag brath ar a chóras roghnaithe féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that the Commission reflects a variety of talents and vocations such as politicians, lawyers, civil servants and academics</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin bíonn éagsúlacht taithí agus gairmeacha sa Choimisiún, polaiteoirí, dlíodóirí, státseirbhísigh agus daoine acadúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Parliament must then vote to approve the appointment of the President and the other members of the Commission</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór ansin don Pharlaimint vóta a chaitheamh le ceapachán an Uachtaráin agus baill eile an Choimisiúin a cheadú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the Parliament should refuse to appoint one or more of the Commissioners, the selection process must start again</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dá dtarlódh sé gur dhiúltaigh an Pharlaimint duine nó níos mó de na Coimisinéirí a cheapadh, ní mór don chóras roghnaithe tosú arís</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Members of the Commission are appointed for a renewable term of 5 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar baill an Choimisiúin a cheapadh ar feadh tréimhse inathnuaite de 5 bliana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The current Commission will be in office from 2014 to 2019</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mairfidh téarma oifige an Choimisiúin ó 2014 go dtí 2019</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The President of the Commission is appointed for a renewable 5 year term</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar Uachtarán an Choimisiúin a cheapadh ar feadh tréimhse inathnuaite de 5 bliana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Commissioners are given a portfolio which is his/her area of responsibility</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar dualgais do gach coimisinéir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is up to the President of the Commission to decide which Commissioner will be responsible for each policy area/portfolio and to reshuffle these responsibilities (if necessary) during the Commission's term of office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é Uachtarán an Choimisiúin a dhéanann an cinneadh cén cúram a thabharfar do gach Coimisinéir agus más gá atheagrú ar na cúraimí sin i rith téarma oifige an Choimisiúin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Commissioners act independently in the interests of the EU</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn Coimisinéirí ag feidhmiú go néamhspléach ar son leasa an AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They do not represent the interests of their own Member State</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní ar son leasa a mBallstát féin a bhíonn siad ag obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Each Commissioner appoints a cabinet of his/her own choice headed by the chef de cabinet</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceapann gach Coimisinéir comh-aireacht dá c(h)uid féin le chef de cabinet i gceannas air</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The cabinet consists of a small group of counsellors (usually about five) who assist him/her in the preparation of Commission decisions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Grúpa beag comhairleoirí atá sa chomh-aireacht (cúigear go hiondúil) a thugann cúnamh don Choimisinéir cinnithe den Choimisiún a ullmhú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As well as the cabinets, the Commission's personnel is organised into specialist departments called "Directorates General" which are in turn divided into Directorates and then into Units</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chomh maith leis na comh-aireachtaí tá foireann an Choimisinéara eagraithe i rannóga speisialta ar a dtugtar Príomh Stiúrthóireachtaí agus iad sin roinnte ina Stiúrthóireachtaí agus ansin ina nAonaid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>At the head of each department, there is a Director General responsible to the relevant Commissioner</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag ceann gach roinn tá Príomh Stiúrthóir atá freagrach don Choimisinéir Cuí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To assist the Commissioners in the performance of their duties, there is a staff of about 23,000 people employed and paid by the Commission</seg></tuv>
+  <tuv xml:lang="ga"><seg>Le cúnamh a chur ar fáil do na Coimisinéirí a ndualgais a chur i gcrích tá foireann oibre timpeall 23,000 fostaithe agus íoctha ag an gCoimisiún</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This staff comes from all of the Member States and includes language experts, lawyers, experts in particular fields such as agriculture or industry and administrative staff</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is as na Ballstáit ar fad a thagann an fhoireann oibre seo agus ina measc tá saineolaithe teanga, dlíodóirí, saineolaithe i réimsí faoi leith - mar shampla talmhaíocht nó tionscal - agus foireann riaracháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The entire Commission may be forced to resign en masse by the European Parliament</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le Parlaimint na hEorpa iachall a chur ar an gCoimisiún ina iomlán éirí as oifig</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Two-thirds of the votes cast and at least half of the MEPs must pass a motion of censure of the Commission</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór do dhá-thrian de na vótaí caite agus ar a laghad ½ de na Feisirí Eorpacha aontú le rún cáinte i dtaobh an Choimisiúin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Commission meets once a week to adopt proposals, finalise policy papers and make decisions. Decisions are taken by a simple majority vote</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn cruinniú uair amháin sa tseachtain ag an gCoimisiún le rúin a mholadh, páipéir pholasaithe a aontú agus le cinnithe a thógáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Once a decision is taken, it becomes Commission policy and has the full support of all Commissioners</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair atá cinneadh tógtha, glactar leis mar pholasaí an Choimisiúin agus bíonn lán-tacaíocht na gCoimisinéirí uilig aige</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The European Commission Representation in Ireland offers a public information centre with information on all aspects of Europe</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann Ionadaíocht an Choimisiúin Eorpaigh lárionad eolais poiblí ar fáil le faisnéis faoi gach gné den Eoraip</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further information on the European Commission is available on the Commission's website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh eolais ar an gCoimisiún Eorpach le fáil ar shuíomh idirlín an Choimisiúin</seg></tuv>
+</tu>
+</body>
+</tmx>

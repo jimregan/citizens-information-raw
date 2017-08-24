@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>The Home Renovation Incentive (HRI) scheme enables homeowners or landlords to claim tax relief on repairs, renovations or improvement work that is carried out on their main home or rental property by tax-compliant contractors and that is subject to 13.5% VAT. With effect from 1 January 2017, HRI has been extended to local authority tenants who have written consent from the local authority to carry out the works</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann an Dreasacht Athchóirithe Tí (DAT) ar chumas úinéirí tí agus tiarnaí talún faoiseamh cánach a éileamh ar dheisiúcháin, ar athchóirithe nó ar obair feabhsaithe a dhéanann conraitheoirí atá cáin-chomhlíontach ar a gcuid tithe, má tá an dreasacht sin faoi réir CBL ar ráta 13.5%</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The HRI is paid in the form of a tax credit at 13.5% of qualifying expenditure, which can be set against your income tax over 2 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íoctar an Dreasacht Athchóirithe Tí (DAT) i bhfoirm creidmheas cánach ar ráta 13.5% den chaiteachas cáilitheach, rud ar féidir é a chur i gcoinne do chánach ioncaim thar thréimhse dhá bhliain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This effectively reduces the rate of VAT to zero on qualifying work, up to a value of €30,000</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go h-éifeachtach, laghdaítear an ráta CBL go náid ar obair cháilitheach, suas go h-uasteorainn €30,000</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In order to qualify for the HRI, the work must be done between 25 October 2013 and 31 December 2018 for homeowners; between 15 October 2014 and 31 December 2018 for landlords; and between 1 January 2017 and 31 December 2018 for local authority tenants</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go ndéanfaí obair cháilitheach idir an 25 Deireadh Fómhair 2013 agus an 31 Nollaig 2018 (d'úinéirí príomháideacha) agus idir an 15 Deireadh Fómhair 2014 agus an 31 Nollaig 2018 (do thiarnaí talún). (D'athraigh Buiséad 2017 an spriocdháta seo ó 31 Nollaig 2016.)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To qualify for the HRI as an owner-occupier, the work must be carried out on your principal private residence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun cáiliú don DAT, agus tú i d’úinéir-áitritheoir, ní mór go ndéantar an obair ar do phríomháit chónaithe phríobháideach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As noted above, landlords can qualify in respect of work done on their rental properties, which must be registered with the Residential Tenancies Board</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar a dúradh thuas, féádfaidh tiarnaí talún an faoiseamh a éileamh i leith oibre a rinneadh ar mhaoin atá ar cíos acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must be paying income tax - whether under PAYE or self-assessment - to avail of the HRI</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is cuma an úinéirí príobháideach nó tiarna talún tú, ní mór duit bheith cothrom le dáta leis na hoibleagáidí atá ort faoin gCáin Mhaoine Áitiúil agus, más infheidhme, faoin Muirear Teaghlaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are a homeowner or a landlord, you must be up to date with your obligations under the Local Property Tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór cáin ioncaim a bheith á híoc agat – faoi ÍMAT nó faoi fhéinmheasúnú – chun gur féidir leat leas a bhaint as an DAT</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are a local authority tenant, you must get prior written consent from the local authority to carry out the works</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór d’aon chonraitheoir a úsáideann tú bheith cláraithe le haghaidh Cáin Bhreisluacha (CBL) in Éirinn agus ní mór dó bheith cáin-chomhlíontach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Any contractor you use must be registered for Value Added Tax (VAT) in Ireland and be tax-compliant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá ceisteanna do chonraitheoirí foilsithe ag na Coimisinéirí Ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Revenue has published FAQs for contractors. If several contractors, such as a builder, a plumber and an electrician, carry out qualifying work on your home or rental property, you can combine the cost of the works to make up the minimum qualifying amount – see 'Rates' below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má thugann roinnt conraitheoirí éagsúla, amhail tógálaí, pluiméir agus leictreoir, faoi obair cháilitheach ar do theach, is féidir leat costas na n-oibreacha a shuimiú chun an caiteachas cáilitheach íosta a bhaint amach – féach Rátaí thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The type of work that qualifies for the HRI is repair, renovation or improvement work that is subject to VAT at 13.5%</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an cineál oibre a cháilíonn don DAT ná obair dheisiúcháin, athchóirithe nó feabhsaithe atá faoi réir CBL ar ráta 13.5%</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This includes extensions, garages and attic conversions; the supply and fitting of kitchens, bathrooms and built-in wardrobes; fitting of windows; garden landscaping; plumbing, tiling, rewiring, plastering and painting</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áirítear leis an obair sin síntí, garáistí agus athchóirithe áiléir; cistineacha, seomraí folctha agus feistis ionsuite a sholáthar agus a fheistiú; fuinneoga a fheistiú; tírdhreachú gairdín; pluiméireacht, tíliú, athshreangú, plástráil agus péintéireacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are having your septic tank repaired or replaced, or are installing a radon gas mitigation solution, these types of work also qualify for the HRI</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá d’umar seipteach á dheisiú nó á athsholáthar, nó má tá réiteach maolaithe gás radóin á shuiteáil agat, cáilíonn na cineálacha sin oibre don DAT freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Work on driveways and on rainwater harvesting systems can also qualify</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le hobair ar chabhsáin agus ar chórais bhailiú baistí bheith cáilitheach freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are more examples of qualifying work on revenue.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh samplaí foilsithe ar revenue.ie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are unsure about whether your works will qualify, contact your Revenue office – see 'Where to apply' below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil tú cinnte faoi cé acu a cháileoidh nó nach gcáileoidh do chuid oibreacha, déan teagmháil le hoifig áitiúil na gCoimisinéirí Ioncaim– féach Cén áit ar féidir iarratas a dhéanamh thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Work that is subject to VAT at 23% (such as architect’s fees) is not covered</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl obair atá faoi réir CBL ar ráta 23% (ar nós táillí ailtirí) cuimsithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Neither are items such as furniture, white goods or carpets</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl earraí amhail troscán, earraí bána ná cairpéad cuimsithe ach oiread</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Homeowners: In general, the work must be carried out and paid for between 25 October 2013 and 31 December 2018</seg></tuv>
+  <tuv xml:lang="ga"><seg>Úinéirí tí: Go ginearálta, ní mór go ndéantar an obair agus go n-íoctar aisti idir an 25 Deireadh Fómhair 2013 agus an 31 Nollaig 2018</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Qualifying work between 25 October 2013 and 31 December 2013 is treated as if it was carried out and paid for in 2014</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfear le hobair cháilitheach a rinneadh idir an 25 Deireadh Fómhair 2013 agus an 31 Nollaig 2013 mar a dhéanfaí í agus mar a d’íocfaí aisti in 2014</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Landlords: In general, the work must be carried out and paid for between 15 October 2014 and 31 December 2018</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tiarnaí talún: Go ginearálta, ní mór go ndéantar an obair agus go n-íoctar aisti idir an 15 Deireadh Fómhair 2014 agus an 31 Nollaig 2018</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Qualifying work between 15 October 2014 and 31 December 2014 is treated as if it was carried out and paid for in 2015.   Local authority tenants: The work must be carried out and paid for between 1 January 2017 and 31 December 2018</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfear le hobair cháilitheach a rinneadh idir an 15 Deireadh Fómhair 2014 agus an 31 Nollaig 2014 mar a dhéanfaí í agus mar a d’íocfaí aisti in 2015</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Revenue has published general information about the HRI and specific information for homeowners and landlords, as well as a guide for homeowners and landlords (pdf) and a guide for contractors (pdf). There is also detailed information in Revenue's Tax and Duty Manual (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá faisnéis ghinearálta faoin DAT agus faisnéis shonrach d’úinéirí tí agus do thiarnaí talún foilsithe ag na Coimisinéirí Ioncaim, chomh maith le treoir d’úinéirí tí agus do thiarnaí talún (pdf) agus treoir do chonraitheoirí(pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The qualifying work must cost at least €4,405 before VAT at 13.5%, which comes to a total of €5,000 with VAT included</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór €4,405 ar a laghad a bheith ar an obair cháilitheach sula gcuirfear CBL ar ráta 13.5% leis, rud a thugann iomlán €5,000, agus CBL san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will only get the tax credit in relation to a maximum of €30,000 (before VAT) during the period covered by the HRI</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhfaighidh tú an creidmheas cánach ach amháin i ndáil le méid uasta €30,000 (roimh CBL) le linn na tréimhse atá cuimsithe ag an DAT</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The minimum credit is €595, based on the minimum qualifying expenditure of €4,405</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é €595 an creidmheas íosta, bunaithe ar an gcaiteachas cáilitheach íosta €4,405</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The maximum is €4,050, based on the maximum qualifying expenditure of €30,000</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é €4,050 an creidmheas uasta, bunaithe ar an gcaiteachas cáilitheach uasta €30,000</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are claiming a grant for the works, or if they are covered by an insurance claim, the amount of your expenditure that qualifies for HRI will be reduced</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá deontas á éileamh agat i gcomhair na n-oibreacha, nó má tá na hoibreacha cuimsithe ag éileamh árachais, laghdófar an méid de do chaiteachas a cháilíonn don DAT - féach Ceisteanna Coitianta na gCoimisinéirí Ioncaim le haghaidh tuilleadh sonraí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can claim the HRI tax credit after the end of the tax year if your qualifying expenditure has reached the minimum amount of €4,405 before VAT (a total of €5,000) and you have paid income tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat an creidmheas cánach DAT a éileamh tar éis dheireadh na bliana cánach má tá an méid íosta €4,405 roimh CBL (€5,000 san iomlán) bainte amach ag do chaiteachas cáilitheach agus má tá cáin ioncaim íoctha agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Any unused tax credit can be rolled over into the following year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir aon chreidmheas cánach neamhúsáidte a chur i bhfeidhm an bhliain ina dhiaidh sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In general, the tax credit is payable over the 2 years following the year in which the work is carried out and paid for</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, beidh an creidmheas cánach iníoctha thar an dá bhliain a leanann an bhliain ina ndearnadh an obair agus inar íocadh aisti</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are on PAYE, your HRI tax credit will be divided evenly across your pay dates for each of the 2 years that it is payable</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más cáiníocóir ÍMAT thú, cuirfear an méid den chreidmheas incheadaithe ar áireamh i do Dheimhnithe bliantúla Creidmheasa Cánach don dá bhliain a leanann an bhliain ina ndearnadh an obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are a self-assessed taxpayer, it will be included in your self-assessment over 2 years, half the tax credit each year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más cáiníocóir féinmheasúnaithe thú, cuirfear é san áireamh i do mheasúnú cánach don dá bhliain a leanann an bhliain ina ndearnadh an obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• For homeowners, 2015 was the first year in which you could claim a HRI credit</seg></tuv>
+  <tuv xml:lang="ga"><seg>B'í an bhliain 2015 an chéad bhliain ina raibh úinéirí príomháideacha in ann creidmheas DAT a éileamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• For landlords, 2016 was the first year in which you could claim a HRI credit</seg></tuv>
+  <tuv xml:lang="ga"><seg>B'í an bhliain 2016 an chéad bhliain ina raibh tiarnaí talún in ann creidmheas DAT a éileamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For you to be able to claim the HRI credit, your contractor(s) must enter details of the work on the HRI online administration system</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun go mbeidh tú in ann an creidmheas DAT a éileamh, ní mór do do chonraitheoir/chonraitheoirí sonraí na hoibre a chur isteach ar an gcóras riaracháin ar líne DAT</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This system is only accessible to contractors who are registered for VAT and are tax-compliant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl an córas sin ar fáil ach amháin do chonraitheoirí atá cláraithe do CBL agus atá cáin-chomhlíontach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Revenue advises applicants to log in to HRI online (see ‘Where to apply’ below) to check that their contractors have correctly entered details of the works and payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Molann na Coimisinéirí Ioncaim d’úinéirí tí agus dothiarnaí talún logáil isteach sa chóras ar líne DAT (féach 'Cá háit a ndéanfaidh mé iarratas' thíos) chun a sheiceáil go bhfuil sonraí na n-oibreacha agus na n-íocaíochtaí curtha isteach i gceart ag a gconraitheoirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Ensure that you have paid or arranged to pay any Local Property Tax (LPT) that is due</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cinntigh go bhfuil aon Cháin Mhaoine Áitiúil (CMÁ) nó aon Mhuirear Teaghlaigh atá dlite íoctha agat nó go bhfuil socrú déanta agat le iad a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Check that your contractor has a VAT number and is tax-compliant</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seiceáil go bhfuil uimhir CBL ag do chonraitheoir agus go bhfuil sé/sí cáin-chomhlíontach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Ensure that the work qualifies – see 'Qualifying work' above</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cinntigh go gcáilíonn an obair don DAT – féach 'Obair cháilitheach' thuas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Keep all supporting documentation – tax clearance certificates, estimates, receipts etc</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Coinnigh gach doiciméad tacaíochta – deimhnithe imréitigh cánach, meastacháin, fáltais etc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Give the contractor the LPT Property ID of your property but not your LPT PIN or your Personal Public Service Number</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tabhair Aitheantas Cháin Mhaoine Áitiúil do mhaoine do do chonraitheoir, ach ná tabhair d’Uimhir Aitheantais Phearsanta CMÁ ná d’Uimhir Phearsanta Seirbhíse Poiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To claim the HRI credit, use the HRI online system, which you access through Revenue’s myAccount service or through the Revenue Online Service (ROS)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun an creidmheas DAT a éileamh, bain úsáid as córas ar-líne DAT, atá le fáil trín tseirbhís myAccount nó trí ROS</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are a local authority tenant, you should contact your Revenue office for information.   If you need to check whether your work qualifies for the HRI, use the Revenue Contact Locator to locate your Revenue office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir Aimsitheoir Teagmhála na gCoimisinéirí Ioncaim a úsáid chun oifig áitiúil na gCoimisinéirí Ioncaim a aimsiú má theastaíonn tuilleadh faisnéise uait ar an DAT</seg></tuv>
+</tu>
+</body>
+</tmx>

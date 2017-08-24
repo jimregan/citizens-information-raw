@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>A dietitian (also known as a clinical nutritionist) is a health professional who is qualified to give accurate advice and information on all aspects of nutrition and diet</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gairmí sláinte atá i ndiaitéiteach (ar a dtugtar saineolaí cothaithe chomh maith) atá cáilithe le comhairle agus faisnéis chruinn a thabhairt maidir le gach gné den chothú agus den aiste bia</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Dietitians apply knowledge of food, nutrition and other related disciplines such as biochemistry, physiology and social science to promote health, prevent disease and aid in the management of illness</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann diaitéitigh eolas ar bhia, cothú agus disciplíní gaolmhara eile i bhfeidhm, ar nós na bithcheimice, na físeolaíochta agus na heolaíochta sóisialta chun sláinte a chur chun cinn, galair a chosc agus cabhrú le tinneas a bhainistiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may see a dietitian in a hospital (as an inpatient or outpatient) or in the community (at a clinic or in a care centre)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú casadh le diaitéiteach in ospidéal (mar othar cónaitheach nó seachtrach) nó sa phobal (ag clinic nó in ionad cúraim)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Dietetic services may be accessed on a public or private basis</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadtar seirbhísí diaitéiteacha a rochtain ar bhonn poiblí nó príobháideach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Dietitians are registered by CORU</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn diaitéiteach cláraithe ag CORU</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Dietetic services are available free of charge through the public health service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn seirbhísí diaitéiteacha ar fáil saor in aisce tríd an tseirbhís sláinte poiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, availability may vary in different areas of the Health Service Executive (HSE)</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh an fháil a bhíonn orthu i gceantair éagsúla Fheidhmeannacht na Seirbhíse Sláinte (FSS) a bheith éagsúil, áfach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you access services privately, you will be charged for the service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhaigheann tú rochtain ar sheirbhísí go príobháideach, gearrfar táille ort don tseirbhís</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may be able to reclaim costs if you have private health insurance</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfá bheith in ann costais a athéileamh má tá árachas sláinte príobháideach agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can be referred by a doctor, nurse or other health professional, or may be able to self refer</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh dochtúir, altra nó oibrí gairmiúil sláinte thú a atreorú, nó féadfaidh tú dul chucu tú féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This depends on local policy and you should contact your Local Health Office or health centre for more information</seg></tuv>
+  <tuv xml:lang="ga"><seg>Braitheann seo ar an mbeartas áitiúil agus ba cheart duit dul i dteagmháil le d’Oifig Sláinte Áitiúil nó le d’ionad sláinte chun teacht ar bhreis faisnéise</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can check the CORU register to find a registered dietitian in your area</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú clár CORU a sheiceáil chun teacht ar dhiaitéiteach i do cheantar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Irish Nutrition and Dietetic Institute is the professional organisation for dietitians in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad Institiúid Cothúcháin agus Diaitéitice na hÉireann an eagraíocht ghairmiúil do dhiaitéitigh in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It provides a facility to 'Find a Dietitian' on its website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann siad áis ‘Aimsigh Diaitéiteach’ ar fáil ar a láithreán gréasáin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Irish Nutrition and Dietetic Institute</seg></tuv>
+  <tuv xml:lang="ga"><seg>Institiúid Cothúcháin agus Diaitéitice na hÉireann</seg></tuv>
+</tu>
+</body>
+</tmx>

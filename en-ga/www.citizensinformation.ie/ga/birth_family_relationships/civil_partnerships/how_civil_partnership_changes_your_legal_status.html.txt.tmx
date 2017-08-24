@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>How civil partnership changes your legal status</seg></tuv>
+  <tuv xml:lang="ga"><seg>An chaoi a n-athraíonn páirtnéireacht shibhialta do stádas dlíthiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Civil partnership is a legally binding civil contract and gives rise to many far-reaching legal consequences which are generally similar to the legal consequences of getting married</seg></tuv>
+  <tuv xml:lang="ga"><seg>Conradh atá ina cheanglas dlíthiúil is ea páirtnéireacht shibhialta agus bíonn sí ina húdar le go leor iarmhairtí fadiarmhartacha dlíthiúla atá cosúil leis na hiarmhairtí a bhaineann le pósadh, den chuid is mó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Civil partnership changes your entitlements and obligations regarding:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Athraíonn páirtnéireacht shibhialta do theidlíochtaí agus d’oibleagáidí i ndáil le:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Life insurance and pensions</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Árachas Saoil agus Pinsin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Barring, Safety and Protection Orders</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Orduithe Urchoisc, Sábháilteachta agus Cosanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Other consequences of civil partnership</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cúinsí eile de pháirtnéireacht shibhialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Civil liability: a surviving civil partner may sue in respect of the wrongful death of their civil partner, where the death was caused by the negligence or wrongdoing of another person and has resulted in injury or mental distress to the survivor</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dliteanas sibhialta: d’fhéadfaí go bhfuil páirtnéir sibhialta in ann agair mar gheall ar bhás éagórach a p(h)áirtnéir sibhialta, áit ar chúis a b(h)áis neamart nó éagóir dhuine eile agus a raibh gortú nó anbhuain meabhrach ar an marthanóir mar thoradh air</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Mental health: a civil partner may apply for the involuntary admission to a psychiatric institution of a mentally ill civil partner (provided the parties are not separated and provided the applicant has not been the subject of an application under the Domestic Violence Acts)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Meabhairshláinte: is féidir le páirtnéir sibhialta cur isteach ar iontráil ainneonach chuig institiúid shiciatrach do pháirtnéir sibhialta a bhfuil galar intinne air (ar choinníoll nach bhfuil na páirtithe scartha agus ar choinníoll nach bhfuil sé ina ábhár d’iarratas faoi na hAchtanna um Fhoréigin Baile)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Power of attorney: a civil partner must be informed of the registration of an enduring power of attorney</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cumhacht aturnae: caithfear páirtnéir sibhialta a bheith curtha ar an eolas faoi chlárú cumhacht aturnae seasmhach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Similarly, an enduring power of attorney in favour of a civil partner ceases to be valid if the partnership is dissolved or there is a safety or barring order against the civil partner</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar an gcaoi chéanna, scoirtear bailíocht chumhacht aturnae seasmach i bhfábhar pháirtnéir sibhialta má dhíscaoiltear an pháirtnéireacht nó tá ordú sábháilteachta nó urchoisc in aghaidh an pháirtnéir sibhialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Property disputes: a civil partner may apply to the courts for a decision in relation to disputes over property with his/her partner</seg></tuv>
+  <tuv xml:lang="ga"><seg>Aighnis réadmhaoine: féadfaidh páirtnéir sibhialta cur isteach chuig na cúirteanna do chinneadh i ndáil le haighnis faoi réadmhaoin idir é agus a p(h)áirtnéir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Tenancies: Under the Residential Tenancies Act 2004 a civil partner may be able to take over a tenancy on the death of their partner</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tionóntachtaí: Faoin Acht Tionóntachtaí Cónaitheacha 2004 féadfaidh páirtnéir sibhialta teacht i gcomharbacht ar thionóntacht ar bhás a p(h)áirtnéara</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Former spouses who entered into civil partnerships</seg></tuv>
+  <tuv xml:lang="ga"><seg>Iar-chéilí a d’iontráil i bpáirtnéireachtaí sibhialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Former spouses who entered into civil partnerships effectively lost their status as former spouses</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chaill iar-chéilí a d’iontráil i bpáirtnéireachtaí sibhialta a stádas mar iar-chéilí, go héifeachtach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under divorce legislation, former spouses continue to have the right to apply to the courts for maintenance and property orders</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoin reachtaíocht cholscartha, tá an ceart ag iar-chéilí chun iarratas a dhéanamh ar na cúirteanna ar orduithe cothabhála agus maoine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, once they entered into a civil partnership, this changed</seg></tuv>
+  <tuv xml:lang="ga"><seg>A luaithe a d’iontráil siad i bpáirtnéireacht shibhialta, áfach, tháinig athrú air seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Maintenance orders and pension adjustment orders in favour of a former spouse lapsed if that spouse entered into a civil partnership</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chuaigh orduithe cothabhála agus orduithe coigeartaithe pinsin i bhfabhar iar-chéile as feidhm má d'iontráil an chéile sin i bpáirtéireacht shibhialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A property adjustment order may not be made for the benefit of a former spouse if that spouse has registered in a civil partnership</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir ordú coigeartaithe maoine a dhéanamh ar mhaithe le hiar-chéile má chláraigh an céile sin i bpáirtnéireacht shibhialta</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,453 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Jobseeker's Benefit and work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Obair agus Sochar Cuardaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• How work is assessed for Jobseeker's Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Conas a dhéantar obair a mheas ar Shocar an Chuardaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>One of the primary conditions for getting Jobseeker’s Benefit is that you must be unemployed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ceann de na bunchoinníollacha chun Liúntas Cuardaitheora Poist a fháil go gcaithfidh tú a bheith dífhostaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, you do not have to be totally unemployed – you must be unemployed for at least 4 days out of the 7-day social welfare employment week</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áfach, ní gá duit bheith dífhostaithe go hiomlán – caithfidh tú bheith as obair ar feadh 4 lá ar a laghad as 7 lá leanúnach oibre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must also be available for and actively seeking work and you must meet all the other conditions for Jobseeker’s Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit bheith ar fáil chun obair a dhéanamh agus ag lorg oibre go gníomhach agus caithfidh tú na coinníollacha go léir maidir le coinníollacha do Shochar Cuardaitheora Poist a shásamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, you must have enough social insurance (PRSI) contributions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, dóthain ranníocaíochtaí árachais shóisialta (ÁSPC) a bheith agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can work and get Jobseeker’s Benefit if:</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfá Sochar Cuardaitheora Poist a fháil má tá:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>1. Your days at work are reduced due to lack of work (systematic short-time working)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Do laethanta oibre laghdaithe (obair ghearr-ama córasach)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>2. You are a part-time worker including job-sharing week on and week off (but not if you have chosen to do so)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tá tú ag postroinnt le seachtain ag obair agus seachtain saor (murach gur roghnaigh tú sin)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>3. You get casual work or part-time work 4</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Obair ócáideach nó obair pháirtaimseartha agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This document also looks at how taking up temporary work affects your Jobseeker’s Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Breathnaímid anseo freisin ar an mbealach a bhíonn tionchar ag obair shealadach ar do Shochar Cuardaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Jobseeker’s Benefit is taxable in addition to any income from work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Sochar Cuardaitheora Poist inchánach chomh maith le hioncam ar bith ón obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, it is not taxable if you are getting it because your hours at work are temporarily reduced (systematic short-time working)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin féin, níl sé inchánach má tá Sochar Cuardaitheora Poist á fháil agat toisc uaireanta oibre atá laghdaithe go sealadach (obair ghearr-ama córasach)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Find out more about taxation of Jobseeker’s Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigh tuilleadh eolais faoi chánachas agus Sochar Cuardaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>How work is assessed for Jobseeker's Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Conas a dhéantar obair a mheas ar Shocar an Chuardaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your days at work are reduced (temporarily) - systematic short-time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má laghdaítear do laethanta oibre (go sealadach)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you normally work full-time but short-time working is introduced by your employer you may get Jobseeker’s Benefit (JB)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má oibríonn tú lánaimseartha go hiondúil ach má thugann d’fhostóir obair ghearr-ama isteach - d’fhéadfá Sochar Cuardaitheora Poist a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Reduced working hours on a temporary basis is called systematic short-time working</seg></tuv>
+  <tuv xml:lang="ga"><seg>Obair ghearr-ama córasach a thugtar ar uaireanta oibre laghdaithe ar bhonn sealadach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will get JB for the days you don't work provided you meet the other conditions that apply to JB, for example, you cannot work more than 3 days per week</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gheobhaidh tú Sochar Cuardaitheora Poist ó thaobh na laethanta nach bhfuil tú ag obair chomh fada agus a shásaíonn tú coinníollacha eile maidir le Sochar Cuardaitheora Poist, mar shampla, ní féidir leat oibriú níos mó ná 3 lá na seachtaine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you work 4 days you are no longer entitled to claim JB (because you must be unemployed for 4 out of 7 days)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má oibríonn tú 4 lá, níl tú i dteideal SCP a éileamh a thuilleadh (mar gheall nach mór duit bheith dífhostaithe 4 lá as 7 lá)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For systematic short-time workers the social welfare week is based on 5 days. This means that days worked and days of unemployment added together cannot be more than 5</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an tseachtain leasa shóisialaigh bunaithe ar 5 lá oibre maidir le hoibrithe ghearr-ama córasach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, if your days of work are reduced to 3 days per week, you will get JB for the other 2 days and you will use up 2 days of your total JB entitlement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, má tá d’uaireanta oibre laghdaithe go 3 lá na seachtaine d’fhéadfá Sochar Cuardaitheora Poist a fháil don 2 lá eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means you will get 2/5ths of the normal amount of Jobseeker's Benefit (see table below)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás seo gheobhaidh tú dhá cúigiú den ghnáthráta Shochair Chuardaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However the Department of Social Protection (DSP) will reassess a systematic short time worker’s JB claim if it goes on for an extended period</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá staidéar cáis ar fáil le taispeáint duit conas an méid ama a fhéadfaidh oibrí gearr-ama córasach Sochar Cuardaitheora Poist a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will continue to pay PRSI in the normal way</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leanfaidh tú ag íoc ÁSPC mar is gnáth</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, Jobseeker’s Benefit is not taxable if you are a systematic short-time worker</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin féin, níl Sochar Cuardaitheora Poist inchánaithe má tá obair ghearr-ama córasach ar bun agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Jobseeker's Benefit for systematic short-time workers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sochar Cuardaitheora Poist le haghaidh oibrithe gearrthréimhseacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Number of days worked │Effective days of unemployment │Weekly payment for a single person, € │Weekly payment for a couple with 1 child, € │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Líon na laethanta a oibríodh │Laethanta éifeachtúla dífhostaíochta │Íocaíocht sheachtainiúil le haghaidh duine singil, € │Íocaíocht sheachtainiúil le haghaidh lánúine ag a bhfuil leanbh amháin, € │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you work 4 days you are no longer entitled to claim JB (because you must be unemployed for 4 out of 7 days)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má oibríonn tú ar bhonn páirtaimseartha de ghnáth</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are a part-time worker and your days of work are reduced temporarily you are not treated as a systematic short-time worker - you are treated as a part-time worker (see below)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más oibrí páirtaimseartha thú agus laghdaítear do laethanta oibre go sealadach, ní chaitear leat mar oibrí córasach gearrthréimhseach – caitear leat mar oibrí páirtaimseartha (féach thíos)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, if your working pattern is reduced from 3 days (Monday, Tuesday and Wednesday) to 2 days (Monday and Tuesday) per week, you will be paid Jobseeker's Benefit for 3 days once you satisfy all the conditions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, má laghdaítear do phatrún oibre ó 3 lá (Dé Luain, Dé Máirt agus Dé Céadaoin) go dtí 2 lá (Dé Luain agus Dé Máirt) gach seachtain, íocfar Sochar Cuardaitheora Poist leat ar feadh 3 lá a luaithe a shásaíonn tú na coinníollacha go léir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An employer may initially reduce your work days on a temporary basis, but if there is no prospect of returning to full-time work with that employer you will be reassessed as a part-time worker</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh fostóir do laethanta oibre a laghdú i dtosach báire ar bhonn sealadach, ach mura bhfuil aon dóchas ann go bhfillfidh tú ar obair lánaimseartha leis an bhfostóir sin, déanfar athmheasúnú ort mar oibrí páirtaimseartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where a Jobseeker's Benefit recipient is working for part of a week, the amount of JB they are paid is based on a 5-day week</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás go bhfuil faighteoir an tSochair Chuardaitheora Poist ag oibriú ar feadh cuid den tseachtain, bunaítear an méid den SCP a íoctar leo ar sheachtain cúig lá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that for each day that a person is employed, 1/5th of the normal rate of Jobseeker's Benefit is deducted from their payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn seo go n-asbhaintear 1/5 den ghnáthráta den Sochar Cuardaitheora Poist óna n-íocaíocht ar feadh gach lá a bhíonn an duine sin fostaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If they get part-time work for 2 days, they will get 3/5ths of the normal Jobseeker's Benefit for that week and if they get part-time work for 3 days they will get 2/5ths of the normal rate of Jobseeker’s Benefit for the week (see table below)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhaigheann siad obair pháirtaimseartha ar feadh 2 lá, gheobhaidh siad 3/5 den ghnáthShochar Cuardaitheora Poist don tseachtain sin agus má fhaigheann siad obair pháirtaimseartha do 3 lá, gheobhaidh siad 2/5 den ghnáthráta den Sochar Cuardaitheora Poist don tseachtain. Cuireadh an t-athrú seo i bhfeidhm an 26 Iúil 2012</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must still be unemployed for 4 days out of 7 to claim Jobseeker's Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhoilsigh an Roinn Coimirce Sóisialaí Ceisteanna coitianta faoi na hathruithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Part-time workers must continue to look for full-time employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go leanfaidh oibrithe páirtaimseartha le fostaíocht lánaimseartha a chuardach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your Jobseeker's Benefit is taxable if you are working part time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá cáin iníoctha ar Shochar Cuardaitheora Poist má tá tú ag oibriú go páirtaimseartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must claim Jobseeker's Benefit for at least 3 days in any week</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit Sochar Cuardaitheora Poist a éileamh ar feadh 3 lá, ar a laghad, in aon seachtain amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you get 4 days work, Jobseeker's Benefit is not paid at all</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhaigheann tú 4 lá oibre, ní íoctar Sochar Cuardaitheora Poist in aon chor (féach an tábla thíos)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Jobseeker's Benefit for part-time workers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sochar Cuardaitheora Poist le haghaidh oibrithe páirtaimseartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Days worked │Effective days of unemployment │Weekly payment for a single person, € │Weekly payment for a couple with 1 child, € │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Laethanta a oibríodh │Laethanta éifeachtúla dífhostaíochta │Íocaíocht sheachtainiúil le haghaidh duine singil, € │Íocaíocht sheachtainiúil le haghaidh lánúine ag a bhfuil leanbh amháin, € │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you work 4 days you are no longer entitled to claim JB (because you must be unemployed for 4 out of 7 days)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má oibríonn tú 4 lá, níl tú i dteideal SCP a éileamh a thuilleadh (mar gheall nach mór duit bheith dífhostaithe 4 lá as 7 lá)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Note: Jobseeker’s Benefit is paid for 234 days or 156 days depending on how many PRSI contributions you have paid</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nóta: Íoctar Sochar Chuardaitheora Poist ar feadh 234 lá nó 156 lá, ag brath ar cé mhéid ranníocaíochtaí ÁSPC atá íoctha agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are considered to be unemployed for 6 days out of the 7-day social welfare employment week</seg></tuv>
+  <tuv xml:lang="ga"><seg>Meastar go bhfuil tú dífhostaithe ar feadh 6 lá as an tseachtain fostaíochta leasa shóisialaigh 7 lá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are fully unemployed you would use up your entitlement to Jobseeker’s Benefit after either 9 months (6 days of unemployment per week x 39 equals 234 days) or 6 months (6 days of unemployment per week x 26 equals 156 days)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú go hiomlán dífhostaithe agus más mian leat do theidlíocht chun Sochar Cuardaitheora Poist a úsáid i ndiaidh 9 mí (6 lá dífhostaíochta sa tseachtain x 39 = 234 lá) nó i ndiaidh 6 mhí (6 lá dífhostaíochta sa tseachtain x 26 = 156 lá)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However if you are working part time your entitlement to Jobseeker’s Benefit may last longer</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ag oibriú ar bhonn páirtaimseartha, áfach, d’fhéadfadh do theidlíocht i leith Sochar Cuardaitheora Poist maireachtáil níos faide</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example if you are entitled to 234 days JB (39 weeks) and you are working for 2 days a week and unemployed for the remaining 4 days you could continue to claim Jobseeker’s Benefit for 58.5 weeks. If you were working for 3 days a week you would use 3 days of your total JB entitlement and you could continue to claim JB for 78 weeks</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, má tá tú i dteideal SCP a fháil ar feadh 234 lá (39 seachtain) agus má tá tú ag oibriú ar feadh 2 lá sa tseachtain agus má tá tú dífhostaithe do na 4 lá eile, d’fhéadfá leanúint le Sochar Cuardaitheora Poist a éileamh ar feadh 58.5 seachtain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Job-sharing and week on/off</seg></tuv>
+  <tuv xml:lang="ga"><seg>Postroinnt agus seachtain ag obair/seachtain saor</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have been working full-time and then enter a job-sharing arrangement, you are not eligible for Jobseeker's Benefit because you have voluntarily opted to work fewer hours or days</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más obair lánaimseartha a bhí agat agus gur shocraigh tú ar chomhaontú postroinnte, níl tú incháilithe do Shochar Cuardaitheora Poist toisc gur roghnaigh tú go deonach níos lú uaireanta nó laethanta a oibriú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are working week on or off, your entitlement to Jobseeker's Benefit will depend on whether you are available for work on the week off</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ag obair seachtain ag obair nó as obair, beidh do theidlíocht do Shochar Cuardaitheora Poist ar cibé an bhfuil tú ar fáil don seachtain ag obair nó as obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In these types of situations, you need to be careful to ensure that you have a full PRSI record</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sna cásanna seo, caithfidh tú a bheith cinnte go taifead ÁSPC iomlán agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Depending on your precise working arrangements, you could end up with only 26 paid contributions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag brath ar do shocruithe oibre, d'fhéadfá críochnú le 26 ranníocaíocht íoctha amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if you are getting Jobseeker's Benefit, you will get a PRSI credit for the week you are not working</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin féin, má tá Sochar Cuardaitheora Poist á fháil agat, gheobhaidh tú creidmheas ÁSPC don tseachtain nach bhfuil tú ag obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Casual work or part-time work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Obair ócáideach nó obair pháirtaimseartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may get Jobseeker’s Benefit if you can only get part-time or casual work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil ar fáil duit ach obair pháirtaimseartha nó ócáideach, d’fhéadfá Sochar Cuardaitheora Poist a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must be unemployed for at least 4 days out of a period of 7 consecutive days and continue to look for full-time employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, ní féidir leat Sochar Cuardaitheora Poist a fháil don lá a dhéantar obair ócáideach nó pháirtaimseartha, mura dtiteann an obair faoi rialacha na fofhostaíochta (féach thíos)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For each day you are employed, 1/5th of the normal rate of Jobseeker's Benefit is deducted from your weekly payment, provided that you are unemployed for at least 4 days out of a period of 7 consecutive days</seg></tuv>
+  <tuv xml:lang="ga"><seg>Le haghaidh gach lae a bhíonn tú dífhostaithe, tá 1/5 den ghnáthráta Sochar Cuardaitheora Poist iníoctha, a fhad a bhíonn tú dífhostaithe ar feadh 4 lá ar a laghad as tréimhse 7 lá as a chéile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, if you get casual work for 2 days, you can get 3/5ths of the normal Jobseeker's Benefit for that week</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, má fhaigheann tú obair ócáideach ar feadh 2 lá, féadfaidh tú 3/5 den ghnáthráta den Sochar Cuardaitheora Poist a fháil don tseachtain sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must claim Jobseeker's Benefit for at least 3 days in any week. If you get 4 days work, Jobseeker's Benefit is not paid at all</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhaigheann tú 4 lá oibre, ní íoctar Sochar Cuardaitheora Poist don chúigiú lá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As a general rule, you will not get Jobseeker's Benefit for any day you are employed or self-employed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar riail ghinearálta, gheobhaidh tú Sochar Cuardaitheora Poist do lá ar bith atá tú fostaithe nó féinfhostaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, it is possible to do some subsidiary work and still get Jobseeker's Benefit for the day in question</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin féin, tá sé fós indéanta fofhostaíocht áirithe a dhéanamh agus Sochar Cuardaitheora Poist a fháil fós don lá sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Subsidiary work is work that could have been done while you were in full-time employment and outside your normal working hours</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fofhostaíocht is ea obair go bhféadfaí a dhéanamh nuair a bhí tú ag obair go lánaimseartha agus atá lasmuigh de ghnáthuaireanta oibre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, you may work a full-time job during the day and have a part-time job in the evening</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, d’fhéadfá post lánaimseartha a oibriú i rith an lae agus post páirtaimseartha a bheith agat sa tráthnóna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The part-time job is known as subsidiary or secondary employment if you were able to do the part-time work without it affecting your full-time job for a period of at least 6 months</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar fofhostaíocht nó fostaíocht thánaisteach ar an bpost páirtaimseartha más amhlaidh gur éirigh leat an obair pháirtaimseartha a dhéanamh gan tionchar ar do phost lánaimseartha ar feadh tréimhse de 6 mhí ar a laghad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have subsidiary employment, you should always check with the Department of Social Protection (DSP) to see whether or not your Jobseeker's Benefit will be affected</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá fofhostaíocht agat, ba chóir duit seiceáil leis an Roinn Coimirce Sóisialaí i gcónaí chun fáil amach an mbeidh tionchar ar do Shochar Cuardaitheora Poist </seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have less than 117 paid PRSI contributions in the three years before becoming unemployed, you may not earn more than €12.70 a day from subsidiary employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá níos lú ná 117 ranníocaíocht ÁSPC íoctha agat sna trí bliana roimh dhífhostaíocht, ní féidir leat níos mó ná €12.70 a thuilleamh in aghaidh an lae ó fhofhostaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is no earnings limit if you have more than 117 paid PRSI contributions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon teorainn tuilleamh má tá níos mó ná 117 ranníocaíocht ÁSPC íoctha agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are a farmer with other full-time employment, your farming will be your subsidiary employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más feirmeoir tú le fostaíocht lánaimseartha eile, is fofhostaíocht í do chuid feirmeoireachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Sunday work and jobseeker's payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Obair ar an Domhnach agus íocaíochtaí cuardaitheora poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Since 21 February 2013 Sunday working is taken into account for Jobseeker's Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ón 21 Feabhra 2013, cuirtear oibriú ar an Domhnach san áireamh le haghaidh Sochar Cuardaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must be unemployed for 4 out of 7 consecutive days (including Sunday)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit bheith dífhostaithe ar feadh 4 lá as 7 lá as a chéile (an Domhnach san áireamh)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you work on Sunday you are considered to be employed for 1 day and 1/5th of your normal rate of Jobseeker's Benefit will be deducted from your weekly payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má oibríonn tú ar an Domhnach, meastar go bhfuil tú fostaithe ar feadh 1 lá agus asbhainfear 1/5 de do ghnáthráta den Sochar Cuardaitheora Poist ó d'íocaíocht sheachtainiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Even though the social welfare employment week now takes Sunday into account you are not considered unemployed for 7 days</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cé go gcuireann an tseachtain fostaíochta leasa shóisialaigh an Domhnach san áireamh, ní mheastar go bhfuil tú dífhostaithe ar feadh 7 lá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are considered to be unemployed for 6 days out of the 7-day social welfare employment week</seg></tuv>
+  <tuv xml:lang="ga"><seg>Meastar go bhfuil tú dífhostaithe ar feadh 6 lá as an tseachtain fostaíochta leasa shóisialaigh 7 lá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that for each week that you are fully unemployed 6 days are deducted from the days remaining on your Jobseeker's Benefit claim</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn seo go n-asbhaintear 6 lá le haghaidh gach seachtain a bhíonn tú dífhostaithe go hiomlán ó na laethanta atá fanta ar d’éileamh ar Shochar Cuardaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the same way a person who works 2 days a week would have 4 days deducted from the days remaining on their JB claim</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, d’asbhainfí 4 lá ó na laethanta atá fanta ar a n-éileamh ar Shochar Cuardaitheora Poist ó dhuine a oibríonn 2 lá sa tseachtain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your employer must pay you for the public holidays which you don’t work as long as you have worked at least 40 hours in the 5 weeks immediately before the week of the public holiday</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór do d’fhostóir tú a íoc as na saoirí poiblí nach n-oibríonn tú, ar an gcoinníoll gur oibrigh tú 40 uair a laghad sna 5 seachtaine go díreach roimh sheachtain na saoire poiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find more information in our document on public holidays</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá níos mó eolais ar fáil inár ndoiciméad ar saoirí poiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you work and get Jobseeker's Benefit, you get a daily rate of Jobseeker's Benefit for the days that you don't work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ag obair agus má fhaigheann tú Sochar Cuardaitheora Poist, faigheann tú ráta laethúil Shochar Cuardaitheora Poist i gcomhair na laethanta nach n-oibríonn tú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will not get Jobseeker’s Benefit for the day you receive payment from your employer for a public holiday but you can continue to get Jobseeker’s Benefit for the other days you do not work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhfaighidh tú Sochar Cuardaitheora Poist i gcomhair an lae a bhfaigheann tú íocaíocht ó d’fhostóir ina leith le haghaidh saoire phoiblí ach is féidir leat leanúint de Shochar Cuardaitheora Poist a fháil i leith na laethanta eile sin nach n-oibríonn tú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are getting Jobseeker's Benefit and are offered temporary work for at least 4 days each week your Jobseeker's Benefit will stop</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá Sochar Cuardaitheora Poist á fháil agat agus go ndéantar obair shealadach a thairiscint ar feadh 4 lá na seachtaine ar a laghad, cuirfear stop le d’íocaíocht do lucht cuardaithe fostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are unemployed for a second time within 26 weeks your application for Jobseeker's Benefit is not treated as a new claim</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú dífhostaithe don dar uair laistigh de 26 seachtain, ní bhreathnófar ar d’iarratas do Shochar Cuardaitheora Poist mar éileamh nua</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Susan is unemployed and has been getting Jobseeker's Benefit for 8 months</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Tá Susan dífhostaithe agus tá Sochar Cuardaitheora Poist á fháil aici ar feadh 8 mí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>She has 260 paid │ │PRSI contributions, which means she can get Jobseeker's Benefit for a maximum of 9 months</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá 260 ranníocaíocht ÁSPC íoctha aici, a chiallaíonn gur féidir léi Sochar Cuardaitheora Poist a fháil ar feadh 9 mí ar a mhéid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│was offered 2 months temporary work in a factory</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a thiocfaidh críoch lena hobair 2 mhí, beidh sí i dteideal Sochar Cuardaitheora Poist a éileamh ar feadh mí eile.│</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if you have used up your entitlement to Jobseeker's Benefit, you may re-qualify by working and paying the appropriate PRSI contributions for at least 13 weeks</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin féin, má tá do theidlíocht do Shochar Cuardaitheora Poist úsáidte agat, is féidir leat cáiliú in athuair trí oibriú agus ranníocaíochtaí ÁSPC a íoc ar feadh 13 seachtain ar a laghad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Short-term employment or training</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fostaíocht ghearrthéarmach nó oiliúint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Department of Social Protection also operates a fast-tracking system for customers who sign off for a short period of up to 12 weeks to take up work or to go on a training course</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá córas mear oibrithe ag an Roinn Coimirce Sóisialaí do chustaiméirí a shíníonn d’íocaíocht cuardaitheora poist chun obair ghearrthéarmach a ghlacadh (suas go 12 seachtaine) nó chun dul ar ghearrchúrsa oiliúna (suas go 12 seachtaine)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This ensures that payment is re-instated without delay</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cinntíonn sé sin go n-atosófar d’íocaíocht gan mhoill</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is important that you inform your local office in advance that you are taking up work or training</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé tábhachtach go ndéarfá le d’oifig leasa shóisialaigh áitiúil é roimh ghlacadh le hobair nó dul ar chúrsa oiliúna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Civil partner, spouse or cohabitant working and Jobseeker’s Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Céile, páirtnéir sibhialta nó comhchónaitheoir ag obair agus Sochar Cuardaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your Jobseeker's Benefit is not affected by your spouse’s, civil partner’s or cohabitant's income. However their income can affect whether you get an increase in your Jobseeker's Benefit payment for him or her as a qualified adult</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le hioncam do chéile, páirtnéir sibhialta nó comhchónaitheoir tionchar a bheith aige ar an íocaíocht dó nó di mar dhuine fásta cáilithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The increase in your payment for an adult dependant is called an Increase for a Qualified Adult (IQA). If your adult dependant is earning €100 or less you will get the maximum IQA</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá do chleithiúnaí aosaigh ag tuilleamh idir €100 agus €310, gheobhaidh tú méadú ar do Shochar Cuardaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If he or she is earning between €100 and €310 you will get a reduced rate of IQA</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má thuilleann sé nó sí €100 nó níos lú, faigheann tú an méadú uasta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your adult dependant is earning more than €310 you will not get an IQA for your adult dependant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má thuilleann do chleithiúnaí aosaigh níos mó ná €310, ní thabharfar méadú ar do Shochar Cuardaitheora Poist don chleithiúnaí aosaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>How your spouse’s, civil partner’s or cohabitant's income is assessed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Conas a dhéantar ioncam do chéile, páirtnéir sibhialta nó comhchónaitheoir a mheasúnú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your spouse’s, civil partner’s or cohabitant's income from all sources is added together to find out if you qualify for an increase in your Jobseeker’s Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar ioncam do chéile, páirtnéir sibhialta nó comhchónaitheoir ó gach foinse a shuimiú le chéile chun fáil amach an gcáilíonn tú do mhéadú i do Shochar Cuardaitheora Poist </seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Employment: Your spouse’s, civil partner’s or cohabitant's average weekly income from employment is assessed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar meánioncam fostaíochta do chéile, páirtnéir sibhialta nó comhchónaitheoir a mheasúnú (déantar an ollioncam seachtainiúil a mheasúnú, ní cheadaítear asbhaintí ar bith do cháin, ranníocaíochtaí ÁSPC nó costais phearsanta)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The gross weekly income is assessed and no deductions are allowed for tax, PRSI contributions or personal expenses</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má íoctar do chéile, páirtnéir sibhialta nó comhchónaitheoir ar bhonn míosúil, ríomhtar an meáníocaíocht sheachtainiúil thar an dá mhí roimhe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your spouse's, civil partner's or cohabitant's income is paid monthly, the weekly average over the previous two months is calculated</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má íoctar é nó í go seachtainiúil nó gach coicíse, úsáidtear an meáníocaíocht sheachtainiúil thar na sé seachtaine roimhe sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Self-employment: To calculate earnings from self-employment the income received in the last completed tax year is divided by 52 to get the average weekly income</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun íocaíocht ó fhéinfhostaíocht a ríomh, roinntear an t-ioncam a fuarthas sa bhliain cánach iomlán seo caite ar 52 chun an meánioncam seachtainiúil a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Earnings are assessed as gross income less allowable expenses over 12 months</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar na tuillimh a mheasúnú mar ollioncam lúide na costais thar tréimhse 12 mhí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Annual earnings from self-employment are divided by 52 to find your weekly means from self-employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar do thuillimh bhliantúla ó fhéinfhostaíocht a roinnt faoi 52 chun d’acmhainní seachtainiúla ó fhéinfhostaíocht a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Any ‘drawings’ you take from the business is not an allowable expense</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl ‘tarraingtí’ ar bith a bhaintear ón ghnó incheadaithe mar chostas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Income from capital, for example, property, savings and investments, is included in the mean test</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áirítear ioncam ó chaipiteal sa tástáil mhaoine - maoin, coigiltis agus infheistíochtaí mar shampla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where capital is held jointly, half of the value is assessed as belonging to your spouse, civil partner or cohabitant. You can find out more about how capital is assessed in the means test</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair atá comhúinéireacht ar chaipiteal idir tú féin agus do chéile, páirtnéir sibhialta nó comhchónaitheoir déantar leath den luach a mheasúnú mar mhaoin do chéile, páirtnéir sibhialta nó comhchónaitheoir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Income from other sources</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ioncam ó fhoinsí eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Income from other sources includes rental income from the letting of property, income from an occupational pension, foreign social welfare payments, income from a trust fund, income under a deed of covenant and other cash income</seg></tuv>
+  <tuv xml:lang="ga"><seg>Clúdaíonn ioncam ó fhoinsí eile ioncam cíosa ó maoin atá ligthe ar cíos, ioncam ó phinsean ceirde, íocaíochtaí leasa shóisialaigh eachtracha, ioncam ó chiste iontaobhais, ioncam faoi ghníomhas cúnaint, ioncam airgead tirim eile, srl</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is calculated on a weekly basis</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ríomhtar é ar bhonn seachtainiúil</seg></tuv>
+</tu>
+</body>
+</tmx>

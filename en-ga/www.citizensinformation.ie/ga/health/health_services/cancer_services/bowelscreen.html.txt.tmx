@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>BowelScreen: The National Bowel Screening Programme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Teideal: BowelScreen: An Clár Náisiúnta Scagthástála Putóige</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>BowelScreen, The National Bowel Screening Programme, offers free bowel screening to men and women aged 60 to 69 every two years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Soláthraíonn BowelScreen, an Clár Náisiúnta Scagthástála Putóige, scagthástáil shaor in aisce d’fhir agus do mhná aois idir 60 agus 69 bliain gach dhá bhliain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Over time, BowelScreen will be offered to those aged 55 to 74</seg></tuv>
+  <tuv xml:lang="ga"><seg>Amach anseo, déanfar BowelScreen a thairiscint dóibh siúd idir aois 55 agus 74</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The purpose of the screening programme is to identify the population most at risk of colorectal cancer and most likely to benefit from early detection and treatment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é cuspóir an chláir scagthástála chun an daonra is mó atá i mbaol ailse cholaireicteach a shainaithint mar aon leo siúd is mó is dócha a bhainfidh tairbhe as luathbhrath agus cóireáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Participants will be sent a screening test kit that includes step-by-step instructions for self-administration of the test at home</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seolfar trealamh scagthástála chuig rannpháirtithe, ina bhfuil treoracha céim ar chéim chun an tástáil a dhéanamh iad féin sa bhaile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The completed test can then be sent by Freepost to an accredited laboratory for analysis</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir an tástáil a sheoladh, ina dhiaidh sin, sa Saorphost, chuig saotharlann chreidiúnaithe go ndéanfar anailís uirthi</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Approximately 94 per cent of people will receive a normal test result and will be sent another home test kit in two years’ time while they remain within the eligible age range</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bainfidh thart ar 94% den daonra gnáth-thoradh tástála amach agus seolfar chucu trealamh tástála baile eile i gceann dhá bhliain, fad a bhíonn siad laistigh den réimse incháilithe aoise</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Five to six per cent of people will receive a result that will require an additional test</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gheobhaidh idir cúig agus sé faoin gcéad de dhaoine toradh a mbeidh breis tástála ag teastáil uaidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The BowelScreen programme will send an invitation to men and women aged 60 to 69 years to take part in the programme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seolfaidh clár BowelScreen cuireadh d’idir fhir agus mhná idir aois 60 agus 69 bliain chun páirt a ghlacadh sa chlár</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>BowelScreen puts together a register of people eligible for screening from details supplied by the Department of Social Protection as well as from people who contact BowelScreen to register themselves</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann BowelScreen clár daoine incháilithe i dtoll a chéile ó shonraí a sholáthraíonn an Roinn Coimirce Sóisialaí, mar aon le sonraí ó dhaoine a théann i dteagmháil le BowelScreen chun iad féin a chlárú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are aged between 60 to 69 years and living in Ireland, you can ring BowelScreen on Freephone 1800 45 45 55 to check your details are on the register</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú idir 60 agus 69 bliain agus má chónaíonn tú in Éirinn, féadfaidh tú glao a chur ar BowelScreen ar Shaorghlao 1800 45 45 55 agus seiceáil an bhfuil do chuid sonraí ar an gclár</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When your details are on the register you will, over time, receive an invitation to take part in the BowelScreen programme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a bhíonn do shonraí ar an gclár, tabharfar cuireadh duit, amach anseo, páirt a ghlacadh i gclár BowelScreen</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It may take up to three years for all people on the register to receive an invitation</seg></tuv>
+  <tuv xml:lang="ga"><seg>B’fhéidir go nglacfaidh sé a mhéid le trí bliana go dtí go mbeidh cuireadh faighte ag gach aon daoine atá ar an gclár</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the meantime you should see your GP if you have any concerns or symptoms</seg></tuv>
+  <tuv xml:lang="ga"><seg>I dturas an ama, ba cheart duit coinne a dhéanamh le do LG má bhíonn aon bhuarthaí nó comharthaí agat</seg></tuv>
+</tu>
+</body>
+</tmx>

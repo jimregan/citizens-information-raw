@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>A statement made out of court cannot be introduced in court to prove the content of the statement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir ráiteas a rinneadh taobh amuigh den chúirt a tharraingt anuas sa chúirt lena dúradh sa ráiteas sin a chruthú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, if you are a witness in a trial, you cannot give the following evidence "My mother told me she saw the accused at 3pm"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla más finné thú i dtriail ní féidir leat an fhianaise seo a leanas a thabhairt "Dúirt mo mháthair liom go bhfaca sí an cúisí ag 3i.n"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is evidence of a statement made out of court and it is "hearsay"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is fianaise í seo a bhaineann le ráiteas a déanadh taobh amuigh den chúirt agus is "clostrácht" í</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For that evidence to be introduced, your mother must take the stand and describe what she herself saw</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leis an bhfianaise sin a tharraingt anuas ní mhór do do mháthair dul ar an seastán agus cur síos a dhéanamh í féin ar an méid a chonaic sí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Not all out-of-court statements are hearsay</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní clostrácht iad gach ráiteas a dhéantar taobh amuigh den chúirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, if an accused is claiming that he or she is dumb, you may give evidence that you saw and heard him or her say "I want an ice-cream"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, má tá cúisí ag éileamh go bhfuil sé/sí balbh is féidir leat fianaise a thabhairt go bhfaca tú agus gur chuala tú é nó í ag rá "Tá mé ag iarraidh uachtar reoite"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This evidence is not being introduced to prove that the accused wanted an ice-cream, but it is being introduced to prove that he or she can speak</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl an fhianaise seo dhá tharraingt anuas le cruthú go raibh uachtar reoite ag teastáil ón gcúisí ach le cruthú go bhfuil sé/sí in ann labhairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For that reason, it is admissible</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin, tá an fhianaise ceadaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The most important exception to the hearsay rule is admission or confession evidence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is í fianaise admhála an eisceacht is tábhachtaí don riail chlostráchta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is generally assumed that a party in a case would not make a statement against his or her own interests unless the statement was true</seg></tuv>
+  <tuv xml:lang="ga"><seg>Glactar leis go ginearálta nach mbeadh ráiteas déanta ag páirtí i gcás atá in aghaidh a leasa féin ach amháin sa chás go bhfuil an ráiteas sin fíor</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that you may give evidence that the accused said to you on the day that the victim died; "I did it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin is féidir leat fianaise a thabhairt gur dhúirt an cúisí leat ar an lá a fuair an té a d'fhulaing bás; "Is mise a rinne é</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Normally, this would be hearsay evidence as it is an out-of-court statement and it has been introduced to prove that the accused killed the deceased</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go hiondúil thabharfaí fianaise chlostráchta ar seo mar gheall gur ráiteas é a rinneadh taobh amuigh den chúirt atá dhá tharraingt anuas le cruthú gur mharaigh an cúisí duine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, because confessions are an exception to the rule against hearsay, that evidence will be admissible</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach, ós rud é gur eisceacht don riail chlostráchta iad admhálacha bheadh an fhianaise sin ceadaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The general rule is that hearsay evidence is not admissible</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar riail ghinearálta níl fianaise chlostráchta ceadaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are giving evidence and start to say something that amounts to hearsay evidence, you may be interrupted by one of the parties in the case or the judge and asked to stop</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhíonn tú ag tabhairt fianaise agus má thosaíonn tú ag rá rudaí gur dóigh gur clostrácht iad, d'fhéadfadh sé go dtiocfadh duine de na páirtithe sa chás romhat nó an breitheamh agus go n-iarrfaí ort stop a chur leis an bhfianaise sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For more detailed information you should seek legal advice</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir duit comhairle dlí a lorg chun faisnéis mionsonraithe a fháil</seg></tuv>
+</tu>
+</body>
+</tmx>

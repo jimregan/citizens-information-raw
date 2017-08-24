@@ -1,0 +1,349 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Everyone aged 66 and over living permanently in the State is entitled to the Free Travel Scheme. Some people under 66 also qualify</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá chuile dhuine aois 66 agus os a chionn i dteideal na scéime saorthaistil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you qualify for free travel, you are issued with a card that you must carry with you when using public transport</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá daoine áirithe faoi an aois sin i dteideal na scéime freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In some cases, a Free Travel Companion Card is available which allows a person to travel with the holder (if they are unable to travel alone)</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcásanna áirithe, tá fáil ar Phas Saorthaistil Chompánaigh a cheadaíonn duine bheith in éineacht leis an sealbhóir (mura féidir leo taisteal leo féin)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Free Travel Cards are non-transferable and can only be used by the named person</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú i dteideal saorthaistil, eiseofar pas duit a bheidh ort a iompar agus tú ag baint úsáide as córas iompair phoiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Free travel is available on all State public transport (bus, rail and Dublin's LUAS service) with some exceptions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá pasanna taistil neamh-inaistrithe agus is é an duine ainmnithe amháin ar féidir leis úsáid a bhaint astu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Free travel is also available on a limited number of services operated by private bus transport companies</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá saorthaisteal le fáil ar na seirbhísí iompair phoiblí Stáit go léir (bus, iarnród Éireann, DART agus Luas)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Private bus transport operators that have opted in to the Free Travel Scheme accept free travel cards</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá saorthaisteal le fáil ar líon teoranta sheirbhísí bhus príobháideach áirithe freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you abuse your entitlement to free travel the Department will review your entitlement to a Free Travel Card</seg></tuv>
+  <tuv xml:lang="ga"><seg>Na hoibritheoirí iompair bhus príobháideacha a roghnaigh páirt a ghlacadh sa scéim Saorthaistil, glacann siad le pasanna saorthaistil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, abuse could include wrongfully presenting a card for travel or engaging in anti-social behaviour while using the card. When you use your Free Travel Card you must also follow the rules that apply to your mode of transport</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir duit dul i dteagmháil leis an Roinn Coimirce Sóisialaí chun a fháil amach an nglacann d’oibritheoir bus príobháideach le pasanna saorthaistil - féach 'Cá háit a ndéanfaidh mé iarratas' thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Free travel and Public Services Card</seg></tuv>
+  <tuv xml:lang="ga"><seg>Saorthaisteal agus an Cárta Seirbhísí Poiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Government has introduced a Public Services Card which will allow people to access a range of government services and payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Cárta Seirbhísí Poiblí a chuirfidh ar chumas daoine rochtain ar raon seirbhísí rialtais agus íocaíochtaí rialtais á thabhairt isteach ag an Rialtas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Public Services Card will eventually replace the Free Travel Pass</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tiocfaidh an Cárta Seirbhísí Poiblí isteach in ionad an Phas Saorthaistil sa deireadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must register for the Public Services Card when requested to do so by the Department in order to keep your entitlement to Free Travel</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun do theidlíocht Saor Thaisteal a choinnigh, caithfidh tú clárú le haghaidh Cárta Seirbhísí Poiblí nuair iarrann an Roinn Coimirce Sóisialaí ort é a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your entitlement to Free Travel will be disallowed or withdrawn if you don't register</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura gcláraíonn tú, beidh do theidlíocht Saor Thaisteal dícheadaithe nó aistarraingthe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are entitled to free travel, when you are issued with your new Public Services Card it will also be your Free Travel Card</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú i dteideal saorthaistil, b’ionann do Chárta Saorthaistil agus do Chárta Seirbhísí Poiblí nua tar éis duit do Chárta Seirbhísí Poiblí nua a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The card will have F-T printed in a yellow octagon in the top-left-hand corner of the card</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh F-T priontáilte in ochtagán buí sa chúinne ag an mbarr ar chlé den chárta aige</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can see a sample card on welfare.ie (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir cárta samplach a fheiceáil ar welfare.ie (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must show your Public Services Card to the travel operator when you are travelling on public transport. (In some cases you may be asked to scan your Public Services Card however not all transport operators have this facility.) When you receive your new Public Services Card, you must return your old free travel pass to the Department of Social Protection (see 'Where to apply' below)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh tú do Chárta Seirbhísí Poiblí a thaispeáint don oibreoir taistil agus tú ag taisteal ar iompar poiblí.(I gcásanna áirithe, iarrtar ort do Chárta Seirbhísí Poiblí a scanadh, áfach níl an áis seo ag gach oibreoir um iompar.) Nuair a gheobhaidh tú do Chárta Seirbhísí Poiblí nua, caithfidh tú do sheanphas saorthaistil a chur ar ais chuig an Roinn Coimirce Sóisialaí (féach ‘Cá háit a ndéanfaidh mé iarratas’ thíos)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are 3 categories of free travel:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ann do 3 chatagóir de Phas Saorthaistil:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If FT-P is written on your Public Services Card, you personally are entitled to free travel</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má tá FT-P scríofa ar do Chárta Seirbhísí Poiblí, beidh tú i dteideal saorthaistil go pearsanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If FT+S is written on your Public Services Card, your spouse, partner or cohabitant can join you for free when you are travelling (they cannot travel for free alone)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má tá FT+S scríofa ar do Chárta Seirbhísí Poiblí, féadfaidh do chéile nó do pháirtnéir nó do chomháitritheoir dul leat saor in aisce agus tú ag taistealní fhéadfaidh sé/sí taisteal saor in aisce ina (h)aonar)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your spouse, partner or cohabitant’s name will not be on the card</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bheidh ainm do chéile, do pháirtnéara nó do chomháitritheora ar an gcárta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If FT+C is written on your Public Services Card a companion (over 16) can travel with you for free (because you are unable to travel alone for medical reasons)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má tá FT+C scríofa ar do Chárta Seirbhísí Poiblí, féadfaidh compánach (os cionn 16 bliana d’aois) taisteal leat saor in aisce (mar nach bhfuil tú ábalta taisteal i d’aonar ar chúiseanna míochaine)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read FAQs on the Public Services Card and free travel (pdf). Note that the Department of Social Protection is no longer issuing paper passes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léigh CCanna maidir leis an gCárta Seirbhísí Poiblí agus le saorthaisteal (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can also read 'How to use your public services card for free travel' (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Céile, páirtnéirí sibhialta, comhchónaitheoraí agus compánaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are entitled to free travel and you are married, in a civil partnership or cohabiting, you are entitled to a Free Travel Card which allows your partner to accompany you free of charge when travelling</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá pas saorthaistil agat tú pósta, i bpáirtnéireacht nó ag cónaí le duine, tá tú i dteideal Pas Saorthaistil a cheadaíonn do do pháirtí tú a thionlacan saor in aisce nuair a bhíonn sibh ag taisteal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(This does not apply to people under age 66 who are getting Carer's Allowance or who are nominated carers for people getting Constant Attendance Allowance or Prescribed Relatives Allowance from the Department of Social Protection)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Ní bhaineann sé seo le daoine faoi aois 66 atá ag fáil Liúntais Cúramóra nó atá ina gcúramóirí ainmnithe do dhaoine atá ag fáil Liúntais Fhreastail Bhuain nó Liúntas don Ghaol Ceaptha ón Roinn Coimirce Sóisialaí)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are unable to travel alone you may get a Free Travel Companion Card</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura féidir leat taisteal leat féin, d’fhéadfá Pas Saorthaistil Chompánaigh a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This allows you to be accompanied by any person over 16 years of age, free of charge</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann sé seo deis duit taisteal in éineacht le aon duine os cionn 16 bliana d’aois saor in aisce</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To qualify for a Free Travel Companion Card you must satisfy certain conditions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun cáiliú le haghaidh Pas Saorthaistil Chompánaigh, caithfidh tú coinníollacha áirithe a shásamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Entitlement to the Companion Free Travel Card may be subject to periodic review</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh go mbeidh teidlíocht Saorthaistil Chompánaigh faoi réir athbhreithniú tréimhsiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can read about these conditions in the Free Travel leaflet (SW40)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léigh tuilleadh faoi na coinníollacha seo sa bhileog Saorthaisteal (SW40)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Senior SmartPass for travelling in Northern Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>SmartPass Sinsearach le taisteal i dTuaisceart Éireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The All Ireland Free Travel Scheme allows a Free Travel cardholder (those aged 66 and older) to travel free of charge on all bus and rail services within Northern Ireland using a Senior Smartpass card</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceadaíonn an Scéim Saorthaistil Uile-Éireann do shealbhóir an Phas Saorthaistil (daoine atá in aois 66 agus níos sine) taisteal saor in aisce ar na seirbhísí bus agus iarnróid uile i dTuaisceart Éireann ag baint leasa as cárta Smartpass</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Similarly, Northern Ireland Senior Smartpass holders are entitled to travel for free on services in Ireland using their existing Senior Smartpass</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar an mbealach céanna, tá sealbhóirí SmartPass Sinsearach i dTuaisceart Éireann i dteideal taisteal saor in aisce ar sheirbhísí i bPoblacht na hÉireann ag baint leasa as an SmartPass Sinsearach reatha atá acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your Free Travel Card allows you to be accompanied by a spouse, civil partner or cohabitant or companion they may continue to travel with you for free on cross-border journeys but they cannot accompany you for free on public transport within Northern Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má cheadaíonn do Phas Saorthaistil duit a bheith tionlactha ag céile/páirtnéir sibhialta/comhchónaitheoir nó cara, is féidir leo leanúint ag taisteal saor in aisce ar thurais trasteorann ach ní féidir leo tú a thionlacan saor in aisce ar iompar poiblí i dTuaisceart Éireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Free Travel cardholders wishing to avail of the All Ireland Free Travel scheme within Northern Ireland must first get a Senior SmartPass card</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mian le sealbhóirí an Phas Saorthaistil leas a bhaint as an scéim Saorthaistil Uile-Éireann i dTuaisceart Éireann, caithfidh siad cárta SmartPass Sinsearach a fháil i dtús báire</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To get a Senior SmartPass card you must fill in an application form (FTNI1)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfear foirm iarratais (FTNI1) a chomhlánú chun cárta SmartPass Sinsearach a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(It is not possible to get this form online, to get a form you must contact your local Intreo Centre or Social Welfare Branch Office)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Ní féidir an fhoirm a fháil ar líne, agus chun foirm a fháil caithfear teagmháil a dhéanamh an Líne Bileoige Lóghlao an Leasa Shóisialaigh ar 1890 20 23 25)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The application form must be filled in with black ink only and returned in person (not posted) to your Intreo Centre or Social Welfare Branch Office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfear an fhoirm iarratais a líonadh le dúch dubh amháin agus a thabhairt ar ais go pearsanta (ní tríd an bpost) go dtí an oifig leasa shóisialaigh áitiúil atá agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must bring the following items with your application form to your Intreo Centre or Social Welfare Branch Office:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh tú na míreanna a leanas a thabhairt leat leis an bhfoirm iarratais chuig an oifig leasa shóisialaigh áitiúil:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Your current Free Travel Pass/Public Services Card and</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Do Phas Saorthaistil reatha agus</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Evidence of your address, (for example, a gas, electricity, phone bill or bank statement) and</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Fianaise de do sheoladh, (mar shampla, bille gáis, leictreachais, teileafóin nó ráiteas bainc) agus</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Evidence of your identity, (for example, your drivers licence, passport or another form of photo identification) and</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Fianaise aitheantais, (mar shampla, do cheadúnas tiomána, pas nó foirm eile d’aitheantas fótagrafach) agus</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A recent passport standard colour photograph</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Grianghraf daite nua caighdeánach pas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you apply more than 3 weeks before your 66th birthday, your application will be rejected</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh sé suas le sé seachtainí a thógáil chun d’iarratas a phróiseáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is further information on the extension of the Free Travel Scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh eolais ar shíneadh na Scéime Saorthaistil ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should continue to use your current Free Travel Card for travel in this State</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir duit leanúint ag úsáid do Phas Saorthaistil reatha chun taisteal sa Stát seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Renewing a Senior SmartPass</seg></tuv>
+  <tuv xml:lang="ga"><seg>Do SmartPass Sinsearach a athnuachan</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your Senior SmartPass will expire after 5 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rachaidh do SmartPass Sinsearach as feidhm i ndiaidh 5 bliana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you have electronically used your card within the last 2 years you will get a new card automatically in the post from Translink when your card expires</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má bhaineann tú úsáid as do chárta go leictreonach sna 2 bhliain seo caite, seolfaidh Translink cárta nua duit go huathoibríoch nuair bíonn do chárta imithe as feidhm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you have not used your card in the last 2 years you will be sent a renewal application form to fill out</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Mura mbaineann tú úsáid as do chárta sna 2 bhliain seo caite, seolfar foirm athnuachan chugat chun é a chomhlánú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(The renewal form is not the same as a first-time application and you do not need to supply a photograph.)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Ní hionann an fhoirm athnuachan agus an chéad iarratas agus ní gá duit grianghraf a sholáthar.)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you have never used your card you will not hear from Translink at all</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Mura mbaineann tú úsáid as do chárta riamh, ní chloisfidh tú ó Translink </seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you wish to get it renewed, you must contact Translink on 048 9075 9129 who will send you a renewal application</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mian leat é a athnuachan, caithfidh tú dul i dteagmháil le Translink agus seolfaidh siad iarratas athnuachana chugat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may be entitled to free travel if you are permanently living in the State and:</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfá a bheith i dteideal saorthaisteal má:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You are aged 66 or over</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tá tú aois 66 nó ós a chionn agus ag maireachtáil sa tír</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You are getting Disability Allowance, Blind Pension, Carer's Allowance or an Invalidity Pension from the Department of Social Protection</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tá tú ag fáil Liúntas Míchumais, Pinsean na nDall, Liúntas Cúramóra nó Pinsean Easláinte, ón Roinn Coimirce Sóisialaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You have been getting Incapacity Supplement or Workmen's Compensation with Disablement Pension for at least 12 months</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bhí tú ag fáil Forlíonadh Dífhostaíochta nó Cúitimh an Oibrí le Sochar Míthreorach le bliain ar a laghad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You are blind or visually impaired and meet the medical conditions for Blind Pension</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tá tú dall agus sásaíonn tú na coinníollacha leighis don Phinsean na nDall</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You are a specified carer for a person getting Constant Attendance Allowance or Prescribed Relatives Allowance from the Department</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Is cúramóir sainithe tú do dhuine a fhaigheann Liúntas Cúraim Bhuain nó Liúntas Gaoil Forordaithe ón Roinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You are getting a social security invalidity payment, or similar payment, from another EU member state or from a country with which Ireland has a bilateral social security agreement for at least 12 months</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tá tú ag fáil an Pinsean Easláinte nó sochair le bliain ar a laghad ó Bhallstát AE eile nó ó thír éigin ina bhfuil comhaontú leasa shóisialta déthaobhach ag Éirinn léi</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You are a widow or widower or a surviving civil partner aged 60 or over whose late spouse/civil partner held a free travel pass and who is getting one of the following payments: State Pension (Transition), Widow's, Widower's or Surviving Partner's (Contributory) Pension, Widow's, Widower's or Surviving Partner's (Non-Contributory) Pension, One-Parent Family Payment, Widow's, Widower's or Surviving Partner's Pension under the Occupational Injuries Benefit Scheme or a similar social security pension/benefit from an EU member state or a country with which Ireland has a bilateral social security agreement, or an ordinary Garda widow's pension</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tá tú i do bhaintreach nó is páirtnéir sibhialta marthanach thú aois 60 nó os a chionn a raibh pas saorthaistil ag a céile/páirtnéir sibhialta nó nach maireann agus ag fáil ceann de na liúntais seo a leanas: Pinsean Stáit (Idirthréimhse), Pinsean Baintrí, Baintrí Fir nó Páirtnéara Shibhialta Mharthanaigh (Ranníocach), Pinsean Baintrí, Baintrí Fir nó Páirtnéara Shibhialta Mharthanaigh (Neamh-Ranníocach), Íocaíocht Teaghlaigh Aontuismitheora, Pinsean Baintrí, Baintrí Fir nó Páirtnéara Shibhialta Mharthanaigh faoin Scéim Sochar um Ghortuithe Ceirde, nó íocaíocht/sochar slándála sóisialaí chosúil ó thír atá clúdaithe ag Rialacháin an CE, nó ó thír a bhfuil Comhaontú Déthaobhach Slándála Soisialaí aici le hÉirinn nó liúntas/pinsean cosúil leo seo ó Bhallstát AE eile nó ó thír éigin ina bhfuil comhaontú leasa shóisialta ag Éirinn leo nó pinsean baintreach Garda</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You have registered for the Public Services Card when requested to do so</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Chláraigh tú le haghaidh Cárta Seirbhísí Poiblí nuair iarradh ort</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Free travel is available on most Iarnród Éireann, Bus Éireann, Dublin Bus, Dart and Luas Services and on certain private bus and ferry services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá saorthaisteal le fáil ar sheirbhísí Iarnród Éireann, Bus Éireann, Bus Átha Cliath, DART agus Luas agus ar seirbhísí bhus agus farantóireachta príobháideach áirithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Free travel does not include some special services such as Dublin Bus AIRLINK services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chlúdaítear roinnt seirbhísí speisialta, ina measc seirbhís Airlink Bhus Átha Cliath</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may also travel free of charge on certain cross-border services between Ireland and Northern Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir taisteal in aisce ar sheirbhísí trasteorann áirithe idir Éirinn agus an Tuaisceart</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Since 21 April 2017, free travel is also available on the Dublin Bus NITELINK service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó 21 Aibreán 2017 amach, tá saorthaisteal ar fáil freisin ar sheirbhís Nitelink Bhus Átha Cliath</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are permanently living on any of the Aran Islands, you may get up to 12 single (or 6 return) air trips each year between the islands and the mainland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá cónaí ort ar cheann ar bith d'Oileáin Árann, d'fhéadfá 12 turas singil (nó suas le 6 turas fillte) aeir a fháil gach bliain idir na hoileáin agus an mórthír</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>People who live permanently on Tory Island (Co</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá daoine a mhaireann ar Oileán Thoraí (Co</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Donegal) are entitled to a 8 (or 4 return) free journeys on the seasonal helicopter service operating between the island and the mainland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dhún na nGall) i dteideal 8 turas singil (nó 4 thuras fillte) saor a fháil ar an ingearán seasúrach atá ag freastal idir an oileán agus an mórthír</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are no restrictions on the times you can use your Free Travel Card</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon srian ar na hamanna gur féidir leat usáid a bhaint as do Phas Saorthaistil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are aged 66 or over and are getting a social welfare pension, the Free Travel Card will issue automatically if you have registered for your Public Services Card</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú aois 66 nó os a chionn agus ag fáil pinsean leasa shóisialta tugtar an pas saorthaistil go huathoibritheach duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are under age 66 and registered for a Public Services Card, you will get a Free Travel Card automatically when you are awarded an Invalidity Pension, a Blind Pension, Disability Allowance or Carer’s Allowance. If you have not registered for the Public Services Card, you will be requested to register before your Free Travel Card issues to you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú faoi bhun 66 bliain d’aois, eiseofar Pas Saorthaistil duit go huathoibríoch nuair a ghlacfar leis go bhfuil tú i dteideal ceann ar bith de na híocaíochtaí seo a leanas a fháil: Pinsean Easláinte, Pinsean na nDall, Liúntas Míchumais nó Liúntas Cúramóra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In all other circumstances, you must apply for free travel by completing a Free Travel application form FT1 (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sna cásanna eile go léir, bíonn ort iarratas a chur isteach ar Phas Saorthaistil, trí fhoirm iarratais FT1 (pdf) a chomhlánú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can get this form and additional information from the Department of Social Protection - see 'Where to apply' below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir an fhoirm seo agus tuilleadh eolais a fháil ón Roinn Coimirce Sóisialaí - féach 'Cá háit a dhéanfaidh mé iarratas' thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The form is also available at your local post office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an fhoirm ar fáil ó d'oifig an phoist áitiúil freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are married or in a civil partnership and either of you apply for free travel or are issued a card automatically, the appropriate type of card (to allow your spouse or civil partner to accompany you free of charge) will be issued</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú pósta nó i bpáirtnéireacht sibhialta agus go ndéanann ceachtar agaibh iarratas ar Phas Saorthaistil nó go n-eisítear ceann ar dhuine agaibh go huathoibríoch (chun cur ar chumas do chéile/páirtnéir sibhialta taisteal leat saor in aisce), eiseofar an pas oiriúnach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are cohabiting, you must apply for this type of card by completing PART 2 of the application form above</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ag cónaí le duine , ní mór duit iarratas a dhéanamh ar an gcineál sin pas trí PÁIRT2 den fhoirm iarratais thuas a chomhlánú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are unable to travel alone you apply for a Free Travel Companion pass separately, using either an Over 70 Companion pass form (pdf) or an Under 70 Companion pass form (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá Pas Saorthaistil agat cheana féin (stádas singil), ní mór duit é a sheoladh ar ais leis an bhfoirm iarratais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Lost or damaged Free Travel Passes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Pas Saorthaistil caillte nó damáistithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are currently 2 types of Free Travel Pass - a paper Free Travel Pass and a Public Services Card Free Travel (with F-T written in the top left-hand corner)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá 2 cineál Pas Saorthaistil láithreach Pas Saorthaistil páipéar agus Cárta Seirbhísí Poiblí Saorthaistil (le F-T scríofa sa chúinne uachtarach ar chlé)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Paper passes are no longer being issued so if you need a replacement for a lost or damaged paper pass you must register for a Public Services Card</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní eisítear pasanna páipéar a thuilleadh. Más gá duit pas páipéar caillte nó damáiste a athsholáthar, ní mór duit clárú do Chárta Seirbhísí Poiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your Public Services Card Free Travel is lost, stolen or damaged, you should telephone 1890 837000 to request a replacement card.   Where to apply  Free Travel Section  Social Welfare Services College Road Sligo Ireland  Tel:(071) 915 7100 Locall:1890 500 000 Homepage: http://www.welfare.ie/  You can email the Free Travel section using the secure enquiry form</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá do Chárta Seirbhísí Poiblí Saorthaistil caillte, goidte nó damáistithe, caithfidh tú glao teileafóin a chur ar 1890 837000 chun cárta athsholáthar a iarraidh</seg></tuv>
+</tu>
+</body>
+</tmx>

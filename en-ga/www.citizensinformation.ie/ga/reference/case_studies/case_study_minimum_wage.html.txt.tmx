@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Sean works 43 hours per week including three hours on a Saturday</seg></tuv>
+  <tuv xml:lang="ga"><seg>Oibríonn Seán 43 uaireanta in aghaidh na seachtaine ina áirítear trí uair a' chloig ar an Satharn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He is entitled to the minimum wage of €9.25 as he is an experienced adult employee and isn't on a training or study course</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé i dteideal íosphá de €9.25 toisc gur fostaí aosach taithíthe é agus níl sé ar chúrsa oiliúna ná staidéir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He is paid a gross wage of €400 per week</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íoctar ollphá de €400 in aghaidh na seachtaine leis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Sean's pay includes a €20 premium for working Saturdays</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuimsítear táille €20 sa phá do Sheán as ucht oibriú Dé Sathairn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He asked his employer about the national minimum wage and his employer gave him the following information:</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'iarr sé ar a fhostóir faoin íosphá náisiúnta agus thug a fhostóir an teolas a leanas dó:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The pay reference period is weekly</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tá an tréimhse tagartha pá ar bhonn seachtainiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Dividing the gross pay (€400) by the hours worked (43), this gives an average hourly pay of €9.30</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má roinntear an t-ollphá (€400) ar na huaireanta a oibríodh (43), tugann sé seo meánráta pá de €9.30 in aghaidh na huaire</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is slightly above the current national minimum wage of €9.25 per hour</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé seo beagán os cionn an íosráta pá náisiúnta de €9.25 in aghaidh na huaire</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Is Sean's employer correct?</seg></tuv>
+  <tuv xml:lang="ga"><seg>An bhfuil fostóir Seán ceart?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>No, Sean's employer is incorrect</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl, tá fostóir Seán mícheart</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The €20 premium for working on Saturdays should not be included for national minimum wage purposes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níor chóir go gcuimseofaí an táille €20 as ucht oibriú Dé Sathairn do chuspóirí an íosphá náisiúnta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that only €380 should be divided by 43, giving an average hourly pay of €8.84 - below the national minimum wage of €9.25</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn sé seo gur cheart €380 amháin a roinnt ar 43, ag tabhairt meánráta pá de €8.84 - taobh thíos den íosphá náisiúnta ag €9.25</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Sean's entitlement is a basic wage of €397.75 (€9.25 x 43) plus €20 Saturday premium which comes to a total of €417.75</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is bunphá de €397.75 (€9.25 x 43) móide €20 mar tháille an Sathairn atá mar theidlíocht ag Seán a thagann go dtí iomlán de €417.75</seg></tuv>
+</tu>
+</body>
+</tmx>

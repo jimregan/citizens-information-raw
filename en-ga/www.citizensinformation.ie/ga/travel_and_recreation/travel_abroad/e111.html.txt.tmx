@@ -1,0 +1,381 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>The European Health Insurance Card</seg></tuv>
+  <tuv xml:lang="ga"><seg>An Cárta Eorpach um Árachas Sláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Refund of health costs</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Aisíocaíocht ar chostais sláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The following information explains how to apply for a European Health Insurance Card (EHIC) if you are living in Ireland or living in another EU/EEA State and are linked to the Irish Social Security System</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mínítear san fhaisnéis seo a leanas conas iarratas a dhéanamh ar Chárta Eorpach um Árachas Sláinte (CEÁS) má tá tú i do chónaí in Éirinn nó i do chónaí i Stát AE/LEE eile atá nasctha le Córas Slándála Sóisialaí na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you live in Ireland but you are linked to another EU/EEA State's Social Security System, contact the health authorities in that country for more information</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú i do chónaí in Éirinn agus nasctha le Córas Slándála Sóisialaí de chuid Stát AE/LEE eile, déan teagmháil le húdaráis sláinte na tíre sin le haghaidh tuilleadh faisnéise</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are an EU/EEA national and are travelling or staying temporarily in another state of the European Economic Area (EEA) or Switzerland, you are entitled to receive medical care if you become ill or have an accident</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú i do náisiúnach AE/LEE agus tú ag taisteal nó ag fanacht ar bhonn sealadach i stát eile de chuid an Limistéir Eorpaigh Eacnamaíoch (LEE) nó na hEilvéise, beidh tú i dteideal cúram míochaine a fháil má éiríonn tú tinn nó má bhíonn timpiste agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are a student or a seconded worker, or if you are entitled to a social security pension in that state, you will be entitled to health care beyond the immediate treatment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mac léinn nó oibrí ar iasacht tú, nó má tá tú i dteideal pinsean slándála sóisialaí sa stát sin, beidh tú i dteideal cúram sláinte a fháil sa bhreis ar an gcóireáil láithreach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The European Health Insurance Card (EHIC) replaced the E111 form and a number of other 'E' forms including the E128, making it easier for you to get medical care quickly and easily</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tháinig an Cárta Eorpach um Árachas Sláinte (CEÁS) i gcomharba ar an bhfoirm E111 agus ar roinnt foirmeacha ‘E’ eile lena n-áirítear an E128, agus dá réir sin is furasta duit cúram míochaine a fháil go tapa agus go réidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is evidence that you are part of a health insurance scheme administered by another state in the EEA/Switzerland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is fianaise é go bhfuil tú mar chuid de scéim árachais sláinte arna riar ag stát eile san LEE/san Eilvéis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To obtain healthcare with the Card, you can go to the nearest public system doctor, public hospital, or other public treatment centre and present your Card</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhonn cúram sláinte a fháil leis an gCárta, is féidir leat dul chuig an dochtúir is gaire de chuid an chórais phoiblí, chuig an ospidéal poiblí, nó chuig ionad cóireála poiblí eile agus do Chárta a thaispeáint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Public health care systems vary from country to country, and few countries pay the full cost of health care for holders of the Card, so there may be some element of co-payment for the services you receive</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn difríochtaí idir na córais cúraim sláinte phoiblí ó thír go tír, agus is beag é líon na dtíortha a íocann as costas iomlán an chúraim sláinte le haghaidh sealbhóirí an Chárta, dá réir sin d’fhéadfadh gné chomhíocaíochta a bheith i gceist le haghaidh na seirbhísí a fhaigheann tú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Currently, the EEA comprises the 28 member states of the European Union together with Iceland, Norway and Liechtenstein</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi láthair, cuimsítear sa LEE 28 tír an Aontais Eorpaigh (AE) mar aon leis an Íoslainn, an Iorua, agus Lichtinstéin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your European Health Insurance Card is valid for use throughout any of these countries and in Switzerland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá do Chárta Eorpach um Árachas Sláinte bailí lena úsáid ar fud aon cheann de na tíortha seo agus san Eilvéis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where can I use my European Health Insurance Card?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cá háit ar féidir liom mo Chárta Eorpach um Árachas Sláinte a úsáid?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In any EU/EEA Country and in Switzerland</seg></tuv>
+  <tuv xml:lang="ga"><seg>In aon tír AE/LEE agus san Eilvéis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Follow this link to find out where you can use your Card and how to access care abroad</seg></tuv>
+  <tuv xml:lang="ga"><seg>Lean an nasc seo chun faisnéis a fháil maidir le cá háit ar féidir leat do Chárta a úsáid agus conas is féidir leat rochtain a fháil ar chúram agus tú thar lear</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the country you are visiting is not among those listed, you cannot use a European Health Insurance Card there and you should obtain private health insurance instead</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil an tír ar a bhfuil tú ar chuairt san áireamh sna cinn atá liostaithe, ní féidir leat an Cárta Eorpach um Árachas Sláinte a úsáid ann agus ba cheart duit árachas sláinte príobháideach a fháil ina ionad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Andorra and Monaco are not part of the EU (they are separate principalities)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl Andóra ná Monacó mar chuid den AE (tá siad ina bprionsachtaí ar leith)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As they are not part of the EU, they are not subject to EU regulations and your European Health Insurance Card is not acceptable there</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ós rud é nach bhfuil siad mar chuid den AE, níl siad faoi réir ag rialacháin an AE agus ní ghlactar le do Chárta Eorpach um Árachas Sláinte iontu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are advised to obtain private health insurance instead</seg></tuv>
+  <tuv xml:lang="ga"><seg>Moltar duit árachas sláinte príobháideach a fháil ina ionad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Can non-EU nationals apply for and use European Health Insurance Cards?</seg></tuv>
+  <tuv xml:lang="ga"><seg>An féidir le náisiúnaigh nach as an AE iad iarratas a dhéanamh ar Chártaí Eorpacha um Árachas Sláinte agus iad a úsáid?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under Regulation 859/2003 any non-EU national, their family members or survivors legally resident in the territory of an EU member state may apply for and use a European Health Insurance Card or Temporary Replacement Certificate while on temporary visits between member states. However, they cannot use their card for medical treatment in Denmark, Iceland, Liechtenstein, Norway or Switzerland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi Rialachán 859/2003 is féidir le náisiúnach nach ón AE é/í, a m(h)uintir ná a m(h)arthanóirí, ach atá ina c(h)ónaí i gcríoch bhallstát an AE iarratas a chur isteach ar Chárta Eorpach um Árachas Sláinte nó ar Theastas Ionadach Sealadach agus leas a bhaint astu nuair a bhíonn siad ar chuairteanna sealadacha idir bhallstáit.Mar sin féin, ní féidir iad a úsáid a gcuid cártaí le haghaidh cóireála leighis sa Danmhairg, an Íoslainn, Lichtinstéin, an Iorua nó den Eilbhéis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can only apply for an European Health Insurance Card from the Irish health authorities if you are:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat iarratas a dhéanamh ar Chárta Eorpach um Árachas Sláinte ó húdaráis sláinte na hÉireann má bhaineann an méid seo a leanas leat:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Ordinarily resident in Ireland and you are not receiving a Social Insurance payment from another EU State or paying another EU State's Social Insurance, or you are not the dependant of such a person</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tá tú i do chónaí de ghnáth in Éirinn agus níl íocaíocht Árachais Shóisialta á fáil agat ó Stát AE eile ná níl tú ag íoc as Árachas Sóisialta Stát AE eile, ná níl tú cleithiúnach ar dhuine dá leithéid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Resident in another EU State and you are receiving an Irish Social Insurance payment or paying Irish Social Insurance, or you are a dependant of such a person</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tá tú i do chónaí i Stát AE eile agus níl íocaíocht Árachais Shóisialta Éireannach á fáil agat ná níl tú ag íoc as Árachas Sóisialta na hÉireann, ná níl tú cleithiúnach ar dhuine dá leithéid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Like the old E111, the European Health Insurance Card only entitles you to the state-funded health care scheme in the country in which you are staying</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dála an sean-E111, ní thugann an Cárta Eorpach um Árachas Sláinte teidlíocht duit ach amháin i leith na scéime cúraim sláinte stát-mhaoinithe sa tír ina bhfuil tú ag fanacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It will not cover any of the costs involved in transporting you back to Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chlúdóidh sé aon cheann de na costais a ghabhann le d’iompar ar ais go hÉirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Every individual member of the family or group will require their own card</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh a c(h)árta féin ag teastáil ó gachball aonair de theaghlach nó de ghrúpa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Each European Health Insurance Card will be valid throughout the EEA and Switzerland for up to 4 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh gach Cárta Eorpach um Árachas Sláinte bailí ar fud an LEE agus na hEilvéise ar feadh tréimhse nach mó ná 4 bhliain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can get a European Health Insurance Card in Ireland if you are ordinarily resident here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat Cárta Eorpach um Árachas Sláinte a fháil in Éirinn má tá tú i do chónaí anseo de ghnáth</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The European Health Insurance Card will not cover you for health care in any country outside the EEA, with the exception of Switzerland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní thabharfaidh an Cárta Eorpach um Árachas Sláinte clúdach duit maidir le cúram sláinte i dtír ar bith lasmuigh den LEE, cé is moite de Eilvéis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You don’t need a European Health Insurance Card to get necessary health care while on a temporary visit to the UK if you are an Irish resident</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní gá duit Cárta Eorpach um Árachas Sláinte a bheith agat d’fhonn cúram sláinte riachtanach a fháil fad is atá tú ar chuairt shealadach sa RA más cónaitheoir Éireannach tú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is enough to show proof that you are ordinarily resident in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is leor é cruthúnas a thabhairt go mbíonn tú i do chónaí in Éirinn de ghnáth</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(In practice, proof that you are ordinarily resident in Ireland means a driving licence, Irish passport or similar document.)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Is éard atá i gcruthúnas go mbíonn tú i do chónaí in Éirinn de ghnáth ná ceadúnas tiomána, pas Éireannach nó doiciméad comhchosúil.)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>What is 'necessary health care' for the purposes of using my European Health Insurance Card?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cad is ‘cúram sláinte riachtanach’ ann ó thaobh úsáid a bhaint as mo Chárta Eorpach um Árachas Sláinte?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The term 'necessary care' was defined under decision 194 of 2003 by the Administrative Commission on Social Security for Migrant Workers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sainmhíníodh an téarma ‘cúram riachtanach’ faoi chinneadh 194 na bliana 2003 ón gCoimisiún Riaracháin maidir le Slándáil Shóisialach d’Oibrithe Imirceacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>That decision defines necessary care as benefits granted with a view to preventing an insured person from being forced to return home to their home member state and enabling them to continue their temporary stay in another member state under safe medical conditions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rinneadh sainmhíniú leis an gcinneadh sin ar chúram riachtanach mar tairbhí a thugtar ionas nach mbeadh ar dhuine a bhfuil árachas aige/aici dul abhaile chuig an mballstát as a dtáinig sé/sí agus cuireann sé ar a c(h)umas leanúint ar aghaidh lena f(h)anacht sealadach i mballstát eile faoi dhálaí míochaine sábháilte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The decision specifically states that it does not cover persons who travel within Europe in order to obtain treatment in a country other than that in which they are insured</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sonraíonn an cinneadh nach gclúdaíonn sé daoine a dhéanann taisteal san Eoraip d’fhonn cóir leighis a fháil i dtír seachas sin ina bhfuil siad faoi árachas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is further information regarding the rights and obligations of those who hold and use a European Health Insurance Card here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh faisnéise maidir le cearta agus oibleagáidí na ndaoine a bhfuil Cárta Eorpach um Árachas Sláinte acu agus a mbaineann úsáid as anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>How do I renew my European Health Insurance Card?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Conas is féidir liom mo Chárta Eorpach um Árachas Sláinte a athnuachan?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your Card will not be renewed automatically - instead, you must apply to renew your Card</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní dhéanfar do Chárta a athnuachan go huathoibríoch - beidh ort iarratas a dhéanamh chun do Chárta a athnuachan</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>See 'How to apply' below for instructions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féach 'Conas iarratas a dhéanamh' thíos le haghaidh treoracha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Remember, if any of your details have changed (e.g</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuimhnigh, más rud é go bhfuil athrú tagtha ar aon cheann de do chuid sonraí (m.sh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>address, etc.) since your last card was issued you must contact your Local Health Office to have this information updated in advance of renewal</seg></tuv>
+  <tuv xml:lang="ga"><seg>seoladh, srl) ón am a eisíodh do chárta deireanach tá ort teagmháil a dhéanamh le d’Oifig Sláinte Áitiúil d’fhonn an fhaisnéis sin a nuashonrú roimh an athnuachan</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>What if I don't have my Card before I travel?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cad é an scéal mura bhfuil mo Chárta faighte agam sula ndéanaim taisteal?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you don't have your European Health Insurance Card for any reason, you can get a Temporary Replacement Certificate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil do Chárta Eorpach um Árachas Sláinte faighte agat, is cuma an chúis, is féidir leat Teastas Ionadach Sealadach a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This Certificate gives you the same entitlement as the Card, but for a shorter period</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an teidlíocht chéanna agat leis an Teastas is atá leis an gCárta, ach ar feadh tréimhse níos giorra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can apply online for this Certificate, or by post or in person to your Local Health Office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat iarratas a chur isteach ar an Teastas ar líne, tríd an bpost nó go pearsanta ag an Oifig Sláinte Áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(See 'Where to apply' below)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Féach ‘'Cá háit a ndéanfaidh mé iarratas' thíos)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>One Temporary Replacement Certificate is issued per person</seg></tuv>
+  <tuv xml:lang="ga"><seg>Eisítear aon Teastas Ionadach Sealadach amháin in aghaidh an duine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Using a European Health Insurance Card in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cárta Eorpach um Árachas Sláinte a úsáid in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are more than 2,000 family doctors (GPs) in Ireland contracted to the European Health Insurance Card scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá breis is 2,000 dochtúirí teaghlaigh (DG) in Éirinn a bhfuil conradh acu le haghaidh scéim an Chárta Eorpaigh um Árachas Sláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are an EU/EEA national with a European Health Insurance Card (or equivalent) visiting Ireland you can avail of necessary family doctor services and emergency dental treatment for the relief of pain (and urgent denture repairs) under EU regulations</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más náisiúnach AE/LEE tú a bhfuil Cárta Eorpach um Árachas Sláinte (nó a chomhionann) agat agus tú ar chuairt in Éirinn is féidir leat leas a bhaint as seirbhísí riachtanacha dochtúirí teaghlaigh agus as cóireáil fiaclóireachta éigeandála chun faoiseamh a fháil ó phian (agus cíor fiacla a dheisiú) faoi rialacháin AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Emergency services in Ireland are contactable by telephoning 999 or 112, free of charge</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir teagmháil a dhéanamh le seirbhísí in Éirinn trí ghlao a chur ar 999 nó ar 112, saor in aisce</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further information about how to obtain treatment from a family doctor or dentist, prescription medicines and hospital treatment while visiting Ireland is available here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh faisnéise maidir le conas cóireáil ó dhochtúir teaghlaigh nó ó fhiaclóir, leigheasanna oidis agus cóireáil ó ospidéil a fháil agus tú ar cuairt in Éirinn ar fáil anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is no fee for the European Health Insurance Card or for a Temporary Replacement Certificate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní ghearrtar aon táille maidir leis an gCárta Eorpach um Árachas Sláinte nó maidir le Teastas Ionadach Sealadach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Renewing a European Health Insurance Card is also free</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé saor in aisce Cárta Eorpach um Árachas Sláinte a athnuachan fosta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Applying for a European Health Insurance Card for the first time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Iarratas den chéad uair ar Chárta Eorpach um Árachas Sláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are travelling to an EU/EEA country or Switzerland you should apply for an European Health Insurance Card (or Temporary Replacement Certificate) in advance of travel</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ag taisteal chuig tír AE/LEE nó chuig an Eilvéis ba cheart duit iarratas a dhéanamh ar Chárta Eorpach um Árachas Sláinte (nó ar Theastas Ionadach Sealadach) roimh duit taisteal a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may apply online for your European Health Insurance Card if you are currently resident in Ireland and you already have either a medical card or a Drugs Payment Scheme (DPS) card</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat iarratas a dhéanamh ar líne ar do Chárta Eorpach um Árachas Sláinte má tá tú i do chónaí faoi láthair in Éirinn agus má tá ceachtar de chárta leighis nó cárta Scéim Íoctha Drugaí (DPS) agat cheana féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your online application will be forwarded to the HSE Primary Care Re-imbursement Service) for processing</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfar d’iarratas ar líne a chur ar aghaidh chuig Seirbhís Aisíocaíochta Cúraim Phríomhúil FSS lena phróiseáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your Card or Certificate will then be posted out to you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirfear do Chárta nó do Theastas chugat sa phost ansin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Alternatively, you can download a European Health Insurance Card application form here (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nó féadfaidh tú foirm iarratais ar Chárta Eorpach um Árachas Áitiúil a íoslódáil anseo (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are applying for a Temporary Replacement Certificate, write 'Temporary Replacement Certificate' on the form</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ag déanamh iarratais ar Theastas Ionadach Sealadach, scríobh 'Teastas Ionadach Sealadach' ar an bhfoirm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Complete the form and return it to your Local Health Office at least 1 month before you leave Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déan an fhoirm a chomhlánú agus í a sheoladh ar ais chuig an Oifig Sláinte Áitiúil 1 mhí ar a laghad sula n-imíonn tú ó Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Copies of the application form for a European Health Insurance Card are also available from your Local Health Office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá cóipeanna den fhoirm iarratais ar Chárta Eorpach um Árachas Sláinte ar fáil fosta ó na hOifige Sláinte Áitiúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are resident in another EU/EEA member state, a different application form is used</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú i do chónaí i mballstát AE/LEE eile, úsáidtear foirm iarratais éagsúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can apply online or download the form and email or post it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat iarratas a dhéanamh ar líne nó an fhoirm a íoslódáil agus í a chur i ríomhphost nó sa phost</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Renewing an expired European Health Insurance Card</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cárta Eorpach um Árachas Sláinte atá as feidhm a athnuachan</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>European Health Insurance Cards are not re-issued automatically when they expire</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní eisítear Cártaí Eorpacha um Árachas Sláinte go huathoibríoch nuair a théann siad as feidhm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Instead, you must apply to renew your Card</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina ionad sin, bíonn ort iarratas a dhéanamh chun do Chárta a athnuachan</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Before you apply to renew your expired Card online, remember to have your old Card to hand</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sula ndéanfaidh tú iarratas chun do Chárta atá as feidhm a athnuachan ar líne, cuimhnigh do shean-Chárta a bheith ar láimh agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have changed address or your name since your last Card was issued you will need to contact your Local Health Office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má athraigh tú do sheoladh nó d’ainm ón am a eisíodh do Chárta deireanach beidh ort dul i dteagmháil leis an Oifig Sláinte Áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is advisable to apply well in advance of the date you plan to travel</seg></tuv>
+  <tuv xml:lang="ga"><seg>Moltar duit iarratas a dhéanamh i bhfad roimh an dáta ar a ndéanfaidh tú taisteal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Renew your European Health Insurance Card online here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déan do Chárta Eorpach um Árachas Sláinte a athnuachan ar líne anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Select the Renew Current Card option at the top of the screen</seg></tuv>
+  <tuv xml:lang="ga"><seg>Roghnaigh an rogha Déan an Cárta Reatha a Athnuachan ar barr an scáileáin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will then be asked to enter the 10-digit identification number listed on your expired Card</seg></tuv>
+  <tuv xml:lang="ga"><seg>Iarrfar ort an uimhir aitheantais 10 ndigit atá liostaithe ar do Chárta éagtha a chur isteach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This number is located on the front of your Card, in the bottom left-hand section</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an uimhir seo lonnaithe ar aghaidh do Chárta, sa chuid ar bun thaobh na láimhe clé</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are then asked to confirm the address to which the Card will be dispatched</seg></tuv>
+  <tuv xml:lang="ga"><seg>Iarrtar ort an seoladh ar cheart an Cárta a chur chuige a dhearbhú ansin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>After this, you will see a confirmation screen, confirming that your renewal application has been successful and that your Card will be dispatched</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina dhiaidh sin, feicfidh tú scáileán dearbhúcháin, ag dearbhú gur éirigh le d’iarratas ar athnuachan agus go cuirfear do Chárta chugat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Refund of health costs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Aisíocaíocht ar chostais sláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The European Health Insurance Card (EHIC) entitles you to healthcare through the public system if you become ill or injured while on a temporary stay</seg></tuv>
+  <tuv xml:lang="ga"><seg>An Cárta Eorpach um Árachas Sláinte ( EHIC ) tú i dteideal cúram sláinte tríd an gcóras poiblí má éiríonn tú breoite nó gortaithe fad ar fanacht go sealadach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In some states you may have to make some payment towards the cost of the services you receive, just as residents in that state do</seg></tuv>
+  <tuv xml:lang="ga"><seg>I roinnt stát b'fhéidir go mbeadh ort a dhéanamh ar roinnt íocaíochta i leith chostas na seirbhísí a fhaigheann tú, díreach mar a dhéanann cónaitheoirí sa stát sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Such payments are non-refundable</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá íocaíochtaí den sórt sin neamh-inaisíoctha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you avail of private health care no refund is payable</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhaineann tú leas as íocaíochtaí cúram sláinte príobháideach nach bhfuil aisíoctha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may be entitled to a refund if you were charged because you did not present a valid EHIC or you were charged in error by the health service provider in the other state</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú a bheith i dteideal aisíocaíochta dá muirearófaí tú toisc nach raibh tú i láthair ar EHIC bailí nó dá muirearófaí tú i earráid ag an soláthraí seirbhíse sláinte sa stát eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should apply for a refund to your HSE Local Health Office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir duit iarratas a dhéanamh ar aisíocaíocht chuig d'Oifig Sláinte Áitiúil FSS</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should bring any receipts you have</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir duit a thabhairt ar aon admhálacha agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The HSE will send an E126 form to the health authorities in the other state to establish:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirfidh an FSS foirm E126 a sheoladh chuig na húdaráis sláinte sa stát eile a bhunú:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you availed of a public health service</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má úsáidtear tú seirbhís sláinte poiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The level of refund that is due to you</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Leibhéal aisíoc atá dlite duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>On return of the completed E126 form from the other state, the HSE should be able to determine if a refund is due or not</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a bhíonn an fhoirm E126 comhlánaithe a chur ar ais ag an stát eile, ba chóir don FSS a bheith in ann a chinneadh an bhfuil aisíoc dlite nó nach bhfuil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further information is available on the HSE website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh eolais ar fáil ar láithreán gréasáin an FSS</seg></tuv>
+</tu>
+</body>
+</tmx>

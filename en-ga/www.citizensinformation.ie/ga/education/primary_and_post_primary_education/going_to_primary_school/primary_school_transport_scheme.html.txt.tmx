@@ -1,0 +1,213 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Primary school transport scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>An scéim iompair bhunscoile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The school transport scheme provides transport for children who live 3.2 km or more from their local primary school</seg></tuv>
+  <tuv xml:lang="ga"><seg>Soláthraíonn an scéim iompar scoileanna iompar do leanaí a bhfuil cónaí orthuníos mó ná 3.2 km óna mbunscoil áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The scheme is funded by the Department of Education and Skills</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an scéim maoinithe ag an Roinn Oideachais agus Scileanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In order to qualify for school transport, a child must be aged between 4 and 12 years and living 3.2 km or more from the nearest suitable national school</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun cáiliú d’iompar scoile, caithfidh an leanbh a bheith idir 4 agus 12 bliain d’aois a bhfuil cónaí air níos mó ná 3.2 km ón scoil náisiúnta oiriúnach is gaire</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Children with special needs are also eligible for free transport to and from special schools and to special classes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ta leanaí le riachtanais speisialta incháilithe freisin do shaoriompar chuig agus ó scoileanna agus ranganna speisialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If there are spare seats available, children who are not eligible can be carried on school transport</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ma tá suíocháin spártha ar fáil, is féidir leanaí nach bhfuil cáilithe a iompar ar iompar scoile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Department of Education and Skills provide a list of FAQs about the School Transport Grant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Soláthraíonn an Roinn Oideachais agus Scileanna liosta ceisteanna coitianta maidir leis an Deontas Iompar Scoile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Department of Education and Skills decides what the nearest suitable school is</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cinneann an Roinn Oideachais agus Scileanna an scoil oiriúnach is gaire</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a child is attending a school that has more than one teacher and there is a one-teacher school nearer the home, that fact will not usually disqualify the child from using the school transport scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá leanbh ag freastal ar scoil a bhfuil níos mó ná múinteoir amháin inti, agus tá scoil aon-mhúinteoir níos gaire don bhaile, ní dhícháilíonn an fhíric seo an leanbh as an scéim iompar scoile a úsáid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Children attending multi-denominational schools or Gaelscoileanna (Irish-speaking schools) are eligible if they meet the distance requirements to their school</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá leanaí a fhreastalaíonn ar scoileanna ilchreidmheacha nó Gaelscoileanna (scoileanna labhartha Gaeilge) incháilithe má chomhlíonann siad ceanglais fhaid dá scoil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They are not disqualified because there is another national school nearer to them</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl siad dícháilithe mar gheall go bhfuil scoil náisiúnta eile níos gaire dóibh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are also special arrangements for Protestant children attending Protestant schools and children living in remote areas</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá socruithe speisialta ann freisin do leanaí Protastúnacha a fhreastalaíonn ar scoileanna Protastúnacha agus leanaí a bhfuil cónaí orthu i gciancheantair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The scheme is not a door-to-door service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní seirbhís doras-go-doras atá sa scéim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Parents/guardians are responsible for bringing their children to the nearest pick-up point to avail of the service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuismitheoirí/caomhnóirí freagrach as a leanaí a thabhairt chuig an bpointe tógála is gaire chun teacht a bheith acu ar an tseirbhís</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Generally routes are planned so pupils don't have to travel more than 2.4 km to their nearest pick-up point</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, pleanáiltear bealaí sa chaoi nach bhfuil ar dhaltaí taisteal níos mó na 2.4km chuig a bpointe tógála is gaire</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If there is no school transport service available, you may be able to get a grant towards the costs of private transport for a child who cannot get to school without transport due to an illness or disability</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil seirbhís iompar scoile ar fáil, d’fhéadfaí go bhfaigheadh tú deontas chuig costais iompar príomhaideach do leanbh nach bhfuil in ann teacht ar scoil gan iompar mar gheall ar thinneas nó ar mhíchumas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Establishing and retaining a school transport service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag cur ar bun agus ag coinneáil seirbhís iompar scoile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There must be enough children to use the service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh go mbeidh dóthain leanaí chun an tseirbhís a úsáid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that there must be a daily average (over a school term) of at least 10 eligible children in a distinct area attending their nearest suitable school</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn sé sin go gcaithfidh go mbeidh meán laethúil (thar théarma scoile) de ar a laghad 10 leanbh incháilithe incháilithe i limistéir leithleach ag freastal ar a scoil oiriúnach is gaire</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Closed or merged schools</seg></tuv>
+  <tuv xml:lang="ga"><seg>Scoileanna dúnta nó cumaiscthe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The following rules applied in the school year 2011-2012</seg></tuv>
+  <tuv xml:lang="ga"><seg>Le héifeacht ón scoilbhliain 2011-2012 tháinig na rialacha nua a leanas i bhfeidhm:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Children in a closed school area who are living within 3.2 km from a ‘school of amalgamation’ are no longer be eligible for transport to that school, but they may apply for concessionary transport if there are seats available</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Níl leanaí a bhfuil cónaí orthu i limistéir scoil dhúnta laistigh de 3.2km ó ‘scoil chonasctha’ incháilithe níos mó d’iompar chuig an scoil sin, ach féadfaidh siad cur isteach ar iompar lamháltais má tá suíocháin ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Current pupils who are eligible for transport under the Central/Closed School Rule (CSR)*, and who live 3.2 km or more from their school of amalgamation will remain eligible for the rest of their primary schooling</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Fanfaidh daltaí reatha atá incháilithe d’iompar faoin RLSD* agus a bhfuil cónaí orthu 3.2km nó níos faide óna scoil chonasctha incháilithe don chuid eile dá mbunscolaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>*In the school year 2010-2011 when 2 or more primary schools merged, the children for whom the closed school would have been the nearest could only have transport to the school that was the result of the merger</seg></tuv>
+  <tuv xml:lang="ga"><seg>*I scoilbhliain 2010-2011, sa chás gur cónascadh dhá bhunscoil nó níos mó, ní raibh iompar ag na leanaí don scoil dhúnta, an scoil ba ghaire dóibh, ach amháin chuig an scoil chónasctha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the CSR some children living less than 3.2 km from such a ‘school of amalgamation’ were eligible for school transport</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoin Riail Scoile Dúnta, bhí roinnt leanaí ar a raibh cónaí níos lú ná 3.2km ó ‘scoil chónasctha’ den saghas sin i dteideal iompar scoile a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>From the 2012-2013 school year, eligibility based on the CSR ceased for all new pupils entering primary schools</seg></tuv>
+  <tuv xml:lang="ga"><seg>Le héifeacht ón scoilbhliain 2012-2013, scoirfear incháilitheacht bunaithe ar an RLSD do gach dalta ag dul isteach sna scoileanna naisiúnta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This may mean that where there is now a school that is nearer than the school of amalgamation, siblings in some families may have school transport eligibility to different schools from the 2012-2013 school year onward</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfaí go gciallódh sé seo anois áit a bhfuil scoil oscailte níos gaire ná an scoil chonasctha, go mbeadh incháilitheacht iompar scoile ag siblíní i dteaghlaigh ar leith chuig scoileanna difriúla ón scoilbhliain 2012-2013 ar aghaidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Department of Education and Skills publishes detailed information on the conditions governing the primary school transport scheme (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Foilsíonn an Roinn Oideachais agus Scileanna eolas sonrach ar na conníollacha atá ag rialú an scéim iompar bunscoile (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Remote area grants are payable by the Department as a contribution towards private transport arrangements for eligible pupils for whom no transport service is available</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocann an Roinn deontais d’áiteanna iargúlta mar ranníocaíocht i dtreo socruithe iompair do dhaltaí incháilithe nach bhfuil seirbhís iompair ar fáil dóibh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These grants may also be paid for eligible pupils who live 3.2 km or more from the nearest pick-up point for school transport</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir na deontais seo a íoc, freisin, do dhaltaí incháilithe a chónaíonn 3.2 ciliméadar nó níos mó ón bpointe bailithe is gaire d’iompar scoile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Children eligible for school transport</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leanaí incháilithe d’iompar scoile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is a charge of €100 per year for each eligible child, with a maximum of €220 for each family which only uses the primary school transport scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá muirir €100 sa bhliain do gach leanbh incháilithe, le huasmhéid €220 do gach teaghlach a úsáideann an scéim iompar bunscoile amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For families who also have eligible children using the post-primary transport scheme, a maximum of €650 per family per year will be charged</seg></tuv>
+  <tuv xml:lang="ga"><seg>Do theaghlaigh a bhful leanaí incháilithe acu a bhaineann úsáid as an scéim iompar iarbhunscoile, gearrfar uasmhéid de €650 in aghaidh an teaghlaigh in aghaidh na bliana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Eligible children who hold a medical card do not have to pay the charge</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bheidh ar leanaí incháilithe a bhfuil cárta leighis acu an muirir a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Children not eligible for school transport</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leanaí nach bhfuil incháilithe d’iompar scoile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If there are spare seats available, a child who is not eligible can use school transport at a charge of €100 per year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá suíocháin spártha ar fáil, beidh leanbh nach bhfuil incháilithe in ann iompar scoile a úsáid ag muirir €100 in aghaidh na bliana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The maximum annual amount for a family is €220</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an t-uasmhéid bliantúil do theaghlach ná €220</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Children who hold a medical card, but who are not eligible for school transport, will still have to pay this charge</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh leanaí a bhfuil cárta leighis acu, ach nach bhfuil incháilithe d’iompar scoile, an muirir seo a íoc fós</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In general, the charge is due to be paid in full by the end of July or else in 2 instalments by the end of July and early December</seg></tuv>
+  <tuv xml:lang="ga"><seg>De ghnáth, tá an muirear dlite a bheith íoctha ina iomláine roimh dheireadh Iúil nó i 2 thráthchuid roimh dheireadh Iúil agus go luath i mí an Nollaig</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The scheme is operated by Bus Éireann on behalf of the Department</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an scéim á hoibriú ag Bus Éireann ar son na Roinne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your child is enrolling in national school for the first time, you can either apply for school transport online or download the form from Bus Éireann's website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá do leanbh ag rollú i scoil náisiúnta den chéad uair, is féidir leat cur isteach ar iompar scoile ar líne nó an fhoirm a íoslódáil ó láithreán gréasáin Bhus Éireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For the school year 2017-2018, you should apply by Friday, 5 May 2017</seg></tuv>
+  <tuv xml:lang="ga"><seg>Do scoilbhliain 2017-2018, ba cheart duit iarratas a dhéanamh faoi Dé hAoine an 5 Bealtaine 2017</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will need the roll number of your child’s school (pdf) in order to complete the application</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh uimhir rolla scoil do linbh (pdf) ag teastáil uait d’fhonn an t-iarratas a chomhlánú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Bus Éireann will send the invoice for the fare directly to the parents/guardians</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seolfaidh Bus Éireann an sonrasc don táille go díreach chuig na tuismitheoirí/caomhnóirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In general, the charge is due to be paid in full by the end of July or else in 2 instalments: by the end of July and the start of December</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, tá an muirear dlite lena íoc ina iomláine faoi dheireadh mhí Iúil nó in 2 thráthchuid: faoi dheireadh mhí Iúil agus ag tús mhí na Nollag</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For children who are eligible for school transport and are using it already, Bus Éireann will contact their parents/guardians about transport for the next school year</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás leanaí atá i dteideal iompar scoile a fháil agus a bhfuil leas á bhaint acu as cheana, rachaidh Bus Éireann i dteagmháil lena dtuismitheoirí/gcaomhnóirí maidir le hiompar don chéad scoilbhliain eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For enquiries about time-tables, pick-up points, routes and applications for transport grants you should contact your local Bus Éireann school transport office</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhiosrúcháin faoi thráthchláir, pointí tógála, bealaí agus iarratais ar dheontais iompair, ba cheart duit dul i dteagmháil le d’ oifig iompar scoile Bus Éireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Applications for the remote area grant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Iarratais ar an deontas d’áiteanna iargúlta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should apply in writing directly to the School Transport section of the Department of Education and Skills at the address below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir duit iarratas a dhéanamh i scríbhinn go díreach leis an Rannóg Iompair Scoile na Roinne Oideachais agus Scileanna ag an seoladh thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you wish to appeal a decision on your application for school transport, you should download the appeal form (pdf) and send the completed form to the School Transport Appeals Board c/o the Department of Education and Skills at the address below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mian leat cinneadh a achomharc ar d’iarratas ar iompar scoile, ba cheart duit an fhoirm achomhairc (pdf) a íoslódáil agus an fhoirm chomhlánaithe a sheoladh chuig an mBord Achomhairc Iompair f/c an Roinn Oideachais agus Scileanna ag an seoaldh thíos</seg></tuv>
+</tu>
+</body>
+</tmx>

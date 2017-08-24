@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>If you are living in rented accommodation you are entitled to get a rent book, unless you are renting a room in your landlord’s home</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú i do chónaí i gcóiríocht ar cíos, caithfidh do thiarna talún leabhar cíosa a thabhairt duit, ach amháin má tá seomra ar cíos agat i dteach do thiarna talún</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A rent book is a document that records details about the tenancy and notes all rent payments that you make</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is cáipéis í an leabhar cíosa a thaifeadann mionsonraí faoin tionóntacht agus a thugann faoi deara gach íocaíocht cíosa a thug tú don tiarna talún</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Usually it is in booklet form, but it can be in another form, provided it contains all the necessary details</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is gnách gurb i bhfoirm leabhráin a bhíonn an taifead, ach féadann sé a bheith i bhfoirm eile ar an gcuntar go mbíonn gach sonra riachtanach ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the Housing (Rent Books) Regulations 1993, you are entitled to get a rent book, whether you are renting from a private landlord, a housing association, a local authority or an employer</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagtar síos do cheart do leabhar cíosa faoi na Rialacháin Tithíochta (Leabhair Chíosa) 1993, is cuma an ó thiarna talún príobháideach, ó chomhlacht deonach, ó údarás áitiúil nó ó fhostóir ata an chóiríocht ar cíos agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your landlord should record all rent payments in the rent book</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart go ndéanfadh do thiarna talún gach íocaíocht cíosa a thaifeadadh sa leabhar cíosa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you make the payments in person, the landlord should sign the book or give you a signed receipt with details of the payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéanann tú na híocaíochtaí go pearsanta, ba chóir don tiarna talún an leabhar a shíniú nó admháil shínithe a thabhairt duit le sonraí na híocaíochta inti</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you pay in another way, such as by post or standing order, the landlord should either sign the rent book or give you a written receipt within 3 months of the payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>trí bhuanordú nó trí sheic, ba chóir don tiarna talún an leabhar cíosa a shíniú nó admháil scríofa a thabhairt duit laistigh de thrí mhí ón íocaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your rent book should also contain the following information:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart go mbeadh an t-eolas seo a leanas istigh i do leabhar cíosa:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The address of the flat or house</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seoladh an árasáin nó an tí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Your landlord's name and address and the landlord's agent (if any)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ainm agus seoladh do thiarna talún agus ghníomhaire an tiarna talún (más ann dó)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The date the tenancy started</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An dáta ar ar thosaigh an tionóntacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The amount of deposit paid</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Suim na héarlaise a íocadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The amount of rent and how it is to be paid</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Suim an chíosa agus conas mar a íocfar é</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Details of any other payments for services, such as heating or cable television</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Mionsonraí d’aon íocaíocht eile as seirbhísí, m.sh., as téamh nó as teilifís chábla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A statement on the basic rights and duties of landlords and tenants</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ráiteas um bhunchearta agus bundualgais na dtiarnaí talún agus na dtionóntaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A list of furnishings and appliances supplied by the landlord</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Liosta de throscán agus fearais a sholáthraíonn an tiarna talún</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is your landlord's responsibility to give you a rent book</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is í freagracht do thiarna talún í leabhar cíosa a thabhairt duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They are widely available and are not expensive</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá siad ar fáil go forleathan agus níl siad daor</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should keep it in your possession but you should give it to the landlord when requested, so they can make changes and record the rent and other payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart duit é a choinneáil i do sheilbh ach é a thabhairt don tiarna talún nuair a iarrtar sin ort, ionas gur féidir leis an tiarna talún athruithe a dhéanamh agus an cíos agus íocaíochtaí eile a thaifeadadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your landlord refuses to give you a rent book or provide you with receipts or statements of rent paid, this is against the law</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhiúltaíonn do thiarna talún leabhar cíosa a thabhairt duit nó admhálacha nó ráitis den chíos a íocadh a sholáthar duit, bíonn an méid sin i gcoinne an dlí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you wish to make a complaint, you should contact your local authority, which can issue a notice requiring the landlord to comply and can initiate legal action if necessary</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mian leat gearán a dhéanamh, ba cheart duit teagmháil a dhéanamh le d'údarás áitiúil, ar féidir leis fógra chomhlíonta a eisiúint don tiarna talún agus an dlí a chur air, más gá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read more about your rights and obligations as a tenant of a private landlord or housing association and the rights and obligations of your landlord</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léigh tuilleadh mar gheall ar do chearta agus d'oibleagáidí mar thionónta agus mar gheall ar chearta agus oibleagáidí do thiarna talún</seg></tuv>
+</tu>
+</body>
+</tmx>

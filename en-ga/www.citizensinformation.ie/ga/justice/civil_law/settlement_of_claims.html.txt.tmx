@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>In many cases, a settlement between all the parties is reached either prior to the trial date or on the day of the trial (the "steps of the courtroom")</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcuid mhaith cásanna, tagann na páirtithe ar réiteach roimh dáta na trialach nó ar lá na trialach ("céimeanna na cúirte")</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the defendant wishes to offer you money to end your claim and you are agreeable to settling your case out of court, your solicitor may arrange a settlement meeting with the defendant's legal representatives prior to the trial date</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mian leis an gCosantóir airgead a thairiscint duit le deireadh a chur leis an éileamh agus má tá tú sásta an cás a réiteach taobh amuigh den chúirt, is féidir le do dhlíodóir cruinniú réitigh a shocrú le hionadaithe dlí an Chosantóra roimh dáta na trialach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>At the meeting, your legal representatives will explain to you the advantages and disadvantages of accepting the offer made by the defendant and will give you advice about your chances of success at trial and the amount of damages you may receive in court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag an gcruinniú, cuirfidh d'ionadaithe dlí in iúl duit cé na buntáistí agus na míbhuntáistí a bhaineann le glacadh leis an tairiscint atá déanta ag an gCosantóir agus cuirfidh siad comhairle ort maidir leis an seans atá agat go n-éireoidh le do chás ag triail agus an méid damáistí go bhféadfá a bheith ag súil leo sa chúirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The advantage to settling your case is that it removes the risk of losing the case and/or having to pay the costs of the case</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má réitíonn tú an cás tá tú cinnte nach rachaidh rudaí i do choinne agus nach mbeidh ort costais an duine eile a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is no guarantee that a court will award you more damages than the sum offered by the defendant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon bhealach gur féidir a bheith cinnte go mbronnfaidh an Chúirt níos mó damáistí ort ná an méid atá an Cosantóir ag tairiscint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your solicitor or your barrister will negotiate with the defendant's legal representatives to reach a sum that is acceptable to all sides</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rachaidh do dhlíodóir nó abhcóide ag caint le hionadaithe dlí an Chosantóra le teacht ar suim atá sásúil don dá thaobh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Usually the issue of who is to pay your legal costs is dealt with</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go hiondúil déantar cinneadh cé a bheidh ag íoc as an táillí dlí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are not obliged to accept the advice of your solicitor or barrister or to settle your claim and the final decision will always be yours</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon ghá duit glacadh le comhairle an dlíodóra nó abhcóide ná fiú an t-éileamh a réiteach agus is fút féin a bheidh sé i gcónaí an cinneadh deireanach a thógáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if you do agree to a settlement then that decision is final, the case proceeds no further and you have forfeited your claim in return for the mutually agreed sum</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach, má aontaíonn tú teacht ar réiteach níl aon dul siar ar an gcinneadh sin, ní leanfar leis an gcás agus beidh deireadh curtha agat le d'éileamh ar son glacadh leis an suim atá aontaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If an offer is made in settlement of your claim and you refuse that offer, the defendant may lodge that amount in court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéantar tairiscint mar réiteach ar d'éileamh agus má dhiúltaíonn tú glacadh leis an tairiscint sin, is féidir leis an gCosantóir an tairiscint sin a "lóisteáil" leis an gCúirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If at the end of the case the judge awards an amount that is less than the lodgement, you will be obliged to pay all of the legal costs of both sides since the date of the lodgement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag deireadh an cháis má bhronann an Breitheamh damáistí atá níos lú ná an lóisteáil sin, beidh ortsa na costais dlí ar fad a thit ar an dá thaobh ó dáta na loisteála sin a íoc</seg></tuv>
+</tu>
+</body>
+</tmx>

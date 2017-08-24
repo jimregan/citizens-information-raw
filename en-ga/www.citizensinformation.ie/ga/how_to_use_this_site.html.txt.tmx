@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>How information is organised</seg></tuv>
+  <tuv xml:lang="ga"><seg>Conas a eagraítear faisnéis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This website is divided into 14 information categories</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá leathanach baile an tsuímh roinnte ina chatagóirí faisnéise</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Each category is further organised into sub-categories and documents</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá roinnt fochatagóirí ag gach catagóir agus beidh cuid acu á dtaispeáint ar an leathanach baile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>On the homepage we list all of the main information categories, along some of the more popular documents from those categories</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chliceálann tú orthu seo, beidh tú in ann féachaint ar liosta doiciméad taobh istigh den fhochatagóir sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you click the category title on the homepage, or from the 'Categories' dropdown in the navigation bar, you can see the subcategories within that main category</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá gach catagóir eagraithe ansin ina fochatagóirí agus ina ndoiciméid. Léiríonn liostaí na gcatagóirí na fochatagóirí go léir, chomh maith le cibé doiciméid atá taobh istigh den chatagóir sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Certain documents are indicated with a special icon. These are:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léirítear doiciméid áirithe le híocón speisialta, mar atá:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>How documents are organised</seg></tuv>
+  <tuv xml:lang="ga"><seg>An bealach a n-eagraítear doiciméid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Each page has a general section which gives you the information to answer most queries</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá rannán ginearálta ag gach leathanach a thugann an fhaisnéis duit a fhreagróidh bunús na gceisteanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some documents will have links to other relevant material such as case studies, checklists or worksheets</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh ábhar ábhartha eile ar chuid de na doiciméid, amhail staidéir cháis, seicliostaí agus leathanaigh oibre, a dtiocfadh leo a bheith úsáideach duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Other options associated with information pages are:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seo roinnt roghanna eile a bhaineann le leathanaigh eolais:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• the 'Print-ready Page' icon will display a page which is optimised for printing</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An t-íocón Priontáil Leathanach. Taispeánfar leathanach atá optamaithe le haghaidh priontála, gan roghchláir agus roghanna neamhriachtanacha eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• the 'Related Documents' section on the right-hand side of the website allows you to see other documents that might be of interest to you</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ligeann Cuir Chuig Cara* duit nasc chuig an doiciméad a chur mar ríomhphost chuig duine éigin eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Other ways to find information</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bealaí eile le teacht ar fhaisnéis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can also sort information using:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat úsáid a bhaint as na rudaí seo a leanas le faisnéis a shórtáil chomh maith:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• an alphabetical list of document titles</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Liosta teideal doiciméid in ord aibítire</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• a list of 'My Situation' documents - these are documents that relate to people in a particular situation or who wish to find information on a specific topic</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Liosta de "eachtraí saoil" - staideanna tábhachtacha i saoil an duine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• a listing by document type, for example, reference documents</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Liostú de réir chineál an doiciméid, mar shampla doiciméid tagartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>By using the language tool, you can switch the default language for the site or view content in another language</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má úsáideann tú an uirlis teanga, is féidir leat an teanga réamhshocraithe a mhalartú don suíomh nó féachaint ar ábhar i dteanga eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All content is available in English and most in Irish, while certain key documents are available in French, Romanian, and Polish</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá gach ábhar ar fáil i mBéarla agus tá an chuid is mó den ábhar ar fáil i nGaeilge, agus bíonn roinnt doiciméad an-tábhachtach ar fáil i bhFraincis, i Rómáinis agus i bPolannais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This tool appears on all pages, and will list the languages in which the information is available</seg></tuv>
+  <tuv xml:lang="ga"><seg>Taispeántar an uirlis seo ar gach leathanach, agus tabharfaidh sí liosta duit de na teangacha a bhfuil an fhaisnéis ar fáil iontu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you use an RSS reader, you can subscribe to our RSS feeds whenever you see the RSS icon</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má úsáideann tú léitheoir RSS, is féidir leat liostáil le fothaí RSS áit ar bith a bhfeiceann tú an t-íocón RSS</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can search using the search bar wherever you are on the website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat an barra cuardaigh a úsáid le cuardach a dhéanamh cibé áit a bhfuil tú ar an suíomh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The 'Find a Centre' section of the website lists all the main Citizens Information Centres around the country and also the outreach locations associated with those centres</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann aimsigh seoladh sonraí teagmhála do níos mó ná 8,000 solathróir seirbhíse agus gníomhaireachtaí ar fud na tíre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>'Find an Address' gives links to the contact details of a wide range of service providers.   Keeping up to date</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann naisc rannán na nuachta béim ar cheisteanna reatha, athruithe ar an suíomh, imeachtaí agus rudaí eile a bhaineann le hábhar</seg></tuv>
+</tu>
+</body>
+</tmx>

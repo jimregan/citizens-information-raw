@@ -1,0 +1,325 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>People in employment pay contributions to the Social Insurance Fund</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocann daoine atá i bhfostaíocht in Éirinn ranníocaíochtaí go dtí Ciste Árachais Shóisialaigh na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The contribution you pay depends on your earnings and occupation and therefore it is called a Pay Related Social Insurance (PRSI) contribution</seg></tuv>
+  <tuv xml:lang="ga"><seg>Braitheann an ranníocaíocht a íocann tú ar do chuid tuillimh agus gairm bheatha agus mar sin glaoitear Árachas Sóisialta Pá Choibhneasa (ÁSPC) ar an ranníocaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some people who have unearned income are also liable for PRSI</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá roinnt daoine a bhfuil ioncam neamhthuillte acu faoi dhliteanas íoc as ÁSPC chomh maith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are currently 11 different PRSI classes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá 11 aicme éagsúla ÁSPC ann faoi láthair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They are A, B, C, D, E, H, J, K, M, S and P - see 'Further information' below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad A, B, C, D, E, H, J, K, M, S agus P - féach 'Breis faisnéise' thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The social insurance payments to which you may become entitled depend on the PRSI class you are in</seg></tuv>
+  <tuv xml:lang="ga"><seg>Braitheann na híocaíochtaí árachais shóisialaigh a mb’fhéidir go mbeidh tú i dteideal a fháil ar an aicme ÁSPC ina bhfuil tú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Each PRSI class is in turn divided into different subclasses</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar gach aicme ÁSPC, ar a uain, a roinnt ina fho-aicmí éagsúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These subclasses do not affect your entitlements under the social insurance system</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní dhéanann na fo-aicmí seo difear do do chuid teidlíochtaí faoin gcóras árachais shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They only relate to the amount of PRSI which you or your employer must pay</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhaineann siad ach leis an méid ÁSPC nach mór duit nó d’fhostóir a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>PRSI is calculated on your reckonable pay</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ríomhtar ÁSPC ar do phá inríofa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Reckonable pay is the gross money pay plus notional pay (or benefit in kind) if applicable</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ionann pá inríofa agus an t-ollphá airgid móide pá barúlach (nó sochar comhchineáil), más infheidhme</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is no PRSI relief for employers on pension contributions made by employees</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon fhaoiseamh ÁSPC ann d’fhostóirí ar ranníocaíochtaí pinsin a íocann fostaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is some PRSI relief on pension contributions paid by employers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá roinnt faoiseamh ÁSPC ar fáil ar ranníocaíochtaí pinsin a d’íoc fostóirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A wide range of payments are available to people who have paid social insurance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá réimse leathan íocaíochtaí ar fáil do dhaoine a d’íoc árachas sóisialach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are not a Class A contributor you are not entitled to the full range of social insurance payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura ranníocóir Aicme A thú, níl tú i dteideal an réimse iomlán íocaíochtaí árachais shóisialaigh a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is because you are paying less towards social insurance than a Class A contributor</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is amhlaidh atá seo mar gheall go bhfuil níos lú a íoc agat i dtreo árachas sóisialach ná ranníocóir Aicme A</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In certain cases, if your income falls below a certain amount you do not have to pay a social insurance contribution, however, you will still be covered by social insurance because your employer must pay social insurance for you</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcásanna áirithe, má thagann d’ioncam faoi chuimsiú méid áirithe, ní gá duit ranníocaíocht árachais shóisialaigh a íoc, ach beidh tú fós cumhdaithe ag árachas sóisialach, áfach, mar gheall nach mór do d’fhostóir árachas sóisialach a íoc duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>More information is available in our document Paying social insurance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá níos mó faisnéise ar fáil inár gcáipéis Árachas sóisialach a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your working week may not be the same as the PRSI contribution week</seg></tuv>
+  <tuv xml:lang="ga"><seg>B'fhéidir nach mbeadh do sheachtain oibre mar an gcéanna leis an tseachtain ranníocaíochta ÁSPC</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The PRSI contribution week starts on 1 January each year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tosaíonn an tseachtain ranníocaíochta ÁSPC ar 1 Eanáir gach bliain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Week one is the period from 1 January to 7 January, week two is from 8 January to 14 January and so on</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seachtain a haon is ea an tréimhse ó 1 Eanáir go dtí 7 Eanáir, seachtain a dó is ea ón 8 Eanáir go dtí 14 Eanáir agus ar aghaidh mar sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For 2016, it started on Friday and ended on Thursday</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocann duine a thuilleann €352.01 ÁSPC €14.08 (4%)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In 2017 it starts on Sunday and ends on Saturday</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní ann d’aon chreidmheas ÁSPC a luaithe a sháraíonn tuillimh €424</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The contribution week can affect the social insurance cover of part-time workers and people job-sharing</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann an ráta níos ísle de ÁSPC fostóra de chuid Aicme A anois le tuillimh sheachtainiúla a mhéid le €376</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>PRSI classes and people insured in each class</seg></tuv>
+  <tuv xml:lang="ga"><seg>Aicmí ÁSPC agus daoine faoi árachas i ngach Aicme</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most people pay Class A PRSI. It applies to people in industrial, commercial and service type employment who are employed under a contract of service with a reckonable pay of €38 or more per week from employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bhaineann sé le daoine i bhfostaíocht thionsclaíoch, thráchtála nó seirbhíse atá fostaithe faoi chonradh seirbhíse le pá ináirithe de €38 nó níos mó ó fhostaíocht in aghaidh na seachtaine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It also includes civil and public servants recruited from 6 April 1995</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuimsíonn siad seo státseirbhísigh agus seirbhísigh phoiblí a earcaíodh ó 6 Aibreán 1995</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Class A does not apply to people in insurable employment and over 66 years of age</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhaineann Aicme A le daoine atá i bhfostaíocht inárachais agus os cionn 66 bliana d'aois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They are insurable under Class J</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá siad seo inárachais faoi Aicme J</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can get more information about social insurance classes and the occupations covered by each class in 'Further information' below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat sonraí faoi aicmí árachais shóisialta a fháil agus na gairmeacha atá clúdaithe ag gach aicme i 'Tuilleadh eolais' thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The amount of PRSI you and your employer pay will depend on your earnings and the class you are insured under</seg></tuv>
+  <tuv xml:lang="ga"><seg>Braithfidh méid an ÁSPC a íocann tú féin agus d’fhostóir ar do thuillimh agus ar an aicme faoina bhfuil tú árachaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is no PRSI credit once earnings exceed €424</seg></tuv>
+  <tuv xml:lang="ga"><seg>Aisíocaíochtaí árachais shóisialta (ÁSPC)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The lower Class A rate of employer PRSI now applies to weekly earnings up to €376</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má asbhaintear an ráta mícheart ÁSPC ó do chuid pá, tá tú i dteideal aisíocaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the wrong rate of PRSI is deducted from your wages you are entitled to a refund</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá roinnt cúiseanna go bhféadfá a bheith ag íoc an ráta mícheart ÁSPC</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are a number of reasons why you might be paying the wrong PRSI rate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, b'fhéidir nach bhfuil d'fhostóir ar an airdeall go bhfuil cárta leighis agat agus nár chóir dó/di a bheith ag íoc Ranníocaíochta Sláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To get a refund either you or your employer should contact the Refunds Section in the Department of Social Protection - see 'Where to apply' below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun aisíocaíocht a fháil, ba chóir duit féin nó d'fhostóir teagmháil a dhéanamh le Rannóg na dTaifead sa Roinn Coimirce Sóisialaí - Féach ‘Cá hait le iarratas a dhéanamh’ thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will be sent a refund application form to fill out</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seolfar foirm iarratais aisíocaíochta chugat le líonadh amach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have paid too much PRSI you will get a refund and the Department will correct your social insurance record</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá an iomarca ÁSPC íoctha agat gheobhaidh tú aisíocaíocht agus ceartóidh an Roinn do thaifead árachais shóisialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are an employee, your employer deducts your PRSI contribution from your wages</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más fostaí tú, bainfidh d'fhostóir do ranníocaíocht árachais shóisialta roimh duit do chuid pá a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your employer then submits your contribution and their employer's contribution to the Revenue Commissioners</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann d'fhostóir do ranníocaíocht agus ranníocaíocht ÁSPC an fhostóra faoi bhráid na gCoimisinéirí Ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your employer must also pay social insurance on your behalf</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocfaidh d'fhostóir árachas sóisialta ar do shon chomh maith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are self-employed, you pay Class S social insurance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú féinfhostaithe, íocann tú árachas sóisialta in Aicme S</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In this case, you pay your social insurance contributions directly to the Revenue Commissioners</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás seo, íocann tú do chuid ranníocaíochtaí árachais shóisialta go díreach leis na Coimisinéirí Ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are a PAYE worker and have unearned income of over €5,000 you are a chargeable person and you must pay 4% PRSI under Revenue's self-assessment system (Pay and File)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más oibrí ÍMAT thú agus má tá ioncam neamhthuillte os cionn €5,000 agat, duine inmhuirir thú agus ní mór duit ÁSPC ar 4% a íoc faoi chóras féinmheasúnaithe na gCoimisinéirí Ioncaim (Íoc agus Comhdaigh)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Revenue pay the money into the Social Insurance Fund</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocann na Coimisinéirí Ioncaim an t-airgead isteach sa Chiste Árachais Shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A record of the contributions you have paid is then sent to the Department of Social Protection</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seoltar taifead ar na ranníocaíochtaí a d’íoc tú ansin chuig an Roinn Coimirce Sóisialaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If there is a problem in deciding what class of social insurance you should pay contact:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá fadhb ag déanamh cinnidh maidir le cén aicme d'árachas sóisialta gur chóir duit a íoc déan teagmháil leis:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Information relating to your social insurance record in Ireland is available from:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá eolas maidir le do thaifead árachais shóisialta in Éirinn ar fáil ó:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have overpaid PRSI contributions, you can apply for a refund to:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá an iomarca ranníocaíochtaí ÁSPC déanta, is féidir leat iarratas a dhéanamh ar:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are 11 different social insurance classes in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá 11 Aicme Árachais Shóisialta difriúla in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They are as follows:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seo a leanas iad:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Class A applies to people in industrial, commercial and service type employment who are employed under a contract of service with a reckonable pay of €38 or more per week from employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann Aicme A le daoine sna hearnálacha tionsclaíochta, tráchtála agus seirbhíse ata fostaithe faoi chonradh seirbhíse le pá inríofa de €38 nó níos mó in aghaidh na seachtaine ag baint leis an bhfostaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It also includes civil and public servants recruited from 6 April 1995</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áirítear leo sin státseirbhísigh agus fostaithe sa tseirbhís phoiblí freisin a earcaíodh roimh an 6 Aibreán 1995</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In fact, most employees in Ireland pay PRSI Class A</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocann tromlach na bhfostaithe in Éirinn ÁSPC Aicme A</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Class J applies to people earning less than €38 per week</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann Aicme J le daoine atá ag tuilleamh níos lú ná €38 in aghaidh na seachtaine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, people aged over 66 or people in subsidiary employment are always insurable at Class J, no matter how much they earn</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin féin, bíonn daoine os cionn 66 bliana d’aois nó daoine i bhfofhostaíocht i gcónaí inárachais ag Aicme J, is cuma cé mhéid a thuilleann siad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Subsidiary employment for Class J is for example, people who are insurable at Class B, C, D or H in their main employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fofhostaíocht in Aicme J is ea daoine, mar shampla, atá inárachais in Aicme B, C, D nó H ina bpríomhfhostaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Only Occupational Injuries Benefit is covered by Class J social insurance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Clúdaíonn Aicme árachais shóisialta J Sochar Díobhálacha Ceirde amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Class E applies to ministers of religion employed by the Church of Ireland Representative Body</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann Aicme E le ministrí creidimh atá fostaithe ag Comhlacht Ionadaíoch Eaglais na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It covers all social insurance payments except Jobseeker's Benefit and Occupational Injuries Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Clúdaíonn an Aicme na híocaíochtaí árachais shóisialta uile seachas Sochar do Lucht Cuardaigh Fostaíochta agus Sochar Díobhálacha Ceirde</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Class B applies to civil servants and Gardai recruited before 6 April 1995, and registered doctors and dentists employed in the Civil Service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann Aicme B le státseirbhísigh agus Gardaí a earcaíodh roimh an 6 Aibreán 1995, agus dochtúirí agus fiaclóirí cláraithe atá fostaithe sa Státseirbhís</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It covers only a limited number of social insurance payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chlúdaíonn an aicme ach líon teoranta d’íocaíochtaí árachais shóisialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Class C applies to commissioned Army Officers and members of the Army Nursing service recruited before 6 April 1995</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann Aicme C le hOifigigh Choimisiúnaithe an Airm agus baill de sheirbhís Altranais an Airm a earcaíodh roimh an 6 Aibreán 1995</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It covers only a limited number of social insurance benefits</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chlúdaíonn an aicme ach líon teoranta de shochair árachais shóisialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Class D applies to permanent and pensionable employees in the public service other than those mentioned in Classes B and C recruited before 6 April 1995</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann Aicme D le fostaithe buana agus inphinsin sa tseirbhís phoiblí seachas iad sin atá luaite in Aicmí B agus C a earcaíodh roimh an 6 Aibreán 1995</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It covers only a limited number of social insurance payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chlúdaíonn an aicme ach líon teoranta d’íocaíochtaí árachais shóisialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Class H applies to NCOs and enlisted personnel of the Defence Forces</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann Aicme H le ONC agus pearsanra liostáilte Óglaigh na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It covers all social insurance payments except Occupational Injuries Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Clúdaíonn an aicme na híocaíochtaí árachais shóisialta uile seachas Sochar Díobhálacha Ceirde</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Class K applies to public office holders with an income of over €5,200 a year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Maidir le 2012, íocfaidh sealbhóirí oifige poiblí ÁSPC ag ráta 4% ar an ioncam uile, más rud é go bhfuil a n-ioncam os cionn €5,200 sa bhliain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Public office holders with weekly income of €100 or less are recorded under Class M. Class K also applies to people who pay PSRI on unearned income</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sealbhóirí oifige poiblí a mbeadh €100 nó ní ba lú d'ioncam seachtainiúil acu, ba chóir iad a thuairisciú ar Aicme M</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are no social insurance payments for people insured under Class K</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhaineann aon íocaíochtaí árachais shóisialta le daoine atá faoi árachas in Aicme K</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Class M applies to employees with no liability to contribute to social insurance such as employees under 16 years of age and people with an income of €500 or less and insured in Class K</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann Aicme M le fostaithe gan dliteanas ar bith chun ranníocaíocht a dhéanamh le hárachas sóisialta cosúil le fostaithe atá faoi bhun 16 bliana d’aois agus daoine le hioncam €500 nó níos lú agus atá faoi árachas in Aicme K</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Class M covers certain contributors with Occupational Injuries Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Clúdaíonn Aicme M ranníocóirí áirithe le Sochar Díobhálacha Ceirde</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Class S applies to self-employed people including certain company directors, people in business on their own account and people with income from investments and rents</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann Aicme S le daoine féinfhostaithe lena n-áirítear stiúrthóirí cuideachtaí áirithe, daoine atá i mbun gnó go neamhspleách agus daoine a bhfuil ioncam acu ó infheistíochtaí agus cíosanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It cover only a limited number of social insurance payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chlúdaíonn an aicme ach líon teoranta d’íocaíochtaí árachais shóisialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Class P applies to sharefishermen or sharefisherwomen who are classified as self-employed and who are already paying PRSI under Class S</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann Aicme P le scair-iascairí a rangaítear mar dhaoine féinfhostaithe agus a íocann ÁSPC faoi Aicme S cheana féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It covers them for limited Jobseeker's Benefit, limited Illness Benefit and Treatment Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad na híocaíochtaí a leanas atá i gceist: Sochar do Lucht Cuardaigh Fostaíochta teoranta, Sochar Breoiteachta teoranta agus Sochar Cóireála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If there is a problem in deciding what class of social insurance you should pay, the Scope Section in the Department of Social Protection may decide the issue after examining your employment situation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhíonn fadhb ann ag déanamh amach cén aicme árachais shóisialta lena déanfar íocaíocht, féadfaidh Rannóg Scóip na Roinn Coimirce Sóisialaí cinneadh a dhéanamh ar an gceist tar éis do chás fostaíochta a scrúdú</seg></tuv>
+</tu>
+</body>
+</tmx>

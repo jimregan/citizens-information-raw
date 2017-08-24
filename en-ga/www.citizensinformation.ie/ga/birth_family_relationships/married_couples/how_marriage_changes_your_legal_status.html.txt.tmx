@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>How marriage changes your legal status</seg></tuv>
+  <tuv xml:lang="ga"><seg>An Tionchar a bheidh ag pósadh ar stádas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Getting married gives rise to many far-reaching legal consequences</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is conradh sibhialta ceangailteach dhleathúil é an pósadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It changes your legal position and, to a certain extent, that of your children - even after death</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tagann go leor torthaí fad théarmacha san áireamh de bharr an phósadh a d'fhéadfadh éifeacht a bheith acu ort agus chomh maith leis sin i mbealach áirithe do chlann, fiú amháin tar éis an bháis</seg></tuv>
+</tu>
+</body>
+</tmx>

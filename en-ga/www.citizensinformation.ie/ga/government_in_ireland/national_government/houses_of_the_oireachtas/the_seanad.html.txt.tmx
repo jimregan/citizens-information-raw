@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Seanad Éireann is the senate of Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é Seanad Éireann seanad na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is the upper House of the Oireachtas (national Parliament) and has a number of important functions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é dara Teach an Oireachtais é agus tá roinnt feidhmeanna tábhachtacha aige</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Seanad Éireann is located in Dublin</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Seanad Éireann suite i mBaile Átha Cliath</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Seanad Éireann is composed of 60 members</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá 60 ball i Seanad Éireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>View a list of Senators listed by name and by panel</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir liosta de an Seandóirí a fheiceáil atá liostaithe de réir ainm agus de réir phainéil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Taoiseach nominates 11 of the members and 49 members are elected in a Seanad election</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ainmníonn an Taoiseach 11 de na baill agus toghtar 49 ball i dtoghchán de chuid an tSeanaid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>One of the Senators takes the role of Cathaoirleach, (Speaker/Chairperson) of the Senators</seg></tuv>
+  <tuv xml:lang="ga"><seg>Glacann duine amháin de na Seanadóirí cúram an Chathaoirligh (Spéicéir/Cathaoirleach) na Seanadóirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As the chairperson of the Seanad, the Cathaoirleach chairs the proceedings in the House and must act impartially</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar chathaoirleach ar an Seanad, déanann an Cathaoirleach cathaoirleacht ar imeachtaí sa Teach agus ní mór dó feidhmiú go neamhchlaonta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Senators are not officially separated into political parties</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní dhéantar Seanadóirí a scaradh go hoifigiúil de réir páirtithe polaitiúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, they usually divide into groups supporting and opposing Government business when voting on issues</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach de ghnáth téann siad sna grúpaí a thacaíonn le gnóthaí an Rialtais nó a chuireann ina n-aghaidh nuair a bhítear ag vótáil ar cheisteanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A Sub-Committee of the Committee on Procedure and Privileges of Seanad Éireann was established to review and make recommendations on the current and future composition and functions of the Seanad in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bunaíodh Fo-choiste de Choiste Nós Imeachta agus Pribhléidí Sheanad Éireann chun athbhreithniú agus moltaí a dhéanamh maidir le leagan amach agus feidhm an tSeanaid in Éirinn i láthair na huaire agus amach anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In 2004 it produced a Report on Seanad Reform (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>I 2004, chuir sé Tuarascáil um Leasú an tSeanaid (pdf) i dtoll a chéile</seg></tuv>
+</tu>
+</body>
+</tmx>

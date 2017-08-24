@@ -1,0 +1,309 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>How to comply with your tax obligations</seg></tuv>
+  <tuv xml:lang="ga"><seg>Conas do dhualgais chánach a chomhlíonadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Whether you are employed as a PAYE worker or pay tax as a self-employed person you must make sure that you pay any tax that is due to Revenue</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cé acu má tá tú fostaithe mar oibrí ÍMAT nó má íocann tú cáin mar dhuine féinfhostaithe, ní mór duit a chinntiú go n-íocann tú aon cháin atá le híoc leis na Coimisinéirí Ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This document focuses on information for PAYE workers or pensioners who have another source of income</seg></tuv>
+  <tuv xml:lang="ga"><seg>Díríonn an cháipéis seo ar fhaisnéis d’oibrithe ÍMAT nó do phinsinéirí a bhfuil foinse ioncaim eile acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you work for an employer and pay tax under the PAYE system income earned from employment is taxed at source by your employer</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má oibríonn tú d’fhostóir agus má íocann tú cáin faoin gcóras ÍMAT, déanann d’fhostóir cáin a ghearradh ar ioncam a thuilltear ag an bhfoinse</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However the amount deducted can vary depending on your personal circumstances and your tax credits</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh an méid a asbhaintear a bheith éagsúil, ag brath ar do chúinsí pearsanta agus ar do chreidmheasanna cánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, if you are married or in a civil partnership, this may affect your tax bands and tax reliefs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, má tá tú pósta nó i bpáirtnéireacht shibhialta, d’fhéadfadh seo tionchar a imirt ar do bhandaí cánach agus ar d’fhaoisimh chánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>People who work for an employer may also have additional income from other sources</seg></tuv>
+  <tuv xml:lang="ga"><seg>Anuas air sin, b’fhéidir go bhfuil ioncam breise ag daoine a oibríonn d’fhostóir ó fhoinsí eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must tell Revenue about such income</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit na Coimisinéirí Ioncaim a chur ar an eolas faoin ioncam sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, depending on the amount, you declare the income in different ways</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag brath ar mhéid an ioncaim, áfach, dearbhaíonn tú an t-ioncam ar bhealaí éagsúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In some cases income from other sources (such as a social welfare payment) can be coded in against your tax credits and cut off point</seg></tuv>
+  <tuv xml:lang="ga"><seg>I roinnt cásanna, féadtar ioncam ó fhoinsí eile (ar nós íocaíocht leasa shóisialaigh) a chódú isteach i leith do chreidmheasanna cánach agus do scoithphointe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Coding in means that Revenue will reduce both your tax credits and your standard rate cut-off point, by an amount equal to your other income</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn códú isteach go laghdóidh na Coimisinéirí Ioncaim do chreidmheasanna cánach agus do scoithphointe ráta chaighdeánaigh, de shuim atá ar chomhionann le d’ioncam eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your other income is then effectively taxed under PAYE</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ansin déantar cáin a ghearradh ar d’ioncam eile, go héifeachtach, faoi ÍMAT</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Compliance Code for PAYE tax payers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cód Comhlíonta do cháiníocóirí ÍMAT</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should make sure that Revenue is aware of the factors that may affect the amount of tax deducted from your earnings</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart duit a chinntiú go bhfuil na Coimisinéirí Ioncaim ar an eolas ar na tosca a d’fhéadfadh tionchar a imirt ar an méid cánach a bhaintear ó do thuillimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Do not assume that Revenue has access to up-to-date information about your circumstances</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ná glac leis go bhfuil rochtain ag na Coimisinéirí Ioncaim ar fhaisnéis chothrom le dáta faoi do chúinsí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Revenue’s Compliance Code for PAYE Tax Payers (pdf) advises you to:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Molann Treoir ar Chlár Comhlíonta ÍMAT (pdf) na gCoimisinéirí Ioncaim duit an méid a leanas a dhéanamh:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Check your Tax Credit Certificate each year and make sure that you are entitled to the tax credits that have been allocated to you and that you are claiming any tax credits you may be entitled to</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seiceáil do Dheimhniú Creidmheasa Cánach gach bliain chun a chinntiú go bhfuil teidlíocht agat do na creidmheasanna cánach a chionroinneadh duit agus go bhfuil tú ag éileamh na gcreidmheasanna cánach uile a bhfuil teidlíocht agat dóibh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can use Revenue’s PAYE Anytime online system to view or print your Tax Credit Certificate or phone Locall 1890 306 706 to request one</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú córas ar líne ÍMAT aon Tráth aon Lá na gCoimisinéirí Ioncaim a úsáid chun do Dheimhniú Creidmheasa Cánach a fheiceáil nó chun é a chló nó cuir glao ar Íosghlao 1890 306 706 chun iarraidh ar cheann a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Tell Revenue about any changes in basic personal details such as a change of address as well as changes in your circumstances that may affect your entitlement to a tax credit(s)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Inis do na Coimisinéirí Ioncaim faoi aon athruithe a thagann ar shonraí bunúsacha, ar nós athrú seolta mar aon le hathruithe a tháinig ar do chúinsí a d’fhéadfadh difear a dhéanamh do do theidlíocht do chreidmheas(anna) cánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In particular you should tell Revenue about significant life events such as marriage or civil partnership or bereavement as soon as possible</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go háirithe, ba cheart duit na Coimisinéirí Ioncaim a chur ar an eolas faoi imeachtaí tábhachtacha saoil, ar nós pósta nó páirtnéireacht shibhialta nó méala a luaithe is féidir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Keep all relevant documentation (such as medical receipts) to support your claims for tax credits, reliefs and allowances</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Coimeád an cháipéisíocht ábhartha go léir (ar nós fáltais leighis) chun tacú le d’éilimh ar chreidmheasanna, faoiseamh agus liúntais chánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must keep all supporting documentation for 6 years from the end of the year to which the claim or liability refers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit an cháipéisíocht tacaíochta go léir a choimeád ar feadh 6 bliana ó dheireadh na bliana dá dtagraíonn an t-éileamh nó an dliteanas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Inform Revenue of any non-PAYE sources of income you have such as rental income, dividends, Department of Social Protection payments and pensions</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cuir na Coimisinéirí Ioncaim ar an eolas ar aon fhoinsí neamh-ÍMAT d’ioncam atá agat, ar nós ioncam cíosa, díbhinní, íocaíochtaí agus pinsin na Roinne Coimirce Sóisialaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Any additional non-PAYE income may be subject to tax, PRSI or Universal Social Charge (USC) and it is important that you pay any tax that is due to avoid building up a tax liability</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh aon ioncam breise neamh-ÍMAT a bheith faoi réir cánach, ÍMAT nó an Muirir Shóisialta Uilíoch (MSU) agus is tábhachtach go n-íocann tú aon cháin atá le híoc le cruthú dliteanas cánach a sheachaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are a chargeable person you must self-assess</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más duine inmhuirir thú, ní mór duit féinmheasúnú a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Self-assessment is where you are responsible for making your own assessment of tax due</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is éard is féinmheasúnú ann ná nuair a bhíonn tú freagrach as do mheasúnú féin a dhéanamh ar an gcáin atá dlite</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Who is a chargeable person?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cé atá ina dhuine inmhuirir?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are a chargeable person if you have a PAYE source of income and, either:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Duine inmhuirir thú má tá foinse ioncaim ÍMAT agat agus má tá:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Net assessable non-PAYE income (including income subject to DIRT) of €5,000 or more in a year</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Glanioncam inmheasúnaithe neamh-ÍMAT <ph/> €5,000 nó níos mó agat i mbliain amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Total gross income from non-PAYE sources (including income subject to DIRT), of €30,000 or more in a year</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ollioncam iomlán ó fhoinsí neamh-ÍMAT <ph/> €30,000 nó níos mó agat i mbliain amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This applies even if you have no tax liability on this income because it is covered or largely covered by losses, capital allowances and other reliefs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann seo fiú mura bhfuil an dliteanas cánach agat ar an ioncam seo mar gheall go bhfuil sé cumhdaithe nó cumhdaithe an chuid is mó ag caillteanais, liúntais chaipitiúla agus faoisimh eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are a chargeable person you must self-assess and file a Form 11 for the relevant year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más duine inmhuirir thú, ní mór duit féinmheasúnú a dhéanamh agus Foirm 11 a thuairisciú don bhliain ábhartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>From 2014 if you are a chargeable person you must also pay PRSI at Class K on your assessable income</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó 2014 ar aghaidh, más duine inmhuirir thú, ní mór duit ÁSPC a íoc ar Aicme K ar d’ioncam inmheasúnaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Who is not a chargeable person?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cé nach bhfuil ina dhuine inmhuirir?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have a PAYE source of income and your net assessable non-PAYE income is less than €5,000, and this income is coded against PAYE tax credits or fully taxed at source, you are not regarded as a chargeable person (provided your gross non-PAYE income before expenses does not exceed €30,000)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá foinse ioncaim ÍMAT agat agus má tá do ghlanioncam inmheasúnaithe neamh-ÍMAT níos lú ná €5,000 agus má chódaítear an t-ioncam seo i leith creidmheasanna cánach ÍMAT nó má ghearrtar cáin iomlán air ag an bhfoinse, ní chaitear leat mar dhuine inmhuirir (a fhad agus nach sáraíonn d’ollioncam roimh chostais €30,000)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However you must inform Revenue of this income</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit na Coimisinéirí Ioncaim a chur ar an eolas ar an ioncam seo, áfach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can do this using PAYE Anytime, by contacting your local Revenue office or by filing a Form 12</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú seo a dhéanamh trí úsáid a bhaint as ÍMAT aon Tráth aon Lá, trí theagmháil a dhéanamh le hoifig áitiúil na gCoimisinéirí Ioncaim nó trí Fhoirm 12 a chomhlánú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You do not have to pay PRSI on this income</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní gá duit ÍMAT a íoc ar an ioncam seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Form 12 allows you to complete a return of your income and claim tax credits, allowances and reliefs (including any health expenses) for a year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ligeann Foirm 12 duit tuairisceán de d’ioncam a chomhlánú agus creidmheasanna, faoisimh agus liúntais chánach (lena n-áirítear aon chostais sláinte) a éileamh do bhliain ar leith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You do not have to file a Form 12 unless Revenue have asked you to do so</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní gá duit Foirm 12 a thuairisciú murar iarr na Coimisinéirí Ioncaim ort amhlaidh a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have a State pension and another pension or form of income which brings your income over the exemption limit for people aged over 65 you must file a Form 12 if you are not already being taxed on this income</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá pinsean Stáit agus pinsean eile nó foirm eile d’ioncaim agat a mhéadaíonn d’ioncam os cionn na teorann díolúine do dhaoine atá os cionn 65 bliain d’aois, ní mór duit Foirm 12 mura bhfuil cáin á gearradh ort cheana féin ar an ioncam seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The limits are currently €18,000 for a single person and €36,000 for a married couple or civil partners</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é €18,000 do dhuine singil agus €36,000 i gcás lánúin phósta nó páirtnéirí sibhialta na teorainneacha faoi láthair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Pay and File system</seg></tuv>
+  <tuv xml:lang="ga"><seg>An córas Íoc agus Tuairiscigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under self-assessment there is a common date for the payment of tax and filing of tax returns</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi fhéinmheasúnú, tá dáta coitianta ann chun cáin a íoc agus chun tuairisceáin chánach a thuairisciú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is 31 October each year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é seo an 31 Deireadh Fómhair gach bliain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This system, which is known as Pay and File allows you (or an agent) to file your return and pay the balance of tax outstanding for the previous year at the same time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ligeann an córas seo, ar a dtugtar Íoc agus Tuairiscigh duit (nó do ghníomhaire) do thuairisceán a thuairisciú agus iarmhéid na cánach gan íoc don bhliain roimhe sin ag an tráth céanna a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under this system you must:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoin gcóras seo, is gá duit:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Pay preliminary tax for the current tax year on or before 31 October each year – this may be extended for people who use Revenue’s Online Service (ROS)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Réamhcháin a íoc don bhliain reatha chánach an 31 Deireadh Fómhair nó roimhe sin gach bliain – déantar í seo a shíneadh faoi 2 sheachtain i gcás daoine a úsáideann Seirbhís ar Líne na gCoimisinéirí Ioncaim (ROS)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Make your tax return after the end of the tax year but not later than the following 31 October</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Do thuairisceán cánach a dhéanamh i ndiaidh dheireadh na bliana cánach ach tráth nach déanaí ná an 31 Deireadh Fómhair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Pay any balance of tax due for the previous tax year on or before 31 October</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Aon iarmhéid cánach a íoc atá le híoc don bhliain chánach roimhe sin an 31 Deireadh Fómhair nó roimhe sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Pay any Capital Gains Tax on disposals made between 1 January and 30 September of the current tax year</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Aon Cháin Ghnóthachan Caipitiúil a íoc ar dhiúscairtí a rinneadh idir an 1 Eanáir agus an 30 Meán Fómhair sa bhliain reatha chánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Note that the rules about self-assessment changed for the year 2013</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabhair faoi deara gur athraíodh na rialacha faoi fhéinmheasúnú don bhliain 2013</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In previous years Revenue would assess your liability for tax on the basis of the information you entered in your income tax return</seg></tuv>
+  <tuv xml:lang="ga"><seg>I mblianta roimhe seo, mheasúnódh na Coimisinéirí Ioncaim do dhliteanas le haghaidh cánach ar bhonn na faisnéise a d’iontráil tú i do thuairisceán cáin ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>From 2013, your annual return of income form – Form 11 - includes a self-assessment section which you (or your agent) must complete and sign</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó 2013 ar aghaidh, áirítear le d’fhoirm thuairisceán ioncaim bhliantúil – Foirm 11 – mír féinmheasúnaithe nach mór duitse (nó do ghníomhaire) a chomhlánú agus a shíniú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you do not make this self-assessment you will be liable to a penalty of €250</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura ndéanann tú an féinmheasúnú seo, beidh tú faoi dhliteanas pionós €250 a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, you do not have to make a self-assessment if you returned the completed Form 11 on or before 31 August in the year following the year of assessment If you filed your completed return on or before that date Revenue will make the self-assessment on your behalf</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní gá duit féinmheasúnú a dhéanamh, áfach, má sheol tú Foirm 11 chomhlánaithe ar ais an 31 Lúnasa. Má thuairiscigh tú do thuairisceán comhlánaithe ar an dáta sin nó roimhe sin, déanfaidh na Coimisinéirí Ioncaim an féinmheasúnú thar do cheann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you use ROS, the system can calculate your tax liability based on the information you input and you can then choose to use this in your self-assessment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má úsáideann tú ROS, féadfaidh an córas do dhliteanas cánach a ríomh, bunaithe ar an bhfaisnéis a ionchuireann tú agus féadfaidh tú a roghnú chun seo a úsáid i d’fhéinmheasúnú ansin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are a chargeable person you must make your income tax return and self-assess your tax liability</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más duine inmhuirir thú, ní mór duit do thuairisceán cáin ioncaim agus féinmheasúnú a dhéanamh ar do dhliteanas cánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You have the following options:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá na roghanna a leanas agat:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You can fill out a paper Form 11 (pdf) and send to Revenue</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Féadfaidh tú Foirm 11 pháipéir a chomhlánú agus í a sheoladh chuig na Coimisinéirí Ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You can use a shorter Form 11E which is an extract of the main personal Tax Return form</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Féadfaidh tú Foirm 11E níos giorra a úsáid, ar sliocht í den phríomhfhoirm Thuairisceán Cánach phearsanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You can also file your Form 11 using Revenue’s Online System (ROS). Certain people must e-file using ROS</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Chomh maith leis sin, féadfaidh tú d’Fhoirm 11 a thuairisciú trí leas a bhaint as Córas ar Líne na gCoimisinéirí Ioncaim (ROS) Is gá do roinnt daione ríomhthuairisciú a dhéanamh trí leas a bhaint as ROS</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Revenue also provide a Guide to Self Assessment (IT10) and helpsheets for both forms</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú rochtain a fháil ar na foirmeacha ar láithreán gréasáin na gCoimisinéirí Ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must file a Form 12 if Revenue have asked you to do so</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní ga duit Foirm 12 a thuairisciú má d’iarr na Coimisinéirí Ioncaim ort amhlaidh a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are not a chargeable person but you want to pay any tax due on your non-PAYE income you can file a form 12</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura duine inmhuirir thú, ach más mian leat aon cháin a íoc atá le híoc ar d’ioncam neamh-ÍMAT, féadfaidh tú foirm 12 a thuairisciú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are 3 options:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá 3 rogha ann:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You can fill out a paper Form 12 (pdf) and send it to Revenue</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Féadfaidh tú Foirm 12 pháipéir a chomhlánú agus í a sheoladh chuig na Coimisinéirí Ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You only need to fill in the parts of the form that are relevant to you. The eForm 12 does not provide for returning Capital Gains Tax details</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Féadfaidh tú Ríomh-Fhoirm 12 a chomhlánú – tá fáil ar an bhfoirm leictreonach seo trí ÍMAT aon Tráth aon Lá. Ní gá duit ach na codanna sin den fhoirm a chomhlánú a bhaineann leat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must fill out a separate CGT return</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit tuairisceán CGC ar leith a chomhlánú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You can fill out Form 12S – this is a simplified return for PAYE taxpayers</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Féadfaidh tú Foirm 12S a chomhlánú – seo tuairisceán simplithe le haghaidh cáiníocóirí ÍMAT</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can access the forms on the Revenue website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú rochtain a fháil ar na foirmeacha ar láithreán gréasáin na gCoimisinéirí Ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can use one of the Lo-call numbers to contact Revenue</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú ceann de na huimhreacha Íosghlao a úsáid chun teagmháil a dhéanamh leis na Coimisinéirí Ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find more detailed contact details for your region here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat teacht ar bhreis sonraí mionsionraithe teagmhála do do réigiún anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can view and update your tax details online using PAYE Anytime through Revenue's myAccount service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, féadfaidh tú do shonraí cánach a fheiceáil agus a nuashonrú ar líne trí ÍMAT aon Lá aon Tráth a úsáid</seg></tuv>
+</tu>
+</body>
+</tmx>

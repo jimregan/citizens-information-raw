@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Case study 2: Calculating your pension under bilateral social security agreements</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cás-staidéar 2: Do phinsean a ríomh faoi chomhaontuithe déthaobhacha slándála sóisialaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is an example showing how your entitlement to State Pension (Contributory) is calculated under bilateral social security agreements</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léiríonn an sampla seo conas a dhéantar do theidlíocht ar Phinsean Stáit (Ranníocach) a ríomh faoi chomhaontuithe déthaobhacha slándála sóisialaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Mary worked in Ireland for just over 11 years and has 600 Irish contributions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bhí Mary ag obair in Éirinn ar feadh díreach os cionn aon bhliain déag agus tá 600 ranníocaíocht Éireannach aici</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>She has spent the last 23 years working in the US and has 1,200 contributions paid there</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chaith sí 23 bliain ag obair sna Stáit Aontaithe agus tá 1,200 ranníocaíocht aici ansin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>She will be 66 next month and has returned to Ireland to retire</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh sí 66 bliain d’aois an mhí seo chugainn agus tá sí tar éis filleadh ar Éirinn chun dul ar scor</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>She wants to know if she will qualify for the State Pension (Contributory) when she is 66 years of age</seg></tuv>
+  <tuv xml:lang="ga"><seg>Teastaíonn uaithi a fháil amach an mbeidh sí i dteideal Pinsean Stáit (Ranníocach) a fháil nuair a bheidh sí 66 bliain d’aois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Mary's yearly average number of contributions is 18</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ríomh an ‘ráta barúlach pinsin’ atá ag Mary</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Calculate Mary’s 'notional rate of pension'. This is the rate of State Pension Mary would be entitled to if all her contributions were assessed as Irish contributions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is éard atá ann ná ráta an Phinsin Stáit (Ranníocach) a bheadh Mary i dteideal a fháil dá ndéanfaí a ranníocaíochtaí ar fad a mheasúnú mar ranníocaíochtaí Éireannacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To find the notional rate of pension, calculate the total of all Mary’s contributions (both foreign and Irish) and divide it by the number of years worked in Ireland and abroad</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun an ráta barúlach pinsin a fháil, ríomh líon iomlán na ranníocaíochtaí ar fad atá ag Mary (idir ranníocaíochtaí eachtracha agus ranníocaíochtaí Éireannacha) agus roinn é faoi líon na mblianta a d’oibrigh sí in Éirinn agus thar lear</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Total of all Mary's assessable contributions: 600 + 1200 = 1,800 contributions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Líon iomlán na ranníocaíochtaí inmheasúnaithe ar fad atá ag Mary: 600 + 1200 = 1,800 ranníocaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Total number of years since entering into insurable employment to the end of the last complete tax year before reaching pension age: 34 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Líon iomlán na mblianta a oibríodh: 11 bhliain in Éirinn agus 23 bliain i Stát Aontaithe Mheiriceá = 34 bliain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Total number of contributions by the number of years worked: 1800 ÷ 34 = 52.9</seg></tuv>
+  <tuv xml:lang="ga"><seg>Líon iomlán na ranníocaíochtaí roinnte faoi líon na mblianta a oibríodh: 1800 ÷ 34 = 52.9</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Mary’s yearly average number of contributions is 52.9</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é meánlíon na ranníocaíochtaí bliantúla atá ag Mary ná 52.9</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Mary’s notional rate of pension is the maximum rate because she has a yearly average contribution of 52.9</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ionann an ráta barúlach pinsin atá ag Mary agus an t-uasráta toisc go bhfuil ranníocaíocht bhliantúil ar an meán de 52.9 aici</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is more than the required yearly average of 48 for the maximum State Pension (Contributory)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé seo níos airde ná an 48 ranníocaíocht bhliantúil ar an meán a theastaíonn chun an Pinsean Stáit (Ranníocach) uasta a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Therefore, her notional rate of pension is the same as the maximum rate of State Pension (Contributory) of €233.30</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dá bhrí sin is ionann a ráta barúlach pinsin agus ráta uasta an Phinsin Stáit (Ranníocach) de €230.30</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Find out the current rate of State Pension based on yearly average contributions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigh amach cad é ráta an Phinsin Stáit (Idirthréimhseach) bunaithe ar mheánlíon do ranníocaíochtaí bliantúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Then apply the formula (A x B) ÷ C = rate of State Pension</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ansin cuir an fhoirmle seo a leanas i bhfeidhm: (A x B) ÷ C = ráta an Phinsin Stáit (Ranníocach)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A = the notional rate of pension</seg></tuv>
+  <tuv xml:lang="ga"><seg>A = an ráta barúlach pinsin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>B = the number of Irish contributions</seg></tuv>
+  <tuv xml:lang="ga"><seg>B = líon na ranníocaíochtaí Éireannacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>C = total number of contributions (Irish and foreign)</seg></tuv>
+  <tuv xml:lang="ga"><seg>C = líon iomlán na ranníocaíochtaí (Éireannacha agus eachtracha)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You take the figure for the notional rate of pension and multiply by the total number of Irish contributions (B):</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tógann tú an figiúr don ráta barúlach pinsin agus déanann tú é a iolrú faoi líon iomlán na ranníocaíochtaí Éireannacha (B):</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>€233.30 x 600 = €139,980</seg></tuv>
+  <tuv xml:lang="ga"><seg>€230.30 x 600 = €138,180</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Next, divide €139,980 by the total number of Irish and US contributions which we calculated earlier to be 1800:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ansin déan €138,180 a roinnt faoi líon iomlán na ranníocaíochtaí Éireannacha agus Meiriceánacha a ríomhamar níos luaithe mar 1800:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Mary’s rate of State Pension (Contributory) would be €77.76</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an ráta Pinsin Stáit (Idirthréimhseach) atá ag Mary ná €76.76</seg></tuv>
+</tu>
+</body>
+</tmx>

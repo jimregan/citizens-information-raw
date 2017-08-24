@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>The Department of Foreign Affairs and Trade has introduced a credit-card sized Irish passport card which you can use for travel within the European Union/European Economic Area (includes Iceland, Liechtenstein and Norway) and Switzerland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá cárta nua, a bhfuil cruth chárta creidmheasa air, tugtha isteach ag an Roinn Gnóthaí Eachtracha agus Trádála ar féidir leat a úsáid le haghaidh taistil laistigh den Aontas Eorpach agus sa Limistéar Eorpach Eacnamaíoch (an Íoslainn, Lichtinstéin agus an Iorua)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For all other travel you must use your passport book, that is, your normal passport</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás gach taistil eile ní mór duit do leabhar pas a úsáid, sé sin, do ghnáthphas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The card has a maximum validity of 5 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá uasthréimhse bailíochta 5 bliana ag do chárta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You apply for the card online</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann tú iarratas ar an gcárta ar líne nó ar aip don bhfón cliste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must be aged 18 or over when applying for the passport card</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór a bheith os cionn 18 bliain d’aois nuair a dhéanann tú iarratas ar chárta pas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must hold a valid Irish passport with at least 3 months' validity</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go mbeadh pas Éireannach bailí agat a bhfuil bailíocht 30 lá ar a laghad aige agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The personal details you provide when applying must be exactly the same as those on your passport book</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go mbeadh na sonraí pearsanta a sholáthraíonn tú nuair a dhéanann tú iarratas díreach mar a chéile leo siúd ar do phas bailí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The card is valid for a maximum of 5 years or the remaining validity of your passport</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh an cárta bailí ar feadh uasthréimhse 5 bliana ar a laghad nó don achar bailíochta atá fágtha ar do phas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you intend travelling using your passport card, you must use the passport card number when checking in online</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá sé beartaithe agat dul ag taisteal le do chárta pas nua, ní mór duit uimhir an chárta pas a úsáid agus tú ag seiceáil isteach ar líne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Lost or stolen card</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cárta caillte nó goidte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your passport card is lost, stolen or damaged, you should indicate the loss, theft or damage of your card on the relevant section of the online application form when reapplying for a new card</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chailltear do chárta pas, nó má ghoidtear nó má dhéantar damáiste dó, ba chóir duit an caillteanas, goid nó damáiste sin a chur in iúl ar an gcuid ábhartha d’fhoirm iarratais ar líne agus tú ag cur isteach in athuair ar chárta nua</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are not reapplying for a new card you should notify the Passport Service of the loss or theft by completing the contact form</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil tú ag cur isteach in athuair ar chárta nua ba chóir duit é sin a chur in iúl do sheirbhís na bpasanna tríd an fhoirm theagmhála seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The passport card costs €35. For applicants from outside Ireland, there is an additional delivery cost of €5</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cosnaíonn an cárta pas €35 Tá táille seachadta breise de €5 má tá iarratas á dhéanamh agat ó áit lasmuigh Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Payment is made using a debit or credit card</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íoctar sin le cárta dochair nó creidmheasa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can apply for a passport card online</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh na nithe seo a leanas ag teastáil uait chun iarratas a dhéanamh:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When making the application you need:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit an caighdeán riachtanach seo a chomhlíonadh:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Your current passport book</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní mór gotha neodrach a bheith ort (béal dúnta, gan meangadh gáire)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Your photograph (see the detailed guidelines on dfa.ie)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Níor chóir go mbeadh aon scáth ar d’éadan nó timpeall ar na súile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A debit or credit card</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Níor chóir duit éide a chaitheamh (sibhialta nó míleata)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you submit your application online you are issued with an 11-digit application number</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a chuireann tú isteach d’iarratas ar líne eisítear uimhir 11-digit duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can track your application’s progress on the Department’s website using the application number</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat d’iarratas a rianú ar líne ar láithreán gréasáin na Roinne ag baint úsáide as d’uimhir iarratais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find more information in the Department’s list of FAQs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat eolas breise a fháil i liosta ceisteanna coitianta na Roinne</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>The Constitution states that the Taoiseach must nominate a member of Dáil Eireann for the position of Tanaiste</seg></tuv>
+  <tuv xml:lang="ga"><seg>Deir An Bunreacht go gcaithfidh an Taoiseach ball de Dáil Eireann a ainmniú mar Thánaiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Tanaiste is the deputy Taoiseach</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é/í an Tánaiste an Leas-Thaoiseach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They act in place of the Taoiseach if the Taoiseach is abroad or ill</seg></tuv>
+  <tuv xml:lang="ga"><seg>Feidhmníonn sé/sí in áit an Taoisigh má tá an Taoiseach thar lear nó tinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the Taoiseach were to die or become permanently incapacitated, the Tanaiste would stand in until a new Taoiseach was appointed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dá dtarlódh sé go bhfaigheadh an Taoiseach bás nó go mbeadh sé/sí faoi mhíchumas buan, sheasfadh an Tánaiste isteach go dtí go mbeadh Taoiseach nua tofa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Tanaiste may also hold a ministerial portfolio, which means that they may also be a minister of a Department of State</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis an Tánaiste Aireacht a bheith aige/aici freisin, rud a fhágann go mbíonn sé/sí freisin ina (h)Aire ar Roinn Stáit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Information on the current Tanaiste is available here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá eolas ar an Tánaiste láithreach anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Like the other members of the Government, the Tanaiste may be dismissed by the Taoiseach if they consider that there is sufficient reason to do so</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis an Taoiseach an Tánaiste a chur as an bpost, díreach mar is féidir leis /léi aon Aire eile a chur as a p(h)ost, má cheapann sé/sí go bhfuil cúis mhaith chun sin a dhéanamh</seg></tuv>
+</tu>
+</body>
+</tmx>

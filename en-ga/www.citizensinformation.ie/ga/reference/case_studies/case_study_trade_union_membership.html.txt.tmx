@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Gerry has been working part-time (10 hours a week) for 6 months with a takeaway restaurant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Gerry ag obair go páirtaimseartha (10 n-uaire in aghaidh na seachtaine) le 6 mhí anuas i mbialann mearbhia</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He decides that he will join a trade union because the conditions in the job are bad</seg></tuv>
+  <tuv xml:lang="ga"><seg>Socraíonn sé ballraíocht a ghlacadh le ceardchumann toisc go bhfuil coinníollacha sa phost go dona</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>None of the other employees is in a union</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl duine ar bith de na fostaithe eile i gceardchumann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He is showing some information he got from the union to a fellow employee when his employer comes into the takeaway and sees what Gerry is doing</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé ag taispeáint faisnéise a fuair sé ón gceardchumann do chomhghleacaí leis nuair a thagann a fhostóir isteach sa bhialann mearbhia agus tugann sé faoi deara cad atá ar siúl ag Gerry</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>At finishing time that day, the employer tells Gerry he no longer needs his services as demand has dropped</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag deireadh an lae oibre, deireann an fostóir le Gerry nach bhfuil a chuid seirbhísí ag teastáil níos mó toisc titim ar chúrsaí éilimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>What rights does Gerry have?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cad iad na cearta atá ag Gerry?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Gerry has been working for the employer for less than a year, so in normal circumstances he would not be able to bring a claim for unfair dismissal</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá níos lú ná bliain caite ag Gerry ag obair don fhostóir, agus faoi ghnáthchúinsí ní bheadh sé ábalta éileamh a dhéanamh maidir le dífhostú éagórach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, this requirement does not apply to a dismissal for trade union activity</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin féin, ní bhaineann an riachtanas seo le dífhostú toisc gníomhaíocht cheardchumainn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It would appear that Gerry’s dismissal is related to his employer’s discovery that he had been in contact with a union</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is cosúil go bhfuil dífhostú Gerry bainteach leis an bhfostóir ag fáil amach go raibh teagmháil aige le ceardchumann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This gives Gerry a strong case to argue that this discovery was the reason for the dismissal and not a drop in demand</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá cás láidir ag Gerry dá réir le cruthú gurb í seo cúis an dífhostaithe agus ní titim ar chúrsaí éilimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Gerry could bring his case for unfair dismissal to the Workplace Relations Commission using the online complaint form available on workplacerelations.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir do Gerry a iarratas ar dhífhostú éagórach ag eascairt ó ghníomhaíocht cheardchumainn a thabhairt faoi bhráid an Choimisiúin um Chaidreamh san Áit Oibre tríd an fhoirm ghearáin ar líne a úsáid á fáil ar workplacerelations.ie</seg></tuv>
+</tu>
+</body>
+</tmx>

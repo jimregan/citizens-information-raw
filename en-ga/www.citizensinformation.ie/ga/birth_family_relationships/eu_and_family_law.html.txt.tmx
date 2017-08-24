@@ -1,0 +1,621 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>EU and family law</seg></tuv>
+  <tuv xml:lang="ga"><seg>An AE agus an dlí teaghlaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Divorce, separation and annulment</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Colscaradh, scaradh agus neamhniú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The European Union (EU) has a limited role in family law matters</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá ról teoranta ag an AE i gcúrsaí dlí teaghlaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Each individual member state has its own rules about separation, divorce, maintenance of spouses and children, custody and guardianship and other family law matters</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá a chuid rialacha féin ag gach ballstát aonair maidir le scaradh, colscaradh, cothabháil céilí agus leanaí, caomhnóireacht agus cúrsaí dlí teaghlaigh eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The role of the EU is mainly concerned with ensuring that decisions made in one country can be implemented in another</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é ról an AE go príomha ná a chinntiú gur féidir cinntí a dhéantar i dtír amháin a chur i bhfeidhm i dtír eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It also has a role in trying to establish which country has jurisdiction to hear a particular case</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá ról freisin ag an AE ó thaobh cinneadh a dhéanamh cén tír ag a bhfuil dlínse chun éisteacht le cás ar leith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In effect, the EU does not have rules which govern, for example, who is entitled to have custody or access but it does have rules which try to ensure that custody and access orders made in one country can be put into effect in another</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go fíreannach, níl rialacha ag an AE a rialaíonn, mar shampla, cé atá i dteideal caomhnóireachta nó rochtana ach tá rialacha aige a dhéanann iarracht a chinntiú gur féidir orduithe caomhnóireachta agus rochtana a dhéantar i dtír amháin a chur i bhfeidhm i dtír eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>EU rules in relation to enforcement of matrimonial orders (divorce, separation, annulment) and some parental responsibility orders (mainly custody and access) came into effect in March 2001</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tháinig rialacha an AE maidir le horduithe pósta (colscaradh, scaradh, neamhniú) agus roinnt orduithe um fhreagracht tuismitheoirí (caomhnóireacht agus rochtain den chuid is mó) i bhfeidhm i Márta 2001</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A new regulation on matrimonial matters and parental responsibility came into effect in March 2005</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tháinig rialachán nua maidir le cúrsaí pósta agus freagracht tuismitheoirí i bhfeidhm i Márta 2005</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This did not involve any significant change in the rules on matrimonial matters but it did involve changes in the rules governing parental responsibility – see 'Parental responsibility' below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní raibh aon athrú suntasach sna rialacha ar chúrsaí pósta i gceist leis seo ach bhí athruithe sna rialacha a rialaíonn freagracht tuismitheoirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>EU rules in relation to the enforcement of maintenance orders came into effect in March 2002</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tháinig rialacha an AE maidir le forfheidhmiú na n-orduithe cothabhála i bhfeidhm i Márta 2002</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A new regulation on maintenance came into effect in June 2011 – see 'Maintenance' below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tháinig rialachán nua ar chothabháil i bhfeidhm i Meitheamh 2011 – féach ‘Cothabháil’ thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The problem of conflict of laws</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fadhb na heasaontachta dlíthe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If all the parties to a family law dispute are from one country and are living in that country then generally the dispute is heard by the courts of that country and a decision is made and implemented in accordance with the laws of that country</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má thagann na páirtithe uile i ndíospóid dlí teaghlaigh ó thír amháin agus má tá siad ina gcónaí sa tír sin éisteann cúirteanna na tíre sin leis an díospóid de ghnáth agus déantar cinneadh agus cuirtear i bhfeidhm é de réir dlíthe na tíre sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Problems arise when the parties are not living in the same country or are not nationals of the same country</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tagann fadhbanna chun cinn mura bhfuil na páirtithe go léir ina gcónaí sa tír chéanna nó mura bhfuil siad go léir ina náisiúnaigh den tír chéanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It may not be clear which country’s courts should make the decisions, which country’s laws should be applied and how the decisions made in one country can be implemented in another</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seans nach mbeadh sé soiléir cén tír gur chóir dá cúirteanna na cinntí a dhéanamh, cén tír gur chóir dá dlíthe a bheith curtha i bhfeidhm agus cén chaoi ar féidir leis na cinntí a dhéantar i dtír amháin a bheith curtha i bhfeidhm i dtír eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Each country has its own rules about how this conflict of laws should be dealt with</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá a rialacha féin ag gach tír faoin gcaoi ar chóir plé leis an easaontacht dlíthe seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is possible that several countries would have jurisdiction to hear the dispute and that each would apply different laws</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá seans ann go mbeadh dlínse ag roinnt tíortha éisteacht leis an díospóid agus go gcuirfeadh siad uile dlíthe éagsúla i bhfeidhm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The procedures for having judgements recognised and enforced in another country can be difficult and sometimes impossible</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh na nósanna imeachta chun breithiúnais a aithint agus a chur i bhfeidhm i dtír eile a bheith deacair agus neamhfhéideartha uaireanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Generally, if you have a judgement from a court in one country, you have to go through another judicial process in another country in order to have it implemented there (this process is known as exequatur)</seg></tuv>
+  <tuv xml:lang="ga"><seg>De ghnáth, má tá breithiúnas agat ó chúirt i dtír amháin, tá ort dul trí nós imeachta breithiúnach eile i dtír eile le go gcuirfear i bhfeidhm inti é (tugtar ‘exequatur’ ar an bpróiseas seo)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These problems arise between all countries and not only between EU member states</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tarlaíonn na fadhbanna seo idir na tíortha go léir agus ní hamháin idir ballstáit an AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A number of international conventions have been agreed dealing with such conflicts of laws</seg></tuv>
+  <tuv xml:lang="ga"><seg>Aontaíodh ar roinnt coinbhinsiún idirnáisiúnta a phléann lena leithéid d’easaontacht dlíthe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These international conventions continue to apply between EU member states and non-EU member states</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leantar leis na coinbhinsiúin idirnáisiúnta seo a chur i bhfeidhm idir ballstáit an AE agus ballstáit neamh-AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The EU regulations in family law matters apply in all the EU member states except Denmark – this means that if there is a conflict of laws involving Denmark and another EU member state, the matter is governed by the international conventions if they are relevant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá rialacha an AE maidir le cúrsaí dlí teaghlaigh infheidhmithe i ngach ballstát de chuid an AE ach amháin an Danmhairg - ciallaíonn sé sin má bhíonn easaontacht dlíthe idir an Danmhairg agus ballstát eile de chuid an AE, tá an t-ábhar faoi rialú na gcoinbhinsiún idirnáisiúnta má bhíonn siad ábhartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>EU competence to deal with family law</seg></tuv>
+  <tuv xml:lang="ga"><seg>Inniúlacht an AE chun déileáil le dlí teaghlaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The EU is only entitled to make laws in areas where the treaties give it the specific competence to do so</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl an AE i dteideal dlíthe a dhéanamh ach amháin sna limistéir ina dtugann na conarthaí saininniúlacht dó a leithéid a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It has no specific competence to make laws in relation to divorce, maintenance or parental responsibility</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon inniúlacht faoi leith aige dlíthe a dhéanamh maidir le colscaradh, cothabháil nó freagracht tuismitheoirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means it cannot make laws setting out the terms under which a divorce may be granted or the responsibility of spouses to pay maintenance or how decisions on custody to access to children are to be made</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn sé seo nach féidir leo dlíthe a dhéanamh ag leagan amach na dtéarmaí faoinar féidir colscaradh a cheadú nó freagracht céilí as íocaíochtaí cothabhála a dhéanamh nó conas ar chóir cinntí a dhéanamh maidir le rochtain ar leanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, the EU does have competence to promote judicial co-operation in civil matters which have cross border implications</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an inniúlacht ag an AE comhoibriú breithiúnach a chur chun cinn i gcúrsaí sibhialta a bhfuil impleachtaí trasteorann acu áfach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It has made a number of regulations dealing with judicial co-operation in civil matters</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé tar éis roinnt rialachán a dhéanamh a phléann le comhoibriú breithiúnach i gcúrsaí sibhialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In general, these regulations are based on the principle of mutual recognition – that is, that decisions lawfully made in one member state should be recognised and enforced in other member states and the procedures for doing so should be as simple as possible</seg></tuv>
+  <tuv xml:lang="ga"><seg>De ghnáth, tá na rialacháin seo bunaithe ar phrionsabal an aitheantais fhrithpháirtigh – is é sin ná, gur chóir cinntí a dhéantar go dleathach i mballstát amháin a aithint agus a chur i bhfeidhm sna ballstáit eile agus gur chóir go mbeadh na nósanna imeachta chun a leithéid a dhéanamh chomh simplí agus is féidir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The EU rules in the family law area generally build on the international conventions which already existed but which were not always implemented or did not have mechanisms to ensure implementation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta bíonn rialacha an AE i réimse an dlí teaghlaigh bunaithe ar na coinbhinsiúin idirnáisiúnta a bhí ann cheana féin ach nár cuireadh i bhfeidhm i gcónaí nó nach raibh meicníochtaí ag baint leo a chinntigh gur cuireadh i bhfeidhm iad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The recognition and enforcement of maintenance orders in EU member states was governed by Regulation 44/2001 of December 2000 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rinneadh aitheantas agus forfheidhmiú orduithe cothabhála i mballstáit an AE a rialú ag Rialachán 44/2001 a rinneadh i Nollaig 2000 ar dhlínse agus ar aitheantas agus ar fhorfheidhmiú breithiúnas in ábhair shibhialta agus thráchtála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This Regulation is known as "the Brussels I Regulation" and had been in effect in Ireland since March 2002</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar "Rialachán na Bruiséile I" ar an Rialachán seo agus bhí sé i bhfeidhm in Éirinn ó Mhárta 2002 i leith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It replaced the 1968 Brussels Convention</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tháinig sé in ionad Choinbhinsiún na Bruiséile 1968</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In June 2011, Regulation 4/2009 of 18 December 2008, on jurisdiction, applicable law, recognition and enforcement of decisions and cooperation in matters relating to maintenance obligations, amended Regulation 44/2001 by replacing the provisions of that Regulation that apply to maintenance obligations</seg></tuv>
+  <tuv xml:lang="ga"><seg>I Meitheamh 2011, rinne Rialachán 4/2009 an 18 Nollaig 2008, ar dhlínse, dlí infheidhme, aitheantas agus forfheidhmiú cinntí agus comhoibrithe in ábhair lenar bhain dualgais chothabhála, Rialachán 44/2001 a leasú trí fhorálacha an Rialacháin sin a bhaineann le dualgais chothabhála a ionadú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Regulation 4/2009, which is commonly referred to as "the Maintenance Regulation", aims to enable a maintenance creditor (you are owed money under a maintenance order) to obtain easily, quickly and generally free of charge, an order which can readily be enforced throughout the European Union</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé mar chuspóir ag Rialachán 4/2009, ar a dtugtar go rialta “an Rialachán Cothabhála”, a chur ar chumas bailitheoir cothabhála (bíonn airgead le híoc leat faoi ordú cothabhála) chun ordú a fháil gan stró, go tapa agus saor in aisce, go ginearálta, ar féidir é a fhorfheidhmiú gan stró ar fud an Aontais Eorpaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It does this by providing for common rules in relation to jurisdiction, applicable law, recognition, enforcement, cooperation and standardised documents</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann sé an méid seo trí fhoráil a dhéanamh do rialacha comónta i ndáil le dlínse, dlí infheidhme, aitheantas, forfheidhmiú, comhoibriú agus cáipéisí caighdeánaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It covers maintenance obligations which arise from:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuimsíonn sé dualgais chothabhála a eascraíonn ón méid a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the Regulation, each member state has a Central Authority</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoin Rialachán, tá ag gach ballstát Údarás Lárnach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Central Authority in Ireland is the Department of Justice and Equality</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad an tÚdarás Lárnach in Éirinn an Roinn Dlí agus Cirt agus Comhionannais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Central Authorities co-operate with each other in facilitating the operation of the regulation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Comhoibríonn na hÚdaráis Lárnacha lena chéile agus oibriú an rialacháin a éascú acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They also assist individuals in relation to applications available under the Regulation, particularly with regard to the transmission and receipt of applications, the initiation of related proceedings for the establishment or modification of maintenance, and for the enforcement of a maintenance decision</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, cabhraíonn siad le daoine maidir le hiarratais atá ar fáil faoin Rialachán, go háirithe maidir le haistriú agus fáil iarratas, tús a chur le himeachtaí gaolmhara do bhunú nó do mhodhnú cothabhála, agus d’fhorfheidhmiú cinneadh cothabhála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Regulation 805/2004 of 21 April 2004 created a European Enforcement Order for uncontested orders – including maintenance orders – that came into effect in Ireland on 21 October 2005</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chruthaigh Rialachán 805/2004 an 21 Aibreán 2004, Ordú Forfheidhmithe Eorpach d'orduithe a gcuirtear ina gcoinne – a tháinig i bhfeidhm in Éirinn an 21 Deireadh Fómhair 2005</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Its provisions for maintenance orders were replaced by Regulation 4/2009, except for European enforcement orders concerning maintenance obligations issued by member states that are not bound by the 2007 Hague Protocol on the law applicable to maintenance obligations</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rinne Rialachán 4/2009 a fhorálacha a ionadú, seachas i gcás orduithe forfheidhmithe Eorpacha lenar bhain dualgais chothabhála a d’eisigh ballstáit eile nach bhfuil faoi cheangal ag Prótacal na Háige 2007 ar an dlí atá infheidhme le dualgais chothabhála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The vast majority of member states are bound by the 2007 Hague Protocol</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tromlach mór na mballstát faoi cheanglas ag Prótacal na Háige 2007</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In 2007 the European Community signed a treaty on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters with Iceland, Norway and Switzerland</seg></tuv>
+  <tuv xml:lang="ga"><seg>In 2007, shínigh an Comhphobal Eorpach conradh ar dhlínse agus ar aitheantas agus ar fhorfheidhmiú breithiúnas in ábhair shibhialta agus thráchtála leis an Íoslainn, an Iorua agus leis an Eilvéis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The treaty is known as the new Lugano Convention and came into force in January 2010</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar Coinbhinsiún nua Lugano ar an gconradh agus tháinig sé i bhfeidhm in Eanáir 2010</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Convention is substantially the same as Regulation 44/2001 and applies between an EU member state and one of the countries mentioned above</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is mar an gcéanna, den chuid is mó, an Coinbhinsiún agus Rialachán 44/2001 agus tá feidhm aige idir ballstát AE agus ceann de na tíortha a luaitear thuas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>UN and Hague Conventions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Coinbhinsiúin na NA agus na Háige</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The UN Convention on the Recovery Abroad of Maintenance Payments (the New York Convention) was brought into effect for Ireland in November 1995 by the Maintenance Act 1994</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chuir an tAcht Cothabhála, 1994 Coinbhinsiún na Náisiún Aontaithe maidir le hÍocaíochtaí Cothabhála a Aisghabháil Thar Lear (Coinbhinsiún Nua-Eabhrac) i bhfeidhm d’Éirinn i Samhain 1995</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This Convention is designed to facilitate the recovery of maintenance by a person living in one jurisdiction against a person living in another</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an Coinbhinsiún seo in ainm is aisghabháil cothabhála a éascú i measc daoine a chónaíonn i ndlínse amháin i leith daoine a chónaíonn i ndlínse eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In 2007, the Hague Conference on Private International Law adopted the following two international instruments which are designed to facilitate the international recovery of maintenance:</seg></tuv>
+  <tuv xml:lang="ga"><seg>In 2007, ghlac Coinbhinsiún na Háige um Dhlí Idirnáisiúnta Príobháideach leis an dá ionstraim idirnáisiúnta a leanas atá in ainm is aisghabháil cothabhála idirnáisiúnta a éascú:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• 2007 Hague Convention on the international recovery of child support and other forms of family maintenance</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Coinbhinsiún na Háige 2007 um aighabháil idirnáisiúnta tacaíocht linbh agus foirmeacha eile de chothabháil teaghlaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It revises two existing Hague Conventions relating to family support as well as the New York Convention</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann sé leasú ar dhá Choinbhinsiún reatha na Háige i ndáil le tacaíocht teaghlaigh, mar aon le Coinbhinsiún Nua-Eabhrac</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Convention entered into force on 1 January 2013</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tháinig an Coinbhinsiún i bhfeidhm an 1 Eanáir 2013</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• 2007 Hague Protocol on the law applicable to maintenance obligations</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Prótacal na Háige 2007 ar an dlí infheidhme i dtaca le dualgais chothabhála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The European Union has applied the Protocol since 2011 on a provisional basis to all its member states except for Denmark and the UK</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chuir an tAontas Eorpach an Prótacal i bhfeidhm ó 2011 i leith ar bhonn sealadach dá mballstáit go léir seachas an Danmhairg agus an RA</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Protocol entered into force on 1 August 2013</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tháinig an Prótacal i bhfeidhm an 1 Lúnasa 2013</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you want to enforce a maintenance order in a country not covered by EU Regulation 4/2009 or the Lugano Convention, you should contact the Central Authority for Maintenance Recovery in the Department of Justice and Equality for help – see 'Where to apply' below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mian leat ordú cothabhála a fhorfheidhmiú i dtír nach bhfuil cuimsithe ag Rialachán AE 4/2009 nó ag Coinbhinsiún Lugano, ba cheart duit teagmháil a dhéanamh leis an Údarás Lárnach um Aisghabháil Cothabhála sa Roinn Dlí agus Cirt agus Comhionannais chun teacht ar chabhair – féach ‘Cá ndéanfaidh mé iarratas?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Department is responsible for transmitting and receiving maintenance</seg></tuv>
+  <tuv xml:lang="ga"><seg>’ thíos. Tá an Roinn freagrach as cothabháil a aistriú agus a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is more information about maintenance in our document on maintenance orders and agreements</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá níos mó faisnéise ar fáil faoi chothabháil inár gcáipéis ar orduithe agus comhaontuithe cothabhála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Divorce, separation and annulment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Colscaradh, scaradh agus neamhniú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Regulation 1347/2000 of 29 May 2000 (called "the Brussels II Regulation”) came into effect in March 2001</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tháinig Rialachán 1347/2000 an 29 Bealtaine 2000 (ar a dtugtar “Rialachán na Bruiséile II”) i bhfeidhm i Márta 2001</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It set out the rules on jurisdiction and the recognition and enforcement of judgments in matrimonial matters and in matters of parental responsibility for children of both spouses</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leag sé amach na rialacha maidir le dlínse agus le breithiúnais a aithint agus a fhorfheidhmiú i gcúrsaí pósta agus i gcúrsaí a bhaineann le freagracht tuismitheoirí i leith leanaí an bheirt chéilí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(Matrimonial matters includes divorce, annulment and legal separation but does not include, for example, the property consequences of marriage and the grounds for divorce.)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Cuimsíonn cúrsaí pósta colscaradh, neamhniú agus scaradh dlíthiúil ach ní chuimsíonn sé, mar shampla, iarmhairtí maoine an phósta agus an chúis leis an gcolscaradh.)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This regulation was replaced by Regulation 2201/2003 (“the new Brussels II Regulation” or "the Brussels II bis”) for cases arising on or after 1 March 2005 but its rules in relation to matrimonial matters are virtually unchanged</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tháinig Rialachán 2201/2003 (“Rialachán nua na Bruiséile II” nó “an Bhruiséil II bis”) in ionad an rialacháin sin do chásanna a tháinig chun cinn ar nó dá éis 1 Márta 2005 ach a rialacha maidir le cúrsaí pósta beagnach gan athrú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A Practice Guide for the application of the new Brussels II Regulation (pdf) is available</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Treoir Chleachtaidh maidir le cur i bhfeidhm Rialachán nua na Bruiséile II (pdf) ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Regulation does not set out one general rule about jurisdiction in matrimonial matters</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní leagann an Rialachán amach riail ghinearálta amháin faoi dhlínse i gcúrsaí pósta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It provides that you may take a matrimonial action in the courts of the member state where one or both of you are or were habitually resident or the member state of your common nationality or your common domicile</seg></tuv>
+  <tuv xml:lang="ga"><seg>Forálann sé gur féidir leat caingean pósta a ghlacadh i gcúirteanna an bhallstáit ina bhfuil nó ina raibh duine díobh nó an bheirt agaibh i bhur ngnáthchónaí, nó i gcúirteanna an bhallstát óna dtagann an bheirt agaibh ó dhúchais nó ina bhfuil sibh i bhur sainchónaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means, of course, that it may be possible to take the action in a number of states</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn sé sin, dar ndóigh, go bhféadfaí caingean a ghlacadh i roinnt stát</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Regulation provides that once proceedings have started in a particular member state, other states must refuse jurisdiction</seg></tuv>
+  <tuv xml:lang="ga"><seg>Forálann an Rialachán, chomh luath is atá imeachtaí tosaithe i mballstát amháin gur gá do na stáit eile dlínse a dhiúltú ansin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Regulation does not deal with the question of which law applies</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní phléann an Rialachán leis ceist maidir le cén dlí atá infheidhmithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is a matter for the member state that has jurisdiction</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ábhar é seo don bhallstát a bhfuil dlínse aige</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, most countries other than Ireland and the UK apply the law of the country of habitual residence of the parties while Ireland and the UK apply the law of the country of domicile</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, cuireann an chuid is mó de na tíortha, seachas Éire agus an Ríocht Aontaithe, dlí na tíre ina bhfuil gnáthchónaí ar na páirtithe i bhfeidhm, ach cuireann Éire agus an RA dlí na tíre ina bhfuil sainchónaí orthu i bhfeidhm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Regulation provides that a decision on a matrimonial matter made in one member state must be recognised and enforced in the other states without any special procedures</seg></tuv>
+  <tuv xml:lang="ga"><seg>Forálann an Rialachán go gcaithfear cinneadh a dhéantar maidir le cúrsa pósta i mballstát amháin a aithint agus a chur i bhfeidhm sna stáit eile gan aon nósanna imeachta speisialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You do not have to go to court to have it recognised</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní gá duit dul chuig an gcúirt le go n-aithneofaí é</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, any interested party may ask the court in the other member state not to recognise the decision</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh páirtí ar bith gur suim leo an scéal iarraidh ar an gcúirt sa bhallstát eile gan an cinneadh a aithint áfach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The court may refuse to recognise the decision:</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh an chúirt diúltú don chinneadh a aithint:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If such recognition is clearly contrary to public policy</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má tá sé soiléir go mbeadh sé in aghaidh an bheartais phoiblí é a aithint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If the decision contradicts another decision</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má théann an cinneadh in aghaidh cinneadh eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If there were certain procedural defects – in particular if one party was not properly served with the relevant papers and did not put in an appearance as a result</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má bhí lochtanna áirithe sa nós imeachta – go háirithe murar seirbheáladh na páipéir ábhartha ar pháirtí amháin i gceart agus nach raibh sé/sí i láthair mar thoradh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The court is not entitled to hear an appeal against the decision</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl an chúirt i dteideal éisteacht le hachomharc i gcoinne an chinnidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The law applicable to international divorces</seg></tuv>
+  <tuv xml:lang="ga"><seg>An dlí a bhaineann le colscaradh idirnáisiúnta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As explained above, Regulation 2201/2003 does not determine what law applies when an application for divorce is being considered</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi mar a mhínítear thuas, ní dheimhníonn Rialachán 2201/2003 cén dlí atá infheidhme nuair atá breithniú á dhéanamh ar iarratas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, if an Irish person living in the UK wants to divorce a German spouse who is living in France, which national law applies?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, más mian le hÉireannach a chónaíonn sa RA colscaradh a fháil ó chéile Gearmánach a bhfuil cónaí air/uirthi sa Fhrainc, cén dlí náisiúnta a bhíonn i gceist?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Regulation 1259/2010 of 20 December 2010 (known as "the Rome III Regulation") implementing enhanced cooperation in the area of the law applicable to divorce and legal separation was adopted by 14 EU member states</seg></tuv>
+  <tuv xml:lang="ga"><seg>Glacadh le Rialachán 1259/2010 an 20 December 2010 (ar a dtugtar "Rialachán na Róimhe III") a chuireann i bhfeidhm comhoibriú feabhsaithe i limistéar an dlí atá infheidhme le colscaradh agus le hidirscaradh dlíthiúil ag 14 bhallstát AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It came into effect in those member states on 21 June 2012</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tháinig sé i bhfeidhm sna ballstáit siúd an 21 Meitheamh 2012</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Ireland and the UK have not opted into this Regulation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níor ghlac Éire agus an RA leis an Rialachán seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Regulation allows international couples in the member states where it applies to agree in advance which law will apply to their divorce or legal separation, as long as the agreed law is the law of the member state with which they have a closer connection</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ligeann an Rialachán do lánúineacha idirnáisiúnta sna ballstáit ina bhfuil feidhm aige comhaontú a dhéanamh roimhe ré faoi cén dlí a bheidh i gceist lena gcolscaradh nó lena n-idirscaradh dlíthiúil, a fhad agus go bhfuil an dlí ar a ndéantar comhaontú ina dhlí den bhallstát a bhfuil an nasc is dlúithe acu leis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In case the couple cannot agree, the judge can use a common formula for deciding which country's law applies</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás nach féidir leis an lánúin comhaontú a dhéanamh, féadfaidh an breitheamh foirmle chomónta a úsáid chun cinneadh a dhéanamh ar dhlí na tíre ag a bhfuil éifeacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This Regulation 1259/2010 does not affect the application of Regulation 2201/2003</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní dhéanann Rialachán 1259/2010 seo aon difear do chur i bhfeidhm Rialachán 2201/2003</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Regulation 2201/2003 on jurisdiction and the recognition and enforcement of judgments in matrimonial matters and the matters of parental responsibility came into effect in March 2005</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar a luadh thuas, tháinig Rialachán Uimh. 2201/2003 maidir le dlínse agus breithiúnais a aithint agus a fhorfheidhmiú i gcúrsaí pósta agus cúrsaí a bhaineann le freagracht tuismitheoirí i bhfeidhm i Márta 2005</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This Regulation replaced Regulation 1347/2000 which applied from March 2001</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tháinig an rialachán seo in ionad Rialachán 1347/2000 a bhí i bhfeidhm ó Mhárta 2001</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The earlier Regulation only applied to judgments on parental responsibility that were issued in the course of matrimonial proceedings and it only applied to judgements in relation to the children of both spouses</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níor bhain an rialachán roimhe sin ach le breithiúnais maidir le freagracht tuismitheoirí a eisíodh le linn imeachtaí pósta agus níor bhain sé ach le breithiúnais maidir le leanaí na gcéilí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The 2003 Regulation applies to all decisions made by the courts of member states in matters of parental responsibility</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann Rialachán 2003 leis na cinntí go léir a dhéanann cúirteanna na mballstát i gcúrsaí freagrachta tuismitheoirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The parents need not be married to each other</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní gá go mbeadh na tuismitheoirí pósta lena chéile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They need not be the biological parents of the child in question</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní gá gur tuismitheoirí bitheolaíocha an linbh iad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is not confined to court judgments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní le breithiúnais chúirte amháin a bhaineann sé</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It also applies to agreements between parents if such agreements are enforceable in the country where they were made</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann sé le comhaontuithe idir tuismitheoirí freisin má tá na comhaontuithe sin infheidhmithe sa tír ina ndearnadh iad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In general, such agreements can be turned into court rulings and thereby made enforceable</seg></tuv>
+  <tuv xml:lang="ga"><seg>De ghnáth, is féidir comhaontuithe dá leithéid a aistriú go rialuithe cúirte agus iad a bheith infheidhmithe dá bharr</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>What the 2003 Regulation covers</seg></tuv>
+  <tuv xml:lang="ga"><seg>An méid a chlúdaíonn an rialachán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Regulation covers the following aspects of parental responsibility:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Clúdaíonn an rialachán na gnéithe seo a leanas d’fhreagracht tuismitheoirí:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Jurisdiction – what country should hear the case, whose laws should apply</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Dlínse - cén tír ar chóir an cás a éisteacht inti, cén dlíthe ar chóir a bheith i bhfeidhm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Recognition and enforcement – how decisions made in one country are to be recognised and enforced in another</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Aitheantas agus forfheidhmiú - conas a thabharfar aitheantas agus a dhéanfar forfheidhmiú ar chinntí a dhéantar i dtír amháin i dtír eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Specific rules on child abduction and access rights</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Rialacha sonracha ar fhuadach leanaí agus ar chearta rochtana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Parental responsibility includes rights of custody and rights of access, guardianship, the placement of a child in a foster family or in institutional care</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuimsíonn freagracht tuismitheoirí cearta caomhnóireachta agus cearta rochtana, caomhnóireacht, lonnú an linbh i dteaghlach altrama nó i gcúram institiúide</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Regulation does not apply to proceedings which involve:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhaineann an rialachán le nósanna imeachta ina mbíonn na nithe seo a leanas i gceist:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Establishing and challenging paternity</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Atharthacht a dheimhniú agus agóid a dhéanamh ina haghaidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Judgments in relation to adoption</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Breithiúnais maidir le huchtú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The child's first and last names</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Céad ainm agus sloinne an linbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Measures taken following criminal infringements committed by children</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bearta a glacadh i ndiaidh sáruithe coiriúla a rinne leanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Regulation also applies to certain measures concerning the child’s property if they are related to the protection of the child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann an rialachán freisin le bearta áirithe maidir le maoin an linbh má bhaineann siad leis an leanbh a chosaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Measures that relate to the child’s property, but which do not concern the protection of the child, are covered by Regulation 1215/2012 known as Brussels I recast</seg></tuv>
+  <tuv xml:lang="ga"><seg>Clúdaítear bearta a bhaineann le maoin an linbh, ach nach mbaineann le cosaint an linbh, i Rialachán 1215/2012 (Bruiséile I athmhúnlú)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is for the judge to assess in the individual case whether a measure relating to the child’s property concerns the protection of the child or not</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is faoin mbreitheamh atá sé measúnú a dhéanamh i ngach cás ar leith cibé an mbaineann beart i leith maoin an linbh le cosaint an linbh nó nach mbaineann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The general rule is that the court which has jurisdiction in matters of parental responsibility is the court of the country where the child is habitually resident</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is í an riail ghinearálta ná gurb í cúirt na tíre ina bhfuil an leanbh ina ghnáthchónaí an chúirt a bhfuil an dlínse aici i gcúrsaí freagrachta tuismitheoirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Again, in general, once the matter is before the courts in one country, that country continues to have jurisdiction even if the child has lawfully changed country of residence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Arís, de ghnáth, chomh luath is a thugtar an t-ábhar os comhair na gcúirteanna i dtír amháin, leanann an dlínse sa tír sin fiú má tá an leanbh tar éis a thír chónaithe a athrú de réir an dlí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is possible to have the case transferred to the new country of residence if certain conditions are met and if it would be in the best interests of the child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir an cás a aistriú chuig an tír chónaithe nua má chomhlíontar coinníollacha áirithe agus dá mbeadh sé ar son barr leasa an linbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The parents may agree to have the question of parental responsibility decided in the court which has jurisdiction on the matrimonial matter or may agree to have the case heard by the court of a country with which the child has a close connection (for example, nationality)</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh na tuismitheoirí aontú go ndéanfar cinneadh ar an gceist d’fhreagracht tuismitheoirí sa chúirt a bhfuil dlínse aici ar an gcúrsa pósta nó d’fhéadfadh siad aontú go n-éistfí leis an gcás i gcúirt na tíre a bhfuil dlúthbhaint ag an leanbh léi (mar shampla, náisiúntacht)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the child's habitual residence cannot be established, then the member state in which the child is present has jurisdiction</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura féidir gnáthchónaí an linbh a dheimhniú, ansin bíonn dlínse ag an mballstát ina bhfuil an leanbh faoi láthair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In certain circumstances, the court which has jurisdiction may refer the case to another court if that other court is better placed to hear the case and this is in the best interests of the child</seg></tuv>
+  <tuv xml:lang="ga"><seg>In imthosca áirithe, d’fhéadfadh an chúirt a bhfuil dlínse aici an cás a chur ar aghaidh chuig cúirt eile má tá an chúirt eile sin i staid níos fearr chun éisteacht leis an gcás agus má tá sé ar son barr leasa an linbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This could arise, for example, if the child’s habitual residence has changed</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh sé seo tarlú, mar shampla, má tá an áit ina bhfuil gnáthchónaí ar an leanbh tar éis athrú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are time limits on this procedure</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá roinnt teorainneacha ama ar an nós imeachta seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a child’s habitual residence changes as a result of a wrongful removal or retention, jurisdiction may shift only under very strict conditions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má athraíonn an áit ina bhfuil gnáthchónaí ar an leanbh toisc gur bogadh nó gur coinníodh iad go héagórach, ní féidir dlínse a athrú ach faoi choinníollacha fíorghéire amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Regulation also includes rules on what is to happen if the proceedings are started in more than one member state</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuimsíonn an rialachán rialacha freisin ar an méid a tharlóidh má thosaítear imeachtaí i níos mó ná ballstát amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In urgent cases, a court may take provisional protective measures even if another member state has jurisdiction on the substantive issue</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcásanna práinneacha, d'fhéadfadh an chúirt bearta cosanta sealadacha a ghlacadh fiú má tá dlínse ag ballstát eile ar an gceist sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Co-operation between national authorities</seg></tuv>
+  <tuv xml:lang="ga"><seg>Comhoibriú idir údaráis náisiúnta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Regulation creates a system of co-operation between central authorities of the member states</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cruthaíonn an Rialachán córas comhoibrithe idir lárúdaráis na mballstát</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These authorities are obliged to facilitate communications between the courts of the relevant countries and must facilitate agreements between parents through mediation or other means</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé d’oibleagáid ar na húdaráis seo cumarsáid a éascú idir cúirteanna na dtíortha ábhartha agus caithfidh siad comhaontuithe a éascú idir na tuismitheoirí trí idirghabháil nó trí bhealaí eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Judgements given in one member state must be recognised and enforced in another member state</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfear breithiúnais a thugtar i mballstát amháin a aithint agus a fhorfheidhmiú i mballstát eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The court in the other member state may refuse to recognise the order only on the grounds that:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis an gcúirt sa bhallstát eile diúltú aitheantas a thabhairt don ordú ach ní féidir é sin a dhéanamh ach ar na forais seo amháin:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• It would be manifestly contrary to that member state’s public policy</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bheadh sé soiléir go mbeadh sé in aghaidh bheartas poiblí an bhallstáit sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The child was not given an opportunity to be heard (except in urgent cases)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Níor tugadh deis don leanbh labhairt faoi (ach amháin i gcásanna práinneacha)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The judgment was given in the absence of a person who was not served with the documents instituting the proceedings in sufficient time and in such a way as to enable him/her to arrange for his/her defence</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tugadh an breithiúnas agus an duine as láthair nár seirbheáladh na páipéir ag tionscnamh imeachtaí air/uirthi i go leor ama agus i mbealach a chuirfeadh ar a c(h)umas a c(h)osaint a eagrú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A person claiming that the judgment infringes his/her parental responsibility was not given the opportunity to be heard</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Níor tugadh deis labhartha do dhuine a mhaíonn go sáraíonn an breithiúnas a fhreagracht tuismitheora</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are applying to a court in another member state for recognition and enforcement, you are entitled to legal aid there if you were entitled in your own state</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá iarratas á chur chuig cúirt i mballstát eile agat le haghaidh aitheantais agus forfheidhmithe, tá tú i dteideal cabhrach dlí ann más rud é go raibh tú i dteideal cabhrach dlí i do stát féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may also get help from the central authority in the country where you are seeking recognition and enforcement</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfá cabhair a fháil ón lárúdarás sa tír ina bhfuil aitheantas agus forfheidhmiú á lorg agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the cases of child abduction, it is not necessary to go through the court procedure for recognition</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcásanna ina bhfuadaítear leanbh, ní gá dul trí imeacht cúirte chun aitheantas a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Child abduction is the unlawful removal or retention of a child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é atá i gceist le fuadach leanaí ná leanaí a thógáil nó a choinneáil go neamhdhleathach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have custody of a child and your child is abducted to another member state, you may apply to that state for the return of the child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá caomhnóireacht agat ar leanbh agus má fhuadaítear do leanbh chuig ballstát eile, féadfaidh tú iarratas a dhéanamh chuig an stát sin chun an leanbh a fháil ar ais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The courts of the member state to which the child has been abducted can only refuse return of the child in limited circumstances – for example, if there are not adequate safeguards to ensure that there is no serious risk that return would expose the child to harm</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir le cúirteanna an bhallstáit chuig a bhfuadaítear an leanbh diúltú don leanbh a thabhairt ar ais ach i gcúinsí teoranta - mar shampla, mura bhfuil cosaintí imleora ann lena chinntiú nach bhfuil aon riosca tromchúiseach ann go ndéanfar dochar don leanbh sa chás go bhfillfeadh sé/sí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In general, the court must order the immediate return of the child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, caithfidh an chúirt ordú a thabhairt go dtabharfaí an leanbh ar ais láithreach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find out more in our document on international child abduction</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat tuilleadh a fháil amach inár ndoiciméad ar fhuadach idirnáisiúnta leanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Access rights are directly enforceable in other member states</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá cearta rochtana infheidhmithe go díreach i mballstáit eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that it is not necessary to go to court to declare that they are enforceable if the court which issued the orders also issues the required certificate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn sé seo nach gá dul chun cúirte le dearbhú go bhfuil siad infheidhmithe má eisíonn an chúirt a d’eisigh na horduithe an deimhniú riachtanach chomh maith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(This certificate guarantees that procedural safeguards have been respected – for example, that all parties had an opportunity to be heard, the child had the opportunity to be heard if that was appropriate.) It does not matter who holds the access rights – it is usually a parent but can be a grandparent or other family member depending on the national rules involved</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Ráthaíonn an deimhniú seo gur tugadh aird ar chosaintí nós imeachta - mar shampla, gur tugadh deis do na páirtithe uile labhairt, agus gur tugadh deis don leanbh labhairt freisin más cuí.) Ní dhéanann sé aon difríocht cén duine a bhfuil na cearta rochtana acu – tuismitheoir a bhíonn i gceist de ghnáth ach d’fhéadfadh seantuismitheoir nó duine eile den teaghlach a bheith i gceist chomh maith ag brath ar na rialacha náisiúnta lena mbaineann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The certificate means that the judgement is treated in the new member state as if it were a judgement of that state</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn an deimhniú go gcaitear leis an breithiúnas sa bhallstát nua amhail is gur breithiúnas ón stát sin é</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Hague Convention of 25 October 1980 on the civil aspects of international child abduction (“the 1980 Hague Convention”) and the Hague Convention (1996) on jurisdiction, applicable law, recognition, enforcement and cooperation in respect of parental responsibility and measures for the protection of children continue to apply in cases where the 2003 Regulation does not</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá feidhm i gcónaí le Coinbhinsiún na Háige an 25 Deireadh Fómhair 1980 maidir leis na gnéithe sibhialta d’fhuadach idirnáisiúnta leanaí (Coinbhinsiún na Háige 1980) agus le Coinbhinsiún na Háige (1996) maidir le dlínse, dlí infheidhmithe, aitheantas, forfheidhmiú agus comhoibriú i ndáil le freagracht tuismitheoirí agus bearta chun leanaí a chosaint i gcásanna nach bhfuil feidhm leis an rialachán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The European Convention on Recognition and Enforcement of Decisions Concerning Custody of Children and on Restoration of Custody of Children (the Luxembourg Convention) applies to a number of European countries</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá feidhm ag Coinbhinsiún na hEorpa um Aitheantas agus Fhorfheidhmiú ar Chinntí Maidir le Caomhnóireacht Leanaí agus Athchóiriú Caomhnóireachta Leanaí (Coinbhinsiún Lucsamburg) i 1980 i roinnt tíortha san Eoraip</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is now of limited relevance because the EU Regulation or the Hague Convention covers the relevant countries</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is beag aitheantais atá aige anois de bhrí go gclúdaíonn rialachán an AE nó Coinbhinsiún na Háige na tíortha ábhartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Both Conventions were signed in 1980</seg></tuv>
+  <tuv xml:lang="ga"><seg>Síníodh an dá choinbhinsiún i 1980</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They were brought into effect in Ireland in 1991 by the Child Abduction and Enforcement of Court Orders Act 1991</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugadh i bhfeidhm in Éirinn iad in 1991 leis an Acht um Fhuadach Leanaí agus Forghníomhú Orduithe Coimeádta 1991</seg></tuv>
+</tu>
+</body>
+</tmx>

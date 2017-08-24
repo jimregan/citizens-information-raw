@@ -1,0 +1,225 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Deer are a protected species in Ireland under the terms of the Wildlife Act, 1976 (as amended) and it is a serious offence to hunt them without a licence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Speiceas faoi chosaint in Éirinn iad fianna faoin Acht um Fhiadhúlra, 1976 (arna leasú) agus is coir thromchúiseach í seilg a dhéanamh orthu gan cheadúnas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The wild deer population in Ireland, which consists of red, fallow, sika, muntjac and hybrid deer, is managed by conservation rangers employed by the National Parks and Wildlife Service (NPWS). The NPWS is part of the Department of Arts, Heritage, Regional, Rural and Gaeltacht Affairs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann maoirseoirí caomhnaithe fiadhúlra atá fostaithe ag an tSeirbhís Pháirceanna Náisiúnta agus Fiadhúlra (NPWS) bainistíocht ar na fianna fiáine in Éirinn, ina measc tá an fia rua, an fia fionn, an fia den chineál Sika agus muinseac mar aon leis an bhfia croschineálach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Applications for deer hunting licences are processed by the NPWS</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is cuid den Roinn Tithíochta, Pleanála, Pobail agus Rialtais Áitiúil an NPWS</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The number of wild deer hunting licences issued by the NPWS varies from year to year, depending on demand, and the management of the deer population</seg></tuv>
+  <tuv xml:lang="ga"><seg>Braitheann líon na gceadúnas seilge fia fhiáin a eisíonn an NPWS ó bhliain go bliain ar éileamh agus ar bhainistíocht na bhfianna fiáine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The open season in Ireland also varies from year to year depending on the location and species of deer</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tagann athrú ar an séasúr oscailte in Éirinn ó bhliain go bliain, chomh maith, ag brath ar láthair agus ar speiceas na bhfianna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Outside of the open hunting season, landowners can apply for a Section 42 licence to control deer on their lands if damage is being caused</seg></tuv>
+  <tuv xml:lang="ga"><seg>Taobh amuigh den séasúr oscailte seilge, féadfaidh úinéirí talún iarratas a dhéanamh ar cheadúnas faoi Alt 42 leis an líon fianna ar a dtalamh a ghearradh siar má tá díobháil á déanamh acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The following is the open season for deer in Ireland:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is mar seo a leanas a bhí an Séasúr Oscailte in Éirinn le haghaidh fianna amhail Dheireadh Fómhair 2012:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Open season for deer hunting</seg></tuv>
+  <tuv xml:lang="ga"><seg>Séasúr oscailte le haghaidh seilg fianna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Type of deer │Hunting period │Where in the State │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Saghas an fhia │Tréimhse sheilge │Cá háit sa Stát?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Male Fallow Deer │1 September to 31 │All counties │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Fia Buí Fireann │Ón 1 Meán Fómhair go dtí an 31 │Gach contae │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Female and Antlerless Fallow │1 November to 28 February│All counties │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Fia Buí Baineann agus gan │Ón 1 Samhain go dtí an 28 │Gach contae │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Deer │ │ │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Bheann │Feabhra │ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Male Sika Deer │1 September to 31 │All counties │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Fia Sika Fireann │Ón 1 Meán Fómhair go dtí an 31 │Gach contae │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Female and Antlerless Sika Deer │1 November to 28 February│All counties │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Fia Sika Baineann agus gan │Ón 1 Samhain go dtí an 28 │Gach contae │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Male Red Deer │1 September to 31 │All counties except │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Fia Rua Fireann │Ón 1 Meán Fómhair go dtí an 31 │Gach contae seachas │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Female and Antlerless Red Deer │1 November to 28 February│All counties except │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Fia Rua Baineann agus gan │Ón 1 Samhain go dtí an 28 │Gach contae seachas │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Muntjac Deer │1 September to 31 August │All counties │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Fia Muinseaic │Ón 1 Meán Fómhair go dtí an 31 │Gach contae │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You cannot hunt deer in Ireland without a licence and the penalties for hunting deer without a licence can include fines, imprisonment, or both</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leat fia a sheilg in Éirinn gan cheadúnas agus i measc na bpionós gur féidir a ghearradh mar gheall ar fhia a sheilg gan cheadúnas tá fíneálacha agus/nó téarma príosúnachta, nó an dá rud</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can only hunt deer for the period stated on your licence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir fia a sheilg ach ar feadh na tréimhse atá luaite ar do cheadúnas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must be over 16 years of age to hold a licence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit a bheith os cionn 16 bliana d’aois chun ceadúnas a bheith agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may be of any nationality</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le duine d’aon náisiúntacht ceadúnas a bheith aige/aici</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must produce your licence if requested by any authorised person (an authorised person is a Garda or a conservation officer who is employed by NPWS)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit do cheadúnas a sholáthar má iarrann aon duine le húdarás ort é sin a dhéanamh (duine le húdarás é Garda nó oifigeach caomhnaithe atá fostaithe ag an NPWS)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Tampering with or defacing a deer hunting licence is an offence and penalties can involve fines/imprisonment or both</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is coir í aon athrú a dhéanamh ar cheadúnas seilge nó é a mhilleadh ar aon bhealach agus is féidir fíneálacha nó príosúnacht a ghearradh ar dhuine nó an dá rud dá bharr</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you wish to hunt deer on another person's land, you must show evidence of permission from the landowner when you apply for your licence. The land must total a minimum of 100 acres (42 hectares)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mian leat fia a sheilg ar thalamh duine eile, ní mór duit fianaise a chur ar fáil nuair a dhéanann tú iarratas ar an gceadúnas go bhfuil cead faighte agat ó úinéir na talún sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can apply for a licence during the open or closed season but you can only hunt deer when permitted</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh go mbeadh próiseáil ar iarratais déanta ní ba thapúla sa séasúr dúnta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must supply your firearm (gun) details when applying for a licence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit sonraí maidir le d’arm tine (gunna) a chur ar fáil nuair atá ceadúnas á lorg agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The legal minimum requirement for a firearm to hunt deer is at least .220/.250 calibre which uses bullets of no less than 60 grain weight</seg></tuv>
+  <tuv xml:lang="ga"><seg>Teastaíonn arm tine de chailibre .220/.250, ar a laghad, a úsáideann urchair 60 gráinne meáchain ar a laghad, go dlíthiúil chun fia a sheilg</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All firearms in Ireland are registered and licensed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níor mhór go mbeadh gach arm tine in Éirinn cláraithe agus ceadúnaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must supply your date of birth</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit do dháta breithe a sholáthar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The deer hunting licence you are issued with contains the following information:</seg></tuv>
+  <tuv xml:lang="ga"><seg>beidh an t-eolas seo a leanas ar an gceadúnas seilge fia a eiseofar duit:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Your name and address</seg></tuv>
+  <tuv xml:lang="ga"><seg>• D’ainm agus do sheoladh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Information about the Wildlife Act 1976 (as amended)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Faisnéis faoin Acht um Fhiadhúlra, 1976 (arna leasú)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Signature of the authorised issuing officer</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Síniú an oifigigh údaraithe a d’eisigh an ceadúnas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In order to obtain a deer hunting licence, you must supply details of your firearm (gun) when you submit your application for a deer hunting licence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mian leat ceadúnas seilge fia a fháil, ní mór duit sonraí maidir le d’arm tine (gunna) a chur ar fáil nuair a chuireann tú d’iarratas ar cheadúnas seilge fia ar aghaidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Firearms certificates for weapons to hunt deer are issued by the Garda Commissioner through your local Garda station</seg></tuv>
+  <tuv xml:lang="ga"><seg>Eisíonn Coimisinéir na nGardaí ceadúnais arm tine do ghunnaí a úsáidtear le fia a sheilg tríd an stáisiún áitiúil Gardaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are important restrictions on the use and discharge of these dangerous weapons</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann srianta tábhachtacha le húsáid agus scaoileadh na n-arm dainséarach seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your local police may require you provide evidence of adequate security in your home, land folio numbers if this weapon is to be discharged on your land and a deer hunting licence before they issue you with a firearms certificate</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh go mbeadh an Garda áitiúil ag iarraidh ort fianaise a chur ar fáil go bhfuil slándáil chuí agat sa teach, uimhreacha fóilió talún má tá an t-arm le scaoileadh ar do chuid talún agus ceadúnas seilge fia sula gcuireann siad deimhniú arm tine ar fáil duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are not a landholder, you may be required to provide written evidence of shooting permission from three landholders together with a deer hunting licence before you are issued with a firearms certificate.   You must meet the necessary requirements if you are visiting from another country and importing a firearm for sporting purposes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Murar úinéir talún thú, d’fhéadfadh sé go mbeadh ort fianaise scríofa a chur ar fáil ó thriúr úinéirí talún go bhfuil cead agat seilg a dhéanamh ar a dtalamh, chomh maith le ceadúnas seilge fia sula n-eiseofar deimhniú arm tine duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is no charge for deer hunting licences</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní ghearrtar aon táille ar cheadúnais seilge fia</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>How to apply</seg></tuv>
+  <tuv xml:lang="ga"><seg>Conas iarratas a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Complete the Application for a Licence to Hunt Deer form which is available from the National Parks and Wildlife Service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Comhlánaigh an Fhoirm iarratais ar Cheadúnas Seilge Fia atá ar fáil ón tSeirbhís Pháirceanna agus Fiadhúlra agus is féidir an fhoirm a íoslódáil óna láithreán gréasáin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you do not intend to shoot on your own land, you must also supply written evidence of permission from the landowner allowing you to hunt on his/ her lands that hold deer</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil sé i gceist agat seilg a dhéanamh ar do thalamh féin, ní mór duit fianaise i scríbhinn a chur ar fáil ón úinéir talún a léiríonn go bhfuil cead agat seilg a dhéanamh ar a c(h)uid talún agus go bhfuil fianna ar an talamh sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will also have to supply the folio number of the lands</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, beidh ort uimhir fóilió na dtailte a sholáthar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Folio numbers can be obtained from the Land Registry Service of the Property Registration Authority</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadtar teacht ar uimhreacha fóilió ó Sheirbhís Chlárlann na Talún an Údaráis Chlárúcháin Maoine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Applications are only considered on receipt of a fully completed application form and, if granted, are valid for the hunting season in a particular year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní dhéantar breithniú ar iarratais ach amháin ar fhoirm iarratais atá go hiomlán comhlánaithe agus, má dheonaítear, beidh siad bailí don séasúr seilge sa bhliain ar leith sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The application form is issued to existing licence holders each April</seg></tuv>
+  <tuv xml:lang="ga"><seg>Eisítear an fhoirm iarratais do shealbhóirí reatha ceadúnais ar bhonn bliantúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your application will be examined by the National Parks and Wildlife Service, together with the landowner's permission</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfaidh an tSeirbhís Pháirceanna agus Fiadhúlra scrúdú ar an iarratas, chomh maith leis an gcead atá faighte ón úinéir talún</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you were issued with a deer hunting licence in the previous year, details of the deer you shot (bag returns) are sought on the application form for each applicant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhí ceadúnas seilge fia eisithe duit i mbliain roimhe seo, iarrtar ort sonraí a thabhairt maidir leis na fianna a mharaigh tú (admhálacha mála) ar an bhfoirm iarratais le haghaidh gach iarratasóra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Conservation rangers throughout the country employed by National Parks and Wildlife Service ensure that hunters have appropriate deer hunting licences</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann maoirseoirí caomhnaithe atá fostaithe ag an tSeirbhís Pháirceanna agus Fiadhúlra ar fud na tíre a chinntiú go bhfuil ag sealgairí na ceadúnais chuí seilge fia</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Rangers also examine new licence applications</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa mhullach air sin, déanann maoirseoirí scrúdú ar iarratais nua ar cheadúnais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is your responsibility to ensure that you have the appropriate deer hunting licence and a firearm of the appropriate calibre</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tú féin freagrach as a chinntiú go bhfuil an ceadúnas cuí seilge fia agus arm tine den chailibre ceart agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will be prosecuted for hunting deer with an inappropriate firearm or by any other means</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirfear an dlí ort má bhíonn tú ag seilg fia le harm tine nach bhfuil oiriúnach nó má bhíonn tú i mbun seilge ar aon bhealach eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further information on applying for a licence is available here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú teacht ar thuilleadh faisnéise ar iarratas a dhéanamh ar cheadúnas anseo</seg></tuv>
+</tu>
+</body>
+</tmx>

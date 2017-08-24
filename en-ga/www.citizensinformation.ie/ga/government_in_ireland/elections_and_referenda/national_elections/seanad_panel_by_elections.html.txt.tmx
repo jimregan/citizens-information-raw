@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>When a casual vacancy occurs in the Seanad through the death, disqualification or resignation of a sub-panel member, the vacancy is filled by a bye-election</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó am go chéile tagann folúntas aníos sa Seanad, nuair a chailltear, nuair a dícháiltear nó nuair a éiríonn ball de fho-phainéal as, déantar an folúntas a líonadh le fo-thoghchán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To be nominated as a candidate for an Oireachtas sub-panel vacancy, any 9 members of the Dáil or Seanad must jointly nominate you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór do 9 comhalta den Dáil nó den Seanad duine a chomhainmniú le bheith ina (h)iarrthóir do fholúntas ar fho-phainéal Oireachtais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To be nominated as a candidate for a nominating bodies sub-panel vacancy, you must be nominated by a registered nominating body for the relevant panel</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don eagras cláraithe ainmniúcháin don phainéal cuí duine a ainmniú mar iarrthóir do fholúntas ar fho-phainéal na n-údarás ainmniúcháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The electorate at a bye-election is composed of members of the Dáil and the Seanad only</seg></tuv>
+  <tuv xml:lang="ga"><seg>Teachtaí Dála agus comhaltaí an tSeanaid amháin a bhíonn vótaí acu i bhfo-thoghchán an tSeanaid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Voting is by secret ballot. The counting procedure is the same as at the general election except that only one candidate will be elected</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ballóid rúnda a bhíonn ann agus déantar na vótaí a chomhaireamh leis an gcóras céanna d'ollthoghchán ach nach mbíonn ach iarrthóir amháin tofa</seg></tuv>
+</tu>
+</body>
+</tmx>

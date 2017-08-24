@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Citizens Information Phone Service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seirbhís Ghutháin um Fhaisnéis do Shaoránaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have a question that has not been answered by the content on this website, you can contact the Citizens Information Phone Service on 0761 07 4000 (Monday to Friday, 9am to 8pm)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá ceist agat nár fhuair tú freagra uirthi in ábhar an tsuímh idirlíne seo, is féidir leat glao a chur ar an tSeirbhís Ghutháin um Fhaisnéis do Shaoránaigh 0761 07 4000 (Luan go hAoine idir 9rn agus 8in)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Citizens Information Phone Service</seg></tuv>
+  <tuv xml:lang="ga"><seg>An tSeirbhís Ghutháin um Fhaisnéis do Shaoránaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can also visit your local Citizens Information Centre, which provides a free and confidential service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann Ionaid Faisnéise do Shaoránaigh seirbhís ar fáil atá saor in aisce agus faoi rún</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(Call costs to 0761 numbers vary – your telephone service provider should be able to give you further details on the costs that apply for your telephone package.)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Bíonn difríochtaí idir chostais i leith ghlaonna 0761 – féadfaidh do sholáthróir seirbhíse teileafóin tuilleadh sonraí a thabhairt duit maidir leis na costais a bhaineann le do phacáiste teileafóin.)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can contact the Citizens Information website team by post or telephone at:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat dul i dteagmháil le foireann an tsuímh Fhaisnéise do Shaoránaigh tríd an bpost nó ar an teileafón ag:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Telephone: +353 761 07 9000</seg></tuv>
+  <tuv xml:lang="ga"><seg>Teileafón: 0761 07 9000</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Fax: +353 1 605 9099</seg></tuv>
+  <tuv xml:lang="ga"><seg>Facs: (01) 605 9099</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can also send feedback in relation to citizensinformation.ie to ciofeedback@ciboard.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir seol aiseolas maidir le citizensinformation.ie freisin chuig ciofeedback@ciboard.ie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Please note that email is not generally considered to be a secure form of communication</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabhair faoi deara le do thoil, go ginearálta, nach mbreathnaítear ar ríomhphoist mar fhoirm shlán cumarsáide</seg></tuv>
+</tu>
+</body>
+</tmx>

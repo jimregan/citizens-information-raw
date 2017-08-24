@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Local elections in Ireland take place every 5 years and allow your community elect representatives to local government</seg></tuv>
+  <tuv xml:lang="ga"><seg>Reáchtáiltear toghcháin áitiúla gach 5 bhliain agus toghann baill den phobal áitiúil seo chun ionadaíocht a dhéanamh ar son an phobail sna húdaráis áitiúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Local Elections - Nomination of Candidates</seg></tuv>
+  <tuv xml:lang="ga"><seg>Toghcháin Áitiúla - Ainmniúchán iarrthóirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Description of the process of nominating candidates for election to local authorities in Ireland and the criteria for membership of local authorities</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann an cháipéis seo cur síos ar an bpróiseas chun iarrthóirí a ainmniú do thoghcháin áitiúla agus na coinníollacha a bhaineann le bheith i do bhall d'údaráis áitiúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most Read in "Government in Ireland"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ábhar is mó éilimh i "Rialtas in Éirinn"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Fundamental Rights under the Irish Constitution</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bunchearta faoi Bhunreacht na hÉireann</seg></tuv>
+</tu>
+</body>
+</tmx>

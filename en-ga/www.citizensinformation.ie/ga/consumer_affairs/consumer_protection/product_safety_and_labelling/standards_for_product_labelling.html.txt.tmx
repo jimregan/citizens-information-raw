@@ -1,0 +1,233 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Standards for product labelling</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caighdeáin do Lipéadú Táirgí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Labels on products and goods inform you about the characteristics of the product or item</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann lipéid ar tháirgí agus ar earraí eolas duit faoi thréithe an táirge nó na míre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, labels on food inform you about the nutritional value and weight of the food</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, tugann lipéid ar bhia eolas duit faoi luach cothaithe agus meáchan an bhia</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Labels on clothing inform you about the size of the garment, what it is made of etc</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann lipéid ar éadaí eolas duit faoin saghas, déantúsóir srl</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Information on labels allows you to make an informed choice about what you are intending to buy</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann an t-eolas ar lipéid deis duit rogha eolach a dhéanamh faoina mbíonn ar intinn agat a cheannach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are rules in Ireland and the EU regarding labels on products</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá rialacha in Éirinn agus san AE maidir le lipéid ar tháirgí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These rules mainly relate to textiles and footwear although other areas are also covered</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann na rialacha sin go príomha le teicstílí agus le coisbheart cé go gclúdaítear réimsí eile freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find information on the rules for the labelling of food on the EU Commission's website and the Food Safety Authority's website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat eolas ar rialacha fháil maidir le lipéadú bia ar láithreán gréasáin an Choimisiúin Eorpaigh agus ar láithreán gréasáin an Údaráis um Shábháilteacht Bhia</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Manufacturers of products and goods must comply with the laws on labelling</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór do dhéantúsóirí táirgí agus earraí comhlíonadh leis na dlíthe um lipéadú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>While the law sets down some minimum requirements, there is nothing to prevent additional information being given on labels, so long as it is true</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cé go leagann an dlí síos roinnt íoscheanglas, níl tada a chuireann cosc ar thuilleadh eolais a thabhairt ar lipéid, chomh fada agus go mbíonn an t-eolas sin fíor</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, instructions on how to cook or serve food items are not required</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, ní éilítear treoracha ar conas ábhair bhia a bhruith/sheirbheáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most food labels carry this information even though they are not required</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn an t-eolas sin ar go leor lipéad bia cé nach mbíonn gá leis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is no legal requirement for producers of non-food items for example, clothing, etc.) to show the country of origin on the label</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon cheanglas dlí ar tháirgeoirí ábhair neamh-bhia (.i. éadaí, srl.) an tír dhéanta an ábhair a thaispeáint ar an lipéad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means the manufacturer is not obliged to state that an item was made in Ireland or abroad</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn sé sin nach mbíonn aon oibleagáid ar an déantúsóir a rá gurbh in Éirinn nó thar lear a rinneadh mír</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Labels instructing you how to wash and maintain items may be desirable on an item but are not required by law</seg></tuv>
+  <tuv xml:lang="ga"><seg>B’fhéidir go mbíonn lipéid a thugann treoir duit ar conas rudaí a níochán agus a chothabháil inmhianaithe ach ní éilítear iad de réir an dlí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In other words, manufacturers are not obliged to put washing or any maintenance instructions on goods, but they can if they wish</seg></tuv>
+  <tuv xml:lang="ga"><seg>I mbeagán focal, níl oibleagáid ar dhéantúsóirí treoracha níocháin ná cothabhála a chur ar earraí, ach is féidir leo sin a dhéanamh más mian leo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you are shopping, check the item you are buying is correctly labelled</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a bhíonn tú ag siopadóireacht, seiceáil go bhfuil lipéad ceart ar an mír atá tú ag ceannach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Be aware that, sometimes, labels can be misleading</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíodh a fhios agat, gur féidir le lipéid tú a mhíthreorú ar uairibh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, just because the packaging is environmentally friendly does not mean that a product is better for the environment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, díreach mar gheall go bhfuil an pacáiste neamhdhíobhálach don chomhshaol, ní chiallaíonn sé sin go bhfuil táirge níos fearr don chomhshaol</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In that case, you should look for a label stating a product is, for example, ‘made from recycled material’</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás sin, ba chóir duit a bheith ag faire amach do lipéad a deir, mar shampla, go bhfuil an t-ábhar ‘déanta as ábhar athchúrsáilte'</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Items marked 'Fairtrade' must meet international Fairtrade standards which are set by the international certification body Fairtrade Labelling Organisations International (FLO)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór d’earraí a bhfuil ‘Cóirthrádáil’ marcáilte orthu caighdeáin idirnáisiúnta Chóirthrádála a bhaint amach a shocraíonn an comhlacht idirnáisiúnta deimhnithe Fairtrade Labelling Organisations International (FLO)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These standards are agreed with key participants in the Fairtrade scheme, including producers themselves and labelling organisations such as Fairtrade Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar na caighdeáin seo a chomhaontú le príomh-rannpháirtithe i scéim Chórthrádála, lena n-áirítear táirgeoirí iad féin agus eagraíochtaí lipéadaithe, ar nós Chóirthrádáil Éireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you find items marked Fairtrade that you feel are misleading, get in touch with Fairtrade Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má aimsíonn tú earraí ar a bhfuil ‘Cóirthrádáil’ marcáilte, a bhraitheann tú atá míthreorach, déan teagmháil le Cóirthrádáil Éireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Since July 2010 the EU organic logo is obligatory for all organic pre-packaged food products within the European Union</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó Iúil 2010 i leith, tá lógó orgánach an AE éigeantach ar gach táirge réamhphácáistithe bia orgánaigh laistigh den Aontas Eorpach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It may also be used for non-pre-packaged organic goods produced within the EU or organic products imported from third countries</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadtar é a úsáid le haghaidh earraí orgánacha neamh-réamhphacáistithe laistigh den AE nó táirgí orgánacha a iompórtáiltear ó thríú tíortha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Each EU member state has established an inspection system and designated a number of public authorities and/or approved private inspection bodies to carry out the inspection and certification of organic production</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá bunaithe ag gach ballstát den AE córas iniúchta agus tá líon údaráis phoiblí ainmnithe agus/nó tá comhlachtaí príobháideacha iniúchta faofa acu chun tabhairt faoi iniúchadh agus deimhniú táirgeadh orgánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Department of Agriculture, Food and the Marine has approved five certification bodies to carry out this work in Ireland, that is, Institute of Marketecology (IMO), Irish Organic Farmers and Growers Association (IOFGA), Organic Trust Limited, BDAA-Demeter UK and Global Trust Certification Limited</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhaomh an Roinn Talmhaíochta, Bia agus Mara cúig chomhlacht deimhnithe chun tabhairt faoin obair seo in Éirinn, is é sin, an Institiúid um Éiceolaíocht Mhargaidh (IMO), Cumann Feirmeoirí agus Saothróirí Orgánacha na hÉireann (IOFGA), an tIontaobhas Orgánach Teoranta, BDAA-Demeter UK agus Global Trust Certification Limited</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All products labelled as organic must bear the name of the last operator who has handled the product, for example, the producer, the processor or the distributor and the name or code number of their inspection body</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór ainm an oibreora dheiridh a láimhseáil an táirge, a shonrú ar gach táirge atá lipéadaithe amhail bheith orgánach, mar shampla, an táirgeoir, an próiseálaí nó an dáileoir agus ainm nó códuimhir a gcomhlachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>are misleading, get in touch with these organisations for guidance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má aimsíonn tú earraí ar a bhfuil ‘orgánach’ marcáilte, a bhraitheann tú atá míthreorach, déan teagmháil leis na heagraíochtaí seo chun treoir a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The CE label on a product is a white rectangular label with the letters CE in black lettering</seg></tuv>
+  <tuv xml:lang="ga"><seg>Lipéad dronuilleogach bán is ea an lipéad ‘CE’ ar tháirge, ar a bhfuil na litreacha dubha ‘CE’</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The CE label means that the product conforms with all health, safety and environmental protection standards of the European Union laid down in the relevant sectorial or vertical directives</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn an lipéad go gcomhlíonann an táirge gach caighdeán sláinte, sábháilteachta agus cosanta comhshaoil de chuid an Aontais Eorpaigh a leagadh síos sna treoracha ábhartha earnála nó ingearacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Not all products are covered by the CE marking</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl gach táirge cumhdaithe ag an marcáil ‘CE’</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>CE labelling was introduced in the EU to standardise labelling regulations across the member states</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugadh isteach lipéadú CE san AE chun na rialacháin lipéadaithe a chaighdeánú ar fud na mballstát</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The mark is required on a wide range of products</seg></tuv>
+  <tuv xml:lang="ga"><seg>Teastaíonn an marc ar réimse fairsing táirgí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Examples range from electrical equipment, refrigerators and gas water heaters to helmets, toys and heart pacemakers</seg></tuv>
+  <tuv xml:lang="ga"><seg>I measc na samplaí tá idir threalamh leictreach, cuisneoirí agus téitheoirí uisce gáis agus chlogaid, bréagáin agus séadairí croí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>View more information on the CE label</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir teacht ar thuilleadh faisnéise ar an lipéad CE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Textile products for sale in the EU should be labelled by reference to their fibre content whenever they are put onto the market for production or commercial purposes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart táirgí teicstílí atá ar díol san AE a bheith lipéadaithe agus tagairt á déanamh dá n-ábhar snáithín pé uair a gcuirtear ar an margadh iad ar mhaithe le cuspóirí táirgthe nó tráchtála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This law is set down in the European Union (Textile Fibre Names and Related Labelling and Marking of the Fibre Composition of Textile Products) Regulations 2012 (SI 142 of 2012)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an dlí seo leagtha síos i Rialacháin na gComhphobal Eorpach (Ainmneacha Snáithín Teicstílí agus Lipéadú Bainteach agus Margaíocht Ábhair Tháirgí Teicstíle, 2012 (IR 142 de 2012)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These Regulations were made to give effect to EU Regulation 1007/2011 as amended by EU Regulation No</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rinneadh na Rialacháin seo chun éifeacht a thabhairt do Rialachán 1007/2011 an AE arna leasú ag Rialachán Uimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These Regulations apply to products entirely made of textile fibres such as clothes, curtains or bed linen</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann na Rialacháin seo le táirgí atá go hiomlán déanta de shnáithíní teicstíle, ar nós éadaí, cuirtíní nó éadaí leapa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It also applies to products containing at least 80% textile components such as furniture, umbrella and sunshade coverings, floor coverings, mattresses and camping goods, the warm linings of footwear, gloves, mittens and mitts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Anuas air sin, baineann sé le táirgí ina bhfuil ar a laghad 80% de chomhábhair theicstílí, ar nós troscán, clúdaigh ar scáthanna fearthainne agus clúdaigh scáthanna gréine, clúdaigh ar urláir, tochtanna agus earraí campála, líneálacha teo coisbhirt, lámhainní, mitín agus miotóga</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is no legal obligation to show care labels, however, if these are shown they must be accurate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon dualgas dlíthiúil ann chun lipéid chúraim a thaispeáint, ach má thaispeántar iad seo, ní mór dóibh bheith cruinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In many instances the labels on textiles must show the percentages of materials contained in the item</seg></tuv>
+  <tuv xml:lang="ga"><seg>In go leor cásanna, ní mór do na lipéid ar theicstílí na céatadáin ábhar atá san earra a léiriú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, clothing may be labelled ‘100% cotton’ or ‘50% wool, 50% acrylic’</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, féadtar éadaí a lipéadú mar ‘100% cadás’ nó ‘50% olann, 50% aicrileach’</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Again, these labels tell you more about the product and can inform your decision about purchasing or not</seg></tuv>
+  <tuv xml:lang="ga"><seg>Arís eile, insíonn na lipéid seo níos mó duit faoin táirge agus féadfaidh siad cabhrú leat an cinneadh a dhéanamh chun iad a cheannach nó gan iad a cheannach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are also important rules regarding how various parts of footwear are labelled</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá rialacha tábhachtacha ann freisin maidir le conas a chuirtear lipéad ar chodanna áirithe de choisbheart</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These labels often appear as stickers on the base of the footwear or on the shoebox or inside the footwear</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iondúil go mbíonn na lipéid sin greamaithe ar bhonn an choisbhirt nó ar bhosca na mbróg nó laistigh den choisbheart</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The information about what the footwear is made of must be conveyed by means of agreed pictures or symbols or text</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór an t-eolas faoi ábhar déanta an choisbhirt a thaispeáint trí phictiúir aontaithe nó siombail nó téacs. Leagann I.R</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The European Communities (Labelling of Footwear) Regulations 1996 (SI 63 of 1996) sets down the rules about footwear labels</seg></tuv>
+  <tuv xml:lang="ga"><seg>Uimh. 63/1996: Rialacháin na gComhphobal Eorpach (Lipéadú Coisbhirt), 1996 síos na rialacha faoi lipéid choisbhirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The law sets out how the various parts of the footwear (that is, the upper part, lining, outer-sole) item must be labelled</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagann an dlí amach conas a chaithfear codanna éagsúla den choisbheart (.i. an chuid uachtarach, an líneáil, an bonn lasmuigh) a lipéadú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Information must be given about the material which makes up at least 80 % of the surface area of the upper, the lining and insole sock of the footwear article, and at least 80 % of the volume of the outer-sole</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfear eolas a thabhairt ar chomhábhar ar a laghad 80% d’achar dhromchla an uachtair, na líneála agus stocaí bhonn istigh den mhír coisbhirt, agus ar a laghad 80% de thoirt an bhoinn lasmuigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If no one material accounts for at least 80 % of the footwear, the label must state the two principal materials the footwear is made of (for example, 20% rubber, 60% leather, etc.)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil aon ábhar amháin in ar a laghad 80% den choisbheart, ní mór don lipéad dhá phríomhábhar dhéanta an choisbhirt a shloinneadh (mar shampla, 20% rubar, 60% leathar, srl.)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As the aim of both the above laws is to provide information, all labels must be legible</seg></tuv>
+  <tuv xml:lang="ga"><seg>De bhrí gurb í an aidhm atá ag na dlíthe thuas ná eolas a thabhairt, ní mór do gach lipéad a bheith inléite</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The manufacturer or their authorised agent in the European Union is responsible for supplying the labels and for the accuracy of the information contained in them</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an déantúsóir nó a ghníomhaire údaraithe san Aontas Eorpach freagrach as na lipéid a sholáthar agus as cruinneas an eolais atá le fáil orthu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The legal obligations on producers and traders relating to textile and footwear labelling are set out in the above named Regulations</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá na hoibleagáidí dlíthiúla atá ar tháirgeoirí agus ar thrádálaithe maidir le lipéadú teicstíle agus coisbhirt leagtha amach sna Rialacháin ainmnithe thuas</seg></tuv>
+</tu>
+</body>
+</tmx>

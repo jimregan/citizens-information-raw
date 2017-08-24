@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Signing off when you start work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag síniú de nuair a thosnaíonn tú ag obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may get Jobseeker's Allowance, Jobseeker's Benefit or credits if you are registered as a jobseeker</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfá Liúntas do Lucht Cuardaigh Fostaíochta, Sochar do Lucht Cuardaigh Fostaíochta, nó Creidmheasanna a fháil má tá tú cláraithe mar dhífhostaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are registered as a jobseeker (in other words, signing-on with the Department of Social Protection), you should inform your local Intreo Centre or Social Welfare Branch Office of the date when you are going to start work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú cláraithe mar dhífhostaithe (i bhfocail eile, ag síniú leis an Roinn Coimirce Sóisialaí), ba chóir duit d’oifig leasa shóisialaigh áitiúil a chur ar an eolas maidir leis an dáta a mbeidh tú ag tosú ag obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In some areas you can do this online</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gceantair áirithe is féidir leat é seo a dhéanamh ar líne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Notifying your Intreo Centre or local Social Welfare Branch Office about when you are going to start work will ensure that you can get any payment due to you up to the date you start work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Trí d’oifig leasa shóisialaigh áitiúil a chur ar an eolas maidir leis an am a mbeidh tú ag tosú ag obair, cinnteoidh tú go bhfaighidh tú aon íocaíocht atá dlite duit go dtí an dáta a dtosóidh tú ag obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can also get advice about possibly keeping some of your existing benefits and supports when you return to work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat comhairle a fháil freisin faoin bhféidearthacht de chuid de do shochair agus do thacaí reatha a choinneáil nuair a fhilleann tú ar an obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you start work you may be entitled to additional benefits, for example, Family Income Supplement (FIS)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a thosaíonn tú ag obair d’fhéadfá a bheith i dteideal sochar breise, mar shampla, Forlíonadh Ioncaim Teaghlaigh (FIT)</seg></tuv>
+</tu>
+</body>
+</tmx>

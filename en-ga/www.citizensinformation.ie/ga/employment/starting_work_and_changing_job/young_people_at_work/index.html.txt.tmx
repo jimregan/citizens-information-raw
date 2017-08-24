@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Young people at work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Daoine óga ag obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are important rules that govern the employment of children and young people</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá cur síos sa cháipéis seo ar na rialacha a bhaineann le fostaíocht páistí agus daoine óga</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Hours of work for young people</seg></tuv>
+  <tuv xml:lang="ga"><seg>Uaireanta oibre do dhaoine óga</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The working hours for children and young people are regulated by legislation which sets maximum working hours and rest intervals</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá na huaireanta oibre do dhaoine óg rialaithe ag reachtaíocht a leagann síos téarma íosaoise maidir le uaireanta uasoibre agus tréimhsí sosa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most Read in "Employment"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ábhar is mó éilimh i "Fostaíocht"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Rest periods and breaks</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tréimhsí sosa agus sosanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Tax and starting work - PAYE</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cáin agus tosú ar obair</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Safety advice for motorists</seg></tuv>
+  <tuv xml:lang="ga"><seg>Comhairle Shábháilteachta do ghluaisteánaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you are driving a car, being aware of the various dangers on the road, your own driving style and your obligations as a road user will help to ensure that you travel safely</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair atá carr á thiomáint agat, cuideoidh sé leat a chinntiú go dtaistealaíonn tú go sábháilte má tá tú eolach ar na contúirtí éagsúla ar an mbóthar, ar do stíl tiomána féin agus ar na hoibleagáidí atá ort mar úsáideoir bóithre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Before you drive you must ensure that the car is insured, taxed and the NCT test for the car has been completed and all discs are displayed on the windscreen</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sula dtiomáineann tú, ní mór duit a chinntiú go bhfuil árachas agus cáin íoctha le haghaidh an chairr agus go bhfuil an TNG le haghaidh an chairr curtha i gcrích agus go bhfuil gach diosca ar taispeáint ar an ngaothscáth</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must also hold a driving licence to drive a car</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór ceadúnas chun carr a thiomáint a bheith agat freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Check all lights and indicators and make sure your windscreen is clean and free from anything that might obstruct your vision</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seiceáil na soilse agus na táscairí go léir agus cinntigh go bhfuil do ghaothscáth glan agus saor ó aon rud a d’fhéadfadh bac a chur le do réimse radhairc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Check to make sure your horn is working</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seiceáil go bhfuil do bhonnán ag oibriú i gceart</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When driving you should:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart duit na nithe seo a leanas a dhéanamh agus tú ag tiomáint:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Drive at a speed appropriate to the road and weather conditions, the volume of traffic present and the likelihood of hazards</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tiomáin ar luas atá oiriúnach don bhóthar agus do na dálaí aimsire, don líon feithiclí i láthair agus don dóchúlacht go mbeidh guaiseacha ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Speed limits are the maximum speed you can drive at on a stretch of road in good conditions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad luasteorainneacha na luasanna uasta ar féidir leat tiomáint orthu ar stráice bóthair i ndálaí maithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Never drink and drive</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ná tiomáin faoi thionchar an óil choíche</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Alcohol affects your judgement, vision, co-ordination and reaction time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Téann alcól i bhfeidhm ar do bhreithiúnas, ar do radharc, ar do chomhordú agus ar d’aga frithghníomhúcháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Every passenger in the car is also required by law to wear a seatbelt</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceanglaítear leis an dlí ar gach paisinéir sa charr crios sábhála a chaitheamh freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Take a break from driving if you feel tired – a nap of 15 to 20 minutes can help</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bíodh sos agat ón tiomáint má tá tuirse ort - féadann néal codlata 15 nóiméad nó 20 nóiméad ar fad a bheith ina chuidiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Never use a hand held mobile phone</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ná húsáid fón póca láimhe choíche</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Any distraction when driving can be dangerous</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann contúirt le haon chur isteach agus tú ag tiomáint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Use your dipped headlights to see and be seen if visibility is poor</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Úsáid do cheannsoilse maolaithe chun radharc níos fearr a fháil agus chun go mbeidh tú infheicthe más rud é go bhfuil infheictheacht íseal ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Only use fog lights when there is fog or falling snow</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ná húsáid lampaí ceo ach amháin i gcás ceo nó sneachta ag titim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Switch them off when conditions improve</seg></tuv>
+  <tuv xml:lang="ga"><seg>Múch iad nuair a fheabhsaíonn dálaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find a leaflet on road safety information (pdf) for motorists, pedestrians and cyclists on the Garda Síochána website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir bileog maidir le faisnéis sábháilteachta ar bhóithre (pdf) do thiománaithe, do choisithe agus do rothaithe a aimsiú ar láithreán Gréasáin an Gharda Síochána</seg></tuv>
+</tu>
+</body>
+</tmx>

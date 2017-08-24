@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>The system of voting in all Dáil elections, Seanad elections, Presidential elections, European elections and local elections is proportional representation with a single transferable vote (PR-STV) in multi-seat constituencies (3-, 4- and 5-seat constituencies at Dáil elections)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá ionadaíocht chionmhar i bhfeidhm leis an gcóras vótála i dtoghcháin Dála, Toghcháin Seanaid, Toghcháin Uachtaráin, Toghcháin Eorpacha agus Toghcháin Áitiúla le vóta amháin inaistrithe (PR-STV) i nDáilcheantar le níos mó ná suíochán amháin ( Dáilcheantar le 3-, 4- agus 5 shuíochán ag toghchán Dála)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Proportional representation means that as a voter, you can indicate your first and subsequent choices for the candidates on the ballot paper</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn sé seo gur féidir leis an vótálaí a c(h)éad rogha agus roghanna eile a mharcáil ar an bpáipeár ballóide</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The names of the candidates will appear in alphabetical order on the ballot paper, together with their photographs and their party emblem (if they wish)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá ainmneacha na n-iarrthóirí le feiceáil ar an bpáipéar ballóide in ord aibítre le grianghraf dóibh agus suaitheantais a bpáirtithe (más mian leo)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Voting by proportional representation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Vótáil le hionadaíocht chionmhar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You indicate your first choice by writing 1 opposite your first choice and 2 opposite your second choice, 3 opposite your third choice and so on</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann tú in iúl do chéad rogha tré uimhir a 1 a scríobh le taobh do chéad rogha, uimhir a 2 le taobh an dara rogha, 3 le taobh an tríú rogha agus srl</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may stop marking your paper after 1 or any subsequent preference or you may go right down the ballot paper until a preference has been given to all candidates ending with the candidate of your lowest choice</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat stopadh ag marcáil do pháipéir tar éis uimhir a 1 nó aon rogha eile nó is féidir leat leanacht ar aghaidh síos tríd an bpáipéar ballóide go dtí go bhfuil do rogha tugtha do na hiarrthóirí uilig ag críochnú leis an iarrthóir le do rogha is lú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you vote like this, you are instructing the returning officer to transfer your vote to the second choice candidate if your first choice is either elected with a surplus of votes over the quota or is eliminated</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a vótálann tú mar seo, tá tú ag tabhairt ceada don cheann comhairimh do vóta a inaistriú go dtí an dara rogha a roghnaigh tú más rud é go bhfuil an chéad rogha tofa le fuílleach vótaí thar an gcuóta nó go bhfuil sé/sí díbrithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your second choice is elected or eliminated, your vote may be transferred to your third choice and so on</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá an té a thug tú an dara rogha do/dí tofa nó díbrithe beidh an vóta inaistrithe go dtí an 3ú rogha agus mar sin de</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When polling is over, all the ballot boxes are taken to a central counting place for each constituency</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar na boscaí ballóide go dtí lárionad comhairimh i ngach dáilcheantar nuair atá an vótáil críochnaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The count starts at 9am on the day after polling day</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tosaíonn an comhaireamh ar a 9:00 r.n</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The ballot papers are then sorted into piles of ballot papers for each candidate</seg></tuv>
+  <tuv xml:lang="ga"><seg>ar an lá dár gcionn. Déantar carnán de pháipéir ballóide ar son gach iarrthóra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A paper is spoiled if it does not have an official stamp, if it does not indicate a clear choice, for example, if you have indicated No</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar na páipéir bhallóide a mheascadh, a chomhaireamh agus a sortáil agus cuirtear aon pháipéir atá scriosta ar leataobh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>1 twice on the paper, or if anything is written on the ballot paper by which the voter can be identified</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá páipéar scriosta nuair nach bhfuil an stampa oifigiúil air nó muna bhfuil an rogha soiléir, mar shampla, má roghnaíonn an vótálaí dhá uimhir a 1 ar an bpáipéar nó má tá aon rud scríofa ar an bpáipéar ballóide a thugann le fios cé hé/hí an vótálaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The total valid poll therefore, is the total number of votes minus the number of spoiled papers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dá bharr sin, is í an Vótáil Dlisteanach Iomlán an méid vótaí lúide an méid vótaí scriosta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When the papers have been counted and sorted, the quota is calculated by dividing the Total Valid Poll by one more than the number of seats to be filled, ignoring any remainder and then adding 1 vote</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a dhéantar na páipéir a chomhaireamh agus a rangú faightear an cuóta tríd an Vótáil Dlisteanach Iomlán a roinnt ar an méid suíochán atá le líonadh móide 1 gan aon fhuílleach a thabhairt san áireamh agus vóta amháin a chur leis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, in a Dáil election in a 4-seat constituency with 50,000 votes cast, 50,000 divided by 4 plus 1 (that is, 5) = 10,000; 10,000 plus 1 is 10,001</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, i dtoghchán Dála i ndáilcheantar le 4 shuíochán agus 50,000 vóta caite, roinntear an 50,000 ar a 4 agus cuirtear 1 leis (i.e. 5) = 10,000; 10,000 agus 1= 10,001</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is the quota of votes to be reached by the candidates and it means that only 4 persons can be elected</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é seo an cuóta vótaí nach mór do na hiarrthóirí a bhaint amach agus ciallaíonnn sé nach féidir ach ceathrar a thoghadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a candidate receives more than the quota on any count, the surplus ballot papers are transferred to the remaining candidates in proportion to the next available preferences indicated by voters (that is, the next preference on each ballot paper for a candidate who has not been elected or eliminated)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhaigheann iarrthóir níos mó ná an cuóta in aon chomhaireamh, tá na páipéir bhallóide breise inaistrithe chuig na hiarrthóirí atá fágtha i gcomhréir an chéad rogha eile atá roghnaithe ag na vótálaithe (mar shampla, an chéad rogha eile ar an bpáipéar ballóide le haghaidh iarrthóir nach bhfuil tofa nó díbrithe)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, if candidate A receives 900 votes more than the quota on the first count and on examining all of candidate A's ballot papers, it is found that 30% of these have next available preferences for candidate B, then candidate B does not get 30% of all candidate A's ballot papers (quota plus surplus), instead candidate B gets 30% of A's surplus, that is, 270 ballot papers (30% of 900)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, má fhaigheann iarrthóir A 900 vóta thar an gcuóta ar an gcéad chomhaireamh agus nuair a dhéantar scrúdú ar a c(h)uid páipéir bhallóide ar fad agus feictear go bhfuil 30% den dara rogha ag dul chuig iarrthóir B, ní fhaigheann iarrthóir B 30% de pháipéir ballóide ar fad iarrthóra A, faigheann iarrthóir B 30% de na vótaí sa bhreis, is é sin 270 páipéir bhallóide (30% de 900)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where a candidate is elected at the second or at later count, only the ballot papers that brought them over the quota are examined in the surplus distribution, that is, the parcel of ballot papers last transferred to the elected candidate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair atá iarrthóir tofa ar an dara chomhaireamh nó ina dhiaidh, ní dhéantar scrúdú ach ar na vótaí a thug é/í thar an gcuóta sa dáileadh de vótaí breise, is é sin, an carnán vótaí deireanacha a bhí inaistrithe chuig an iarrthóir tofa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If 2 or more candidates exceed the quota at the same time, the larger surplus is distributed first</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má éiríonn le beirt iarrthóir nó níos mó dul thar an gcuóta ag an am céanna, roinntear vótaí an té a fuair an méid breise is mó ar dtús</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The surplus must be distributed if it can elect a candidate or save the lowest candidate from elimination or qualify a candidate for recoupment of their election expenses or deposit (if applicable)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh an dáileadh breise bheith roinnte dá mbeadh iarrthóir tofa nó an t-iarrthóir leis an méid is lú vótaí sábháilte ó dhíbirt nó an t-iarrthóir bheith incháilithe a gcostais toghcháin a aisíoc (má tá sé i gceist)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where there is no surplus for distribution or the distribution of the surplus is prohibited, the next step is the elimination of the lowest candidate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair nach bhfuil aon dáileadh sa bhreis nó nuair atá cosc ar an dáileadh sa bhreis déantar ansin an t-iarrthóir leis an méid is lú vótaí a dhíbirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Two or more of the lowest candidates must be excluded together where it is clear that they cannot possibly be saved from elimination in the long run</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfear beirt iarrthóir nó níos mó a dhíbirt le chéile nuair atá sé soiléir nach bhfuil aon seans ann gur féidir iad a shábháilt ó dhíbirt sa deireadh thiar thall</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where a candidate is eliminated, all of their votes are transferred to the next available preferences on them</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair atá iarrthóir díbrithe, déantar a c(h)uid vótaí a aistriú go dtí an chéad rogha eile atá luaite ar na páipéir sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Counting continues until all the seats have been filled</seg></tuv>
+  <tuv xml:lang="ga"><seg>Téann an comhaireamh ar aghaidh go dtí go mbíonn na suíocháin uilig líonta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The last seat can be filled either by a candidate(s) exceeding the quota or by a candidate(s) being elected without reaching the quota because it is clear that they are ultimately going to be elected</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le hiarrthóir an suíochán deireanach a líonadh tré dul thar an gcuóta nó a bheith tofa gan aon chuóta a shroichint de bharr go bhfuil sé soiléir go dtoghfar é/í ar deireadh thiar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Thus, if the number of seats left to be filled is just one less than the number of candidates still in the running and an available surplus cannot bring the lowest candidate level with or above the second lowest candidate, all the candidates, except the one with the lowest number of votes, are deemed elected even though none of them have actually reached the quota</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dá bharr sin, má tá líon na suíochán atá le líonadh ceann amháin níos lú ná an méid iarrthóirí atá fágtha agus nach féidir leis an méid breise an t-iarrthóir leis an méid is lú vótaí a thabhairt suas cothrom leis an iarrthóir leis an dara méid is lú, toghtar na hiarrthóirí uilig seachas an t-iarrthóir leis an méid is lú vótaí, cé nár shroich aon duine acu an cuóta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Candidates at most elections qualify for recoupment of their election expenses (up to a maximum of €8,700 at a Dáil election), provided the number of votes they receive at the count exceeds one-quarter of the quota</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le hiarrthóirí sa chuid is mó toghchán aisíocaíocht ar chostais toghcháin (suas go dtí uasmhéid de €6,348 do thoghchán Dála ) a éileamh chomh fada agus gur ionann líon a gcuid vótaí agus sa bhreis ar 1/4 den chuóta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are extra count rules that are designed to give candidates every chance of reaching this vote threshold</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá rialacha comhairimh sa bhreis ann atá leagtha amach le gach deis a thabhairt d’iarrthóirí an méid vótaí seo a shroichint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The threshold is calculated differently at a bye-election so that the minimum number of votes required to qualify for recoupment of elections expenses at a general election and at a bye-election in the same constituency is broadly comparable</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar an tairseach vótaí seo a chomhaireamh ar bhealach difriúil ag fothoghchán. Ar an gcaoi seo tá íosmhéid na vótaí a theastaíonn le haghaidh aisíocaíochta ar chostais toghcháin ag olltoghchán agus ag fothoghchán sa dáilcheantar céanna inchurtha lena chéile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Candidates can ask for a recount of a particular count or of the entire count</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le hiarrthóirí athchomhaireamh a iarraidh ag comhaireamh áirithe nó don chomhaireamh ar fad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A recount of a particular count involves examining all papers relevant to that count and moving papers to correct any errors</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair atá athchomhaireamh le déanamh ar chomhaireamh faoi leith déantar scrúdú ar na páipéir uilig a bhaineann leis an gcomhaireamh sin agus déantar páipéir a aistriú má tá botúin déanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A complete recount generally occurs only towards the end of the entire count and involves checking all the votes as they stand (without moving any of them) to ensure that each is credited to the correct candidate and that each parcel of papers contains the correct number of papers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go hiondúil ní tharlaíonn athchomhaireamh iomlán ach i dtreo deireadh an chomhairimh ar fad agus ní mór scrúdú a dhéanamh ar na vótaí uilig mar a sheasann siad (gan aon cheann a bhogadh) le cinntiú go bhfuil na vótaí tugtha don iarrthóir ceart agus go bhfuil an méid ceart páipéir i ngach carn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Any errors are noted and when the checking is completed, the cumulative effect of all the errors is analysed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar nóta d’aon bhotún a rinneadh agus nuair atá an scrúdú uilig thart, déantar anailís ar thionchar na mbotún</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The returning officer confirms the results already announced unless a significant error (that is, one likely to result in a different candidate being elected or excluded) is uncovered, in which case the votes are counted afresh at the point from which the error occurred</seg></tuv>
+  <tuv xml:lang="ga"><seg>Deimhníonn an Ceann Comhairimh na torthaí céanna arís ach amháin nuair atá botún ollmhór déanta (mar shampla, toradh a thoghfadh iarrthóir difriúil nó a dhéanfadh iarrthóir difriúil a dhíbirt) sa chás seo déantar athchomhaireamh ar na vótaí ón áit a tharla an botún</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When the count is completed, the returning officer declares the results of the election</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair atá críoch tagtha leis an gcomhaireamh, fógraíonn an ceann comhairimh torthaí an toghcháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Department of Housing, Planning, Community and Local Government have published a guide to proportional representation (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhoilsigh an Roinn Tithíochta, Pleanála Pobail agus Rialtais Áitiúil treoir ar ionadaíocht chionmhar (pdf)</seg></tuv>
+</tu>
+</body>
+</tmx>

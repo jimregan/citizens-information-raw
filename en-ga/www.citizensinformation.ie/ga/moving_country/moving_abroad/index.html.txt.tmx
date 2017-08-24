@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>• Freedom of movement within the EU</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cead gluaiseachta laistigh den AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most Read in "Moving Country"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ábhar is mó éilimh i "Ag bogadh tíre"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Irish citizenship through birth or descent</seg></tuv>
+  <tuv xml:lang="ga"><seg>Saoránacht d'Éirinn ó bhreith nó ó ghinealach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Visa requirements for entering Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Riachtanais víosa le teacht isteach in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Coming to work in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag teacht go hÉirinn chun oibriú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Becoming an Irish citizen</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag éirí i do shaoránach Éireannach</seg></tuv>
+</tu>
+</body>
+</tmx>

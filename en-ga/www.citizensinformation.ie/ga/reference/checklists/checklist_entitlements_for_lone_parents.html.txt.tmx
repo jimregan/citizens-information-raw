@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>If you are parenting alone you can use the lists and links below to check out the main services and entitlements for someone in your situation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seicliosta: teidlíochtaí agus tacaíochtaí do thuismitheoirí aonair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>document.write("If you would like these links to remain available while you browse this website, you can 'pin' the checklist to the right-hand side of the website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caitheann an seicliosta seo súil ar roinnt de na buarthaí láithreacha a d’fhéadfadh bheith ar thuismitheoirí aonair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The headings in the left hand column of each section link to general documents on the subject, and those in the right hand column link to details of specific payments or services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá níos mó faisnéise le fáil fúthu seo agus faoi shaincheisteanna eile sa mhír lena mbaineann Breith, Teaghlach agus Caidreamh ar an láithreán gréasáin seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find more information on these and other issues in the Birth, Family and Relationships section of this website</seg></tuv>
+  <tuv xml:lang="ga"><seg>document.write("Más mian leat go bhfanfadh na nascanna seo ar fáil fad is atá an suíomh seo á bhrabhsáil agat, d’fhéadfá an seicliosta a ‘ghreamadh’ ar thaobh deis an tsuímh</seg></tuv>
+</tu>
+</body>
+</tmx>

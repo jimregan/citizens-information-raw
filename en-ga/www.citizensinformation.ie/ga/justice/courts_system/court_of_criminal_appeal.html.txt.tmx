@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Court of Criminal Appeal</seg></tuv>
+  <tuv xml:lang="ga"><seg>An Chúirt Achomharc Choiriúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the Court of Appeal Act 2014, the Court of Criminal Appeal was abolished</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi na Cúirte Acht um Achomhairc 2014, tá an Chúirt Achomhairc Choiriúil a dhíothú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Appeals arising since 28 October 2014 are heard by the new Court of Appeal</seg></tuv>
+  <tuv xml:lang="ga"><seg>Achomhairc a eascraíonn ó 28 Deireadh Fómhair, 2014 éisteann an Chúirt Achomhairc nua</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In an appeal against conviction, the Court of Criminal Appeal could:  1. dismiss the appeal or, 2. quash the conviction and release the defendant or, 3</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bhí an Chúirt Achomhairc Choiriúil comhdhéanta de Bhreitheamh den Chúirt Uachtarach agus beirt Bhreithiúna na hArd-Chúirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>4. quash the conviction and, if the person appealing their conviction or sentence is considered to be guilty of some other offence, substitute a verdict and impose a sentence which is not more severe than the original one</seg></tuv>
+  <tuv xml:lang="ga"><seg>Éistearan le hachomhairc ann i gcoinne ciontaithe nó pianbhreithe ón gCúirt Choiriúil Chuarda, ón bPríomhchúirt Choiriúil agus ón gCúirt Choiriúil Speisialta agus déantar achomhairc ann i gcoinne trócaire phianbhreithe tríd an Stiúrthóir Ionchúiseamh Poiblí amháin</seg></tuv>
+</tu>
+</body>
+</tmx>

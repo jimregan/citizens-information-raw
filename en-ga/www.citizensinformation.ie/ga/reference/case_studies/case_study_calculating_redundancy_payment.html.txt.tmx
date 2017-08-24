@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Case study: Calculating redundancy payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cás-Staidéar: íocaíocht iomarcaíochta a mheas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Linda started her current job on 1 February 2005</seg></tuv>
+  <tuv xml:lang="ga"><seg>Thosaigh Linda a post reatha ar an 1 Feabhra 2005</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>She was given notice of redundancy on 6 July 2012 and her job ended on 31 August 2012</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugadh fógra iomarcaíochta di ar 6 Iúil 2012 agus tháinig críoch lena post ar an 31 Lúnasa 2012</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>She was laid off from 6 to 10 June 2012</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagadh as obair í ó 6 go dtí 10 Meitheamh 2012</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Her gross weekly pay (that is, her weekly pay before tax and other deductions) was €800</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bhí ollphá seachtainiúil (is é sin, a pá seachtainiúil roimh cháin agus asbhaintí eile) de €800 aici</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Linda wants to know how much her redundancy payment will be</seg></tuv>
+  <tuv xml:lang="ga"><seg>Teastaíonn ó Linda a fháil amach cé mhéid a bheidh a híocaíocht iomarcaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The current ceiling on wages that count for redundancy purposes is €600 per week</seg></tuv>
+  <tuv xml:lang="ga"><seg>An t-uasteorainn ar thuarastail a áirítear do chuspóirí iomarcaíochta ná €600 in aghaidh na seachtaine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Linda's total service is 7 years and 212 days</seg></tuv>
+  <tuv xml:lang="ga"><seg>7 mbliana agus 212 lá í an tseirbhís iomlán ag Linda</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>She had no breaks in her continuity of employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní raibh aon bhristeacha aici ina cuid leanúnachas fostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, the 5 days laid off in June 2012 will reduce her reckonable service to 7 years and 207 days</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cibé ar bith, laghdóidh an 5 lá asleagtha i Meitheamh 2012 a seirbhís inríofa go dtí 7 mbliana agus 207 lá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>207 days is 57% (56.71%) of a full year</seg></tuv>
+  <tuv xml:lang="ga"><seg>207 lá is ea 57% (56.71%) de bhliain iomlán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Allowing 2 weeks for each year of service and for part of a year on a pro-rata basis, Linda will be entitled to 16.14 weeks (2 weeks x 7.57 years = 15.14, plus a bonus week). This will give Linda a redundancy payment of 16.14 x €600 = €9,684</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag ceadú 2 sheachtain do gach bliain seirbhíse agus do chuid de bhliain ar bhonn pro-rata, beidh Linda i dteideal do 16.14 seachtainí (2 sheachtain x 7.57 mbliana = 15.14, móide seachtain sa bhreis)</seg></tuv>
+</tu>
+</body>
+</tmx>

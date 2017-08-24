@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Maintenance and lone parents</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cothabháil agus tuismitheoirí aonair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are or have been married or in a civil partnership, you are entitled to apply to the court for maintenance from your spouse/civil partner to cover your own expenses</seg></tuv>
+  <tuv xml:lang="ga"><seg>In Éirinn, má tá tú nó má bhí tú pósta, tá tú i dteideal iarratas a dhéanamh ar an gcúirt le haghaidh cothabhála ó do chéile/pháirtnéir sibhialta go n-íocfar as do chuid costais féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are in a cohabiting relationship, you have no such right</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú i gcaidreamh comhchónaithe, níl an ceart sin agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the cohabiting relationship subsequently breaks down you may not apply to the court for maintenance for yourself, unless you satisfy the eligibility criteria for the redress scheme for cohabiting couples</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chliseann an caidreamh comhchónaithe ina dhiaidh sin, ní féidir leat iarratas a dhéanamh ar an gcúirt ar chothabháil duit féin, mura sásaíonn tú na critéir incháilitheachta don scéim sásaimh do lánúineacha comhchónaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will have to show that you were/are financially dependent on your partner</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh ort a thaispeáint go raibh tú/go bhfuil tú ag brath ar do pháirtnéir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Married couples and civil partners are legally obliged to maintain their dependent children in accordance with their means</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá oibleagáid dhlíthiúil ar lánúineacha pósta agus ar pháirtithe sibhialta cothabháil a sholáthar dá leanaí cleithiúnacha de réir a gcuid acmhainní</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Their maintenance responsibilities following a judicial separation, divorce or dissolution are determined by the courts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Na cúirteanna a chinneann a ndualgais chothabhála i ndiaidh idirscartha bhreithiúnaigh, colscartha nó díscaoilte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have had a child outside of marriage and cannot come to an agreement about maintenance, you may apply to the court to order the other parent to pay child support</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má rugadh leanbh duit lasmuigh den phósadh agus nach féidir libh teacht ar réiteach maidir le cothabháil, is féidir iarratas a dhéanamh ar an gcúirt chun ordú a thabhairt don tuismitheoir eile taca leanaí a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In most cases, it is the parent with main custody of the child that makes such an application</seg></tuv>
+  <tuv xml:lang="ga"><seg>Den chuid is mó, is é/í an tuismitheoir a mbíonn príomhchaomhnóireacht an linbh acu a dhéanann iarratas mar sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the court decides that the parent of a dependent child has failed to provide such maintenance for the child as "is proper in the circumstances", it may order that parent to make regular maintenance payments to support the child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéanann an cúirt cinneadh gur theip ar thuismitheoir linbh chleithiúnaigh cothabháil a sholáthar don leanbh “de réir mar is ceart sa chás sin”, d’fhéadfadh an chúirt ordú a thabhairt go ndéanfadh an tuismitheoir íocaíochtaí tréimhsiúla cothabhála chun tacú leis an leanbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The court may also order a parent to pay a lump sum</seg></tuv>
+  <tuv xml:lang="ga"><seg>Anuas air sin, d’fhéadfadh an chúirt ordú a dhéanamh go n-íocfadh an tuismitheoir cnapshuim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Children and Family Relationships Act 2015 has amended the Family Law (Maintenance of Spouses and Children) Act 1976 so that a cohabitant who is a guardian of:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an tAcht Leanaí agus Caidrimh Teaghlaigh, 2015 tar éis leasú a dhéanamh ar an Acht um an Dlí Teaghlaigh (Cothabháil Céilí agus Leanaí), 1976, leasú a chuireann dualgas airgeadais maidir leis an leanbh ar chomhchónaitheoir atá ina chaomhnóir/caomhnóir ar:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The child their partner has the day-to-day care of</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Leanbh atá faoi chúram a pháirtí/páirtí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>has a financial responsibility to the child. It allows for a court to order the cohabitant to pay maintenance to support a dependent child who is under 18 years of age</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann sé foráil don chúirt ordú a thabhairt don chomhchónaitheoir cothabháil a íoc chun tacú le leanbh cleithiúnach atá faoi bhun 18 mbliana d’aois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A dependent child is a child who:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is éard atá i leanbh cleithiúnach:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Is under 18 years old or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Leanbh atá faoi 18 mbliana d’aois nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Is over 18 and under 23 years old but is still in full-time education or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Leanbh atá os cionn 18 mbliana d’aois nó faoi bhun 23 bliain d’aois ach atá in oideachas lánaimseartha go fóill nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Is suffering from mental or physical disability to the extent that he or she cannot maintain himself or herself</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Leanbh atá thíos le míchumas meabhrach nó fisiciúil a mhéid sin nach féidir leis nó léi cothabháil a dhéanamh air nó uirthi féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When the court is deciding whether to make a maintenance order in respect of a child, it will consider the income, earning capacity, property and other financial resources of both parties</seg></tuv>
+  <tuv xml:lang="ga"><seg>Agus cinneadh á dhéanamh ag an gcúirt maidir le hordú cothabhála a thabhairt, nó gan é a thabhairt, i gcás linbh, cuirtear san áireamh sa chinneadh sin ioncam, cumas tuillimh, réadmhaoin agus acmhainní eile airgeadais na beirte tuismitheoirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It will also consider whether either party has other financial responsibilities such as a spouse or other dependent children</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirtear san áireamh freisin más ann do dhualgas ar bith eile airgeadais ar aon duine don bheirt, ar nós céile nó leanaí eile cleithiúnacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The children of parents who are not married to each other may have to prove paternity in order to get their maintenance or inheritance entitlements</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás leanaí nach bhfuil a dtuismitheoirí pósta lena chéile, seans go mbeadh orthu atharthacht a chruthú chun a dteidlíochtaí cothabhála nó oidhreachta a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is not necessary if the father acknowledges paternity or is named as the child's father on the child’s birth certificate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhíonn gá leis seo i gcás go n-admhaíonn an t-athair atharthacht nó má tá sé ainmnithe mar athair an linbh ar Theastas Breithe an linbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find more information in our document on maintenance orders and on the Courts Service website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh eolais le fáil sa doiciméad seo a bhaineann le horduithe cothabhála agus ar láithreán gréasáin na Seirbhíse Cúirteanna</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Legal options following marital breakdown</seg></tuv>
+  <tuv xml:lang="ga"><seg>Torthaí ar Scaradh nó Colscaradh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When a marriage first breaks up, many couples informally separate and live apart</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a theipeann ar phósadh ar dtús, is iondúil go scarann lanúin agus go gcónaíonn siad ó chéile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Marital breakdown affects all areas of a person' s life, and most people go on to regulate matters between them in a legal context</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn tionchar ar bhriseadh an phósta ar chuile ghné de shaol an duine agus téann an chuid is mó daoine ar aghaidh le rudaí a shocrú eatarthu go dleathúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are three different ways of doing this in Ireland:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá trí bhealach ann len é seo a dhéanamh in Éirinn:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A separation agreement is reached through agreement between the parties, whereas a court grants a judicial separation or a divorce</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tagann an lanúin iad féin chuig na socruithe a bhaineann le socrú scartha, ach bíonn socrú cúirte i gceist le scaradh dleathúil agus colscaradh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Of these, only a decree of divorce dissolves the marriage and allows each party to remarry</seg></tuv>
+  <tuv xml:lang="ga"><seg>Colscaradh amháin a chuireann deireadh leis an bpósadh agus a fhágann an bheirt saor le hathphósadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In specific circumstances, a court can grant a nullity decree</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcúinsí faoi leith, is féidir le cúirt ordú neamhní a cheadú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The effect of a nullity decree is that the court determines that no marriage ever existed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás seo tá an chúirt ag rá nach raibh aon phósadh ann ariamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The law in relation to nullity is complex, and you should always seek legal advice to assess whether the circumstances exist for a nullity application</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an dlí a bhaineann le pósadh a chur ar neamhní fíorchasta, agus ní mór comhairle dlí a fháil i gcónaí le cinneadh a dhéanamh an bhfuil cás ann iarratas ar an bpósadh a chur ar neamhní a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A Roman Catholic church annulment has no legal effect</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon stádas dleathúil ag ordú ón Eaglais Chaitliceach pósadh a chur ar neamhní</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,273 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>If you do not qualify for a medical card you may be eligible for a GP visit card</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura gcáilítear thú do chárta leighis, d’fhéadfá bheith i dteideal Cárta Cuairte LG a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A GP visit card allows you to visit a participating family doctor for free</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceadaíonn Cárta Cuairte LG duit cuairt a thabhairt ar LG rannpháirteach saor in aisce</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Unless you have a medical card or a GP visit card, visits to GPs are not free</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun cáiliú do Chárta Cuairte LG, ní mór duit na rialacha incháilitheachta thíos a chomhlíonadh agus gnáthchónaí a bheith ort in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In order to qualify for a GP visit card, you must meet the eligibility rules below and be ordinarily resident in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é sin, ní mór go bhfuil cónaí ort, nó go mbeartaíonn tú cónaí a bheith ort in Éirinn ar feadh bliain amháin, ar a laghad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are aged under 70, you must also meet specific income guidelines</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú faoi 70 bliain d’aois, ní mór duit treoirlínte sonracha ioncaim a chomhlíonadh chomh maith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are aged over 70, the GP visit card is available without an income test</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ón 5 Lúnasa 2015, má tá tú 70 bliain d’aois nó os a chionn, tá fáil ar an gcárta cuairte LG gan bheith ort tabhairt faoi thástáil ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The GP visit card for children under 6 is available to all children under the age of 6</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá fáil ar an gcárta cuairte LG do leanaí faoi 6 bliana d’aois do gach leanbh faoi aois 6 bliana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Having a GP visit card only allows you to visit your GP for free</seg></tuv>
+  <tuv xml:lang="ga"><seg>Trí chárta cuairte LG a bheith agat, ceadaítear duit cuairt a thabhairt ar do LG saor in aisce</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Prescribed drugs are not free but may be covered by the Drugs Payment Scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl drugaí ordaithe saor in aisce ach d’fhéadfaidís a bheith cumhdaithe ag an Scéim Íocaíochta Drugaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The GP visit card does not cover hospital charges</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chumhdaíonn an cárta cuairte LG muirir ospidéil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It does cover visits to GP out of hours services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chumhdaíonn sé cuairteanna chuig seirbhísí lasmuigh d’uaireanta LG</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Blood tests to diagnose or monitor a condition are covered</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cumhdaítear tástálacha fola chun diagnóisiú nó monatóireacht a dhéanamh ar riocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The GP visit card is available to everyone aged over 70 without an income test</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an cárta cuairte LG ar fáil do gach duine atá 70 bliain d’aois nó os a chionn sin gan tástáil ioncaim a dhéanamh orthu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are under 70, eligibility for the GP visit card is means tested. That is, your income is assessed by the HSE as part of the application process</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá fáil ar an gcárta cuairte LG do leanaí faoi aois 6 bliana do gach leanbh atá faoi aois 6 bliana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Income limits for people aged under 70</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú faoi 70 bliain d’aois, déantar tástáil mhaoine ar incháilitheacht don chárta cuairte LG</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The rules for assessing the amount of your income are the same as for the medical card means test for people aged under 70 but the income limits for the GP visit card are higher than the limits for the medical card</seg></tuv>
+  <tuv xml:lang="ga"><seg>Teorainneacha Ioncaim do dhaoine faoi bhun 70</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>GP visit card weekly income limit (gross less tax, USC and PRSI)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Teorainn sheachtainiúil ioncaim don Chárta Cuairte LG (ollioncam lúide cáin, MSU agus</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Category │Aged under │Aged │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│ │Daoine faoi │Daoine idir 66 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Single person living alone │€276 │€302 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Duine singil a chónaíonn leis/léi féin │€276 │€302 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Single person living with family │€246 │€260 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Duine singil a chónaíonn lena t(h)eaghlach │€246 │€260 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Married or cohabiting couple (or lone parent with dependent │€400 │€447 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Lánúin phósta nó chomhchónaithe (nó tuismitheoir │€400 │€447 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│children) │ │ │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│aonair ag a bhfuil leanaí cleithiúnaí) │ │ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Allowance for each of first 2 children aged under 16 │€57 │€57 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Liúntas le haghaidh gach duine den chéad bheirt │€57 │€57 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Allowance for 3rd and for each subsequent child under 16 │€61.50 │€61.50 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│leanaí faoi bhun 16 │ │ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Allowance for each of first 2 children aged over 16 (with no │€58.50 │€58.50 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Liúntas le haghaidh gach duine den chéad bheirt │€58.50 │€58.50 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│income) │ │ │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│leanaí os cionn 16 (gan ioncam ar bith) │ │ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Allowance for 3rd and for each subsequent child over 16 (with│€64 │€64 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│leanbh os cionn 16 ina dhiaidh sin (gan ioncam ar│€64 │€64 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│no income) │ │ │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│bith) │ │ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Each dependant over 16 years in full-time non-grant aided │€117 │€117 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Gach cleithiúnaí os cionn 16 atá ag tabhairt faoi│ │ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│third-level │ │ │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│deontais │ │ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are also allowances for reasonable expenses incurred in respect of childcare costs and rent/mortgage payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Anuas air sin, tá liúntais ann le haghaidh costais réasúnta a thabhaítear maidir le costais chúram leanaí agus íocaíochtaí cíosa/morgáiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Allowances for weekly travel costs to work are assessed as the actual cost of public transport or, if a car is required, as mileage at 30 cent per mile (18 cent per km)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar measúnú ar liúntais sheachtainiúla taistil chuig an obair mar chostas iarbhír iompair phoiblí, nó míleáiste amhail 30 cent sa mhíle (18 cent sa km)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Dependants of people aged over 70</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cleithiúnaithe daoine os cionn 70 bliain d’aois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are aged over 70 and you have dependants, for example a spouse, civil partner or cohabiting partner aged under 70, your dependants may qualify for a GP visit card if your income is below a certain level</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú os cionn 70 bliain d’aois agus má tá cleithiúnaithe agat, mar shampla, céile, páirtnéir sibhialta nó páirtnéir comhchónaithe atá faoi aois 70 bliain, b’fhéidir go gcáileofar do chleithiúnaithe do chárta cuairte LG má tá d’ioncam faoi bhun leibhéal áirithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The rules for assessing the amount of your income are the same as for the medical card means test for people aged under 70 but the income limits for the GP visit card are higher than the limits for the medical card</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ionann na rialacha chun measúnú a dhéanamh ar mhéid d’ioncaim agus na rialacha i dtaobh na tástála maoine don chárta leighis i measc daoine faoi bhun 70 bliain d’aois, ach tá na teorainneacha ioncaim don chárta cuairte LG níos airde ná na teorainneacha don chárta leighis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have a spouse, civil partner or cohabiting partner, the limit for your combined income is €1,400 per week, not including the first €72,000 of savings or similar investments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá céile, páirtnéir sibhialta nó páirtnéir comhchónaithe agat, is é an teorainn ar bhur gcomhioncam €1,400 sa tseachtain, gan an chéad €72,000 de choigilteas nó a chomhionann d’infheistíochtaí a áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you do not have a spouse, civil partner or cohabiting partner, the income limit is €700 per week, not including the first €36,000 of savings or similar investments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil céile, páirtnéir sibhialta nó páirtnéir comhchónaithe agat, is é an teorainn €700 sa tseachtain, gan an chéad €36,000 de choigilteas nó a chomhionann d’infheistíochtaí a áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Income over the limit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ioncam os cionn na teorann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you apply for a GP visit card you will first be assessed for eligibility for a medical card</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a dhéanann tú iarratas ar Chárta Cuairte LG, déanfar measúnú ort i dtosach báire le haghaidh teidlíochta do chárta leighis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your income is over the relevant limit, the deciding officer will consider whether it would cause you undue hardship if you are refused a medical card</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá d’ioncam os cionn na teorann cuí, déanfaidh an t-oifigeach cinntitheach breithniú ar cibé acu an mbeadh nó nach mbeadh sé ina údar le cruatan míchuí duit má dhiúltaítear cárta leighis duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you don’t qualify for a medical card you are then assessed for a GP visit card</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura gcáilíonn tú do chárta leighis, déantar measúnú ort le haghaidh Cárta Cuairte LG</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your income is over the relevant limit, the deciding officer will consider whether it would be 'unduly burdensome' for you to pay for GP Services if you don’t have a GP visit card</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá d’ioncam os cionn na teorann cuí, déanfaidh an t-oifigeach cinntitheach breithniú ar cibé acu an mbeadh nó nach mbeadh sé ‘ina chruatan míchuí’ ort íoc as Seirbhísí LG mura bhfuil Cárta Cuairte LG agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your application for a GP visit card is refused, you will receive a letter from the HSE stating this</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhiúltaítear d’iarratas ar Chárta Cuairte LG, gheobhaidh tú litir ó FSS ina luaitear seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The letter will also set out the reasons why your application has been refused</seg></tuv>
+  <tuv xml:lang="ga"><seg>Anuas air sin, leagtar amach sa litir seo na cúiseanna ar diúltaíodh d’iarratas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are not satisfied with the decision, you may have it reviewed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil tú sásta leis an gcinneadh, féadfaidh tú iarraidh go ndéanfar athbhreithniú air</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your circumstances may have changed or you may have left out some relevant information from the original application</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh gur tháinig athrú ar do chúinsí, nó d’fhéadfadh gur fhág tú roinnt faisnéis ábhartha ar lár ón mbuniarratas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are not satisfied with the review you may make an appeal to the Appeals Office of your HSE Area</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil tú sásta leis an athbhreithniú, féadfaidh tú achomharc a dhéanamh le hOifig Achomhairc do Cheantar FSS</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The contact details will also be contained in your letter of refusal</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh na sonraí teagmhála le sonrú i do litir dhiúltaithe, chomh maith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Appeals Office will conduct a reassessment of your application</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabharfaidh an Oifig Achomhairc faoi athmheasúnú ar d’iarratas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This will be conducted by HSE staff who were not involved in deciding on your original application</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabharfaidh foireann FSS faoi seo, nach raibh baint acu leis an gcinneadh a dhéanamh ar do bhuniarratas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your entitlement to a GP visit card is reviewed periodically</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar athbhreithniú tréimhsiúil ar do theidlíocht chun Cárta Cuairte LG a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is because your circumstances may change</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar seo mar gheall go bhféadfadh athrú teacht ar chúinsí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you don’t return your review form, your GP visit card may not be re-issued</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura seolann tú d'fhoirm athbhreithnithe ar ais, b'fhéidir nach n-atheiseofar do Chárta Cuairte LG</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you return your review form by the given date but the review process continues past the expiry date of your card, the card’s validity may be extended so that you can continue to use it while the review is taking place</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má sheolann tú d’fhoirm athbhreithnithe ar ais faoin dáta a luaitear ach má leanann an próiseas athbhreithnithe thar dháta éagtha do chárta, féadtar bailíocht an chárta a shíneadh ionas gur féidir leat leanúint le hé a úsáid fad atá an t-athbhreithniú ar bun</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The extension is on a month-by-month basis so it is advisable to contact the Client Registration Unit to confirm that your card has been extended and continues to be valid</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an síneadh ar bhonn mí ar mhí, mar sin, moltar duit teagmháil a dhéanamh leis an Aonad Cláraithe Cliant lena dheimhniú gur síneadh do chárta agus go leanann sé bheith bailí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For the GP visit card for people aged 70 and over, you can register for the card online on gpvisitcard.ie, you can download the registration form for people aged 70 and over (pdf) or you can call 1890 252 919 to request a registration form</seg></tuv>
+  <tuv xml:lang="ga"><seg>I dtaobh an chárta cuairte LG do dhaoine 70 bliain d’aois agus níos sine, féadfaidh tú clárú don chárta ar líne ag gpvisitcard.ie, féadfaidh tú an fhoirm chlárúcháin a íoslódáil le haghaidh daoine atá 70 bliain d’aois agus níos sine (pdf) nó glao a chur chun iarraidh ar fhoirm chlárúcháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are aged under 70, you use the same application process to apply for a GP visit card as for a medical card</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú faoi bhun 70 bliain d’aois, úsáideann tú an próiseas céanna chun iarratas a dhéanamh ar chárta cuairte LG a úsáidtear le haghaidh cárta leighis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As part of the application process for the GP visit card, your entitlement for a medical card will also be assessed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar chuid den phróiseas iarratais don chárta cuairte LG, déanfar measúnú, chomh maith, ar do theidlíocht do chárta leighis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can apply online for a medical card or GP visit card on medicalcard.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú iarratas a dhéanamh ar líne ar chárta leighis nó ar Chárta Cuairte LG ag medicalcard.ie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is the quickest method of obtaining the card</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seo an modh is tapúla chun an cárta a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Otherwise, you can download an application form for a GP visit card and medical card:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar mhalairt air sin, féadfaidh tú foirm iarratais a íoslódáil le haghaidh Cárta Cuairte LG agus cárta leighis:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>MC1 Medical Card/GP Visit Card Application Form (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Foirm Iarratais MC1 ar Chárta Leighis/Cárta Cuairte LG (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>MC1(a) Medical Card/GP Visit Card Application Form - Persons Aged 70 Years or Older (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Foirm Iarratais MC1(a) ar Chárta Leighis/Cárta Cuairte LG – Daoine 70 Bliain D’Aois nó Níos Sine (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Contact Lo-call 1890 252 919 or your Local Health Office for more information on GP visit cards</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déan teagmháil le 1890 252 919 nó le d’Oifig Áitiúil Sláinte chun teacht ar bhreis faisnéise ar Chártaí Cuairte LG</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can also contact the Client Registration Unit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, féadfaidh tú teagmháil a dhéanamh leis an Aonad Cláraithe Cliant</seg></tuv>
+</tu>
+</body>
+</tmx>

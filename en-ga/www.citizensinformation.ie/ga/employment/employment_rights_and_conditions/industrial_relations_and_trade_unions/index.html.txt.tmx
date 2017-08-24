@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Industrial relations and trade unions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caidrimh thionsclaíocha agus ceardchumainn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Employees have a right under the Constitution to join a trade union. What is a trade union?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagann an doiciméad seo amach cearta an fhostaí maidir le ballraíocht i gceardchumann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read how Joint Labour Committees (JLCs) regulate pay and conditions of employment in certain employment sectors</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léigh conas a rialaigh na Comhchoistí Oibreachais pá agus coinníollacha oibre do fhostaithe i réimsí áirithe fostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Employment Regulation Orders and registered employment agreements</seg></tuv>
+  <tuv xml:lang="ga"><seg>Orduithe Rialaithe Fostaíochta agus comhaontuithe fostaíochta cláraithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read about the regulation of pay and conditions of employment for certain employment sectors</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léigh faoi na rialacháin pá agus coinníollacha oibre agus pá na bhfostaithe i réimsí áirithe fostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Trade disputes and industrial action</seg></tuv>
+  <tuv xml:lang="ga"><seg>Díospóidí trádála agus gníomhaíocht thionsclaíoch</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Outlines the law on trade disputes and industrial action and the protections for employees</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar breac-chuntas ar dhíospóidí trádála agus gníomhaíocht thionsclaíoch agus an chosaint atá ann d’fhostaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most Read in "Employment"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ábhar is mó éilimh i "Fostaíocht"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Rest periods and breaks</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tréimhsí sosa agus sosanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Tax and starting work - PAYE</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gnó a chur ar bun</seg></tuv>
+</tu>
+</body>
+</tmx>

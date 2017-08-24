@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Unlawful arrest and detention</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gabháil agus coinneáil neamhdhleathach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In order to arrest you, the Garda Siochana must have a warrant for your arrest unless you are arrested for an offence that is punishable by imprisonment for a term of 5 years or more</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mian leis an nGarda Síochana tú a ghabháil ní mór barántas gafa a bheith acu ach amháin sa chás go bhfuil tú gafa as coir lena mbaineann téarma príosúnachta de 5 bliana nó níos mó léi</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In that case, the Gardai must have reasonable cause to suspect that you are guilty of an offence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás sin ní mór go mbeadh cúis réasúnta ag na Gardaí le bheith in amhras gur tusa atá ciontach as coir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Once you are arrested, you must be brought to a Garda station without undue delay and informed that you have a right to consult a solicitor. See our document on treatment in custody</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair atá tú gafa ní mór tú a thabhairt chuig stáisiún Garda gan aon mhoill mhíchuí agus chuir in iúl go bhfuil sé de cheart dul i gcomhairle le haturnae tú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must be told the reason for your arrest. The Gardaí do not have to inform you in any particular form the reason and legal basis for your arrest</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór a chur in iúl duit cén fáth a bhfuil tú gafa - ní mór don Gharda a ghabh thú a insint duit go díreach cén choir lena bhfuil tú gafa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, if you are arrested for drink driving the Garda is not obliged to cite the specific provision ("I am arresting you under the provisions of Section 49 (8) of the Road Traffic Act, 1961")</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna bhfuil sa ghabháil ach cur i gcéill ar mhaithe le tú a cheistiú maidir le coireanna eile is gabháil neamhdhleathach atá inti</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your arrest is unlawful if the Garda fails to inform you in ordinary language the reason for your arrest or fails to cite the relevant law</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair atá tú gafa, tá sé de cheart agat a bheith tugtha ós comhair na cúirte chomh luath agus is féidir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your arrest is just a sham or a cover so that you can be questioned in relation to other offences, then that arrest is unlawful</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé leagtha síos i reachtaíocht éagsúil cé chomh fada gur féidir thú a choinneáil le ceistiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if the reasons for your arrest are given to you at any time during your detention, your custody becomes lawful from that point on</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chuid is mó cásanna nuair atá duine gafa as coir lena mbaineann príosúnacht 5 bliana nó níos mó, ní féidir é/í a choinneáil ach ar feadh 12 uair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you are arrested, you have a right to be brought before a court at the first possible opportunity</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cé go bhfuil tú faoi choinneáil, tá ceart bunreachtúil rochtain réasúnach dlíodóir agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Different legislation specifies how long you may be held in detention for questioning</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá ceart agat chun a insint gur féidir leat dul i gcomhairle le haturnae</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you ask for a solicitor you cannot be questioned until they arrive, except in exceptional circumstances</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má iarrann tú le haghaidh aturnae nach féidir leat a cheistiú go dtí go sroicheann siad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You have a right to have your solicitor in the room with you while you are being interviewed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé de cheart go mbeadh do aturnae sa seomra agallaimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have been unlawfully arrested, evidence obtained as a result of that arrest will be inadmissible</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéantar tú a ghabháil go neamhdhleathach ní bheidh aon fhianaise a bhailítear dá bharr ceadaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, if you were mistakenly told by a Garda that you were being arrested under the wrong section of the Road Traffic Act, the arrest and the blood sample taken would be unlawful</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, má dhéanann Garda botún agus má insíonn sé/sí duit go bhfuil tú dhá ghabháil faoin gcuid mícheart den Acht um Thrácht Bhóthair, bheadh an ghabháil agus an sampla fola a tógadh neamhdhleathach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The blood sample would not be admissible as evidence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bheadh an sampla fola ceadaithe mar fhianaise</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Evidence obtained while you are unlawfully detained has also been unlawfully obtained and will be inadmissible</seg></tuv>
+  <tuv xml:lang="ga"><seg>Aon fhianaise a fritheadh nuair a bhí tú coinnithe go neamhdhleathach fritheadh í go neamhdhleathach freisin agus ní bheidh sí ceadaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, if you have been in custody for longer than the maximum period allowed and you make a confession, that confession will not be admissible in evidence against you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, má bhí tú coinnithe ar feadh achair níos faide ná an uasthréimhse atá ceadaithe agus má admhaíonn tú don choir, ní bheidh an admháil sin ceadaithe mar fhianaise i do choinne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Evidence obtained in breach of your right to reasonable access to a lawyer is also inadmissible as evidence against you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon fhianaise a fhaightear a sharaíonn an ceart atá agat teacht ar dhlíodóir ceadaithe mar fhianaise i do choinne freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, if you request a lawyer and your request is refused, any statements you make to the police will be inadmissible as evidence against you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, má iarrann tú labhairt le dlíodóir agus má dhiúltaítear don éileamh sin, d'fhéadfadh aon ráitis a dhéanann tú do na Gardaí a bheith neamhcheadaithe mar fhianaise i do choinne</seg></tuv>
+</tu>
+</body>
+</tmx>

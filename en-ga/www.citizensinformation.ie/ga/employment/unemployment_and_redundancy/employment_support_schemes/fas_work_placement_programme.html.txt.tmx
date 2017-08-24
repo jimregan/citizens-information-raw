@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>The Work Placement Programme (WPP) provides 9 months’ work experience in the private, public, community and voluntary sectors for graduates and other unemployed people</seg></tuv>
+  <tuv xml:lang="ga"><seg>Soláthraíonn an Clár Socrúcháin Oibre taithí oibre 9 mí san earnáil phoiblí, san earnáil phríobháideach agus san earnáil dheonach agus pobail do chéimithe agus do dhaoine dífhostaithe eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The placements are for a minimum of 25 hours per week</seg></tuv>
+  <tuv xml:lang="ga"><seg>Obair 25 uair sa tseachtain ar a laghad atá i gceist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The programme is available to people getting most social welfare payments, including Jobseeker's Allowance and Jobseeker's Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an clár ar fáil do dhaoine a fhaigheann an cuid is mó d'íocaíochtaí leasa shóisialaigh, lena n-áirítear Liúntas Cuardaitheora Poist agus Sochar Cuardaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are getting a social welfare payment for at least 3 months, you may be able to keep it while on the programme - see 'Keeping your social welfare payment' below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá íocaíocht leasa shóisialaigh á fáil agat ar feadh 3 mhí ar a laghad, tá seans ann gur féidir leat an íocaíocht a choimeád fad is a bhfuil tú páirteach sa chlár - féach 'D'íocaíocht leasa shóisialaigh a choimeád' thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>People who are not getting a social welfare payment, or who are on a payment for less than 3 months, are eligible to take part, but will not be get a social welfare payment while on the programme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna bhfuil íocaíocht leasa shóisialaigh á fáil agat ar feadh 3 mhí ar a laghad, ní bhfaighidh tú íocaíocht ar bith fad is a bhfuil tú páirteach sa chlár</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are 2 streams in the Work Placement Programme (WPP)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá 2 shruth sa Chlár Socrúcháin Oibre (CSO)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Stream 1 offers places for graduates and Stream 2 offers places for unemployed people, with a number of these places reserved for those aged under 34</seg></tuv>
+  <tuv xml:lang="ga"><seg>Táirgeann Sruth 1 áiteanna do chéimithe agus táirgeann Sruth 2 áiteanna do dhaoine dífhostaithe. Coinnítear roinnt de na háiteanna sin do dhaoine faoi bhun aois 34</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are an unemployed graduate, you can apply for place in either stream</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá céim agat, is féidir leat iarratas a dhéanamh ar an dá shruth</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Placements are allocated to a region according to the number of people on the Live Register in that region and are allocated on a ‘first come, first served’ basis - see ‘How to apply’ below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dáilfear socrúcháin ar gach réigiún de réir líon na ndaoine ar an mBeo-Chlár sa réigiún sin, agus de réir an phrionnsabail ‘tús freastail ar an duine is túisce’ - féach ‘Conas iarratas a dhéanamh’ thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To be eligible for Stream 1 of the Work Placement Programme you must:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun a bheith incháilithe do Shruth 1 an Chláir Socrúcháin Oibre:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Have been awarded a qualification at level 7 or higher on the National Framework of Qualifications</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Caithfear cáilíocht ag leibhéal 7 nó níos airde a bheith bronnta ort ar Chreatoibre Náisiúnta na gCáilíochtaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You do not have to be getting a social welfare payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní gá duit bheith ag fáil íocaíochta leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To be eligible for Stream 2 of the Work Placement Programme you must be unemployed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun a bheith incháilithe do Shruth 2 an Chláir Socrúcháin Oibre, caithfidh tú a bheith dífhostaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You do not have to be getting a social welfare payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní gá duit bheith ag fáil íocaíochta leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You do not have to be a graduate, but graduates can apply</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní gá céim a bheith agat, ach is féidir le céimithe bheith páirteach sa sruth seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Keeping your social welfare payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'íocaíocht leasa shóisialaigh a choimeád</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are getting a qualifying social welfare payment for at least 3 months, you may be able to keep your payment while on the Work Placement Programme, subject to the approval of the Department of Social Protection (DSP)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhaigheann tú íocaíocht leasa shóisialaigh incháilithe ar feadh 3 mhí ar a laghad, d'fhéadfadh d'íocaíocht leasa shóisialaigh a choimeád agus tú páirteach sa Chlár Socrúcháin Oibre, faoi réir faofa na Roinne Coimirce</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must notify the Department that you are starting a placement, as this changes your status</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh tú cur in iúl don Roinn go dtosaíonn tú socrúchán, mar athraítear do stádas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Arrangements have been made to allow participants on the Work Placement Programme to sign on by post if they are claiming jobseeker's payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rinneadh socruithe chun rannpháirtithe ar an gClár Socrúcháin Oibre a cheadú síniú tríd an gcóras poist má tá siad ag éileamh íocaíochtaí cuardaitheora poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As WPP is a voluntary work placement no payment from the employer is permitted</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar is socrúchán oibre deonach é CSO, níl aon íocaíocht ón bhfostóir ceadaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The qualifying payments are:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Siad na híocaíochtaí atá i gceist ná:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Widow's, Widower's or Surviving Civil Partner's Pension</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Pinsean Baintrí, Baintrí Fir nó Páirtnéara Shibhialta Mharthanaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are getting Disability Allowance, Blind Pension, Invalidity Pension or Illness Benefit you must apply to the Department of Social Protection for an exemption to start a placement on the Work Placement Programme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más Liúntas Míchumais, Pinsean na nDall, Pinsean Easláinte nó Sochar Breoiteachta atá agat, caithfidh tú díolúine a fháil ón Roinn Coimirce Sóisialaí sula ndéanann tú iarratas ar an gClár Socrúcháin Oibre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are on Illness Benefit you must be getting a social welfare payment for 6 months before you can apply for the programme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhaigheann tú Sochar Breoiteachta, caithfidh tú íocaíocht leasa shóisialaigh ar feadh 6 mhí a fháil sula bhféadann tú iarratas ar an gClár a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Leaving a placement to take up a job</seg></tuv>
+  <tuv xml:lang="ga"><seg>Socrúchán a fhágáil chun glacadh le post</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you get a job during the placement you are under no obligation to stay</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhaigheann tú post le linn socrúcháin, níl aon cheangal ort fanacht ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should give the placement provider and the Department one week's notice that you are leaving</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir duit fógra seachtaine a thabhairt do sholáthraí an tsocrúcháin agus don Roinn go bhfuil tú ag fágáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In addition, your provider may be able to employ you under the JobsPlus incentive directly from your placement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, is féidir le heagraíochtaí thú a d’fhostaigh faoin dreasacht Jobsplus díreach ó do shocrúcháin ó 1 Iúil 2013,</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must have been getting a qualifying payment prior to your placement and you must satisfy the required qualifying period and conditions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit íocaíocht incháilithe roimh an intéirneach a fháil agus caithfidh tú an tréimhse incháilithe agus coinníollacha riachtanacha a shásaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can read more in our document on JobsPlus</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léigh tuilleadh inár gcáipéis, JobsPlus</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Employers in the public, private and voluntary sectors are all eligible to participate in the Work Placement Programme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le fostóirí san earnáil phoiblí, san earnáil phríobháideach agus san earnáil dheonach páirt a ghlacadh sa Chlár Socrúcháin Oibre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The requirements for employers providing the work placements include:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad na riachtanais maidir le fostóirí a sholáthraíonn socrúcháin oibre ná:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• They must register with the DSP as a provider</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Caithfidh siad a bheith cláraithe leis an Roinn mar sholáthraí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The maximum number of placements for each employer is 10 or 10% of the workforce, whichever is the lower</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Is é uasmhéid na socrúchán do gach fostóir ná 10 nó 10% den lucht oibre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The placement must be for a minimum of 25 hours</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Caithfidh an socrúchán bheith ar feadh 25 uair sa tseachtain ar a laghad)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The placement offered must not be in an area of work where there is an existing vacancy</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní féidir leis an socrúchán teacht in áit folúntais reatha nó é a úsáid chun fostaí reatha a easáitiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In general, employers will be able to participate if they had no redundancies in the previous 3 months</seg></tuv>
+  <tuv xml:lang="ga"><seg>De ghnáth, is féidir fostóirí páirt a ghlacadh mura bhfuil aon iomarcaíocht sa 3 mhí anuas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, employers who have made people redundant in the last 3 months will still be able to participate if the number of redundancies in that period is less than 5% of the workforce</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áfach, is féidir fostóirí a rinne daoine iomarcach sa 3 mhí anuas páirt a ghlacadh, más an líon iomarcaíochta sa tréimhse sin níos lú ná 5% an lucht oibre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can read detailed eligibility criteria for employers here (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá mionsonraithe na riachtanas (pdf) ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Number of placements: The maximum number of placements that an employer can offer depends on the number of full-time employee as follows:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Líon socrúchán: Braitheann an t-uasmhéid socrúchán an féidir fostóir a thairiscint, ar an líon fostaithe lánaimseartha mar a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Number of full-time employees │Number of placements │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Líon fostaithe │Líon socrúchán │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Over 30 employees │10% of the workforce to a maximum of 25 places whichever is the smaller │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Níos mó ná 30 fostaí │10% an lucht oibre suas go huasmhéid 25 socrúchán, cibé acu is lú │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Work Placement Programme is closed to new applicants since 21 October 2016</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ansin is féidir leat iarratas a dhéanamh ar d’oifig seirbhísí fostaíochta áitiúil</seg></tuv>
+</tu>
+</body>
+</tmx>

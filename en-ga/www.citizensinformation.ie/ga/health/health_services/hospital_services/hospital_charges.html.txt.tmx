@@ -1,0 +1,205 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Charges for hospital services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Táillí i gcóir Seirbhísí Ospidéil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Everyone, regardless of nationality, who is accepted by the Health Service Executive (HSE) as being ordinarily resident in Ireland is entitled to access in-patient and out-patient services in publicly funded hospitals, that is, HSE hospitals and voluntary hospitals. Certain visitors to Ireland are also entitled to public health services, for example, people covered under EU Regulations</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gach duine, beag beann ar a náisiúntacht, a nglacann Feidhmeannacht na Seirbhíse Sláinte (FSS) leis go bhfuil gnáthchónaí orthu in Éirinn, tá siad i dteideal rochtain a fháil ar sheirbhísí othair chónaithigh agus ar sheirbhísí othair sheachtraigh in ospidéil a mhaoinítear go poiblí, is iad sin, ospidéil FSS agus ospidéil dheonacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are not resident in Ireland and you do not belong to any of the groups that are entitled to free services, you have to pay the full economic cost of the bed, whether it is a public bed or a private bed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil cónaí ort in Éirinn agus mura bhfuil tú i do bhall de cheann ar bith de na grúpaí atá i dteideal seirbhísí in aisce, tá ort lánchostas eacnamaíoch na leapa a íoc, cibé acu is leaba phoiblí nó leaba phríobháideach í</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You also have to pay the consultant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh ort táille an chomhairligh a íoc freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The HSE has the discretion to reduce or waive the charges in cases of hardship</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé faoi rogha Feidhmeannacht na Seirbhíse Sláinte na táillí a laghdú nó a tharscaoileadh ar fad, chun cruatan a sheachaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Charges for accident and emergency/casualty and out-patient services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Táillí ar sheirbhísí timpiste agus éigeandála/taismí agus othar seachtrach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you use accident and emergency services without being referred there by a GP, there is a charge of €100</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má úsáideann tú seirbhísí timpiste agus éigeandála gan bheith atreoraithe ann ag do dhochtúir teaghlaigh (LG), beidh táille €100 le híoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is no charge if you are referred by a GP (bring your referral letter with you) or for certain groups listed below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bheidh aon táille má atreoraíonn do LG thú ann, nó i gcás grúpaí áirithe a liostaítear thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The charge applies to the following public facilities:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann an táille leis na háiseanna poiblí a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Accident and emergency departments</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Rannóga timpiste agus éigeandála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Any other facility providing similar services</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Aon áis eile a chuireann a leithéid sin de sheirbhísí ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The charge of €100 does not apply to the following groups:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhaineann an táille €100 leis na grupaí a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• People who are admitted to hospital as an in-patient as a result of attending the casualty department (you will then be subject to in-patient charges)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Daoine a choinnítear san ospidéal tar éis dóibh dul chuig an rannóg taisme (b'fhéidir go mbeadh táillí mar othar cónáitheach le n-íoc ansin agat)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• People receiving treatment for prescribed infectious diseases</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Daoine atá ag fáil cóir leighis do ghalair thógálacha sonraithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Children up to 6 weeks of age • Children, in respect of the following diseases and disabilities: “mental handicap, mental illness, phenylketonuria, cystic fibrosis, spina bifida, hydrocephalus, haemophilia and cerebral palsy”</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Páistí suas go dtí sé sheachtain d'aois, páistí a bhfuil galair agus míchumas sonraithe orthu agus páistí a chuirtear ann iad ó chlinicí sláinte leanaí agus scrúduithe sláinte scoile le cóir leighis a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• People who are entitled to hospital services because of EU Regulations</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Daoine atá i dteideal seirbhísí ospidéil de bharr rialachán an AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Women receiving maternity services</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Mná atá ag fáil seirbhísí máithreachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• People with Hepatitis C who have a Health Amendment Act Card</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Daoine a bhfuil Heipitíteas C orthu nó daoine a bhfuil Cárta an Achta um Shláinte Leasaithe acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have to return for further visits to an out-patient clinic in relation to the same illness or accident, you should not have to pay the charge again</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhíonn ort filleadh le haghaidh cuairteanna breise a mbaineann leis an ngalar nó timpiste céanna, ní chaithfidh tú an táille a íoc arís</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can be referred by your family doctor to the out-patients department of a public hospital for specialist assessment by a consultant or his or her team or for diagnostic assessments (for example, x-rays, laboratory tests, physiotherapy)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le liachomhairleoir nó a fhoireann tú a sheoladh chuig rannóg na n-othar seachtrach in ospidéal poiblí i gcóir sainmheasúnuithe, nó i gcóir measúnuithe diagnóiseach (m.sh., x-ghathanna, tástálacha saotharlainne, Fisiteiripe, srl.)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you attend this service as a public patient, you will not have to pay for this service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhreastalaíonn tú ar an tseirbhís seo mar othar poiblí, ní chaithfidh tú íoc as</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you wish to attend a consultant in a private capacity, you must pay their fee</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mian leat dul chuig an liachomhairleoir mar othar príobháideach, caithfidh tú an táille chuí a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Public in-patients in public hospitals</seg></tuv>
+  <tuv xml:lang="ga"><seg>Táillí mar othar cónaitheach in ospidéil phríobháideacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are a public patient in a public hospital under the care of a consultant for treatment and you remain overnight, you are receiving overnight in-patient services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más i mbarda poiblí thú faoi chúram liachomhairleora i gcóir cóireála agus go gcaitheann tú an oíche ann, tá tú ag fáil seirbhísí mar othar cónaitheach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are admitted to the hospital under the care of a consultant where you do not require the use of a bed overnight and your discharge from hospital is planned, you are receiving day in-patient services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má ligtear isteach san ospidéal thú faoi chúram an liachomhairleora, áit nach bhfuil úsáid leapa ag teastáil uait thar oíche agus go bhfuil sé i gceist tú a scaoileadh, tá seirbhísí lae ar fáil agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>From 1 January 2017, the statutory charge for overnight and day in-patient services is €80 per day up to a maximum of €800 in any 12 consecutive months</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cosnaíonn seirbhísí lae/othar cónaitheach €75 sa lá agus suas le uasmhéid €750 in aghaidh na bliana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The charge does not apply to the following groups:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhaineann an táille leis na grupaí a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• People receiving treatment for prescribed infectious diseases</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Daoine atá ag fáil cóireála i gcóir galar ionghabhtaíoch ar leith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Children up to 6 weeks of age</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Daoine a gcaithfeadh táillí "fadthéarmacha" a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Children with the following diseases and disabilities: "mental handicap, mental illness, phenylketonuria, cystic fibrosis, spina bifida, hydrocephalus, haemophilia and cerebral palsy" • Children referred for treatment from child health clinics and school board examinations</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Páistí suas go dtí sé sheachtain d'aois, páistí a bhfuil galair agus míchumas sonraithe orthu agus páistí a chuirtear ann iad ó chlinicí sláinte leanaí agus scrúduithe sláinte scoile le cóir leighis a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• People who are entitled to hospital services because of EU Regulations</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Daoine atá i dteideal seirbhísí ospidéil de bharr rialachán an AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Women receiving maternity services</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Mná atá ag fáil seirbhísí máithreachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Private in-patients in public hospitals</seg></tuv>
+  <tuv xml:lang="ga"><seg>Othair chónaitheacha phríobháideacha in ospidéil phoiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you choose to be treated as a private patient of a consultant when you are admitted to a public hospital, you are charged for the inpatient services according to the category of the hospital and (for an overnight stay) according to the type of room you are in</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má roghnaíonn tú chun cóireáil a fháil mar othar príobháideach de chuid comhairligh ar do ligean isteach in ospidéal poiblí, de réir chatagóir an ospidéil agus (i gcás fanacht thar oíche) agus de réir an chineáil seomra a úsáideann tú a ghearrtar táille ort i leith na seirbhísí othair chónaithigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Rates from January 2014 are:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad seo a leanas na rátaí atá i bhfeidhm ó mhí Eanáir 2014:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Hospital Category Single-occupancy room overnight Multiple-occupancy room overnight Day-case</seg></tuv>
+  <tuv xml:lang="ga"><seg>Catagóir Ospidéil Seomra aonáitíochta thar oíche Seomra iláitíochta thar oíche Cás lae</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Fifth schedule hospitals €1,000 €813 €407</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ospidéal sa chúigiú sceideal €1,000 €813 €407</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Sixth schedule hospitals €800 €659 €329</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ospidéal sa séú sceideal €800 €659 €329</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The hospitals in each category are listed in the Health (Amendment) Act 2013 with four changes subsequently made by Statutory Instrument No.75 of 2014 (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá na hospidéil i ngach catagóir liostaithe san Acht Sláinte (Leasú) 2013. Rinneadh ceithre athrú ar an liosta sin le hIonstraim Reachtúil Uimh. 75 de 2014 (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Act provides that public hospitals must levy the private in-patient charge on all in-patients who opt to be treated privately by their consultant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Foráiltear leis an Acht nach mór d’ospidéil phoiblí an táille d’othair chónaitheacha phríobháideacha a ghearradh ar gach othar cónaitheach a roghnaíonn chun cóireáil phríobháideach a fháil óna gcomhairleach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are a private patient, you must pay for the services of the consultant who is treating you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar othar príobháideach de chuid an liachomhairleora a bhfuil cúram aige ort, caithfidh tú íoc as seirbhísí an liachomhairleora úd</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must also pay for the services of any other consultant who is involved in caring for you (for example, the radiation oncologist or anaesthetist)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin caithfidh tú íoc as seirbhísí aon liachomhairleora eile atá i bhfeighil ort (m.sh., an raideolaí, an t-anaestéisí, etc.)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You have the same entitlement to public health services for mental illness as for any other illness</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an teidlíocht chéanna agat do sheirbhísí sláinte poiblí i gcomhair meabhairghalar le haon tinneas eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must pay for maintenance and treatment in private psychiatric hospitals</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit íoc as cothabháil agus cóireáil in ospidéil shíciatracha phríobháideacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Health insurance companies sometimes treat psychiatric hospital costs differently from general hospital costs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Amanna láimhseálann cuideachtaí árachais sláinte costais ospidéil síciatracha ar bhealach difriúil ó chostais ospidéil ghinearálta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The same rules apply to long-term institutional care for psychiatric patients as to long-term institutional care for other patients</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann na rialacha céanna le cúram institiúideach fadtéarmach d’othair shíciatracha is a bhaineann le cúram institiúideach fadtéarmach d’othair eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Mental health in-patient and out-patient services are provided free of charge to children aged under 16 years who have a mental illness</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirtear seirbhísí sláinte intinne d’othair chónaitheacha agus d’othair sheachtracha ar fáil saor in aisce do leanaí atá faoi 16 bliana d’aois a bhfuil meabhairghalar orthu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have been in hospital, but not receiving acute in-patient care, for more than 30 days, you may be charged Long-Stay Contributions for Residential Support Services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú san ospidéal ar feadh breis is 30 lá agus go ndearbhaíonn dochtúir nach bhfuil gá agat le cúram agus cóireáil ghéarmhíochaine, is féidir táillí a ghearradh ort amhail is go raibh tú ag fáil seirbhísí cúraim cónaitheacha fadtéarmacha</seg></tuv>
+</tu>
+</body>
+</tmx>

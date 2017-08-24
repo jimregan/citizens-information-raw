@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>If you are taking care of an orphan you may get a social welfare payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir íocaíocht chaomhnóra a dhéanamh le duine a thugann cúram do dhílleachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is not necessary to be a legally appointed guardian</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní gá duit a bheith ceaptha go dlíthiúil mar chaomhnóir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may get such a payment if the orphan lives with you and you are responsible for his or her care</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabharfar an íocaíocht chaomhnóra duit má chónaíonn an dílleachta leat agus más tusa atá freagrach as breathnú ina d(h)iaidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The payment must benefit the orphan</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní foláir nó go rachaidh an íocaíocht chun tairbhe an dílleachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If an orphan is attending a full-time education course, is aged between 18 and 22 years of age and is not living with or in the care of a guardian, the payment can be paid directly to the orphan</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is leis an dílleachta féin a dhéanfar an íocaíocht más rud é go bhfuil sé nó sí ag freastal ar chúrsa lánaimseartha oideachais, go bhfuil sé nó sí idir 18 agus 22 bliana d'aois, agus nach bhfuil cónaí air nó uirthi leis an gcaomhnóir nó faoina c(h)úram</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The payment can be contributory (based on PRSI payments paid by the parent) or non-contributory (based on a means-test)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh an íocaíocht seo a bheith ranníocach agus bunaithe ar na híocaíochtaí ÁSPC a rinne an tuismitheoir, nó féadfaidh siad a bheidh neamh-ranníocach agus ag braith ar thástáil acmhainne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can claim only one of the following:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leat ach ceann amháin díobh seo a leanas a éileamh:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Guardian's Payment (Contributory) previously called Orphan's (Contributory) Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Íocaíocht Chaomhnóra (Ranníocach) ar a dtugtaí Liúntas Dílleachta (Ranníocach) roimhe seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Guardian's Payment (Non-Contributory) previously called Orphan's (Non-Contributory) Pension</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Íocaíocht Chaomhnóra (Neamh-Ranníocach) ar a dtugtaí Liúntas Dílleachta (Neamh-Ranníocach) roimhe seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Death Benefit/Orphan's Pension awarded under the Occupational Injuries Scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sochar Dílleachta faoi Scéim na Sochar Gortuithe Ceirde</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You cannot get one of these payments and a Foster Care Allowance together</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leat íocaíocht chaomhnóra agus liúntas cúraim altrama a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A child is regarded as an orphan if:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Glactar leis go bhfuil leanbh ina dhílleachta:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• They are under 18 (or 22 if in full-time education)  and</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má tá sé nó sí faoi bhun 18 (nó faoi 22 má tá sé nó sí i mbun oideachas lánaimseartha)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Both parents are dead, or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tá an bheirt thuismitheoirí marbh, nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• One parent is either dead or unknown or has abandoned and failed to provide for the child, and</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tá tuismitheoir amháin marbh nó ní fios cá bhfuil sé/sí nó tá an leanbh tréigthe aige/aici nó teipthe orthu soláthar a dhéanamh don leanbh, agus</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The other parent is unknown or has abandoned and failed to provide for the child</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní fios cé hé/hí an tuismitheoir eile nó tá an leanbh tréigthe aige/aici nó teipthe orthu soláthar a dhéanamh don leanbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If either parent or step-parent had worked at any time and paid PRSI for 26 weeks, the orphan is entitled to the Guardian's Payment (Contributory)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an dílleachta i dteideal Íocaíocht Chaomhnóra (Ranníocach) a fháil má d'oibrigh ceachtar dá t(h)uismitheoir uair ar bith agus má tá ranníocaíochtaí ÁSPC déanta aige nó aici ar feadh 26 seachtaine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This may be paid for an orphan living in the State or abroad and is not means tested</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir é seo a íoc le dílleachta atá ina c(h)ónaí sa stát nó thar lear agus níl aon tástáil acmhainne i gceist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Payment is made to the orphan's guardian up to the child's 18th birthday or 22nd birthday if they are in full-time education</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is leis an gcaomhnóir a dhéantar an íocaíocht go dtí go mbíonn 18 bliana slán ag an leanbh nó go dtí a 22ú breithlá má tá sé nó sí ar chúrsa oideachais lán aimseartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is a non-contributory payment for orphans who are not entitled to the contributory payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is íocaíocht neamh-ranníocach é seo do leanaí nach bhfuil i dteideal íocaíocht ranníocach a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The means test for this is based on the orphan's means</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is í acmhainn an linbh a thástáltar don íocaíocht seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Payment is made to their guardian up to the orphan's 18th birthday or 22nd birthday if they are in full-time education</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is leis an gcaomhnóir a dhéantar an íocaíocht go dtí go mbíonn 18 bliana slán ag an leanbh nó go dtí a 22ú breithlá má tá sé nó sí ar chúrsa oideachais lán aimseartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must be 'habitually resident' in Ireland to qualify for Guardian's Payment (Non-Contributory). Find out more about habitual residence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó 1 Bealtaine 2004 i leith ní mór go mbeidh "gnáth-chónaí" ort in Éirinn d'fhonn cáiliú d'Íocaíocht Chaomhnóra (Neamh-Ranníocach) Faigh amach tuilleadh faoi ghnáth-chónaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>EU citizens who are employed or self-employed in Ireland will satisfy the habitual residence criteria to qualify for Guardian's Payment (Non-Contributory) under EU Regulations</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó 5 Bealtaine 2005 sásóidh saoránaigh de chuid an AE atá fostaithe nó féinfhostaithe in Éirinn critéir an ghnáth-chónaithe chun cáiliú don Íocaíocht Chaomhnóra (Neamh-Ranníocach)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Death Benefit/Orphan's Pension awarded under the Occupational Injuries Benefit Scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Pinsean Dílleachta faoi Scéim na Sochar Gortuithe Ceirde</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the Occupational Injuries Scheme, a slightly higher pension may be payable to the guardian of an orphan if the parent, step-parent or person who was supporting the orphaned child or children:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir pinsean dílleachtaí beagán níos airde a íoc faoi Scéim na Sochar Gortuithe Ceirde más rud é:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Died as a result of an accident at work</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Go bhfuair an tuismitheoir, an leasthuismitheoir nó an duine atá ag cothú an linbh nó na leanaí bás de thoradh gortaithe ag obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Died as a result of an occupational disease</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Nó de thoradh galair cheirde</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Was getting Disablement Pension assessed at 50% or more at the time of their death</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Go raibh sé nó sí ag fáil Pinsin Mhíchumais ar measadh é a bheith de 50% nó níos mó ag am a b(h)áis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This payment is not means tested and there are no specific PRSI requirements (as long as at least one week of PRSI has been paid)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon tástáil acmhainne i gceist maidir leis an sochar seo, agus níl aon riachtanas ann maidir le híocaíochtaí ÁSPC chomh fada is a rinneadh íocaíocht seachtaine amháin ÁSPC</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>From 17 March 2017, the Guardian's Payment (Contributory) is paid at a standard rate of €176 per week (previously €161 per week) and the maximum Guardian's Payment (Non-Contributory) is €176 per week (previously €161 per week)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é €176 (ó 17 Márta 2017) in aghaidh na seachtaine an Íocaíocht Chaomhnóra (Ranníocach)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the orphan’s weekly means are more than €7.60 the Guardian's Payment (Non-Contributory) is reduced by €2.50 for each €2.50 assessed (that is, for each €2.50 or part of €2.50 of means over the amount of €7.60). See SW19 for a table of how an orphan’s means affect a Guardian’s Payment (Non-Contributory)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é €176 (ó 17 Márta 2017) in aghaidh na seachtaine an Íocaíocht Chaomhnóra (Neamh-Ranníocach) freisin ach ní mór tástáil acmhainne a dhéanamh le féachaint an bhfaighidh tú an méid iomlán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Death Benefit/Orphan's Pension payable under the Occupation Injuries Scheme is €179.80 from March 2017 (previously €164.80)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó Márta 2017 i leith is é €179.80 an pinsean dílleachta atá iníoctha faoin Scéim um Shochar Gortuithe Ceirde</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Guardian's Payment (Contributory) and Guardian's Payment (Non-Contributory)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íoslódáil agus comhlánaigh an fhoirm iarratais GP1(pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To apply, fill in Form GP1 (pdf). You can also get an application form at every Post Office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú foirm iarratais a fháil freisin i ngach oifig poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Department of Social Protection</seg></tuv>
+  <tuv xml:lang="ga"><seg>Department of Social Protection</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can email the Guardian's Payment section using the secure enquiry form.   For Death Benefit/Orphan's Pension:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat ríomhphost don Rannóg íocaíocht chaomhnóra a sheoladh tríd an fhoirm fhiosraithe a úsáid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you wish to talk to someone face-to-face about your entitlements, you can visit your local Citizens Information Centre, Intreo Centre or Social Welfare Branch Office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mian leat labhairt duine-le-duine faoi do theidlíochtaí, is féidir leat cuairt a thabhairt ar d'ionad Faisnéise do Shaoránaigh áitiúil, oifig leasa shóisialaigh áitiúil nó ionad Intreo</seg></tuv>
+</tu>
+</body>
+</tmx>

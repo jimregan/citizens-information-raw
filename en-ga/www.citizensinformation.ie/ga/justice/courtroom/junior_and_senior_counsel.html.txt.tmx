@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Junior and senior counsel</seg></tuv>
+  <tuv xml:lang="ga"><seg>Abhcóidí sóisir agus sinsir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When barristers are first "called to the Bar", they act as junior counsel</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a ghlaoitear abhcóidí chun an Bharra feidhmíonn siad mar abhcóidí sóisir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A junior counsel may have the letters BL after his/her name, which stand for "Barrister at Law"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir go mbeadh BL, a chiallaíonn "Barrister at Law", i ndiaidh a ainm/a hainm ag abhcóide sóisir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Junior counsel tend to do most of the paperwork in cases (drafting legal documents) and they represent clients mainly in the lower courts (the District Court and the Circuit Court)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann na habhcóidí an chuid is mó den pháipéarachas a dhéanamh i gcásanna (doiciméid dhlithiúla a dhréachtú ) agus feidhmíonn siad ar son cliant sna cúirteanna íochtaracha (an Chúirt Dúiche agus an Chúirt Chuarda)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>After about 10 to 15 years of practising as a junior counsel, a barrister may decide to become a senior counsel</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tar éis 10 go dtí 15 bliana a chaitheamh ag feidhmiú mar abhcóidí sóisir, d'fhéadfadh abhcóide a shocrú ar bheith ina abhcóide sinsir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is sometimes called "taking silk" because the senior counsel's gown was traditionally made of silk</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirtear "ag glacadh síoda" air seo uaireanta, óir go traidisiúnta bhí róba an abhcóide shinsir déanta as síoda</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A senior counsel may have the letters SC after his/her name</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir go mbeadh SC in ndiaidh a ainm/a hainm ag abhcóide sinsir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Senior counsel are very experienced advocates who represent clients in the High Court and the Supreme Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Abhcóidí a bhfuil an-chuid taithí acu is ea iad abhcóidí sinsir, a fheidhmíonn ar son cliant san Ard Chúirt agus sa Chúirt Uachtarach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Usually, if a senior counsel is involved in a case, there will also be a junior counsel to assist</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go hiondúil má tá abhcóide sinsir ag glacadh páirte i gcás, beidh abhcóide sóisir i láthair le cabhrú leis/léi</seg></tuv>
+</tu>
+</body>
+</tmx>

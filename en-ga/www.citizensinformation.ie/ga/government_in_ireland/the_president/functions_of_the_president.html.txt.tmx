@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>The President is the Head of State, although they play a mainly ceremonial role in the running of the State</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é/í an tUachtarán Ceann an Stáit, cé gur ról deasghnách den chuid is mó atá aige/aici i dtaobh riaradh an Stáit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The current President of Ireland is Michael D</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is í Mícheál D. Ó hUiginn Uachtarán na hÉireann faoi láthair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Higgins, who commenced his first term on 11 November 2011</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chuir sé tús lena chéad téarma mar Uachtarán ar 11 Samhain 2011</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Government must approve all Presidential communications, messages or addresses, both to the Oireachtas and to the public</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don Rialtas gach cumarsáid, teachtaireacht nó aitheasc ón Uachtarán chuig dá theach an Oireachtais agus chuig an bpobal a cheadú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Many of the powers of the President can only be exercised on the advice of the Government</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ar chomhairle an Rialtais amháin is cead don Uachtarán cuid mhaith dá c(h)umhachtaí a chomhlíonadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that if the President wishes to exercise a power, they must first obtain the advice and agreement of the Government</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin más mian leis an Uachtarán cumhacht a chomhlíonadh ní mór dó/di comhairle agus comhaontú an Rialtais a fháil ar dtús</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The President also possesses some powers that they cannot exercise without first consulting with the Council of State</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá cumhachtaí ag an Uachtarán nach féidir leis/léi a chomhlíonadh gan dul i gcomhairle roimh ré leis an gComhairle Stáit</seg></tuv>
+</tu>
+</body>
+</tmx>

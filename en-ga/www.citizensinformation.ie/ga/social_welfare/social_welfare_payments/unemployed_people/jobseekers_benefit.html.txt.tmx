@@ -1,0 +1,565 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>• How to apply • Where to apply</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Conas iarratas a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Jobseeker's Benefit is a weekly payment from the Department of Social Protection (DSP) to people who are out of work and are covered by social insurance (PRSI)</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'athraigh ainm na híocaíochta i 2006. Mura gcáilíonn tú le haghaidh Sochair Chuardaitheora Poist, d'fhéadfá le haghaidh Liúntas Cuardaitheora Poist a cháiliú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you don't qualify for Jobseeker's Benefit you may qualify for Jobseeker's Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir an Réríomhán Tairbhe Oibre nua ón Roinn Coimirce Sóisialaí a úsáid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Intreo - the integrated employment and support service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Intreo – an tseirbhís fhostaíochta agus tacaíochta comhtháite</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Intreo is a service from the Department of Social Protection which provides a single point of contact for all employment and income supports</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seirbhís nua ón Roinn Coimirce Sóisialaí is ea Intreo a soláthróidh pointe teagmhála aonair le haghaidh iomlán tacaíochtaí fostaíochta ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Details of Intreo locations are published on welfare.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>Foilseoidh sonraí de na láithreacha nua ar welfare.ie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To qualify for Jobseeker's Benefit you must be aged under 66 and:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun a bheith i dteideal Sochar Cuardaitheora Poist ní mór duit a bheith faoi aois a 66 agus:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Be unemployed (you must be fully unemployed or unemployed for at least 4 days out of 7)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• A bheith dífhostaithe, (caithfidh tú bheith as obair ar feadh 4 lá ar a laghad as 7 lá leanúnach oibre)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Have had a substantial loss of employment and as a result be unemployed for at least 4 days out of 7</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Do fhostaíocht a bheith caillte agat agus a bheith as obair ar feadh 4 lá ar a laghad as 7 lá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Be capable of work</seg></tuv>
+  <tuv xml:lang="ga"><seg>• A bheith ábalta obair a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Be available for and genuinely seeking work</seg></tuv>
+  <tuv xml:lang="ga"><seg>• A bheith ag cuartú oibre agus a bheith ar fáil chun obair a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Have enough social insurance (PRSI) contributions</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Do dhóthain ranníocaíochtaí ÁSPC a bheith déanta agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can read more about the conditions for getting a jobseeker's payment and about the employment services the Department of Social Protection offers to jobseekers. There are some exceptions to the rules for pregnant women around the time of birth</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat tuilleadh a léamh faoi na coinníollacha d’íocaíocht cuardaitheora poist a fháil agus faoi na seirbhísí fostaíochta a chuireann an Roinn Coimirce Sóisialaí ar fáil do chuardaitheoirí poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Jobseeker's Benefit and work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Obair agus Sochar Cuardaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To get Jobseeker's Benefit you must be unemployed or have lost at least one day's employment and as a result be unemployed for at least 4 days out of 7 days</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun a bheith i dteideal Sochar Cuardaitheora Poist ní mór duit bheith dífhostaithe nó lá fostaíochta amháin a bheith caillte agat agus a bheith as obair ar feadh 4 lá ar a laghad as 7 lá leanúnach oibre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may continue to get Jobseeker's Benefit if you can only find part-time or casual work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh eolais faoi obair agus Sochar Cuardaitheora Poist ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where a Jobseeker's Benefit recipient is working for part of a week, their entitlement will be based on a 5-day payment week</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás go bhfuil faighteoir an tSochair Chuardaitheora Poist ag oibriú ar feadh cuid den tseachtain, bunaítear a dteidlíocht ar sheachtain íocaíochta 5 lá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that for each day that a person is employed, 1/5th of the normal rate of Jobseeker's Benefit is deducted</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn seo go n-asbhaintear 1/5 den ghnáthráta den Sochar Cuardaitheora Poist ar feadh gach lá a bhíonn an duine sin fostaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If they get part-time work for 2 days, they will get 3/5ths of the normal Jobseeker's Benefit for that week and if they get part-time work for 3 days they will get 2/5ths of the normal rate of Jobseeker’s Benefit for the week</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhaigheann siad obair pháirtaimseartha ar feadh 2 lá, gheobhaidh siad 3/5 den ghnáthShochar Cuardaitheora Poist don tseachtain sin agus má fhaigheann siad obair pháirtaimseartha do 3 lá, gheobhaidh siad 2/5 den ghnáthráta den Sochar Cuardaitheora Poist don tseachtain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must still be unemployed for at least 4 days out of 7 to claim Jobseeker's Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit bheith dífhostaithe go fóill ar feadh 4 lá as 7 lá chun Sochar Cuardaitheora Poist a éileamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can read FAQS about these changes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú Ceisteanna Coitianta faoi na hathruithe seo a léamh anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is an exemption from some of the rules for retained firefighters</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá díolúine ó roinnt de na rialacha ar fáil do chomhraiceoirí dóiteáin coinnithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>More information is available about work and Jobseeker’s Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá fáil ar thuilleadh faisnéise faoi Obair agus an Sochar Cuardaitheora Poist anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must have suffered a substantial loss of employment in any period of 7 consecutive days to be eligible for Jobseeker's Benefit (casual workers and retained firefighters with no other employment are exempt from this rule)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór gur chaill tú méid suntasach fostaíochta in aon tréimhse 7 lá as a chéile chun bheith incháilithe do Shochar Cuardaitheora Poist (tá oibrithe ócáideacha agus comhraiceoirí dóiteáin coinnithe nach bhfuil aon phost eile acu díolmhaithe ón riail sin)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that you must have lost at least one day's employment and as a result of this loss be unemployed for at least 4 days out of 7</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn sé sin nach mór gur chaill tú fostaíocht aon lae amháin agus, mar thoradh ar an gcaillteanas sin, go mbeidh tú dífhostaithe ar feadh ceithre lá ar a laghad as gach seacht lá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your earnings must also have been reduced because of the loss of employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór gur tháinig laghdú ar do thuilleamh freisin mar thoradh ar an gcaillteanas fostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Social insurance (PRSI) contributions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ranníocaíochtaí árachais shóisialaigh (ÁSPC)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To qualify for Jobseeker's Benefit, you must pay Class A, H or P PRSI contributions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun a bheith i dteideal Sochar Cuardaitheora Poist ní mór duit ranníocaíochtaí rannóg A, H, nó P de ÁSPC a bheith íoctha agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Class A is the one paid by most private sector employees</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocann for mhór d'fostaithe sa rannóg phríomháideach ranníocaíochtaí isteach i rannóg A</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Class H is paid by soldiers, reservists and temporary army nurses, who do not qualify for Jobseeker's Benefit until they have left the army</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocann saighdiúirí, cúltacaí, agus banaltraí sealadach an airm, nach bhfuil i dteideal Sochar Cuardaitheora Poist go bhfágann siad an tarm, ranníocaíochtaí isteach i rannóg H</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• At least 104 weeks PRSI paid since you first started work  And</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tá ort 104 seachtain de ranníocaíochtaí a bheith íoctha agat ó thosaigh tú ag obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• 39 weeks PRSI paid or credited in the relevant tax year (a minimum of 13 weeks must be paid contributions*)  Or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tá ort 39 ranníocaíochtaí a bheith íoctha agat nó a bheith creidiúnaithe duit sa bhliain cánach ábhartha (tá ort 13 den 39 ranníocaíochtaí ar a laghad a bheith agat*)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• 26 weeks PRSI paid in the relevant tax year and 26 weeks PRSI paid in the tax year immediately before the relevant tax year</seg></tuv>
+  <tuv xml:lang="ga"><seg>• 26 ranníocaíochtaí a bheith íoctha agat sa bhliain cánach ábhartha agus 26 ranníocaíochtaí a bheith íoctha sa bhliain roimh an bhliain cánach ábhartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>*If you do not have 13 paid contributions in the relevant tax year, you must have paid 13 contributions in any of the following years:</seg></tuv>
+  <tuv xml:lang="ga"><seg>* Mura mbíonn ort 13 ranníocaíocht a bheith íoctha agat sa bhliain chánach ábhartha tá ort na 13 ranníocaíocht a bheith íoctha agat in aon bhliain de na blianta seo leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The 2 tax years before the relevant tax year</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An dá bhliain chánach deireanach roimh an mbliain cánach iomchuí,</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The last complete tax year</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An bhliain chánach iomlán deireanach,</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The current tax year</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An bhliain chánach reatha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The relevant tax year is the second last complete tax year before the year in which your claim is made. So, for claims made in 2017, the relevant tax year is 2015</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is í an bhliain cánach ábhartha an dara bhliain dheireanach cánach roimh tús na bliana sochar, m.sh., i gcás éilimh a rinneadh i 2017, is é 2015 an Bhliain Chánach Ábhartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are a number of circumstances in which you can be awarded credited contributions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá roinnt cásanna ann go dtabharfar ranníocaíochtaí creidiúnaithe duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, pre-entry credits are given when you start employment for the first time in your working life</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, faigheann tú roinnt creidiúintí réamhiontráil nuair a thosnaíonn tú i bhfostaíocht don chéad uair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, you can only qualify for Jobseeker's Benefit when you have actually paid 104 contributions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn sé seo go bhfuil tú i dteideal Sochar Cuardaitheora Poist chomh luath agus atá 104 ranníocaíochtaí déanta agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Credits are also awarded while you are getting certain social welfare payments, including Jobseeker's Benefit (provided it is for 6 days), Illness Benefit and, in some cases, Jobseeker's Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar ranníocaíochtaí creidiúnaithe duit nuair a bhíonn tú ag tarraingt cinéalacha áirithe leasa shóisialaigh mar shampla, Sochar Cuardaitheora Poist (más do sé lá é), Líuntas Cuardaitheora Poist nó Sochar Breoiteachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Contributions you have paid in other member states of the EU/EEA will be added to your Irish contributions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tógtar san áireamh ranníocaíochtaí atá déanta agat in aon cheann de stáit an AE/LEE chomh maith leo siúd atá déanta in Éirinn agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are applying for Jobseeker's Benefit and need the contributions paid in another EU/EEA country to help you qualify, then your last contribution must have been in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má theastaíonn uait iarratas a dhéanamh ar Sochar Cuardaitheora Poist in Éirinn caithfidh na ranníocaíochtaí deireanacha bheith déanta in Éirinn agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the Social Welfare (Consolidation) Act 2005 employers are obliged to register all employees for PRSI</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoin Acht Leasa Shóisialaigh (Comhdhlúthú) 2005, tá dualgas ar an bhfostóir gach fostaí a chlárú do ÁSPC</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read more in our document on your Employer's duty to pay social insurance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léigh tuilleadh inár gcáipéis ar Dhualgas an fhostóra árachas sóisialta a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may be disqualified from getting Jobseeker's Benefit for 9 weeks if you:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh cosc curtha ort Sochar Cuardaitheora Poist a tharraingt go ceann 9 seachtaine má:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Left work voluntarily and without a reasonable cause</seg></tuv>
+  <tuv xml:lang="ga"><seg>• D'fhág tú an post go deonach agus gan cúis mhaith agat sin a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Lost your job through misconduct</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Chaill tú an post toisc do mí-iompar féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Refused an offer of suitable alternative employment or suitable training - if you have been on a penalty rate of JB for at least 21 days</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Dhiúltaigh tú deis oiriúnach eile fostaíochta nó traenála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Are aged under 55 and get a redundancy payment of more than €50,000</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tá tú faoi aois 55 agus gur bhfuair tú íocaíocht iomarcaíochta níos mó ná luach €50,000</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The exact length of your disqualification (up to 9 weeks) will depend on the amount of redundancy payment you received</seg></tuv>
+  <tuv xml:lang="ga"><seg>Brathfidh an fhad a bheidh tú gan Sochar Cuardaitheora Poist (suas go 9 seachtainí) go díreach ar an méid íocaíocht scoir a fuair tú ag fágáil an phoist duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are aged under 55 and get a redundancy payment of more than €50,000 you are disqualified from claiming Jobseeker's Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar aghaidh, má tá tú faoi bhun 55 agus má fhaigheann tú íocaíocht iomarcaíochta atá os cionn €50,000 dícháileofar tú ó Sochar Cuardaitheora Poist a éileamh ar feadh na tréimhsí ama seo a leanas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The table below shows how long you may be disqualified for</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léiríonn an tábla thíos cé chomh fada a d’fhéadfá bheith dícháilithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The length of the disqualification is at the discretion of the deciding officer (who can take your circumstances into account)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cé gurb éigeantach dícháiliú a ghearradh, is faoi rogha an oifigigh chinntithigh an fad a mhairfidh an dícháiliú (ar féidir leis/léi do chúinsí a chur san áireamh)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Any period of disqualification is subtracted from your total Jobseeker's Benefit entitlement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart duit a thabhairt faoi deara go mbaintear aon tréimhse dhícháilithe ó do theidlíocht iomlán i leith Sochar Cuardaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>So if you are disqualified for 3 weeks (which is 18 days payment) your JB claim starts on day 19. Note that people who take voluntary redundancy and do not get a redundancy payment of over €50,000 can claim jobseeker's payments immediately</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin, má bhíonn tú dícháilithe ar feadh 3 seachtaine (arb ionann seo agus íocaíocht 18 lá), tosóidh d’éileamh ar SCP ar lá 19</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Amount of redundancy payment │Period of disqualification │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Méid na hÍocaíochta Iomarcaíochta │Tréimhse Dhícháilithe │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│€90,000.01 and over │9 weeks │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│€90,000.01 agus os a chionn │9 Seachtaine │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Duration of Jobseeker's Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fad an tSochair Chuardaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Jobseeker's Benefit is paid for 9 months (234 days) for people with 260 or more PRSI contributions paid</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhí níos lú ná 260 ranníocaíocht íoctha agat, d’fhéadfaí Sochar Cuardaitheora Poist a íoc leat ar feadh 9 mí (234 lá) ar a mhéid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is paid for 6 months (156 days) for people with fewer than 260 PRSI contributions paid</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú faoi bhun 18 mbliana d’aois, ní bhfaighfeá Sochar Cuardaitheora Poist ach ar feadh 6 mhí (156 lá) ar a mhéid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are some special provisions for older jobseekers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ann do roinnt forálacha speisialta do chuardaitheoirí poist scothaosta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>People over 65 who are claiming Jobseeker’s Benefit (JB), and who have at least 156 PRSI contributions, can continue to receive JB until their 66th birthday even if their claim is due to end before that date</seg></tuv>
+  <tuv xml:lang="ga"><seg>Daoine atá os cionn 65 bliain d’aois, atá ag éileamh Sochar Cuardaitheora Poist agus a bhfuil 156 ranníocaíocht ÁSPC ar a laghad déanta acu, is féidir leo leanúint le Sochar Cuardaitheora Poist a fháil go dtí go mbainfidh siad 66 bliain amach, fiú amháin i gcásanna ina bhfuil a n-éileamh le dul in éag roimh an dáta sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For new JB claimants from 4 April 2013</seg></tuv>
+  <tuv xml:lang="ga"><seg>Eilitheoirí nua ón 4 Aibreán 2013 ar aghaidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Number of contributions │Duration of JB claim │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Líon na ranníocaíochtaí │Fad an éilimh ar SCP │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│260 or more │234 days (9 months) │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│260 nó níos mó │234 lá (9 mí) │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Less than 260 │156 days (6 months) │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Níos lú ná 260 │156 lá (6 mhí) │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Re-qualifying for Jobseeker's Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Athcháiliú don Sochar Cuardaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can re-qualify for JB if:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú athcháiliú don SCP má:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You have used up your full JB entitlement (either 9 or 6 months)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• D’úsáid tú do theidlíocht iomlán SCP (cibé acu 9 nó 6 mhí)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You have paid 13 PRSI contributions for at least 13 weeks (these contributions can be counted only after you have claimed at least 156 days (6 months) of JB)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• D’íoc tú 13 ranníocaíocht ÁSPC ar feadh 13 sheachtain ar a laghad (ní féidir na ranníocaíochtaí seo a chur san áireamh ach amháin tar éis duit 156 lá (6 mhÍ) den SCP a éileamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However if you are working and claiming JB (systematic short-time workers and part-time workers) you cannot simply continue your JB claim when it is exhausted since you must have suffered a substantial loss of employment to re-qualify for JB, (unless you are a casual worker)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ag oibriú agus ag éileamh SCP (oibrithe córasacha gearrthréimhseacha agus oibrithe páirtaimseartha), áfach, ní féidir leat díreach leanúint le SCP a éileamh nuair a chuirtear deireadh leis, mar gheall gur gá go raibh tú thíos le mórchaillteanas fostaíochta chun athcháiliú don SCP, (murar oibrí ócáideach thú)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have lost your job you will have suffered a substantial loss of employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chaill tú do phost beidh tú tar éis caillteanas suntasach fostaíochta a fhulaingt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are a part-time or systematic short-time worker DSP will look at your pattern of employment over the last 13 weeks or another representative period to find out whether you have suffered a substantial loss of employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más oibrí páirtaimseartha nó oibrí gearr-ama córasach tú breathnóidh an Roinn Coimirce Sóisialaí ar do phatrún fostaíochta le 13 seachtain anuas nó le haghaidh tréimhse ionadaíche eile chun fáil amach ar fhulaing tú caillteanas suntasach fostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, if you are getting JB and working 3 days each week as a systematic short-time worker or a part-time worker and your employment pattern has not changed during the course of your JB claim, you will not have suffered a substantial loss of employment and will not re-qualify for Jobseeker’s Benefit when you exhaust your claim</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, má tá SCP á fháil agat agus má tá tú ag obair ar feadh 3 lá gach seachtain mar oibrí gearr-ama córasach nó oibrí páirtaimseartha agus murar athraigh do phatrún fostaíochta le linn d’éilimh ar SCP, ní bheidh caillteanas suntasach fostaíochta fulaingthe agat agus ní cháileoidh tú an athuair do Shochar Cuardaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if your JB claim ends and your 3 day week working week is then reduced to a 2 day week, you will have suffered a substantial loss of employment and may re-qualify for Jobseeker’s Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má thagann deireadh le d’éileamh SCP agus má laghdaítear do sheachtain oibre 3 lá go seachtain 2 lá, áfach, beidh caillteanas suntasach fostaíochta fulaingthe agat agus is féidir go gcáileodh tú an athuair don Sochar Cuardaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you claim JB for a period, sign off and then claim JB again within 26 weeks your claim may be linked to the earlier claim</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má éilíonn tú SCP ar feadh tréimhse, má shíníonn den SCP agus má éilíonn tú SCP arís laistigh de 26 seachtain, d’fhéadfaí d’éileamh a nascadh leis an éileamh níos luaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that your claim is not treated as a new claim and:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn seo nach gcaitear le d’éileamh mar éileamh nua, agus:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You do not have to wait for 3 days before getting your payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní gá duit fanacht ar feadh 3 lá sula bhfaigheann tú d’íocaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The cumulative total of days from the previous claim is continued (so, for example, if you have used up 100 days of your total JB entitlement of 234 days you have 134 days remaining on your claim)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cuirtear san áireamh an t-iomlán carnach laethanta ón éileamh roimhe sin san áireamh (mar shampla, má d’úsáid tú 100 lá de do theidlíocht iomlán SCP de 234 lá, tá 134 lá fágtha agat ar d’éileamh)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The rate of JB is the same rate payable as on the previous claim, unless there has been a budgetary increase or change in family circumstances (such as a new child dependant)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Is ionann ráta an SCP agus an ráta a bhí iníoctha ar an éileamh roimhe sin, murar cuireadh méadú buiséadach i bhfeidhm nó murar tháinig athrú ar chúinsí teaghlaigh (ar nós cleithiúnaí nua linbh)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your JB claim does not link to a previous claim it is treated as a new claim</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura nasctar d’éileamh SCP le héileamh roimhe sin, caitear leis mar éileamh nua</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must wait for 3 days before getting a payment and your cumulative total of days starts from the first day of payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit fanacht ar feadh 3 lá sula bhfaigheann tú íocaíocht agus tosaíonn do líon carnach iomlán laethanta ón gcéad lá fostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can read more about linking claims including information on linking to a different scheme (such as Illness Benefit) and linking to an earlier JB claim through a different scheme or period spent in training or on an employment scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú níos mó a léamh faoi éilimh a nascadh ar láithreán gréasáin an RCS, lena n-áirítear faisnéis ar nascadh le scéim éagsúil (ar nós Sochar Breoiteachta) agus nascadh le héileamh SCP níos luaithe trí scéim éagsúil nó tréimhse a caitheadh faoi oiliúint nó i scéim fostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Short-term employment or training</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fostaíocht ghearrthéarmach nó oiliúint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Department of Social Protection operates a fast-tracking system for people who sign off to take up work for a short period (up to 12 weeks) or to go on a short training course (up to 12 weeks)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá córas mear oibrithe ag an Roinn Coimirce Sóisialaí do chustaiméirí a shíníonn d’íocaíocht cuardaitheora poist chun obair ghearrthéarmach a ghlacadh (suas go 12 seachtaine) nó chun dul ar ghearrchúrsa oiliúna (suas go 12 seachtaine)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This ensures that your payment is re-instated without delay</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cinntíonn sé sin go n-atosófar d’íocaíocht gan mhoill</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is important that you inform your Intreo Centre or local Social Welfare Branch Office in advance that you are taking up work or training</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé tábhachtach go ndéarfá le d’oifig leasa shóisialaigh áitiúil é roimh ghlacadh le hobair nó dul ar chúrsa oiliúna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your Rent Supplement claim can also be suspended for up to 12 weeks</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh d’éileamh ar Fhorlíonadh Cíos a chur ar fionraí ar feadh tréimhse suas le 12 seachtain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Jobseeker's Benefit is not paid for the first 3 days you are unemployed (the first 3 days are any 3 days, not necessarily consecutive, in a period of 7 consecutive days)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní íoctar Sochar Cuardaitheora Poist don chéad 3 lá den fhostaíocht bhriste. Séard is fostaíocht bhriste ann ná aon 3 lá (ní gá dóibh a bheith leanúnach) in aon tréimhse 7 lá leanúnach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are unemployed for a second time within 26 weeks of your last JB payment your application for Jobseeker's Benefit is not treated as a new claim and you do not have another 3 days of non-payment. See 'Linking claims' above</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tharlaíonn dhá bhriseadh dá leithéid seo in aon tréimhse 13 seachtain níl aon bhriseadh san iarratas agus ní chaillfidh tú 3 lá eile gan íocaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Weekly Jobseeker's Benefit payment in 2016 and up to 9 March 2017</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rátaí seachtainiúil maidir le Sochar Cuardaitheora Poist ó 9 Márta 2017</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Average weekly │Personal │Increase for a │Increase for a │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Meánthuilleamh│Ráta │Méadú do Dhuine │Ardú │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│earnings │rate │qualified adult │qualified child │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│seachtainiuil │pearsanta│Fásta Cáilithe │Cleithiúnaí│</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│€300 or more │€188.00 │€124.80 │ │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Idir €150 agus│€124.60 │€83.00 │ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│€300 or more │€193.00 │€128.10 │ │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Níos mó ná │€193.00 │€128.10 │ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You get a personal rate and may get an increase for an adult dependant and child dependant (see below)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gheobhaidh tú ráta pearsanta agus is féidir méadú do dhuine fásta cleithiúnach agus do leanbh cleithiúnach a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your average weekly earnings do not affect the amount you get for a child dependent</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhíonn aon tionchar ar mhéadú do leanbh cleithiúnach ag do mheántuilleamh seachtainiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Jobseeker's Benefit rates are graduated according to your earnings in the relevant tax year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá rátaí Sochair Cuardaitheora Poist grádaithe de réir tuillimh sa bhliain cánach ábhartha d'éilimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your average weekly earnings are your gross yearly earnings from employment divided by the number of paid A, H or P contributions in the relevant tax year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é atá i do mheántuilleamh seachtainiúil ná d’olltuilleamh bliantúil ó fhostaíocht roinnte faoin líon ranníocaíochtaí A, H nó P atá íoctha sa Bhliain Chánach Ábhartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The relevant tax year is 2 years before the year of your claim</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is an Bhliain Chánach Ábhartha í dhá bhliain roimh dháta d'éileamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, if you claim Jobseeker's Benefit in 2017 the relevant tax year is 2015</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, má tá tú ag éileamh Sochar Cuardaitheora Poist i 2017, is í 2015 an bhliain chánach ábhartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you only qualify for a reduced JB payment, it may of greater benefit for you to claim Jobseeker's Allowance instead of Jobseeker's Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má thagann tú isteach faoin riail seo b'fhéidir gur bhfearr duit iarratas a dhéanamh ar Liúntas Cuardaitheora Poist seachas ar Sochar an Chuardaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This increase is called an Increase for a Qualified Adult (IQA)</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcásanna áirithe, is féidir éileamh ar SCP le héileamh níos sine a cheangal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your adult dependant is earning €100 or less you will get the maximum IQA</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás seo, ní bheidh d' éileamh SCP mar éileamh nua, beidh sé ceangailte le d' éileamh roimhe sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If he or she is earning between €100 and €310 you will get a reduced rate of IQA</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá d'éileamh ceangailte le héileamh déanta is luaithe ná 2009 tá rátaí grádaithe mar a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your JB claim is linked to a claim earlier than 2009 the following graduated rates apply:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Éilimh SCP a thosaigh i 2009</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Average weekly earnings │Personal rate │Qualified adult rate │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Meánthuilleamh │Ráta │Méadú do Dhuine Fásta│</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Less than €80 │€86.70 │€83.00 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Níos lú ná €80 │€86.70 │€83.00 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│€150 or more │€193.00 │€128.10 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Níos mó ná €150 │€193.00 │€128.10 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can collect your Jobseeker's Benefit payment weekly from your nearest Post Office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir do Shochar Cuardaitheora Poist a bhailiú ón Oifig an Phoist is gaire duit gach seachtain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must bring valid photographic identification (photo ID) with you to collect your payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit aitheantas fótagrafach bailí a thabhairt leat chun d'íocaíocht a bhailiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The following is regarded as valid photo ID:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Meastar na cáipéisí seo leanas mar aitheantas fótagrafach bailí:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Staff working in the Post Office may ask to see your photo ID before giving you your payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir an fhoireann ag obair san Oifig an Phoist iarr ort d'aitheantas fótagrafach a fheiceáil roimh ag tabhairt d'íocaíocht duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Taxation of Jobseeker's Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gearradh cánach ar Shochar Cuardaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Jobseeker's Benefit is taxable</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Sochar Cuardaitheora Poist inchánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if you are getting Jobseeker's Benefit because your normal working week has been reduced temporarily (systematic short-time work) your Jobseeker's Benefit is not taxed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áfach, má tá tú ag fáil Sochar Cuardaitheora Poist mar tá do sheachtain oibre giorraithe (obair ghearr-ama córasach), ní ghearrfar cáin ar do Shochar Cuardaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are working part-time and getting Jobseeker’s Benefit for the days you are not employed your Jobseeker’s Benefit is taxable</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leath-ráta Sochair Cuardaitheora Poist le híocaiocht leasa shoisialaigh eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Find out more about the taxation of Jobseeker's Benefit and the taxation of JB for systematic short-time workers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní íocfar Méadú do leanbh Cleithúnach leat mar go bhfuil an íocaíocht a fháil agat orthu cheanna féin sa phríomh íocaíocht a fhaigheann tú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are getting Jobseeker's Benefit, you may be entitled to:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ag tarraingt Sochar Cuardaitheora Poist b'fhéidir go bhfuil tú i dteideal :</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Rent Supplement - a payment under the Supplementary Welfare Allowance scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Forlíonadh Cíos - íocaíocht a fhaigheann tú ón Oifigeach Curam Pobail i do Ionad Sláinte áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Back to School Clothing and Footwear Allowance - an allowance to help with the cost of uniforms and footwear for children who are attending school</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íoctar amach an scéim idir Mí Meitheamh agus mí Mean Fhómhair gach bliain - Déan teangmháil le d'oifig sláinte áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Medical card - if your income is below a certain level, you may get a medical card</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cárta Leighis - Má tá do ioncam níos ísle ná méid áirithe beidh tú i dteideal cárta leighis ón Roinn Sláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You do not qualify for the Household Benefits Package or Free Travel with Jobseeker’s Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhaigheann tú Sochar Cuardaitheora Poist, ní bheidh tú incháilithe le haghaidh Pacáiste Sochar Teaghlaigh nó Saor Thaisteal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should apply for Jobseeker's Benefit the first day you become unemployed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir duit iarratas a dhéanamh ar Shochar Cuardaitheora Poist an chéad lá atá tú dífhostaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is important to apply on the first day you become unemployed because you will not get paid for the first 3 days of your claim</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé tábhachtach iarratas a dhéanamh an chéad lá dífhostaíochta toisc ní bheidh tú íoctha do na 3 lá d'éilimh tosaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Jobseeker's Benefit application forms are available online</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá foirmeacha Sochair Cuardaitheora Poist ar fáil ar líne anois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can also get an application form from your local Social Welfare Branch Office or Intreo Centre</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat foirm iarratais a fháil ó d'oifig leasa shóisialaigh áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will also need certain documents when you apply for Jobseeker's Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit cáipéisí áirithe a thabhairt leat chun d'éileamh a chruthú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you do not have these documents to hand, you should apply anyway and supply them later</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá liosta na cáipéisí atá gá duit nuair tá tú ag déanamh iarratas ar Shochar Cuardaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should remember that delay in applying for Jobseeker's Benefit may mean that you lose out on your full entitlements</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil na cáipéisí seo agat faoi láthair ba chóir duit iarratas a dhéanamh agus iad a fháil ina dhiaidh sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can get help to fill in your application form at your Intreo Centre, Social Welfare Branch Office or Citizens Information Centre</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ná déan dearmad má bhíonn tú déanach ag cur d'iarratas isteach ar Shochar Cuardaitheora Poist b'fhéidir go gcaillfeá roinn airgid dá bharr</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>More information is available in our document about signing on for the first time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le d'oifig leasa shóisialaigh áitiúil nó Lárionad Faisnéise do Shaoránaigh cuidiú leat chun d'fhoirm iarratais a chomhlánú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you think you have been wrongly refused Jobseeker's Benefit you can appeal the decision</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh eolais faoi iarratas ar Shochar Cuardaitheora Poist ar fáil sa doiciméid maidir le ag siniú don chéad uair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should apply for Jobseeker's Benefit to your Intreo Centre or Social Welfare Branch Office.   Further information</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má cheapann tú go bhfuil sochar diúltaithe duit go héagórach, is féidir achomharc a chur</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These half-rate payments were discontinued from February 2012</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cá háit a ndéanfaidh mé iarratas?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Claimants getting Jobseeker's Benefit for 6 months or more on 3 April 2013 (or 3 months for people with fewer than 260 contributions) were not affected (see table below)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóír duit d'iarratas ar Shochar Cuardaitheora Poist a thabhairt isteach ag d'Ionad Intreo nó d'Oifig Bhrainse Leasa Shóisialaigh</seg></tuv>
+</tu>
+</body>
+</tmx>

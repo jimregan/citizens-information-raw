@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Consumer guide to buying a new car</seg></tuv>
+  <tuv xml:lang="ga"><seg>Comhairle maidir le carr nua a cheannach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A new car can be a big investment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta nuair a cheannaíonn tú carr nua in Éirinn is ó dhíoltóir nó ó gharáiste a cheannaíonn tú é</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Description of the legal requirements when buying a new car and information on the various finance options</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá costais bhreise ag baint le carr a cheannach ba chóir a bheadh ar eolas agat sula gceannaíonn tú ceann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Buying a used car</seg></tuv>
+  <tuv xml:lang="ga"><seg>Carr athláimhe a cheannach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As cars decline in value over time buying a used car is sometimes a good option when searching for a vehicle. This document tells you what you need to know before you buy a second hand car</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go minic bíonn sé i bhfad níos saoire carr athláimhe a cheannach de bhrí go dtiteann an luach a bhíonn ar charr nua an-tapa ar fad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Normally consumers have no problems renting vehicles but there are ways to minimise any risk of car hire problems, these are described here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Normally consumers have no problems renting vehicles but there are ways to minimise any risk of car hire problems, these are described here</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most Read in "Consumer Affairs"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ábhar is mó éilimh i "Gnóthaí Tomhaltóirí"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your rights as a consumer in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cearta Tomhaltóirí in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Display of prices for goods and services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Carr athláimhe a cheannach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Replacements, refunds and credit notes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Taispeáint praghsanna d'earraí agus seirbhísí</seg></tuv>
+</tu>
+</body>
+</tmx>

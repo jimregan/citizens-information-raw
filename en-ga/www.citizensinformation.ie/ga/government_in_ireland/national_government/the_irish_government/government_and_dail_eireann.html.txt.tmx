@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Government and Dáil Éireann</seg></tuv>
+  <tuv xml:lang="ga"><seg>An Rialtas agus Dáil Éireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Bunreacht na hÉireann (the Irish Constitution) states that the Government is responsible to Dáil Éireann</seg></tuv>
+  <tuv xml:lang="ga"><seg>De réir an Bhunreachta tá an Rialtas freagrach do Dháil Éireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that the Government holds office only for as long as it keeps the support of the majority of the members of Dáil Éireann</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin bíonn an Rialtas in oifig an fhad agus atá tacaíocht tromlach na dteachtaí i nDáil Éireann aige</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Taoiseach may resign voluntarily and if he/she does, all of the Cabinet ministers are also considered to have resigned</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis an Taoiseach éirí as a p(h)ost dá t(h)oil féin, agus má dhéanann sé/sí é sin tuigtear go bhfuil na hairí ar fad sa chomh-aireacht éirithe as a bpost</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A new nomination for Taoiseach will be put before the Dáil and the Dail will approve a new Taoiseach</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirfear ainmniúchán nua do phost an Taoisigh ós comhair na Dála agus ceadóidh an Dáil Taoiseach nua</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the Taoiseach fails to keep the support of the majority of the Dáil, he or she must either resign or advise the President to dissolve the Dáil</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chailleann an Taoiseach tacaíocht tromlach na Dála, ní mór dó/dí éirí as a p(h)ost nó iarraidh ar an Uachtarán an Dáil a lánscoir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This may happen if a coalition government can no longer work together</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh sé seo tarlú i gcás comhrialtais nach mbeadh in ann a thuilleadh comhoibriú lena chéile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the Dáil is dissolved, there will then be a general election</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéantar an Dáil a lánscoir beidh ollthoghchán ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Following the election, the nomination for Taoiseach must then obtain the support of the majority of the members of the new Dáil</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tar éis an ollthoghcháin ní mór go mbeadh tacaíocht tromlach na dteachtaí sa Dáil nua ag an té a ainmnítear mar Thaoiseach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Government meets and acts as a collective authority and is collectively responsible for all the Departments of State</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tagann an Rialtas le chéile agus feidhmíonn sé mar údarás aontaithe agus tá chomhfhreagracht ar na baill i dtaobh ranna uilig an Stáit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Discussions at Cabinet meetings are confidential</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is faoi rún a dhéantar plé ar ábhair ag cruinnithe den chomh-aireacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Government presents a united front and all the ministers must publicly support its major policies and decisions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn an Rialtas aontaithe ar pholasaithe agus ní mór do na hairí ar fad tacaíocht phoiblí a thabhairt do na polasaithe agus na cinnithe móra atá ag an Rialtas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Taoiseach has the power to dismiss ministers if there is sufficient reason to do so although this power is rarely exercised</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé de chumhacht ag an Taoiseach airí a chur as a bpost má bhíonn cúis mhaith aige/aici ach is go fíor annamh a dhéantar é seo i ndáiríre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It may happen if the minister has become embroiled in some public controversy or if there is a challenge to the leadership of the party</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh sé tarlú dá mbeadh baint ag an aire le conspóid phoiblí nó dá mbeadh dúshlán ann do cheannaireacht an pháirtí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Ministers may also voluntarily resign</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le airí éirí as a bpost dá ndeoin féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This may happen if the minister does not agree with a Government policy</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh sé seo tarlú muna mbeadh aire sásta aontú le polasaí an Rialtais</seg></tuv>
+</tu>
+</body>
+</tmx>

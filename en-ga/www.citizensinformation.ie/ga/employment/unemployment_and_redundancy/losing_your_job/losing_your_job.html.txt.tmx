@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>It is widely recognised that losing your job can be one of the most difficult times of your life</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tuigtear go forleathan gur cor fíorchrua i saol duine ar bith é a phost a chailliúint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This document is an introduction to the range of issues that you need to consider when you lose your job</seg></tuv>
+  <tuv xml:lang="ga"><seg>Méar ar eolas é an doiciméad seo ar raon ceisteanna a chaithfidh tú a chur san áireamh má chailleann tú do phost</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you lose your job you may have been made redundant or you may have been dismissed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá do phost caillte agat b'fhéidir gur fágadh iomarcach thú nó b'fhéidir gur briseadh thú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If it is a redundancy situation you may qualify for a redundancy payment. You can find out how your redundancy payment is taxed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más ceist iomarcaíochta é, b'fhéidir go bhfuil teideal agat ar íocaíocht iomarcaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have been let go from your job, you should check that your employer had fair grounds for your dismissal</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más amhlaidh a briseadh as do phost thú, ba cheart duit a dheimhniú an raibh bun cóir ag do bhfostóir thú a bhriseadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are concerned about your dismissal you should find out more about your rights under unfair dismissals legislation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más cás leat do bhriseadh ba cheart duit eolas a chur ar do chearta de bhun na reachtaíochta faoi dhífhostú éagórach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you lose your job you are entitled to notice and you may also be entitled to payment in lieu of wages and for holidays</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chailleann tú do phost tá tú i dteideal fógra agus b'fhéidir go bhfuil teideal agat freisin ar íocaíocht in ionad pá agus laethanta saoire</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you lose your job you should register as unemployed with your local social welfare office or Intreo centre even if you do not qualify for an unemployment payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chailleann tú do phost ba cheart duit clárú mar dhuine dífhostaithe le d' oifig leasa shóisialaigh áitiúil nó ionad Intreo fiú amháin mura bhfuil tú i dteideal íocaíochta dífhostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may be able to sign on for credited PRSI contributions so that you do not have a break in your social insurance record</seg></tuv>
+  <tuv xml:lang="ga"><seg>B'fhéidir go bhféadfaidh tú clárú le haghaidh ranníocaíochtaí ÁSPC a chuirfear chun sochair sa chaoi is nach mbeidh briseadh i stair d'árachais shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may be entitled to a tax refund if you have been out of work for some time</seg></tuv>
+  <tuv xml:lang="ga"><seg>B'fhéidir go mbeidh teideal agat ar aisíoc cánach má tá tú dífhostaithe le tamall</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you leave your job your employer should give you your P45 which is a record of your tax and PRSI paid</seg></tuv>
+  <tuv xml:lang="ga"><seg>Agus tú ag fágáil do phoist ba cheart go dtabharfadh d'fhostóir d'fhoirm P45 duit, ar taifead é ar an gcáin agus ar an ÁSPC a d'íoc tú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If it is the end of a tax year your employer should give you a P60</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más é deireadh na bliana cánach é, ba cheart go dtabharfadh d'fhostóir foirm P60 duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Social welfare and other benefits</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leas sóisialach agus sochair eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may be entitled to an unemployment social welfare payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>B'fhéidir go mbeidh teideal agat ar íocaíocht leasa shóisialaigh don dífhostaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have enough social insurance contributions you may be entitled to Jobseeker’s Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá do dhóthain ranníocaíochtaí árachais shóisialta déanta agat, b'fhéidir go mbeidh teideal agat ar Shochar Cuardaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you do not have enough PRSI contributions you may qualify for Jobseeker’s Allowance which is a means-tested benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil do dhóthain ranníocaíochtaí ÁSPC déanta agat, b'fhéidir go mbeidh teideal agat ar Liúntas Cuardaitheora Poist, ar sochar de réir tástála acmhainne é</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Depending on your circumstances you may qualify for a medical card or GP visit card and other secondary benefits such as Rent Supplement under the Supplementary Welfare Allowance Scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>De réir thosca do cháis, b'fhéidir go mbeidh teideal agat ar chárta leighis nó ar chárta cuairte LG agus ar bhuntáistí tánaisteacha eile, mar shampla Liúntas Forlíontach Cíosa de bhun na Scéime Liúntas Forlíontach Leasa Shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are a number of sources of information to help you find a job including newspapers, recruitment agencies and websites</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá roinnt foinsí faisnéise ann a chabhróidh leat post a fháil, lena n-áirítear nuachtáin, gníomhaireachtaí earcaíochta agus láithreáin ghréasáin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There also are different organisations which can assist you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá roinnt eagraíochtaí freisin ann a d'fhéadfadh cabhrú leat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should register with your local employment services office or Intreo centre for information about job vacancies</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart duit clárú leis an oifig seirbhísí fostaíochta áitiúil nó ionad Intreo le haghaidh faisnéise faoi fholúntais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Its employment services for jobseekers also include career guidance and information about Job Clubs and training courses</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áiríonn na seirbhísí fostaíochta do chuardaitheoirí phoist gairmthreoir agus faisnéis faoi Jab-Chlubanna agus faoi chúrsaí oiliúna freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Local Employment Services (LES) assist long-term unemployed people through training and career guidance to progress from social welfare to work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn na Seirbhísí Fostaíochta Áitiúla ag cabhrú le daoine atá dífhostaithe le fada, trí bhíthin oiliúna agus gairmthreorach, sa chaoi is go malartóidh siad an leas sóisialach ar an obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are employment schemes for long-term unemployed people such as Community Employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá scéimeanna fostaíochta ann do dhaoine atá dífhostaithe le fada, mar shampla Fostaíocht Pobail</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>After losing your job you may decide to return to education or vocational training, perhaps changing direction in your career</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tar éis duit do phost a chailliúint b'fhéidir gur mhaith leat filleadh ar an oideachas nó ar an oiliúint ghairmiúil, agus b'fhéidir do ghairmréim a athrú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is a wide range of education and training programmes offering full-time and part-time courses</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá raon leathan clár oideachais agus oiliúna ann a chuireann cúrsaí lánaimseartha agus páirtaimseartha ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The courses include Further Education and Training (FET) courses and courses provided by Education and Training Boards (ETBs)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áiríonn na cúrsaí seo cúrsaí Breisoideachais agus Oiliúna (FET) agus cúrsaí a chuireann na Boird Oideachais agus Oiliúna (BOO) ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are on an unemployment payment you may be eligible for the Vocational Training Opportunities Scheme (VTOS) or the Back to Education Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ag fáil íocaíochta dífhostaíochta b'fhéidir go mbeidh tú incháilithe don Scéim Deiseanna Oiliúna Gairmoideachais (SDOG) nó don Liúntas chun Filleadh ar an Oideachas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you are returning to work you should make sure that your tax and PRSI deductions are correct</seg></tuv>
+  <tuv xml:lang="ga"><seg>Agus tú ag filleadh ar an obair ba cheart duit deimhin a dhéanamh de go bhfuil do chuid asbhaintí cánach agus ÁSPC ceart</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should let your local social welfare office or Intreo centre know when you are starting work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart duit a insint do d'oifig leasa shóisialaigh áitiúil nó ionad Intreo cén uair a thosóidh tú ag obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are taking up self-employment you may be eligible for the Back to Work Enterprise Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ag dul i mbun na féinfhostaíochta b'fhéidir go mbeidh teideal agat ar an Liúntas Fiontraíochta um Fhilleadh ar Obair</seg></tuv>
+</tu>
+</body>
+</tmx>

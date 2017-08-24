@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>This page is divided into two sections, "I am..." and "I want to..."</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an leathanach seo roinnte ina dhá chuid, "Is duine mé..." agus "Ba mhaith liom..."</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>"I am..." contains links to information for people in particular situations, for example, people with a disability or people starting a business</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chuid "Is duine mé..." tá naisc ann chuig eolas do dhaoine atá i gcásanna áirithe, mar shampla, daoine atá faoi mhíchumas nó daoine atá ag tosú gnó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Each link in the section goes to either an overview document, a checklist of services and entitlements or a part of the website with relevant information</seg></tuv>
+  <tuv xml:lang="ga"><seg>Téann gach nasc sa chuid sin chuig cáipéis fhorbhreathnaithe, seicliosta de sheirbhísí agus teidlíochtaí nó chuig cuid den tsuíomh le heolas ábhartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>"I want to..." contains links that aim to answer Frequently Asked Questions (FAQs) on this website, for example, how to apply for a driving licence or how to appeal a Social Welfare decision</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chuid "Ba mhaith liom..." tá naisc ann agus é mar aidhm acu ceisteanna coitianta a fhreagairt ar an tsuíomh seo, mar shampla, conas iarratas a dhéanamh ar cheadúnas tiomána nó conas achomharc a iarradh ar chinneadh Leasa Shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Each link in this section goes to a document or a part of the website with relevant information</seg></tuv>
+  <tuv xml:lang="ga"><seg>Téann gach nasc sa chuid seo chuig cáipéis nó chuig cuid den tsuíomh le heolas ábhartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│ • A person with a disability or illness │ • Cohabiting │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│ • atá faoi mhíchumas nó le tinneas │ • atá i mo chomhchónaí │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│ • The parent of a child with a disability │ • Looking for information following the breakdown of a marriage or other relationship │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│ • atá mar thuismitheoir ar pháiste faoi mhíchumas │ • atá ar lorg faisnéis faoi cliseadh pósta nó caidrimh │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│ • A carer │ • Becoming a parent │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│ • atá i mo chúramóir │ • atá le bheith i mo thuismitheoir │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│ • An older or retired person │ • Hoping to adopt or foster a child │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│ • atá aosta nó atá imithe ar scor │ • atá ag súil le páiste a uchtú nó a altramú │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│ • Working part-time │ • A lone parent │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│ • atá ag obair go páirtaimseartha │ • atá ina t(h)uismitheoir aonair │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│ • Being made redundant │ • A widow, widower or surviving civil partner │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│ • atá le bheith fágtha iomarcach │ • atá ina baintreach, ina bhaintreach fir nó ina p(h)áirtí sibhialta mharthanaigh │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│ • Unemployed │ • Leaving prison │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│ • atá dífhostaithe │ • atá ag fágáil príosúin │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│ • Looking for employment or internship schemes (see also our microsite, gettingbacktowork.ie) │ • Starting school │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│ • atá ag cuardach fostaíochta nó scéimeanna intéirneachta (féach freisin ar ár mion-suíomh gettingbacktowork.ie)( │ • atá ag tosú ar scoil │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│ • Having difficulties paying my rent or mortgage - see our microsite, keepingyourhome.ie │ • Leaving school │ │ • Starting a business │ • Going to college │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│ • le deacrachtaí mo chíos nó mo mhorgáiste a íoc – féach ar ár mion-suíomh, keepingyourhome.ie │ • atá ag brath ar dhul ar choláiste │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│ • In debt │ • Coming to Ireland │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│ • atá ag tosú gnó │ • atá ag teacht go hÉirinn │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│ • Self-employed │ • An Irish citizen returning to Ireland │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│ • atá i bhfiachas │ • atá ina s(h)aoránach Éireannach ag filleadh ar Éirinn │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│ • Leaving direct provision │ • Retiring to Ireland │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│ • atá féinfhostaithe │ • atá ag dul ar scor go hÉirinn │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│ • Recently bereaved │ • Planning to emigrate within the EU/EEA │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│ • a chaill duine éigin le gairid │ • a bhfuil sé i gceist acu dul ar imirce taobh istigh den AE/LLE │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│ • Getting married │ • Planning to emigrate outside the EU/EEA │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│ • atá chun pósadh │ • a bhfuil sé i gceist agam dul ar imirce taobh amuigh den AE/LLE │</seg></tuv>
+</tu>
+</body>
+</tmx>

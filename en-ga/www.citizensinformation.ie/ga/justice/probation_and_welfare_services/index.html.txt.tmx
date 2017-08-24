@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Probation and welfare services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Promhadh agus Seirbhísí Leasa Shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Probation Service is the lead agency in the assessment and management of offenders in the community</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is í an tSeirbhís Promhaidh an phríomhghníomhaireacht i measúnú agus i mbainistiú ciontóirí sa phobal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most Read in "Justice"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ábhar is mó éilimh i "Dlí"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Alcohol and the law</seg></tuv>
+  <tuv xml:lang="ga"><seg>Alcól agus an dlí</seg></tuv>
+</tu>
+</body>
+</tmx>

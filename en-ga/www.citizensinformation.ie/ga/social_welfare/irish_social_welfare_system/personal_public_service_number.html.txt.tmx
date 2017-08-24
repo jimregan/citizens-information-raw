@@ -1,0 +1,429 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Personal Public Service Number</seg></tuv>
+  <tuv xml:lang="ga"><seg>Uimhir Phearsanta Seirbhíse Poiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your Personal Public Service Number (PPS number) is a unique reference number that helps you access social welfare benefits, public services and information in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is uimhir shainiúil tagartha í d'uimhir Phearsanta Seirbhíse Poiblí (PSP) a chabhraíonn leat sochair leasa shóisialaigh, seirbhísí poiblí agus eolas in Éirinn a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Before you can be allocated a PPS number, you must show that you need one for a transaction with a specified body</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sular féidir uimhir PSP a leithdháileadh duit, ní foláir duit a léiriú go dteastaíonn ceann uait i gcomhairidirbhirt le comhlacht sonraithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, if you are taking up employment, you need a PPS number to register with the Revenue Commissioners</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, má tá tú ag glacadh le fostaíocht, teastaíonn uimhir PSP uait chun clárú leis na Coimisinéirí Ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, looking for work is not a transaction with a specified body and employers should not look for your PPS number when recruiting</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní idirbheart le comhlacht sonraithe é bheith ag lorg oibre agus níor cheart d’fhostóirí cuardach i gcomhair d’uimhreach PSP agus iad i mbun earcaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An employer should only seek a PPS number if you are actually taking up employment with the organisation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níor chóir go bhféachfadh fostóir le huimhir PSP a fháil má tá tú ag glacadh le fostaíocht laistigh den eagras</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find a list of State agencies that use PPS numbers to identify individuals on the Department of Social Protection's website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áirítear an Roinn Coimirce Sóisialaí, na Coimisinéirí Ioncaim agus na Limistéir Fheidhmeannacht na Seirbhíse Sláinte sna gníomhaireachtaí seirbhíse poiblí a úsáidíonn uimhreacha PSP chun daoine a aithint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A PPS number is always 7 numbers followed by either one or two letters</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn 7 n-uimhir le litir amháin nó dhá litir ina ndiaidh i gceist le hUimhir PSP i gcónaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The PPS number was known as the Revenue and Social Insurance (RSI) number</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ainm nua don uimhir chánach (RSI) é an PSP</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your number is the same as your spouse's number but your number has a W at the end, you may need a new PPS number - see 'Phasing out of W numbers' below for more information</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá uimhir PSP do chéile ar aon uimhir leat agus má chríochnáionn d'uimhir PSP le 'W', b'fhéidir go mbeadh uimhir PSP nua de dhíth ort. Féach 'Uimhreacha W a chéimniú amach' thíos chun tuilleadh eolais a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Using the Personal Public Service Number</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’Uimhir PSP a úsáid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can use your PPS number for:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat d'uimhir PSP a úsáid le haghaidh:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• All social welfare services</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An Cárta Seirbhísí Poiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Public health services, including the medical card and the Drugs Payment Scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seirbhísí Sláinte Poiblí, san áireamh an carta leighis agus an Scéim Íocaíochta Drugaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Schemes run by the Revenue Commissioners, such as mortgage interest relief</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Scéiméanna a reachtálann na Coimisinéirí Ioncaim, mar shampla Faoiseamh ar Ús Morgáiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Driver Theory Testing and driver licences</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Scrúdú teoirice tiomána agus ceadúnais tiomána</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A PPS number has already been issued to you if:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá uimhir PSP eisithe duit cheana má:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You were born in Ireland in or after 1971</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Rugadh in Éirinn tú i rith nó tar éis 1971</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You started work in Ireland after 1979</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Thosaigh tú ag obair in Éirinn tar éis 1979</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You are getting a social welfare payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tá tú ag fáil íocaíocht leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You are taking part in the Drugs Payment Scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tá tú ag glacadh páirte sa Scéim Íocaíochta Drugaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>PPS numbers are printed on the following documents:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn uimhreacha PSP clóscríofa ar na cáipéisí seo a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• GP visit card • European Health Insurance Card</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cárta Eorpach um Árachas Sláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• P60 (the annual statement of pay, tax and social insurance contributions from your employer)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• P60 (an tuairisceán bliantúil pá, cánach, agus ranníocaíochtaí leasa shóisialaigh ó d'fhostóir)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• P45 (the statement of tax and pay to date issued by your employer when you leave employment)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• P45 (an tuairisceán cánach agus pá chun dáta eisithe ag an bhfostóir nuair a fhágann tú post)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• PAYE Notice of Tax Credits</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Fógra Creidmheasanna Cánach ÍMAT</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Phasing out of W numbers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Céimniú amach uimhreacha W</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Before 2000 when some women got married they had to use the same PPS number as their husband, but with a W at the end of the number</seg></tuv>
+  <tuv xml:lang="ga"><seg>Roimh 2000 nuair a phós roinnt daoine bhí orthu an Uimhir Phearsanta Seirbhíse Poiblí céanna lena gcéile a úsáid, ach le W ag deireadh na huimhreach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This W number was issued by Revenue to identify spouses in a jointly assessed relationship</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’eisigh na Coimisinéirí Ioncaim an uimhir W seo chun céilí a aithint i gcaidreamh ina ndearnadh Measúnú Comhpháirteach ar an lánúin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The W number was linked to the PPS number of the assessable spouse (which is the term used in Revenue for the spouse who is charged tax on the income of both spouses)</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’eisigh na Coimisinéirí Ioncaim uimhir W chun céilí a aithint i gcaidreamh ina ndearnadh Measúnú Comhpháirteach ar an lánúin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These numbers are being slowly phased out and W numbers have not been issued since 1999</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá na huimhreacha W á gcéimniú amach de réir a chéile. Níor eisíodh uimhir W ar bith ó 1999 i leith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your PPS number is the same as your husband’s PPS number but the last letter is W, you must get a new PPS number in these circumstances:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mar an gcéanna d’uimhir PSP le huimhir PSP do chéile, agus má tá W ag deireadh d’uimhreach, caithfidh tú uimhir nua PSP a fháil más amhlaidh:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If your spouse is deceased</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Go bhfuil do chéile tar éis bás a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you are divorced or separated</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Go bhfuil tú scartha nó colscartha ó do chéile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you were issued with a Social Insurance number before 1979</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gur eisíodh uimhir Árachais Shoisialta ort roimh 1979</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you were issued a PPS number after 1979 and before you married, the Department may re-issue you with your original number on request</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má eisíodh uimhir PSP nua ort tar éis 1979 agus sular phós tú, is féidir leis an Roinn an bunuimhir a bhí agat a ath-eisiúint ort má iarrann tú é</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are changing your W number for a new PPS number you do not need to go through the same application process as everyone else</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá d’uimhir W á athrú agat i gcomhair uimhir PSP nua, ní gá duit dul tríd an bpróiseas iarratais céanna le gach duine eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To get your new number or to be re-instated with your old number contact the Client Identity Section in the Department of Social Protection. The phone number is 1890 927 999 or (071) 967 2616</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun d’uimhir nua a fháil nó chun do sheanuimhir a fháil ar ais, téigh i dteagmháil le Rannóg Aitheantais na gCliant sa Roinn Coimirce Sóisialaí, is í an uimhir theileafóin ná 1890 927 999 ó (071) 967 2616</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you get your new number from the Department of Social Protection you should inform any organisations that may hold your old number</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart duit aon eagrais ag a bhféadfadh do sheanuimhir bheith ina seilbh a chur ar an eolas nuair a fhaigheann tú d’uimhir nua ón Roinn Coimirce Sóisialaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, your employer, your bank, the National Driver Licence Service, the HSE and Revenue – you can inform Revenue using the Revenue’s online Jobs and Pension Service or contact your local tax office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, d’fhostóir, do bhanc, an tSeirbhís Náisiúnta um Cheadúnais Tiomána, an FSS agus na Coimisinéirí Ioncaim – is féidir leat na Coimisinéirí Ioncaim a chur ar an eolas i leith d’Uimhreach PSP nua tríd an tSeirbhís Phoist agus Pinsin ar líne a úsáid nó dul i dteagmháil le d’oifig chánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>I'm moving to Ireland soon - how do I get a Personal Public Service Number?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Táim chun bogadh go hÉirinn sul i bhfad – conas a fhaighim Uimhir PSP?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You cannot apply for a PPS number before you arrrive in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní fhéadann tú iarratas a dhéanamh ar Uimhir PSP roimh theacht duit go hÉirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must be living in Ireland to apply for a PPS number</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh tú bheith i do chonaí cheana féin in Éirinn chun iarratas ar uimhir PSP a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Before you can be allocated a PPS number, you must show that one is required for a transaction with a specified body</seg></tuv>
+  <tuv xml:lang="ga"><seg>Iarrfar ort fianaise cháipéisíochta d’aitheantas agus de chónaí in Éirinn a thaispeáint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Different documentary evidence will be required, depending on your nationality</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh fianaise cháipéisíochta eile de dhíth, ag brath ar do náisiúntacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A complete list of documents required as evidence of your identity is available</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá liosta iomlán de na cáipéisí ar riachtanach mar fhianaise ar d’aitheantas iad le fáil anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>I am not resident in Ireland but I need a PPS number - how do I get it?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl cónaí orm in Éirinn ach teastaíonn uimhir PSP uaim – conas a fhaighim í?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In some cases people who are not resident in Ireland may need a PPS number</seg></tuv>
+  <tuv xml:lang="ga"><seg>I roinnt cásanna, d’fhéadfadh Uimhir PSP bheith ag teastáil ó dhaoine nach gcónaíonn in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, someone who is a beneficiary under an Irish will may need to supply a PPS number before a grant of probate can issue</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, d’fhéadfadh duine atá ina t(h)airbhí faoi uacht Éireannach uimhir PSP a sholáthar sular féidir bronnadh probháide a eisiúint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Department of Social Protection's Client Identity Services (CIS) provide a service for non-resident applicants who cannot attend at a designated PPS Registration Centre and who need a PPS number</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad Seirbhísí Sainaitheanta Cliaint (CIS) de chuid na Roinne Coimirce Sóisialaí a sholáthraíonn seirbhís d’iarratasóirí neamhchónaitheacha nach féidir leo freastal ar Ionad Clárúcháin PSP ainmnithe agus a dteastaíonn uimhir PSP uathu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you want to use this service, you must show documentary evidence that you need a PPS number for a transaction with a specified body</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má theastaíonn uait leas a bhaint as an tseirbhís úd, ní mór duit fianaise cáipéisíochta a léiriú go dteastaíonn uimhir PSP uait i gcomhair idirbhirt le comhlacht sonraithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You cannot use this exceptional application process if you are living in or intend to relocate to Ireland for any period of time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leat leas a bhaint as an bpróiseas iarratais eisceachtúil seo má tá tú i do chónaí in Éirinn nó má tá sé ar d’intinn athlonnú go hÉirinn ar feadh tréimhse ama ar bith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Audits of PPS applications are carried out periodically and you may be asked for additional information</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar iniúchtaí ar iarratais PSP go tréimhsiúil agus b’fhéidir go bhfiafrófaí faisnéis breise díot</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are living in Northern Ireland or the United Kingdom and are working in the Republic of Ireland (a frontier worker) you apply for a PPS number in the normal way at a designated PPS Registration Centre</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá cónaí i dTuaisceart Éireann nó sa Ríocht Aontaithe ort agus má tá tú ag oibriú i bPoblacht na hÉireann (oibrí trasteorann), féadfaidh tú iarratas a dhéanamh ar Uimhir PSP sa ghnáthbhealach ag Ionad sannta Cláraithe PSP</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>I need a PPS number for a deceased person - how do I get this?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Teastaíonn uimhir PSP uaim i gcomhair duine atá tar éis bháis - cén chaoi a bhfaighidh mé í seo?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Occasionally a PPS number may be required for a deceased person, usually when dealing with grant of probate</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh uimhir PSP bheith de dhíth ó thráth go chéile ar dhuine nach maireann, de ghnáth nuair a bhítear ag plé le deonú probháide</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In such cases, you should send a copy of the death certificate and details about why the PPS number is required to the Department of Social Protection's Client Identity Services - the address is below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart duit sna cásanna úd cóip den teastas báis agus na mionsonraí go dteastaíonn an uimhir PSP uathu a chur chuig Seirbhísí Sainaitheanta Cliaint na Roinne Coimirce Sóisialaí - faightear an seoladh thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To get a PPS number, you will need to fill out an application form in the PPS number centre, provide evidence of your identity and evidence of why you need a PPS number allocated</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun uimhir a fháil, beidh ort foirm iarratais a líonadh agus dearbhú aitheantais a chur ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Evidence of your identity</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fianaise i leith d’aitheantais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│If you are: │You will need to produce the following as evidence of your identity: │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Más duine tú: │Teastóidh uait na nithe seo a leanas a tháirgeadh mar fhianaise i leith d’aitheantais: │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│ │ • The long version of your birth certificate │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│ │ • Leagan fada do theastais bhreithe │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│An Irish citizen born in the Republic of Ireland │and │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Saoránach Éireannach a rugadh i bPoblacht na hÉireann │agus │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│ │ • Photographic ID, such as your passport or driving licence │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│ │ • ID i bhfoirm grianghraif, ar nós do phas nó ceadúnais tiomána │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│ │ • Your current passport or Certificate of Naturalisation │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│ │ • Pas reatha nó Teastas Éadóirseachta │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│An Irish citizen via naturalisation or Foreign Birth Registration │or │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Saoránach Éireannach trí éadóirseacht nó trí Chlárú Breithe Eachtrannach │nó │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│ │ • Your Foreign Birth Registration certificate and Irish or UK driving licence or Irish learner driving permit │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│ │ • Do theastas Clárúcháin Bhreithe Eachtrach agus ceadúnas tiomána Éireannach nó Briotanach nó cead foghlaimeora Éireannach │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│An Irish citizen born in Northern Ireland or a UK citizen │or │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Saoránach Éireannach a rugadh i dTuaisceart Éireann nó saoránach Briotanach │nó │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│ │ • Your birth certificate showing your mother’s birth name or adoption certificate and current driving licence │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│ │ • Do theastas breithe ina nochtar ainm breithe do mháthar nó teastas uchtaithe agus ceadúnas tiomána reatha │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│EU citizens (other than Irish and UK) │Current passport or national identity card │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Saoránaigh an AE (seachas cinn Éireannacha agus Briotanacha) │Pas reatha nó cárta aitheantais náisiúnta │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Non-EU citizens │Current passport │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Neamh-Shaoránaigh an AE │Pas reatha │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Evidence of your address</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fianaise i leith do sheolta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You need to show evidence of your address</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh tú fianaise i leith do sheolta a léiriú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can use any of the following documents to do this (it must show your name and address):</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat leas a bhaint as aon cheann de na cáipéisí seo a leanas chuige sin (caithfear d’ainm agus seoladh a nochtadh uirthi):</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Property lease or tenancy agreement</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Léas maoine nó comhaontú tionóntachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Confirmation of address by a third party such as a hotel/hostel administrator or manager, school principal/administrator or accommodation/property owner*</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Deimhniú seolta ag tríú páirtí ar nós príomhoide/riarthóra scoile, úinéara nó bainisteora cóiríochta/maoine*</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>*If you are staying with friends or relatives, an original household bill plus a note from the bill holder confirming your residency at the bill address is acceptable</seg></tuv>
+  <tuv xml:lang="ga"><seg>*Má tá tú ag fanacht le cairde nó le gaolta is amhlaidh ar inghlactha é bunbhille teaghlaigh móide nóta ó shealbhóir an bhille ag deimhniú go bhfuil tú i do chónaí ag seoladh an bhille</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This note can be written on the bill itself</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir an nóta sin a bhreacadh ar an mbille é féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Children born in Ireland are usually given a Personal Public Service Number (PPS number) when their birth is registered with the General Register Office (GRO)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar Uimhir PSP do leanaí a rugadh in Éirinn nuair a chláraítear a mbreith leis an bPríomh-Oifig Chlárúcháin (POC)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means you do not need to apply for a PPS number for an Irish-born child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn sé seo nach gá duit iarratas a dhéanamh ar uimhir PSP do leanbh a rugadh in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However a PPS number is not automatically allocated if both parents' addresses are outside of the State</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn sé sin nach gá duit iarratas a dhéanamh i gcomhair uimhir PSP i leith linbh a bheirtear in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you need a PPS number in such a case then you must apply at a PPS number allocation centre</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má theastaíonn uimhir PSP uait i gcás mar sin ní mór duit iarratas a dhéanamh ar dtús ag ionad leithdháilte uimhir PSP</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>PPS numbers for children living in, but not born in Ireland, must be applied for by the parent/guardian</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an tuismitheoir/caomhnóir a chaitheann iarratas a dhéanamh i leith uimhreachta PSP do leanaí a chónaíonn, ach nár rugadh in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>One of the parents/guardians must have a PPS number for the child to be registered and linked with their data</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caitheann uimhir PSP bheith ag duine amháin de na tuismitheoirí/caomhnóirí ionas go mbeidh an leanbh cláraithe agus nasctha lena gcuid sonraí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The parent, foster parent, guardian, or school representative should attend with the child, and provide evidence of his/her own identity, the identity of the child, evidence of the requirement for a PPS number, and evidence of the relationship between the parent/guardian and the child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir go bhfreastalódh an tuismitheoir, an tuismitheoir altrama, an caomhnói, nó an t-ionadaí scoile leis an leanbh, agus fianaise i leith a n-aitheantais féin, aitheantas an linbh, fianaise i leith an riachtanais d’uimhir PSP a sholáthar, agus fianaise a sholáthar i leith an ghaoil idir an tuismitheoir/caomhnóir agus an leanbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Evidence of address should also be provided</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir go soláthrófaí freisin fianaise i leith seolta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Department of Social Protection may make further enquiries where it is considered necessary to confirm the relationship between the child and the person requesting a PPS number</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis an Roinn Coimirce Sóisialaí a thuilleadh fiosruithe a dhéanamh mar a meastar bheith riachtanach chun an gaol idir an leanbh agus an duine atá ag iarraidh uimhir PSP a dheimhniú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A person aged less than 16 years is considered to be a child for PPS number allocation purposes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Meastar duine faoi bhun 16 bliain déag d’aois bheith ina leanbh chun críoch leithdháileadh uimhreach PSP</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Department of Social Protection monitors identity fraud issues, helps to draw up procedures for processing applications and investigates suspect documents</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann an Roinn Coimirce Sóisialaí monatóireacht ar shaincheisteanna maidir le calaois aitheantais, cabhraíonn sí le dréachtú nósanna imeachta um próiseáil na n-iarratas agus fiosraíonn sí cáipéisí amhrasta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Staff in social welfare offices are required to check the authenticity of supporting documents and refer doubtful cases for checking by document fraud experts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don fhoireann in oifigí leasa shóisialaigh seiceáil a dhéanamh ar bharántúlacht na gcáipéisí tacaíochta, agus cásanna amhrasacha a chur ar aghaidh chuig saineolaithe calaoise cáipéisí i gcomhair a seiceála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Only the Department of Social Protection can provide you with a Personal Public Service Number (PPS number) </seg></tuv>
+  <tuv xml:lang="ga"><seg>Is í don Roinn Coimirce Sóisialaí amháin is féidir uimhir PSP a thabhairt duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find a list of PPS registration centres on the Department of Social Protection's website. You should attend your nearest PPS registration centre</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir liosta Oifigí Leasa Shóisialaigh Áitiúla a chláraíonn Uimhreacha Pearsanta Seirbhíse Poiblí ar an suíomh gréasáin na Roinne Coimirce Sóisialaí a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Please note that some centres operate an appointment only system</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabhair faoi deara go n-oibríonn roinnt oifigí córas coinne amháin </seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should contact the registration centre to check if an appointment is required</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir duit dul i dteagmháil leis an oifig chun seiceáil an bhfuil coinne riachtanach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A Public Services Card is usually issued when you are allocated a PPS number</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iondúil go n-eisítear Cárta Seirbhísí Poiblí nuair a leithdháiltear uimhir PSP duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that you will also have your photograph taken when you attend a centre for registration of a new PPS number</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn sé sin go dtógfar do ghrianghraf nuair a fhreastalóidh tú ar oifig i gcomhair chlárú na huimhreach PSP nua</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It will take approximately 4-5 days for notification of your PPS number to arrive after your appointment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Glacfaidh sé tuairim 4-5 lá nó go dtiocfaidh fógra d’uimhir PSP tar éis do choinne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you want to get a PPS number or to be registered for a Public Services Card, you can now make an appointment online at mywelfare.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat coinne a dhéanamh ar líne ag mywelfare.ie anois má theastaíonn uait uimhir PSP a fháil nó chun clárú i gcomhair Cárta Seirbhísí Poiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will first need to register with the site</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh tú clárú leis an láithreán ar dtús</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To do this you need a mobile phone number and two email addresses (a main address and an alternate address)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Teastaíonn uimhir fhóin phóca uait agus dhá sheolad ríomhphoist (príomhcheann agus ceann malartarach) chuige sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you have made your appointment, print the notification and bring it to your appointment along with the required documents (listed in the notification)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Clóbhuail an fógra agus tabhair leat chuig do choinne é i dteannta leis na cáipéisí riachtanacha (a liostaítear san fhógra), nuair a bheidh do choinne ceaptha agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can access a list of PPS online registration centres on welfare.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá liosta Ionaid Chlárúcháin ar Líne PSP ar fáil ar welfare.ie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you do not know your PPS number, contact your Intreo Centre or local Social Welfare Branch Office and staff there can find your number for you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil d'uimhir PSP ar eolas agat, téigh i dteagmháil le d'Ionad Intreo nó d'Oifig Bhrainse Leasa Shóisialaigh agus gheobhaidh an fhoireann ansin d'uimhir duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are unsure as to whether a particular organisation, person or agent is entitled to request or use your PPS number, you should contact Client Identity Services in the Department of Social Protection</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil tú cinnte an bhfuil gníomhaireacht, duine, nó gníomhaire ar leith i dteideal d'uimhir PSP a iarraidh nó a úsáid, ba cheart duit dul i dteagmháil le Seirbhísí Aitheantais Chliaint sa Roinn Coimirce Sóisialaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can contact Client Identity Services using the secure online request form or by phone at 1890 927 999 or (071) 967 2616.   Change of address</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba choir duit teagmháil a dhéanamh le Seirbhísí Aitheantais Chliaint trí úsáid a bhaint as an bhfoirm iarratais ar líne nó tríd an nguthán ag 1890 927 999 nó (071) 967 2616</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Before the election, 5 panels are formed of candidates who represent vocational interests, namely, culture and education, agriculture, labour, industry and commerce, and administration</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cruthaítear 5 phainéal iarrthóirí roimh an toghchán, a fheidhmíonn ar son leasanna gairmiúla, is é sin an cultúr agus an t-oideachas, an talmhaíocht, an lucht saothair, an tionscal agus an tráchtáil, agus an riarachán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Each panel consists of 2 sub-panels – the Nominating Bodies sub-panel and the Oireachtas sub-panel</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá 2 fho-phainéal ar gach aon phainéal – fo-phainéal na gComhlachtaí Ainmnithe agus fo-phainéal an Oireachtais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Candidates are nominated to the Nominating Bodies sub-panels by organisations that represent a particular vocational interest and are registered as nominating bodies for a particular panel</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad eagrais ag feidhmiú do leas gairmiúil éigin agus atá cláraithe mar chomhlachtaí ainmnithe i gcomhair painéil ar leith a ainmníonn iarrthóirí chun fo-phainéil na gComhlachtaí Ainmnithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Candidates are nominated to the Oireachtas sub-panels by members of the Dáil and the outgoing members of the Seanad</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad na teachtaí Dála agus na Seanadóirí atá ag éirí as an Seanad a ainmníonn na hiarrthóirí d’fho-phainéil an Oireachtais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Once the nomination of Seanad panel candidates has taken place, the returning officer sends a list of the candidates nominated for each panel to each voter</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair atá na hiarrthóirí uilig don Seanad ainmnithe, cuireann an ceann comhaireamh liosta na n-iarrthóirí ainmnithe do gach painéal chuig gach vótálaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The list will indicate the name of the candidate and the bodies or persons who nominated them</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh ainm an iarrthóra chomh maith le ainm na n-eagras nó na ndaoine a d'ainmnigh an iarrthóir ar an liosta seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>On the day of the poll, the returning officer sends each voter 5 ballot papers by registered post - one for each panel</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar an lá vótála, cuireann an ceann comhaireamh litir chláraithe sa phost chuig gach vótálaí ina bhfuil cúig chinn de pháipéar ballóide - ceann do gach painéal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The ballot papers will show the names of the candidates in alphabetical order, their addresses and descriptions and the sub-panel they were nominated to</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh ainmneacha na n-iarrthóirí ar na páipéir bhallóide in ord aibítre, a seoltaí agus cur síos orthu chomh maith leis an bhfo-phainéal lena bhfuileadar ainmnithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the candidates have a political affiliation, this is not mentioned on the ballot paper</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá baint le páirtí polaitiúla ag iarrthóir, ní bhíonn sé seo luaite ar an bpáipéar ballóide</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The voter marks the order of their choice of candidates and returns the ballot papers by registered post to the returning officer</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann an vótálaí vóta do na hiarrthóirí de réir a rogha féin agus cuireann sé/sí ar ais na páipéir bhallóide chuig an gceann comhaireamh i bpostas cláraithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is a separate count for each panel</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn comhaireamh faoi leith ann do gach painéal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The candidates are elected according to the principle of proportional representation with single transferable vote</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar na hiarrthóirí a toghadh de réir hionadaíochta cionúirena ar mhodh an aonghutha inaistrithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A quota of votes is calculated to work out the number of votes necessary to become a candidate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar cuóta vótaí a áireamh le theacht ar an méid vótaí a theastaíonn le iarrthóir a thoghadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a candidate reaches the quota they are deemed elected</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má shroicheann iarrthóir an cuóta tá sé/sí tofa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a candidate obtains more votes than the quota, the surplus will be distributed to the remaining candidates in accordance with the next preference shown on the ballot papers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhíonn níos mó vótaí ag iarrthóir ná an cuóta déantar an fuílleach a roinnt idir na hiarrthóirí eile de réir an chéad rogha eile ar na páipéir bhallóide</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If no candidate reaches the quota, the candidate with the least votes is eliminated and their votes are distributed according to the next preference shown on the ballot papers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna shroicheann aon iarrthóir an cuóta, cuirtear an t-iarrthóir leis an líon is lú vótaí as an áireamh agus roinntear a vótaí ar na hiarrthóirí eile de réir an chéad rogha eile ar na páipéir bhallóide</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The number of candidates who can be elected from each panel are as follows;</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seo a leanas líon na n-iarrthóirí gur féidir a thoghadh as gach painéal;</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Cultural and educational panel - 5 members including at least 2 from each sub-panel</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Painéal cultúir agus oideachais - cúigear, san áireamh ar a laghad beirt ó gach fo-phainéal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Agricultural panel - 11 members including at least 4 from each sub-panel</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Painéal Talmhaíochta - aon chomhalta déag , san áireamh ar a laghad ceathrar ó gach fo-phainéal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Labour panel - 11 members including at least 4 from each sub-panel</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Painéal oibre - aon chomhalta déag, san áireamh ar a laghad ceathrar ó gach fo-phainéal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Industrial and Commercial panel - 9 members including at least 3 from each sub-panel</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Painéal Tionscail agus Tráchtála - naonúr, san áireamh ar a laghad triúr ó gach fo-phainéal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Administrative panel - 7 members including at least 3 from each sub-panel</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Painéal Riaracháin - seachtar san áireamh ar a laghad triúr ó gach fo-phainéal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a Senator dies, resigns or is disqualified from the Seanad, the vacancy will be filled by a by-election</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chailltear Seanadóir, má éiríonn sé/sí as oifig nó má dhéantar Seanadóir a dícháiliú ó Sheanad Éireann, líonfar an folúntas le fo-thoghchán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Only certain people can vote in Seanad panel elections</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá vóta ag daoine áirithe i dtoghcháin phainéil don Seanad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Members of the outgoing Seanad or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Comhaltaí den Seanad atá ag éirí as oifig</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Members of county councils and city councils</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Comhaltaí comhairlí condae agus cathrach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further information is available in the Department of Housing, Planning, Community and Local Government’s publication, How the Seanad is elected (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá a thuilleadh eolais ar fáil i bhfoilseachán na Roinne Tithíochta, Pleanála, Pobail agus Rialtais Áitiúil, An chaoi a thoghtar an Seanad (pdf)</seg></tuv>
+</tu>
+</body>
+</tmx>

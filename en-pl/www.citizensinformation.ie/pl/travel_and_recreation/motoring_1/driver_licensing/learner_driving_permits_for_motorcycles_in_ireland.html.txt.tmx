@@ -1,0 +1,553 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="pl"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Learner driving permits for motorcycles</seg></tuv>
+  <tuv xml:lang="pl"><seg>Irlandzkie zezwolenia szkoleniowe na motocykle¬</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is a statutory requirement that you must hold at least a learner driving permit (previously known as a provisional licence) for the appropriate category of motorcycle if you want to drive a motorcycle in a public place. You are required to carry your permit with you at all times when driving</seg></tuv>
+  <tuv xml:lang="pl"><seg>Jest to wymóg określony ustawowo, abyście Państwo posiadali przynajmniej zezwolenia szkoleniowe (wcześniej zwane tymczasowym prawem jazdy) na pojazd odpowiedniej kategorii, jeśli chcecie Państwo kierować motocyklem w miejscu publicznym</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This document explains how to apply for or renew a learner permit for a motorcycle. In other documents you will find information on:</seg></tuv>
+  <tuv xml:lang="pl"><seg>Wymaga się od Państwa posiadania przy sobie dokumentu zezwolenia szkoleniowego zawsze podczas kierowania pojazdem</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To apply for a learner permit, you must be normally resident in Ireland</seg></tuv>
+  <tuv xml:lang="pl"><seg>Aby ubiegać się o zezwolenie szkoleniowe należy być normalnie zamieszkałym w Irlandii</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you usually live here for at least 185 days in each calendar year (because of personal and occupational ties), you are considered to be normally resident in Ireland</seg></tuv>
+  <tuv xml:lang="pl"><seg>Jeśli mieszkacie Państwo tu przez przynajmniej 185 dni w każdym roku kalendarzowym (ze względów osobistych i zawodowych), uważa się Państwo za normalnie zamieszkałych w Irlandii</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Road Safety Authority now has responsibility for driver licensing and has set up a new National Driver Licence Service (NDLS)</seg></tuv>
+  <tuv xml:lang="pl"><seg>Od 29 października 2013 proces aplikacji zmienił i, gdy starasz się, trzeba będzie odwiedzić jednego z nowej Krajowej Służby kierowcy Licence (NDLS) ośrodków</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In addition, the application process has changed and, when applying for a learner permit, you have to visit one of the new NDLS centres</seg></tuv>
+  <tuv xml:lang="pl"><seg>W ramach tego procesu aplikacji twarzą w twarz, Twoje zdjęcie i podpis zostanie utrwalone cyfrowo. Zostaną one włączone do istniejącej opłaty</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As part of the face-to-face application process, your photo and your signature is captured digitally</seg></tuv>
+  <tuv xml:lang="pl"><seg>Trzeba będzie wnieść dodatkową dokumentację w celu potwierdzenia tożsamości</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You have to bring additional documentation to confirm your identity</seg></tuv>
+  <tuv xml:lang="pl"><seg>Dalsze informacje są dostępne na stronie internetowej NDLS</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A new plastic-card learner permit has been introduced, replacing the paper learner permit</seg></tuv>
+  <tuv xml:lang="pl"><seg>Każdy, kto ubiega się o licencję lub zezwolenie szkoleniowe od 12 stycznia 2013 otrzyma nową wersję</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is an EU initiative to introduce a secure, compact style of licence in all member states</seg></tuv>
+  <tuv xml:lang="pl"><seg>Jest to inicjatywa UE wprowadzić bezpieczny, kompaktowy styl jazdy we wszystkich państwach członkowskich</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The number of driving licence categories has increased and the minimum age requirement for certain categories has changed also</seg></tuv>
+  <tuv xml:lang="pl"><seg>Również liczba kategorie prawa jazdy wzrosła i minimalny wiek wymagany do niektórych kategorii zmianie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further information is available on the Road Safety Authority's website</seg></tuv>
+  <tuv xml:lang="pl"><seg>Dalsze informacje dostępne są na stronie internetowej Urzędu ds</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Before you learn to drive on public roads, you must hold a learner permit, covering the category of motorcycle you wish to drive</seg></tuv>
+  <tuv xml:lang="pl"><seg>Przed rozpoczęciem nauki jazdy na drogach publicznych Irlandii, należy uzyskać zezwolenie szkoleniowe odnoszące się do kategorii motocyka, którym chcecie Państwo kierować</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A learner permit to drive a motorcycle is usually valid for 2 years</seg></tuv>
+  <tuv xml:lang="pl"><seg>Zezwolenie szkoleniowe na kierowanie samochodem lub pojazdem roboczym jest zazwyczaj ważne przez 2 lata</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Learner permit holders are not allowed carry pillion passengers (passengers on the back of their motorcycle) or drive on a motorway</seg></tuv>
+  <tuv xml:lang="pl"><seg>Jeśli posiadacie Państwo zezwolenie szkoleniowe, nie wolno wozić Państwu pasażerów na tylnej części siedzenia motocykla, ani też jeździć na autostradzie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Motorcyclists with learner permits are required to display L-plates on a yellow fluorescent high visibility tabard. (A tabard is a bib or sleeveless outer garment with open side-seams)</seg></tuv>
+  <tuv xml:lang="pl"><seg>Od motocyklistów posiadających zezwolenie szkoleniowe wymaga się posiadania pola z literą L na żółtym fluorescencyjnym tle znajdującego się na kamizelce odblaskowej</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The letter 'L' must be in red and at least 15cm in height on a white background, and must be to the front and rear of your torso</seg></tuv>
+  <tuv xml:lang="pl"><seg>(Kamizelka jest rodzajem wierzchniego okrycia bez rękawów) Litera „L” musi być czerwona i mieć nie mniej niż 15 cm wysokości i byc na białym tle</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is a criminal offence for learner motorcyclists not to display L plates</seg></tuv>
+  <tuv xml:lang="pl"><seg>Musi znajdować się z przodu i z tyłu tułowia</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Since October 2011 the drink driving limit for drivers with learner permits and those in their first two years on a full driving licence is reduced to 20mg/100m of blood</seg></tuv>
+  <tuv xml:lang="pl"><seg>Nieposiadanie pola z literą L przez motocyklistę posiadającego jedynie zezwolenie szkoleniowe stanowi przestępstwo karne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The penalty points disqualification threshold of 12 points is reduced to 7 penalty points for those who obtain their first learner permit on or after 1 August 2014</seg></tuv>
+  <tuv xml:lang="pl"><seg>Od października 2011 limit alkoholu dopuszczalnego we krwi kierowcy samochodu z zezwoleniem szkoleniowym oraz kierowców posiadających pełne prawo jazdy przez okres poniżej 2 lat został zmniejszony do 20 mg / 200 ml krwi</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It remains at the lower threshold while they drive under a learner permit and subsequently during the first two years while they drive under their first driving licence</seg></tuv>
+  <tuv xml:lang="pl"><seg>Informacje o innych proponowanych środkach ochrony kierowców uczących się i niedoświadczonych dostępne są na stronie internetowej Urzędu ds</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further information is available on the Road Safety Authority website</seg></tuv>
+  <tuv xml:lang="pl"><seg>Bezpieczeństwa Ruchu Drogowego (Road Safety Authority)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The rules of the road are available at rulesoftheroad.ie</seg></tuv>
+  <tuv xml:lang="pl"><seg>Więcej o zasadach ruchu drogowego możecie się Państwo dowiedzieć na rotr.ie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Since 19 January 2013 there are 4 categories of motorcycle in Ireland that are licensed for use on public roads</seg></tuv>
+  <tuv xml:lang="pl"><seg>Od 19 stycznia 2013 r. w Irlandii istnieją 4 kategorie motocykli, którym zezwala się na poruszanie po drogach publicznych</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are also specified minimum ages for motorcyclists</seg></tuv>
+  <tuv xml:lang="pl"><seg>Również określony jest minimalny wiek motocyklistów</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Motorcycle and moped categories from 19 January 2013</seg></tuv>
+  <tuv xml:lang="pl"><seg>Kategorie motocykli i motorowerów o d 19 stycznia 2013 r</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Category│Vehicle type │Minimum age of driver │</seg></tuv>
+  <tuv xml:lang="pl"><seg>│Category│Vehicle type │Minimum age of driver │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│AM │Mopeds and tricycles with a maximum speed of 45kph and light quadricycles │16 years │</seg></tuv>
+  <tuv xml:lang="pl"><seg>│AM │Motorowery i trzykołowe o maksymalnej prędkości 45 km/h i lekkich │16 lat │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│A1 │Motorcycles (with or without a sidecar) of 11kW or less and 125cc or less, with a maximum power/weight ratio of 0.1 kW/kg, and motor tricycles of 15 kW or less │16 years │</seg></tuv>
+  <tuv xml:lang="pl"><seg>│A1 │Motocykle (z lub bez przyczepy) o 11kW lub mniej i 125cc lub mniej, o maksymalnej stosunek moc / masa do 0,1 kW / kg oraz motocykli trójkołowych o mocy 15 kW lub mniej │16 lat │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│A2 │Motorcycles (with or without a sidecar) of 35kW or less, with a maximum power/weight ratio of 0.2 kW/kg, and not derived from a vehicle of more than double its power │18 years │</seg></tuv>
+  <tuv xml:lang="pl"><seg>│A2 │Motocykle (z lub bez przyczepy) o 35kW lub mniej, o maksymalnej stosunek moc / masa do 0,2 kW / kg, i nie pochodzi od pojazdów o mocy przekraczającej dwukrotność mocy │18 lat │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│A │Motorcycles (with or without a sidecar) and motor tricycles │24 years (20 years via progressive access) │</seg></tuv>
+  <tuv xml:lang="pl"><seg>│A │Motocykle (z wózkiem bocznym lub bez) oraz motocykli trzykołowych │24 lat (20 lat poprzez stopniowego dostępu) │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Motorcycle and moped categories before 19 January 2013</seg></tuv>
+  <tuv xml:lang="pl"><seg>Przed 19 stycznia 2013 r. kategorie i kierowcy minimalny wiek dla motocykli i motorowerów, były następujące:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Category│Vehicle type │Minimum age of │</seg></tuv>
+  <tuv xml:lang="pl"><seg>│ Kategorie motocykli i motorowerów przed 19 stycznia 2013 r</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│A1 │Motorcycles of 11kW or less and of 125cc or less, with or│16 years │</seg></tuv>
+  <tuv xml:lang="pl"><seg>│Kategoria │Rodzaj pojazdu │Minimalny wiek kierowcy │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│ │without a sidecar │ │</seg></tuv>
+  <tuv xml:lang="pl"><seg>│A1 │Motocykle o mocy 11kW lub mniejszej oraz o pojemności 125cm3 lub mniejszej, z lub bez wózka bocznego │16 lat │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│A* │Motorcycles with or without a sidecar │18 years │</seg></tuv>
+  <tuv xml:lang="pl"><seg>│A* │Motocykle z lub bez wózka bocznego │18 lat │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│M │Mopeds with a maximum speed of 45kph and a maximum n │16 years │ │ │engine size of 50cc │ │</seg></tuv>
+  <tuv xml:lang="pl"><seg>│M │Motorowery o maksymalnej prędkości osiąganej 45 km/h I maksymalnej pojemności silnika 50 cm3 │16 lat │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>* Category A learner permits issued before 19 January 2013 carry a restriction</seg></tuv>
+  <tuv xml:lang="pl"><seg>* Zezwolenia szkoleniowe kategorii A wydane przed 19 stycznia 2013 r. związane są z ograniczeniami</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This restriction limits the licence holder to motorcycles (with or without a sidecar) subject to a power limit of 25kW</seg></tuv>
+  <tuv xml:lang="pl"><seg>Te ograniczenia powodują, że właściciel zezwolenia na motocykle (z lub bez wózka bocznego) ograniczony jest to mocy 25kW</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This restriction continues for 2 years after you have obtained a full driving licence for this category providing the licence was obtained before 19 January 2013</seg></tuv>
+  <tuv xml:lang="pl"><seg>To ograniczenie trwa przez dwa lata po uzyskaniu pełnego prawa jazdy tej kategorii jeżeli pozwolenie zostało uzyskane przed dniem 19 stycznia 2013 roku</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Getting a full driving licence</seg></tuv>
+  <tuv xml:lang="pl"><seg>Otrzymanie pełnego prawa jazdy</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are old enough, the usual steps you must take to get a full driving licence in a particular category is to:</seg></tuv>
+  <tuv xml:lang="pl"><seg>Jeżeli jesteś w odpowiednim wieku, w celu otrzymania pełnego prawa jazdy na poszczególne kategorie, należy podjąć następujące kroki:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Pass the motorcycle/moped theory test</seg></tuv>
+  <tuv xml:lang="pl"><seg>Zdać teoretyczny test motocyklowo/motorowerowy</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Get a learner permit for the category you wish to get a full licence for</seg></tuv>
+  <tuv xml:lang="pl"><seg>Otrzymać zezwolenie ucznia w kategorii, w której chcesz otrzymać pełne prawo jazdy</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Complete all the appropriate Initial Basic Training (IBT) modules on the appropriate type of motorcycle</seg></tuv>
+  <tuv xml:lang="pl"><seg>Skompletować odpowiednie moduły podstaw szkolenia początkowego do odpowiedniego typu motocykla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Pass the motorcycle driving test after a minimum of 6 months on the appropriate representative motorcycle</seg></tuv>
+  <tuv xml:lang="pl"><seg>Po upływie minimum 6 miesięcy, zdać motocyklowy egzamin z jazdy na odpowiednim typie motocykla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if you have already held a category A1 or A2 full driving licence for at least two years it is possible to get a full licence for category A2 or A respectively through what is called progressive access, without going through all those steps</seg></tuv>
+  <tuv xml:lang="pl"><seg>Jeżeli jednak od co najmniej dwóch lat posiadasz pełne prawo jazdy kategorii A1 lub A2, możliwe jest otrzymanie pełnego prawa jazdy na kategorię A2 lub A, odpowiednio metodą zwaną dostęp progresywny, bez przechodzenia przez te wszystkie etapy</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Providing you have already completed IBT training for your existing licence, the steps you follow are:</seg></tuv>
+  <tuv xml:lang="pl"><seg>Jeżeli odbyłeś szkolenie IBT podczas zdobywania posiadanego już prawa jazdy, musisz teraz przejść następujące etapy:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Get a learner permit for the category you wish to get a full licence for</seg></tuv>
+  <tuv xml:lang="pl"><seg>Otrzymanie zezwolenie ucznia w kategorii, w której chcesz otrzymać pełne prawo jazdy</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Complete the IBT progression module on the appropriate type of motorcycle</seg></tuv>
+  <tuv xml:lang="pl"><seg>Skompletowanie progresywnego modułu IBT na odpowiedni typ motocykla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may also have to do a motorcycle driving test if you did not pass the test for your existing licence</seg></tuv>
+  <tuv xml:lang="pl"><seg>Jeżeli nie zdawałeś egzaminu na posiadane prawo jazdy, może okazać się konieczne zdanie egzaminu z jazdy motocyklem</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is possible to get a category A learner permit at age 20 under progressive access</seg></tuv>
+  <tuv xml:lang="pl"><seg>W ramach dostępu progresywnego, możliwe jest otrzymanie zezwolenia ucznia w kategorii A w wieku lat 20</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Information on the process for obtaining a motorcycle licence (pdf) and a related motorcycle FAQ (pdf) is available on the Road Safety Authority's website</seg></tuv>
+  <tuv xml:lang="pl"><seg>Informacje dotyczące nowego processu otrzymywania motocyklowego prawa jazdy (pdf) oraz w związku z tym najczęściej zadawane pytania motocyklowe (FAQ) (pdf) dostępne są na stronie internetowej Urzędu ds. Bezpieczeństwa Drogowego</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your first learner permit</seg></tuv>
+  <tuv xml:lang="pl"><seg>Twoje pierwsze zezwolenie ucznia</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must have a valid driver theory test certificate for motoycycle and moped categories before a first motorcycle learner permit will be granted</seg></tuv>
+  <tuv xml:lang="pl"><seg>Przed otrzymaniem pierwszego prawa jazdy na motocykl, musisz otrzymać zaświadczenie o zdaniu egzaminu z teorii kierowcy w kategorii motocykli i motorowerów</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The theory test certificate is valid for 2 years from the date of issue</seg></tuv>
+  <tuv xml:lang="pl"><seg>Zaświadczenie o zdaniu egzaminu z teorii ważne jest przez 2 lata od daty wydania</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your learner permit expired at least 5 years ago, then you must pass the theory test again before a learner permit will be issued</seg></tuv>
+  <tuv xml:lang="pl"><seg>Jeśli twoje tymczasowe prawo jazdy bądź zezwolenie ucznia wygasło przed co najmniej 5 laty, wówczas zanim wydane zostanie zezwolenie ucznia, musisz ponownie zdać test teoretyczny</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must do Initial Basic Training (IBT) when you get your first learner permit</seg></tuv>
+  <tuv xml:lang="pl"><seg>Po otrzymaniu pierwszego zezwolenia ucznia, musisz odbyć Wstępne szkolenie podstawowe (IBT)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You cannot ride a motorcycle on the road unsupervised by your IBT instructor unless have done your IBT and received a certificate of satisfactory completion</seg></tuv>
+  <tuv xml:lang="pl"><seg>Nie wolno ci jeździć motocyklem po drogach bez nadzoru instruktora IBT, chyba że zakonczyłeś IBT i otrzymałeś zaświadczenie o jego pozytywnym wyniku</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You cannot take a driving test for at least 6 months after getting your first learner permit</seg></tuv>
+  <tuv xml:lang="pl"><seg>Przez okres co najmniej 6 miesięcy po otrzymaniu pierwszego zezwolenia ucznia, nie możesz zdawać egzaminu z jazdy (chyba że dokonujesz zmiany z tymczasowego prawa jazdy na zezwolenie ucznia)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your third learner permit</seg></tuv>
+  <tuv xml:lang="pl"><seg>Trzecie zezwolenie szkoleniowe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may not apply for a third or subsequent learner permit unless you can provide:</seg></tuv>
+  <tuv xml:lang="pl"><seg>Nie wolno ubiegać się o trzecie lub kolejne zezwolenie szkoleniowe, poza przypadkami gdy można okazać:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Evidence that you have undergone a driving test for a motorbike in the 2-year period prior to your application (a 2-year learner permit will be granted) or</seg></tuv>
+  <tuv xml:lang="pl"><seg>• Dowód, że podeszło się do egzaminu na prawo jazdy w okresie na dwa lata przed złożeniem podania (zostanie wydane dwuletnie zezwolenie szkoleniowe)  lub</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Evidence of a forthcoming test date (a 1-year learner permit will be granted)</seg></tuv>
+  <tuv xml:lang="pl"><seg>• Dowód zbliżającej się daty egzaminu (zostanie wydane jednoroczne zezwolenie szkoleniowe)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Learner permits are valid for 2 years (or in certain circumstances for 1 year only) and since 1 January 2013 the fee is €35</seg></tuv>
+  <tuv xml:lang="pl"><seg>Zezwolenie szkoleniowe na motocykle jest ważne przez 2 lata (lub 1 rok w pewnych przypadkach) i od 1 stycznia 2013 r. opłata wynosi 35€</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They are free of charge to those aged 70 or over</seg></tuv>
+  <tuv xml:lang="pl"><seg>Zezwolenie jest bezpłatne dla osób w wieku 70 lat i powyżej</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Information on acceptable forms of payment is available on the application form</seg></tuv>
+  <tuv xml:lang="pl"><seg>Wymianę zezwolenia szkoleniowego, aby pokazać nową nazwę lub nowy adres jest bezpłatna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Any required eyesight tests or medical examinations are not free of charge</seg></tuv>
+  <tuv xml:lang="pl"><seg>Informacje na temat dopuszczalnych form płatności jest na formularzu wniosku</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You have to apply in person to one of the NDLS centres</seg></tuv>
+  <tuv xml:lang="pl"><seg>W przypadku ubiegania się o zezwolenie na jazdę motocyklem, należy złożyć podanie o zezwolenie na kategorie A lub A2 lub A1 lub AM</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You do not have to provide photographs with your application but you do need to bring additional documents with you in order to confirm you are the person who is applying for the driving licence</seg></tuv>
+  <tuv xml:lang="pl"><seg>Formularz wniosku o zezwolenie szkoleniowe, formularz D201, jest dostępny od centrów NDLS, ośrodki testowe jazdy, jazdy testowe i centra Teoria Stacje Garda. Można również pobrać formularz D201 (PDF), jak również noty wyjaśniające (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have a learner permit or Irish driving licence, you need to bring evidence of your PPS Number and proof of address</seg></tuv>
+  <tuv xml:lang="pl"><seg>Jeśli obecnie irlandzkie prawo jazdy / zezwolenie szkoleniowe, trzeba będzie wnieść licencji / zezwolenia i dowody numeru PPS</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you do not have a learner permit or an Irish driving licence, you need to bring photographic ID, proof of your residency entitlement, evidence of your PPS Number and proof of address</seg></tuv>
+  <tuv xml:lang="pl"><seg>Jeśli nie masz prawa jazdy / irlandzki zezwolenie szkoleniowe, trzeba będzie przynieść tożsamości ze zdjęciem, dowód swojego prawa stałego pobytu, dowód numeru PPS i potwierdzenie adresu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>See ‘Proof of identity’ below</seg></tuv>
+  <tuv xml:lang="pl"><seg>Zobacz "dowód tożsamości" sekcji poniżej</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You apply for or renew a learner permit using the learning permit application form (D201) which is available from NDLS centres, driving test centres, driving theory test centres and Garda stations</seg></tuv>
+  <tuv xml:lang="pl"><seg>Złożenie podania o pierwsze zezwolenie szkoleniowe  Wypełniony formularz podania D201 powinien miec następujące załączniki:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can also download the learner permit application form (pdf) as well as guidance notes (pdf)</seg></tuv>
+  <tuv xml:lang="pl"><seg>• Kopia aktu urodzenia lub paszportu lub świadectwo rejestracji. Nie jest to wymagane jeśli</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Applying for your first learner permit</seg></tuv>
+  <tuv xml:lang="pl"><seg>- posiadacie Państwo aktualne zezwolenie szkoleniowe lub posiadaliście je w ciągu ostatnich 5 lat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The completed application form D201 should be accompanied by:</seg></tuv>
+  <tuv xml:lang="pl"><seg>- posiadacie już Państwo ważne prawo jazdy wydane przez inny kraj członkowski UE lub państwo rozpoznawane</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Your current or last driving licence and/or learner permit if you have one</seg></tuv>
+  <tuv xml:lang="pl"><seg>• Aktualne lub ostatnie prawo jazdy i/lub zezwolenie szkoleniowe, jeśli je Państwo macie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Your driver theory test certificate</seg></tuv>
+  <tuv xml:lang="pl"><seg>• Państwa świadectwo z teoretycznego egzaminu na prawo jazdy</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A Driving Licence Eyesight Report Form</seg></tuv>
+  <tuv xml:lang="pl"><seg>• Zaświadczenie o stanie zdrowia wzroku</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A completed eyesight report form must accompany all first learner permit applications - see below</seg></tuv>
+  <tuv xml:lang="pl"><seg>Zaświadczenie o stanie zdrowia wzroku musi zostać złożone ze wszystkimi podaniami o pierwsze zezwolenie szkoleniowe – patrz niżej</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A Driving Licence Medical Report Form may be required - see below</seg></tuv>
+  <tuv xml:lang="pl"><seg>• Zaświadczenie medyczne. Zaświadczenie medyczne potrzebne jest w różnych okolicznościach – patrz niżej</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The appropriate fee - see Rates above</seg></tuv>
+  <tuv xml:lang="pl"><seg>• Odpowiednia opłata – patrz Stawki powyżej</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Applying for your second learner permit</seg></tuv>
+  <tuv xml:lang="pl"><seg>Składanie podania o drugie zezwolenie szkoleniowe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When applying for your second learner permit the completed application form D.201 should be accompanied by:</seg></tuv>
+  <tuv xml:lang="pl"><seg>W przypadku ubiegania się o drugie zezwolenie szkoleniowe należy złożyć wypełniony formularz podania D.201 powinien mieć następujące załączniki:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Your last learner permit</seg></tuv>
+  <tuv xml:lang="pl"><seg>• Państwa ostatnie zezwolenie szkoleniowe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A Driving Licence Eyesight Report Form may be required - see below</seg></tuv>
+  <tuv xml:lang="pl"><seg>Zaświadczenie medyczne potrzebne jest w różnych okolicznościach – patrz niżej</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The appropriate fee- see Rates above</seg></tuv>
+  <tuv xml:lang="pl"><seg>• Odpowiednia opłata – patrz Stawki powyżej</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Applying for your third or subsequent learner permit</seg></tuv>
+  <tuv xml:lang="pl"><seg>Składanie podania o trzecie lub kolejne zezwolenie szkoleniowe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When applying for your third or subsequent learner permit the completed application form D.201 should be accompanied by:</seg></tuv>
+  <tuv xml:lang="pl"><seg>Wypełniony formularz podania D.201 powinien mieć następujące załączniki:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Your last learner permit</seg></tuv>
+  <tuv xml:lang="pl"><seg>• Państwa ostatnie zezwolenie szkoleniowe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Evidence of having taken the motorbike driving test in the previous 2 years or evidence of a forthcoming test</seg></tuv>
+  <tuv xml:lang="pl"><seg>• Dowód, że podeszło się do egzaminu na prawo jazdy w poprzednich 2 latach lub dowód zbliżającej się daty egzaminu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A Driving Licence Eyesight Report Form may be required - see below</seg></tuv>
+  <tuv xml:lang="pl"><seg>Zaświadczenie medyczne potrzebne jest w różnych okolicznościach – patrz niżej</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The appropriate fee - see Rates above</seg></tuv>
+  <tuv xml:lang="pl"><seg>• Odpowiednia opłata – patrz Stawki powyżej</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A completed Driving Licence Eyesight Report Form must accompany all first learner permit applications</seg></tuv>
+  <tuv xml:lang="pl"><seg>Zaświadczenie o stanie zdrowia wzroku musi zostać złożone ze wszystkimi podaniami o pierwsze zezwolenie szkoleniowe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An eyesight report is not required where a medical report is provided unless indicated by the doctor</seg></tuv>
+  <tuv xml:lang="pl"><seg>Zarejestrowany optyk-okulista lub zarejestrowany lekarz medycyny powinien przeprowadzić Państwa badanie okulistyczne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is also available from NDLS centres. A registered ophthalmic optician or a registered medical practitioner should conduct your eye test</seg></tuv>
+  <tuv xml:lang="pl"><seg>Następnie powinien wypełnić formularz i być świadkiem podpisania przez Państwa oświadczenia na formularzu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The report is valid for 1 month</seg></tuv>
+  <tuv xml:lang="pl"><seg>Raport ten ważny jest przez 1 miesiąc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A Driving Licence Medical Report Form is required if:</seg></tuv>
+  <tuv xml:lang="pl"><seg>Raport medyczny wymagany jest jeśli:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You will be 70 years of age or more on the first day of the period for which the permit is being issued</seg></tuv>
+  <tuv xml:lang="pl"><seg>• Będziecie Państwo mieli 70 lat lub więcej pierwszego dnia okresu ważności zezwolenia, które jest Państwu wydawane lub</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You have any of certain disabilities or conditions (see application form)</seg></tuv>
+  <tuv xml:lang="pl"><seg>• Cierpicie Państwo na padaczkę lub alkoholizm lub</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You do not have to provide a medical report if you have previously provided a satisfactory medical report which is still applicable</seg></tuv>
+  <tuv xml:lang="pl"><seg>• Regularnie zażywacie Państwo leki które niosą prawdopodobieństwo zmniejszenia Państwa zdolności do bezpiecznej jazdy</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is also available from NDLS centres. A registered medical practitioner should carry out your medical examination and then complete the form</seg></tuv>
+  <tuv xml:lang="pl"><seg>Zarejestrowany lekarz medycyny powinien przeprowadzić Państwa badanie i następnie wypełnić formularz</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must sign the declaration on the medical report form in the presence of the registered medical practitioner</seg></tuv>
+  <tuv xml:lang="pl"><seg>Musicie Państwo podpisać oświadczenie na raporcie medycznym w obecności zarejestrowanego lekarza medycyny</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The report is valid for 1 month</seg></tuv>
+  <tuv xml:lang="pl"><seg>Raport ten ważny jest przez 1 miesiąc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The following documents are accepted as proof of your identity:</seg></tuv>
+  <tuv xml:lang="pl"><seg>Następujące dokumenty są akceptowane jako dowód tożsamości :</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>- Current passport for all non-Irish citizens</seg></tuv>
+  <tuv xml:lang="pl"><seg>- Aktualny paszport dla wszystkich obywateli spoza Irlandii</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>- Current national identity card for EU/EEA/Swiss citizens</seg></tuv>
+  <tuv xml:lang="pl"><seg>- Bieżąca Narodowy Legitymacja dla UE / EOG / Szwajcarii Obywateli</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>- Irish certificate of naturalisation - Current UK (photo) driving licence</seg></tuv>
+  <tuv xml:lang="pl"><seg>- Certyfikat Naturalizacji irlandzki- Bieżąca PL ( zdjęcia ) prawo jazdy</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>- Current Public Services Card</seg></tuv>
+  <tuv xml:lang="pl"><seg>- Ta karta Usługi publiczne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>- Current Irish travel document (issued by INIS)</seg></tuv>
+  <tuv xml:lang="pl"><seg>- Aktualne dokumenty podróży irlandzkie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Proof of your residency entitlement</seg></tuv>
+  <tuv xml:lang="pl"><seg>• Dowód masz prawo stałego pobytu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>- Irish/UK long-form birth certificate or adoption certificate</seg></tuv>
+  <tuv xml:lang="pl"><seg>- Irlandzki / UK długo forma aktu urodzenia lub świadectwa przyjęcia</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>- Foreign birth registration - Irish passport</seg></tuv>
+  <tuv xml:lang="pl"><seg>- Zagraniczna rejestracja narodzin- Irlandzki paszport</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>- Current passport for all EU/EEA/Swiss citizens</seg></tuv>
+  <tuv xml:lang="pl"><seg>- Aktualny paszport dla wszystkich obywateli UE / EOG / Szwajcarii</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>- Current national identity card for EU/EEA/Swiss citizens</seg></tuv>
+  <tuv xml:lang="pl"><seg>- Bieżąca Narodowy Legitymacja dla UE / EOG / Szwajcarii Obywateli</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>- Current Certificate of Registration (GNIB card) for non-EU/EEA/Swiss citizens</seg></tuv>
+  <tuv xml:lang="pl"><seg>- Aktualne zaświadczenie o rejestracji ( karta GNIB ) dla non-EU/EEA/Swiss Obywateli</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>- Public Services Card/Social Services Card</seg></tuv>
+  <tuv xml:lang="pl"><seg>- Usługi publiczne Karta / Karta Usługi społeczne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>- Correspondence from Revenue or Social Welfare showing PPSN</seg></tuv>
+  <tuv xml:lang="pl"><seg>- Korespondencja z przychodów / Opieki Społecznej pokazując PPSN</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>- P21/Tax Assessment/ Notice of tax credits</seg></tuv>
+  <tuv xml:lang="pl"><seg>- P21/Tax Ocena / Zawiadomienie o ulgi podatkowe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>- Receipt of social welfare payment</seg></tuv>
+  <tuv xml:lang="pl"><seg>- Otrzymanie płatności Pomocy Społecznej</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>- Medical card/Drug Payment Scheme (DPS) Card</seg></tuv>
+  <tuv xml:lang="pl"><seg>- Karta medyczna / Schemat Drug Płatność (DSZ ) Karta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Proof of address (See Note below)</seg></tuv>
+  <tuv xml:lang="pl"><seg>• Potwierdzenie adresu ( patrz uwaga poniżej )</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>- Utility bill from your electricity/phone/gas/cable television/broadband provider</seg></tuv>
+  <tuv xml:lang="pl"><seg>- Rachunek za media takie jak prąd / gaz / telefon / telewizja kablowa / dostawcy usług szerokopasmowych )</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>- Correspondence with an insurance company</seg></tuv>
+  <tuv xml:lang="pl"><seg>- Korespondencja z firmy ubezpieczeniowej</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>- Statement from your bank/building society/credit union</seg></tuv>
+  <tuv xml:lang="pl"><seg>- Raport z społeczeństwa bankowy / budynku / Credit Union</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>- Letter from the Department of Social Protection or Revenue</seg></tuv>
+  <tuv xml:lang="pl"><seg>- List z Departamentu Ochrony Socjalnej / przychody</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>- Other official correspondence from an Irish State agency, such as government departments; HSE; Register of Electors/polling card; CAO; Residential Tenancies Board or third-level college/training agency</seg></tuv>
+  <tuv xml:lang="pl"><seg>- Inne oficjalna korespondencja z irlandzkiej agencji państwa , takie jak departamenty rządowe; HSE ; rejestru wyborców / karta Polling ; CAO ; najmu lokali mieszkalnych lub trzeci poziom agencja pomaturalne / szkolenia</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Note: Proof of address documents can be no more than 6 months old at date of application</seg></tuv>
+  <tuv xml:lang="pl"><seg>Uwaga : Dowód z dokumentów adresowych może być nie więcej niż 6 miesięcy na dzień złożenia wniosku</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Mobile phone bills and statements from store cards/catalogue companies are not accepted</seg></tuv>
+  <tuv xml:lang="pl"><seg>Rachunki za telefon komórkowy i oświadczenia karty sklepowe / Katalog firm nie są akceptowane </seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An application for a learner permit for a motorcycle should be made in person to one of the National Driver Licence Service (NDLS) centres - see 'How to apply' above</seg></tuv>
+  <tuv xml:lang="pl"><seg>Od 29 października 2013 Wniosek o zezwolenie szkoleniowe należy składać osobiście do jednego z Narodowej Służby kierowcy licencyjnej (NDLS) ośrodków</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can book an appointment online</seg></tuv>
+  <tuv xml:lang="pl"><seg>Ponadto dostarcza ona informacji o zezwoleniach szkoleniowych</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The National Driver Licence Service provides information on applying for a learner permit on its website</seg></tuv>
+  <tuv xml:lang="pl"><seg>Moy Business Park Primrose Hill Ballina Mayo Ireland</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>National Driver Licence Service</seg></tuv>
+  <tuv xml:lang="pl"><seg>National Driver Licence Service</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,285 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Some people take early retirement in order to take up another job or to become self-employed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Éiríonn roinnt daoine as a bpost go luath chun post eile a ghlacadh nó chun a bheith féin-fhostaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Many people aged over the "normal"retirement age are employed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá go leor daoine thar an "gnáthaois" phinsin fostaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are a small number of occupations that have statutory upper age limits but, in general, there is no rule which prevents people over the age of 65 from being employed or self-employed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá roinnt bheag slite beatha go bhfuil uasteorainn aoise ag baint leo, ach, go ginearálta, níl aon riail ann a chuireann cosc ar dhaoine thar 65 bliain d'aois a bheith fostaithe nó féinfhostaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Many self-employed people continue to be so well past the "normal" retirement age</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn roinnt mhaith daoine féinfhostaithe a leanann ag obair go maith thar an "gnáthaois" phinsin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you were a permanent and pensionable public servant, your pension may be abated if you go back to work in the public sector</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhí tú i do státsheirbhíseach buan agus inphinseanaithe, d'fhéadfadh sé go dtiocfadh maolú ar do phinsean má théann tú ar ais ag obair san earnáil phoiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is generally not possible to further contribute to an occupational pension scheme after the normal age of retirement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iondúil nach féidir tuilleadh íocaíochtaí a dhéanamh i scéim pinsin cheirde tar éis an gnáthaois phinsin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In general, there is no upper age limit for employment and there is no single fixed retirement age for employees</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go hiondúil, níl aon uasteorainn aoise i gceist le haghaidh fostaíochta agus níl aon aois le dhul amach ar phinsean</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are employed, your retirement age is set out in your contract of employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú fostaithe, tá an aois le dhul amach ar phinsean leagtha síos i do chonradh fostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some contracts of employment have a mandatory retirement age (that is, the age at which you must retire), but they also have provisions for earlier retirement generally and/or on grounds of illness</seg></tuv>
+  <tuv xml:lang="ga"><seg>I bhformhór conarthaí tá aois shainordaithe le dhul amach ar phinsean leagtha síos sa chonradh - ach is iondúil go mbíonn soláthar ann chun dul amach ar phinsean níos luaithe agus/nó ar bhonn tinneas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The usual retirement age in contracts of employment is 65</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sé an gnáth aois a bhíonn leagtha síos i gconradh le dhul amach ar phinsean ná 65</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Many have provisions for early retirement from age 60 or from age 55 and most have provision for early retirement on health grounds</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn soláthar i roinnt mhaith acu le dhul amach ar phinsean go luath ó aois 60 nó aois 55 agus tá socruithe ag formhór acu i gcomhair dul ar phinsean luath mar gheall ar chúrsaí sláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In some cases, there is a statutory retirement age. These retirement ages arise in jobs that are established by law and the law sets out the maximum age of staff</seg></tuv>
+  <tuv xml:lang="ga"><seg>I roinnt postanna, tá aois reachtúil ann le n-éirí as an bpost - tárlaíonn sé i bpostanna atá bunaithe ag an dlí agus leagann an dlí síos an uas-aois don fhoireann oibre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your contract of employment includes a mandatory upper age limit, then you must retire when you reach that limit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá uasteorainn aoise i do chonradh fostaíochta, caithfidh tú éirí as an bpost nuair a shroicheann tú an teorainn sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, it is open to you and your employer to negotiate another contract</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leatsa agus do fhostóir conradh eile a dhéanamh, áfach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are subject to a statutory or mandatory retirement age in your job, there is nothing to prevent you taking up a different job when you retire or taking up self-employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá uasteorainn aoise scoir reachtúla nó sainordaithe i do phost, níl aon chosc ort post eile a ghlacadh nó a bheith féinfhostaithe tar éis duit éirí as an bpost seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Effect on social welfare payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tionchar ar íocaíochtaí leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are receiving any social welfare payment other than the State Pension (Contributory) or Widow's, Widower's or Surviving Civil Partner's (Contributory) Pension, working will affect your entitlement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ag fáil aon íocaíocht leasa shóisialaigh taobh amuigh den Phinsean Stáit (Ranníocach) nó Phinsean Baintrí, Baintrí Fir nó Páirtnéara Shibhialta Mharthanaigh (Ranníocach) beidh tionchar aige orthu seo má bhíonn tú ag obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Jobseeker's Benefit or Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sochar nó Liúntas Cuardaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It may be possible to do some part-time work and retain entitlement to part of your Jobseeker's Benefit or Jobseeker's Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>B'fhéidir go bhféadfá roinnt oibre páirtaimseartha a dhéanamh agus fós a bheith i dteideal cuid den Sochar Cuardaitheora Poist nó Liúntas Cuardaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are getting Pre-Retirement Allowance it may be possible to do some work and retain some entitlement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhaigheann tú Liúntas Réamh Scoir, b'fhéidir go bhféadfá roinnt oibre a dhéanamh agus fós a bheith i dteideal cuid den liúntas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are receiving the State Pension (Contributory), you may work or be self-employed without affecting your entitlement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá an Pinsean Stáit (Rannioch) dhá íoc leat is féidir leat a bheith fostaithe nó féinfhostaithe gan aon tionchar a bheith aige seo ar an bpinsean</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, any increase for a qualified adult may be affected if your spouse, civil partner or cohabitant works</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áfach, má oibríonn do chéile, páirtnéir sibhialta nó chomhchónaitheoir, d’fhéadfadh go bhfuil tionchar ar aon mhéadú do dhuine fásta cáilithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are receiving an occupational pension, then you may also work or be self-employed and if you are receiving a private sector pension, working or being self-employed does not usually affect it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá pinsean ceirde dhá íoc leat is féidir leat a bheith ag obair nó a bheith féinfhostaithe chomh maith. Má tá pinsean ón earnáil phríobháideach dhá íoc leat go hiondúil ní bhíonn aon tionchar ag aon obair a bheadh agat ar seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, most public sector pension schemes are subject to what is called abatement if you return to work in the public sector</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach, tá maolú i gceist le formhór na scéimeanna pinsin san earnáil phoiblí má fhilleann tú ar obair san earnáil phoiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The precise conditions may vary from one scheme to another but, in general, abatement means that the pension is reduced in order to ensure that you do not earn more between the pension and the income from employment than you would if you had remained in employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mar an gcéanna a bhíonn na coinníollacha sna scéimeanna seo, ach go ginearálta ciallaíonn an maolú seo go laghdófar do phinsean chun a chinntiú nach bhfuil tú ag fáil níos mó ón bpinsean agus an t-ioncam ón bhfostaíocht ná a mbeifeá ag saothrú dá mbeifeá fós sa phost óna bhfuil tú ag fáil an phinsin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are getting a public service pension and you go to work in the private sector, your pension is not affected</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ag fáil pinsin ón tseirbhís phoiblí agus go dtéann tú ag obair san earnáil phríobháideach, níl aon tionchar aige seo ar do phinsean</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Contributions to occupational pensions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ranníocaíochtaí le scéimeanna pinsin cheirde</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are employed, you may contribute to the new employment pension scheme if you are eligible</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú fostaithe, is féidir leat ranníocaíochtaí a dhéanamh don scéim nua pinsin má tá tú i dteideal seo a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most occupational pension schemes do not cater for contributions over the age of 65 but it is possible that some do</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhíonn aon réiteach ag formhór na scéimeanna pinsin cheirde i gcomhair ranníocaíochtaí thar aois 65, ach d'fhéadfadh sé go mbeadh ag roinnt acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is possible to get tax relief on contributions up to age 70</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir faoiseamh cánach a fháil ar íocaíochtaí suas go dtí 70 bliain d'aois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are self-employed or your new employment does not include an occupational pension, you could decide to make arrangements for a personal pension</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú féinfhostaithe nó muna bhfuil scéim pinsin cheirde ag baint le do fhostaíocht nua, d'fhéadfá socruithe a dhéanamh i gcomhair pinsin phearsanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Again, the upper age limit for tax relief for such contributions is 70</seg></tuv>
+  <tuv xml:lang="ga"><seg>Arís, tá faoiseamh cánach ar fáil ar na ranníocaíochtaí seo suas go dtí 70 bliain d'aois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most legislation dealing with the protection of employees does not have an upper age limit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhaineann aois teorainn leis an gcuid is mó den reachtú a bhaineann le cosaint fhostaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>So, if you are an older worker, whether full or part-time, you are covered by protective legislation dealing with the following areas:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin, más oibrí níos sine tú, is cuma páirt nó lánaimseartha, tá tú clúdaithe ag reachtú a bhaineann leo seo a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Information about your terms and conditions of employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Eolas maidir le do thearmaí agus coinníollacha oibre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Maximum working hours, rest periods, Sunday working, night working</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Uasmhéid uaireanta oibre, tréimhsí scíth, obair Dhomhnaigh, obair oíche</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Health and safety at work</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sláinte agus sábhailteacht ag an obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Minimum notice - the amount of notice is related to the length of service</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Fógra scoir - tá an méid fógra atá sé de cheart agat a fháil ag brath ar an fhad atá tú ag obair ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you lose your job and your employer owes you money for arrears of pay, holidays and a number of other items, you may claim this from the Social Insurance Fund</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chailleann tú do phost agus go bhfuil airgead ag dul ag d'fhostóir duit ar phá, saoire agus roinnt nithe eile, is féidir leat an t-airgead seo a éileamh ón gCiste Árachais Shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the Unfair Dismissals Acts, dismissal on the grounds of age is unfair with certain exceptions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoin Acht um Bhriseadh Éagórach, is féidir le dífhostú ar bhonn aoise a bheith éagórach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>People who must leave employment when they reach the retirement age stated in their contract may not claim unfair dismissal</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir le daoine a bhfuil orthu an fhostaíocht a fhágáil nuair a shroicheann siad aois an phinsin sainordaithe éileamh a dhéanamh mar gheall ar bhriseadh éagórach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are unfairly dismissed, at whatever age, you may complain to the Workplace Relations Commission using the online complaint form available on workplacerelations.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin, má go mbristear go héagórach tú as do phost, is féidir leat gearán a dhéanamh chuig an gCoimisiúin um Chaidreamh san Áit Oibre tríd an fhoirm ghearáin ar líne a úsáid á fáil ar workplacerelations.ie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are made redundant you may be entitled to a redundancy payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tugadh iomarcaíocht duit féadann tú a bheith i dteideal iomarcaíocht a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Employment Equality Acts 1998-2015 prohibit discrimination on 9 grounds including that of age (with certain exceptions)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann na hAchtanna um Chomhionannas Fostaíochta 1998-2015 cosc ar leatrom a dhéanamh i gcúrsaí fostaíochta ar 9 chúinsí faoi leith, aois san áireamh (tá roinnt eisceachtaí ann)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They apply to all ages above the age a person is statutorily obliged to go to school (16 currently)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann an tAcht, áfach, le daoine atá os cionn aois 16</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can read more in our document, Age equality in employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh faisnéise inár ndoiciméad, Comhionannas aoise san fhostaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are aged under 66 and you are employed or self-employed, you are liable to pay PRSI in the normal way. This applies regardless of what you did earlier</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú faoi 66 bliain d'aois agus fostaithe nó féinfhostaithe, tá dliteanas ort ÁSPC a íoc sa ghnáthbhealach.Tá sé seo i gceist is cuma céard a rinne tú roimhe seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, if you are a former public servant and you take up a job in the private sector, you have to pay full PRSI</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, más iar-státsheirbhíseach tú agus go nglacann tú post sa rannóg phríobháideach, caithfidh tú láníocaíochtaí ÁSPC a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In these circumstances, you may be able to qualify for a pro-rata old age contributory pension</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás seo, d'fhéadfadh sé go gcáileófá don phinsean ranníocaíochta seanaoise pro-rata</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You only pay PRSI on your income from employment or self-employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní íocann tú ÁSPC ach amháin ar d'ioncam ó fhostaíocht nó féinfhostaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You do not have to pay PRSI on your pension from a former employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chaithfidh tú ÁSPC a íoc ar do phinsean ó fhostaíocht a bhí agat cheana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you take up part-time work or low paid work, you are still in the PRSI system but you may not have to pay anything</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéanann tú obair pháirtaimseartha nó obair ar phá íseal beidh tú fós sa chóras ÁSPC ach ní gá go mbeidh ort tada a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you earn less than €352 a week, you don't have to pay PRSI</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má thuilleann tú níos lú ná €352 sa tseachtain níl aon ÁSPC le n-íoc agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you earn over €38, your employer has to pay and you have full cover</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má thuilleann tú ós cionn €38 ní mór don fhostóir íoc ar do shon agus tá lánchlúdach agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Once you step over the €352 limit, you have to pay on all your income from work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a thuilleann tú ós cionn €352 sa tseachtain bíonn ort íoc ar d’ioncam</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A new PRSI credit was introduced in 2016 which reduces the amount of PRSI payable for people earning between €352.01 and €424 per week</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tháinig creidmheas ÁSPC nua isteach i 2016. Laghdaíonn sé an méid ÁSPC iníoctha ag daoine a thuilleann idir €352.01 agus €424 sa tseachtain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The credit is tapered and the amount of the credit depends on your earnings</seg></tuv>
+  <tuv xml:lang="ga"><seg>Barrchaolaíonn an creidmheas agus braitheann an creidmheas ar do thuilleamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are not liable for PRSI contributions after the age of 66 - this is the case whether or not you are employed or self-employed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl dliteanas ranníocaíochtaí ÁSPC ort tar éis aois 66 – tá sé seo amhlaidh is cuma an fostaithe nó féin-fhostaithe atá tú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you do not have enough contributions at age 66, you cannot add to them after that</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna bhfuil dóthain íocaíochtaí agat ag aois 66, ní féidir leat cur leo ina dhiaidh sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Unlike some occupational pension arrangements, there is no facility to retrospectively pay PRSI contributions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon deis agat íocaíochtaí ÁSPC a íoc go siarghábhálach, deis atá ar fáil áfach i gcuid de na scéimeanna pinsin cheirde</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are aged 66 and in employment, your employer pays a small PRSI contribution to cover you for occupational injuries</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú 66 bliain d'aois agus fostaithe, íocann d'fhostóir ranníocaíocht bheag ÁSPC chun clúdach a chur ar fáil do ghortú ceirde</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is called Class J social insurance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar árachas sóisialta Aicme J air seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You pay the Universal Social Charge (USC) if your gross income is more than €13,000 per year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocann tú an Muirear Sóisialta Uilíoch má tá d'ioncam os cionn €13,000 sa bhliain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It does not apply to social welfare or similar payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gearrfar é ar an uile ioncam seachas íocaíochtaí leasa sóisialaigh nó íocaíochtaí comhchosúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Reduced rates of USC apply to people aged 70 or over whose aggregate income for the year is €60,000 or less and to certain medical card holders under 70</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú 70 bliain d’aois nó níos sine nó más sealbhóir cárta leighis thú agus más ionann do chomhioncam don bhliain agus €60,000 nó níos lú, íocann tú ráta laghdaithe den MSU</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Income tax applies to almost all income</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann cáin ioncaim le nach mór chuile ioncam</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>People aged 65 and over are subject to the same general tax rules as everyone else but they do get tax exemption limits below which they pay no tax and some extra tax credits</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú 65 nó ós a chionn, ní mór duit cáin a íoc ar ioncam ar an gnáthbhealach. Ach tá na teorainneacha díolúine i bhfad níos airde agus tá creidmheasanna cánacha sa bhreis ar fáil duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are specific tax arrangements for people aged over 65 including the taxation of occupational pensions and the taxation of social welfare payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá cur síos ar na socruithe cánacha a bhaineann le daoine atá os cionn 65 lena n-áirítear cáin ar phinsin gairme agus gearradh cánach ar íocaíochtaí leasa shóisialaigh</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>The Irish Constitution guarantees the people of Ireland certain fundamental rights</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bronann Bunreacht na hÉireann cearta bunúsacha ar phobal na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Sometimes, the Gardai or the prosecution in a case can obtain evidence for a trial in breach of your fundamental rights</seg></tuv>
+  <tuv xml:lang="ga"><seg>In amanna, is féidir leis na Gardaí nó leis na cúisitheoirí i gcás fianaise a fháil ar bhealach a sháraíonn do chearta bunúsacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that the evidence has been got in circumstances where your constitutional rights have not been respected</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás sin tá fianaise faighte acu i gcúinsí nach raibh omós tugtha do na cearta bunreachtúla atá agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It has been held by the courts that evidence obtained in "deliberate and conscious" breach of your constitutional rights is inadmissible</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rialaigh na cúirteanna nach bhfuil fianaise a fritheadh ar bhealach a sháraigh "d'aonturas agus go fiosach" do chearta bunreachtúla ceadaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>"Deliberate and conscious" does not mean "intentionally" or "maliciously"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní ionann "d'aonturas agus go fiosach" agus "beartaithe" nó "go mailíseach"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It can include a situation where the breach of your constitutional rights was an inadvertent mistake</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh sé gur sáraíodh do chearta bunreachtúla mar bhotún gan cuimhneamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An example of evidence obtained in breach of your constitutional rights would be evidence found in your dwelling by the Gardai without a search warrant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla bheadh fianaise a fuair Gardaí i d'áit chónaithe gan barántas cuardaithe a bheith ina seilbh ina sárú ar do chearta bunreachtúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is a breach of your constitutional right not to have your dwelling violated without your consent except in accordance with law</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is sárú é seo ar do cheart bunreachtúil gan sárú a dhéanamh ar d'áit chónaithe gan do chead ach amháin de réir an dlí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Evidence obtained on foot on an unlawful arrest or detention is also inadmissible</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fianaise neamhcheadaithe í fianaise a fuarthas de bharr gabhála nó coinneála a bhí neamhdhleathach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In some situations, evidence may be obtained in breach of legislation rather than in breach of the Constitution</seg></tuv>
+  <tuv xml:lang="ga"><seg>In amanna, d'fhéadfadh sé go raibh fianaise faighte ar bhealach a sháraigh an reachtaíocht seachas an Bunreacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, you have no constitutional right to be told that you have a right to see a solicitor while you are in detention</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, níl aon cheart bunreachtúil agat é a bheith curtha in iúl duit go bhfuil sé de cheart agat dlíodóir a fheiceáil nuair atá tú dhá choinneáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, the Criminal Justice Acts do require that your right to legal access be brought to your attention</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach faoi na hAchtanna um Dlí Choiriúil tá sé leagtha síos gur ceart tú a chur ar an eolas go bhfuil sé de cheart agat ionadaíocht dlíthiúil a bheith agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are not told about your right to see a solicitor and you then make a statement to the police, that evidence is not automatically inadmissible</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna n-insítear duit go bhfuil sé de cheart agat dlíodóir a fheiceáil agus má dhéanann tú ráiteas do na Gardaí ní gá go mbeadh an fhianaise sin neamhcheadaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is up to the judge to decide whether or not to allow it to be introduced as evidence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé suas chuig an mbreitheamh cinneadh a dhéanamh an féidir an fhianaise sin a tharraingt anuas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For more detailed information you should seek legal advice</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir duit comhairle dlí a lorg chun faisnéis mionsonraithe a fháil</seg></tuv>
+</tu>
+</body>
+</tmx>

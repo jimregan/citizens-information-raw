@@ -1,0 +1,401 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>You may get Illness Benefit from the Department of Social Protection if you cannot work because you are sick or ill</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl Sochar Breoiteachta nasctha le polasaí d’fhostóra maidir le pá saoire bhreoiteachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must be aged under 66, covered by the appropriate class of social insurance (PRSI) and satisfy the PRSI conditions</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Is féidir le d'fhostóir a pholasaí féin maidir le pá breoiteachta agus saoire bhreoiteachta a shocrú)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Illness Benefit is not linked to your employer's policy on pay for sick leave (your employer can decide their own policy on sick pay and sick leave)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura mbíonn dóthain ranníocaíochtaí árachais shóisialta agat, ba chóir duit dul i dteagmháil le an t-ionadaí Roinne Coimirce Sóisialaí (a tugadh an tOifigeach Leasa Pobail air roimhe seo) agus measfaidh sé/sí do chás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>More information is available in our document about sick leave and employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfaidh an tIonadaí na Roinne measúnacht ar do chás agus is féidir go dtabharfaidh sé Liúntas Leasa Forlíontach duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Whether your employer pays you or not while you are out sick from work, you should claim Illness Benefit from the first day of your illness – see “Rules” below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is faoin bhfostóir a bhíonn sé cinneadh a ghlacadh ar a pholasaí/polasaí féin maidir le pá breoiteachta agus saoire bhreoiteachta, faoi réir ag do chonradh nó ag téarmaí fostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you get sick pay from work, you should ask your employer what administrative arrangements are in place while you are claiming Illness Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léigh tuillleadh faoi saoire bhreoiteachta agus fostaíocht anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your income is too low to meet your needs, while you are waiting for a decision on your claim for Illness Benefit, you may be entitled to basic Supplementary Welfare Allowance, which is a means-tested payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás go mbíonn teidlíocht i do chonradh fostaíochta chun pá breoiteachta a fháil, is dóigh go n-iarrfaidh d'fhostóir ort aon íocaíocht Sochair Breoiteachta ón Roinn Coimirce Sóisialaí a thabhairt ar láimh don fhostóir chomh fada agus a leanann an phá bhreoiteachta ar aghaidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must apply for Illness Benefit within 7 days of becoming ill</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh tú cur isteach ar Shochar Breoiteachta i gceann 7 lá ón uair a d’éirigh tú tinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>No payment is made for the first 6 days of illness which are known as waiting days</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní dhéantar aon íocaíocht don chéad 6 lá den bhreoiteacht agus ní dhéantar aon íocaíocht d’aon Domhnach le linn do bhreoiteachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(Note that Sunday is not counted as a waiting day.) The only time that the 6 waiting days are not applied is if you were getting certain other social welfare payments within 3 days of the start of your illness</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nóta: ó 6 Eanáir 2014 síníodh é seo ó 3 lá go dtí 6 lá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Social insurance (PRSI) contributions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ranníocaíochtaí árachais sóisialta (ÁSPC)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To qualify for payment of Illness Benefit you must satisfy the following two conditions:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun Sochar Breoiteachta a fháil ní mór duit:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>1. You must have at least 104 weeks of PRSI contributions paid since you first started work</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ar a laghad 104 seachtain ÁSPC (ag aicmí A, E, H nó P) íoctha ó thosaigh tú an obair den chéad uair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>2. 39 weeks of PRSI contributions paid or credited in the relevant tax year, of which 13 must be paid contributions. If you do not have 13 paid contributions in the relevant tax year, then 13 paid contributions in one of the following tax years can be used instead: □ Either of the two tax years before the relevant tax year</seg></tuv>
+  <tuv xml:lang="ga"><seg>• 39 seachtaine ÁSPC a bheith íoctha nó curtha chun sochair agat sa Bhliain Chánach Ábhartha (ní mór go ranníocaíochtaí íoctha iad ar a laghad 13 seachtaine acu*)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>26 weeks of PRSI contributions paid in the relevant tax year, and 26 weeks of PRSI contributions paid in the tax year immediately before the relevant tax year</seg></tuv>
+  <tuv xml:lang="ga"><seg>• 26 seachtaine ÁSPC a bheith íoctha sa Bhliain Cánach Ábhartha agus 26 seachtaine ÁSPC íoctha sa bhliain cánach díreach roimh an mBliain Cánach Ábhartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The relevant tax year is the second-last complete tax year before the year in which your claim for Illness Benefit begins. For example:</seg></tuv>
+  <tuv xml:lang="ga"><seg>*Mura mbíonn na 13 ranníocaíochtaí íoctha agat sa Bhliain Chánach Ábhartha, is féidir na blianta ina dhiaidh sin a úsáid chun an coinníoll sin a chomhlíonadh:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│If your claim begins in: │The relevant tax year is: │</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An dara bhliain chánach agus an triú bliain chánach is iomláine roimhe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Only PRSI contributions paid at class A, E, H and P count towards Illness Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An bhliain chánach reatha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you were getting long-term Jobseeker's Allowance, Pre-Retirement Allowance, Invalidity Pension, Carer's Allowance or Carer's Benefit immediately before applying for Illness Benefit, you do not need to have 13 paid contributions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhí Liúntas Cuardaitheora Poist fadtéarma á fháil agat (15 mhí), Liúntas Réamhscoir, Pinsean Easláinte, Liúntas Cúramóra nó Sochar Cúramóra láithreach sula ndearna tú iarratas ar Shochar Breoiteachta, ní gá duit 13 ranníocaíocht íoctha a bheith agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you were getting Occupational Injury Benefit (OIB) immediately before applying for Illness Benefit you may use the tax year that applied to your OIB claim or the tax year that applies to your Illness Benefit claim, whichever is more beneficial</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá LCP ar ráta laghdaithe á fháil agat nó má tá níos lú ná 260 ranníocaíocht ÁSPC agat, féadtar d’íocaíocht Sochar Breoiteachta a laghdú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To help you qualify for Illness Benefit, you may combine your Irish PRSI contributions with social insurance contributions from a country covered by EU Regulations (and the Channel Islands and the Isle of Man, which are covered under a bilateral agreement)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú do ranníocaíochtaí ÁPSC Éireannacha a chur le rannaíocaíochtaí árachais shóisialta ó thír atá faoi chuimsiú Rialacháin an AE chun cáiliú do Shochar Breoiteachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>How long is Illness Benefit paid?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cén fhad a íoctar Sochar Breoiteachta?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• 2 years (624 payment days) if you have at least 260 weeks of reckonable social insurance contributions* paid since you first started work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má d’íoc tú 260 seachtain ÁSPC ó thosaigh tú den obair, féadfaidh tú Sochar Breoiteachta a éileamh ar feadh 2 bhliain ar a mhéid (624 lá íocaíochta)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• 1 year (312 payment days) if you have between 104 and 259 weeks of reckonable social insurance contributions* paid since you first started work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má d’íoc tú idir 104 agus 259 seachtain ÁSPC, féadfaidh tú Sochar Breoiteachta a éileamh ar feadh 52 seachtain (312 lá íocaíochta)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>*Reckonable social insurance contributions paid in Ireland, EU countries, the Channel Islands and the Isle of Man can be combined for this purpose</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a chríochnaíonn tú d’éileamh ar Shochar Breoiteachta, féadfaidh tú athcháiliú le haghaidh Sochar Breoiteachta trí 13 ranníocaíocht bhreise ÁSPC a íoc (nó líon níos lú má mhéadaíonn sé iomlán do ranníocaíochtaí ÁSPC go dtí 260)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Before your payment is due to stop, you will be contacted by the Department of Social Protection telling you when payment will stop and giving you further information on options available:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Roimh Eanáir 2009, bhí daoine a d’íoc ÁSPC 260 seachtain ó thosaigh siad den obair, i dteideal Sochar Breoiteachta a fháil a fhad a bhí siad neamhábalta chun oibriú agus faoi 66 bliain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you do not qualify for Invalidity Pension and you have a disability that is expected to last for a year or more, you may qualify for a means-tested Disability Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a thagann deireadh le do theidlíocht i leith íocaíocht Sochar Breoiteachta, d’fhéadfadh go mbeifeá i dteideal íocaíochtaí eile a fháil:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you do not qualify for any other payments and your income is too low to meet your needs, you may qualify for a basic Supplementary Welfare Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má tá tú breoite, agus más dóigh nach mbeidh tú in ann obair a dhéanamh feasta agus má chomhlíonann tú na coinníollacha ÁSPC, d’fhéadfadh go gcáileofaí thú don Phinsean Easláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If your Illness Benefit is ending because you are turning 66, you may be eligible for a State Pension. You should apply 3 months before your 66th birthday</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Mura gcáilítear thú don Phinsean Easláinte agus má tá tú faoi éagumas a mheastar a mhairfidh ar feadh bliana, d’fhéadfadh go gcáileofaí thú do Liúntas Míchumais a ndéanfar tástáil mhaoine ina leith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you return to work, you must have a minimum of 13 reckonable PRSI contributions paid before you may requalify for Illness Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má bheidh deireadh ag teacht le do Shochar Breoiteachta mar gheall go mbeidh tú 66 bliain d’aois, d’fhéadfá bheith i dteideal Pinsean Stáit a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(All other qualifying conditions must also be satisfied.)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart duit iarratas a dhéanamh 3 mhí roimh do bhreithlá 66 bliain d’aois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Transfer from Carer's Benefit or Carer’s Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Aistriú ó Shochar Cúramóra nó Liúntas Cúramóra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you transfer from Illness Benefit to Carer's Benefit or Carer's Allowance and then back to Illness Benefit, your Illness Benefit will not be paid at a lower rate than that you were paid previously</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má d’aistrigh tú ó Shochar Breoiteacha go Shochar Cúramóra nó Liúntas Cúramóra agus ansin ar ais go Sochar Breoiteachta, gheobhaidh tú Sochar Breoiteachta ar ráta nach ísle ná mar a bhí agat mar íocaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The PCB scheme allows you to return to work (if you have a reduced capacity to work) and continue to receive a social welfare payment. A Medical Assessor (who is a doctor employed by the Department of Social Protection) will assess the restriction on your capacity for work, and the personal rate of PCB paid is based on this assessment. You cannot take up work until you have written approval to do so from the Department</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ón 13 Feabhra 2012, cuirtear an Sochar Cumais Pháirtigh in ionad na socruithe díolúine a bhí ann roimhe seo, sa chás go bhféadfadh daoine ag a raibh Sochar Breoiteachta nó Pinsean Easláinte á fháil cead a fháil chun oibrithe go páirtaimseartha (ar a dtugtar díolúine) ar mhaithe le cuspóirí athshlánaithe nó teiripeacha agus a n-íocaíocht iomlán leasa shóisialaigh a choimeád</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You cannot undertake a training or educational course or do voluntary work without prior, written approval from the Department of Social Protection</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní dhéanfar difear dóibh siúd ag a bhfuil an cead seo faoi láthair go dtí go mbeidh athbhreithniú le déanamh ar a gcead</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must apply to the Illness Benefit section for this approval</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag an tráth sin, ní bheidh fáil acu a thuilleadh ar an díolúine ach beidh sé de rogha acu iarratas a dhéanamh ar Shochar Cumais Pháirtigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Since 1 January 2014, new participants on SOLAS training courses can retain Illness Benefit but they cannot get a training allowance or training bonus at the same time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní gá go mbeidh an obair a dhéanann duine fad a bhíonn an Sochar Cumais Pháirtigh á fháil acu ar mhaithe le cuspóirí athshlánaithe nó teiripeacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Illness Benefit and other social welfare payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sochar Breoiteachta agus íocaíochtaí eile leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Blind Pension │If you are getting Blind Pension, you may also get Illness Benefit if you are ill and unable to work and you satisfy the PRSI conditions</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Pinsean na nDall │Má tá Pinsean na nDall á fháil agat, d’fhéadfá Sochar Breoiteachta a fháil chomh maith, má bhíonn tú breoite agus neamhábalta chun oibriú agus má shásaíonn tú na coinníollacha ÁSPC</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│ │If you are getting Illness Benefit and you satisfy the conditions for Carer's Allowance, you may get half the personal rate of Carer's Allowance along with your Illness Benefit payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>│ │Má tá Sochar Breoiteachta á fháil agat agus má shásaíonn tú na coinníollacha le haghaidh Liúntas Cúramóra, féadfaidh tú Liúntas Cúramóra ar leath an ráta phearsanta a fháil mar aon le híocaíocht do Shochair Bhreoiteachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Carer's Allowance │ │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Liúntas Cúramóra │ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│ │It may also be possible for you to receive an Increase for a Qualified Adult for someone on your Illness Benefit claim while they receive a half-rate Carer's Allowance for caring for you or someone else</seg></tuv>
+  <tuv xml:lang="ga"><seg>│ │Ina theannta sin, d’fhéadfá bheith in ann Méadú i leith Duine Fásta Cáilithe a fháil do dhuine ar d’éileamh ar Shochar Breoiteachta fad a fhaigheann siad Liúntas Cúramóra ar leathráta mar gheall ar chúram a thabhairt do dhuine eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Disablement Benefit │If you are getting Disablement Benefit, you may also get Illness Benefit if you are ill, unable to work and satisfy the PRSI conditions (provided that the Disablement Benefit payment does not include an increase for Incapacity Supplement)</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Sochar Míchumais │Má tá Sochar Míchumais á fháil agat, d’fhéadfá Sochar Breoiteachta a fháil chomh maith, má bhíonn tú neamhábalta chun oibriú agus má shásaíonn tú na coinníollacha ÁSPC</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Domiciliary Care Allowance/Carer's Support Grant │Illness Benefit is payable if you are getting Domiciliary Care Allowance and/or the Carer's Support Grant (formerly Respite Care Grant)</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Liúntas Cúram Baile/Deontas Cúram Faoiseamh │Tá Sochar Breoiteachta iníoctha má bhíonn Liúntas Cúram Baile agus/nó an Deontas Cúram Faoisimh á fháil agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Family Income Supplement (FIS) and Back to Work Family Dividend (BTWFD) │If you are receiving Family Income Supplement (FIS) and become ill, payment of FIS may continue with Illness Benefit for up to 36 days (6 weeks)</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Forlíonadh Ioncam Teaghlaigh (FIS) agus Back to Work Family Dividend (BTWFD) │Má tá Forlíonadh Ioncaim Teaghlaigh (FIT) á fháil agat agus má éiríonn tú breoite, d’fhéadfaí FIT a íoc leat leis an Sochar Breoiteachta ar feadh 36 lá (6 seachtaine) ar a mhéid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Similarly if you become ill while you are getting Back to Work Family Dividend, payment of BTWFD may continue with Illness Benefit for 36 days (6 weeks)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar an gcéanna, má fhaigheann tú an Díbhinn Teaghlaigh um Fhilleadh ar Obair (DTFAO) agus má éiríonn tú breoite, d’fhéadfaí DTFAO a íoc leat leis an Sochar Breoiteachta ar feadh 36 lá (6 seachtaine) ar a mhéid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Widow’s, Widower’s or Surviving Civil Partner’s Pension (including occupational widow’s/widower’s pensions) and One-Parent Family Payment, Deserted Wife's Allowance/Benefit or Prisoner’s Wife's Allowance │If you are getting any of these payments at the full rate, you cannot get Illness Benefit at the same time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá ráta laghdaithe de cheann amháin de na híocaíochtaí seo á fháil agat, áfach, agus má éiríonn tú breoite, féadfaidh tú cáiliú chun ráta laghdaithe Sochar Breoiteachta a fháil a mhéadóidh d’íocaíocht iomlán chuig an ráta uasta pearsanta SB atá tú i dteideal a fháil. │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if you are getting a reduced rate of one of these payments and become ill, you may qualify for a reduced rate of Illness Benefit (so that the combined amount of both payments is not greater than the rate of Illness Benefit to which you are entitled)</seg></tuv>
+  <tuv xml:lang="ga"><seg>│ │Féadfaidh daoine a raibh aon cheann de na híocaíochtaí seo á bhfáil acu i dteannta an tSochair Bhreoiteachta roimh an 1 Feabhra 2012 leanúint agus an dá íocaíocht a fháil ag am céanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Payment of Illness Benefit abroad</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocaíocht Sochar Breoiteachta thar lear</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may be called for medical assessment while living abroad (this is arranged by the Department with the Social Security Office of the country you are in)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú leanúint agus Sochar Breoiteachta a fháil má fhágann tú Éire chun cónaí thar lear i dtír eile atá faoi chuimsiú Rialacháin an AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must attend for a medical assessment when asked, or your Illness Benefit will be suspended</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit an Roinn Coimirce Sóisialaí a chur ar an eolas roimh ré (nó seans go gcaillfidh tú d’íocaíocht nó go gcuirfear moill uirthi)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you go to live in another country covered by EU Regulations and become ill, you may apply for Illness Benefit from Ireland if you paid your last insurance contribution in Ireland or you were getting Jobseeker’s Benefit in Ireland before you went abroad</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhágann tú Éire chun cónaí i dtír eile atá faoi chuimsiú Rialacháin an AE, agus má éiríonn tú breoite, féadfaidh tú iarratas a dhéanamh ar Shochar Breoiteachta ó Éirinn má d’íoc tú do ranníocaíocht árachais dheireanach in Éirinn nó má bhí Sochar Cuardaitheora Poist á fháil agat in Éirinn sula ndeachaigh tú thar lear</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Illness Benefit is not paid in countries not covered by EU Regulations</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní íoctar Sochar Breoiteachta i dtíortha nach bhfuil faoi chuimsiú Rialacháin an AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if you go to a country not covered by EU Regulations to get approved treatment your payment may resume when you return.   You can read detailed FAQs from the Department of Social Protection on claiming Illness Benefit abroad</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má théann tú chuig tír nach bhfuil faoi chuimsiú Rialacháin an AE chun cóireáil fhaofa a fháil, féadtar leanúint le d’íocaíocht nuair a fhilleann tú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Reviews of Illness Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Athbhreithniú ar Shochar Breoiteachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your Illness Benefit claim will be reviewed from time to time and you may be asked to attend for a medical assessment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfar athbhreithniú ar do Shochar Breoiteachta ó am go chéile agus d’fhéadfaí iarraidh ort freastal ar mheasúnacht leighis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This assessment will be carried out by a Medical Assessor, who is a doctor employed by the Department of Social Protection</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabharfaidh Measúnóir Leighis faoin measúnacht seo. Is dochtúir an measúnóir leighis atá fostaithe ag an Roinn Coimirce Sóisialaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Medical Assessor will give an opinion on whether or not you are fit for work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Luafaidh an Measúnóir Leighis a t(h)uairim faoi cibé acu an bhfuil nó nach bhfuil tú neamhábalta chun oibriú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must attend for a medical assessment when asked, or your benefit will be suspended</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit freastal le haghaidh measúnacht leighis nuair a iarrtar ort, nó cuirfear do shochar ar fionraí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your Illness Benefit is stopped, you have a right to appeal the decision - see ‘Where to apply’ below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má stoptar do Shochar Breoiteachta, tá sé de cheart agat an cinneadh a achomharc – féach ‘Cá ndéanfaidh mé iarratas?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are receiving credited contributions only and these are stopped, you can seek a review of the decision but you do not have a right to appeal it</seg></tuv>
+  <tuv xml:lang="ga"><seg>’ thíos. Mura bhfuil ach ranníocaíochtaí curtha chun sochair á bhfáil agat agus má chuirtear stop leo seo, féadfaidh tú athbhreithniú ar an gcinneadh a lorg ach níl sé de cheart agat an cinneadh a achomharc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Usually no payment is made for the first 6 days of illness and no payment is made for any Sunday during your illness</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní dhéantar aon íocaíocht don chéad 6 lá den bhreoiteacht agus ní dhéantar aon íocaíocht d’aon Domhnach le linn do bhreoiteachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Note that this was extended from 3 to 6 days from 6 January 2014</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nóta: ó 6 Eanáir 2014 síníodh é seo ó 3 lá go dtí 6 lá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Illness Benefit rates are graduated according to your average weekly earnings in the relevant tax year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Céimnítear na rátaí i gcomhair an tSochair Bhreoiteachta de réir do mheántuillimh seachtainíúil sa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│less than €150 │84.50 │80.90 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>bhliain chánach a bhaineann le hábhar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Weekly payment from 13 March 2017 for claims started in 2009 or after</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rátaí seachtainiúil ó 13 Márta 2017 le haghaidh éilimh a thosaigh i 2009 nó i ndiaidh sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Average weekly │Personal rate,│Qualified adult rate,│ │earnings │€ │€ │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Tuilleamh │Ráta Pearsanta │Ráta do Dhaoine Fásta Incháilithe │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│€300 or more │193 │128.10 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│€300 nó níos mó │€193.00 │€128.10 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│less than €150 │86.70 │83 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│níos lú ná €150 │€86.70 │€83.00 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Weekly payment from 13 March 2017 for claims started in 2008 or before:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rátaí seachtainiúil ó 13 Márta 2017 le haghaidh éilimh a thosaigh i 2008 nó roimhe sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Average weekly │Personal rate,│Qualified adult rate,│ │earnings │€ │€ │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Tuilleamh │Ráta Pearsanta │Ráta do Dhaoine Fásta Incháilithe │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│€150 or more │193 │128.10 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│€150 nó níos mó │€193.00 │€128.10 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│less than €80 │86.70 │83 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│níos lú ná €80 │€86.70 │€83.00 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Illness Benefit can be paid directly into your bank, building society account</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir Sochar Breoiteachta a íoc isteach díreach i do chuntas bainc nó cumann foirgníochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>or to an account in a credit union which offers the facility for Electronic Funds Transfer (EFT)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú méadú ar d’íocaíocht do dhuine fásta cleithiúnach a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can get an increase in your payment for an adult dependant or child dependant if you meet certain conditions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhíonn aon tionchar ar mhéadú do leanbh cleithiúnach ag do mheántuilleamh seachtainiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Taxation of Illness Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sochar Breoiteachta agus cáin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Illness Benefit, both the personal rate and Increase for a Qualified Adult, (excluding increases for child dependants) is considered to be income for tax purposes and it is taxable from the first day of payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Glactar le Sochar Breoiteachta (seachas aon mhéadú do leanaí cleithiúnacha) mar ioncam chun críche cánach agus tá sé inchánaithe ón chéad lá a íoctar é</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Illness Benefit is paid directly to you without any deduction of income tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocfar Sochar Breoiteachta go díreach leat gan aon cáin ioncaim a asbhaint as</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are employed, your employer will take your Illness Benefit into account for PAYE purposes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú fostaithe, glacfaidh d'fhostóir do Sochar Breoiteachta san áireamh chun críche ÍMAT</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are unemployed, Revenue will take account of the amount of Illness Benefit paid to you when they adjust your tax credits or review the tax affairs of your spouse or civil partner</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú dífhostaithe,glacfaidh na Coimisinéirí Ioncaim san áireamh an méid Sochar Breoiteachta atá íoctha leat, más cuí, nuair a bhítear ag coigeartú do chuid creidmheasanna cánach nó ag athbhreithniú cúrsaí cánach do chéile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Contact Revenue for more information</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déan teagmháil leis na Coimisinéirí Ioncaim chun tuilleadh eolais a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should apply for Illness Benefit within 7 days of becoming ill</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh tú iarratas ar Shochar Breoiteachta a dhéanamh laistigh de 7 lá ó fhaigheann tú tinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A delay of more than 7 days may cause you to lose some of your payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir go gcaillfidh tú cuid de d'íocaíocht i gcás moill níos faide ná 7 lá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If there is a good reason for a delay in applying, your payment may be backdated</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá cúis mhaith le moill i gcur isteach an iarratais, is féidir go siardhátófar d’íocaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can get a first social welfare medical certificate (known as MC1), which includes an application form for Illness Benefit, from your family doctor (GP) or hospital doctor</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an fhoirm iarratais do Sochar Breoiteachta ar fáil ó do dhochtúir teaghlaigh (LG) nó ó dhochtúir ospidéil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The reason you can only get this form from a doctor is because a doctor must complete the medical certificate part of the form</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé amhlaidh toisc nach féidir leat an fhoirm seo a fháil ach amháin ó dhochtúir mar nach mór do dhochtúir cuid den fhoirm a chomhlánú. Ní sé ar fáil ar líne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must see your doctor and send in an intermediate medical certificate (known as MC2) each week for as long as you are ill, unless you are told otherwise</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit teastas dochtúra a sheoladh isteach (ar a dtugtar MC 2) gach seachtain ar feadh fad do thinnis, mura n-iarrtar ort a mhalairt a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must get a final medical certificate from your doctor before you go back to work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit teastas dochtúra deireanach a fháil ó do dhochtúir sula bhfilleann tú ar obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Note that in all cases social welfare medical certificates (MC1 and MC2) are not available online or from the Department's offices</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl ort íoc as teastas leighis leasa shóisialaigh de bharr go n-íocann an Roinn táille lenar comhaontaíodh leis an dochtúir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are not required to pay for a social welfare medical certificate as the Department pays the doctor an agreed fee. However, you may have to pay for the medical examination</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhíonn aon deacrachtaí agat an fhoirm a chomhlánú, beidh an fhoireann i d'oifig leasa shóisialaigh áitiúil sásta cabhrú leat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you wish to make a backdated claim for Illness Benefit, you need to supply a First Medical Certificate (MC1) stating the date the illness began, a letter from your doctor giving details of your illness and treatment and a current MC2 certificate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir aon cheisteanna atá agat maidir le Sochar Breoiteachta a chur díreach chuig d'oifig leasa shóisialaigh áitiúil nó chuig Teileafón Fiosraithe faoi Sochar Breoiteachta (feach síos)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you think you have been wrongly refused Illness Benefit, you can ask for the decision to be reviewed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má shíleann tú gur diúltaíodh go héagórach duit Sochar Breoiteachta a fháil, féadfaidh tú a iarraidh go ndéanfar athbhreithniú ar an gcinneadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can also appeal the decision to the Social Welfare Appeals Office, either straight away or after the review</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, féadfaidh tú achomharc a dhéanamh ar an gcinneadh leis an Oifig Achomhairc Leasa Shóisialaigh, cibé acu láithreach nó i ndiaidh an athbhreithnithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must request a review or appeal a decision within 21 days of being informed of the decision</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit athbhreithniú a iarraidh nó cinneadh a achomharc laistigh de 21 lá tar éis duit bheith ar an eolas faoin gcinneadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Department of Social Protection</seg></tuv>
+  <tuv xml:lang="ga"><seg>An Roinn Coimirce Sóisialaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can email the Illness Benefit section using the secure enquiry form</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat ríomhphost don Rannóg Sochar Breoiteachta a sheoladh tríd an fhoirm fhiosraithe daingnithe Sochair Breoiteachta a úsáid</seg></tuv>
+</tu>
+</body>
+</tmx>

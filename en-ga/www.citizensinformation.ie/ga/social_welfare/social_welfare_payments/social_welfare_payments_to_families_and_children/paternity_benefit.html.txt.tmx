@@ -1,0 +1,445 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Paternity Benefit is a payment for employed and self-employed people who are on paternity leave from work and covered by social insurance (PRSI)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocaíocht is ea Sochar Atharthachta do dhaoine fostaithe agus féinfhostaithe atá ar saoire atharthachta ón obair agus atá cumhdaithe ag árachas sóisialach (ÁSPC)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is paid for 2 weeks and is available for any child born or adopted on or after 1 September 2016</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íoctar an sochar ar feadh coicíse agus tá fáil air d’aon leanbh a shaolaítear nó a uchtaítear an 2 Meán Fómhair 2016 nó ina dhiaidh sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can start paternity leave at any time within the first 6 months following the birth or adoption placement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú tús a chur le saoire atharthachta ag tráth ar bith laistigh de na chéad 6 mhí i ndiaidh na breithe nó an tsocrucháin uchtála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should apply for the payment 4 weeks before you intend to go on paternity leave (12 weeks if you are self-employed)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart duit iarratas a dhéanamh ar an íocaíocht 4 seachtaine sula mbeartaíonn tú dul ar saoire atharthachta (12 sheachtain má tá tú féinfhostaithe)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are already on certain social welfare payments then you may get half-rate Paternity Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá íocaíochtaí áirithe leasa shóisialaigh á bhfáil agat cheana féin, b’fhéidir go dtabharfar Sochar Atharthachta ar leathráta duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can read detailed Frequently Asked Questions about Paternity Benefit on the Department of Social Protection's website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú Ceisteanna Coitianta mionsonraithe a léamh faoi Shochar Atharthachta ar láithreán gréasáin na Roinne Coimirce Sóisialaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You have the right to appeal the decision made on your Paternity Benefit claim</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an ceart agat chun an cinneadh a achomharc a rinneadh faoi d’éileamh ar Shochar Atharthachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can get detailed information about making an appeal from the Social Welfare Appeals Office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú faisnéis mhionsonraithe a fháil faoi achomharc a dhéanamh ón Oifig Achomhairc Leasa Shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must notify your employer that you intend to take paternity leave and of your intended dates no later than 4 weeks before your leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh tú fógra a thabhairt do d’fhostóir go mbeartaíonn tú chun saoire atharthachta a ghlacadh agus chun do dhátaí beartaithe a sholáthar tráth nach déanaí ná 4 seachtaine roimh do shaoire</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must provide proof of the expected date of birth of your child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh tú cruthúnas a thabhairt i leith an dáta a bhfuil súil leis go saolófar do leanbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Generally you will need to provide a certificate from your spouse or partner's doctor confirming when your baby is due, or, confirmation of the actual date of birth if you are applying for leave after the birth</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, beidh ort deimhniú a sholáthar ó dhochtúir do chéile nó do pháirtnéara shibhialta ina ndeimhnítear cathain a bhfuil súil leis go saolófar do leanbh, nó, deimhniú maidir leis an dáta féin breithe má tá iarratas á dhéanamh agat i ndiaidh na breithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should apply for Paternity Benefit at least 4 weeks before the date you intend to start your paternity leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart duit iarratas a dhéanamh ar Shochar Atharthachta ar a laghad 4 seachtaine sula mbíonn sé beartaithe agat dul ar saoire atharthachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are self-employed you should apply 12 weeks before</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú féinfhostaithe, ba cheart duit iarratas a dhéanamh 12 sheachtain roimh ré</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must register for a Public Services Card (if you don't already have one) and register with the mywelfare.ie service (see 'How to apply' below for details of how to do this)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh tú clárú le haghaidh Cárta Seirbhíse Poiblí (mura bhfuil ceann agat cheana féin) agus clárú le seirbhís mywelfare.ie (féach 'Conas iarratas a dhéanamh' thíos chun teacht ar shonraí faoi conas seo a dhéanamh)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must also satisfy the PRSI contribution conditions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chomh maith leis sin, caithfidh tú coinníollacha na ranníocaíochta ÁSPC a shásamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Paternity Benefit is paid by the Department of Social Protection to people who have a certain number of paid PRSI contributions on their social insurance record</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocann an Roinn Coimirce Sóisialaí Sochar Atharthachta le daoine a bhfuil líon áirithe de ranníocaíochtaí íoctha ÁSPC acu ar a dtaifead árachais shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The PRSI contributions can be from both employment and self-employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh na ranníocaíochtaí ÁSPC a bheith ó fhostaíocht agus ó fhéinfhostaíocht araon</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The PRSI classes that count for Paternity Benefit are A, E, H and S (self-employed)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad na haicmí ÁSPC a chuirtear san áireamh i dtreo Sochar Atharthachta A, E, H agus S (féinfhostaithe)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Members of the Defence Forces who pay PRSI at Class H are insured for Paternity Benefit but it is not payable while they are in service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl Sochar Atharthachta iníoctha le comhaltaí atá ag fónamh sna Fórsaí Cosanta a íocann ÁSPC ar Aicme H, áfach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are an employee you must have:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más fostaí thú, caithfidh go bhfuil:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• At least 39 weeks PRSI paid in the 12-month period before the first day of your paternity leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>• 39 seachtain de ÁSPC, ar a laghad, íoctha agat i rith na tréimhse 12 mhí roimh an gcéad lá de do shaoire atharthachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• At least 39 weeks PRSI paid since first starting work and at least 39 weeks PRSI paid or credited in the relevant tax year or in the tax year immediately following the relevant tax year</seg></tuv>
+  <tuv xml:lang="ga"><seg>• 39 seachtain de ÁSPC, ar a laghad, íoctha agat ó thosaigh tú ag oibriú i dtosach agus 39 seachtain de ÁSPC, ar a laghad, íoctha agat nó curtha do shochar agat sa bhliain ábhartha chánach nó sa bhliain chánach díreach i ndiaidh na bliana ábhartha cánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, if you are going on paternity leave in 2017, the relevant tax year is 2015 and the year following that is 2016</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, má bheidh tú ag dul ar saoire atharthachta in 2017, is é 2015 an bhliain ábhartha chánach agus is í an bhliain ina dhiaidh sin 2016</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• At least 26 weeks PRSI paid in the relevant tax year and at least 26 weeks PRSI paid in the tax year immediately before the relevant tax year</seg></tuv>
+  <tuv xml:lang="ga"><seg>• 26 seachtain de ÁSPC, ar a laghad, íoctha agat sa bhliain ábhartha chánach agus 26 seachtain de ÁSPC, ar a laghad, íoctha agat sa bhliain chánach díreach roimh an mbliain ábhartha chánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, if you are going on paternity leave in 2017, the relevant tax year is 2015 and the year before that is 2014</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, má bheidh tú ag dul ar saoire atharthachta in 2017, is é 2015 an bhliain ábhartha chánach agus is í an bhliain roimhe sin 2014</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you do not meet these PRSI conditions and you were self-employed before starting work as an employee, you can use your Class S contributions to qualify for Paternity Benefit - see PRSI conditions for self-employed people below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura gcomhlíonann tú na coinníollacha ÁSPC seo agus má bhí tú féinfhostaithe sular thosaigh tú ag oibriú mar fhostaí, féadfaidh tú do ranníocaíochtaí Aicme S a úsáid chun cáiliú do Shochar Atharthachta – féach coinníollacha ÁSPC do dhaoine féinfhostaithe thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are awarded credited contributions or credits automatically when you are getting Paternity Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bronntar ranníocaíochtaí nó creidmheasanna creidiúnaithe ort go huathoibríoch nuair a bhíonn Sochar Atharthachta á fháil agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Credits are awarded at the same rate as your last paid contribution</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bronntar creidmheasanna ar an ráta céanna leis an ranníocaíocht deiridh a d’íoc tú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These credits help protect your future entitlement to social welfare benefits and pensions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cabhraíonn na creidmheasanna seo chun do theidlíocht amach anseo do shochair agus pinsin leasa shóisialaigh a chosaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you were previously insurably employed in a country covered by EU Regulations, you may combine your insurance record in that country with your Irish PRSI contributions to help you qualify for Paternity Benefit in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhí fostaíocht inárachais agat roimhe seo i dtír atá cumhdaithe ag Rialacháin an AE, féadfaidh tú do thaifead árachais sa tír sin a chur le do ranníocaíochtaí Éireannacha ÁSPC chun cabhrú leat cáiliú do Shochar Atharthachta in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must be currently in insurable employment in Ireland and have paid your most recent PRSI contribution in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh fostaíocht inárachais a bheith agat in Éirinn agus caithfidh gur íoc tú do ranníocaíocht ÁSPC is déanaí in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>More information is available in our document about combining your social insurance contributions from abroad</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá níos mó faisnéise ar fáil inár gcáipéis faoi Ranníocaíochtaí árachais shóisialaigh ón gcoigríoch a chomhcheangal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are self-employed you must be in insurable employment and have:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú féinfhostaithe, caithfidh fostaíocht inárachais a bheith agat agus:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• 52 weeks PRSI contributions paid at Class S in the relevant tax year</seg></tuv>
+  <tuv xml:lang="ga"><seg>• 52 seachtain de ranníocaíochtaí ÁSPC a bheith íoctha agat ar Aicme S sa bhliain ábhartha chánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, if you are going on paternity leave in 2017, the relevant tax year is 2015</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, má bheidh tú ag dul ar saoire atharthachta in 2017, is é 2015 an bhliain ábhartha chánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• 52 weeks PRSI contributions paid at Class S in the tax year immediately before the relevant tax year</seg></tuv>
+  <tuv xml:lang="ga"><seg>• 52 seachtain de ranníocaíochtaí ÁSPC a bheith íoctha ar Aicme S sa bhliain ábhartha chánach díreach roimh an mbliain chánach ábhartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, if you are going on paternity leave in 2017, the tax year immediately before the relevant tax year is 2014</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, má bheidh tú ag dul ar saoire atharthachta in 2017, is é 2014 an bhliain ábhartha chánach díreach roimh an mbliain ábhartha chánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• 52 weeks PRSI contributions paid at Class S in the tax year immediately following the relevant tax year</seg></tuv>
+  <tuv xml:lang="ga"><seg>• 52 seachtain de ranníocaíochtaí ÁSPC a bheith íoctha agat ar Aicme S sa bhliain chánach díreach i ndiaidh na bliana ábhartha cánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, if you are going on paternity leave in 2017, the tax year immediately following the relevant tax year is 2016</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, má bheidh tú ag dul ar saoire atharthachta in 2017, is é 2016 an bhliain chánach díreach i ndiaidh na bliana ábhartha cánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you do not meet these PRSI conditions and you were in insurable employment before becoming self-employed, you can use your PRSI contributions (Class A, E and H) in that employment to qualify for Paternity Benefit – see PRSI conditions for employed people above</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura gcomhlíonann tú na coinníollacha ÁSPC seo agus má bhí tú i bhfostaíocht inárachais sular thosaigh tús leis an bhféinfhostaíocht, féadfaidh tú do ranníocaíochtaí ÁSPC (Aicme A, E agus H) a úsáid san fhostaíocht sin chun cáiliú do Shochar Atharthachta – féach ranníocaíochtaí ÁSPC do dhaoine fostaithe thuas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are in insurable self-employment, you are not awarded credited contributions or credits automatically when you are getting Paternity Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú i bhféinfhostaíocht inárachais, ní bhronntar ort ranníocaíochtaí creidiúnaithe ná creidmheasanna go huathoibríoch nuair a bhíonn Sochar Atharthachta á fháil agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A self-employed person is not specifically excluded from employment credits</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní dhéantar duine féinfhostaithe a eisiamh go sonrach ó chreidmheasanna fostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may qualify for credits if you meet the conditions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú cáiliú do chreidmheasanna má chomhlíonann tú na coinníollacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, an applicant for Paternity Benefit who is now self-employed but had been employed in 2015 would qualify for credits</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, cháileodh iarratasóir ar Shochar Atharthachta atá féinfhostaithe anois ach a bhí fostaithe in 2015 do chreidmheasanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If they have been only self-employed, without being employed, for the last 3 years they won’t qualify for credits</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura mbeidís ach féinfhostaithe, gan a bheith fostaithe, le 3 bliana anuas, ní cháileoidís do chreidmheasanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are already getting a social welfare payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá íocaíocht leasa shóisialaigh á fáil agat cheana féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Half-rate Paternity Benefit may be payable if you are getting any one of the following payments:</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh go mbeadh Sochar Atharthachta ar leathráta iníoctha má bhí aon cheann de na híocaíochtaí a leanas á fháil agat:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Widower's and Surviving Civil Partner's (Contributory) Pension</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Pinsean Baintrí/Baintreach Fir agus Páirtnéara Shibhialta Mharthanaigh (Ranníocaíoch)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Widower's and Surviving Civil Partner's (Non-Contributory) Pension</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Pinsean Baintrí/Baintreach Fir agus Páirtnéara Shibhialta Mharthanaigh (Neamh-Ranníocach)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Death Benefit by way of Widow's/Widower's/Surviving Civil Partner's or Dependent Parents' Pension (under the Occupational Injuries Scheme)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sochar Báis trí Phinsean Baintrí/Baintreach Fir/Páirtnéara Shibhialta Mharthanaigh nó Pinsean Tuismitheora Chleithiúnaigh (faoin Scéim Díobhálacha Ceirde)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are providing full-time care to another person, you may qualify for half-rate Carer's Allowance with your Paternity Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá cúram lánaimseartha á sholáthar agat do dhuine eile, b’fhéidir go gcáileoidh tú do Liúntas Cúramóra ar leathráta in éineacht le do Shochar Atharthachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All employees must have their paternity leave certified by their employer</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh a bhfostóir a saoire atharthachta a dheimhniú do gach fostaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are self-employed you self-certify your leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú féinfhostaithe, déanann tú féin do shaoire a fhéindeimhniú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you're an employee, you must provide your employer with proof of the expected date of confinement of your spouse or partner</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh tú cruthúnas a sholáthar i dtaobh an dáta a bhfuil súil leis go mbéarfaidh do chéile nó do pháirtnéir ar an leanbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In other words, you will be required to provide your employer with a certificate from your spouse or partner's doctor confirming when your baby is due, or confirmation of the baby’s actual date of birth if you apply for leave after the birth has occurred</seg></tuv>
+  <tuv xml:lang="ga"><seg>I bhfriotal eile, beidh ort deimhniú a sholáthar ó dhochtúir do chéile nó do pháirtnéara shibhialta ina ndeimhnítear cathain a bhfuil súil leis go saolófar do leanbh, nó deimhniú maidir leis an dáta féin breithe má tá iarratas á dhéanamh agat i ndiaidh na breithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the case of adoption, you must produce a certificate of placement in relation to the child</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás uchtála, caithfidh tú deimhniú socrúcháin maidir leis an leanbh a sholáthar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the case of an intercountry adoption that took place outside the State,you must produce a declaration of eligibility and suitability in relation to the child and particulars in writing of the day of placement or expected day of placement</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás uchtáil idirthíre a thit amach lasmuigh den Stát, caithfidh tú dearbhú incháilitheachta agus oiriúnachta maidir leis an leanbh agus critéir i scríbhinn a sholáthar a bhaineann le lá an tsocrúcháin nó leis an lá a bhfuil súil leis go ndéanfar an socrúchán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If, at any stage you decide not to take your paternity leave, you cannot be paid Paternity Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chinneann tú, ag céim ar bith, gan glacadh le do shaoire atharthachta, ní féidir Sochar Atharthachta a íoc leat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should inform the Paternity Benefit section of the Department of Social Protection of any changes to your paternity leave arrangements</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart duit rannóg Sochar Atharthachta na Roinne Coimirce Sóisialaí a chur ar an eolas ar aon athruithe a thagann ar do shocruithe maidir le saoire atharthachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Duration of Paternity Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fad an tSochair Atharthachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Paternity Benefit is paid for 2 weeks and the 2 weeks must be taken consecutively</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íoctar Sochar Atharthachta ar feadh 2 sheachtain agus ní mór an 2 sheachtain a ghlacadh i ndiaidh a chéile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>From 13 March 2017: Paternity Benefit is €235 per week</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ionann Sochar Atharthachta agus €235 sa tseachtain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have dependants your rate of Paternity Benefit (excluding increases for dependants) is compared to the rate of Illness Benefit (including increases for dependants) that would be paid to you if you were absent from work through illness</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá cleithiúnaithe agat, cuirtear do ráta Sochar Atharthachta (gan méaduithe do chleithiúnaithe a chur san áireamh) i gcomparáid leis an ráta Sochar Breoiteachta (méaduithe do chleithiúnaithe san áireamh) a d’íocfaí leat dá mbeifeá as láthair ón obair de bharr tinnis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The higher of the 2 rates is paid to you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íoctar an ráta is airde den 2 ráta leat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Although the Illness Benefit rate begins from a lower personal base amount (€193 is the maximum Illness Benefit personal rate), it also takes into account extra payments for your family</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cé go gcuirtear tús leis an ráta Sochar Breoiteachta ó bhunmhéid pearsanta níos ísle (is é €193 an ráta uasta pearsanta de Shochar Breoiteachta), cuireann sé san áireamh íocaíochtaí breise do do theaghlach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is why, depending on the circumstances of your spouse, civil partner or cohabitant and how many children you have, the rate paid to you may be greater than the rate you would otherwise be entitled to</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seo an fáth, ag brath ar chúinsí do chéile, páirtnéara shibhialta nó do chomháitritheora agus ar cé mhéid leanaí atá agat, go bhféadfadh a ráta a íoctar leat a bheith níos airde ná an ráta a mbeifeá i dteideal a fháil murach sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Example (March 2017 rates): John is entitled to the standard Paternity Benefit rate of €235</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sampla (rátaí ó Márta 2017): Tá Seán i dteideal an ráta caighdeánach de Shochar Atharthachta €235 a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>His partner is unemployed and signing on for unemployment credits</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá a pháirtnéir dífhostaithe agus tá síniú á dhéanamh aici le haghaidh creidmheasanna dífhostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They have 2 children</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá beirt leanaí acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If he got Illness Benefit he would get €380.70 (this is the personal rate of Illness Benefit + an Increase for a Qualified Adult + Increases for 2 Qualified Children)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dá bhfaigheadh sé Sochar Breoiteachta, gheobhadh sé €380.70 (is ionann seo agus an ráta pearsanta de Shochar Breoiteachta + Méadú do Dhuine Fásta Cáilithe + Méaduithe do Bheirt Leanaí Cáilithe)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He cannot get less Paternity Benefit than he would get if ill and getting Illness Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leis Sochar Atharthachta níos lú a fháil ná mar a gheobhadh sé dá mbeadh sé tinn agus dá mbeadh Sochar Breoiteachta á fháil aige</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For this reason, he will get Paternity Benefit of €380.70</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar an gcúis seo, gheobhaidh sé Sochar Atharthachta €380.70</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your adult dependant is getting a social welfare payment you will not get an Increase for a Qualified Adult (IQA) but you may get a half-rate Increase for a Qualified Child (IQC)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá íocaíocht leasa shóisialaigh á fáil ag do chleithiúnaí fásta, ní bhfaighidh tú Méadú do Dhuine Fásta Cáilithe (MDFC) ach b’fhéidir go bhfaighidh tú Méadú do Leanbh Cáilithe (MDC) ar leathráta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will qualify for a full-rate IQA and a full-rate IQC, if your adult dependant is unemployed and signing on for credits or is earning under €100.01 per week</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íoctar Sochar Atharthachta díreach isteach i do chuntas bainc nó comhar creidmheasa (cuntas reatha nó taisce, seachas cuntas morgáiste) nó féadfaidh tú a roghnú go n-íoctar é go díreach isteach i gcuntas bainc d’fhostóra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your adult dependant is earning between €100.01 and €310 per week you will get a tapered rate of IQA and a full-rate IQC</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nóta: Leanfaidh roinnt fostóirí le fostaí a íoc, ina iomláine, fad a bhíonn an fostaí ar saoire atharthachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your adult dependant is earning between €310.01 and €400 per week you will not get an IQA but you will get half rate IQC</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sna cásanna siúd, is gnách go n-iarrfaidh an fostóir ar an bhfostaí go n-íoctar leo aon Sochar Atharthachta a fhaigheann siad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your adult dependant earns over €400 per week you will not get an IQA or IQC</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart duit do chonradh fostaíochta a sheiceáil féachaint cad a bhaineann leat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>EU and non-EU citizens can holiday abroad and get Paternity Benefit for a maximum of 2 weeks while away</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gearrtar cáin ar Shochar Atharthachta i measc gach éilitheora</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To get Paternity Benefit while abroad, you need to inform Paternity Benefit Section of your intended absence either by email at: paternityben@welfare.ie or by calling 01 471 58 98 or Lo-call: 1890 690 690</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl Muirear Sóisialta Uilíoch agus ÁSPC le híoc. Féadfaidh tú léamh faoi conas a ghearrtar cáin ar Shochar Atharthachta sa cháipéis, Gearradh cánach ar íocaíochtaí leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>How the payment is made</seg></tuv>
+  <tuv xml:lang="ga"><seg>Conas iarratas a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Paternity Benefit is paid directly into your bank or building society account (a current or deposit account, not a mortgage account) or you can choose to have it paid directly into your employer's bank account</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh tú fógra a thabhairt do d’fhostóir ceithre seachtaine, ar a laghad, sula nglacann tú do shaoire atharthachta (12 sheachtain má tá tú féinfhostaithe). Má tá leanbh á uchtú agat, caithfidh tú deimhniú a sholáthar maidir le dáta socrúcháin do linbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Note: Some employers will continue to pay an employee, in full, while the employee is on paternity leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú fostaithe, caithfidh tú cruthúnas a sholáthar do d’fhostóir maidir leis an dáta a bhfuil súil leis go dtabharfaidh do chéile nó páirtnéir an leanbh ar an saol</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In such cases the employer will generally require the employee to have any Paternity Benefit paid to them. You should check your contract of employment to see what applies to you</seg></tuv>
+  <tuv xml:lang="ga"><seg>I bhfriotal eile, beidh ort deimhniú a sholáthar ó dhochtúir do chéile nó do pháirtnéara shibhialta ina ndeimhnítear cathain a bhfuil súil leis go saolófar do leanbh, nó deimhniú maidir leis an dáta féin breithe má tá iarratas á dhéanamh agat i ndiaidh na breithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Paternity Benefit is taxable for all claimants</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fostaithe: Caithfidh d’fhostóir foirm a chomhlánú lena dheimhniú go bhfuil tú i dteideal saoire atharthachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Universal Social Charge and PRSI are not payable</seg></tuv>
+  <tuv xml:lang="ga"><seg>Foirm PB2: Deimhniú Fostóra do Shochar Atharthachta (pdf) an fhoirm seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can read about how Paternity Benefit is taxed in the document, Taxation of social welfare payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ansin, beidh ort Foirm Iarratais ar Shochar Atharthachta (pdf) a chomhlánú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>How to apply</seg></tuv>
+  <tuv xml:lang="ga"><seg>Daoine féinfhostaithe: Má tá tú féinfhostaithe, caithfidh dochtúir an dáta a bhfuil súil leis go saolófar do leanbh (nó dáta féin breithe an linbh) a dheimhniú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should apply for Paternity Benefit 4 weeks before you intend to go on paternity leave (12 weeks if you are self-employed)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Teastaíonn seo lena dheimhniú go bhfuil tú i dteideal saoire atharthachta a ghlacadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Employees: Your employer must certify that you are entitled to paternity leave using form PB2: Employer Certificate for Paternity Benefit (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Foirm PB3: Deimhniú Leighis do Shochar Atharthachta (pdf) atá i gceist leis an bhfoirm seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will also need to complete the Paternity Benefit Application form (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ansin, beidh ort Foirm Iarratais ar Shochar Atharthachta (pdf) a chomhlánú, chomh maith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is form PB3: Medical Certificate for Paternity Benefit (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cá háit a ndéanfaidh mé iarratas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can apply for Paternity Benefit online at mywelfare.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh tú in ann iarratas a dhéanamh ar Shochar Atharthachta ar líne ag mywelfare.ie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You upload your application form and supporting documentation (form PB2 for employees and form PB3 if you're self-employed) and submit them online</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann tú do cháipéisíocht tacaíochta a uaslódáil agus seolann tú ar aghaidh í le d’iarratas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must have a Public Services Card (linked to your mobile phone number) and a verified MyGovID account to apply online</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh Cárta Seirbhísí Poiblí a bheith agat chun iarratas a dhéanamh ar Shochar Atharthachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you do not already have a Public Services Card, you can make an appointment to get one at mywelfare.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil Cárta Seirbhísí Poiblí agat cheana féin, féadfaidh tú coinne a dhéanamh chun ceann a fháil ag mywelfare.ie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will first need to register with the site</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh ort clárú leis an láithreán ar dtús</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To do this you need a mobile phone number and 2 e-mail addresses (a main address and an alternate address)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun seo a dhéanamh, teastaíonn uimhir ghuthán póca agus dhá sheoladh ríomhphoist uait (príomhsheoaldh ríomhphoist agus seoladh eile ríomhphoist)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you have made your appointment, print the notification and bring it to your appointment along with the required documents (listed in the notification).   Postal application</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a bheidh do choinne déanta, priontáil an fógra agus tabhair leat é chuig do choinne anuas ar na cáipéisí a theastaíonn (a liostaítear san fhógra)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can email the Paternity Benefit section using the secure enquiry form</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú ríomhphost a sheoladh chuig an Rannóg Sochar Atharthachta tríd an bhfoirm fiosrúcháin shláin a úsáid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your baby is born prematurely (before your Paternity Leave and Paternity Benefit is due to begin) and you wish to change your leave dates, you should send a letter from your employer confirming the new leave dates and the date of birth of your child to the Paternity Benefit section of the Department of Social Protection</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má shaolaítear do leanbh go réamhaibí (sula mbíonn do Shaoire Atharthachta agus do Shochar Atharthachta dlite le tosú) agus más mian leat do dhátaí saoire a athrú, ba cheart duit litir a sheoladh ó d’fhostóir ina ndeimhnítear na dátaí nua saoire agus dáta breithe do linbh chuig an Rannóg Sochar Atharthachta den Roinn Coimirce Sóisialaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are self-employed you must send a letter to the Paternity Benefit section stating your new leave dates and a letter from a doctor or the hospital confirming the date of birth of your child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú féinfhostaithe, caithfidh tú litir a sheoladh chuig an Rannóg Sochar Atharthachta ina luaitear do dhátaí nua saoire, anuas ar litir ó dhochtúir nó ón ospidéal ina ndeimhnítear dáta breithe do linbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If there is a stillbirth or miscarriage any time after the 24th week of pregnancy (i.e</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tharlaíonn marbh-bhreith nó breith anabaí ag aon tráth i ndiaidh an 24ú seachtain de thoircheas (i.e</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>from the beginning of the 25th week) and you are entitled to paternity leave, you are entitled to 2 weeks Paternity Benefit provided you satisfy the social insurance (PRSI) requirements</seg></tuv>
+  <tuv xml:lang="ga"><seg>ó thús an 25ú seachtain) agus má tá tú i dteideal saoire atharthachta a ghlacadh, beidh tú i dteideal 2 sheachtain de Shochar Atharthachta a fháil a fhad agus a shásaíonn tú na riachtanais árachais shóisialaigh (ÁSPC)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To apply for Paternity Benefit following a stillbirth, you need to send a letter from your doctor with the Paternity Benefit application form, confirming the expected date of birth, the actual date of birth and the number of weeks of pregnancy</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun iarratas a dhéanamh ar Shochar Atharthachta i ndiaidh marbh-bhreithe, is gá duit litir a sheoladh ó do dhochtúir i dteannta na foirme iarratais ar Shochar Atharthachta, ina ndeimhnítear an dáta a bhfuil súil leis go saolófar an leanbh, an dáta féin breithe agus líon seachtainí an toirchis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The leave must still be certified by your employer or self-certified if you are self-employed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh d’fhostóir an tsaoire a dheimhniú go fóill nó caithfidh an tsaoire a bheith féindeimhnithe má tá tú féinfhostaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your baby is in hospital you can postpone your paternity leave and Paternity Benefit or whatever portion of it remains for a maximum of 6 months</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá do leanbh in ospidéal, féadfaidh tú do shaoire atharthachta agus do Shochar Atharthachta nó pé cuid díobh nár ghlac tú/nach bhfuair tú a chur siar ar feadh 6 mhí, ar a mhéid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are an employee and you wish to change your leave dates because of the hospitalisation of your baby, you should send a letter from your employer confirming the new leave dates to the Paternity Benefit section of the Department of Social Protection</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más fostaí thú agus más mian leat do dhátaí saoire a athrú mar gheall gur tugadh do leanbh chun ospidéil, ba cheart duit litir a sheoladh ó d’fhostóir ina ndeimhnítear na dátaí nua saoire chuig an Rannóg Sochar Atharthachta den Roinn Coimirce Sóisialaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are self-employed and you wish to change your leave dates because of the hospitalisation of your baby, you must send a letter to the Paternity Benefit section stating your new leave dates and a letter from a doctor or the hospital confirming the date of birth of your child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú féinfhostaithe agus más mian leat do dhátaí saoire a athrú mar gheall gur tugadh do leanbh chun ospidéil, caithfidh tú litir a sheoladh chuig an Rannóg Sochar Atharthachta ina luaitear do dhátaí nua saoire, anuas ar litir ó dhochtúir nó ón ospidéal ina ndeimhnítear dáta breithe do linbh</seg></tuv>
+</tu>
+</body>
+</tmx>

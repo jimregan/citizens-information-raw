@@ -1,0 +1,521 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Back to Education Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Liúntas um Fhilleadh ar Oideachas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are unemployed, parenting alone or have a disability and are getting certain payments from the Department of Social Protection, you may take part in a second-or third-level education course and get a Back to Education Allowance (BTEA)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú dífhostaithe, i do thuismitheoir sa bhaile, nó faoi mhíchumas, agus má tá íocaíochtaí áirithe á bhfáil agat ón Roinn Coimirce Sóisialaí, is féidir leat freastal ar chúrsa oideachais dara nó tríú leibhéal agus an Liúntas um Fhilleadh ar Oideachas (BTEA) a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you want to do other types of courses not covered under the BTEA, for example, personal development courses or general training courses you may return to education under the Part-time Education option, the Vocational Training Opportunities Scheme (VTOS) or the Education, Training and Development option.   The Department of Social Protection has published Frequently Asked Questions about the scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mian leat cúrsaí de chineálacha eile a dhéanamh nach gcuimsítear faoin BTEA, mar shampla, cúrsaí forbartha pearsanta nó cúrsaí oiliúna ginearálta, is féidir leat filleadh ar an oideachas faoin Rogha Oideachais, Oiliúna agus Forbartha; Rogha Oideachais pháirtaimseartha; nó faoin Scéim Deiseanna Oiliúna Gairmoideachais (VTOS)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Since 2016/17, BTEA is only paid for courses that start in Ireland or in Northern Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó 2016/2017 ar aghaidh, ní íoctar an LFAO ach do chúrsaí a thosaíonn in Éirinn nó i dTuaisceart Éireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can be paid BTEA for a year abroad (for example, under the Erasmus scheme) if the year is an integral or mandatory part of your course</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadtar LFAO a íoc leat le haghaidh bliana a chaitheann tú thar lear (mar shampla, faoi scéim Erasmus) má tá an bhliain ina cuid lárnach nó éigeantach de do chúrsa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This must be verified by the Registrar or Admissions office of your college</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go ndéanann an Cláraitheoir nó an Oifig Iontrála i do choláiste seo a dheimhniú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Two study options are available under the scheme:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá dhá rogha staidéir ar fáil faoin scéim seo:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All courses must lead to a Quality and Qualifications Ireland (QQI) accreditation (these include FETAC or HETAC awards) or equivalent</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go n-eascróidh creidiúnú Dhearbhú Cáilíochta agus Cáilíochtaí Éireann (QQI) as gach cúrsa (áirítear leo seo dámhachtainí FETAC nó HETAC) nó a gcomhionann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must also progress in educational qualifications</seg></tuv>
+  <tuv xml:lang="ga"><seg>Anuas air sin, ní mór duit dul chun cinn a dhéanamh i gcáilíochtaí oideachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, if you already have a Level 6 qualification on the National Framework of Qualifications, the course you attend must be for at least a Level 7 qualification</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, má tá cáilíocht Leibhéal 6 bainte amach agat ar an gCreat Náisiúnta Cáilíochtaí cheana féin, ní mór go mbeidh cáilíocht Leibhéal 7, ar a laghad, le baint amach sa chúrsa ar a bhfreastalaíonn tú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This progression rule has been relaxed for people applying for second-level courses at Levels 5 and 6 in certain limited circumstances</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó Mheitheamh 2014, maolaíodh an riail um dhul chun cinn seo i measc daoine a dhéanann iarratas ar chúrsaí dara leibhéal ar Leibhéal 5 agus 6 faoi chúinsí teoranta áirithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you already hold a Level 5 or 6 qualification in an area that is no longer growing (obtained at least 3 years ago) and you have worked for at least 3 years and you satisfy all the other BTEA criteria, you may be allowed to do further courses at either of these levels - provided the course is at second level, will enable you to progress your career, lasts no more than 2 years (24 months) and meets future skills needs or local demand</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá cáilíocht Leibhéal 5 nó 6 bainte amach cheana féin agat i limistéar nach bhfuil ag fás a thuilleadh, má d’oibrigh tú ar feadh 3 bliana, ar a laghad, in Éirinn agus má shásaíonn tú gach critéar eile den BTEA, b’fhéidir go mbeidh cead agat breis cúrsaí a dhéanamh ar cheachtar de na leibhéil seo – a fhad agus atá an cúrsaí ar an dara leibhéal, a fhad agus go gcuirfidh an cúrsa ar do chumas do</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your DSP case officer must also recommend the course if you are getting a jobseeker's payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór do d’Oifigeach Cáis de chuid na RCS an cúrsa a mholadh, chomh maith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can attend a second-level course of education at any secondary, community, comprehensive or vocational school</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú freastal ar chúrsa oideachais dara leibhéal ag aon mheánscoil, pobalscoil, scoil chuimsitheach nó gairmscoil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The course must be full-time and lead to a certificate recognised by the Department of Education and Skills or approved by Quality and Qualifications Ireland (QQI), for example, Junior Certificate, Leaving Certificate, Post Leaving Certificate or a City and Guilds Certificate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór gur cúrsa lánaimseartha atá sa chúrsa agus ní mór go n-eascróidh teastas as a aithníonn an Roinn Oideachais agus Scileanna nó a fhaomhann Dearbhú Cáilíochta agus Cáilíochtaí Éireann (DCCÉ), mar shampla, an Teastas Sóisearach, an Ardteistiméireacht, cúrsa Iar-Ardteistiméireachta nó Teastas City and Guilds</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An Access or Foundation course is considered to be a second-level course for BTEA purposes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mheastar gurb ionann cúrsa Rochtana nó Bonnleibhéil agus cúrsa dara leibhéal ar mhaithe le cuspóirí LFAO</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can attend any third-level course of education in an approved third level institution (university, institute of education or third level college)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú freastal ar aon chúrsa tríú leibhéal oideachas in institiúid tríú leibhéal (ollscoil, institiúid oideachais nó coláiste tríú leibhéal)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The course must be a full-time day course and be approved for the Student Grant Scheme or be approved by the Higher Education and Training Awards Council (HETAC)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór gur cúrsa lánaimseartha lae atá sa chúrsa agus ní mór go mbíonn sé faofa don Scéim Deontas Mac Léinn nó a bheith faofa ag Comhairle na nDámhachtainí Ardoideachais agus Oiliúna (HETAC)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Note that not all HETAC courses are approved for BTEA</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabhair faoi deara nach bhfuil gach cúrsa de chuid HETAC faofa don LFAO</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In general you must be starting your third-level course at year one</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, ní mór go bhfuil tús á chur agat le do chúrsa tríú leibhéal ag bliain a haon</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, you may be eligible for BTEA if you:</seg></tuv>
+  <tuv xml:lang="ga"><seg>B’fhéidir go mbeifeá i dteideal LFAO a fháil, áfach:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Are exempt from part of your course because of a qualification you received in a previous course</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má tá tú díolmhaithe ó chuid de do chúrsa mar gheall ar cháilíocht a bhain tú amach i gcúrsa roimhe seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, you have a higher certificate in a course that you now wish to take to degree level</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, tá ardteastas bainte amach agat i gcúrsa agus tá sé ar intinn anois agat tabhairt faoi chúrsa den chineál sin ar leibhéal céime</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Completed a year (or years) of your course as a part-time student</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má chríochnaigh tú bliain amháin (nó níos mó) de do chúrsa mar mhac léinn páirtaimseartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Completed earlier years before becoming unemployed or receiving statutory redundancy</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má chríochnaigh tú blianta níos luaithe sula raibh tú dífhostaithe nó sula ndearnadh iomarcach go reachtúil thú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Are permitted by your school or college to proceed to the next year of a course having dropped out or deferred a year (due to mitigating circumstances)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má cheadaíonn do scoil nó coláiste duit leanúint ar aghaidh chuig an gcéad bhliain eile i gcúrsa tar éis gur éirigh tú as an gcúrsa nó gur chuir tú an cúrsa siar (mar gheall ar chúinsí maolaithe)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Were getting a One-Parent Family Payment (OFP) while in full-time education and were affected by age-related changes to OFP</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má bhí Íocaíocht Teaghlach Aontuismitheora (ÍTA) á fáil agat fad a bhí tú ag tabhairt faoi oideachas lánaimseartha agus má rinne athruithe a bhaineann le haois a tháinig ar an ÍTA difear duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>People in this situation may be admitted to BTEA mid-course</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más féidir daoine sa chás seo a cheadú bheith rannpháirteach in LFAO i lár an chúrsa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can get the Back to Education Allowance for a postgraduate course of study that leads to a Higher Diploma (H.Dip.) qualification in any discipline or a Professional Masters in Education</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat an Liúntas um Fhilleadh ar Oideachas a fháil i dtaobh cúrsa staidéir iarchéime óna n-eascraíonn cáilíocht Ard-Dioplóma (H.Dip.) i ndisciplín ar bith nó a n-eascraíonn Máistreacht Ghairmiúil san Oideachas as</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Other types of postgraduate qualifications are not recognised for BTEA</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhfaighidh tú an BTEA má tá agat cheana cáilíocht iarchéime</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The only exception to this is where a college has admitted a person without a third-level qualification to a Master’s course on the basis of relevant life experience - in these cases the person may be entitled to BTEA</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl ach aon eisceachta amháin. Má lig coláiste duine gan bhunchéim isteach ar chúrsa Mháistir de bharr taithí ar an saol ábhar. Sna cásanna seo, d’fhéadfadh an duine teidlíocht LFO a bheith aige</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will not get BTEA if you already have a postgraduate qualification</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhfaighidh tú an BTEA má tá cáilíocht iarchéime bainte amach agat cheana féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Student Grant Scheme is divided into 2 components – maintenance grants and fee grants</seg></tuv>
+  <tuv xml:lang="ga"><seg>Roinnfear an Scéim Deontais do Mhic Léinn in 2 chomhábhar – deontais chothabhála agus deontais táillí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You cannot get the Back to Education Allowance (BTEA) and the maintenance component of a student grant together</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leat an Liúntas um Fhilleadh ar Oideachas (BTEA) agus an comhábhar cothabhála de dheontas mac léinn a fháil le chéile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Although you are not entitled to the maintenance component of the student grant, you must still submit a student grant application form to be assessed for a fee grant to pay your Student Contribution (formerly called the student services charge), field trip costs and tuition fees (if payable)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cé nach bhfuil tú i dteideal an comhábhar cothabhála de dheontas mac léinn a fháil, ní mór duit foirm iarratais ar dheontas mac léinn a chur ar aghaidh go ndéanfar í a mheasúnú do dheontas táillí chun íoc as do Ranníocaíocht Mac Léinn (ar ar tugadh an muirear seirbhísí mac léinn roimhe seo), as costais turas allamuigh agus as táillí teagaisc (más iníoctha)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are getting a One-Parent Family Payment (or Jobseeker’s Transitional payment) or a disability payment (Disability Allowance, Invalidity Pension or Illness Benefit) you can choose to stay on your current social welfare payment (if you continue to meet the rules of the scheme) and apply for a student grant or you can choose to transfer to the BTEA, depending on which option benefits you most</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá Íocaíocht Teaghlach Aontuismitheora nó íocaíocht mhíchumais (Liúntas Míchumais, Pinsean Easláinte nó Sochar Breoiteachta) á fáil agat, is féidir leat roghnú le leanúint agus d’íocaíocht reatha leasa shóisialaigh a fháil agus cur isteach ar dheontas mac léinn nó is féidir leat roghnú chun aistriú chuig an BTEA</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In general, people who are studying full-time are not entitled to Rent Supplement unless they are getting BTEA</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, níl daoine a bhfuil staidéar lánaimseartha á dhéanamh acu i dteideal Forlíonadh Cíosa a fháil mura bhfuil LFAO á fháil acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read more in our document on social welfare payments and student grants</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léigh níos mó faoi inár gcáipéisíocht ar íocaíochtaí leasa shóisialaigh agus ar dheontais mhac léinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In general, to qualify for the BTEA you must be over 21, or over 24 for postgraduate courses - see also 'Age limits' below - and have been getting a qualifying social welfare payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, ní mór duit bheith níos sine ná 21 bliain d’aois nó níos sine ná 24 bliain d’aois maidir le cúrsaí iarchéime (féach freisin ‘Aoisteorainneacha’ thíos) agus ní mór go raibh íocaíocht cháilitheach leasa shóisialaigh á fáil agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must always have been accepted onto a qualifying course</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór gur glacadh leat i gcónaí ar chúrsa cáilitheach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Qualifying social welfare payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocaíochtaí cáilitheacha leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Jobseeker's Allowance or Jobseeker's Benefit • Jobseeker's Transitional payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Liúntas Cuardaitheora Poist nó Sochar Cuardaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Deserted Wife's Benefit or Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sochar nó Liúntas Ban Chéile Tréigthe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Widow's, Widower's or Surviving Civil Partner's (Contributory) Pension</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Pinsean Baintrí nó Baintreach Fir Mharthanaigh (Ranníocach)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Widow's, Widower's or Surviving Civil Partner's (Non-Contributory) Pension</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Pinsean Baintrigh nó Baintreach Fir Mharthanaigh (Neamhranníocach)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Incapacity Supplement (based on a life Disablement Pension)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Forlíonadh Éagumais (bunaithe ar Phinsean Míchumais saoil)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Illness Benefit for 2 years or more</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sochar Breoiteachta 2 bhliain nó níos faide</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(However periods spent on Illness Benefit can count towards the qualifying period if you qualify from another payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Féadtar tréimhsí a chaitear le Sochar Breoiteachta a fháil a chur san áireamh i dtreo na tréimhse cáilithí má cháilíonn tú ó íocaíocht eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Half of the qualifying period must relate to the qualifying payment.)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go mbaineann leath na tréimhse cáilithí leis an íocaíocht cháilitheach.)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Since 1 January 2015 you no longer qualify for BTEA when your Jobseeker’s Benefit ends – after 6 or 9 months</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ón 1 Eanáir 2015 ar aghaidh, ní cháileoidh tú do LFAO a thuilleadh nuair a chuirtear deireadh le do Shochar Cuardaitheora Poist – i ndiaidh 6 nó 9 mí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must qualify for another payment to continue to get BTEA</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit cáiliú d’íocaíocht eile chun leanúint le LFAO a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>People who qualified for BTEA from Jobseeker’s Benefit before 1 January 2015 can continue to get BTEA until the end of their course and if they are progressing to a new approved course</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le daoine a cháiligh do LFAO nuair a bhí Sochar Cuardaitheora Poist á fháil acu roimh an 1 Eanáir 2015 leanúint le LFAO a fháil go dtí deireadh a gcúrsa agus má bheidh siad ag leanúint ar aghaidh go dtí cúrsa nua faofa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For second level courses you must have been getting a qualifying social welfare payment (see above) for at least 3 months (78 paid or credited days of unemployment). You must be getting the qualifying payment immediately before you start the course</seg></tuv>
+  <tuv xml:lang="ga"><seg>I dtaobh cúrsaí dara leibhéal, ní mór go raibh íocaíocht cháilitheach leasa shóisialaigh á fáil agat (féach thuas) ar feadh 3 mhí (78 lá dífhostaíochta) ar a laghad díreach sula dtosaíonn tú an cúrsa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For third level courses you must have been getting a qualifying social welfare payment (see above) for 9 months (234 paid or credited days of unemployment). You must be getting the qualifying payment immediately before you start the course</seg></tuv>
+  <tuv xml:lang="ga"><seg>I dtaobh cúrsaí tríú leibhéal, ní mór go raibh íocaíocht cháilitheach leasa shóisialaigh á fáil agat (féach thuas) ar feadh 9 mí (234 lá dífhostaíochta) ar a laghad díreach sula dtosaíonn tú an cúrsa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For the Professional Masters in Education, you must have been getting a qualifying social welfare payment for 12 months (312 paid or credited days of unemployment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Le haghaidh Dioplóma Iarchéime in Oideachas, ní mór go raibh íocaíocht cháilitheach leasa shóisialaigh á fáil agat ar feadh 12 mhí (312 lá)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Satisfying the qualifying period</seg></tuv>
+  <tuv xml:lang="ga"><seg>An tréimhse cháilithe a shásamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You do not have to have been getting your qualifying payment continuously</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní gá go raibh d’íocaíocht cháilitheach á fáil agat go leanúnach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Periods spent on other qualifying social welfare payments (or getting credits) that are not broken by more than 12 months (52 weeks) can be used to determine whether you satisfy the qualifying period criteria</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir tréimhsí ina raibh íocaíochtaí eile cáilitheacha leasa shóisialaigh á bhfáil (nó creidmheasanna á bhfáil) nach bhfuil sos breis agus 12 mhí (52 seachtain) eatarthu a úsáid lena dheimhniú cibé acu an sásaíonn nó nach sásaíonn tú critéir na tréimhse cáilithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must always be getting a qualifying payment immediately before starting your course</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go bhfuil íocaíocht cháilitheach á bhfáil agat díreach sula dtosaíonn tú do chúrsa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Time spent on the Back to Education Allowance (BTEA), Vocational Training Opportunities Scheme (VTOS), full-time FET (formerly FÁS) training courses, Community Employment schemes, Part-time Job Incentive scheme, Gateway, Community Services Programme, Rural Social Scheme, TÚS, Workplace Placement Scheme (WPP), Back to Work Enterprise Allowance, Short Term Enterprise Allowance, Job Initiative, Job Assist and JobBridge may count towards the qualifying period for BTEA purposes</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh go gcuirfí am a chaitear ar an Liúntas um Fhilleadh ar Oideachas (BTEA), an Scéim Deiseanna Oiliúna Gairmoideachais (VTOS), cúrsaí lánaimseartha oiliúna de chuid FET, FIT, scéimeanna Fostaíocht Pobail, an Scéim Dreasachta Poist Pháirtaimseartha, an Clár Seirbhísí Pobail, an Scéim Shóisialta Tuaithe, TÚS, an Scéim Náisiúnta Intéirneachta, an Scéim Socrúchán Oibre (CSO), an Liúntas Fiontraíochta um Fhilleadh ar Obair, an Liúntas Fiontraíochta Gearrthréimseach, Tionscnamh Poist FÁS, Postchúnamh Ioncaim san áireamh i dtreo na tréimhse cáilitheachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This provision only applies where you have established an entitlement to a qualifying social welfare payment immediately before you start your course of study</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhíonn sé seo i gceist ach amháin má chruthaíonn tú teidlíocht i leith íocaíocht cháilitheach leasa shóisialaigh díreach sula dtosaíonn tú do chúrsa ceadaithe staidéir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Time spent on Youthreach can count towards the qualifying period provided you establish an entitlement to a qualifying social welfare payment before or after completing the Youthreach programme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir am a caiteadh ar Youthreach a chur san áireamh i dtreo na tréimhse cáilitheachta a fhad agus a chruthaíonn tú teidlíocht i leith íocaíocht cháilitheach leasa shóisialaigh sula gcríochnaíonn tú an clár Youthreach nó i ndiaidh duit é a chríochnú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Time spent in prison in the Irish State can count towards the qualifying period provided you establish an entitlement to a qualifying social welfare payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir am a caiteadh sa phríosún a chur san áireamh i dtreo na tréimhse cáilitheachta a fhad agus a chruthaíonn tú teidlíocht i leith íocaíocht cháilitheach leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Time spent on Supplementary Welfare Allowance (SWA) or on direct provision can count towards the qualifying period for BTEA</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir am a caitheadh ar an Liúntas Forlíontach Leasa Shóisialaigh (LFLS) nó ar sholáthar díreach a chur san áireamh i dtreo na tréimhse cáilitheachta don BTEA</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This applies only if you establish an entitlement to a qualifying social welfare payment immediately before you start your course of study and satisfy the linking rules (see above)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhíonn sé seo i gceist ach amháin má chruthaíonn tú teidlíocht i leith íocaíocht cháilitheach leasa shóisialaigh díreach sula dtosaíonn tú do chúrsa ceadaithe staidéir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have been awarded statutory redundancy and are entitled to a qualifying social welfare payment immediately before you start the course you can get immediate access to the BTEA without any waiting period</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bronnadh iomarcaíocht reachtúil ort agus má tá tú i dteideal íocaíocht cháilitheach leasa shóisialaigh a fháil díreach sula dtosaíonn tú an cúrsa, is féidir leat rochtain láithreach a fháil ar an BTEA gan aon tréimhse feithimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must take part in the BTEA scheme within one year of getting statutory redundancy and satisfy all the other conditions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit páirt a ghlacadh i scéim an BTEA laistigh de bhliain amháin ó iomarcaíocht reachúil a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To qualify for the Back to Education Allowance, you must be at least 21 years of age</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun cáiliú don Liúntas um Fhilleadh ar Oideachas, ní mór duit bheith 21 bliain d’aois ar a laghad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must be 24 for a third-level postgraduate course</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit bheith 24 bliain d’aois chun cáiliú do chúrsa iarchéime tríú leibhéal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if you are getting Jobseeker's Allowance, Jobseeker's Benefit, Jobseeker's Transitional payment or One-Parent Family Payment for the required period (3 months/78 days, 9 months/234 days or 12 months/312 days), are aged between 18 and 20 and have been out of the formal education system for at least 2 years you may qualify</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá Liúntas Cuardaitheora Poist, Sochar Cuardaitheora Poist nó Íocaíocht Teaghlach Aontuismitheora a fáil agat, áfach, don tréimhse riachtanach (3 nó 9 mí), má tá tú idir 18 agus 20 bliain d’aois agus má tá an córas oideachais foirmiúil fágtha agat ar feadh 2 bhliain ar a laghad, d’fhéadfá cáiliú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are aged 18 or over (over 24 for the postgraduate option) and getting Blind Pension, Disability Allowance, Invalidity Pension or Incapacity Supplement for the required period (3 months/78 days or 9 months/234 days) you may qualify</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú 18 mbliana d’aois nó níos sine (níos sine ná 24 bliain d’aois don rogha iarchéime) agus má tá Pinsean na nDall, Liúntas Míchumais, Pinsean Easláinte nó Forlíonadh Éagumais á fháil agat don tréimhse riachtanach (3 mí/78 lá nó 9 mí/234 lá) d’fhéadfá cáiliú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Unemployment or illness credits</seg></tuv>
+  <tuv xml:lang="ga"><seg>Creidmheasanna dífhostaíochta nó breoiteachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are signing on for unemployment credits or submitting medical certificates for illness credits, for the required period of time (either 3, 9, 12 months or 2 years depending on your course), you may qualify to participate in the BTEA scheme on a non-payment basis</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ag síniú le haghaidh creidmheasanna dífhostaíochta nó má tá teastais leighis á gcur ar aghaidh agat do chreidmheasanna breoiteachta, don tréimhse riachtanach ama (cibé acu 3 nó 9 mí ag brath ar do chúrsa), d’fhéadfá cáiliú chun páirt a ghlacadh i scéim an BTEA ar bhonn neamhíocaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that you do not get a weekly Back to Education Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn seo nach bhfaigheann tú Liúntas seachtainiúil um Fhilleadh ar Oideachas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You continue to be awarded credited contributions while you are taking part in the BTEA scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leanann tú le ranníocaíochtaí creidiúnaithe a fháil fad atá páirt á glacadh agat i scéim an BTEA</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are participating in the BTEA scheme on a non-payment basis, you can also apply for a student grant to be assessed for both the fee and maintenance component of the grant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá páirt á glacadh agat i scéim an BTEA ar bhonn neamhíocaíochta, is féidir leat cur isteach, freisin, ar dheontas mac léinn go ndéanfaí measúnú ort don chomhábhar táillí agus cothabhála den deontas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Other people who can qualify for BTEA</seg></tuv>
+  <tuv xml:lang="ga"><seg>Daoine eile ar féidir leo cáiliú don BTEA</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Since 2 June 2015, qualified adults must establish an entitlement to a qualifying payment in their own right before they can be approved for BTEA</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ón 2 Meitheamh 2015, beidh ar dhaoine fásta cáilithe teidlíocht d’íocaíocht cháilitheach a dheimhniú ina gceart féin sular féidir iad a fhaomhadh do LFAO</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The rate payable is based on their entitlement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bunaítear an ráta atá iníoctha ar a dteidlíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can use time spent as a qualified adult to satisfy the qualifying period</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú am caite mar dhuine fásta cáilithe a úsáid chun an tréimhse cáilithe a shásamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Before 2 June 2015, a qualified adult of a person who can claim BTEA could qualify for BTEA in their own right</seg></tuv>
+  <tuv xml:lang="ga"><seg>Roimh an 2 Meitheamh 2015, d’fhéadfadh daoine ar dhuine fásta cáilithe iad le duine ar féidir leis/lei LFAO a éileamh, cáiliú do LFAO ina gceart féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Both partners can get BTEA while taking an approved course</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh an bheirt pháirtnéirí LFAO a fháil agus iad ag tabhairt faoi chúrsa faofa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must provide a certificate from the school/college confirming your registration, commencement and attendance at the course</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit deimhniú a sholáthar ón scoil/gcoláiste a dheimhníonn do chlárú, do thosú agus d’fhreastal ar an gcúrsa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must supply this information before payment can begin</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit an fhaisnéis seo a sholáthar sular féidir tús a chur le híocaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>During the course of the academic year, you may be asked to provide confirmation that you are still taking part in the course</seg></tuv>
+  <tuv xml:lang="ga"><seg>Le linn na bliana acadúla, d’fhéadfadh go n-iarrfar ort dearbhú a sholáthar go bhfuil páirt fós á glacadh agat sa chúrsa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you change from a jobseeker's payment to BTEA, you do not need to sign on while you are getting BTEA</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má aistríonn tú ó íocaíocht chuardaitheora poist chuig an BTEA, ní gá duit síniú ag d’Oifig Áitiúil Leasa Shóisialaigh fad atá an BTEA á fháil agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>BTEA and other payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>An BTEA agus íocaíochtaí eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>People getting a Back Education Allowance cannot work full-time and are not eligible for Community Employment, Social Economy Programme, Tús, Rural Social Scheme, any other FET (formerly FÁS) or Fáilte Ireland training programmes, Work Placement Programme, JobBridge, Part-time Job Incentive Scheme or any other employment or training scheme or programme operated by the National Learning Network</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl daoine a bhfuil Liúntas um Fhilleadh ar Oideachas á fháil acu i dteideal tabhairt faoi Fhostaíocht Pobail, Clár an Gheilleagair Shóisialta, Tús, Scéim Shóisialta Tuaithe, aon chláir oiliúna FET (FÁS roimhe seo) nó Fháilte Éireann, Clár Socrúchán Oibre, JobBridge nó Scéim Dreasachta Poist Pháirtaimseartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>People getting a Back to Education Allowance are not eligible for Family Income Supplement (FIS)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl daoine a bhfuil Liúntas um Fhilleadh ar Oideachas á fháil acu i dteideal Forlíonadh Ioncam Teaghlaigh (FIT) a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>BTEA and part-time work</seg></tuv>
+  <tuv xml:lang="ga"><seg>An BTEA agus obair pháirtaimseartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Since the 2016/2017 academic year, people getting BTEA who take up work during the academic year will be assessed under the rules (including means assessment) that apply to their primary payment - the payment they qualified for BTEA from</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ón bhliain acadúil 2016/2017, má fhaigheann tú LFO agus má ghlacann tú obair i rith na bliana acadúla, measfar do chás de réir na rialacha (ina measc, measúnú ioncaim) a bhaineann le do príomhíocaíocht - an íocaíocht a cháilíonn tú le haghaidh LFO</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This only applies to new applicants or people who return to BTEA after a break</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann an riail nua seo le daoine a thosaigh ar LFO sa bhliain acadúil 2016/2017 nó a d'fhill ar LFO sa bhliain acadúil 2016/2017 tar éis bheith ar bhriseadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Previously, part-time work during the academic year did not affect the rate of BTEA paid</seg></tuv>
+  <tuv xml:lang="ga"><seg>Roimhe seo, níor imir obair pháirtaimseartha i rith na bliana acadúla aon tionchar ar an ráta LFO</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you were getting a jobseeker’s payment before going back to education, your BTEA is not paid over the summer months period between academic years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhí íocaíocht chuardaitheora poist á fáil agat sular fhill tú ar oideachas, ní íoctar do BTEA i gcaitheamh thréimhse mhíonna an tsamhraidh idir na blianta acadúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(It will be paid from the start of the new academic year provided you continue to satisfy the eligibility criteria.)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Íocfar é ó thús na bliana nua acadúla a fhad agus a leanann tú leis na critéir cháilitheachta a shásamh)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you were getting a One-Parent Family Payment, Jobseeker's Transitional payment or a disability payment before going back to education, your BTEA will continue to be paid over the summer provided you are returning to an approved course and are progressing in your education</seg></tuv>
+  <tuv xml:lang="ga"><seg>Murar féidir leat obair a aimsiú i gcaitheamh thréimhse an tsamhraidh, b’fhéidir go bhfuil tú i dteideal Sochar Cuardaitheora Poist nó Liúntas Cuardaitheora Poist a fháil. Ní mór duit na coinníollacha go léir a chomhlíonadh, lena n-áirítear bheith in ann obair a dhéanamh, fáil a bheith ort chun obair a dhéanamh agus fíor-iarracht a bheith á déanamh agat chun obair a chuardach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you work over the summer your means from work are assessed using the rules that apply to the original payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má éilíonn tú Liúntas Cuardaitheora Poist (LCP) agus má oibríonn tú go páirtaimseartha, measúnaítear do thuillimh i leith do LCP</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you stop work or your work pattern changes you should inform your Intreo centre so your case can be reassessed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má stopann tú ag oibriú nó má thagann athrú ar do phatrún oibre, ba cheart duit d’ionad Intreo a chur ar an eolas ionas gur féidir athmheasúnú a dhéanamh ar do chás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are a new BTEA participant aged over 26, your weekly BTEA rate will be equal to your previous social protection payment (the payment that qualified you for participation in the scheme)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más rannpháirtí nua BTEA thú atá os cionn 26 bliain d’aois, is ionann a bheidh do ráta seachtainiúil den BTEA agus d’íocaíocht dheireanach coimirce sóisialaí (an íocaíocht a cháiligh thú do rannpháirtíocht sa scéim)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may also qualify for increases for a qualified adult and qualified children</seg></tuv>
+  <tuv xml:lang="ga"><seg>Anuas air sin, d’fhéadfá cáiliú do mhéaduithe do dhuine fásta cáilithe agus do leanaí cáilithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are a new participant aged under 26 and you were getting a reduced age-related Jobseeker's Allowance payment, you will get a new personal maximum BTEA rate of €160 (increasing to €193 from September 2017). Any means you have will be deducted from this rate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más rannpháirtí nua thú atá faoi bhun 26 bliain d’aois agus má bhí íocaíocht laghdaithe aoischoibhneasa Cuardaitheora Poist á fáil agat, gheobhaidh tú uasráta nua pearsanta €160 den BTEA (asbhainfear aon mhaoin atá agat ón ráta seo)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can get your Back to Education Allowance paid directly to your bank account</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íoctar an Liúntas um Fhilleadh ar Oideachas ar an mbealach céanna le d’íocaíocht reatha leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is paid for the duration of the course</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íoctar é ar feadh fhad an chúrsa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you were previously getting a jobseeker's payment, you do not get the Back to Education Allowance during the summer period between academic years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhí íocaíocht chuardaitheora poist á fáil agat roimhe seo, ní fhaigheann tú an Liúntas um Fhilleadh ar Oideachas le linn thréimhse an tsamhraidh idir na blianta acadúla.Rachaidh d’oifig leasa shóisialaigh áitiúil i dteagmháil leat i Márta nó Aibreán chun dáta d’fhreastal dheireanach le haghaidh na bliana acadúla reatha a fhiafraí. Ní íocfar BTEA leat i ndiaidh an dáta seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your Intreo Centre will contact you in March or April to ask the date of last attendance for the current academic year and you will not be paid BTEA beyond this date</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat iarratas a dhéanamh ar Shochar Cuardaitheora Poist nó ar Liúntas Cuardaitheora Poist, áfach, má chomhlíonann tú na coinníollacha cáilithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may get BTEA during the summer if you are on work placement or work experience that is an essential part of your course</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú an BTEA a fháil le linn an tsamhraidh má tá tú ar shocrúchán oibre nó ar thaithí oibre atá mar chuid lárnach de do chúrsa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you defer a year of study you are treated as a new entrant when you return to your course</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chuireann tú bliain staidéir siar, caitear leat mar iontrálaí nua nuair a fhilleann tú ar do chúrsa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Cost of Education Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Do chuid sochair thánaisteacha a choimeád</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>From September 2017, you will get an annual Cost of Education Allowance of €500 if you are getting BTEA and you have a dependent child.   Keeping your extra benefits</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má cháilítear thú don Liúntas um Fhilleadh ar Oideachas, is féidir leat do theidlíocht i leith aon sochar tánaisteach atá agat cheana féin a choimeád, mar shampla, Liúntas Breosla, Forlíonadh Cíosa agus Forlíonadh Ús Morgáiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you qualify for the Back to Education Allowance, you can keep your entitlement to any extra benefits you already have, for example, Fuel Allowance or Rent Supplement</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh aon mhéadú ar ioncam tionchar a imirt ar do theidlíocht i leith Forlíonadh Cíosa/Ús Morgáiste nó an méid den fhorlíonadh a fhaigheann tú, áfach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, any increase in income may affect your entitlement to Rent Supplement or the amount of supplement you get. For example, this can happen if you have additional income from part-time work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, d’fhéadfadh seo tarlú má bhogann tú ó íocaíocht laghdaithe leasa shóisialaigh chuig an ráta caighdeánach den BTEA</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you are accepted on a course, you should notify the Department of Social Protection by filling in the Back to Education Allowance application form (pdf), which is also available from your Intreo Centre</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit, nuair a ghlactar ar chúrsa tú, an Roinn Coimirce Sóisialaí a chuir ar an eolas trí foirm iarratais don Liúntas um Fhilleadh ar Oideachas (pdf) a íoschóipeáil, a líonadh isteach agus a sheoladh chucu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All new BTEA claims for jobseekers must be recommended by a DSP Case Officer before a decision can be made on your BTEA entitlement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an fhoirm le fáil ó do Oifig Leasa Shóisialaigh áitiúil chomh maith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must get written confirmation that you are registered as a full-time day student from the college registrar or admission officer</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit dearbhú i scríbhinn a fháil go bhfuil tú cláraithe mar mhac léinn lae lánaimseartha ó oifigeach iontrála nó ó chláraitheoir an choláiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will not get payment of BTEA until you give this confirmation letter to the Department of Social Protection</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhfaighidh tú íocaíocht den Liúntas um Fhilleadh ar an Oideachas go dtí go dtabharfaidh tú an litir dhearbhaithe seo don Roinn Coimirce Sóisialaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must apply for BTEA before your course starts (or within 30 days of the course starting)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Glacfar le hiarratas deireanach má tá cúis mhaith leis a bheith deireanach agus má fhaigheann an rannóg cuí den Roinn é taobh istigh de 30 lá ó thús an chúrsa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Send your application to the section in the Department of Social Protection that deals with your payments – see ‘Where to apply’ below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seol d’fhoirm iarratais chuig an rannóg sa Roinn Coimirce Sóisialaí a láimhseálann d’íocaíochtaí - féach ‘Cá háit a ndéanfaidh mé iarratas’ thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Back to Education Allowance is a non-statutory scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Scéim neamhreachtúil is ea an Liúntas um Fhilleadh ar Oideachas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that decisions cannot be appealed to the Social Welfare Appeals Office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn seo nach féidir cinntí a achomharc leis an Oifig Achomharc Leasa Shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are not satisfied with a decision you may request within 21 days (in writing) a review by an officer of the relevant social welfare office or section, enclosing any new evidence in support of the review</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil tú sásta le cinneadh, is féidir leat a iarraidh (i scríbhinn) go ndéanfaidh oifigeach den Oifig ábhartha Áitiúil Leasa Shóisialaigh nó an Rannóg ábhartha den Roinn, athreithniú trí aon fhianaise nua a thacaíonn leis an athbhreithniú a chur faoi iamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are getting a jobseeker's payment, Farm Assist or a One-Parent Family payment you should return your application form to your Intreo Centre</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhaigheann tú íocaíocht cuardaitheora poist, caithfidh tú do fhoirm iarratas a sheol chuig le d'ionad Intreo nó d’oifig leasa shóisialaigh áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are getting Illness Benefit contact Back to Education Section:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhaigheann tú Sochar Breoiteachta, teigh i dteagmháil le:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Department of Social Protection</seg></tuv>
+  <tuv xml:lang="ga"><seg>An Roinn Coimirce Sóisialaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are getting Blind Pension, a deserted wife's payment, Widow's, Widower's or Surviving Partner's (Non-Contributory) Pension, or Widow's, Widower's or Surviving Partner's (Contributory) Pension contact:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ma fhaigheann tú Íocaíocht Teaghlaigh Aontuismitheora, íocaíocht do mhná céile tréigthe, Pinsean Neamh-ranníocach do Bhaintreach nó do Bhaintreach Fir Pinsean Ranníocach do Bhaintreach nó do Bhaintreach Fir nó Pinsean na nDall, teigh i dteagmháil le:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Department of Social Protection</seg></tuv>
+  <tuv xml:lang="ga"><seg>An Roinn Coimirce Sóisialaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Opening Hours:This office does not offer a service to personal callers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Uaireanta Oscailte:Ní thairgeann an oifig seo seirbhís do chuairteoirí pearsanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All queries must be made using the online enquiry form, by telephone or in writing</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh gach ceist a bheith cur isteach tríd an fhoirm fiosraithe ar líne a úsáid, tríd an teileafón nó i scríbhinn</seg></tuv>
+</tu>
+</body>
+</tmx>

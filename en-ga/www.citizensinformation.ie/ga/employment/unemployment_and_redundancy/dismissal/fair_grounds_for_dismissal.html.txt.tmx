@@ -1,0 +1,341 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Fair grounds for dismissal</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cúiseanna maithe le dífhostú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are dismissed from your employment you may, under certain conditions, bring a claim for unfair dismissal against your employer</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhífhostaítear tú, is féidir leat éileamh maidir le dífhostú éagórach a dhéanamh i gcoinne d'fhostóra, faoi réir coinníollacha áirithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Apart from a case involving constructive dismissal a dismissal is presumed to be unfair unless your employer can show substantial grounds to justify it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seachas cás ina bhfuil dífhostú inchiallaithe i gceist, glactar leis go bhfuil dífhostú éagórach mura bhfuil ar chumas an fhostóra a léiriú go bhfuil cúiseanna maithe ag baint leis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>So if you qualify to bring a claim and there was a dismissal, your employer has to prove that the dismissal was a fair one, that is, that there were fair grounds for the dismissal and that fair procedures were followed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin de, má bhí dífhostú ann agus má tá tú i dteideal éileamh a dhéanamh, caithfidh an fostóir a chruthú gur dífhostú cóir a bhí ann .i. go raibh cúiseanna maithe leis an dífhostú agus gur cloíodh leis na nósanna imeachta cearta:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are dismissed from your job you are entitled to a statutory minimum period of notice if you have worked at least 13 weeks for your employer</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhífhostaítear tú ó do phost, tá fógra íosthréimhse reachtúil ag dul do gach fostaí atá fostaithe ag a f(h)ostóir ar feadh 13 sheachtain ar a laghad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your written contract of employment may provide for a longer period of notice</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh do chonradh oibre foráil a dhéanamh i gcomhair fógra tréimhse níos faide</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the unfair dismissals legislation you may ask your employer for a written statement of the reasons for your dismissal</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoin reachtaíocht, tá sé de cheart agat ráiteas scríofa a iarraidh ó d'fhostóir ag léiriú cúiseanna an dífhostaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your employer should provide this within 14 days of your request</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir don bhfostóir é seo a chur ar fáil laistigh de 14 lá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In order to justify the dismissal your employer:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Le dífhostú a chruthú ní mór don bhfostóir:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Must show that your dismissal was connected with one or more of the potentially fair grounds set out in the legislation</seg></tuv>
+  <tuv xml:lang="ga"><seg>• A léiriú go raibh baint ag an dífhostú le ceann nó níos mó de na cúiseanna atá leagtha síos sa reachtaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Must show that fair procedures were followed and must have acted fairly</seg></tuv>
+  <tuv xml:lang="ga"><seg>• A léiriú gur cloíodh leis na nósanna imeachta cearta agus gur iompair sé/sí é/í féin mar ba cheart</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Will have to disprove any allegation by you that your case involves any of the automatically unfair reasons for dismissal</seg></tuv>
+  <tuv xml:lang="ga"><seg>• A bheith in ann a bhréagnú go bhfuil baint ag aon líomhain a dhéanann tusa leis na cúiseanna éagóracha le dífhostú sa ghnáthchúrsa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Fair grounds for dismissal</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cúiseanna maithe le dífhostú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your employer could give one or more of the following reasons for your dismissal:</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh d'fhostóir cúis amháin nó níos mó ón liosta seo thíos a thabhairt mar chúis leis an dífhostú:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This includes issues such as lateness, absenteeism and persistent absence through illness or injury, either short-term or long-term</seg></tuv>
+  <tuv xml:lang="ga"><seg>Clúdaíonn sé sin cúiseanna ar nós déanacht, neamhláithreacht agus neamhláithreacht leanúnach mar gheall ar thinneas nó ghortú, cibé gearrthéarmach nó fadthéarmach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If lateness or absenteeism is at issue, your employer will be expected to have documentary proof of this allegation, such as clocking-in records or documented absences on file that are not medically certified</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá déanacht nó neamhláithreacht i gceist, ba cheart cruthúnas faisnéisneach a bheith ag d'fhostóir, ar nós taifid chlogála isteach nó cruthúnas neamhláithreachta agus iad gan deimhniú dochtúra a bheith leo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In addition, your employer will also be expected to show that you were made aware of the problem and that you were warned as to the consequences for your continued employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, beifear ag súil go mbeidh an fostóir in ann cruthúnas a thabhairt gur chuir sé/sí an fhadhb in iúl duit agus gur tugadh foláireamh duit maidir leis an tionchar a bheadh aici ar bhuanú d'fhostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If illness or injury is at issue, it is often assumed that you cannot be dismissed fairly while on certified sick leave from your work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá breoiteacht nó gortú i gceist, meastar go minic nach féidir duine a dhífhostú go cóir agus é/í ar shaoire bhreoiteachta óna (h)obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, this is not true</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl sé sin fíor, áfach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is difficult to lay down hard and fast rules to apply to these cases as each will be treated on its own merits</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is deacair rialacha dochta daingne a leagan síos maidir leis na cásanna seo mar measfar gach ceann acu ar a fhiúntas féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Issues such as length of service, previous record and the importance of the job will vary and will have to be taken into account</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh éagsúlacht i ngach cás, mar shampla faid sheirbhíse, do thaifead oibre roimhe seo agus tábhacht na fostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These types of claim are often divided into short-term and long-term absences</seg></tuv>
+  <tuv xml:lang="ga"><seg>Roinntear an cineál éileamh seo go minic i neamhláithreacht ghearrthéarmach agus neamhláithreacht fhadtéarmach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Dismissal related to short-term illness generally occurs where you have a medical problem that results in frequent absences for short periods from the workplace</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tarlaíonn dífhostú maidir le breoiteacht ghearrthéarmach nuair a bhíonn tú neamhláithreach go minic mar thoradh ar fadhb sláinte a bheith ort</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Assuming that the genuine nature of your problem was not in question, your employer will have to show that a pattern of absence exists, that it is causing problems, that the problem is unlikely to get better and that you have been warned that dismissal is likely</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag glacadh leis nach raibh aon amhras faoin bhfadhb sláinte, beidh ar an bhfostóir a thaispeáint go bhfuil pátrún neamhláithreachta i bhfeidhm agus go bhfuil sé ag cothú deacrachtaí, nach bhfuil dealramh ann go bhfeabhsóidh an fhadhb agus gur tugadh foláireamh duit gur cosúil go bhfuil dífhostú i ndán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In a case of a long-term absence, however, your employer will be expected to obtain detailed medical evidence that an early return to work is unlikely</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás neamhláithreachta fadthéarmaí, áfach, beifear ag súil go bhfaighidh d'fhostóir fianaise leighis mhionchruinn ag rá nach cosúil go mbeidh tú ag filleadh ar an obair ar ball</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is no set period of absence by which it can be said that a dismissal will or will not be considered reasonable</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon tréimhse socraithe neamhláithreachta leagtha síos inar féidir a rá go bhfuil nó nach bhfuil dífhostú réasúnach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Obviously, the longer the absence, the easier it is for your employer to show that it is causing genuine difficulty in terms of the organisation of the workplace</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dá fhad an neamhláithreacht is ea is éasca don bhfostóir a thaispeáint go bhfuil sé ag cothú fíordheacrachtaí maidir le heagraíocht na háite oibre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In terms of medical evidence you may be required to attend your employer's medical expert</seg></tuv>
+  <tuv xml:lang="ga"><seg>I dtéarmaí fianaise leighis d'fhéadfadh go mbeadh ort freastal ar shaineolaí leighis de chuid d'fhostóra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If there is a conflict of medical evidence between you and your employer as to the possible return date, your employer will be expected to get a second opinion before taking the decision to dismiss you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá coimhlint ó thaobh fianaise leighis idir tusa agus d'fhostóir maidir leis an dáta fillte a d'fhéadfadh a bheith ann, beifear ag súil go lorgóidh an fostóir dara tuairim sula ndéanfaidh sé an cinneadh tú a dhífhostú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, it is important to note that if your illness might be considered a disability under employment equality legislation, your rights under that particular legislation would also have to be taken into consideration</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áfach, is tábhachtach aire a thabhairt, dá mbreathnódh ar do thinneas mar mhíchumas faoin reachtaíocht comhionannais fostaíochta, caithfidh do chearta faoin reachtaíocht seo bheith san áireamh freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Competence refers to your ability to do your job</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann inniúlacht le do chumas do jab a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the first place, you need to be made aware of the standards that are expected of you, and these must refer to the job you were hired to do</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar an gcéad dul síos, beifear ag súil le caighdeáin uait agus ní mór iad sin a léiriú duit. Caithfidh go mbaineann siad leis an jab ar fostaíodh tú dó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Secondly, if you fall short of the required standard, this must be clearly explained to you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar an dara dul síos, mura sroicheann tú an caighdeán riachtanach, ní mór é sin a chur in iúl duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This should be done through a formal set procedure</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir é sin a dhéanamh trí mheán nós imeachta foirmeálta faoi leith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your employer should also specify what improvements are necessary</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir don bhfostóir na feabhsúcháin riachtanacha a shonrú duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These should be achievable and a reasonable timeframe must be allowed for the improvement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir dóibh siúd a bheith indéanta agus ní mór teaorainn ama réasúnta a cheadú don bhfeabhas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Ultimately, your employer should give you a final warning setting out the likelihood of dismissal</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi dheireadh, ba chóir don bhfostóir rabhadh deireanach a thabhairt duit a léiríonn an dealraitheacht dífhostaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Fair dismissal on grounds of qualifications can happen in two ways</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tarlaíonn dífhostú cóir mar gheall ar chúiseanna cáilíochtaí i ndá bhealach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>One situation is where you misled your employer about qualifications you had when applying for the job</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cás amháin ná nuair a chuir tú míthreoir ar an bhfostóir maidir leis na cáilíochtaí a bhí agat nuair a chuir tú isteach ar an bpost</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The other is where your employer made continued employment conditional upon your obtaining further qualifications and you failed to achieve this, having been given a reasonable opportunity to do so</seg></tuv>
+  <tuv xml:lang="ga"><seg>An cás eile ná nuair a gheall an fostóir fostaíocht leanúnach duit ar an gcoinníoll go dtabharfá faoi cháilíochtaí breise a fháil agus theip ort an coinníoll sin a chomhlíonadh cé gur tugadh deis réasúnta duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As a ground for fair dismissal the term conduct covers a very large area of behaviour</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar chúis le dífhostú cóir clúdaíonn an téarma iompar réimse leathan iompraíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is a need to distinguish between gross misconduct and ordinary instances of misconduct</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá gá le idirdhealú a dhéanamh idir mí-iompar tromchúiseach agus gnátheachtraí mí-iompair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Gross misconduct may give rise to instant (summary) dismissal without notice or pay in lieu of notice</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh mí-iompar tromchúiseach dífhostú láithreach (achoimre) a spreagadh gan fógra nó pá in áit fógra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Examples of gross misconduct include assault, drunkenness, stealing, bullying or serious breach of your employer's policies and practices</seg></tuv>
+  <tuv xml:lang="ga"><seg>Samplaí den mhí-iompar tromchúiseach ná ionsaí, meisce, gadaíocht, bulaíocht nó sárú ar bheartanna agus cleachtais an fhostóra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your contract of employment may contain further information concerning gross misconduct</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh níos mó eolais a bheith i do chonradh fostaíochta maidir le mí-iompar tromchúiseach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Ordinary instances of misconduct may be a series of minor incidents which, when taken together, are enough to warrant dismissal, although your employer is obliged to give you notice or pay in lieu of notice in this type of situation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Maidir leis na gnátheachtraí mí-iompair, d'fhéadfadh sraith mioneachtraí a bheith i gceist ach, nuair a chuirtear le chéile iad tugann sé údar ceart le dífhostú. Cibé, tá dualgas ar an bhfostóir fógra nó pá in áit fógra a thabhairt duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your employer will need to investigate each situation adequately to obtain all the facts of the case</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh an fostóir gach cás a fhiosrú i gceart chun teacht ar na fíricí ar fad a bhaineann leis an gcás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Except in cases of gross misconduct, you must have been given appropriate warnings about your conduct and been made aware that dismissal might result if the problems continue</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach amháin i gcásanna mí-iompair thromchúisigh, tá sé riachtanach gur tugadh rabhaidh iomchuí duit faoi d'iompar agus gur léiríodh duit go raibh seans maith ann go mbeadh dífhostú mar thoradh ar an iompar sin dá leanfadh de na fadhbanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If this has been done, the dismissal is fair, because you have been given a chance to improve your conduct</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má cuireadh an méid sin i gcrích, tá an dífhostú cóir, mar tugadh an deis duit d'iompar a fheabhsú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Workplace Relations Commission's Code of Practice: Grievance and Disciplinary Procedures states that employers should have written grievance and disciplinary procedures and they should give employees copies of these at the start of their employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhoilisgh an Coimisiún um Chaidreamh san Áit Oibre Cód Cleachtais: Nósanna Imeachta Casaoide agus Araíonachta a shonraíonn gur chóir nósanna imeachta casaoide agus araíonachta a bheith ag fostóirí agus gur chóir dóibh cóipeanna díobh seo a thabhairt d'fhostaithe ag tús a gcuid fostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the unfair dismissals legislation employers are required to give the employee in written notice of the procedures to be followed before an employee is dismissed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi reactaíocht um dhífhostú éagórach tá dualgas ar fhostóirí fógra scríofa de na nósanna imeachta a leanfar a thabhairt d'fhostaí sula ndíbrítear fostaí óna p(h)ost</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This must be done within 28 days of entering the contract of employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfear é seo a dhéanamh laistigh de 28 lá ó chonradh fostaíochta a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In this case your employer will want to show that a redundancy situation exists and that therefore the dismissal is fair</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás seo beidh an fostóir ag iarraidh a thaispeáint go bhfuil cás iomarcaíochta ann agus mar sin de go bhfuil an dífhostú cóir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To counter this, you may present one or more of the following arguments: that there is no economic justification for the redundancy; that you have been replaced; or that you were unfairly selected for redundancy</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun é sin a bhréagnú, is féidir leat ceann nó níos mó ná ceann amháin de na hargóintí seo a dhéanamh: nach bhfuil aon bhunús eacnamaíoch leis an iomarcaíocht; gur fostaíodh duine eile i d'áit; gur roghnaíodh tú go héagórach don iomarcaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your employer may dismiss you if your continued employment would contravene the law</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis an bhfostóir tú a dhífostú dá sáródh buanú d'fhostaíochta riachtanas dlí eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, you need a current driving licence to work, but you have lost your licence on a drunk driving charge</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuir i gcás go bhfuil ceadúnas tiomána reatha uait don bhfostaíocht, ach gur chaill tú do cheadúnas mar cúisíodh tú le bheith ag tiomáint agus tú ólta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You cannot continue to work without breaking the law and dismissal may be justified</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leat leanúint san obair gan an dlí a shárú agus féadann údar maith a bheith leis an dífhostú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, your employer might be expected to look at alternatives depending on all the facts of the case</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh sé go mbeadh ar an bhfostóir féachaint ar roghanna eile, ag brath ar na fíricí ar fad a bhaineann leis an gcás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This category is designed to include any situations not covered above</seg></tuv>
+  <tuv xml:lang="ga"><seg>Díríonn an aicme seo ar aon chineál cás nach bhfuil clúdaithe thuas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your employer will be required to establish that there were other substantial grounds and that they justify your dismissal</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh an fostóir a chruthú go raibh cúiseanna substaintiúla eile agus go dtugann siad údar maith le dífhostú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Certain reasons for dismissal are considered to be automatically unfair</seg></tuv>
+  <tuv xml:lang="ga"><seg>Meastar go bhfuil cúiseanna áirithe do dhífhostú éagórach sa ghnáthchúrsa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• membership or proposed membership of a trade union or engaging in trade union activities, whether within permitted times during work or outside of working hours</seg></tuv>
+  <tuv xml:lang="ga"><seg>• ballraíocht ag an bhfostaí, nó tá ballraíocht a bheith ar intinn aige/aici, de cheardchumann nó gníomhaíocht in imeachtaí ceardchumainn,</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• religious or political opinions</seg></tuv>
+  <tuv xml:lang="ga"><seg>• tuairimí creidimh nó polaitiúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• legal proceedings against an employer where an employee is a party or a witness</seg></tuv>
+  <tuv xml:lang="ga"><seg>• imeachtaí dlíthiúla in aghaidh fostóra nuair atá an fostaí mar pháirtí nó finné</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• race, colour, sexual orientation, age or membership of the Traveller community</seg></tuv>
+  <tuv xml:lang="ga"><seg>• cine, dath, claonadh gnéis,aois nó duine den Lucht Siúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• pregnancy, giving birth or breastfeeding or any matters connected with pregnancy or birth</seg></tuv>
+  <tuv xml:lang="ga"><seg>• toircheas, saolú linbh nó tabhairt chun cíche nó aon rud a bhaineann le toircheas nó breith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• availing of rights under legislation such as maternity leave, adoptive leave, paternity leave, carer's leave, parental or force majeure leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>• an fostaí a bheith i mbun nó ag beartú cearta faoin reachtaíocht a chur i ngníomh ar nós saoire mháithreachais, saoire altramais, saoire atharthachta, saoire cúramóra,saoire thuismitheora nó saoire force majeure</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Note: employment equality legislation prohibits dismissal based on any of the following 9 grounds for discrimination: gender, civil status, family status, age, disability, religious belief, race, sexual orientation or membership of the Traveller community</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nóta: faoin reachtaíocht comhionannais fostaíochta ní féidir le fostóir aon duine a roghnú ar son dífhostaithe ar aon cheann den naoi gcúis leatroma seo a leanas: gnéas, stádas sibhialta, stádas teaghlaigh, aois, míchumas, creideamh, cine, claonadh gnéis nó duine den Lucht Siúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>So, for example, if you have been employed for less than a year you may not be able to bring a claim under the unfair dismissals legislation, but it could be possible under equality legislation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin, cuir i gcás go raibh tú fostaithe ar feadh níos lú ná bliain, d'fhéadfadh nach mbeifeá a bheith in ann éileamh a dhéanamh faoin reachtaíocht dífhostaithe éagóracha , ach d'fhéadfá é a dhéanamh faoi reachtaíocht comhionannais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When dismissal is being considered your employer is expected to have disciplinary procedures in place and to follow them</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair atá dífhostú á mheas, ba cheart nósanna imeachta araíonachta a bheith i bhfeidhm ag an bhfostóir agus ba cheart dó/di cloí leo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Disciplinary procedures set out the stages and process the employer will follow in relation to alleged shortcomings of an employee</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagann nósanna imeachta araíonachta amach na céimeanna agus an próiseas a chloífidh an fostóir leo maidir le lochtanna líomhnaithe fostóra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Generally, the procedure allows for informal warnings leading to written warnings and ultimately to dismissal as described in the Code of Practice on grievance and disciplinary procedures</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, ceadaíonn an nós imeachta rabhaidh neamhfhoirmiúla as a dtagann rabhaidh scríofa agus dhífhostú faoi dheireadh, mar a deirtear sa Chód Cleachtais ar nósanna imeachta casaoide agus araíonachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your employer must follow fair procedures and is required to give you appropriate warnings, make you fully aware of the allegations against you and give you an opportunity to present your side</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh d'fhostóir cloí le nósanna imeachta cóir agus beidh air/uirthi rabhaidh chuí a thabhairt duit, tú a chur ar an eolas maidir le líomhaintí a dhéantar i do choinne agus deis a thabhairt duit do chás a thabhairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must also be allowed the right to be represented in any disciplinary procedures by, for example, your trade union official</seg></tuv>
+  <tuv xml:lang="ga"><seg>I nósanna imeachta araíonachta ar bith tá an ceart agat chun ionadaíochta ó, mar shampla, oifigeach do cheardchumainn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In deciding a case, the body hearing it must take into account the reasonableness or otherwise of your employer's conduct</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair atá do chás á mheas, caithfidh an lucht éisteachta aird a thabhairt ar an gné réasúnta nó eile a bhain le hiompar an fhostóra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In addition, the question as to whether or not your employer had a dismissal procedure in place will also be taken into account</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, féachfar ar an gceist an raibh nó nach raibh nós imeachta dífhostaithe i bhfeidhm agus cuirfear é sin san áireamh chomh maith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you wish to make a claim for unfair dismissal you should do so within 6 months of the date of dismissal</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mian leat éileamh a dhéanamh ar son dífhostaithe éagóraigh, ba chóir duit é a dhéanamh laistigh de 6 mhí tar éis dáta an dífhostaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This time limit may be extended to 12 months in cases if there was a reasonable cause for the delay</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfar an teorainn ama seo a leathnú go dtí 12 mhí i gcásanna nach rabhthas in ann an t-éileamh a chur isteach laistigh de 6 mhí mar gheall ar chúinsí réasúnacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you qualify under the unfair dismissals legislation, you may bring your claim to the Workplace Relations Commission using the online complaint form available on workplacerelations.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má cháilíonn tú faoin reachtaíocht dífhostaithe éagóracha, is féidir leat an t-éileamh a thabhairt faoi bhráid an Choimisiúin um Chaidreamh san Áit Oibre tríd an fhoirm ghearáin ar líne a úsáid á fáil ar workplacerelations.ie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Complaints will be referred to an adjudication officer for hearing</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirfear gearáin faoi bhráid breithneora an Choimisiúin um Chaidreamh san Áit Oibre i gcomhair éisteacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All decisions of an adjudication officer can be appealed to the Labour Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá ceart achomhairc chuig an Chúirt Oibreachais tar éis cinnidh an bhreithneoir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For information in order to seek redress under the Acts contact the Workplace Relations Commission's Information and Customer Service - see 'Where to apply' below.   Where to apply  Workplace Relations Commission  Information and Customer Service O'Brien Road Carlow R93 W7W2 Ireland  Opening Hours: Mon. to Fri</seg></tuv>
+  <tuv xml:lang="ga"><seg>Le haghaidh tuilleadh faisnéise nó foirmeacha gearáin chun cúiteamh a lorg faoi na hAchtanna téigh i dteagmháil leis an tSeirbhís Fhaisnéise agus Custaiméara an Choimisiúin um Chaidreamh san Áit Oibre</seg></tuv>
+</tu>
+</body>
+</tmx>

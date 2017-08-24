@@ -1,0 +1,389 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Jobseeker's Allowance and work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Liúntas Cuardaitheora Poist agus obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Calculating means from work</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Maoin ón obair a ríomh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Spouse’s, civil partner’s or cohabitant's income from work • Further information</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ioncam céile, páirtnéara shibhialta nó comháititheora ó obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>One of the primary conditions for getting Jobseeker’s Allowance is that you must be unemployed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ceann de na bunchoinníollacha chun Liúntas Cuardaitheora Poist nó Sochar Cuardaitheora Poist a fháil go gcaithfidh tú a bheith dífhostaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, you do not have to be totally unemployed – you must be unemployed for at least 4 days out of 7 consecutive days</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áfach, ní gá duit bheith dífhostaithe go hiomlán – caithfidh tú bheith as obair ar feadh 4 lá ar a laghad as 7 lá leanúnach oibre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must also be available for and actively seeking work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit bheith ar fáil chun obair a dhéanamh agus ag lorg oibre go gníomhach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can work and get Jobseeker’s Allowance if:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin féin, d'fhéadfá ioncam áirithe a thuilleamh ó fhostaíocht faoi chúinsí áirithe agus Liúntas Cuardaitheora Poist a fháil. Mar shampla:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Your days at work are reduced</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tá d'uaireanta oibre laghdaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You are laid off work temporarily</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Déantar thú a asleagan go sealadach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You are self-employed but your level of business and income has reduced</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tá tú féinfhostaithe ach tá leibhéal do ghnó agus d’ioncaim laghdaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You can only get part-time or casual work</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní féidir ach amháin obair pháirtaimseartha nó ócáideach a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must meet all the other conditions for Jobseeker’s Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh tú na coinníollacha eile go léir maidir leis an Liúntas Cuardaitheora Poist a chomhlánú, mar shampla, caithfidh tú tástáil mhaoine a shásamh agus a bheith as obair ar feadh 4 lá ar a laghad as 7 lá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, you must pass a means test and you must also continue to look for full-time work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, ní mór duit leanúint agus bheith ag cuardach obair lánaimseartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Jobseeker’s Allowance is a means-tested payment so your household income must be below a certain level to qualify</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is íocaíocht de réir tástáil mahoine Liúntas Cuardaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your income from work is assessed and can affect your Jobseeker's Allowance payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh d'ioncam teaglaigh bheith faoi leibhéal áirithe chun cáiliú dó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, only a certain amount of income from work is taken into account</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar measúnú ar d'ioncam ó obair agus féadfaidh seo tionchar a imirt ar íocaíocht do Liúntais Chuardaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is called your means from work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar maoin ó obair air seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have a spouse, civil partner or cohabitant their income from work or other sources is also taken into account and can affect your Jobseeker’s Allowance payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá céile, páirtnéir sibhialta nó comháititheoir agat, cuirtear san áireamh freisin a n-ioncam ó obair agus féadfaidh seo tionchar a imirt ar íocaíocht do Liúntais Chuardaitheora Poist chomh maith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Other sources of income can also affect your Jobseeker's Allowance payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh foinsí eile ioncaim tionchar a imirt ar íocaíocht do Liúntais Chuardaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Jobseeker’s Allowance is not taxable</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní ghearrtar cáin ar an Liúntas Cuardaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Calculating means from work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Maoin ón obair a ríomh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Here we show you how to calculate your means from employment (not self-employment)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léirímid anseo conas d'ioncam ó fhostaíocht (féinfhostaíocht as áireamh) a ríomh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find out how income from self-employment is assessed in our document Self-employment and unemployment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigh amach conas a dhéantar measúnú ar d'ioncam ó fhéinfhostaíocht sa doiciméad, Féinfhostaíocht agus dífhostaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Assessable earnings from work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tuilleamh inmheasúnaithe ó obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The following items are always deducted from your gross earnings to get your assessable earnings from work:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar na heisíocaíochtaí seo a leanas a asbhaint ó d'olltuilleamh chun do thuilleamh inmheasúnaithe a fháil:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• PRSI (social insurance contributions)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• ÁSPC (ranníocaíochtaí árachais shóisialta)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• PRSAs (Personal Retirement Savings Accounts)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• CCSpanna (Cuntais Choigiltis Scoir Phearsanta)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• AVCs (Additional Voluntary Contributions)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• RSBanna (Ranníocaíochtaí Saorálacha Breise)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are 2 stages to calculating how work will affect your Jobseeker’s Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá 2 chéim ann chun an tionchar a bheidh ag an ioncam ón obair ar mhéid do Liúntais Chuardaitheora Poist a ríomh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Part 1: Find out if you have an entitlement to Jobseeker’s Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuid 1: Deimhnigh an bhfuil tú i dteideal Liúntas Cuardaitheora Poist a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>First, you must find out if you have an entitlement to Jobseeker’s Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar dtús, tá ort a dheimhniú an bhfuil tú i dteideal Liúntas Cuardaitheora Poist a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To do this take your assessable weekly earnings and deduct €20 per day for each day you have worked up to a maximum of €60 (3 days)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun é seo a dhéanamh tóg do thuilleamh seachtainiúil inmheasúnaithe agus bain €20 in aghaidh an lae do gach lá a d'oibrigh tú suas le huasmhéid de €60 (3 lá)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Next get 60% of the balance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ansin faigh 60% den fhuílleach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This amount is your weekly means from work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Measúnaítear é seo mar do mhaoin sheachtainiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Assessable weekly earnings - €20 per day = total x 60% = weekly means from work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tuilleamh seachtainiúil inmheasúnaithe – €20 sa lá = iomlán x 60% = maoin sheachtainiúil ón obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You then work out what the maximum Jobseeker’s Allowance payment for your situation would be</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ansin deimhníonn tú céard í an íocaíocht uasta den Liúntas Cuardaitheora Poist i do chás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You get this by adding together the maximum payment for yourself plus any increases for a qualified adult and any qualified children</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir é seo a ríomh tríd an íocaíocht uasta duit féin móide aon mhéadauithe i leith duine fásta cáilithe agus aon leanaí cáilithe a shuimiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your weekly means are less than this figure then your daily means are calculated to find the actual amount of Jobseeker’s Allowance you will get</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más níos mó do mhaoin sheachtainiúil ón uile fhoinse ná an íocaíocht uasta den Liúntas Cuardaitheora Poist i do chás, ní bhfaighidh tú an Liúntas Cuardaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your weekly means from all sources are greater than the maximum Jobseeker’s Allowance payment for your situation then you will not get Jobseeker’s Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh faisnéise le fáil maidir le ráta an LCP do dhaoine faoi 26 bliain d’aois inár ndoiciméid faoi Liúntais Chuardaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>What happens if my partner is getting a social welfare payment?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Céard a tharlaíonn má tá íocaíocht leasa shóisialaigh á fáil ag mo pháirtnéir?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your spouse, civil partner or cohabitant has a social welfare payment in their own right (except Child Benefit, Disablement Pension, guardian's payments, Supplementary Welfare Allowance, Domiciliary Care Allowance and half-rate Carer's Allowance) or is on a FET or VTOS course and getting a payment in their own right you cannot claim an Increase for a Qualified Adult for them</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá íocaíocht leasa shóisialaigh á fáil ag do chéile, pháirtnéir sibhialta nó do chomháititheoir as a gceart féin (seachas Sochar Linbh, Pinsean Míchumais, Íocaíochtaí Caomhnóra, Liúntas Leasa Fhorlíontaigh, Liúntas Cúram Baile agus Liúntas Cúramóra leathráta) nó má tá siad ag tabhairt faio chúrsa FET nó VTOS agus má tá íocaíocht á fáil acu as a gceart féin, ní féidir leat Méadú i Leith Duine Fásta Cáilithe a éileamh dóibh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that the maximum you can be paid is the maximum Jobseeker’s Allowance payment for a single person plus a half-rate allowance for each qualified child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn seo gurb é an t-uasmhéid is féidir a íoc leat íocaíocht uasta an Liúntais Chuardaitheora Poist le haghaidh duine singil, móide liúntas leathráta le haghaidh gach linbh cháilithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(Your spouse, civil partner or cohabitant will get a half-rate payment for each qualified child with their payment.)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Gheobhaidh do chéile, páirtnéir sibhialta nó comháititheoir íocaíocht leathráta le haghaidh gach linbh cháilithe lena n-íocaíocht.)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In addition only 50% of your combined means are taken into account in the means test for your Jobseeker’s Allowance - in other words your combined means are halved</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, ní chuirtear ach 50% de bhur gcomh-mhaoin san áireamh sa tástáil mhaoine do do Liúntas Cuardaitheora Poist – i bhfriotal eile – déantar bhur gcomh-mhaoin a ghearradh ina leath</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(The other half will be taken into account in the means test for your partner's payment if your partner is getting a means-tested payment.)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Má fhaigheann do pháirtnéir íocaíocht de réir tástála acmhainne, áirítear an leath eile sa tástáil acmhainne d’íocaíocht do pháirtnéara.)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can claim an increase for your spouse, civil partner or cohabitant while they are taking part in a Community Employment (CE), Tús or Gateway scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má ghlacann do chéile, pháirtnéir sibhialta nó chomhchónaitheoir páirt i scéim Fostaíochta Pobail, d’fhéadfá méadú a fháil dóibh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Their earnings from the scheme are assessed in the same way as earnings from insurable employment (and your combined means are not halved)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar measúnú ar a thuilleamh ón scéim ar an mbealach céanna a dhéantar amhlaidh ar ioncam ó obair inárachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However if you are claiming Jobseeker's Allowance and your spouse or partner is getting one of the social welfare payments listed below, the total amount paid cannot be more than would be payable if only one of you was claiming and the other was an adult dependant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá Liúntas Cuardaitheora Poist á éileamh agat, áfach, agus má tá ceann de na híocaíochtaí leasa shóisialaigh thíos á fáil ag do chéile nó do pháirtnéir, ní féidir leis an méid iomlán a íoctar libh beirt bheith níos mó ná mar a bheadh iníoctha dá mbeadh ach duine díobh ag éileamh íocaíochta agus dá mba cleithiúnach aosach an duine eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Disablement Pension (when paid with Injury Benefit or Incapacity Supplement)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Pinsean Míchumais (nuair a íoctar é leis an Sochar Díobhála nó leis an bhForlíonadh Éagumais)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Part 2: Calculate how work will affect your Jobseeker’s Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuid 2: An tionchar a bheidh ag an obair ar mhéid do Liúntais Cuardaitheora Poist a ríomh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are entitled to Jobseeker’s Allowance, you then calculate how work will affect your payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú i dteideal Liúntas Cuardaitheora Poist a fháil, déan an tionchar a bheidh ag obair ar d'íocaíocht a ríomh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Calculate your average daily earnings</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déan do mheántuilleamh laethúil a ríomh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To calculate your average daily earnings get your total weekly assessable earnings from employment and divide by the number of days you worked that week (including Sunday)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun do mheántuillimh laethúla a ríomh, deimhnigh do thuillimh sheachtainiúla inmheasúnaithe ó fhostaíocht agus roinn iad faoin líon laethanta a d’oibrigh tú an tseachtain sin (an Domhnach san áireamh)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Total weekly earnings ÷ number of days worked = average daily earnings</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tuilleamh seachtainiúil iomlán ÷ líon laethanta oibrithe = meántuilleamh laethúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Next calculate your daily means from work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ansin, déan d'acmhainní laethúla ón obair a ríomh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To calculate your daily means from work, you must first disregard any income not taken into account</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun d'acmhainní laethúla ón obair a ríomh, ní mór duit neamhaird a thabhairt ar ioncam ar bith nár cuireadh san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>€20 is not taken into account for days worked</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an t-ioncam nach gcuirtear san áireamh ná €20 do na laethanta a oibrítear</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Next get 60% of the balance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ansin faigh 60% den iarmhéid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is assessed as your daily means from work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Measúnaítear é seo mar do mhaoin laethúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Average daily earnings - €20 = total x 60% = daily means from work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Meántuilleamh laethúil - €20 = iomlán x 60% = maoin laethúil ón obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Finally, find your weekly means from work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar deireadh, deimhnigh do mhaoin sheachtainiúil ón obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To find your weekly means from work, multiply your daily means by the number of days worked</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun do mhaoin sheachtainiúil ón obair a dheimhniú, iolraigh do mhaoin laethúil faoin líon laethanta a oibríodh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Daily means from work x number of days worked = weekly means from work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Maoin laethúil ón obair x líon laethanta a oibríodh = maoin sheachtainiúil ón obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Remember that this figure must be halved if your spouse, civil partner or cohabitant is getting a social welfare payment in their own right (see above for details)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuimhnigh gur gá an figiúr seo a ghearradh ina leath má tá íocaíocht leasa shóisialaigh á fáil ag do chéile, páirtnéir sibhialta nó do chomháititheoir as a gceart féin (féach thuas chun teacht ar shonraí)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Since 20 February 2013 work on Sunday is now included so:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Roimh an 20 Feabhra 2013 obair ar an Domhnach san áireamh anois, mar sin:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You include your earnings from Sunday when working out your assessable weekly earnings and when you are checking to see whether your assessable weekly earnings are over the limit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann tú do thuillimh ón Domhnach san áireamh nuair a bhíonn do thuillimh sheachtainiúla inmheasúnaithe á ríomh agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You include Sunday when calculating your average daily earnings and when calculating your daily means or weekly means from work</seg></tuv>
+  <tuv xml:lang="ga"><seg>4. Cuireann tú an Domhnach san áireamh nuair a bhíonn do mhaoin laethúil nó do thuillimh sheachtainiúla ón obair á ríomh agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you work part-time, your employer must pay you for the public holidays which you don’t work, as long as, you have worked at least 40 hours in the 5 weeks immediately before the week of the public holiday</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má oibríonn tú go páirtaimseartha, ní mór do d’fhostóir thú a íoc as na saoirí poiblí nach n-oibríonn tú, a fhad agus a d’oibrigh tú ar a laghad 40 uair sna 5 seachtaine díreach roimh sheachtain na saoire poiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are paid for a public holiday (whether you work on that day or not) this is counted as a day of work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh faisnéise ar fáil ar íocaíocht le haghaidh saoirí poiblí ar fáil inár ndoiciméid, Saoirí Poiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you get paid for a public holiday and don't work that day, it will be included in the number of days worked to find your weekly means from work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má íoctar thú, áfach, as saoire phoiblí agus mura n-oibríonn tú ar an lá sin, beidh sé san áireamh i líon na laethanta a oibríodh chun do mhaoin sheachtainiúil ón obair a dheimhniú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Depending on your means, you can continue to get Jobseeker’s Allowance for the other days you do not work. If you work more than 3 days in a week you do not qualify for JA for that week</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag brath ar do mhaoin, is féidir leat leanúint de Liúntas Cuardaitheora Poist a fháil i leith na laethanta eile nach n-oibríonn tú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>How much Jobseeker’s Allowance you get</seg></tuv>
+  <tuv xml:lang="ga"><seg>An méid Liúntas Cuardaitheora Poist a bhféadfá a fháil:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Subtract your weekly means from the maximum Jobseeker’s Allowance payment for your situation to find out how much Jobseeker’s Allowance you will get</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bain do mhaoin sheachtainiúil ón uasmhéid den íocaíocht Liúntas Cuardaitheora Poist do do chás chun a dheimhniú an méid den Liúntas Cuardaitheora Poist a gheobhaidh tú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Note: The maximum weekly rate of Jobseeker’s Allowance for your circumstances is the maximum rate of Jobseeker’s Allowance and any increases for your adult dependant and child dependants</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nóta: Is uasmhéid an Liúntais Chuardaitheora Poist do do chás ráta uasta an Liúntais Chuardaitheora Poist agus aon mhéaduithe i leith do chleithiúnaithe linbh agus aosacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your spouse, civil partner or cohabitant is getting a social welfare payment in their own right an increase for a qualified adult is not included in the maximum Jobseeker’s Allowance payment for your situation and you will only get a half-rate increase for each qualified child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá íocaíocht leasa shóisialaigh á fáil ag do chéile, páirtnéir sibhialta nó do chomháititheoir as a gceart féin, ní áirítear méadú i leith leanbh cáilithe in íocaíocht uasta an Liúntais Chuardaitheora Poist do do chás agus ní bhfaighidh tú méadú leathráta do gach leanbh cáilithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have other means in addition to means from work they will also be taken into account and will affect how much Jobseeker’s Allowance you will get</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá aon mhaoin eile agat de bhreis ar mhaoin ón obair cuirfear iad san áireamh freisin agus beidh tionchar acu ar an méíd den Liúntas Cuardaitheora Poist a d’fhéadfá a fháil:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may find our Worksheet to help you calculate your means from work for Jobseeker's Allowance useful</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh ár mBileog Oibre cabhrú leat do mhaoin ó obair a ríomh don Liúntas Cuardaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The definition of seasonal employment is that:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Forlíonadh Ioncam Teaghlaigh (FIT) agus Liúntas Cuardaitheora Poist a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• It is created annually as a result of a particular seasonal variation in the amount of work, and terminates at the end of that season</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá d’ioncam ó obair laghdaithe nó má tá tú ag oibriú go páirtaimseartha agus cúram á thabhairt agat do leanbh amháin ar a laghad, d’fhéadfá Forlíonadh Ioncam Teaghlaigh (FIT) a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The start and end dates may vary from season to season and from worker to worker, but overall there should be a clearly discernible beginning and end to the season</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit 19 n-uaire ar a laghad oibre a bheith agat sa tseachtain (nó 38 uair sa choicís) agus ní mór do d’ioncam bheith faoi bhun méid áirithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The length of the season should not generally exceed six months</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leat an FIT agus Liúntas Cuardaitheora Poist a fháil ag an am céanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In determining whether a person is involved in seasonal employment the nature of the business is investigated, as well as the nature of the person's employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le do pháirtnéir an FIT a fháil, áfach, fad atá Liúntas Cuardaitheora Poist á fháil agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some of the typical areas where seasonal employments exist are turf harvesting with Bord na Mona, fish processing and hotels, restaurants and shops in areas where there is a limited tourist season</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat cuairt a thabhairt ar d’Oifig Leasa Shóisialaigh nó ar d’Ionad Faisnéise do Shaoránaigh is gaire duit chun a dheimhniú cén íocaíocht ba thairbhiúla duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Spouse’s, civil partner’s or cohabitant's income from work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ioncam céile, páirtnéara shibhialta nó comháititheora ó obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your spouse's, civil partner's or cohabitant's income from employment is assessed in the means test for Jobseeker’s Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar measúnú ar ioncam do chéile, pháirtnéara shibhialta nó do chomháititheora ó fhostaíocht sa tástáil mhaoine le haghaidh Liúntas Cuardaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Their income from work is assessed in the same way as your income from work (if any)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar measúnú ar a n-obair ar an mbealach céanna a dhéantar amhlaidh ar d’ioncam ó obair (más ann dó)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To work out what your spouse's, civil partner's or cohabitant's means from work is:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Lena dheimhniú céard í maoin do chéile, pháirtnéara shibhialta nó do chomháititheora ó obair:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Deduct €20 per day from your spouse's, civil partner's or cohabitant's assessable earnings for each day worked up to a maximum of €60 (including Sunday)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bain €20 sa lá ó thuilleamh inmheasúnaithe do chéile, pháirtnéara shibhialta nó do chomháititheora do gach lá a oibríonn siad a mhéid le €60 (agus obair ar an Domhnach)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Next get 60% of the balance</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ansin deimhnigh 60% den fhuílleach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is assessed as his or her weekly means from work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar measúnú air seo amhail a mhaoin/maoin sheachtainiúil ó obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Assessable weekly earnings - €20 per day (maximum €60 for 3 days work) = total x 60% = weekly means from work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tuilleamh inmheasúnaithe seachtainiúil - €20 sa lá (€60 le haghaidh 3 lá oibre ar a mhéid) = iomlán x 60% = maoin sheachtainiúil ó obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your spouse's, civil partner's or cohabitant's income from self-employment is fully assessed in the means test for Jobseeker’s Allowance and there are no disregards</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar measúnú ar ioncam do chéile, pháirtnéara shibhialta nó do chomháititheora ó fhéinfhostaíocht sa tástáil mhaoine le haghaidh Liúntas Curdaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Earnings are assessed as gross income less work related expenses over 12 months</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar measúnú ar thuilleamh amhail ollioncam lúide caiteachais obair-bhainteacha thar 12 mhí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The expected annual earnings from self-employment is divided by 52 to find your spouse's, civil partner's or cohabitant's weekly means from self-employment.   Further information  Getting Jobseeker's Allowance before 26 September 2007</seg></tuv>
+  <tuv xml:lang="ga"><seg>Roinntear an tuilleamh bliantúil ag a bhfuil coinne ó fhéinfhostaíocht faoi 52 le maoin sheachtainiúil do chéile, pháirtnéara shibhialta nó do chomháititheora a dheimhniú ó fhéinfhostaíocht</seg></tuv>
+</tu>
+</body>
+</tmx>

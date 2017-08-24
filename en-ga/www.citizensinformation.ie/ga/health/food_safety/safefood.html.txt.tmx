@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Safefood - the Food Safety Promotion Board</seg></tuv>
+  <tuv xml:lang="ga"><seg>Biaslán - An Bord um Chur Chun Cinn na Sábháilteachta Bia</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Safefood (the Food Safety Promotion Board), is one of a number of North/South bodies set up in Ireland as a result of the Good Friday Agreement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Biaslán (An Bord um Chur Chun Cinn na Sábháilteachta Bia), ar cheann de na comhlachtaí Thuaidh/Theas a bunaíodh in Éirinn mar thoradh ar Chomhaontú Aoine an Chéasta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The organisation was set up to promote awareness and knowledge of food safety and nutrition issues on the island of Ireland </seg></tuv>
+  <tuv xml:lang="ga"><seg>Bunaíodh an eagraíocht chun feasacht agus eolas a chur chun cinn ar shábháilteacht bhia agus ar shaincheisteanna cothaithe ar oileán na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Safefood is based in Ireland, but conducts its work on an all-island basis</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Biaslán bunaithe in Éirinn, agus déanann sé a chuid oibre ar bhunús uile-oileáin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This organisation reports to the North South Ministerial Council (NSMC)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an eagraíocht freagrach don Chomhairle Aireachta Thuaidh/Theas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>What does Safefood do?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cad a dhéanann Biaslán?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Safefood aims to to create an environment where consumers everywhere in Ireland can have confidence in the food they eat</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé d’aidhm ag Biaslán timpeallacht a chruthú inar féidir le tomhaltóirí i ngach áit in Éirinn muinín a bheith acu as an mbia a itheann siad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They provide advice and guidance to the food industry and to consumers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann siad comhairle agus treoir ar fáil don tionscal bia agus do thomhaltóirí</seg></tuv>
+</tu>
+</body>
+</tmx>

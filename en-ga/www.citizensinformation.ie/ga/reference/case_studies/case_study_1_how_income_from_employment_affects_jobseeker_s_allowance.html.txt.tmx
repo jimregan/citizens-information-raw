@@ -1,0 +1,205 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Case Study 1: How income from work affects Jobseeker's Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cás-staidéar 1: Conas a bhíonn tionchar ag ioncam ón obair ar Liúntas do Lucht Cuardaigh Fostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This case study shows the affect of work on Jobseeker's Allowance in 2017</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léiríonn an cás-staidéar seo an tionchar atá ag an obair ar an Liúntas do Lucht Cuardaigh Fostaíochta ón 2017</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>John is living with his partner Mary and their two children</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá John ina chónaí lena pháirtí Máire agus lena mbeirt leanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He recently lost his job as a barman but has managed to get some part-time work in a local restaurant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chaill sé a phost mar fhear beáir le gairid ach d’éirigh leis obair pháirtaimseartha a fháil i mbialann áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He is working two days a week</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé ag obair dhá lá sa tseachtain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>His assessable earnings for social welfare purposes are €110 per week</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ionann a thuilleamh inmheasúnaithe i leith leasa shóisialaigh agus €110 in aghaidh na seachtaine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(Assessable earnings are gross earnings less deductions for PRSI, superannuation and union dues.) His wife cares for her mother, who lives nearby, and is getting full-rate Carer's Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Is éard atá i dtuilleamh inmheasúnaithe ná an t-olltuilleamh lúide asbhaintí i leith ÁSPC, aoisliúntais agus dleachtanna ceardchumainn.) Tugann a bhean chéile aire dá máthair, atá ina cónaí in aice láimhe, agus faigheann sí an Liúntas Cúramóra ag an ráta iomlán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>She is also getting Child Benefit for each of their two children</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigheann sí Sochar Leanaí dá mbeirt leanaí freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>John wants to go back to bar work and has applied to a number of local pubs and hotels</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá John ag iarraidh dul ar ais ag obair i mbeár agus chuir sé isteach ar phoist i roinnt tithe tábhairne agus óstán áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He heard that he can get Jobseeker's Allowance (JA) for the days the he is not working and wants to know how much JA he is entitled to</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chuala sé gur féidir leis Liúntas do Lucht Cuardaigh Fostaíochta (LLCF) a fháil do na laethanta nach bhfuil sé ag obair agus teastaíonn uaidh a fháil amach cá mhéad LLCF a bhfuil sé i dteideal a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Other than Mary's social welfare payments and John's part-time work they have no other income</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon ioncam eile acu seachas na híocaíochtaí leasa shóisialaigh a fhaigheann Mary agus an obair pháirtaimseartha a dhéanann John</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, they have savings of €17,500</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach, tá coigilteas €17,500 acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He is entitled to JA only for periods of unemployment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl sé i dteideal an LLCF a fháil ach do thréimhsí dífhostaíochta amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The minimum period a person must be unemployed in order to receive JA is 4 days in a period of 7 consecutive days</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an íostréimhse go gcaithfidh duine a bheith dífhostaithe chun LLCF a fháil ná 4 lá i dtréimhse 7 lá leantacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Jobseeker's Allowance rate (note 1) €222.80</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ráta an Liúntais do Lucht Cuardaigh Fostaíochta (nóta 1) €222.80</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Less average weekly means (note 2) €21</seg></tuv>
+  <tuv xml:lang="ga"><seg>Lúide meánacmhainní seachtainiúla (nóta 2) €21.00</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Total Jobseeker's Allowance weekly rate €201.80</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ráta seachtainiúil an Liúntais Iomláin do Lucht Cuardaigh Fostaíochta €201.80</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Calculate the maximum JA payment John would be entitled to if he didn’t have any means</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ríomh an uasíocaíocht LLCF uasta a bheadh John i dteideal a fháil mura mbeadh aon acmhainní aige</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>John’s maximum payment is €222.80</seg></tuv>
+  <tuv xml:lang="ga"><seg>€222.80 atá in uasíocaíocht John</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is made up of his personal payment of €193 and €14.90 for each of his two children (John gets a half-rate Increase for a Child Dependant)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is éard atá ann ná a íocaíocht phearsanta de €193 agus €14.90 dá bheirt leanaí. Faigheann John Méadú i leith Cleithiúnaí Linbh ar leathráta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>His wife also gets a half-rate increase for child dependants with her Carer's Allowance payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigheann a bhean chéile méadú leathráta i leith cleithiúnaithe linbh lena híocaíocht Liúntais Chúramóra chomh maith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He will not get an Increase for a Qualified Adult because his wife Mary is getting her own social welfare payment, full-rate Carer’s Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhfaighidh sé Méadú le haghaidh Duine Aosaithe Cháilithe toisc go bhfuil a cuid íocaíochta leasa shóisialaigh féin, Liúntas Cúramóra ar ráta iomlán, á fáil ag a bhean chéile, Mary</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(However, John could claim an Increase for a Qualified Adult if Mary agrees to getting half-rate Carer's Allowance. The family can check to see if this would be of greater benefit to them.)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(John in ann Méadú le haghaidh Duine Aosaithe Cháilithe a éileamh má tá Mary sásta Liúntas Cúramóra ar leathráta a fháil.)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>John's average assessable weekly earnings are €110</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é meántuilleamh inmheasúnaithe seachtainiúil John ná €110</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>First you must find out if John's weekly means disqualify him from getting JA</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar dtús caithfidh tú a fháil amach an mbeadh John dícháilithe ó LLCF a fháil mar gheall ar a acmhainní seachtainiúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>€20 per day from casual work (up to a maximum of €60) will be deducted from his average assessable weekly earnings and then 60% of the balance will be assessed as his weekly means</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfar €20 in aghaidh an lae ó obair ócáideach (suas le huasmhéid €60) a asbhaint óna mheántuilleamh inmheasúnaithe seachtainiúil, agus ansin déanfar 60% den fhuílleach a mheasúnú mar a acmhainní seachtainiúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>€110 – €40 (2 days worked) = €70 x 60% = €42</seg></tuv>
+  <tuv xml:lang="ga"><seg>€110 – €40 (don dá lá a oibríodh) = €70 x 60% = €42</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>John's weekly means from employment of €42 is less than the maximum amount he would be entitled to for his circumstances (€222.80)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá acmhainní seachtainiúla John ó fhostaíocht arb ionann iad agus €42 níos lú ná an t-uasmhéid a bheadh sé i dteideal a fháil ó thaobh a imthosca (€222.80)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Now you know he is entitled to a certain amount of Jobseeker's Allowance the next step is to calculate the actual amount of Jobseeker's Allowance he is entitled to</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá a fhios agat anois go bhfuil sé i dteideal méid áirithe dá Liúntas do Lucht Cuardaigh Fostaíochta a choinneáil agus is é an chéad chéim eile ná méid iarbhír an Liúntais do Lucht Cuardaigh Fostaíochta atá sé i dteideal a fháil a ríomh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To do this you must calculate his 'assessable daily earning'</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh tú a‘thuilleamh laethúil inmheasúnaithe’ a ríomh chun é seo a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He is entitled to JA only for periods of unemployment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl sé i dteideal an LLCF a fháil ach do thréimhsí dífhostaíochta amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The minimum period a person must be unemployed in order to receive JA is 4 days in a period of 7 consecutive days</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an íostréimhse go gcaithfidh duine a bheith dífhostaithe chun LLCF a fháil ná 3 lá i dtréimhse 6 lá as a chéile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>John has 4 consecutive days of unemployment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá 4 lá dífhostaíochta as a chéile ag John</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He is employed for 2 days</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé fostaithe dhá lá as sé lá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>John's average assessable daily earnings are (€110 ÷ 2 days work) = €55</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ionann meántuilleamh inmheasúnaithe laethúil John agus (€110 ÷ an dá lá a oibríodh) = €55</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Less disregard for day worked €55 - €20 = €35</seg></tuv>
+  <tuv xml:lang="ga"><seg>Lúide neamhaird don lá a oibríodh €55 - €20 = €35</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>60 % of his assessable daily earnings of €35 = €21</seg></tuv>
+  <tuv xml:lang="ga"><seg>60 % dá thuilleamh inmheasúnaithe laethúil de €35= €21</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Weekly means is €21 x 2 (number of days worked) = €42</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ionann acmhainní seachtainiúla agus €21 x 2 (an líon laethanta a oibríodh) = €42</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>John's weekly means from employment is €42</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad na hacmhainní seachtainiúla ó fhostaíocht atá ag John ná €42</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>More information is available in our document How Jobseeker's Allowance is affected by income from employment and in our Worksheet on Jobseeker's Allowance and income from work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir tuilleadh eolais a fháil inár ndoiciméad Conas atá tionchar ag ioncam fostaíochta ar Liúntas do Lucht Cuardaigh Fostaíochta agus inár mBileog oibre ar Liúntas do Lucht Cuardaigh Fostaíochta agus ioncam ón obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>His savings are not taken into account because they are below the €20,000 threshold</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chuirtear a choigilteas san áireamh toisc go bhfuil siad faoin tairseach €20,000</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>More information is available in our document Capital and social welfare payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh eolais ar fáil inár ndoiciméad Caipiteal agus íocaíochtaí leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>His wife's Carer's Allowance and Child Benefit are not taken into account in the assessment of means</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chuirtear Liúntas Cúramóra agus Sochar Leanaí a mhná céile san áireamh sa mheasúnú acmhainní</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As she is getting her own social welfare personal payment (Carer's Allowance) he cannot claim a qualified adult increase for her</seg></tuv>
+  <tuv xml:lang="ga"><seg>Toisc go bhfuil a híocaíocht leasa shóisialaigh féin aici (Liúntas Cúramóra) ní féidir leis méadú i leith duine aosaithe cháilithe a éileamh di</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>More information is available in our document Cash income and social welfare payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh eolais ar fáil inár ndoiciméad Ioncam airgid agus íocaíochtaí leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>His means of €42 is halved because his wife is getting a social welfare payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar leath dá acmhainní de €42 toisc go bhfuil íocaíocht leasa shóisialaigh á fáil ag a bhean chéile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>More information is available in our document about the means test</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh eolais le fáil inár ndoiciméad faoin tástáil mhaoine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Therefore, his total means is assessed as €21</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar a acmhainní iomlána a mheasúnú mar €21, dá bhrí sin</seg></tuv>
+</tu>
+</body>
+</tmx>

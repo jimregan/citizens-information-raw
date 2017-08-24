@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Whether you need hospital treatment, are disabled or care for someone who is incapacitated, you will find information here on health care and income supports</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá cúram oispidéil uait, nó má tá tú faoi mhíchumas, nó má tá tú i gcúram ar dhuine atá ar éagumas, gheobhaidh tú eolas ar chúram leighis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find out about your eligibility for health services as well as your eligibility for a medical card</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat eolas a fháil faoi do theidlíocht do sheirbhísí sláinte chomh maith le do theidlíocht do chárta leighis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In addition, your can find information on hospital services, mental health services and community care services </seg></tuv>
+  <tuv xml:lang="ga"><seg>Chomh maith, d’fhéadfá eolas a aimsiú faoi sheirbhísí ospidéil, seirbhísí sláinte meabhrach agus seirbhísí cúram pobail</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Health schemes and benefits</seg></tuv>
+  <tuv xml:lang="ga"><seg>Scéimeanna sláinte agus sochair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Information is available on the a range of assistance including the Drugs Payment Scheme, Long Term Illness Scheme, Injury Benefit and the Treatment Benefit Scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá eolas ar fáil faoi réimse sochar a áiríonn an Scéim Íocaíochta Drugaí, Scéim Tinneas Fadtéarmach, Sochar Díobhála agus an Scéim um Sochar Coireala </seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Benefits for people with disabilities</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sochair do dhaoine le míchumas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have a disability, you can find out about your entitlements including Disability Allowance, Illness Benefit, Disablement Benefit, Invalidity Pension and Blind Pension</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá míchumas agat, is féidir leat eolas a fháil faoi do theidlíochtaí, san áireamh LiúntasMíchumais, Sochar Breoiteachta, Sochar Míthreorach, Pinsean Easlaínte agus Pinsean na nDall</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are caring for someone who is incapacitated, you can find out about your entitlements to Carer's Allowance, Carer's Benefit, and Domiciliary Care Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ag tabhairt aire do dhuine faoi mhíchumas, d’fhéadfá eolas a aimsiú faoi do theidlíocht do Liúntas Cúramóra, Sochar Cúramóra agus Liúntas Cúram Baile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are a number of allowances and reliefs for people who have medical expenses or who have a disability</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá faoisimh agus liúntais chánach ar fail do dhaoine a íocann costais leighis nó a bhfuil faoi mhíchumas</seg></tuv>
+</tu>
+</body>
+</tmx>

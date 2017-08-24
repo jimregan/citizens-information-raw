@@ -1,0 +1,273 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Luas is a Light Rail Transit (LRT) system (a public transport tram system) that operates in Dublin, Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Córas iompair iarnróid chaoil é Luas (córas iompair phoiblí tram) atá ag feidhmiú i mBaile Átha Cliath, Éire</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The name Luas (pronounced "Lou-As") is the Irish word for speed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Luas an Ghaeilge atá ar an bhfocal Béarla "speed" (fuaimnítear an focal ar nós "Lou-As" sa Bhéarla)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This tram system connects suburban parts of Dublin city with the city centre on two separate tramlines</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceanglaíonn an córas tram seo roinnt fobhailte i gCathair Átha Cliath le lár na cathrach ar dhá líne tram éagsúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The Green Line: connecting Brides Glen to St Stephen's Green in the city centre</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An Líne Uaithne, a cheanglaíonn Gleann Bhríde le Faiche Stiofáin i lár na cathrach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This journey takes, approximately 40 minutes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tuairim 40 nóiméad a thógann sé an turas a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The Red Line: connecting Tallaght to The Point in Dublin Docklands</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Beidh an Líne Dhearg ag ceangail Tamhlacht le An Pointe i Dugthailte Bhaile Átha Cliath</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This journey will take approximately 53 minutes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tuairim 53 nóiméad a thógfaidh sé an turas a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Green Line opened in June 2004 and the Red Line opened in September 2004</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'oscail an Líne Uaithne ar an 30 Meitheamh 2004 agus beidh an Líne Dhearg ag oscailt i bhFómhar na bliana 2004</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>View a map showing routes along the Green and Red lines here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat breathnú ar léarscáil anseo a thaispeáineann na bealaí ar an Líne Uaithne agus ar an Líne Dhearg</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Red and Green lines do not connect</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní cheanglaíonn an Líne Dhearg leis an Líne Uaithne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is a 15-minute walk between St Stephen's Green on the Green Line and Abbey Street on the Red Line</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tógfaidh sé 15 nóiméad siúl ón Líne Uaithne i bhFaiche Stiofáin go dtí an Líne Dhearg ar Shráid na Mainistreach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can read through some frequently asked questions about Luas here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir léamh tríd cuid de na ceisteanna coiteanta a bhaineann le Luas anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>View a full list of the Green Line stops here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Breathnaigh ar liosta iomlán na stopanna ar an Líne Uaithne anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>View the Red Line stops here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Breathnaigh ar léarscáil den Líne Dhearg anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Frequency of Luas trams</seg></tuv>
+  <tuv xml:lang="ga"><seg>Minicíocht na dtramanna Luais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Luas trams will run every 4-5 minutes at peak time and every 10-15 minutes at off-peak times</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfar é seo le deis a thabhairt don trácht agus do phaisinéirí Luais dul i dtaithí ar an gcóras nua</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Operating times for Luas trams are:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad seo a leanas an t-amchlár a bheidh ag tramanna Luais:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Monday to Friday from 5.30 to 00.30</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Luan go hAoine ó 5.30 go 00.30</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Saturday from 6.30 to 0.30</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Dé Sathairn ó 6.30 go 0.30</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Sunday from 7.00 to 23.30</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Dé Domhnaigh ó 7.00 go 23.30</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are electronic displays telling you the time of the next tram at every Luas stop</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh fógra leictreonach ann a thabharfaidh eolas duit cén t-am a bheidh an chéad tram eile ag teacht chuig gach stad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In addition, there are electronic displays and announcements informing passengers of the next stop on board every Luas tram.   Special services operate during the Christmas season, New Year and on other occasions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chomh maith leis sin, beidh fógraí leictreonacha agus fógraí béil ar bord gach tram Luais le heolas a thabhairt do na paisinéirí faoin gcéad stop eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Luas services for disabled passengers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seirbhísí Luais do phaisinéirí atá faoi mhíchumas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Each tram makes audio announcements and has electronic displays so you can tell where you are on your journey</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh fógraí béil dhá dhéanamh i ngach tram agus fógraí leictreonacha freisin a thabharfaidh le fios cá bhfuil tú ar do thuras</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are allowed to bring your guide dog on board Luas trams</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh cead agat madra treorach a thabhairt leat ar bord tramanna Luais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>No other animals however are allowed on Luas trams</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach, ní cheadaítear aon ainmhithe eile ar tramanna Luais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All Luas tram and tram stops are wheelchair-accessible and there are designated parking spaces for people with disabilities</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le daoine i gcathaoireacha rotha úsáid a bhaint as tramanna agus stadanna Luais gan aon stró agus tá áiteanna páirceála faoi leith curtha ar leataobh do dhaoine atá faoi mhíchumas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The stops that have been built in a cutting or on an elevated track have lifts to make then as open to wheelchair users as they are to pedestrians</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá ardaitheoirí curtha ar fáil ag na stadanna atá tógtha ar bhóithre gearrtha nó ar chosán ardaithe ionas gur féidir le húsáideoirí cathaoireacha rotha iad a úsáid mar a úsáideanna coisithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Each tram has a low floor and level threshold with a minimal gap between the floor of the tram and the edge of the platform</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá urlár íseal ag gach tram agus tairseach ar an leibhéal le go mbeidh bearna chomh beag agus is féidir idir urlár an tram agus an ardán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This makes it easier for anyone using a wheelchair to board the trams</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar an mbealach seo tá sé níos éasca ag duine atá i gcathaoir rotha dul ar bord na tramanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you use a wheelchair, you must enter through the double doors in the middle of the tram where information on where and how to position the wheelchair is shown</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhaineann tú úsáid as cathaoir rotha, ní mór duit dul isteach tríd na doirse dúbailte i lár an tram áit a bhfuil eolas ar fáil cén áit agus cén chaoi is fearr an cathaoir rotha a chur ar an tram</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Make sure that you are facing the rear of the tram while travelling</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bí cinnte go bhfuil d'aghaidh ar chúl an tram nuair atá tú ag taisteal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are two designated spaces per tram, which can cater for up to four wheelchair users, complete with comfortable arm rests, which will come with adequate signage to let people know that they are there for wheelchair users if necessary</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá dhá spás faoi leith ar gach tram inár féidir freastal a dhéanamh ar cheithre chathaoir rotha, le tacaí uillinne compórdacha, ar a mbeidh dóthain comharthaí le tabhairt le fios do dhaoine go bhfuil siad curtha ar fáil d’úsáideoirí cathaoireacha rotha más gá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is also enough space in the entry and exit areas on the trams for a number of additional wheelchair users</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá dótháin spáis freisin do roinnt eile úsáideoirí cathaoireacha rotha in aice le doirse na dtramanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Free travel on Luas</seg></tuv>
+  <tuv xml:lang="ga"><seg>Saor thaistil ar an Luas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may travel free on the Luas if you have a Free Travel Pass</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat taisteal ar an Luas gan aon táille a íoc má tá Pas Saorthaistil agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Children under 3 travel free on the Luas but must be with an adult. Children aged 3-15 should pay the child fare</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le leanaí faoi 3 bliana taisteal ar an Luas gan aon táille a íoc ach ní mór go mbeadh duine fásta in éineacht leo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have a Free Travel Pass, you do not need to get a ticket for LUAS</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart do leanaí atá idir 3-15 bliana táille an linbh a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>TaxSaver Commuter tickets and Luas</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ticéid Taistealaí TaxSaver agus Luas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Luas is part of the TaxSaver Commuter Scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Luas páirteach sa Scéim Taistealaí TaxSaver</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is more information on the Luas website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh eolais ar an láithreán gréasáin an Luas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Bus and train links with Luas</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nasca bus agus traen le Luas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find more information on how Luas trams connect with bus and rail services here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat tuilleadh eolais a fháil ar chonas a cheanglaíonn tramanna Luais le seirbhísí bus agus iarnróid anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Park and ride facilities</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áiseanna le páirceáil agus taisteal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Car parking is available at certain stops on the Green Line (Carrickmines, Sandyford, Stillorgan and Balally) and on the Red Line (Cheeverstown and Red Cow)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá áiseanna páirceála do charranna ar fáil ag cuid de na stadanna ar an Líne Uaithne (Carraig Mhaighin, Áth an Ghainimh, Stigh Lorgan agus Baile Amhlaoibh) agus ar an Líne Dhearg (Baile an tSíbhrigh agus an Bhó Dhearg)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You pay for parking before boarding the tram or by using ParkByText</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocann tú as páirceáil roimh dul ar bord an tram nó trí úsáid a bhaint as ParkByText</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you do not have a Luas ticket valid for travel on the day you park at a Luas stop, you will have to pay an additional charge when you leave the car park</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna bhfuil ticéad Luais agat atá bailí le taisteal ar an lá a fhágann tú do charr ag stáisiún Luais, beidh táille bhreise le n-íoc agat ar an mbealach amach ón gcarrchlós</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>More information on park and ride services and facilities is available on the Luas website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh eolais ar fáil anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will be fined €45 if you are caught without a valid Luas ticket for your journey</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fíneálacha as táillí a sheachaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Section 14 of the Non-Fatal Offences Against the Person Act 1997 makes it an offence to endanger all rail traffic in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gearrfar €45 ort má bheirtear ort gan ticéad Luais atá bailí don turas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This includes throwing any dangerous obstruction on a rail line, tampering with any rail machinery, etc</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má theipeann ort an fhíneáil seo a íoc, cuirfear an dlí ort</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your ticket must be valid in the Luas zones you travel from, through, and to</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go mbeadh do thicéad bailí do na ceantair Luais a thaistealaíonn tú uathu, tríd agus chucu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The cost of your ticket will depend on the number of zones your journey covers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Braitheann costas do thicéid ar an líon ceantar a chlúdaíonn do thuras</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can download a map showing all the Luas zones here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat léarscáil a íoschóipeáil anseo a thaispeáineann na ceantair Luais ar fad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can use a ticket bought for a journey starting on one Luas line and finishing on another for the entire journey</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat ticéad a ceannaíodh do thuras a thosaigh ar líne amháin Luais agus a chríochnaíonn ar líne eile a úsáid don turas ar fad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can see a guide to the different types of Luas tickets here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá treoir do na cineálacha éagsúla ticéad Luais anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must apply for a Photo Identity Card if you are an adult or students buying:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit iarratas a dhéanamh ar Chárta Aitheantais le Grianghraf más duine fásta nó mac léinn thú ag ceannach:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A Luas only or Luas + Bus ticket with a duration of 30 days;</seg></tuv>
+  <tuv xml:lang="ga"><seg>• ticéad Luais amháin nó ticéad Luais + Bus atá bailí ar feadh 30 lá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A Luas only or Luas + Bus monthly ticket or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• ticéad Luais amháin nó ticéad Luais + Bus atá bailí ar feadh míosa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A Luas only or Luas + Bus annual tickets</seg></tuv>
+  <tuv xml:lang="ga"><seg>• ticéad Luais amháin nó ticéad Luais + Bus atá bailí ar feadh bliana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Student Leap Card allows students to get substantially discounted fares on Iarnród Eireann, Luas and Dublin Bus services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceadaíonn an Cárta Leap do Mhic Léinn na mic léinn a fháil táillí go substaintiúil lascainithe ar Iarnród Éireann, Luas agus Bhus Átha Cliath</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is only available to full-time students in second and third level education</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé ar fáil ach do mhic léinn lánaimseartha in oideachas dara agus tríú leibhéal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In December 2011, an integrated transport ticketing system was introduced for the greater Dublin area called the Leap Card</seg></tuv>
+  <tuv xml:lang="ga"><seg>I mí na Nollag 2011, tugadh isteach córas ticéadaithe comhtháite iompair do mhórcheantar Bhaile Átha Cliath ar a dtugtar an Leap Card</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Information is available at Leapcard.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá faisnéis ar fáil ag Leapcard.ie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can download an application form for a Luas Adult Photo Identity Card here (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat foirm iarratais a íoslódáil do Grianghraf Cárta Aitheantais Aosach (pdf) anseo</seg></tuv>
+</tu>
+</body>
+</tmx>

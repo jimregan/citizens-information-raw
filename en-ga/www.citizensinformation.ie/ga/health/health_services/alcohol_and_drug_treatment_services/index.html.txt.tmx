@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Alcohol and drug treatment services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seirbhísí Cóireála Alcóil agus Drugaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Alcohol addiction treatment services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seirbhísí chun andúil a chóireáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Alcohol addiction is a problem that can affect people of any age and background</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is fadbh í mí-úsáid alcóil ar feídir léi dul i bhfeidhm ar dhaoine is cuma cén aois iad nó cén cúlra atá acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Find out about the various treatment options and how to access these services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá eolas anseo faoi na roghanna éagsúla cóireála agus cén chaoi a theacht ar na seirbhísí seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The National Age Card, allows people in Ireland aged 18 and over to show that they have reached the legal age to purchase alcohol</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann an cháipéis seo cur síos ar an aoischárta, a dhearbhaíonn go bhfuil aois dleathach sroichte ag daoine atá 18 bliain d'aois agus os a cionn chun deochanna meisciúla a cheannach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most Read in "Health"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ábhar is mó éilimh i "Sláinte"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Admission to a psychiatric hospital</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ospidéal síciatrach a iontráil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Medical card means test: aged under 70</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tástáil mhaoine cárta leighis: daoine faoi bhun 70 bliain d’aois</seg></tuv>
+</tu>
+</body>
+</tmx>

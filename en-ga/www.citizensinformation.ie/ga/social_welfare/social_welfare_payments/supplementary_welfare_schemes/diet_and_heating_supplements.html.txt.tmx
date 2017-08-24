@@ -1,0 +1,233 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Diet and heating supplements</seg></tuv>
+  <tuv xml:lang="ga"><seg>Forlíontaí téimh agus aiste bia</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have special dietary and heating needs you may be able to get additional weekly supplements under the Supplementary Welfare Allowance Scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le daoine áirithe a bhfuil riachtanais chothaithe agus téimh speisialta acu cáiliú le haghaidh forlíontaí breise seachtainiúla faoin Scéim Liúntas Leasa Forlíontach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must satisfy the specific requirements for each supplement - see 'Rules' below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun go mbeadh tú in ann cáiliú do na forlíontaí speisialta seo, caithfidh tú na riachtanais atá leagtha amach thíos a chomhlíonadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The diet supplement was discontinued for new applicants from 1 February 2014</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó 1 Feabhra 2014 amach, ní ghlactar le hiarratais nua ar an bhforlíonadh aiste bia</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, people who were getting Diet Supplement before 1 February 2014 can continue to keep the payment (for as long as they continue to be entitled to the payment)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhí an forlíonadh á fháil agat roimh 1 Feabhra 2014, áfach, is féidir leat an forlíonadh a choimeád (fad is a leanann ort bheith incháilithe dó)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are entitled to retain the diet supplement for a prescribed diet, if you:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tú i dteideal forlíonadh aiste bia ó thaobh aiste bia atá ordaithe a choimeád má:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Have a specified medical condition</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tá gné leighis áirithe agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Meet the conditions for Supplementary Welfare Allowance (SWA) and</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tá tú ag fáil íocaíochta leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Satisfy a means test</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Shásaíonn tú scrúdú maoine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To get a diet supplement, a hospital consultant or a hospital registrar must certify:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun forlíonadh aiste bia a fháil, ní mór do sainchomhairleoir ospidéil nó cláraitheoir a deimhniú:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• That you or your adult dependant or child dependant has been prescribed a diet because of a specified medical condition</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Go bhfuil tusa nó aon dhuine fásta cleithiúnach nó leanbh cleithiúnach de do chuid ar aiste bia atá ordaithe mar gheall ar riocht leighis sainithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The type of diet prescribed</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cineál aiste bia atá ordaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• How long you will need the prescribed diet</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Fad atá an aiste bia atá de dhíth agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A gluten-free diet for an adult or a child aged 18 to 22 may be prescribed by your family doctor (GP)</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh aiste bia saor ó ghlútan do dhuine fásta nó leanbh idir aois 18 agus 22 a bheith ordaithe ag do dhochtúir teaghlaigh (LG)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the case of diet supplements, for example, for people with cystic fibrosis, the long-term illness scheme book may be accepted as verification that such a diet has been prescribed</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás forliontais aiste bia, mar shampla, do dhaoine le fiobróis chisteach tá an leabhar scéime tinnis fadtéarmach inghlactha mar chruthú go bhfuil oideas tugtha i gcomhair a leithéid seo d'aiste bia</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The length of time for which the diet is being prescribed and the type of diet must be stated</seg></tuv>
+  <tuv xml:lang="ga"><seg>I ngach cás, ní mór an fad a mbeidh an aiste bia i gceist agus an cineál aiste bia a insint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The weekly cost of each prescribed diet is set by the Department of Social Protection</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an costas seachtainiúil de gach aiste bia atá ordaithe leagtha síos ag an Roinn Coimirce Sóisialaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The following diets qualify for the diet supplement:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá na haistí bia incháilithe maidir le forlíonadh aiste bia mar a leanas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Qualifying prescribed diets │Cost of diet, € │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Aistí bia incháilithe │Costas an aiste │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Low-lactose, milk-free diet │65.43 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Aiste bia íseal i lachtós, saor ó bhainne │€65.43 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Gluten-free diet │68.43 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Aiste bia saor ó ghlútan │€68.43 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│High-protein, high-calorie diet │71.43 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Aiste bia ard i bpróitéin, agus ard i │€71.43 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Altered consistencies (liquidised) diet │74.93 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Aiste bia raimhre athraithe (leachtaithe) │€74.93 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The heating supplement is an additional weekly payment to help with the cost of heating your home</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is íocaíocht bhreise an forlíonadh téimh í chun cabhrú le costais téimh de do theach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may get a heating supplement, if you:</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfá forlíonadh téimh a fháil:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Can show you have extra heating needs because of your age, medical condition or disability</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Más féidir leat a léiriú go bhfuil riachtanais bhreise téimh agat mar gheall ar aois, riocht leighis nó míchumas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Are living alone or only with a dependent adult or dependent children</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má tá tú id chónaí id aonar, nó le duine fásta cleithiúnach nó le leanbh/leanaí atá cleithiúnach ort  agus</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Satisfy a means test</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má shásaíonn tú scrúdú maoine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The rate for a single person and lone parent is calculated as follows: The diet cost as set by the Department of Social Protection, less one-third of your social welfare payment at the 2007 rate = the diet supplement to be paid to you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ríomhtar na rátaí i gcomhair duine aonair agus tuismitheoir aonair mar seo a leanas: Costas an aiste bia mar atá leagtha síos ag an Roinn Coimirce Sóisialaí lúide aon tríú de d'íocaíocht leasa shóisialaigh ag ráta 2007 = an forlíonadh aiste bia atá le íoc leat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can check the rates for 2007 in SW19 (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir rátaí 2007 a sheiceáil in SW19 (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Paul is on a high-protein, high-calorie diet and is getting a One-Parent Family Payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tá Pól ar aiste bia ard i bpróitéin agus ard i gcalraí agus ag fáil Íocaíocht Teaghlaigh Aontuismitheora</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Department of Social Protection has set the cost of this diet at €71.43</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá costas an aiste bia seo socraithe ag an Roinn ag €71.43</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Take one-third of his social welfare payment (excluding any amount he is getting for a child dependant) from €71.43 to get the amount of diet supplement payable</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bain an tríú cuid de a íocaíocht leasa shóisialaigh (lúide aon suim atá tú ag fáil i gcomhair leanbh incháilithe) as €71.43 chun an méid fhorlíonadh aiste bia atá iníoctha a ríomh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(€71.43 - €61.93 (or one-third of his One Parent Family Payment at the 2007 rate) = €9.50 paid as diet supplement)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(€71.43 - €61.93 (nó an tríú cuid a Íocaíocht Teaghlaigh Aontuismitheora ag ráta 2007) = €9.50 íoctha mar fhorlíonadh aiste bia.)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The rate for a married or cohabiting couple is calculated as follows: The diet cost as set by the Department of Social Protection less one-sixth of your social welfare payment at the 2007 rate = the diet supplement to be paid to you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ríomhtar na rátaí i gcomhair lánúineacha pósta nó lánúineacha atá in aontíos mar a leanas: Costas an aiste bia mar atá leagtha síos ag an Roinn Coimirce Sóisialaí lúide an séú cuid de d'íocaíocht leasa shóisialaigh ag ráta 2007 = an forlíonadh aiste bia atá le íoc leat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Mary is married and on a high-protein high-calorie diet and is getting Jobseeker's Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tá Máire pósta agus í ar aiste bia ard i bpróitéin agus ard i gcalraí. Faigheann sí Liúntas Cuardaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Department of Social Protection has set the cost of this diet at €71.43 </seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá costas an aiste bia seo socraithe ag an Roinn ag €71.43</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Take one-sixth of her social welfare payment (excluding any amount she is getting for a child dependant) from €71.43 to get the amount of diet supplement payable</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bain an séú cuid de d'íocaíocht leasa shóisialaigh (lúide aon suim atá tú ag fáil i gcomhair linbh incháilithe) as €71.43 chun an méid fhorlíonadh aiste bia atá iníoctha a ríomh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(€71.43 - €51.52 (one-sixth of her Jobseeker's Allowance payment including an increase for her adult dependant at the 2007 rate) = €19.91 paid as diet supplement)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(€71.43 - €51.52 (an séú cuid a n-íocaíocht Liúntas Cuardaitheora Poist lena n-áirítear méadú do dhuine fásta cleithiúnach ag ráta 2007) = €19.91 íoctha mar fhorlíonadh aiste bia)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>People getting Rent or Mortgage Interest Supplement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Daoine atá ag fáil Forlíonadh Cíos nó Ús Morgáiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are getting Rent Supplement or Mortgage Interest Supplement, the Supplementary Welfare Allowance personal rate for 2007, and qualified adult rate where applicable, is used to calculate the amount of diet supplement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ag fáil Forlíonadh Cíos nó Ús Morgáiste, baintear úsáid as an ráta pearsanta um Fhorlíonadh Leasa Shóisialaigh do 2007, agus ráta duine fásta incháilithe áit a bhfuil a leithéid i gceist, chun an méid forlíonaidh aiste bia a ríomh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In assessing your means, any increases in social welfare payments for children are not taken into account</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a bhíonn maoin á meas, tugtar neamhaird ar íocaíochtaí i gcomhair leanaí atá sna híocaíochtaí leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The diet supplement rates for a qualified child are as follows:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá na rátaí do leanaí incháilithe mar seo a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Low-lactose, milk-free diet = €3.50</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Aiste bia íseal i lachtós, saor ó bhainne = €3.50</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Gluten-free diet = €6.50</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Aiste bia saor ó ghlútan = €6.50</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• High-protein, high-calorie diet = €9.50</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Aiste bia ard i bpróitéin, agus ard i gcalraí = €9.50</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Altered-consistency (liquidised) diet = €13</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Aiste bia raimhre athraithe (leachtaithe) = €13</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A child is considered to be a dependant if they are under 18, or are over 18 and under 22 and in full-time education</seg></tuv>
+  <tuv xml:lang="ga"><seg>Deirtear gur leanbh cleithiúnach atá ann má tá sé/sí faoi 18 nó os cionn 18 agus faoi 22 agus in oideachas lánaimseartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is no fixed rate for heating supplement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon ráta socruithe d'fhorlíonadh téimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The amount of heating supplement you get is based on your need as assesed by your Department of Social Protection's representative (formerly known as the Community Welfare Officer)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an méid fhorlíonaidh téimh a fhaigheann tú bunaithe ar do riachtanas mar atá sé measúnaithe ag an t-ionadaí Roinne Coimirce Sóisialaí (a tugadh an tOifigeach Leasa Pobail air roimhe seo)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To apply for a heating supplement, fill in a heating supplement form (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir duit foirm forlíonadh téimh (pdf) a chomhlánú chun iarratas a dhéanamh ar fhorlíonadh téimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Department of Social Protection's representative (formerly known as the Community Welfare Officer) can help you fill in the form</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis an ionadaí Roinne Coimirce Sóisialaí (a tugadh an tOifigeach Leasa Pobail air roimhe seo) cabhrú leat chun an fhoirm a chomhlánú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The diet supplement was discontinued for new applicants from 1 February 2014</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó 1 Feabhra 2014 amach, ní ghlactar le hiarratais nua ar an bhforlíonadh aiste bia</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can appeal a decision on a diet or heating supplement to the independent Social Welfare Appeals Office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir achomharc a dhéanamh leis an Oifig Achomhairc Leasa Shóisialaigh in aghaidh chinnidh ar fhorlíonadh téimh nó ar fhorlíonadh aiste bia</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To get a heating supplement, apply to the Department of Social Protection's representative (formerly known as the Community Welfare Officer) in your local office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart duit teagmháil a dhéanamh le hionadaí na Roinne Coimirce Sóisialaí (tugadh an tOifigeach Leasa Pobail orthu roimhe seo) i d'ionad sláinte áitiúil</seg></tuv>
+</tu>
+</body>
+</tmx>

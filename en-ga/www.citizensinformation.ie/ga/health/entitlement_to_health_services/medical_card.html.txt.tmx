@@ -1,0 +1,333 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>If you have a medical card issued by the Health Service Executive (HSE) you can receive certain health services free of charge. Normally, your dependent spouse or partner and your children are also covered for the same range of health services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má eisíonn Feidhmeannacht na Seirbhíse Sláinte (FSS) cárta leighis do dhuine bíonn an sealbhóir sin i dteideal seirbhísí áirithe sláinte a fháil saor in aisce</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To qualify for a medical card, your weekly income must be below a certain figure for your family size</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun cáiliú do chárta leighis, ní mór go mbíonn d’ioncam seachtainiúil faoi bhun figiúr áirithe i dtaobh mhéid do theaghlaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Cash income, savings, investments and property (except for your own home) are taken into account in the means test</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirtear ioncam airgid, coigilteas, infheistíochtaí agus maoin (seachas do theach féin) san áireamh sa tástáil mhaoine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>GP visit cards: If you do not qualify for a medical card on income grounds, you may qualify for a GP visit card</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cártaí Cuairte LG: Mura gcáilíonn tú do chárta leighis, ar bhunúis ioncaim, d’fhéadfadh go gcáileofá do Chárta Cuairte LG</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>What health services are normally covered?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cén seirbhísí sláinte is gnách a bhíonn cumhdaithe?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have a medical card, you are entitled to:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá cárta leighis agat, bíonn tú i dteideal na seirbhísí a leanas a fháil:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Free GP (family doctor) services</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seirbhísí saor in aisce LG (dochtúir teaghlaigh)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Prescribed drugs and medicines — some prescription charges apply</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Drugaí agus cógais ordaithe — bíonn roinnt muirir oidis le híoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• In-patient public hospital services, out-patient services and medical appliances</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seirbhísí ospidéil phoiblí d’othair chónaitheacha, seirbhísí d’othair sheachtracha agus feistí leighis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Dental, optical and aural services</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seirbhísí fiaclóireachta, optúla agus cluaise</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Maternity and infant care services</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seirbhísí máithreachais agus cúram naíonán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Some personal and social care services, for example, public health nursing, social work services and other community care services</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Roinnt seirbhísí pearsanta agus cúraim shóisialta, mar shampla, altranas sláinte poiblí, seirbhísí oibre sóisialta agus seirbhísí cúram pobail eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Short-term counselling for mild to moderate psychological difficulties, using the Counselling in Primary Care Service</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Comhairleoireacht ghearrthéarmach i dtaobh deacrachtaí síceolaíochta idir éadrom agus measartha agus an tSeirbhís Chúraim Phríomhúil á húsáid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A maternity cash grant of €10.16 on the birth of each child (apply to your Local Health Office)  Other benefits</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Deontas airgid mháithreachais €10.16 nuair a shaolaítear do leanbh (déan iarratas ar d’Oifig Sláinte Áitiúil)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Medical card holders pay the Universal Social Charge on their income if it is over the exemption limit, but there is a reduced rate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocann sealbhóirí cárta leighis an Muirear Sóisialta Uilíoch ar a n-ioncam má sháraíonn sé an teorainn dhíolúine, ach tá ráta laghdaithe ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Medical card holders may also be exempt from paying school transport charges and State exam fees in publicly-funded second-level schools</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, d’fhéadfadh sealbhóirí cárta leighis bheith díolmhaithe ó mhuirir iompar scoile agus táillí scrúduithe Stáit a íoc i meánscoileanna atá faoi chistiú poiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There may also be financial help with buying school books in certain schools</seg></tuv>
+  <tuv xml:lang="ga"><seg>Anuas air sin, d’fhéadfadh go soláthrófaí cabhair airgeadais nuair a bhíonn leabhair scoile á gceannach i scoileanna áirithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Normally, your total income is taken into account in the means test for the medical card</seg></tuv>
+  <tuv xml:lang="ga"><seg>De ghnáth, cuirtear d’ioncam iomlán san áireamh sa tástáil mhaoine don chárta leighis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are different guidelines for the means test depending on your age:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá treoirlínte éagsúla i gceist don tástáil mhaoine, ag brath ar d’aois:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Means test rules for people under 70 years of age</seg></tuv>
+  <tuv xml:lang="ga"><seg>• rialacha na tástála maoine do dhaoine faoi bhun 70 bliain d’aois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Means test rules for people over 70 years of age</seg></tuv>
+  <tuv xml:lang="ga"><seg>• rialacha na tástála maoine do dhaoine os cionn 70 bliain d’aois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The assessment of a couple for medical card purposes is based on the age of the older person</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bunaítear an measúnú a dhéantar ar lánúin ar mhaithe le cuspóirí cárta leighis ar aois an duine níos sine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your income is above the limit you may still be able to obtain a medical card if your circumstances would result in hardship without one</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirtear aon airgead, coigilteas, infheistíochtaí nó maoin (seachas do theach féin) san áireamh sa tástáil mhaoine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is sometimes called a discretionary medical card</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar cárta leighis lánroghnach air seo amanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>See the Assessment Guidelines in Further information below for details</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá roinnt eisceachtaí ann, áfach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>People aged 16–25, including students</seg></tuv>
+  <tuv xml:lang="ga"><seg>Daoine atá díolmhaithe ón tástáil mhaoine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are aged 16–25 and dependent on a parent or guardian, you are eligible for a medical card if your parent or guardian has a medical card</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Iad siúd ag a bhfuil teidlíocht an AE – féach ‘Tuilleadh faisnéise’ thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have an income over the medical card income limit for a single person living with family you are considered financially independent and in this case the usual means test applies</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Daoine a n-imríonn an druga Tailídimíd tionchar orthu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are not living with or dependent on a parent or guardian then you are living as an independent person regardless of income and your application is assessed using the standard means test</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Mná a ndearnadh simfiseatóime orthu • Leanaí ata faoi 18 mbliana d’aois a ndéantar diagnóisiú ailse ina leith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have a child for whom you are getting Domiciliary Care Allowance, the child is eligible for a medical card, without a means test, from 1 June 2017</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is gnách go ndeonaítear cártaí leighis do leanaí atá faoi chúram altrama</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the child does not have a medical card or GP visit card, you can register the child for a medical card online or download a registration form (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá íocaíocht leasa shóisialaigh á fáil agat ar feadh bliana nó níos faide agus má fhilleann tú ar an obair, d’fhéadfá bheith in ann do chárta leighis a choimeád ar feadh trí bliana ar a mhéid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the child already has a medical card or GP visit card, you do not need to register; they will be automatically registered for a medical card</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé beartaithe é seo a athrú in 2014 ionas go mbeidh tú fós i dteideal Cárta Cuairte LG a choimeád gan dul faoi thástáil mhaoine nuair a fhilleann tú ar an obair, seachas cárta leighis a choimeád</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The HSE has a list of Frequently Asked Questions about this scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá siad ag brath ar a dtuismitheoirí i dtaobh cúrsaí airgeadais de, is gnách nach mbíonn siad i dteideal cárta leighis a fháil má bhíonn ceann ag a dtuismitheoirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Women who have had a symphysiotomy</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tar éis go n-eisítear do chárta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your circumstances change you must inform the HSE as you may no longer be eligible</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má thagann athrú ar do chuid cúinsí, ní mór duit FSS a chur ar an eolas, mar gheall go bhféadfadh nach mbeifeá i dteideal é a shealbhú a thuilleadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, if your income or family circumstances change, you must inform the Client Registration Unit as soon as possible — see 'How to apply' below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, má thagann athrú ar d’ioncam nó ar chúinsí do theaghlaigh, ní mór duit an tAonad Cláraithe Cliant a chur ar an eolas a luaithe is féidir – féach ‘Conas iarratas a dhéanamh’ thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your card will be reviewed periodically</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfar athbhreithniú tréimhsiúil ar do chárta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you return your review form by the given date but the review process continues past the expiry date of your card, the card’s validity may be extended so that you can continue to use it while the review is taking place</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má sheolann tú d’fhoirm athbhreithnithe ar ais faoin dáta a luaitear ach má leanann an próiseas athbhreithnithe thar dháta éagtha do chárta, ní mór bailíocht an chárta a shíneadh ionas gur féidir leat é a úsáid fad atá an t-athbhreithniú ar bun</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The extension is on a month-by-month basis so it is advisable to contact the Client Registration Unit to confirm that your card has been extended and continues to be valid</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an síneadh ar bhonn mí ar mhí, mar sin, moltar duit teagmháil a dhéanamh leis an Aonad Cláraithe Cliant lena dheimhniú gur síneadh do chárta agus go leanann sé bheith bailí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are getting a social welfare payment for a year or more and return to work, you may be able to keep your medical card for up to 3 years.   If you move</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú do chárta a úsáid ar feadh 3 mhí ar a mhéid má tá tú i do chónaí go sealadach lasmuigh de cheantar d’Oifige Áitiúla Sláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can use your medical card for up to 3 months if you are living temporarily in a different area</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú do chárta leighis a úsáid a mhéid le 3 mhí má tá tú ag cónaí go sealadach i gceantar éagsúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are going to be away longer than 3 months, you do not have to re-apply for a new Medical Card</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bheidh tú imithe ar feadh breis agus 3 mhí, ní gá duit athiarratas a dhéanamh ar Chárta Leighis nua</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should make contact with your new Local Health Office where you will be advised of the GPs practising in your new area</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart duit teagmháil a dhéanamh le d’Oifig Áitiúil Sláinte nua, áit a gcuirfear ar an eolas thú ar na LGanna atá i mbun cleachtaidh i do cheantar nua</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are changing your GP, you complete a Change of Doctor Form (pdf), giving details of the new doctor</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá do LG á athrú agat, comhlánaíonn tú foirm um Athrú Dochtúra (pdf), agus sonraí an dochtúra nua a thabhairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The form is available online or by phoning Lo-call 1890 252 919</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá fáil ar an bhfoirm ar líne nó trí ghlao ar Íosghlao 1890 252 919</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have any questions before you send your application, you can phone Lo-call 1890 252 919, contact your Local Health Office, or email clientregistration@hse.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhíonn aon cheisteanna agat sula seolann tú d’iarratas ar aghaidh, féadfaidh tú glao a chur ar Íosghlao 1890 252 919, teagmháil a dhéanamh le d’Oifig Áitiúil Sláinte, nó ríomhphost a sheoladh chuig clientregistration@hse.ie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can apply online for a medical card on medicalcard.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú iarratas a dhéanamh ar líne ar chárta leighis ag medicalcard.ie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is the quickest method of obtaining the card</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seo an modh is tapúla chun an cárta a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The completed form will be returned to you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seolfar an fhoirm chomhlánaithe ar ais chugat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Alternatively, you can download a medical card application form:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar mhalairt air sin, féadfaidh tú foirm iarratais ar chárta leighis a íoslódáil:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• MC1 Medical Card and GP Visit Card Application Form (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Foirm Iarratais MC1 ar Chárta Leighis/Cárta Cuairte LG (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• MC1(a) Medical Card and GP Visit Card Application Form - People Aged 70 Years or Older (pdf) if you are aged over 70</seg></tuv>
+  <tuv xml:lang="ga"><seg>Foirm Iarratais MC1(a) ar Chárta Leighis/Cárta Cuairte LG – Daoine 70 Bliain D’Aois nó Níos Sine (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can also get the application form and a list of participating GPs from your local health centre or Local Health Office for your area</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa mhullach air sin, féadfaidh tú foirm iarratais agus liosta de na LGanna atá ag glacadh páirte sa scéim a fháil ó d’ionad áitiúil sláinte nó san Oifig Áitiúil Sláinte i do cheantar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You bring the form to the GP you have chosen from the list of participating doctors</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann tú an fhoirm chuig an LG a roghnaigh tú ón liosta de dhochtúirí atá ag glacadh páirte sa scéim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Usually, the GP you select must have his/her practice within 7 miles of where you live</seg></tuv>
+  <tuv xml:lang="ga"><seg>De ghnáth, ní mór go mbeidh áit chleachtais an LG a roghnaíonn tú suite laistigh de 7 míle ón áit a gcónaíonn tú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the GP agrees to accept you as a patient for medical card GP services, he/she signs the form</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat tuilleadh a léamh faoi sheirbhísí LG le haghaidh shealbhóirí an chárta leighis anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You return the form to the Client Registration Unit, along with the documentary evidence specified on the form</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seolann tú an fhoirm ar ais chuig an Aonad Cláraithe Cliant, mar aon leis an bhfianaise cháipéise a shonraítear ar an bhfoirm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can track the progress of your medical card application at medicalcard.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú dul chun cinn d’iarratais ar chárta leighis a rianú ar medicalcard.ie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The HSE has FAQs on medical cards and medical cards/GP Visit Cards for people aged 70 and over</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá ceisteanna coitianta ag FSS ar chártaí leighis agus ar Chártaí leighis/Cártaí Cuairte LG do dhaoine 70 bliain d’aois agus níos sine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Children with Domiciliary Care Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leanaí a ndearnadh diagnóisiú ailse orthu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Children under the age of 18 who have been diagnosed with cancer within the last 5 years are eligible for a medical card without a means test</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá leanaí atá faoi 18 mbliana d’aois a ndearnadh diagnóisiú ailse orthu le 5 bliana anuas incháilithe do chárta leighis gan tástáil mhaoine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The application form does not require information about income but does require a medical report</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní theastaíonn faisnéis faoi ioncaim ar an bhfoirm iarratais ach teastaíonn tuairisc leighis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can download the Medical Card Application Form for Children under 18 years, Form MC1(b)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú an Fhoirm Iarratais ar Chárta Leighis do Leanaí faoi 18 mbliana d’aois, Foirm MC1(b) a íoslódáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have been refused a medical card and are not satisfied with the decision, you may have it reviewed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má diúltaíodh cárta leighis duit agus mura bhfuil tú sásta leis an gcinneadh, féadfaidh tú iarraidh go ndéanfar athbhreithniú air</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your circumstances may have changed or you may have left out some relevant information from the original application</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh gur tháinig athrú ar do chúinsí, nó d’fhéadfadh gur fhág tú roinnt faisnéis ábhartha ar lár ón mbuniarratas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are not satisfied with the review you may make an appeal to the Appeals Office for your HSE Area</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil tú sásta leis an athbhreithniú, féadfaidh tú achomharc a dhéanamh leis an Oifig Achomhairc i do cheantar FSS</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The contact details will also be contained in your letter of refusal</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh na sonraí teagmhála le sonrú i do litir dhiúltaithe, chomh maith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Appeals Office will conduct a reassessment of your application</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabharfaidh an Oifig Achomhairc faoi athmheasúnú ar d’iarratas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This will be conducted by HSE staff who were not involved in deciding on your original application</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabharfaidh foireann FSS faoi seo, nach raibh baint acu leis an gcinneadh a dhéanamh ar do bhuniarratas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The HSE has published assessment guidelines for medical card applications:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an FSS tar éis treoirlínte measúnaithe a fhoilsiú d’iarratais ar chárta leighis:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Medical Card/GP Visit Card National Assessment Guidelines (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Medical Card/GP Visit Card National Assessment Guidelines (pdf) (Treoirlínte Measúnaithe Náisiúnta um Chárta Leighis/Cuairt Dochtúra)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Medical Card/GP Visit Card National Assessment Guidelines for people aged 70 years and over (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Medical Card/GP Visit Card National Assessment Guidelines for people aged 70 years and over (pdf) (Treoirlínte Measúnaithe Náisiúnta um Chárta Leighis/Cuairt Dochtúra do dhaoine d’aois os cionn 70 bliain)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Entitlement under EU Regulations</seg></tuv>
+  <tuv xml:lang="ga"><seg>Teidlíocht faoi Rialacháin an AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are getting a social security pension from another EU/EEA country or Switzerland, or if you are working and paying social insurance in one of these countries, you may qualify for a medical card under EU rules if you are ordinarily resident in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá pinsean slándála sóisialaí á fháil agat ó thír eile den AE/LEE nó ón Eilvéis, nó má tá tú ag oibriú agus má tá árachas sóisialta á íoc agat in aon cheann de na tíortha seo, d’fhéadfá cáiliú do chárta leighis faoi rialacha an AE má tá gnáthchónaí ort in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must not be subject to Irish social security legislation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór nach bhfuil tú faoi réir reachtaíochta um árachas sóisialta na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that you must not be in receipt of a contributory Irish social welfare payment or be working in Ireland and be liable to pay PRSI</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn seo nach mór go bhfuil íocaíocht ranníocach leasa shóisialaigh Éireannaigh á fáil agat nó go bhfuil tú ag oibriú in Éirinn agus go bhfuil tú faoi dhliteanas ÁSPC a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are living in Ireland and you are the dependant of a pensioner entitled under EU Regulations, or are the dependant of a person who is working in another country covered by the Regulations, you may be eligible for a medical card</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá cónaí in Éirinn ort agus más cleithiúnaí pinsinéara thú, atá i dteideal faoi Rialacháin an AE, nó más cleithiúnaí duine thú atá ag oibriú i dtír eile atá cumhdaithe ag na Rialacháin, d’fhéadfá bheith i dteideal cárta leighis a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must not be subject to Irish social security legislation (in the case of child dependants this rule applies to the spouse or person looking after them)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór nach bhfuil tú faoi réir reachtaíochta um árachas sóisialta na hÉireann (i gcás cleithiúnaithe linbh, baineann an riail seo leis an gcéile nó an duine atá ina bhfeighil)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Posted workers and their dependants may also qualify for the medical card</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, d’fhéadfadh go gcáileofaí oibrithe sannta agus a gcleithiúnaithe do chárta leighis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These are workers who are employed in another country covered by the regulations but are sent by their employers to work in Ireland for a limited time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Oibrithe iad seo atá fostaithe i dtír eile atá cumhdaithe ag na rialacháin ach a seolann a bhfostóirí iad chun oibriú in Éirinn ar feadh tréimhse theoranta</seg></tuv>
+</tu>
+</body>
+</tmx>

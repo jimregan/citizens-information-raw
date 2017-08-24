@@ -1,0 +1,525 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>How your income tax is calculated</seg></tuv>
+  <tuv xml:lang="ga"><seg>An córas le cáin a mheas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Tax rates and the standard rate cut-off point</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Rátaí cánach agus pointe scoite an ráta chaighdeánaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Nearly all income is liable to tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá beagnach gach ioncam dlite ag cáin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Tax on income that you earn from employment is deducted from your wages by your employer on behalf of the Irish Government</seg></tuv>
+  <tuv xml:lang="ga"><seg>Asbhaineann d'fhostóir cáin ar ioncam a thuilltear ó fhostaíocht ó do thuarastal ar son Rialtas na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is known as Pay As You Earn (PAYE)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar Íoc Mar a Thuillir (ÍMAT) ar an gcóras seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The amount of tax that you have to pay depends on the amount of the income that you earn and on your personal circumstances</seg></tuv>
+  <tuv xml:lang="ga"><seg>Braitheann an méid cánach a íocann tú ar an méid ioncaim a thuilleann tú agus ar do chúinsí pearsanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are a range of income tax reliefs available that can reduce the amount of tax that you have to pay</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá raon faoiseamh ó cháin ioncaim atá in ann an méid cánach a chaithfidh tú a íoc a laghdú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Universal Social Charge (USC) is a tax on your income</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is cáin ar do chuid ioncaim é an Muirear Uilíoch Sóisialach (MUS)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is charged on your gross income before any pension contributions or PRSI</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gearrtar ar d’ollioncam é roimh rannaíocaíochtaí pinsin agus ÁSPC</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You cannot use tax credits or tax relief (except for certain capital allowances) to reduce the amount you must pay</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leat creidmheasanna cánach a úsáid le méid an mhuirir atá le híoc agat a laghdú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Find out more in our document on the Universal Social Charge</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá daoine áirithe nach gcaithfidh an Muirear Uilíoch Sóisialach a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Notice of determination of tax credits and standard rate cut-off point</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fógra cinnidh na gcreidmheasanna cánach agus pointe scoite an ráta chaighdeánaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>At the start of the tax year, the Revenue Commissioners will send you a Notice of determination of tax credits and standard rate cut-off point</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag tús na bliana cánach, seolfaidh na Coimisinéirí Ioncaim Fógra cinnidh na gcreidmheasanna cánach agus pointe scoite an ráta chaighdeánaigh chugat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Revenue will also send a summary of this certificate to your employer so that your employer can deduct the correct amount of tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léiríonn sé seo an ráta cánach a bhaineann le d'ioncam agus na creidmheasanna cánach a laghdaíonn an cháin iníoctha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your circumstances change during the year Revenue will issue a revised certificate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seolfaidh na Coimisinéirí Ioncaim achoimre den teastas seo chuig d'fhostóir ionas gur féidir leo an méid iomchuí cánach a asbhaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are changing job or starting work for the first time, and your employer has not received this information from Revenue or a previous employer, you will be taxed on a temporary basis called emergency tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ag athrú poist nó ag tosú ag tosú don chéad uair, agus nach bhfuil an fhaisnéis seo faighte ag d'fhostóir óna Coimisinéirí Ioncaim nó ón bhfostóir a bhí agat roimhe seo, gearrfar cáin ort ar bhonn sealadach ar a dtugtar cáin éigeandála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can get more information about tax and starting work or changing job</seg></tuv>
+  <tuv xml:lang="ga"><seg>Lean na naisc seo chun breis eolais a fháil faoi cáin agus ag tosú ag obair nó athrú poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Tax rates and the standard rate cut-off point</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rátaí cánach agus pointe scoite an ráta chaighdeánaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Tax is charged as a percentage of your income</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gearrtar cáin ort mar chéatadán den ioncam atá agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The percentage that you pay depends on the amount of your income</seg></tuv>
+  <tuv xml:lang="ga"><seg>Braitheann an céatadán a íocann tú ar an méid ioncaim atá agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The first part of your income, up to a certain amount, is taxed at 20%</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gearrtar cáin ag ráta 20% ar an gcéad chuid den ioncam, suas chomh fada le méid áirithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is known as the standard rate of tax and the amount that it applies to is known as the standard rate tax band</seg></tuv>
+  <tuv xml:lang="ga"><seg>An ráta caighdeánach cánach a thugtar air seo agus is ráta caighdeánach an bhanda cánach a thugtar ar an méid lena mbaineann an ráta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The remainder of your income is taxed at the higher rate of tax, 40% in 2017</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gearrtar cáin ag an ráta ard cánach de 40% ar fhuílleach an ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The amount that you can earn before you start to pay the higher rate of tax is known as your standard rate cut-off point</seg></tuv>
+  <tuv xml:lang="ga"><seg>Pointe scoite an ráta chaighdeánaigh a thugtar ar an méid is féidir leat a thuilleamh sula dtosaítear ag íoc an ráta ard cánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>See case studies for an example of how to calculate income using tax rates and the standard rate cut-off point</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féach ar cás-staidéir chun sampla a fháil conas ioncam a ríomh ag baint úsáide as rátaí cánach agus pointe scoite an ráta chaighdeánaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│ │2012, 2013 and 2014 │2015, 2016 and 2017 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Rátaí agus Bandaí Cánach 2017 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Single person │€32,800 │Balance│€33,800 │Balance│</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Duine singil │€33,800 │Iarmhéid │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Married couple/civil partners, one income │€41,800 │Balance│€42,800 │Balance│</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Lánúin phósta Ioncam amháin │€42,800 │Iarmhéid │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│ │Up to €65,600 │ │Up to €67,600 │ │ │ │ │ │ │ │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Lánúin phósta Dhá ioncam │Suas go dtí €67,600 (méadú teoranta do mhéid an dara ioncaim) │Iarmhéid │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│ │the second income - see example below) │ │second income - see example below) │ │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Teaghlach aontuismitheora │€37,800 │Iarmhéid │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Example of standard rate cut-off point for a married couple or civil partners with two incomes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sampla de phointe scoite ráta caighdeáin do lanúin phósta ar dhá ioncam</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In 2017, the standard rate cut-off point for a married couple or civil partners is €42,800</seg></tuv>
+  <tuv xml:lang="ga"><seg>I 2017, is é an pointe scoite ráta caighdeáin do lánúin phósta ná €42,800</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If both are working, this amount is increased by the lower of the following:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá an bheirt ag obair, ardaítear an méid seo leis an méid is ísle de na méideanna a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The amount of the income of the spouse or civil partner with the smaller income</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Méid ioncaim an chéile leis an ioncam is ísle</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If one person is earning €48,000 and their spouse or civil partner is earning €25,000:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má thuilleann duine €48,000 agus tuilleann a gcéile/páirtnéir sibhialta €25,000:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The standard rate cut off point for the couple is €42,800 plus €24,800</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é scoithphointe an ráta chaighdeánaigh do lánúin ná €42,800 móide €24,800</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The increase in the standard rate band is not transferable between spouses or civil partners, so the first spouse or civil partner's tax bands would be calculated as €42,800 @ 20% = €8,560 and €5,200 @ 40% = €2,080</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl an méadú ar bhanda an ráta chánach chaighdeánaigh inaistrithe idir chéilí nó páirtnéirí sibhialta. Dá bhrí sin, d’íocfadh an chéad chéile nó pháirtnéir sibhialta €42,800 @ 20% = €8,560 agus €5,200 @ 40% = €2,080</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The second spouse or civil partner's tax bands would be calculated as €24,800 @ 20% = €4,960 and €200 @ 40% = €80</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’íocfadh an dara chéile nó pháirtnéir sibhialta €24,800 @ 20% = €4,960 agus €200 @ 40% = €80</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Tax credits reduce the amount of tax that you have to pay</seg></tuv>
+  <tuv xml:lang="ga"><seg>Laghdaíonn creidmheasanna cánach an méid cánach a bhíonn ort a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Tax credits are deducted after your tax has been calculated and so a tax credit has the same value to all taxpayers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Oibríonn siad seo ar bhealach atá difriúil ó liúntais chánach toisc go ndéantar iad a asbhaint tar éis do cháin a bheith ríofa - tá an luach céanna ag creidmheas cánach do gach cáiníocóir dá réir sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>After your tax is calculated, as a percentage of your income, the tax credit is deducted from this to reduce the amount of tax that you have to pay</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tar éis do cháin a bheith ríofa mar chéatadán den ioncam atá agat, déantar an creidmheas cánach a asbhaint ón méid seo chun an méid cánach a bhíonn ort a íoc a laghdú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>So a tax credit of €200, for example, will reduce your tax by that amount</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, laghdóidh creidmheas cánach €200 do chuid cánach den mhéid seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may be entitled to various tax credits depending on your personal circumstances</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfá a bheith i dteideal creidmheasanna cánach éagsúla ag brath ar do chúinsí pearsanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can get more information about the different types of tax credits and reliefs and the tax reliefs available for people with disabilities</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigh amach faoi cineálacha difriúla creidmheasanna agus faoisimh chánach anseo agus féach ar faoisimh chánach atá ar fáil do dhaoine faoi mhíchumas anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are entitled to tax credits that are not listed on the Notice of determination of tax credits and standard rate cut-off point that you get from Revenue, you should contact Revenue to inform them</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú i dteideal creidmheasanna cánach nach bhfuil liostáilte ar Fógra cinnidh na gcreidmheasanna cánach agus pointe scoite an ráta chaighdeánaigh a fhaigheann tú ó na Coimisinéirí Ioncaim, ba chóir duit dul i dteagmháil leis na Coimisinéirí Ioncaim chun é a insint dóibh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Tax allowances reduce the amount of tax that you have to pay</seg></tuv>
+  <tuv xml:lang="ga"><seg>Laghdaíonn liúntais chánach an méid cánach a bhíonn ort a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The amount by which a tax allowance will reduce your tax depends on what your highest rate of tax is</seg></tuv>
+  <tuv xml:lang="ga"><seg>Braitheann an méid lena laghdaíonn an liúntas cánach do cháin ar an ráta cánach is airde atá agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is because the allowance is subtracted from your income before it is taxed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé seo amhlaidh toisc go mbíonn an liúntas dealaithe ón ioncam sula ngearrtar an cáin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In effect, it is ‘taken off the top’ of your income which can then be taxed at either the standard rate or the higher rate, depending on your income level</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go bunúsach, tá sé 'tógtha ó bharr' d'ioncaim agus is féidir cáin a ghearradh air ag an ráta caighdeánach nó ag an ráta ard, ag brath ar an leibhéal ioncaim atá agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If, for example, you have a tax allowance of €200 and your highest rate of tax is 20%, then this means that the amount of your income that is taxed at this rate is reduced by €200 and so your tax is reduced by €40 (€200 x 20%)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, má tá liúntas cánach €200 agat agus do ráta ard cánach ag 20%, ciallaíonn sé seo go bhfuil an méid ioncaim atá agat a ngearrtar cáin air ag an ráta seo laghdaithe de €200 agus laghdaítear do cháin de €40 dá réir (€200 x 20%)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have the same tax allowance of €200 but the highest rate of tax that you pay is 40%, then the amount of your income that is taxed at 40% is reduced by €200 and so your tax reduction is €80 (€200 x 40%)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá an liúntas cánach céanna de €200 agat agus an ráta ard cánach a íocann tú ná 40%, gearrtar an cháin ar do chuid ioncaim ag 40% laghdaithe de €200 agus laghdaítear do cháin de €80 dá réir (€200 x 40%)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is known as tax allowance at the marginal rate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Liúntas cánach ag an ráta imeallach a thugtar air seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When your employer is taking allowances into account in calculating your income tax, the way that this is done is by adjusting your standard rate cut-off point</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair atá d'fhostóir ag tógáil liúntais san áireamh nuair atá do cháin ioncaim á ríomh, déantar é seo trí phointe scoite an ráta chaighdeánaigh atá agat a choigeartú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Allowances at the marginal rate include:</seg></tuv>
+  <tuv xml:lang="ga"><seg>I measc liúntais ag an ráta imeallach tá:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Tax relief on employing a carer for an incapacitated person</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Faoiseamh cánach ar chostais leighis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Tax relief on pension contributions</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Faoiseamh cánach ar chúramóir a fhostú do dhuine éagumasaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Before calculating your income tax, subtract the following from your income:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sula ríomhann tú do cháin ioncaim, dealaigh na nithe a leanas ón ioncam atá agat:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Payments to a Permanent Health Benefit Scheme (to a maximum of 10% of income)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Íocaíochtaí isteach sa Bhuanscéim um Shochar Sláinte (suas go huasmhéid 10% d'ioncam)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is a policy that will ensure continued income in the event of an accident, injury or sickness</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seo beartas a chinnteoidh ioncam leanúnach má tharlaíonn tionóisc, gortú nó tinneas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Work expenses that were necessary to carry out your work duties</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Costais oibre a bhí riachtanach le do dhualgais oibre a chomhlíonadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your taxable pay is then taxed at 20% of income below the standard rate cut-off point</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gearrtar cáin ansin ar do phá incháinithe ag 20% den ioncam faoi phointe scoite an ráta chaighdeánaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The amount in excess of the cut-off point is taxed at 40%</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gearrtar cáin ag 41% ar an méid atá sa bhreis ar an bpointe scoite</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This gives your Gross Tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann sé seo an Cáin Chomhlán duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This could arise, for example, if most of your income is from your employer but you also have income outside this from which tax has not been deducted</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar luach na gcreidmheasanna cánach a dhealú ón méid seo ansin leis an méid cánach a bhíonn ort a íoc a thabhairt duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Tax allowances have the effect of:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é éifeacht liúntais chánach ná:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Increasing tax credits by the amount of the relief at the standard rate of tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Creidmheasanna cánacha a ardú trí mhéid an fhaoisimh ag ráta caighdeánach na cánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This grants relief at the standard rate of tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann sé seo faoiseamh ag ráta caighdeánach na cánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Increasing the standard rate band by the amount of the relief</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag ardú banna an ráta chaighdeánach le méid an fhaoisimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This adds the difference between relief at the higher rate of tax and the standard rate of tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann sé seo leis an difríocht idir fhaoiseamh ag an ráta níos aidre cánach agus ráta caighdeánach na cánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This ensures that relief is obtained in full at the higher rate of tax if applicable</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cinntíonn sé seo go bhfaightear faoiseamh iomlán ag an ráta níos airde cánach más infheidhmithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, a tax allowance of €1,000 would have a value of €200 to a taxpayer on the standard rate and a value of €400 to a taxpayer on the higher rate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, bheadh luach de €200 ag liúntas cánach de €1,000 do cháiníocóir ar an ráta caighdeánach agus luach de €400 do cháiníocóir ar an ráta níos airde</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The way this is calculated is to increase tax credits by €200 (1,000 x 20% standard rate of tax)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ríomhtar é seo chun creimheasanna cánacha a ardú de €200 (1,000 x 20% ráta caighdeánach cánach)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is the amount of the benefit to a standard rate taxpayer but the tax allowance would have a higher value for a taxpayer paying tax at the higher rate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é seo an méid leasa do cháiníocóir ar an ráta caighdeánach ach bheadh luach níos airde ag an gcáiníocóir ag íoc cánach ag an ráta níos airde</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is achieved by increasing the standard rate cut-off point by €1,000</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baintear amach é seo tríd an scothphointe ráta caighdeánach a ardú de €1,000</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that for a higher rate taxpayer, €1,000 that would be taxed at a rate of 40% is instead taxed at 20%, a saving of €200 (€400 – 200 ) in addition to the €200 saved by the increase in tax credits</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn sé seo do cháiníocóir ráta níos airde, go mbeadh €1,000 a ngearrfaí cáin de 40% air go bhfuil cáin de 20% gearrtha air ina áit, sábháil de €200 (€400 – 200), maille leis an €200 sábháilte agus an t-ardú i gcreidmheasanna cánacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The increase in the standard rate cut-off point would not effect a taxpayer already paying tax only at the standard rate so he/she would only benefit from the increased tax credits</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chuirfeadh an t-ardú scothphointe ráta caighdeánach isteach ar cháiníocóir atá ag íoc cánach ag an ráta caighdeánach amháin cheana, agus mar sin, bhainfeadh sé/sí leas as na creidmheasanna cánacha ardaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Benefits in kind and non-PAYE income have the opposite effect:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é a mhalairt d’éifeacht atá ag Sochar comhchineáil ioncam neamh-ÍMAT i ríomhaireachtaí:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Decreasing tax credits by the amount of the income at the standard rate of tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag laghdú creidmheasanna cánacha ag méid an ioncaim ag an ráta caighdeánach cánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Decreasing the standard rate cut-off point by the amount of the income</seg></tuv>
+  <tuv xml:lang="ga"><seg>• ag laghdú an scothphointe ráta caighdeánach trí mhéid an ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This has the opposite effect to the example above</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é a mhalairt d’éifeacht atá aige seo don sampla thuas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In this case, €1,000 would decrease the tax credits by €200, affecting both standard and higher rate taxpayers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás seo, laghdódh €1,000 na creidmheasanna cánacha de €200, agus cur isteach ar idir cháiníocóirí ráta caghdeánach agus ráta níos airde</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It would also decrease the standard rate cut-off point by €1,000 having the effect of increasing the tax liability for higher rate taxpayers only</seg></tuv>
+  <tuv xml:lang="ga"><seg>Laghdódh sé freisin an scothphointe ráta caighdeánach de €1,000, a mbeadh éifeacht aige do dhliteanas cánach a ardú do cháiníocóirí ráta níos airde amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Marriage or civil partnership</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tosca a mbíonn tionchar acu ar phointe scoite an ráta chaighdeánaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are married or in a civil partnership, this may affect your tax bands and tax reliefs</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfá a bheith i dteideal liúntais chánach a ardóidh pointe scoite an ráta chaighdeánaigh atá agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>More information can be found on our document Taxation of married people and civil partners</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nó d'fhéadfaí pointe scoite an ráta chaighdeánaigh atá agat a ísliú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find Revenue contact details for your region here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féach ar Cúrsaí cánach do dhaoine pósta le haghaidh sonraí.   Teagmháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can also view and update your tax details online</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat freisin sonraí cánach a fheiceáil agus a nuashonrú ar líne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Income that is assessed for tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ioncaim a ndéantar measúnú air do cháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the PAYE system, income tax is charged on all wages, fees, perks, profits or pensions and most types of interest</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoin gcóras ÍMAT, gearrtar cáin ioncam ar gach pá, táille, peorcais, brabús nó pinsean, agus beagnach gach cineál úis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Tax is payable on earnings of all kinds that result from your employment (including for example, bonuses, overtime, non-cash pay or 'benefit-in-kind' such as the use of company car, tips, Christmas boxes and so forth)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá cáin iníoctha ar gach tuilleamh de gach cineál atá mar thoradh ar do chuid fostaíochta (san áireamh, mar shampla tá bónais, ragobair, pá nach airgead tirim é, sochar comhchineáil, ar nós úsáid cairr chomhlachta, aiscí, boscaí Nollag agus mar sin de)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Money you get which is not liable to income tax may be liable to other taxes</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfaí go bhfuil airgead a fhaigheann tú nach bhfuil faoi dhliteanas cáin ioncaim faoi dhliteanas cánacha eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you get gifts or inheritances, you may have to pay Capital Acquisitions Tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhaigheann tú tabhartais nó oidhreachtúlachtaí d’fhéadfaí go mbeadh ort Cáin Fáltas Caipitiúil a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you sell assets such as property or shares you may have to pay Capital Gains Tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhíolann tú sochair ar nós réadmhaoine nó scaranna, d’fhéadfaí go mbeadh ort Cáin Ghnóthachan Caipitiúil a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Income that may be exempt from tax includes the following:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áirítear iad seo a leanas a d’fhéadfaí a bheith díolúinithe ó cháin:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Payments to approved pension schemes</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Íocaíochtaí chuig scéimeanna pinsin ceadaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Certain social welfare payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Roinnt íocaíochtaí leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Interest from savings certificates and Savings Bonds and National Instalment Savings Schemes, within limits</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ús ó theastais shábhála agus Bannaí Coigiltis agus Scéim Náisiúnta Shábháil Ghála laistigh de theorainneacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Certain earnings by artists</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tuilleamh ar leith d’ealaíóntóirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Certain payments in respect of disabilities linked with Thalidomide</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Íocaíochtaí ar leith i ndáil le míchumais gaolmhar le Tailídimíd</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Wins from licensed lotteries</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Íocaíochtaí ó chrannchuir cheadúnaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Certain army pensions and allowances</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Pinsin agus liúntais arm ar leith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Payments made by the Health Service Executive to foster parents for the care of foster children</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Íocaíochtaí ó Fheidhmeannas na Seirbíse Sláinte chuig tuismitheoirí altrama do chúram pháistí altrama</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Some compensation payments under employment law</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Roinnt íocaíochtaí cúitimh faoi dhlí fostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Compensation for personal injury that prevents an individual from maintaining herself</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cúiteamh do dhíobháil phearsanta a chuireann cosc ar dhuine aonair é féin a chothabháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Income arising from the investment of such a payment is also exempt if it is the main source of income</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá ioncam a eascraíonn óna léitheid d’íocaíocht díolmhaithe chomh maith más é an phríomhfhoinse ioncaim atá ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Invalidity pension received as a result of the same injury is not included in assessing main income</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní áirítear pinsean easláine a fuarthas mar thoradh ar an díobháil chéanna i measúnú an phríomhioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are on low pay you may not be liable to pay any tax because your tax credits and reliefs are more than or equal to the amount of tax you are due to pay</seg></tuv>
+  <tuv xml:lang="ga"><seg>Díolúine ioncaim íseal  Tá díolúinte ó cháin ioncaim ar fáil má thiteann d’ioncam faoi leibhéal áirithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(There is no income tax exemption for low income earners under 65.)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá d’ioncam os cionn leibhéal áirithe d’fhéadfaí go mbainfeá leas as faoiseamh imeallach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are completely exempt from income tax if you are over 65 and your income is below certain limits</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tú díolmhaithe go hiomlán ó cháin ioncaim má tá d’ioncam faoi na teorainneacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Revenue provides information on Tax Exemption and Marginal Relief which details available exemption limits and tax relief</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh eolais le fáil ar an mbileog Tax Exemption and Marginal Relief (IT 8) (pdf) ó na Coimisinéirí Ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your income exceeds the limits for low income exemption, but is less than twice the amount of the limit then you can claim marginal relief</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má sháraíonn d’ioncam na teorainneacha do dhíolúine ioncaim íseal, ach gur lú ná dhá oiread méid na teorann í, is féidir leat faoiseamh imeallach a éiliú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under marginal relief, you are taxed only on the amount by which your income exceeds the limit, but a special tax rate of 40% applies to this amount</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi fhaoiseamh imeallach, gearrtar cáin ar an méid a sháraíonn an t-ioncam an teorann, ach tagann ráta speisialta de 40% i bhfeidhm ar an méid seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Cormac is 66 years of age and is married</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Cormac 66 bliain d’aois agus tá sé pósta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>His total income for 2016 was €40,000</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an t-ioncam iomlán atá aige do 2016 ná €40,000</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the usual method of calculating his tax liability it would be €2,560 but under marginal relief it would be €1,600</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoin ngnáthmhodh dá dhliteanas cánach a ríomh, ba €2,650 a bheadh i gceist ach faoi fhaoiseamh imeallach, bheadh €1,600 i gceist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the usual method the tax liability is calculated as follows:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoin ngnáthmhodh ríomhtar an dliteanas cánach mar a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The income is below the standard rate cut-off point so all of it is taxed at the standard rate of 20%</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an t-ioncam faoin scothphointe caighdeánach mar sin gearrtar cáin air ar fad agus an ráta caighdeánach de 20%</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>40,000 x 20% = €8,000 gross tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>40,000 x 20% = €8,000 ollcháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>His tax credits are:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad a chuid creidmheasanna cánacha ná:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The tax credits are subtracted from the gross tax to give the tax payable</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baintear na creidmheasanna cánacha ón ollcháin chun a cháin iníoctha a thabhairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under marginal relief the tax liability would be calculated as follows</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi fhaoiseamh imeallach ríomhfaí a dhliteanas cánach mar a leanas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Low income exemption limit: €36,000</seg></tuv>
+  <tuv xml:lang="ga"><seg>Teorainn díolúine ioncaim íseal: €36,000</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Gives €4,000 as the amount by which the income exceeds the limit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann sé €4,000 ar an méid a sháraíonn an t-ioncam an teorainn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Marginal relief restricts the tax payable to 40% of this</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cúngaíonn faoiseamh imeallach an cháin iníoctha ar 40% de seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>4,000 x 40% = €1,600</seg></tuv>
+  <tuv xml:lang="ga"><seg>4,000 x 40% = €1,600</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some work expenses can be deducted from your income before it is assessed for tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir roinnt costais oibre a asbhaint as d’ioncam sula ndéantar measúnú air do cháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To qualify, the expenses must be necessary in order to do your work and must have been spent entirely for that purpose and no other</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féach eolas na gCoimisinéirí Ioncaim do thuilleadh sonraí ar chostais ar féidir a asbhaint chúiseanna cánacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>See Revenue for more information on expenses that can be deducted for tax purposes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féach cásanna staidéir do shampla ar an gcaoi a infheidhmítear liúntais nuair a ríomhtar cáin ioncaim</seg></tuv>
+</tu>
+</body>
+</tmx>

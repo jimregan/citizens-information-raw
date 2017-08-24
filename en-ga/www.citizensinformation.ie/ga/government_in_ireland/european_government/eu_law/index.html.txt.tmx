@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>The fundamental laws of the European Union are set out in the Treaties</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá bundlíthe nó rialacha Aontas na hEorpa (AE) leagtha síos i gconarthaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Find out how the institutions of the EU also have the power to make new laws</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigh amach tuilleadh faoin chumhacht reachtaíochta nua ag institiúidí an AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Charter of Fundamental Rights</seg></tuv>
+  <tuv xml:lang="ga"><seg>An Chairt um Chearta Bunúsacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The civil, political, social and economic rights recognised by the European Union are listed in the Charter of Fundamental Rights</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar liosta de na cearta sibhialta, polaitiúla, sóisialta agus geilleagracha ar Chairt an Aontais Eorpaigh um Chearta Bunúsacha a aithníonn an tAontas Eorpach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Appealing rights under EU law</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cearta achomhairc faoi dlí na hEorpa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An outline of how your rights are safeguarded under EU law and the various European institutions involved</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cur síos ar an mbealach le cearta an duine a chosaint faoi dlí an AE agus na hinstitiúidí Eorpacha eagsúla a bhaineann leis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Solving problems accessing rights in other EU Member States</seg></tuv>
+  <tuv xml:lang="ga"><seg>Réiteach fadhbanna le rochtain ar chearta i mBallstáit eile den AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The SOLVIT service is an EU/EEA service that attempts to resolve problems faced by citizens and businesses caused by the misapplication of Internal Market law without the need for legal action</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an tseirbhís SOLVIT ina seirbhís de chuid an AE/Limistéar Eacnamaíochta na hEorpa a dhéanann iarracht na fadhbanna a bhíonn ag saoránaigh agus ag gnólachtaí ar mífheidhmiú dlí an Mhargaidh Inmheánaigh is cúis leo a réiteach gan caingean dlíthiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most Read in "Government in Ireland"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ábhar is mó éilimh i "Rialtas in Éirinn"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Fundamental Rights under the Irish Constitution</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bunchearta faoi Bhunreacht na hÉireann</seg></tuv>
+</tu>
+</body>
+</tmx>

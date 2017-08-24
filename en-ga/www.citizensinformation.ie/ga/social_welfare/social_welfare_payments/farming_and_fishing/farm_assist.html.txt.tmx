@@ -1,0 +1,285 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Farm Assist is a means-tested payment for low income farmers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocaíocht de réir tástála acmhainne d’fheirmeoirí ar ioncam íseal is ea Cúnamh Feirme</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To qualify for Farm Assist, you must be a farmer, farming land in the State, aged between 18 and 66 and satisfy a means test</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun a bheith i dteideal Cúnamh Feirme, ní mór duit a bheith id' fheirmeoir idir 18 agus 66 bliana d'aois agus scrúdú maoine a shásamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are considered a farmer if you farm land that you own or lease and that you use for the purpose of husbandry</seg></tuv>
+  <tuv xml:lang="ga"><seg>Measfar gur feirmeoir tú má dhéanann tú feirmeoireacht ar thalamh faoi do sheilbh nó atá ar léas agat agus a úsáideann tú chun críche fearachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Husbandry means working the land with the aim of taking produce from the land</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn fearachas a bheith ag obair ar an talamh agus é mar aidhm agat táirgí a bhaint as an talamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is a similar social welfare payment for fishermen and women called Fish Assist</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá íocaíocht leasa shóisialaigh comhchosúil d’iascairí ar a dtugtar Cúnamh Éisc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The means test takes account of virtually every form of income but assesses it in different ways and disregards various amounts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tógtar san áireamh beagnach gach cinéal ioncaim san scrúdú maoine ach áirítear é ar bhealaí éagsúla agus déantar neamháird de shuimeanna áirithe de</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Different rules apply to income from farming and other forms of self-employment, income from certain schemes such as the Rural Environmental Protection Scheme (REPS), income from employment and income from property and capital</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá rialacha ar leith ag baint le ioncaim ó fheirmeoireacht agus foirmeacha eile féin fhostaíocht, ioncaim ó scéimeanna áirithe, ioncam ó fhostaíocht agus ioncam ó shealúchas agus caipiteal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Since 8 March 2017, farm income and other income from off-farm self-employment will be assessed at 70% (down from 100%), with additional annual disregards of €254 for each of the first two children and €381 for the third and other children</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar d’ioncam ó fheirmeoireacht a mheasúnú mar ollioncam a bhfuil tú, do chéile, do pháirtí nó do chomhchónaitheoir ag súil a thuilleamh lúide na costais a thabhaíonn tú d’fhonn an t-ioncam sin a thuilleamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your income from the previous 12 months is used to assess your likely future earnings</seg></tuv>
+  <tuv xml:lang="ga"><seg>Úsáidtear d’ioncam ón 12 mí roimhe sin chun tuillimh fhéideartha sa todhchaí a mheasúnú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However it is not simply assumed that your previous year’s earnings will be repeated the following year as farmers can have significant variations in income from year to year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach ní mheastar áfach go mbeidh tuilleamh na bliana atá le teacht mar a chéile le tuilleamh na bliana seo caite mar bíonn éagsúlachtaí suntasacha ag baint le hioncam feirmeoirí ó bhliain go bliain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you apply for Farm Assist, a social welfare inspector will call to see you and ask to see various documents</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a dhéanann tú iarratas ar Cúnamh Feirme, tiocfaidh oifigeach leasa shóisialaigh chugat agus iarrfaidh sé/sí roinnt cáipéisí ort, mar shampla cuntaisí a réitíodh i gcomhair cúrsaí cánach, sochar uachtarlann, cártaí clárú beithigh, sonraí íocaíochtaí an cloigeann, cúnamh ceantair srl</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, accounts prepared for tax purposes, creamery returns, cattle registration cards, details of headage payments and area aid. They will also want information on the sale of crops, cattle, milk and other produce</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfaidh an toifigeach measúnú ansin ar na costaisí a bhíonn ar rith an fheirm, agus na costais riachtanacha, mar shampla cíos, anáidí, costas ionchur mar cothú agus leasú talún agus dímheas innill feirme</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Labour costs are taken into account, with the exception of the labour of the farmer and their spouse, civil partner or cohabitant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tógtar costas oibre san áireamh, seachas obair an fheirmeora agus céile/páirtnéir sibhialta/comhchónaitheoir an fheirmeora</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are entitled to receive a copy of this farm income calculation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an feirmeoir i dteideal cóip den mheasúnú ioncam feirme a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Other income from self-employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ioncam eile ó fhéinfhostaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you or your spouse, cohabitant or civil partner has other income from self-employment, this is also assessed, taking into account the costs incurred in the business</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá ioncam eile agat nó ag do chéile, do chomhchónaitheoir nó do pháirtí sibhialta ó fhéinfhostaíocht, déantar é sin a mheas chomh maith, ag tógáil san áireamh na costais arna tabhú sa ghnó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The income from farming and other forms of self-employment is added together and the costs involved are deducted</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirtear t-ioncam ó fheirmeoireacht agus ó fhoirmeacha eile féinfhostaíochta le chéile agus baintear as na costais a bhíonn i gceist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>From 3 April 2013 100% of your means from self-employment (with no disregards for dependent children) are assessed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ón 3 Aibreán 2013 déantar measúnú ar 100% de d’acmhainní ó fhéinfhostaíocht (gan aon neamhaird i leith cleithiúnaithe)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may be liable to pay Class S contributions on your income from self-employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfá a bheith faoi dhliteanas rannaíochtaí Aicme S a íoc ar d’ioncam ó fhéinfhostaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>REPS, AEOS, SACS and GLAS</seg></tuv>
+  <tuv xml:lang="ga"><seg>REPS, AEOS agus SACS</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some but not all of the payments received under the Rural Environmental Protection Scheme (REPS), the Agri-Environmental Options Scheme (AEOS) or the Special Area of Conservation (SAC) scheme are assessed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áirítear cuid de na híocaíochtaí a fhaightear faoin Scéim Cosanta Timpeallachta Tuaithe (REPS) nó an sceim Ceantar Speisealta Caomhnúchán (SAC) ach ní iad ar fad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The first €2,540 per year of payments is disregarded</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Déantar neamháird den chéad €2,540 sa mbliain de na híocaíochtaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• 50% of the balance is also disregarded</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Déantar neamháird de 50% leath den fhuíollach freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Expenses incurred in complying with REPS, AEOS or SAC measures are deducted</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Déantar asbhaint ar chostais a bhíonn ort chun go gcloífidh tú le céimeanna REPS/SAC</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The balance is assessed as means</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Áirítear an fuíollach mar mhaoin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Payments under the new Green Low-Carbon Agri-Environment Scheme (GLAS) are treated in the same way and the same disregards apply</seg></tuv>
+  <tuv xml:lang="ga"><seg>Pléitear le h-iocaíochtaí faoin Scéim Ghlas ar Bheagán Carbóin do Chomhshaol na Talmhaíochta (GLAS) ar an mbealach céanna agus déantar na neamháird chéanna orthu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Income from leasing of land</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ioncam ó léasadh cuóta bainne nó talamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have leased part of your land, the income from the leasing is assessed in full</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá do chuóta bainne ligthe ar léas agat, áirítear iomlán an ioncam ón léasadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is not included in the assessment of income from farming as described above</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní áirítear é i measúnú ioncaim feirme mar a deirtear thuas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have leased all of your land, you are not eligible for Farm Assist</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an rud céanna a bhaineann le ioncaim ó léasadh an talamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your income from a job is assessed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar d’ioncam ó phost a mheasúnú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your assessable weekly earnings (gross income less PRSI, union dues and superannuation fees) are usually assessed on the basis of the 13 weeks before you claim</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar do thuilleamh seachtainiúil inmheasúnaithe (ollioncam lúide ÁSPC, táillí ceardchumainn agus táillí aoisliúntais) a mheasúnú de ghnáth ar bhonn na 13 seachtaine roimh d’éileamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Not all of your income is taken into account</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní thógtar d’ioncam iomlán san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>€20 per day (up to a maximum of €60) is deducted from your assessable weekly earnings and then 60% of the balance is assessed as weekly means</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baintear €20 in aghaidh an lae (suas go huasmhéid €60) as do thuilleamh seachtainiúil inmheasúnaithe agus ansin déantar 60% den iarmhéid a mheasúnú mar acmhainn sheachtainiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Any income from an occupational pension is assessed in full</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar aon ioncam ó phinsean ceirde a mheasúnú ina iomláine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have seasonal work you are assessed on your earnings only during the period you are actually working</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhíonn obair shéasúrach agat ní dhéantar tú a mheasúnú ach amháin ar do thuilleamh i rith na tréimhse sin ina raibh tú ag obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your spouse, civil partner or cohabitant's income from employment is assessed in the same way (€20 per day with a maximum of €60 is deducted and 60% of the balance is assessed as weekly means)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar ioncam ó fhostaíocht do chéile, do pháirtí sibhialta nó do chomhchónaitheora ar an mbealach céanna (baintear €20 in aghaidh an lae le huasmhéid €60 as agus déantar 60% den iarmhéid a mheasúnú mar acmhainn sheachtainiúil)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>People who were getting Farm Assist before 26 September 2007 and who were still in payment on 26 September 2007 may be assessed differently</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfaí daoine a bhí ag fáil Chúnamh Feirme roimh an 26 Meán Fómhair 2007 agus fós ag fáil íocaíochta an 26 Meán Fómhair 2007 a mheasúnú ar bhealach éagsúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Income from capital includes property, savings and investments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuimsíonn ioncam ó chaipiteal maoin, coigiltis agus infheistíochtaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you own property that you are not personally using or you have investments or any other form of capital, the value is assessed, using a special formula</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá maoin agat nach bhfuil a húsáid agat go pearsanta nó má tá infheistíochtaí nó aon chineál caipitil eile agat, déantar an luach a mheasúnú, ag baint úsáide as foirmle speisialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may or may not be getting an income from the property or investment</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh sé go mbeadh nó nach mbeadh ioncam á fháil agat ón maoin nó ón infheistíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The value of capital is assessed as follows:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar an caipital a mheas mar a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The first €20,000 of the capital is disregarded</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní thógtar an chéad €20,000 san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• €20,000 to €30,000 is assessed at €1 for every €1,000</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sé luach an chaipiteal idir €20,000 agus €30,000 ná €1 sa tseachtain do gach €1000</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Next €10,000 is assessed at €2 per €1,000</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sé luach an chaipiteal idir €30,000 euro agus €40,000 ná €2 do gach €1000</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Excess of €40,000 is assessed at €4 per €1,000</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Luach an chaipiteal nios mó €40,000 ná €4 do gach €1000</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The assessment only applies to units of €1,000</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhaineann an measúnú nua sin ach le haonaid €1,000</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Therefore all amounts should be rounded down to the nearest €1,000</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin ba cheart gach méid a shlánú go dtí an €1,000 is gaire</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example if you have €38,400 in the bank, the first €20,000 is disregarded, €10,000 is assessed at €1 per €1,000, which is €10 and the remaining €8,000 is assessed at €2 per €1,000, which is €16 per week</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla má tá €38,4000 sa bhanc, déantar neamhaird den chéad €20,000, déantar €10,000 a mheasúnú ag €1 in aghaidh €1,000, is é sin le rá €10 agus déantar an €8,000 eile a mheasúnú ag €2 in aghaidh €1,000, sin €16 in aghaidh na seachtaine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>So your income from capital is €26 per week</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin is é d’ioncam ó chaipiteal ná €26 in aghaidh na seachtaine nó €1,352 in aghaidh na bliana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Property you do not use</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sealúchas nach mbaineann tú úsáid as</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you don't use your farm and as a result have no income from it, an assessment of its value to you is still made</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna mbaineann tú úsáid as do fheirm agus dá bharr seo nach bhfuil aon ioncam agat as, déantar measúnú ar a luach mar sin féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The farm is effectively treated as capital</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tógtar san áireamh an feirm mar chaipiteal agus déantar measúnú air mar a léirítear thuas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your home is not taken into account in the means test unless you get an income from it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní thógtar do theach san áireamh muna bhfaigheann tú ioncam uaidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your means from all sources are added together to get a total weekly means</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar do chuid acmhainní ó gach foinse a shuimiú le chéile chun acmhainní seachtainiúla iomlána a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will be paid the difference between your total assessed weekly means and the maximum rate of Farm Assist that you could get if you had no means (including increases for adult and child dependants)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocfar an difríocht idir d’acmhainní seachtainiúla iomlána agus an uasráta Chúnamh Feirme a d’fhéadfá a fháil mura mbeadh aon acmhainní agat (lena n-áirítear méaduithe maidir le daoine fásta agus leanaí cleithiúnacha)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Weekly rates in 2016 and up to 8 March 2017</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ráta seachtainiúil (ó 8 Márta 2017)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Personal rate │€193.00 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Uasráta phearsanta │€193.00 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Qualified adult │€128.10 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Méadú Duine Fásta Cáilithe │€128.10 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Qualified child │€29.80 (full-rate), €14.90 │ │dependant │(half-rate) │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Gach Cleithiúnaí Linbh │€29.80 (Ráta iomlán) €14.90 (Leath ráta) │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An increase is payable for each child dependant if you are getting an increase for a qualified adult</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gheobhaidh tú an ráta iomlán Méadú Cleithiúnaí Linbh má fhaigheann tú Méadú Duine Fásta Cáilithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you do not qualify for an increase for a qualified adult, you may get a half-rate increase for a qualified child dependant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhfaighidh tú ach leath an ráta Méadú do Chleithiúnaí Linbh mura gcáilíonn tú Méadú Duine Fásta Cáilithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Download and complete form Farm 1 (pdf) and return this form to your local Intreo centre or social welfare office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íoslódáil foirm feirm 1 (pdf) agus seol an fhoirm chomhlánaithe chuig d'oifig áitiúil leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can appeal a decision if you are unhappy with it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat athchomharc a dhéanamh i gcoinne cinneadh muna bhfuil tú sásta leis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should appeal with 21 days of the decision and you can ask for an oral hearing</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart duit athchomharc a dhéanamh taobh istigh de 21 lá den chinneadh agus is féidir leat éisteacht labhartha a iarradh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An appeals officer, whose decision is final, will then hear your case</seg></tuv>
+  <tuv xml:lang="ga"><seg>Éistfidh Oifigeach Athchomhairce do chás ansin, agus tá an cinneadh deireanach aige/ aici sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If new information comes to light or your circumstances change, you can apply for Farm Assist again</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má thagann eolas nua chun cinn nó má athraíonn do chúinsí pearsanta, is féidir leat cur isteach ar Chúnamh Feirme arís</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have further questions about Farm Assist contact your Intreo Centre or local Social Welfare Branch Office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóír duit aon cheist maidir le Cúnamh Feirme a chur ar d'oifig áitiúil leasa shóisialaigh</seg></tuv>
+</tu>
+</body>
+</tmx>

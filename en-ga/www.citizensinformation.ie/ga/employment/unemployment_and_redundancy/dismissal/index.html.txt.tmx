@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>This describes how employees are protected under the unfairs dismissals legislation: who is covered, who is excluded and how to make a claim for unfair dismissal</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirtear síos conas atá fostaithe cosanta faoin reachtaíocht um dhífhostú éagórach: cé atá clúdaithe, cé atá eisiata agus conas éileamh a dhéanamh ar dhífhostú éagórach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you leave your employment because of your employer's behaviour you may be able to claim constructive dismissal</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhágann tú d'fhostaíocht mar gheall ar iompar d'fhostóra, tá seans maith ann go mbeidh tú in ann éileamh a dhéanamh ar son dífhostaithe inchiallaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Fair grounds for dismissal</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cúiseanna maithe le dífhostú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In most cases a dismissal is presumed to be unfair unless the employer can show that there were fair grounds for the dismissal</seg></tuv>
+  <tuv xml:lang="ga"><seg>Don chuid is mó cásanna, meastar dífhostú a bheith éagóir mura bhfuil an fostóir in ann a thaispeáint go raibh cúiseanna maithe leis an dífhostú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most Read in "Employment"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ábhar is mó éilimh i "Fostaíocht"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Rest periods and breaks</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tréimhsí sosa agus sosanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Tax and starting work - PAYE</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gnó a chur ar bun</seg></tuv>
+</tu>
+</body>
+</tmx>

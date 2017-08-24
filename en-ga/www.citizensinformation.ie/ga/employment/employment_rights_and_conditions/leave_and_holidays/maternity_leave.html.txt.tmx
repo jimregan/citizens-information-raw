@@ -1,0 +1,405 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>If you become pregnant while in employment, you are entitled to take maternity leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má éiríonn tú torrach agus tú i bhfostaíocht, bíonn tú i dteideal saoire mháithreachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The entitlement to a basic period of maternity leave from employment extends to all female employees (including casual workers), regardless of how long you have been working for the organisation or the number of hours worked per week</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá gach bean i bhfostaíocht i dteideal saoire mháithreachais bhunúsach a thógáil (lena n-airítear oibrithe ócáideacha), ar neamhchead don méid ama a caitheadh ag obair don chomhlacht nó an méid uaireanta a oibrítear in aghaidh na seachtaine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can also avail of additional unpaid maternity leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat saoire bhreise mháithreachais neamhíoctha a thógáil chomh maith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Maternity Protection Acts 1994 and 2004 provide your statutory minimum entitlements in relation to maternity at work including maternity leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagtar amach do theidlíochtaí reachtúla bunúsacha maidir le máithreachas san áit oibre, lena n-airítear saoire mháithreachais, sna hAchtanna um Chosaint Mháithreachais 1994 agus 2004</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are entitled to 26 weeks’ maternity leave together with 16 weeks additional unpaid maternity leave, which begins immediately after the end of maternity leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tú i dteideal 26 seachtain a chaitheamh ar shaoire mháithreachais, chomh maith le 16 seachtain ar shaoire bhreise mháithreachais neamhíoctha a thosaíonn díreach i ndiaidh críocha do shaoire mháithreachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the Maternity Protection (Amendment) Act 2004 at least 2 weeks have to be taken before the end of the week of your baby's expected birth and at least 4 weeks after</seg></tuv>
+  <tuv xml:lang="ga"><seg>De réir an Achta um Chosaint Mháithreachais 2004 (Leasú), bíonn ar mhná 2 sheachtain a chaitheamh ar shaoire mháithreachais roimh deireadh na seachtaine ina shaolófar a leanbh agus ar feadh 4 seachtaine ar a laghadh i ndiaidh na breithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can decide how you would like to take the remaining weeks</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat féin na seachtainí breise a thógáil mar is mian leat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Generally, employees take 2 weeks before the birth and the remaining weeks after</seg></tuv>
+  <tuv xml:lang="ga"><seg>De ghnáth, caitheann fostaithe 2 sheachtain ar shaoire mháithreachais roimh an bhreith agus tógann siad na seachtainí breise i ndiaidh na breithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you qualify for Maternity Benefit (see below) at least 2 and no more than 16 weeks must be taken before the end of the week the baby is due</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bíonn tú cáilithe i gcomhair Sochar Máithreachais (féach thíos) caithfidh tú sos 2 sheachtaine ar a laghad agus 16 seachtaine ar a mhéid a ghlacadh roimh dheireadh na seachtaine ina bhfuiltear ag súil leis an leanbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Payment during maternity leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocaíochtaí le linn saoire mháithreachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your entitlement to pay and superannuation during maternity leave depends on the terms of your contract of employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íoctar tuarastal agus aoisliúntas duit le linn do shaoire mháithreachais de réir téarmaí do chonartha fostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Employers are not obliged to pay women who are on maternity leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl ar fhostóirí tuarastal a íocadh do mhná ar shaoire mháithreachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may qualify for Maternity Benefit from the Department of Social Protection if you have sufficient PRSI contributions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má d’íoc tú a dhóthain ranníocaíochtaí ÁSPC, d’fhéadfá Sochar Máithreachais a fháil ón Roinn Coimirce Sóisialaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However an employee’s contract could provide for additional rights to payment during the leave period, so that, for example, the employee could receive full pay less the amount of Maternity Benefit payable</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart a leagadh amach i gconradh an fhostaí gur féidir le máthair nua íocaíochtaí a fháil le linn a saoire mháithreachais. Mar sin de, gheobhaidh an fostaí a tuarastal iomlán lúide a íocaíocht Sochair Mháithreachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are also entitled to take up to a further 16 weeks’ additional maternity leave which begins immediately after the end of maternity leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh mná i dteideal 16 seachtaine breise a chaitheamh ar shaoire bhreise mháithreachais a thosaíonn díreach i ndiaidh críocha saoire mháithreachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This period is not covered by Maternity Benefit, nor is your employer obliged, unless otherwise agreed, to make any payment during this period - see below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, níl ar d’fhostóir do thuarastal a íocadh le linn na tréimhse seo, ach amháin nuair a leagtar amach a leithéid roimh ré</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you become ill while you are on additional maternity leave you may ask your employer if you may end the additional maternity leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú tinn le linn do shaoire bhreise mháithreachais neamhíoctha is féidir leat iarraigh ar d’fhostóir chun críoch a chur ar do shaoire bhreise mháithreachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your employer agrees you will not be entitled to the remainder of the maternity leave but will be treated as being on sick leave and you may be entitled to Illness Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má aontaíonn d’fhostóir, ní bheidh tú i dteideal an fuílleach na saoire máithreachais. Beidh tú ar shaoire breoiteachta agus b'fheidir i dteideal Sochar Breoiteachta a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Public holidays and annual leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>Laethanta saoire poiblí agus saoire bhliantúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are entitled to leave for any public holidays that occur during your maternity leave (including additional maternity leave)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tú i dteideal saoire do laethanta saoire poiblí a dtiteann le linn do shaoire mháithreachais (lena n-airítear saoire bhreise mháithreachais)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The right of employees to leave for public holidays is set down in Section 21 of the Organisation of Working Time Act 1997</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagtar amach cearta an fhostaí maidir le laethanta saoire poiblí in Alt 21 den Acht um Eagraí Ama Oibre, 1997</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have a stillbirth or miscarriage any time after the 24th week of pregnancy, you are entitled to full maternity leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhíonn marbh-bhreith nó breith anabaí agat i ndiaidh na 24ú seachtaine, tá tú i dteideal saoire mháithreachais iomlán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means a basic period of 26 weeks and 16 weeks of additional maternity leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ón 1 Márta 2007 ar aghaidh, beidh mná in ann 26 seachtaine a chaitheamh ar shaoire mháithreachais, chomh maith le 16 seachtaine a chaitheamh ar shaoire bhreise mháithreachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have satisfied the PRSI requirements, Maternity Benefit is payable for the 26 weeks of the basic maternity leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má comhlíonann tú na ceanglais ÁSPC, gheobhaidh tú Sochar Máithreachais ar feadh 26 seachtaine agus tú ar shaoire mháithreachais bhunúsach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To apply for Maternity Benefit following a stillbirth, you need to send a letter from your doctor with the Maternity Benefit application form, confirming the expected date of birth, the actual date of birth and the number of weeks of pregnancy</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun iarratas a chur isteach ar Shochar Máithreachais i ndiaidh marbh-bhreithe, bíonn ort litir ó do dhochtúir a sheoladh isteach, maraon le foirm Shochair Mháithreachaism, leis an faisnéis seo a leanas; an data dlite ionchais, an dáta breithe iarbhír agus an méid seachtainí a chaith tú ag iompar clainne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Health and safety leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>Saoire sláinte agus sábháilteachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An employer should carry out separate risk assessments in relation to pregnant employees and those who have recently given birth or are breastfeeding</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart d’fhostóirí measúnú priacail ar leith a dhéanamh maidir le fostaithe torracha nó mná a saolaíodh leanbh dóibh le déanaí anuas nó mná atá ag tabhairt an chíoch dá leanbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If there are particular risks, these should be either removed or the employee moved away from them</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a bhíonn priacail áirithe i gceist, ba cheart na priacail seo a aistriú nó an fostaí a chur ag obair in áit eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If neither of these options is possible, the employee should be given health and safety leave from work which may continue up to the beginning of maternity leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura féidir é seo a dhéanamh, ba cheart an fostaí a scaoileadh abhaile ar saoire sláinte agus sábháilteachta agus is féidir í a leanúint go dtí tosú saoire mháithreachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>During health and safety leave, employers must pay employees their normal wages for the first 3 weeks as set out in the Maternity Protection (Health and Safety Leave Remuneration) Regulations, SI 20/1995</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a bhíonn fostaí ar saoire sláinte agus sábháilteachta, ba cheart a ghnáthtuarastal a thabhairt dóibh ar feadh an chéad 3 seachtaine mar a leagtar síos sna Rialacháin um Chosaint Mháithreachais (Luach Saothair Saoire Sláinte agus Sábháilteachta), IR 20/1995</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>After this, Health and Safety Benefit may be paid</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina dhiaidh sin, íoctar Sochar Sláinte agus Sábháilteachta dóibh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Health and Safety Authority website has a list of Pregnant at Work FAQs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá liosta úsáideach ar fail ón Údatás Sláinte agus Sábháilteachta de CCanna Mná Torracha san Áit Oibre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Father's entitlement to maternity leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>Aithreacha i dteideal saoire mháithreachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Fathers are entitled to maternity leave if the mother dies within 40 weeks of the birth</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá aithreacha i dteideal saoire mháithreachais nuair a fhaigheann an mháthair bás laistigh de 40 seachtaine i ndiaidh na breithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In these circumstances, the father is entitled to a period of leave, the extent of which depends on the actual date of the mother’s death</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás seo, d’fhéadfadh an t-athair saoire oibre a thógáil. Bunaítear an méid ama a fhaigheann sé ar an dáta a fuair an mháthair bás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the mother dies within 24 weeks of the birth he has an optional right to the additional maternity leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhaigheann an mháthair bás laistigh de 24 seachtaine i ndiaidh na breithe, tá an ceart aige freisin saoire bhreise mháithreachais a thógáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the mother's death is over 24 weeks after the birth, the father is entitled to leave until 40 weeks after the birth</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhaigheann an mháthair bás níos mó ná 24 seachtaine i ndiaidh na breithe, tá an athair i dteideal saoire suas go 40 seachtaine i ndiaidh na breithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The leave starts within 7 days of the mother's death</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tosaíonn an tsaoire laistigh de 7 lá i ndiaidh an bháis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>New parents (other than the mother of the child) can get 2 weeks’ statutory paternity leave from employment or self-employment following the birth or adoption of a child on or after 1 September 2016</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuismitheoirí nua (seachas máthair an linbh) i dteideal 2 seachtain saoire atharthachta reachtúil ó fhostaíocht nó féinfhostaíocht tar éis breithe nó uchtaithe linbh ar nó ón 1 Mheán Fómhair 2016</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Section 7 of the Maternity Protection (Amendment) Act 2004 provides for postponement of maternity leave in strict circumstances, that is, if your baby is hospitalised</seg></tuv>
+  <tuv xml:lang="ga"><seg>Forálann Alt 7 den Acht um Chosaint Mháithreachais 2004 (Leasú) do shaoire máithreachais a chur ar atráth i gcásanna fíor-speisialta, mar shampla, má bhíonn ar do leanbh tréimhse ama a chaitheamh san ospidéal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This right to postpone leave applies whether you are on maternity leave, or on additional unpaid maternity leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadtar é seo a dhéanamh ar shaoire mháithreachais nó ar shaoire bhreise mháithreachais neamhíoctha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Note, your employer has the right to refuse your application to postpone your maternity leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabhair faoi deara le do thoil gur féidir le d’fhostóir d’iarratas ar saoire mháithreachais iarchurtha a dhiúltú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are details about postponing maternity leave in 'Further information' below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léigh 'Tuilleadh eolais' thíos chun sonraí breise a fháil ar conas do shaoire mháithreachais a chur ar atráth</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under Section 26 of the Maternity Protection Act 1994 you are entitled to return to work to the same job with the same contract of employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>De réir Alt 26 don Acht um Chosaint Mháithreachais 1994, tá tú i dteideal filleadh ar an obair céanna le conradh fostaíochta céanna i ndiaidh do shaoire mháithreachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Section 27 of the Act states that if it is not reasonably practicable for your employer to allow you to return to your job, then they must provide you with suitable alternative work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sonraítear san Alt 27 don Acht go gcaithfidh d’fhostóir post oiriúnach eile a sholáthar duit, nuair nach féidir leo an post céanna a thabhairt duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This new position should not be on terms substantially less favourable than those of your previous job</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart go mbeadh na téarmaí céanna ag baint leis an bpost nua is a bhaineann le do shean-phost</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Otherwise, you are entitled to be treated as if you had been at work during your maternity leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar chaoi eile, tá tú i dteideal na coinníollacha céanna a fháil is a bhíonn ar fáil agat nuair is gnáthoibrí thú gan leanbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your employment conditions cannot be worsened by the fact that you have taken maternity leave, and if pay or other conditions have improved while you have been on maternity leave then you are entitled to these benefits when you return to work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní fhéadtar téarmaí oibre níos measa a chur ar fáil duit nuair a fhilleann tú ar an obair i ndiaidh saoire mháithreachais. Má thagann feabhas ar phá nó ar choinníollacha eile le linn do thréimhse mháithreachais, tá tú i dteideal na sochair seo nuair a fhilleann tú ar an obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>PRSI contributions: you will automatically be awarded PRSI credits while you are getting Maternity Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Creidmheasanna ÁSPC: Faigheann tú creidmheasanna go huathoibríoch má bhíonn tú ag fáil Sochar Máithreachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you avail of unpaid additional maternity leave you must get your employer to complete an application form for maternity leave credits (pdf) after you return to work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhaineann tú úsáid as saoire máithreachais breise neamhíoctha caithfidh tú a iarraidh ar d’fhostaitheoir an fhoirm iarratais ar chreidmheasanna saoire máithreachais (pdf) a líonadh i ndiaidh duit filleadh ar obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are breastfeeding you may be entitled to some time off or a reduction in hours without loss of pay for up to 26 weeks after the birth</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a bhíonn tú ag tabhairt an chíoch dodo leanbh, féadfá a bheith i dteideal am soar a thógáil ón obair nó laghdú uaireanta oibre a thógáil ar feadh 26 seachtaine nó níos lú i ndiaidh na breithe, gan glacadh le laghdú pá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you decide not to return to work after your period of maternity leave, you are required to give your employer notice in the usual manner</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bheartaíonn tú fanacht sa bhaile i ndiaidh do shaoire mháithreachais, ní mór duit é seo a chur in iúl dod’fhostóir mar is gnách</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are protected against unfair dismissal for claiming your rights under maternity protection legislation - see 'How to apply' below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéanann tú do theidlíocht ar do chearta a lorg tá tú á chosaint ó dífhostú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Once your pregnancy is confirmed you may take reasonable time off for medical visits connected with the pregnancy. There is no maximum or minimum amount of time off specified for these visits</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a bhfuil tú cinnte dearfa de go bhfuil tú ag iompar clainne, is féidir leat am saor réasúnach a thógáil ón obair chun freastal ar chuairteanna leighis a bhaineann le do thoircheas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Rather, you are entitled to as much time off as is necessary to attend each visit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl teorainneacha ar bith leagtha amach don méid ama saor gur féidir leat a thógáil do na cuairteanna seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This includes the time required to travel to and from the appointment and the time taken for the appointment itself</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach tá tú i dteideal an méid ama atá uait chun freastal ar na cuairteanna seo a thógáil saor ón obair, (lena n-airítear an méid ama a chaitheann tú ag taisteal go dtí an coinne agus abhaile arís agus an méid ama a thógann an choinne féin)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will need to provide your employer with medical evidence confirming the pregnancy, giving 2 weeks’ notice of your medical visits</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh ort teastas dochtúra a thabhairt dod’fhostóir, a thaispeánann go bhfuil tú ag iompar clainne, agus ní mór duit é a chur in iúl dó/di 2 sheachtain roimh ré nuair a bhíonn coinne leighis agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should show your appointment card if requested by your employer at any time after your first appointment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir duit do chárta coinne a thaispeáint dod’fhostóir nuair a chuireann sé/sí ceist ort, i ndiaidh do chéad choinne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may also take time off for medical visits after the birth for up to 14 weeks following the birth</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, bíonn ort a bheith in ann am saor a thógáil ón obair chun freastal ar chuairteanna leighis i ndiaidh breithe do leanbh, agus suas le 14 seachtaine ina dhiaidh sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are entitled to be paid while keeping these medical appointments both before and after the birth</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tú i dteideal do pá iomlán a fháil agus tú ag freastal ar na gcoinní seo, roimh agus i ndiaidh na breithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may also be entitled to take paid time off to attend some ante-natal classes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadtar am saor íoctha a thógáil freisin chun freastal ar ranganna réamhbhreithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your entitlement is for one set of ante-natal classes except for the last 3 classes of the set</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tú i dteideal chun freastal ar sraith ranganna réamhbhreithe, ach amháin na 3 ranganna is déanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Fathers are entitled to paid time off to attend the last 2 classes in the set of ante-natal classes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá aithreacha i dteideal am saor íochtha a thógáil freisin chun freastal ar na 2 ranganna is deanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Notice: You must give your employer at least 4 weeks' written notice of your intention to take maternity leave and you must also provide your employer with a medical certificate confirming your pregnancy</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fógra: Ní mór duit a chur in iúl do d’fhostóir i scríbhinn 4 seachtaine ar a laghad roimh ré, gur mhaith leat saoire mháithreachais a thógáil. Ina theannta sin, ní mór duit teastas dochtúra a thabhairt dóibh, a thaispeánann go bhfuil tú ag iompar clainne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you intend to take the additional 16 weeks’ maternity leave you must provide your employer with at least 4 weeks' written notice</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá sé ar intinn agat saoire bhreise mháithreachais de 16 seachtaine a thógáil, ní mór duit é seo a chur in iúl dod’fhostóir i scríbhinn 4 seachtaine ar a laghad roimh ré</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Both these notices can be given at the same time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadtar na fógraí seo a sheoladh isteach ag an am céanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Early birth: If your baby is born more than 4 weeks before your due date, you will have fulfilled the notice requirements if you give your employer written notice within 14 days of the birth</seg></tuv>
+  <tuv xml:lang="ga"><seg>Luath-breith: Má tá an breith 4 seachtaine nó níos mó roimh dheireadh na seachtaine ina bhfuiltear ag súil leis an leanbh, agus má thugann tú fógra scríofa do d’fhostóir 14 lá nó níos lú tar éis an breith beidh na riachtanais fhógra comhlánaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Medical certification: Section 11 of the Maternity Protection Act 1994 provides that if you are certified by your doctor as needing to start maternity leave for medical reasons, your maternity leave will start on the earlier date as specified on the medical certificate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fáthanna leighis: Forálann Alt 11 d’Acht um Chosaint Máithreachais 94 go gcuirfear tús le do shaoire mháithreachais ar an dáta níos luaithe de réir mar a shonraítear ar an teastas dochtúra má tá tú teistithe ag do dhochtúir go bhfuil saoire mháithreachais de dhíth ort mar gheall ar fháthanna leighis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In this case you are considered to have complied with the notice requirements</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sá chás seo glachtar leis gur chomhlíonaigh tú leis na riachtanais fhógra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Return to work: You must give your employer at least 4 weeks' written notice of your intention to return to work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Filleadh ar an obair: Ní mór duit é a chur in iúl dod’fhostóir i scríbhinn 4 seachtaine ar a laghad roimh ré, gur mhaith leat filleadh ar an obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is important to comply with these notice requirements, as failure to do so may cause loss of rights</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is rud fíor-riachtanach é na ceanglais fógra seo a chomhlíonadh. Mura ndéantar é seo, d’fhéadfá do chearta a chailliúint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must notify your employer as soon as possible if you wish to postpone your maternity leave (but remember, your employer can refuse this application)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit é a chur in iúl dod’fhostóir chomh luath agus is féidir, go dteastaíonn uait do shaoire mháithreachais a chur ar atráth (ná dean dearmad, áfach, gur féidir le d’fhostóir d’iarratas a dhiúltú)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should apply to your employer in writing to take maternity leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart duit iarratas a chur isteach ar shaoire mháithreachais chuig d’fhostóir i scríbhinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you need further information about maternity leave you should contact the Workplace Relations Commission's Information and Customer Service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má theastaíonn a thuilleadh faisnéise uait ar shaoire mháithreachais, ba cheart duit teagmháil a dhéanamh leis an tSeirbhís Fhaisnéise agus Custaiméara an Choimisiúin um Chaidreamh san Áit Oibre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can read more information in the booklet, Your Maternity Leave Rights Explained (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá bileog maidir le do chearta ar shaoire mháithreachais (pdf) ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have a dispute with your employer about maternity leave or if you have been dismissed due to a matter connected with your pregnancy or for claiming your rights under maternity leave legislation, you may make a complaint within 6 months of the dispute or complaint occurring</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhíonn conspóid á dhéanamh agat le d’fhostóir i dtaobh saoire mháithreachais, nó má dhífhostaítear tú toisc ní ag baint le do thoircheas nó toisc ag baint leasa as do chearta faoin reachtaíocht saoire mháithreachais, is féidir leat gearán a dhéanamhlaistigh de 6 mhí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must use the online complaint form available on workplacerelations.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh tú an fhoirm ghearáin ar líne nua a úsáid á fáil ar workplacerelations.ie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The time limit may be extended for up to a further 6 months, but only where there is a reasonable cause which prevented the complaint being brought within the normal time limit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir síneadh ama 6 mhí eile a thabhairt duit ach ní dhéanfar é sin mura bhfuil cúinsí réasúnacha ann a chuir cosc ort an gearán a dhéanamh laistigh den gnáth-thréimhse ama</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>At least 6 weeks before your baby's due date you should apply to the Maternity Benefit Section of the Department of Social Protection for Maternity Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart duit iarratas a chur isteach ar Shochar Máithreachais chuig an Rannóg Shochair Mháithreachais, An Roinn Coimirce Sóisialaí, 6 seachtaine ar a laghad roimh an dáta dlite</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Information and Customer Service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seirbhíse Faisnéise agus Custaiméara</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Opening Hours: Mon. to Fri. 9.30am to 5pm</seg></tuv>
+  <tuv xml:lang="ga"><seg>Uaireanta Oscailte:Luan go hAoine 9.30rn go 5in</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Tel: (059) 917 8990</seg></tuv>
+  <tuv xml:lang="ga"><seg>Teil: (059) 917 8990</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Locall: 1890 80 80 90</seg></tuv>
+  <tuv xml:lang="ga"><seg>Lóghlao: 1890 80 80 90</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Section 7 of the Maternity Protection (Amendment) Act 2004 provides for postponement of maternity leave which applies whether you are on maternity leave, or on additional unpaid maternity leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá foráil in Alt 7 den Acht um Chosaint Mháithreachais (Leasú) 1994 chun saoire mháithreachais a chur siar agus baineann sé seo le duine atá ar saoire mháithreachais, nó ar saoire mháithreachais bhreise gan phá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The maximum amount of time the leave can be postponed is six months</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é sé mhí an tréimhse is faide ar féidir saoire mháithreachais a chur siar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Note, your employer has the right to refuse your application to postpone your maternity leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabhair faoi ndeara go bhfuil sé de cheart ag d’fhostóir diúltú do d’iarratas chun do shaoire mháithreachais a chur siar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may only request that your maternity leave be postponed once you have taken at least 14 weeks' maternity leave, 4 of which must have been taken after the birth</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leat a iarraidh go gcuirfí siar do shaoire mháithreachais go dtí go mbíonn 14 sheachtain ar a laghad de do shaoire mháithreachais tógtha agat, agus ní mór duit 4 cinn acu siúd a bheith tógtha agat tar éis breith do linbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(This provision does not apply to fathers who are on maternity leave)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Ní bhaineann an fhoráil seo le haithreacha atá ar saoire mháithreachais)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you postpone your maternity leave and return to work, then you may take your leave in one block, not later than 7 days after the child has been discharged from hospital</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chuireann tú do shaoire mháithreachais siar, agus má fhilleann tú ar do chuid oibre, féadfaidh tú do shaoire go léir a ghlacadh le chéile ag tosú tráth nach déanaí ná 7 lá ón am a scaoiltear do leanbh amach as an ospidéal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your employer may request a letter from the hospital confirming the child has been hospitalised and following discharge, a letter confirming the date of discharge</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh d’fhostóir litir a iarraidh ón ospidéal ag dearbhú gur coinníodh do leanbh san ospidéal agus litir eile ina dhiaidh sin ag dearbhú an dáta ar ligeadh amach é nó í</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you postpone your maternity leave and return to employment, you need to notify the Department of Social Protection of this</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chuireann tú do shaoire mháithreachais siar agus má fhilleann tú ar d’fhostaíocht, ní mór duit é sin a chur in iúl don Roinn Coimirce Sóisialaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must notify them in writing that your child has been hospitalised and you have returned to employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh tú a insint dóibh i scríbhinn gur coinníodh do leanbh san ospidéal agus gur fhill tú ar do chuid oibre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A letter from your family doctor (GP)/hospital is required to confirm to the Department that the child has been discharged from hospital and your maternity benefit should resume</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór litir a fháil ó do dhochtúir teaghlaigh dochtúir ginearálta nó ón ospidéal le dearbhú don Roinn gur scaoileadh do leanbh amach as an ospidéal agus ba chóir go gcuirfí tús le do shochar máithreachais an athuair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your Personal Public Service Number (PPS) Number should be clearly identified on all documents you send to the Department</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir d’Uimhir Phearsanta Seirbhíse Poiblí (Uimhir PSP) a bheith le feiceáil go soiléir ar gach cáipéis a chuireann tú chun na Roinne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Remember, you may only apply to postpone your maternity leave if the baby has been hospitalised - not if the child is simply unwell</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuimhnigh nach mbeidh tú in ann iarratas a dhéanamh chun do shaoire mháithreachais a chur siar ach amháin má choinnítear do leanbh san ospidéal - ní leor díreach é nó í a bheith tinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Illness while on postponed maternity leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>Breoiteacht le linn duit a bheith ar saoire mháithreachais a cuireadh siar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have postponed your maternity leave and become ill when you return to work (before resuming your postponed leave), you may be considered to have started your resumed leave on the first day of your absence because of illness</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chuireann tú siar do shaoire mháithreachais, agus má éiríonn tú tinn tar éis duit filleadh ar do chuid oibre (sula gcuireann tú tús leis an tsaoire a chuir tú siar), féadfar glacadh leis gur chuir tú tús le do shaoire atosaithe ar an gcéad lá a raibh tú as láthair de bharr breoiteachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Alternatively, you may choose to forfeit your right to resumed leave and have your leave treated as sick leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nó féadfaidh tú do cheart a fhorghéilleadh maidir le hatosú do shaoire agus glacadh le do shaoire mar saoire bhreoiteachta</seg></tuv>
+</tu>
+</body>
+</tmx>

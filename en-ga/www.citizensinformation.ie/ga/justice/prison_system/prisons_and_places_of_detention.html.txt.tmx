@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Prisons and Places of Detention</seg></tuv>
+  <tuv xml:lang="ga"><seg>Priosuin agus aiteanna coinneala</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are 13 prisons and places of detention in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá 13 príosúin agus Áiteanna Coinneála in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Ten are closed institutions with both internal and perimeter security</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá aon cheann déag dúnta institiúidí le slándáil inmheánach agus imlíneach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Two are open centres with minimal internal and perimeter security</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dhá ionaid oscailte le íosta slándáil inmheánach agus imlíneach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is one semi-open prison with traditional perimeter security and minimal internal security</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá príosún leath-oscailte amháin le slándáil imlíneach traidisiúnta agus an tslándáil inmheánach a íosta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will be held at a remand prison if you have not yet had your trial and have not been released on bail</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh tú curtha isteach i bpríosún athchuir má tá tú fós ag fanacht le triail agus nuair nach bhfuil tú fós scaoilte amach ar bannaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Details of the prisons and places of detention</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sonraí na bpríosúin agus áiteanna coinneála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Irish Prison Service website provides detailed information on prisons and places of detention</seg></tuv>
+  <tuv xml:lang="ga"><seg>Soláthraíonn an láithreán gréasáin Sheirbhís Phríosúin na hÉireann eolas mionsonraithe ar phríosúin agus ar áiteanna coinneála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Follow the links below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Lean na naisc thíos</seg></tuv>
+</tu>
+</body>
+</tmx>

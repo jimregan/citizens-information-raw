@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Speech and language therapy services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seirbhísí teiripe urlabhra agus teanga</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The public health service may provide a speech and language therapy service to people with communication difficulties</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh an tseirbhís sláinte poiblí seirbhís teiripe urlabhra agus teanga a chur ar fáil do dhaoine a bhfuil deacrachtaí cumarsáide acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These services may be provided by the Health Service Executive (HSE) and delivered by speech and language therapists</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is í Feidhmeannacht na Seirbhíse Sláinte a sholáthraíonn na seirbhísí sin agus is speisialtóirí maidir le neamhoird chumarsáide a chuireann ar fáil iad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Speech and language therapists assess, diagnose, and treat people with communication difficulties in a wide variety of settings including local health centres, hospitals and schools</seg></tuv>
+  <tuv xml:lang="ga"><seg>‘Teiripeoirí urlabhra agus teanga’ a thugtar ar speisialtóirí ó thaobh neamhord cumarsáide. Déanann na teiripeoirí sin measúnú ar dhaoine a bhfuil deacrachtaí cumarsáide acu, déanann diagnóisí agus cuireann cóireáil orthu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Therapy services help people with speech, language, fluency, voice and swallowing difficulties</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iomaí áit ina ndéanann siad an obair sin, lena n-áirítear ionaid sláinte, ospidéil agus scoileanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some people may fail to access education, social, economic and career opportunities due to communication difficulties of one kind or another</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá daoine ann a dteipeann orthu deiseanna oideachais, sóisialta, eacnamaíochta agus gairme a thapú de bharr deacrachtaí éagsúla cumarsáide</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Therapy services help people to maximise their communication potential and can help with daily living</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cabhraíonn na seirbhísí teiripe le daoine uasmhéadú a dhéanamh ar a gcumas cumarsáide agus cabhraíonn siad leo ó lá go lá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Speech and language therapy services may be available to people with communication difficulties through Local Health Offices or voluntary organisations on contract to the HSE</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh teiripe urlabhra agus teanga a bheith á cur ar fáil do dhaoine a bhfuil deacrachtaí cumarsáide acu ag Oifigí Sláinte Áitiúla nó ag eagraíochtaí deonacha nó féadfar dul i dteagmháil le FSS faoin scéal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Public health speech and language therapy services are free and, in most areas, priority is given to children</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirtear na seirbhísí sláinte poiblí teiripe urlabhra agus teanga ar fáil saor in aisce, agus tugtar tús áite do leanaí i bhformhór na limistéar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The service may be provided in schools or in health centres or clinics</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfar an tseirbhís a chur ar fáil i scoileanna nó in ionaid sláinte nó i gclinicí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Adults may also avail of speech and language therapy services if referred by their family doctor (GP), public health nurse or as part of combined care provided in public hospitals</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh daoine fásta leas a bhaint as seirbhísí teiripe urlabhra agus teanga má dhéanann dochtúir teaghlaigh nó altra sláinte poiblí iad a atreorú chucu, nó féadfaidh siad na seirbhísí a fháil mar chuid de chúram comhcheangailte in ospidéil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Priority is given to adults who have a speech and language disability that has been caused by a stroke, accident or a progressive neurological disorder</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabharfar tosaíocht duit mar dhuine fásta má tá míchumas urlabhra nó teanga agat de bharr stróc, timpiste nó neamhord forchéimnitheach néareolaíoch</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Speech and language therapy services provided through the public health service are free of charge</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seirbhísí saor in aisce iad na seirbhísí teiripe urlabhra agus teanga a chuireann an tseirbhís sláinte poiblí ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You have to pay for private services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh tú íoc as seirbhísí príobháideacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, you may be able to claim tax relief on medical expenses</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin féin, d’fhéadfá a bheith in ann faoiseamh cánach a éileamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Contact your Local Health Office for information on services in your area</seg></tuv>
+  <tuv xml:lang="ga"><seg>Téigh i dteagmháil le d’Oifig Sláinte Áitiúil le fáil amach faoi na seirbhísí i do cheantar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You also can be referred for speech and language therapy by your GP or public health nurse</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le do GP nó d’altra sláinte poiblí tú a tharchur do theirpe urlabhar agus teanga freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Speech and language therapists are regulated by CORU which has opened a register of therapists</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rialaíonn CORU teiripeoirí urlabhra agus teanga, a bhfuil liosta de theiripeoirí cláraithe acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All practising Speech and Language Therapists must apply for registration before 31 October 2016</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní foláir do gach Teiripeoir Urlabhra agus Teanga atá i mbun cleachtaidh iarratas a dhéanamh dá gclárú roimh 31 Deireadh Fómhair 2016</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The following voluntary and professional organisations can give you advice and information on speech and language therapy services in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh na heagraíochtaí deonacha agus gairmiúla seo a leanas comhairle agus eolas a thabhairt duit faoi na seirbhísí teiripe urlabhra agus teanga in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Irish Association of Speech and Language Therapists (IASLT) is the professional association of speech and language therapists in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad Cumann na hÉireann um Theiripeoirí Urlabhra agus Teanga (IASLT) an comhlacht gairmiúil de theiripeoirí urlabhra agus teanga in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It provides some useful factsheets online about common speech and language disorders. Further information is available from:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann siad roinnt bileoga fíricí áisiúla ar fáil faoi neamhoird rialta urlabhra agus teanga</seg></tuv>
+</tu>
+</body>
+</tmx>

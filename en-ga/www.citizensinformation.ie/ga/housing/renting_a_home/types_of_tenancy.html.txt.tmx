@@ -1,0 +1,365 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Private tenants: security of tenure</seg></tuv>
+  <tuv xml:lang="ga"><seg>Daingneacht tionachta do thionóntaí príobháideacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you rent your home from a private landlord or an approved housing body, you have an agreement or contract with that person or body, known as a tenancy agreement – which may or may not be in writing</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a fhaigheann tú teach nó árasán ar cíos ó thiarna talún príobháideach, bíonn comhaontú nó conradh agat leis an duine sin, ar a dtugtar comhaontú tionóntachta – is féidir leis seo a bheith i scríbhinn nó gan a bheith i scríbhinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The most common types of tenancy are fixed-term tenancies and periodic tenancies – both described in more detail below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad na saghsanna is coitianta de thionóntacht tionóntachtaí téarma sheasta agus tionóntachtaí tréimhsiúla - déantar cur síos níos mionsonraithe ar an dá shaghas thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Residential Tenancies Act 2004 gave tenants the right to stay in rented accommodation for up to 4 years, following an initial 6-month period (with some exceptions - see below)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar an ceart do thionóntaí san Acht um Thionóntachtaí Cónaithe, 2004 chun fanacht i gcóiríocht ar cíos ar feadh a mhéid le 4 bliana, i ndiaidh go bhfanann siad sa chóiríocht sin ar feadh tréimhse thosaigh 6 mhí, cibé acu má bhíonn an tionóntacht tréimhsiúil nó ar feadh téarma seasta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This right applies to both periodic and fixed-term tenancies. Your tenancy then becomes a Part 4 tenancy and can be followed by a further Part 4 tenancy – both described below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar tionóntacht Chuid 4 de do thionóntacht ansin agus féadfaidh tionóntacht bhreise Chuid 4 a dhéanamh di ina dhiaidh sin – déantar cur síos ar an dá cheann thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Planning and Development (Housing) and Residential Tenancies Act 2016 extended the period of a Part 4 tenancy from 4 years to 6 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ón 7 Aibreán 2016 ar aghaidh, tagann comhlachtaí faofa tithíochta faoi scóip na reachtaíochta um thionóntachtaí cónaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are getting Rent Supplement, you are probably renting from a private landlord, so you would be covered by the residential tenancies legislation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is comhaontú í tionóntacht téarma sheasta a chumhdaíonn tréimhse shonrach ama</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A fixed-term tenancy is an agreement that covers a specific amount of time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Breactar an tionóntacht síos i gconradh scríofa, go ginearálta (ach ní gá go ndéantar amhlaidh), ar a dtugtar léas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is generally (but not always) set down in a written contract, called a lease. It may be for any period, but can range from as little as 6 months up to a year or more</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh tréimhse ar bith a bheith i gceist le léas, ach féadfaidh sé maireachtáil ar feadh a ghiorra agus 6 mhí agus a mhéid le bliain amháin nó níos faide</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is important to note the following points about a fixed-term tenancy:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is tábhachtach duit na pointí a leanas a thabhairt faoi deara faoi thionóntacht téarma sheasta:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Your landlord may not end the tenancy before the end of the fixed term unless you have breached your obligations under it</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní féidir le do thiarna talún deireadh a chur leis an tionóntacht roimh dheireadh an téarma seasta murar sháraigh tú do chuid dualgas fúithi</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• In general, you may not end the tenancy before the end of the term unless the landlord has breached his obligations under it; you are exercising a break clause; you have got someone to replace you; or you and the landlord both agree to end it</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Go ginearálta, ní féidir leat deireadh a chur leis an tionóntacht roimh dheireadh an téarma mura sháraigh an tiarna talún a d(h)ualgais fúithi; má tá clásal scoir á fheidhmiú agat; fuair tú duine chun teacht i d’ionad; nó go gcomhaontaíonn tú féin agus an tiarna talún chun deireadh a chur leis an tionóntacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• However, if a private landlord* refuses to consent to an assignment or sub-let of the tenancy, you can terminate the tenancy under Section 186 of the Residential Tenancies Act 2004</seg></tuv>
+  <tuv xml:lang="ga"><seg>• *Má dhiúltaíonn tiarna talún príobháideach chun toiliú a thabhairt do shannadh nó d’fholigean na tionóntachta, féadfaidh tú deireadh a chur leis an tionóntacht faoi Alt 186 den Acht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• In general, you acquire security of tenure after 6 months – see ‘Part 4 tenancy’ below</seg></tuv>
+  <tuv xml:lang="ga"><seg>• I ndiaidh 6 mhí, tugtar daingneacht tionachta duit – féach ‘tionóntachtaí Chuid 4’ thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you wish to stay in the dwelling after the end of the fixed term, you must notify the landlord at least a month before the term expires</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Más mian leat fanacht san áit chónaithe i ndiaidh dheireadh an téarma sheasta, ní mór duit fógra míosa, ar a laghad, a thabhairt don tiarna talún sula n-éagann an téarma</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>*Tenants of approved housing bodies (housing associations) cannot assign or sublet their tenancy, so this does not apply</seg></tuv>
+  <tuv xml:lang="ga"><seg>*Ní féidir le tionóntaí de chuid comhlachtaí faofa tithíochta (comhlachais tithíochta) a dtionóntacht a shannadh nó a fholigean, mar sin, ní bhaineann seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The lease will state how much rent you have to pay, how often you have to pay it and other conditions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Luafar sa léas cé mhéid cíosa atá le híoc agat, cé chomh minic is gá duit é a íoc agus coinníollacha eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are strongly advised to make sure that you understand the terms of the lease before you sign it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Moltar go mór duit a chinntiú go dtuigeann tú téarmaí an léasa sula síníonn tú é</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A lease is a binding contract between you and the landlord and contains important information on the terms of your tenancy</seg></tuv>
+  <tuv xml:lang="ga"><seg>Conradh ceangailteach is ea léas idir tú féin agus an tiarna talún agus cuimsítear ann faisnéis thábhachtach ar théarmaí do thionóntachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In particular, it should state what will happen if either of you breaks the terms of the agreement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart go luafar ann, go háirithe, cad a tharlóidh má sháraíonn tú féin nó do thiarna talún téarmaí an chomhaontaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, a lease should not contain terms that contradict the legal rights of tenants and landlords</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níor cheart go gcuimseofaí i léas téarmaí a thagann salach ar chearta dlíthiúla tionóntaí agus tiarnaí talún, áfach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If this happens, your legal rights as a tenant or landlord supersede the terms in the lease</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tharlaíonn seo, bíonn forlámhas ag do chearta dlí, mar thionónta nó mar thiarna talún na téarmaí sa léas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, your landlord cannot enter the property at any time without seeking your permission</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, ní féidir le do thiarna talún an réadmhaoin a iontráil ag aon tráth gan do chead a lorg</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is the case even if your lease states that the landlord may enter the property at any time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is amhlaidh a bhíonn an cás fiú má luaitear i do léas go bhfuil an ceart ag do thiarna talún an réadmhaoin a iontráil ag aon tráth</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you sign a lease together with other people, you each become responsible for all the rent</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má shíníonn tú léas in éineacht le daoine eile, bíonn gach duine díobh freagrach as an gcíos go léir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>So, if your fellow tenants cannot pay their share of the rent, you may be legally liable for the entire amount</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin, murar féidir le do chomhthionóntaí a sciar den chíos a íoc, d’fhéadfadh go mbeifeása faoi dhliteanas go dlíthiúil chun íoc as an tsuim iomlán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you sign a lease on your own on behalf of the other tenants, you become responsible for all the rent</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má shíníonn tú léas leat féin thar ceann na dtionóntaí eile, bíonn tú freagrach as an gcíos go léir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the yearly rent on the lease for residential accommodation is over €30,000, the tenant is responsible for stamp duty on the annual rent</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má sháraíonn an cíos bliantúil chun cóiríocht chónaithe a fháil ar léas €30,000, tá an tionónta freagrach as dleacht stampála a íoc ar an gcíos bliantúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is your responsibility as a tenant to pay this to Revenue</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn tú féin, mar thionónta, freagrach as seo a íoc leis na Coimisinéirí Ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read more about leases on the website of Threshold, the national housing charity</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat níos mó a léamh faoi léasanna ar láithreán gréasáin Threshold, an carthanas náisiúnta tithíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A periodic tenancy agreement does not specify a fixed length of time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní shonraítear i dtionóntacht thréimhsiúil fad seasta ama</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The period of the tenancy may be weekly or monthly, depending on how often the rent is due</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh tréimhse na tionóntachta a bheith seachtainiúil nó míosúil, ag brath ar cé chomh minic a bhíonn an cíos le híoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Periodic tenancy agreements may or may not be in writing</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tharlódh go bhféadfadh nó nach bhféadfadh comhaontuithe tionóntachta a bheith i scríbhinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your landlord may end the tenancy at any time during the first 6 months without having to give a reason, but, in general, you acquire security of tenure after 6 months – see ‘Part 4 tenancy’ below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh do thiarna talún deireadh a chur leis an tionóntacht ag aon tráth le linn na chéad sé mhí gan aon chúis a thabhairt, ach i ndiaidh sé mhí, bronntar daingneacht tionachta ort – féach ‘tionónachtaí Chuid 4’ thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must always get a valid written notice of termination and there are detailed rules about the period of notice that must be given, depending on the length of the tenancy (with some exceptions)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit fógra bailí scríofa a fháil i leith foirceanta agus tá rialacha mionsonraithe ann faoin tréimhse fógra is gá a thabhairt, ag brath ar fhad na tionóntachta (bíonn roinnt eisceachtaí i gceist)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read more in our document If your landlord wants you to leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat níos mó a léamh faoi seo inár gcáipéis, Má theastaíonn ó do thiarna talún go bhfágfaidh tú an teach nó an t-árasán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As a tenant, you may end the periodic tenancy at any time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar thionónta, féadfaidh tú deireadh a chur leis an tionóntacht thréimhsiúil ag aon tráth</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You do not have to give a reason</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní gá duit cúis a thabhairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Again, there are detailed rules about notice periods and what constitutes a valid notice of termination – see ‘Ending your tenancy’ below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Arís eile, tá rialacha mionsonraithe ann faoi thréimhsí fógra agus cad is fógra bailí faisnéise ann – féach ‘Deireadh a chur le do thionóntacht’ thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have been renting for at least 6 months and haven't been served with a valid written notice of termination, in general you automatically acquire security of tenure and can stay in the property for a number of years.   • If your tenancy started on or before 24 December 2016, this period is 4 years • If your tenancy started after 24 December 2016, this period is 6 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhí teach ar cíos agat le 6 mhí anuas, ar a laghad, agus murar seirbheáladh fógra bailí scríofa ort i leith foirceanta, bronntar daingneacht tionachta ort go huathoibríoch agus féadfaidh tú fanacht sa réadmhaoin ar feadh a fhad le ceithre bliana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This security of tenure continues in 6-year (formerly 4-year) cycles</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leanann an daingneacht tionachta seo i dtimthriallta ceithre bliana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>So, after the first 6 months, your tenancy becomes what is known as a Part 4 tenancy – this refers to Part 4 of the Residential Tenancies Act 2004, which deals with security of tenure</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin, i ndiaidh na chéad sé mhí, déantar Tionóntacht Chuid 4 de do thionóntacht – tagraíonn seo do Chuid 4 den Acht um Thionóntachtaí Cónaithe, 2004, a dhéileálann le daingneacht tionachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have a periodic tenancy, you do not have to claim the Part 4 tenancy in writing, but you do need to claim it if you have a fixed-term lease – see below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tionóntacht thréimhsiúil agat, ní ga duit tionóntacht Chuid 4 a éileamh i scríbhinn, ach is gá duit í a éileamh má tá léas téarma sheasta agat – féach thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Exceptions to general rule</seg></tuv>
+  <tuv xml:lang="ga"><seg>Eisceachtaí i leith na rialach ginearálta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are renting a flat or apartment that was originally part of the landlord's main house, your landlord can choose to opt out of the Part 4 provisions on security of tenure</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá árasán á ligean ar cíos agat a bhí mar chuid de phríomhtheach an tiarna talún i dtosach, féadfaidh do thiarna talún a roghnú chun forálacha Chuid 4 maidir le daingne tionachta a dhiúltú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read more in our document on Sharing accommodation with your landlord</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú níos mó a léamh inár gcáipéis ar Chóiríocht a roinnt le do thiarna talún</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Tenants of certain dwellings let by housing associations (transitional dwellings) cannot gain the benefit of Part 4 rights</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir le tionóntaí in áiteanna cónaithe áirithe a ligeann comhlachais tithíochta (áiteanna cónaithe idirthréimhseacha) ar cíos tairbhe chearta Chuid 4 a bhaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further Part 4 tenancy</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tionóntacht bhreise Chuid 4</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>After the first cycle (4 or 6 years) of your Part 4 tenancy has ended, your Part 4 tenancy ends and a new tenancy begins</seg></tuv>
+  <tuv xml:lang="ga"><seg>I ndiaidh gur ghabh ceithre bliana de do thionóntacht thart, cuirtear deireadh le do thionóntacht Chuid 4 agus cuirtear tús le tionóntacht nua</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You now have a further Part 4 tenancy</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tionóntacht bhreise Chuid 4 agat anois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Up to 17 January 2017, your landlord could end this tenancy at any time in the first 6 months without having to give a reason</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag tús do thionóntachta breise, féadfaidh do thiarna talún deireadh a chur leis an tionóntacht seo ag aon tráth le linn na chéad 6 mhí gan aon chúis a thabhairt – ach ní mór go dtugtar fógra 112 lá (16 seachtaine) duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Planning and Development (Housing) and Residential Tenancies Act 2016 has repealed this provision with effect from 17 January 2017</seg></tuv>
+  <tuv xml:lang="ga"><seg>I ndiaidh 6 mhí, bronntar daingneacht tionachta ort arís eile agus tá anois 6 mhí caite agat i dtimthriall breise 4 bliana ag an tráth sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you have acquired a Part 4 tenancy or further Part 4 tenancy, your landlord can terminate your tenancy only in certain circumstances</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair atá tú tar éis tionóntacht Chuid 4 a fháil (nó nuair atá breis agus 6 mhí caite agat i dtionóntacht bhreise Chuid 4), ní fhéadfaidh do thiarna talún deireadh a chur le do thionóntacht ach faoi chúinsí áirithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read more in our document If your landlord wants you to leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>I dtaobh tionóntachtaí le haghaidh 5 bliana nó níos faide, mhéadaigh an tAcht um Thionóntachtaí Cónaithe (Leasú), 2015 fad an fhógra nach mór do thiarnaí talún a thabhairt, le héifeacht ón 4 Nollaig 2015</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you want to leave and you do not have a fixed-term agreement, you do not have to give a reason, but you must give the correct period of notice in writing as required under the legislation – see ‘Ending your tenancy’ below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Le héifeacht on 4 Nollaig 2015, mhéadaigh an tAcht um Thionóntachtaí Cónaithe (Leasú), 2015 fad an fhógra nach mór do thionóntaí a thabhairt le haghaidh tionóntachtaí a mhair 4 bliana nó ní b’fhaide</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Preventing a further Part 4 tenancy</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tionóntacht Chuid 4 a éileamh ag deireadh léas téarma sheasta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Ifyour landlord wishes to stop a further Part 4 tenancy coming into existence, they may serve a notice during the original Part 4 tenancy, with the notice period expiring on or after the end of the tenancy. A notice served in this way should provide a reason for termination</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá conradh téarma sheasta nó léas téarma sheasta agat, agus más mian leat fanacht sa réadmhaoin faoi na cearta a bronnadh ort faoi Chuid 4, ní mór duit fógra a thabhairt do do thiarna talún go bhfuil sé ar intinn agat fanacht sa réadmhaoin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must do this between 3 months and 1 month before the expiry of your fixed–term tenancy or lease agreement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit seo a dhéanamh idir 3 mhí agus mí amháin sula n-éagann do thionóntacht téarma sheasta nó do chomhaontú léasa téarma sheasta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can use this sample letter of notification to remain in the property under Part 4</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú an litir shamplach fógra seo a úsáid chun fanacht sa réadmhaoin faoi Chuid 4</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you do not notify your landlord, you cannot be refused coverage under Part 4, but you may have to compensate the landlord for any financial loss that they incur because you did not notify them of your intention to remain in the tenancy</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura dtugann tú fógra do do thiarna talún, ní féidir cumhdach a dhiúltú duit faoi Chuid 4, ach b’fhéidir go mbeidh ort an tiarna talún a chúiteamh as aon chaillteanas airgeadais a thabhaíonn sé/sí mar gheall nár thug tú fógra dó/di go bhfuil sé ar intinn agat fanacht sa tionóntacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The following outlines the requirements for a tenant who wishes to end a tenancy</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar cuntas sa mhéid a leanas ar na ceanglais is gá do thionónta, ar mian leis/léi deireadh a chur le tionóntacht, a chomhlíonadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(As noted above, landlords must also comply with detailed rules if they wish to end a tenancy.) There is more detail for both tenants and landlords in this leaflet Terminating a tenancy (doc), published by the Residential Tenancies Board (RTB)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi mar a luaitear thuas, ní mór do thiarnaí talún rialacha mionsonraithe a chomhlíonadh más mian leo deireadh a chur le tionóntacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Format of termination notice</seg></tuv>
+  <tuv xml:lang="ga"><seg>Formáid an fhógra foirceanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As a tenant, you can terminate your tenancy (whether fixed-term or periodic) without giving a reason, but you must provide a valid notice of termination to your landlord</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar thionónta, féadfaidh tú deireadh a chur le do thionóntacht (cibé acu más tionóntacht téarma sheasta nó thréimhsiúil í) gan cúis a thabhairt, ach ní mór duit fógra bailí foirceanta a thabhairt do do thiarna talún</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In order to be valid, this notice must:</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhonn go mbeidh an fógra bailí:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Be signed by you</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Caithfidh sé a bheith sínithe agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Specify the date that you are serving it on the landlord</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sonraigh an dáta a mbeidh sé á sheirbheáil agat ar an tiarna talún</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Specify the termination date of the tenancy (you have the full 24 hours of this date to vacate possession)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sonraigh dáta foirceanta na tionóntachta (tugtar 24 uair an chloig iomlána duit ón dáta seo chun an tseilbh a dhíchur)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• State that any issue as to the validity of the notice may be referred to the RTB within 28 days of receipt of the notice</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Caithfidh sé a lua gur féidir aon saincheist maidir le bailíocht an fhógra a chur faoi bhráid an Bhoird um Thionóntachtaí Cónaithe (BTC) laistigh de 28 lá tar éis an fógra seo a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can use Threshold’s sample notice of termination (doc)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú fógra samplach foirceanta (doc) Threshold a úsáid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must also give the required period of notice as set out in the table below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit an tréimhse riachtanach fógra a thabhairt, chomh maith, a leagtar amach sa tábla thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Length of tenancy Required period of notice by tenant</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Fad na tionóntachta │Tréimhse riachtanach fógra ag an tionónta │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Less than 6 months 4 weeks (28 days)</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Níos lú ná 6 mhí │4 seachtaine (28 lá) │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>6 months or longer but less than 1 year 5 weeks (35 days)</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Idir 6 mhí agus 1 bhliain │5 seachtaine (35 lá) │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>1 year or longer but less than 2 years 6 weeks (42 days)</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Idir 1bhliain agus 2 bhliain │6 seachtaine (42 lá) │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>2 years or longer but less than 4 years 8 weeks (56 days)</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Idir 2 bhliain agus 4 bhliain │8 seachtaine (56 lá) │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>4 years or longer but less than 8 years 12 weeks (84 days)</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Idir 4 bhliain agus 8 mbliana │12 seachtaine (84 lá) │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>8 years or longer 16 weeks (112 days)</seg></tuv>
+  <tuv xml:lang="ga"><seg>│8 mbliana nó níos mó │16 seachtaine (112 lá) │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Ending a fixed-term tenancy</seg></tuv>
+  <tuv xml:lang="ga"><seg>Deireadh a chur le tionóntacht téarma sheasta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have a fixed-term tenancy agreement or a lease, you are also subject to the terms of this agreement, as well as having to comply with the notice periods listed above</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá comhaontú nó léas téarma sheasta agat, bíonn tú faoi réir théarmaí an chomhaontaithe seo, agus beidh ort tréimhsí an fhógra a chomhlíonadh a liostaítear thuas chomh maith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that you may lose your deposit if you leave before the term stated in the lease, even if you give the correct amount of notice</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn seo go bhféadfadh go gcaillfeá d’éarlais má fhágann tú roimh dheireadh an téarma a luaitear sa léas, fiú má thugann tú an méid ceart d’fhógra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, there are some exceptions, as follows:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn na heisceachtaí a leanas ann, áfach:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If there is a break clause in your lease, you can use it to end the tenancy</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má tá clásal scoir i do léas, féadfaidh tú é a úsáid chun deireadh a chur leis an tionóntacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you and the landlord both agree to ending the tenancy sooner</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má chomhaontaínn tú féin agus an tiarna talún araon do dheireadh a chur leis an tionóntacht níos luaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If the landlord has breached their obligations under the lease, and has not rectified the breach within a reasonable time, then you only need to give 28 days’ notice</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má sháraigh an tiarna talún a chuid dualgas faoin léas, agus murar réitigh sé an sárú laistigh de thréimhse réasúnta, ní gá duit ach fógra 28 lá a thabhairt ansin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>21 Stoneybatter Dublin 7 Ireland  Opening Hours:Mon-Fri 9.30 am - 5 pm Tel:1890 334 334 Fax:(01) 677 2407 Homepage: http://www.threshold.ie Email: advice@threshold.ie  Threshold  22 South Mall Cork Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má bhíonn baol ann i leith báis nó díobháil thromchúiseach ag bagairt, nó más baol do chreatlach na háite cónaithe, ní gá duit ach fógra 7 lá a thabhairt ansin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Opening Hours:Mon - Fri: 9 am to 1 pm and 2 pm to 5 pm Tel:(021) 427 8848 Fax:(021) 480 5111 Homepage: http://www.threshold.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má dhiúltaigh an tiarna talún príomháideach cead a thabhairt chun an réadmhaoin a shannadh nó a fholigean</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Residential Tenancies Board  PO Box 47 Clonakilty Co</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá faisnéis áisiúil ag an BTC agus ag Threshold araon ar a láithreáin ghréasáin, lena n-áirítear i mbileog an BTC Deireadh a chur le tionóntacht (doc); a seicliosta do thionóntaí maidir le fógra foirceanta a sheirbheáil agus faisnéis ghinearálta ar dheireadh a chur le tionóntacht de chuid Threshold a dhéanann nasc lena mbileog Deireadh a chur le tionóntacht (pdf) agus le hacmhainní gaolmhara eile</seg></tuv>
+</tu>
+</body>
+</tmx>

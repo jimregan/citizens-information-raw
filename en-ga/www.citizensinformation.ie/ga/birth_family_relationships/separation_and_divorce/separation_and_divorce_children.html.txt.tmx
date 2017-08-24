@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Separation and divorce: children</seg></tuv>
+  <tuv xml:lang="ga"><seg>Scaradh agus Colscaradh: Páistí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Guardianship describes the legal responsibility of parents to make decisions and perform duties in relation to their child's upbringing</seg></tuv>
+  <tuv xml:lang="ga"><seg>'Séard atá i gcosaint ná freagracht dleathach na dtuismitheoirí socraithe a dhéanamh agus dualgaisí a chomhlíonadh maidir le tógáil a bpáistí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Married parents are automatically joint guardians of their children</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá lánúin phósta láithreach mar chosantóirí comhfhreagracha dá bpáistí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Neither separation nor divorce changes this</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní athraíonn scaradh nó idirscaradh é seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Custody refers to the day-to-day care, residency and upbringing of children who are regarded as dependent children</seg></tuv>
+  <tuv xml:lang="ga"><seg>'Séard atá i gcumhdach ná an cúram laethúil, cónaí agus tógáil na bpáistí atá ag brath ort</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Dependent children in custody matters are children who are under the age of 18</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is páistí faoi aois a hocht déag iad na páistí spleách i gcásanna cumhdaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In cases of judicial separation or divorce, one parent is usually granted custody</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcásanna scaradh pósta ó dhlí nó idirscaradh, tugtar cumhdach do thuismitheoir amháin de ghnáth</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The children reside permanently with the parent who has custody and the other parent is granted access to the children at agreed times, which can include overnight access</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cónaíonn na páistí go buan leis an tuismitheoir go bhfuil cumhdach aige/aici agus tugtar cead insroichteachta don tuismitheoir eile ag amanna socraithe nó na páistí fanacht leis/léi thar oíche</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is possible for parents to continue to have joint custody of their children after separation or divorce and for the children to spend an equal amount of time with each parent if the parents can agree and arrange this</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le tuismitheoirí leanacht ar aghaidh agus comhchumhdach a bpáistí a bheith acu i ndiaidh scaradh/idirscaradh agus na páistí an méid céanna ama a chaitheamh le gach tuismitheoir má aontaíonn agus má shocraíonn na tuismitheoirí air seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Access refers to the right of a child to maintain direct contact with the parent with whom the child does not reside</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tagraíonn rochtain don cheart atá ag leanbh chun teagmháil dhíreach a choimeád leis an tuismitheoir nach gcónaíonn an leanbh leis/léi</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It can include the child staying overnight either occasionally, on alternate weekends or during school holidays and for the parent and child going on holidays together</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadtar a áireamh leis go bhfanann an leanbh thar oíche cé acu go hócáideach, gach dara deireadh seachtaine nó i rith saoirí scoile agus go ngabhann an tuismitheoir agus an leanbh ar saoirí le chéile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The parents may agree informally between themselves the arrangements for custody and access to the child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis na tuismitheoirí aontú go neamhfhoirmiúil eatarthu féin ar shocraithe an chumhdaithe agus insroichteacht don pháiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the event that agreement cannot be reached, either parent may make an application to the court to decide which parent will have custody of the child and what access the non-custodial parent will have</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna dtagann siad ar shocrú, is féidir le aon duine de na tuismitheoirí iarratas a dhéanamh chuig an gcúirt le teacht ar réiteach faoí cé acu tuismitheoir a bhéas an páiste aige/aici agus cén ceart insroichteachta a bhéas ag an tuismitheoir eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The application can be made to the District Court or can be made in an application for judicial separation or divorce in the Circuit Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir an t-iarratas a dhéanamh chuig an gCúirt Dhúiche nó is féidir iarratas do scaradh dleathach nó idirscaradh a dhéanamh chuig an gCúirt Chuarda</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In any application for custody or access, it is the welfare of the child that is the most important factor that a court will consider</seg></tuv>
+  <tuv xml:lang="ga"><seg>In aon iarratas do chumhdach nó insroichteacht, is é leas an pháiste an factóir is mó a thógfaidh an chúirt san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is a child's right to see both parents and access by the non-custodial parent will only be denied if the court believes that it is not in the best interest of the child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é cearta an pháiste an bheirt tuismitheoirí a fheiceáil, agus ní stopfar cearta an tuismitheora nach gcónaíonn an páiste leis/léi muna gcreideann an chúirt nach é an rud is fearr don pháiste é</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The court can set out the time, place and duration of access visits and can order supervised access where another adult is present during visits if it considers it appropriate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis an gcúirt an t-am, áit agus fad na gcuairteanna insroichteachta a shocrú agus ordú insroichteacht faoi fheitheoireacht a bheith ann má bhíonn duine fásta eile i láthair i rith cuairteanna, má's é seo atá feiliúnach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A person seeking an access order can go to their local District Court and get the Court Clerk to issue an application for access, which will be served on the other spouse</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le duine atá ag iarraidh ordú insroichteachta dul chuig an gcúirt dhúiche áitiúil agus iarraidh ar an gcléireach cúirte iarratas insroichteachta a thabhairt dó/di, le tabhairt don chéile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Legal advice and representation is always advisable</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá treoir agus ionadaíocht dleathach molta i gcónaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To enquire whether you are eligible for legal aid contact the Legal Aid Board who will send you a list of law centres throughout the country and you should then contract the centre in your area</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás dlíodóra phríobháideach, déan teagmháil le Cumann Dlí na hÉireann a chuirfidh liosta chugat de na dlíodóirí príobháideacha ar fud na tíre a bhíonn ag deileáil le dlí teaghlaigh</seg></tuv>
+</tu>
+</body>
+</tmx>

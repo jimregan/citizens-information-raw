@@ -1,0 +1,445 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Compensation for overbooked, cancelled and delayed flights in the EU</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cúiteamh le haghaidh eitiltí san AE atá ró-áirithithe, curtha ar ceal agus ar a bhfuil moill</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Enforcement of your passenger rights</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Forfheidhmiú do chearta paisinéara</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Air passengers have specific consumer rights under European law</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá ag aerphaisinéirí cearta sonracha tomhaltóirí faoi dhlí na hEorpa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>EU Regulation 261/2004 provides protection when:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leis an Rialachán 261/2004 an AE cosaint sna cásanna a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You are denied boarding against your will</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Diúltaítear bordáil duit i gcoinne do thola</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Your flight is cancelled</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cuirtear d’eitilt ar ceal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Your flight is delayed</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cuirtear moill ar d’eitilt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Regulation applies to all passengers departing from an EU/EEA airport</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann an Rialachán le gach paisinéir atá ag imeacht ó aerfort AE/LEE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It also applies to passengers departing from an airport outside of the EU/EEA but arriving at an EU/EEA airport on an EU/EEA licensed carrier (unless they have already received compensation or assistance in that non-EU/EEA country)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá feidhm aige freisin maidir le paisinéirí a imíonn ar iompróir ceadúnaithe san AE/LEE ón aerfort lasmuigh den AE/LEE ach a bhfuil teacht ar an aerfort AE/LEE (ach amháin má tá siad faighte cheana cúiteamh nó cúnamh sa tír lasmuigh den AE/LEE)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Regulation does not apply if you are travelling free of charge or at a fare that is reduced and is not available directly or indirectly to the public</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhíonn an Rialachán i gceist má tá tú ag taisteal saor in aisce nó ar tháille laghdaithe agus nach bhfuil ar fáil go díreach nó go hindíreach ag an bpobal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Tickets purchased under frequent flyer programmes or similar commercial programmes are not considered reduced fare tickets</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mheastar gurb ionann ticéid a cheannaítear faoi chláir ‘eitleora mhinic’ nó faoi chláir thráchtála dá macasamhail agus ticéid táille laghdaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you purchase a ticket for air travel, you enter into an agreement with the airline</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a cheannaíonn tú ticéad le haghaidh aerthaistil, iontrálann tú i gcomhaontú leis an aerlíne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>One of the terms of this agreement is that you must confirm that you will be ready to take the flight on the date of travel (confirming your reservation) and you must present yourself at check-in to demonstrate that you have a valid ticket and are ready to fly on the date on your ticket</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceann de théarmaí an chomhaontaithe seo nach mór duit a dheimhniú go mbeidh tú réidh le heitilt ar dháta an taistil (d’áirithint a dheimhniú) agus ní mór duit bheith i láthair ag an ionad seiceála isteach lena léiriú go bhfuil agat ticéad bailí agus go bhfuil tú réidh le heitilt ar an dáta atá le sonrú ar do thicéad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Reservation not confirmed or not checked in</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áirithint gan deimhniú nó gan seiceáil isteach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have not confirmed your reservation in time or presented yourself for check-in at the time stipulated by the airline, the Regulation does not apply</seg></tuv>
+  <tuv xml:lang="ga"><seg>Murar dheimhnigh tú d’áirithint laistigh den am ceart nó mura ndeachaigh tú a fhad leis an ionad seiceála isteach ag an am a ordaíonn an aerlíne, ní bhíonn feidhm ag an Rialachán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The airline can refuse to allow you to board the aircraft as you have not honoured your part of the contract with the airline and the airline can legitimately argue that you have breached the terms of your contract with them</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh an aerlíne a dhiúltú chun ligean duit an aerárthach a bhordáil de bharr nár chomhlíon tú do chuid den chonradh leis an aerlíne agus féadfaidh an aerlíne an argóint a dhéanamh gur sháraigh tú téarmaí do chonartha leo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have been denied access to the aircraft in these circumstances, the airline is not obliged to offer you any compensation nor are you are entitled to any compensation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má diúltaíodh rochtain duit ar an aerárthach faoi na cúinsí seo, níl dualgas ar an aerlíne aon chúiteamh a thairiscint duit agus níl tú i dteideal aon chúiteamh a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The airline may, however, agree to accommodate you on a later flight (without or without charge) if there is availability</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh, ar a shon sin, an aerlíne comhaontú chun glacadh leat ar eitilt níos déanaí (gan ort táille a íoc nó a mhalairt) má bhíonn spás ar an eitilt sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you did not confirm your reservation or you did not present yourself for check-in at the stipulated time, it depends on the custom and practice of the individual airline as to whether or not you must pay again for the flight</seg></tuv>
+  <tuv xml:lang="ga"><seg>Murar dheimhnigh tú d’áirithint nó murar tháinig tú i láthair chun seiceáil isteach ag an am a bhí ina choinníoll, braitheann sé ar nós agus ar chleachtas na haerlíne aonair cibé acu an gá duit nó nach gá duit íoc as an eitilt arís</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Reservation confirmed and checked in</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áirithint arna deimhniú agus seiceáil isteach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are denied boarding, or your flight has been cancelled or delayed, and the Regulation does apply, the airline must provide you with a written notice setting out the rules for compensation and assistance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhiúltaítear bordáil duit, nó má cuireadh d’eitilt ar ceal nó má cuireadh moill uirthi, agus mura mbíonn feidhm ag an Rialachán, ní mór don aerlíne fógra i scríbhinn a sholáthar duit ina leagtar amach na rialacha cúitimh agus cúnta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must be offered 2 free telephone calls, fax messages, or emails</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit 2 ghlao gutháin, 2 theachtaireacht facs nó ríomhphoist saor in aisce a thairiscint duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In addition, a sign must be displayed at the check-in area referring to air passenger rights under the Regulation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa mhullach air sin, ní mór comhartha a thaispeáint sa limistéar seiceála isteach a dhéanann tagairt do cheart aerphaisinéirí faoin Rialachán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Denied boarding means that the airline has refused to accommodate you on scheduled flights and charters although you have a valid ticket, you have confirmed your reservation on your flight and you have presented yourself for check-in within the required time limit as stipulated by the airline</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn bordáil dhiúltaithe gur dhiúltaigh an aerlíne freastal ort ar eitiltí agus ar chairteacha sceidealaithe cé go bhfuil ticéad bailí agat, gur dheimhnigh tú d’áirithint ar d’eitilt agus gur tháinig tú i láthair chun seiceáil isteach laistigh den teorainn ama a iarrtar, faoi mar atá ina choinníoll ag an aerlíne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Denied boarding happens when airlines sell more tickets for a scheduled flight than there are seats on the aircraft</seg></tuv>
+  <tuv xml:lang="ga"><seg>Diúltaítear bordáil nuair a dhíolann aerlínte níos mó ticéad le haghaidh eitilt sceidealaithe ná líon na suíochán ar an aerárthach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where a flight is overbooked the airline will first call for volunteers to surrender their confirmed reservations to the airline in exchange for agreed benefits</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás go mbíonn eitilt ró-áirithithe, iarrfaidh an aerlíne i dtosach ar dheontóirí chun a n-áirithintí deimhnithe a thabhairt suas don aerlíne mar mhalairt ar shochair lena gcomhaontaítear</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The volunteers are also entitled to a choice of:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, bíonn na deontóirí i dteideal rogha a bheith acu na rudaí a leanas a fháil:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Refund of the cost of their ticket within 7 days if not wishing to travel or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Aisíocaíocht chostas a dticéid laistigh de 7 lá mura mian leo taisteal, nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Re-routing to their final destination at the earliest opportunity or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bealach eile a aimsiú chuig a gceann scríbe deiridh ag an tráth is luaithe, nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Re-routing at a later date at the passenger’s convenience, subject to availability of seats</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bealach eile a aimsiú ag tráth níos déanaí, ar áisiúlacht an phaisinéara, faoi réir fáil a bheith ar shuíocháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If there are not enough volunteers, the airline may deny boarding to passengers against their will but must compensate them and offer the appropriate assistance set out in the Regulation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Murab ann do dhóthain deontóirí, féadfaidh an aerlíne bordáil a dhiúltú do phaisinéirí i leith a dtola ach ní mór dóibh cúiteamh a thabhairt dóibh agus an chúnamh chuí a thairiscint dóibh, faoi mar a leagtar amach sa Rialachán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must also be offered a choice of:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór rogha den mhéid a leanas a thairiscint duit, chomh maith:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Refund of the cost of your ticket within 7 days if not wishing to travel or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Aisíocaíocht chostas do thicéid laistigh de 7 lá mura mian leat taisteal, nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Re-routing to your final destination at the earliest opportunity or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bealach eile a aimsiú chuig do cheann scríbe deiridh ag an tráth is luaithe, nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Re-routing at a later date at your convenience, subject to availability of seats</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bealach eile a aimsiú ag tráth níos déanaí ar d’áisiúlacht, faoi réir fáil a bheith ar shuíocháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A refund is a full refund of the ticket for the part or parts of the journey you have not made and for the part or parts you have already made, if the flight is no longer serving any purpose to your original travel plan</seg></tuv>
+  <tuv xml:lang="ga"><seg>Aisíocaíocht is ea aisíocaíocht iomlán an ticéid don chuid/na codanna den aistir nár éirigh leat a dhéanamh agus as an gcuid nó na codanna a rinne tú a thaisteal cheana féin, mura bhfuil an eitilt ag freastal a thuilleadh ach chomh beag ar do bhunphlean taistil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When relevant, it also includes a return flight to your first point of departure at the earliest opportunity</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás gur cuí, áireofar leis eitilt fillte chuig do chéad phointe fágála ag an tráth is luaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you choose a refund, compensation must also be paid</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má roghnaíonn tú aisíocaíocht, ní mór cúiteamh a íoc chomh maith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The amount you are entitled to depends on the distance of the flight that you have not been allowed to board</seg></tuv>
+  <tuv xml:lang="ga"><seg>Braitheann an méid atá tú i dteideal a fháil ar fhad na heitilte a diúltaíodh duit a bhordáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you choose re-routing, the compensation that is paid depends on the length of delay past the original planned time in arriving at your final destination</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má roghnaíonn tú bealach eile a aimsiú, braitheann an cúiteamh a íoctar ar fhad na moille tar éis an ama a beartaíodh i dtosach go mbainfeá do cheann scríbe deiridh amach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Free meals and refreshments must be offered in reasonable relation to the waiting time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór béilí agus sólaistí a thairiscint de mhéid a chomhfhreagraíonn don am feithimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Hotel accommodation must also be offered free of charge where a stay of one or more nights becomes necessary, as well as transport between the hotel and the airport</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, ní mór cóiríocht óstáin a thairiscint saor in aisce sa chás go dteastaíonn feitheamh oíche amháin nó níos mó, mar aon le hiompar idir an t-óstán agus an t-aerfort</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where your flight is cancelled, you are entitled to a choice of:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás go gcuirtear d’eitilt ar ceal, tá tú i dteideal a roghnú:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Refund of the cost of your ticket within 7 days or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Aisíocaíocht chostas do thicéid laistigh de 7 lá, nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Re-routing to your final destination at the earliest opportunity or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bealach eile a aimsiú chuig do cheann scríbe deiridh ag an tráth is luaithe, nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Re-routing at a later date at your convenience, subject to availability of seats</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bealach eile a aimsiú ag tráth níos déanaí, ar d’áisiúlacht, faoi réir fáil a bheith ar shuíocháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may also be entitled to compensation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin uile, d’fhéadfá bheith i dteideal cúiteamh a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When compensation is not payable</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair nach iníoctha do chúiteamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are not entitled to compensation if:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl tú i dteideal cúiteamh a fháil:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You have received at least 2 weeks’ notice of the cancellation; or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má fuair tú fógra ar a laghad 2 sheachtain i leith cealú; nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You have received between 2 weeks and 7 days’ notice but you have been offered an alternative flight departing no more than 2 hours before your original departure time and arriving at your final destination less than 4 hours after your original scheduled time of arrival; or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Fuair tú fógra idir 2 sheachtain agus 7 lá ach go ndearnadh eitilt eile a thairiscint duit a fhágann nach mó ná 2 uair an chloig roimh an am fágála a beartaíodh i dtosach agus a bhainfidh do cheann scríbe deiridh amach níos lú ná 4 huaire i ndiaidh an chéid ama sceidealaithe teachta, nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You have received less than 7 days’ notice but you have been offered an alternative flight departing no more than 1 hour before your original departure time and arriving at your final destination less than 2 hours after your original scheduled time of arrival</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Fuair tú fógra níos lú ná 7 lá ach rinneadh eitilt eile a thairiscint duit a fhágann nach mó ná 1 uair an chloig roimh an am fágála a beartaíodh i dtosach agus a bhainfidh do cheann scríbe deiridh amach níos lú ná 2 uair i ndiaidh an chéid ama sceidealaithe teachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the airline can prove that the cancellation was caused by an extraordinary circumstance which could not have been avoided, even if all reasonable measures had been taken, no compensation is payable</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más féidir leis an aerlíne a chruthú gur cúinse neamhghnách a bhí ina chúis leis an gcealú nach rabhthas in ann a sheachaint, fiú dá rachfaí i mbun gach birt réasúnta, níl aon chúiteamh iníoctha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Examples of extraordinary circumstances may include weather conditions, air traffic control restrictions, security risks and industrial disputes that affect the operation of the flight</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is éard a d’fhéadfadh bheith ina shamplaí de chúinsí neamhghnácha, coinníollacha aimsire, srianta rialaithe aerthráchta, riosca slándála agus díospóidí tionsclaíocha a dhéanann difear d’oibriú na heitilte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you choose a refund and you are entitled to compensation, the amount you are entitled to depends on the type of flight</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má roghnaíonn tú aisíocaíocht agus má bhíonn tú i dteideal cúiteamh a fháil, braitheann an méid atá tú i dteideal a fháil ar shaghas na heitilte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where the choice is re-routing, the compensation that is paid depends on the length of delay past the original planned time in arriving at your final destination</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má roghnaíonn tú bealach eile a aimsiú, braitheann an cúiteamh a íoctar ar fhad na moille tar éis an ama a beartaíodh i dtosach go mbainfeá do cheann scríbe deiridh amach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Free meals and refreshments must be offered in reasonable relation to the waiting time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór béilí agus sólaistí a thairiscint de mhéid a chomhfhreagraíonn don am feithimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Hotel accommodation must also be offered free of charge where a stay of one or more nights becomes necessary, as well as transport between the hotel and the airport</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, ní mór cóiríocht óstáin a thairiscint saor in aisce sa chás go dteastaíonn feitheamh oíche amháin nó níos mó, mar aon le hiompar idir an t-óstán agus an t-aerfort</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Whether a delayed flight comes within the terms of the Regulation depends upon the distance of the route involved and the length of the delay</seg></tuv>
+  <tuv xml:lang="ga"><seg>Braitheann cibé acu an dtagann nó nach dtagann eitilt ar a bhfuil moill curtha faoi chuimsiú théarmaí an Rialacháin ar fhad an bhealaigh atá i gceist agus ar fhad na moille</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The following flights are covered by the Regulation:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuimsítear na heitiltí a leanas ag an Rialachán:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Delays of 2 hours or more in the case of flights of 1500 km or less</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Moilleanna 2 uair an chloig nó níos mó i gcás eitiltí 1,500km nó níos lú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Delays of 3 hours or more in the case of all flights within the EU of more than 1500 km, and of all other flights between 1500 and 3500 km</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Moilleanna 3 huaire an chloig nó níos mó i gcás gach eitilte laistigh den AE atá níos faide ná 1,500km, agus gach eitilt eile idir 1,500km agus 3,500km ar fad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Delays of 4 hours or more in the case of all other flights</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Moilleanna 4 huaire an chloig nó níos mó i gcás eitilte eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your delayed flight is covered by the Regulation, free meals and refreshments must be offered in reasonable relation to the waiting time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chuimsíonn an Rialachán d’eitilt ar ar cuireadh moill, ní mór béilí agus sólaistí a thairiscint de mhéid a chomhfhreagraíonn don am feithimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Hotel accommodation must also be offered free of charge where a stay of one or more nights becomes necessary, as well as transport between the hotel and the airport</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, ní mór cóiríocht óstáin a thairiscint saor in aisce sa chás go dteastaíonn feitheamh oíche amháin nó níos mó, mar aon le hiompar idir an t-óstán agus an t-aerfort</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the flight is delayed at least 5 hours, you must be offered a refund of your ticket instead of flying</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chuirtear moill ar a laghad 5 huaire ort, ní mór aisíocaíocht do thicéid a thairiscint duit, in ionad eitilte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A refund is a full refund of the ticket for the part or parts of the journey you have not made and for the part or parts you already made if the flight is no longer serving any purpose to your original travel plan</seg></tuv>
+  <tuv xml:lang="ga"><seg>Aisíocaíocht is ea aisíocaíocht iomlán an ticéid don chuid/na codanna den aistir nár éirigh leat a dhéanamh agus as an gcuid nó na codanna a rinne tú a thaisteal cheana féin, mura bhfuil an eitilt ag freastal a thuilleadh ach chomh beag ar do bhunphlean taistil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When relevant, it also includes a return flight to your first point of departure, at the earliest opportunity</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás gur cuí, áireofar leis eitilt fillte chuig do chéad phointe fágála ag an tráth is luaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Delays over 3 hours</seg></tuv>
+  <tuv xml:lang="ga"><seg>Moilleanna breis agus 3 huaire an chloig</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Regulation does not state that compensation is payable in cases of delay</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní luaitear sa Rialachán go bhfuil cúiteamh iníoctha i gcásanna moille</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, on 19 November 2009 the European Court of Justice ruled in the cases of Sturgeon v Condor Flugdienst GmbH and Bock and Others v Air France SA (pdf) that compensation similar to that paid for cancelled flights may be payable in delay situations where the delay exceeds 3 hours</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áfach, an 19 Samhain 2009, rialaigh Cúirt Bhreithiúnais na hEorpa sna cásanna Sturgeon v Condor Flugdienst GmbH agus Bock agus Daoine Eile v Air France SA (pdf) go bhféadfadh cúiteamh macasamhail é sin a íoctar d’eitiltí ar ar cuireadh ceal bheith iníoctha i gcásanna moille ina sáraíonn an mhoill 3 huaire an chloig</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This right was upheld by the European Court of Justice in further cases on 23 October 2012</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seasadh an ceart ag an gCúirt Bhreithiúnais Eorpach i gcásanna eile ar an 23 Deireadh Fómhair 2012</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The compensation that is paid depends on the distance of the flight and the length of delay past the original planned time in arriving at your final destination</seg></tuv>
+  <tuv xml:lang="ga"><seg>Braitheann an cúiteamh a íoctar ar fad na heitilte agus fad na moille seo caite an t-am bunaidh atá beartaithe chun teacht ar do cheann scríbe deireanach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the airline can prove that the delay was caused by an extraordinary circumstance which could not have been avoided, even if all reasonable measures had been taken, no compensation is payable</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más féidir leis an aerlíne a chruthú gur cúinse neamhghnách a bhí ina chúis leis an gcealú nach rabhthas in ann a sheachaint, fiú dá rachfaí i mbun gach birt réasúnta, níl aon chúiteamh iníoctha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Compensation when getting a refund</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cúiteamh agus aisíocaíocht á fáil agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where a refund of the cost of the ticket is chosen and you are also entitled to compensation, the following compensation must be paid:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás go roghnaítear aisíocaíocht chostas an ticéid agus go mbíonn tú i dteideal cúiteamh a fháil chomh maith, ní mór an cúiteamh a leanas a íoc:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Type of flight │Compensation │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Saghas na heitilte │Cúiteamh │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Flights of 1,500 km or less │€250 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Eitiltí 1,500km nó níos lú │€250 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Flights of over 1,500 km within the EU and │€400 │ │other flights between 1,500 and 3,500 km │ │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Eitiltí os cionn 1,500km laistigh den AE agus eitiltí eile idir 1,500km agus 3,500km │€400 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│All other flights │€600 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Gach eitilt eile │€600 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When the choice is re-routing and you are entitled to compensation, the amount of compensation you are entitled to depends on the length of delay past your original planned arrival time as follows:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má roghnaíonn tú bealach eile a aimsiú agus má bhíonn tú i dteideal cúiteamh a fháil, braitheann an cúiteamh atá tú i dteideal a fháil ar fhad na moille tar éis an ama a beartaíodh i dtosach go mbainfeá do cheann scríbe deiridh amach, mar seo a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Type of flight │Delay │Compensation │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Saghas na heitilte │Moill │Cúiteamh │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Flights of 1500km or less │2 hours or less │€125 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Eitiltí 1,500km nó níos lú │2 uair an chloig nó níos lú │€125 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Flights of 1500km or less │more than 2 hours │€250 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Eitiltí 1,500km nó níos lú │breis agus 2 uair an chloig │€250 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Flights of over 1,500 km within the EU and │3 hours or less │€200 │ │other flights between 1,500 and 3,500 km │ │ │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Eitiltí os cionn 1,500km laistigh den AE agus eitiltí eile idir 1,500km agus 3,500km │3 huaire an chloig nó níos lú │€200 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Flights of over 1,500 km within the EU and │more than 3 hours │€400 │ │other flights between 1,500 and 3,500 km │ │ │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Eitiltí os cionn 1,500km laistigh den AE agus eitiltí eile idir 1,500km agus 3,500km │breis agus 3 huaire an chloig │€400 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│All other flights │4 hours or less │€300 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Gach eitilt eile │4 huaire an chloig nó níos lú │€300 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│All other flights │more than 4 hours │€600 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Gach eitilt eile │breis agus 4 huaire an chloig │€600 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Upgrading and downgrading seats</seg></tuv>
+  <tuv xml:lang="ga"><seg>Suíocháin a uasghrádú agus a íosghrádú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are offered a seat in a higher class than your original booking, the airline cannot charge you an additional payment for this seat</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéantar suíochán a thairiscint duit i ngrád níos airde ná d’áirithint i dtosach, ní féidir an aerlíne íocaíocht bhreise a ghearradh orthu don suíochán seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you agree to be placed in a lower class than on your original booking, you are entitled to reimbursement of a percentage of the difference in price</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chomhaontaíonn tú go gcuirfear i ngrád níos ísle thú ná d’áirithint tosaigh, beidh tú i dteideal aisíocaíocht chéatadáin den difríocht sa phraghas a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In other words, if you booked a business/first class seat and the airline offers you a seat in a lower class it must refund you a percentage of the ticket price you originally paid</seg></tuv>
+  <tuv xml:lang="ga"><seg>I bhfriotal eile, má rinne tú suíochán gnó/den chéad ghrád a chur in áirithe, agus má dhéanann an aerlíne suíochán i ngrád níos ísle a thairiscint, ní mór dóibh céatadán de phraghas an ticéid a d’íoc tú i dtosach a aisíoc leat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The percentage of the refund is calculated as follows:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ríomhtar céatadán na haisíocaíochta mar seo a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• 30% of the ticket price for flights of 1,500 km or less or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• 30% de phraghas an ticéid d’eitiltí 1,500km nó níos lú, nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• 50% of the ticket price for intra-EU flights of more than 1,500 km and for all other flights between 1,500 and 3,500 km</seg></tuv>
+  <tuv xml:lang="ga"><seg>• 50% den phraghas an ticéid le haghaidh eitiltí laistigh den AE atá níos mó ná 1,500km ar fad, agus gach eitilt eile idir 1,500km agus 3,500km</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• 75% of the price for all flights greater than 3,500 km</seg></tuv>
+  <tuv xml:lang="ga"><seg>• 75% de phraghas an ticéid do gach eitilt níos mó ná 3,500km ar fad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are denied boarding, or your flight is cancelled or delayed, on a flight that has been sold as part of a package tour (that is, flight and accommodation), the airline is obliged to compensate the tour operator who has concluded a contract with you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhiúltaítear bordáil duit, nó má chuirtear d'eitilt ar ceal nó má chuirtear moill uirthi, ar eitilt a díoladh mar chuid de thuras pacáiste, (is é sin, eitilt agus cóiríocht), tá dualgas ar an aerlíne oibreoir an turais a chúiteamh a rinneadh cornadh a thabhairt chun conclúide leat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The tour operator entered into a contract with you when it sold you your package tour and these rights are also protected in European law</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’iontráil oibreoir an turais i gconradh leat nuair a díoladh do thuras pacáiste leat agus déantar na cearta seo a chosaint faoi dhlí na hEorpa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Without prejudice to the rights under these laws, the tour operator is obliged to pass on to you the compensation paid by the airline to it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gan dochar a dhéanamh do na cearta faoi na dlíthe seo, tá dualgas ar oibreoir an turais an cúiteamh a d’íoc an aerlíne leis an oibreoir a thabhairt duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Enforcement of your passenger rights</seg></tuv>
+  <tuv xml:lang="ga"><seg>Forfheidhmiú do chearta paisinéara</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have a complaint about the assistance and compensation you have received for denied boarding or cancelled or delayed flights, you must begin by contacting your airline directly</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhíonn gearán agat faoin gcúnamh agus faoin gcúiteamh a fuair tú de bharr gur diúltaíodh duit bordáil, nó mar gheall ar eitiltí ar ar cuireadh ceal nó moill, is é an chéad bheart is ceart duit a dhéanamh dul i dteagmháil le d'aerlíne go díreach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you believe your entitlement to compensation/assistance has not been met, you should then make a complaint to the appropriate national enforcement body</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má mheasann tú nár freastalaíodh ar do theidlíocht i leith cúitimh/cúnaimh, ba cheart duit gearán a dhéanamh leis an gcomhlacht cuí forfheidhmithe náisiúnta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Each member state is responsible for departures from airports within its territory and arrivals into such airports from third countries on EU/EEA-licensed carriers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá gach ballstát freagrach as imeachtaí ó aerfoirt laistigh dá bhfearann féin agus as teacht isteach go dtí na haerfoirt sin ó thríú tíortha ar iompróirí ag a bhfuil ceadúnas ón gComhphobal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have a complaint about a flight returning to Ireland from the EU/EEA, you contact the national enforcement body in the EU/EEA state your flight departed from</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhíonn gearán agat faoi eitilt a fhilleann ar Éirinn ón AE/LEE, déanann tú teagmháil leis an gcomhlacht forfheidhmithe náisiúnta sa stát den AE/LEE inar fhág d’eitilt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Commission for Aviation Regulation is the national enforcement body in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad an Coimisiún um Rialáil Eitlíochta an comhlacht forfheidhmithe náisiúnta in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It deals with complaints arising from flights departing from Irish airports or those arriving at an Irish airport from outside the EU/EEA on an EUEEA-licensed carrier</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déileálann sé le gearáin a eascraíonn as eitiltí ag imeacht ó aerfoirt na hÉireann nó ó eitiltí teacht ar aerfort Éireannach ó lasmuigh den AE/LEE ar iompróir AE/LEE-ceadúnaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Information on how to make a complaint to the Regulator is available on its website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá faisnéis ar conas gearán a dhéanamh leis an Rialtóir ar fáil ar a láithreán gréasáin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It also has information on your rights on flightrights.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, tá ann faisnéis ar do chearta ar flightrights.ie</seg></tuv>
+</tu>
+</body>
+</tmx>

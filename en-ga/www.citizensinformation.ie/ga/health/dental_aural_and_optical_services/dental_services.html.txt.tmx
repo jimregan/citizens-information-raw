@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>The Health Service Executive (HSE) provides some free dental treatment to certain citizens through the public health service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann Feidhmeannacht na Seirbhíse Sláinte (FSS) cóireáil fhiacla ar fáil saor in aisce do shaoránaigh áirithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Services are provided by dentists employed by Local Health Offices in your area and by private dentists who have contracts with the HSE to provide certain services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá seirbhísí curtha ar fáil ag fiaclóirí fostaithe ag Oifigí Sláinte Áitiúil i do cheantar agus ag fiaclóirí príobháideacha a bhfuil conarthaí acu le FSS</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you do not qualify for HSE services, then you may be treated by a private dental practitioner</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil tú i dteideal sheirbhísí FSS, d’fhéadfadh sé go gcuirfidh fiaclóir príobháideach cóireáil ort</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Dentists must display private fees in a place where patients can view them before consultation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór d’fhiaclóirí táillí príobháideacha a thaispeáint in áit inar féidir le hothair iad a fheiceáil roimh an gcomhairliú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A single fee must apply for some procedures while the fees for others may be shown as a range, with a minimum and maximum clearly stated</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go mbeadh táille amháin a bheith ar ghnáthaimh ar leith ach is féidir na táillí a thaispeáint mar raon le haghaidh gnáthamh eile, le híosmhéid agus le huasmhéid léirithe go soiléir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where a range of fees applies, it is not permitted to set a minimum price only</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair atá raon táillí i gceist, ní cheadaítear íosphraghas amháin a leagadh amach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Dental Council has produced a Code of Practice relating to: Display of Private Fees in Dental Practices (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Cód Cleachtais maidir le: Taispeáint Tháillí Príobháideacha i gCleachtais Fiaclóra (pdf) léirithe ag Comhairle na bhFiaclóirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may get free dental examinations under the Treatment Benefit scheme operated by the Department of Social Protection</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfá scrúduithe fiaclóra saor in aisce a fháil faoin scéim um Shochair Chóireála atá faoi stiúr ag an Roinn Coimirce Sóisialaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Dental Treatment Services Scheme (DTSS) provides access to dental treatment for adult medical card holders (over 16 years of age)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann an Scéim Seirbhísí Cóireála Fiaclóireachta (DTSS) rochtain ar fáil ar chóireáil fiaclóireachta do dhaoine fásta (thar 16 bliana d’aois) a bhfuil cárta leighis acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Medical card holders are entitled to a free dental examination and two fillings in each calendar year as well as any extractions that are required</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sealbhóirí cárta leighis i dteideal scrúdú saor in aisce fiaclóireachta agus dhá líonadh a fháil i ngach bliain féilire anuas ar aon stoitheadh a theastaíonn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Free emergency dental treatment for relief of pain and sepsis is also available</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chomh maith leis sin, tá cóireáil saor in aisce éigeandála fiaclóireachta ar mhaithe le faoiseamh péine agus seipsis ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For most other treatments, including dentures, the dentist must apply for prior approval from the HSE</seg></tuv>
+  <tuv xml:lang="ga"><seg>Don chuid is mó den chóir leighis, fiacla bréige san áireamh, is gá leis an bhfiaclóir cur isteach ar réamhchead ó Fheidhmeannacht na Seirbhíse Sláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Patients with special needs, high risk patients and those who have greater clinical needs receive priority</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar tosaíocht d'othair le riachtanais speisialta, othair ardriosca agus iad siúd le riachtanais cliniciúla móra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The DTSS provides treatment for periodontal/gum disease in cases where care is especially warranted</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann an DTSS cóireáil ar fáil do ghalar pearódóntach/drandail i gcásanna ina bhfuil gá speisialta le cóireáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This includes clients who are pregnant, have diabetes or immuno-compromising conditions, or require relevant surgical procedures such as cardiac surgery and joint replacements</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áirítear leis seo cliaint atá torrach, iad siúd ar a bhfuil diaibéiteas nó riochtaí imdhíon-lagaithe, nó othair óna dteastaíonn gnáthaimh ábhartha mháinliachta, ar nós máinliacht chairdiach agus ionadú ailt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Approval for periodontal treatment may be given by the local Principal Dental Surgeon for these and other high risk or special needs groups</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis an bPríomh-Dhéidlia áitiúil faomhadh a thabhairt do na grúpaí seo agus do ghrúpaí ardriosca nó riachtanas speisialta eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Clinical Dental Technicians are dental healthcare professionals, registered with the Dental Council, who provide complete dentures and partial dentures directly to adult patients when the patient’s oral health is established through a recent visit to a dentist</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gairmithe fiaclóireachta cúram sláinte iad Teicneoirí Cliniciúla Fiaclóireachta, atá cláraithe leis an gComhairle Fiaclóireachta, a chuireann cíora iomlána agus páirteacha fiacla ar fáil go díreach d’othair fhásta nuair a dheimhnítear sláinte bhéil othair trí chuairt a tugadh ar fhiaclóir le déanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They do not carry out work on natural teeth or on living tissue</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní thugann siad faoi obair ar fhiacla nádúrtha nó ar fhíochán beo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Clinical Dental Technicians who have a contract with the HSE can treat medical card holders under the Dental Treatment Services Scheme, providing approved dentures and relines as well as denture repairs and additions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh Teicneoirí Cliniciúla Fiaclóireachta, a bhfuil conradh acu le FSS, cóireáil ar chur ar shealbhóirí cárta leighis faoin Scéim Seirbhísí Cóireála Fiaclóireachta, agus cíora fiacla agus athlíneálacha mar aon le deisiúcháin do chíora fiacla agus breisiúcháin a chur ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The criteria used to decide whether a child qualifies for treatment in the HSE is determined by eligibility guidelines based on an international grading system called the Index of Orthodontic Treatment Need</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann FSS cóireáil ortódóntach saor in aisce ar fáil do na hothair siúd ar a bhfuil na fadhbanna ortódóntacha is measa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>HSE dental surgeons are trained in the guidelines for eligibility and so can advise and refer you to the local HSE orthodontic unit for assessment if the problem is sufficiently severe. The types of orthodontic problems that qualify under the guidelines include front teeth that are buried and fail to emerge, multiple missing teeth, very prominent front teeth or severe problems with the bite or jaw development</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad na critéir a úsáidtear chun cinneadh a dhéanamh ar cibé acu an gcáilítear nó nach gcáilítear leanbh do chóireáil in FSS na treoirlínte incháilitheachta atá bunaithe ar chóras idirnáisiúnta grádála ar a dtugtar an tInnéacs um Riachtanas Cóireála Ortódóntaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you do not have a medical card and have to pay for dental services from a private practitioner, you may claim tax relief for certain specialised dental treatments. (Routine treatments such as extractions, scaling and filling of teeth and provision and repairing of artificial teeth and dentures are excluded from tax relief)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirtear oiliúint ar dhéidlianna ar na treoirlínte incháilitheachta agus féadfaidh siad moladh a thabhairt duit agus thú a atreorú chuig an aonad ortódóntach áitiúil de chuid FSS chun measúnú a fháil má tá an fhadhb dona a dhóthain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further information on how to claim tax relief for specific dental costs incurred by you whether for yourself, your spouse, your dependent child or a dependent relative are available in our document on taxation and medical expenses</seg></tuv>
+  <tuv xml:lang="ga"><seg>I measc na saghsanna d’fhadhbanna ortódóntacha a cháilítear faoi na treoirlínte tá fiacla tosaigh atá faoi na drandail agus a dteipeann orthu teacht aníos; go leor fiacla in easnamh; starrfhiacla tosaigh nó mórfhadbanna leis an ngreim nó le forbairt an ghéill</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The HSE is obliged to provide dental services free of charge to:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá ar an FSS seirbhísí fiacla a chur ar fáil saor in aisce do:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Medical card holders and their dependants, but only under certain circumstances</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Shealbhóirí cárta leighis agus a gcleithiúnaíthe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• People who have contracted Hepatitis C directly or indirectly from the use of Human Immunoglobulin-Anti-D or from the receipt within Ireland of any blood product or a blood transfusion and who have a Health Amendment Act Card</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Dhaoine a bhfuil Heipitíteas C acu a fuair an galar trí glóbailin imdhíonachta dhaonna frith-A a úsáid nó trí aon táirge fola nó fuilaistriú a fháil in Éirinn agus a bhfuil Cárta an Achta um Leasú Sláinte acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Preschool children and school children attending State primary schools referred from child health service and school health service examinations</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Naíonáin réamhscoile agus leanaí bunscoile curtha ar aghaidh ó scrúdaithe de chuid na seirbhíse sláinte leanaí agus na seirbhíse sláinte scoile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Priority is usually given to children referred from child and school health services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go hiondúil tugtar tús áite do leanaí curtha ar aghaidh ó sheirbhísí sláinte leanaí agus scoile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Dental services for children under 16 years of age who attend state primary schools, and are referred from child and school health services, are provided in HSE clinics and in primary schools</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirtear seirbhísí fiacla ar fáil do leanaí faoi 16 bliana d'aois a fhreastalaíonn ar bhunscoileanna stáit agus a chuirtear ar aghaidh ó sheirbhísí sláinte leanaí agus scoile i gclinicí FSS agus i mbunscoileanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Services for others who are entitled to dental treatment are provided in HSE clinics or by private practitioners who have agreements with the HSE</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirtear seirbhísí do dhaoine eile atá i dteideal do chóireáil fhiacla ar fáil i gclinicí FSS, nó déanann cleachtóirí príobháideacha a bhfuil socraithe acu leis an FSS iad a chur ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The HSE decides whether you will be treated by one of its dentists or by a private practitioner</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an FSS a shocraíonn cé acu an ndéanfaidh duine dá fhiaclóirí féin nó cleachtóir príobháideach tú a chóireáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are to be treated by a private practitioner, you can choose from the list of dentists who have agreements with the HSE to provide services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá cleachtóir príobháideach chun tú a chóireáil, is féidir leat é/í a roghnú ón liosta de fhiaclóirí a bhfuil socruithe acu leis an FSS i dtaca le seirbhísí a chur ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Apply to your local health centre for further information</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuir iarratas isteach ar d' ionad sláinte le haghaidh tuilleadh eolais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Dental Health Foundation of Ireland have produced a number of useful publications on dental health</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá roinnt foilseachán úsáideach faoi shláinte bhéil eisithe ag an bhFundúireacht Sláinte Fiacla in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Dental Council has a list of registered Clinical Dental Technicians (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá ag an gComhairle Fiaclóireachta liosta de Theicneoirí Cláraithe Cliniciúla Fiaclóireachta</seg></tuv>
+</tu>
+</body>
+</tmx>

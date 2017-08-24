@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>The section on the prison system describes the different prisons and places of detention in the state</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa roinn seo déantar cur síos ar na priosuin agus aiteanna coinneala difriúil sa stáit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• the Sex Offenders Treatment Programmes</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cláracha Cóir Leighis do Chiontóirí Gnéis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Remission and Temporary Release</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Nuair a chuirtear Breith ar Leataobh agus Scaoileadh Saor Sealadach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• the Parole Board of Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An Bord Parúil na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Information is also provided on Irish prisoners overseas, on visiting someone in prison and on supports for prisoners' families</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirtear eolas ar fáil freisin ar phríosúnaigh Éireannacha thar lear, ar cuairt duine éigin i bpríosún agus ar thacaíochtaí do theaghlaigh na bpríosúnach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The detention of children and young people is described in our section on children and young offenders</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an coinneáil páistí agus daoine óga cur síos inár rannóg ar leanaí agus ciontóirí óga</seg></tuv>
+</tu>
+</body>
+</tmx>

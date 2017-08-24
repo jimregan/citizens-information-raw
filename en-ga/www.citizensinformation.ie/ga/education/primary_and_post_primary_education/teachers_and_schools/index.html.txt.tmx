@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>The Schools Inspectorate, a branch of the Department of Education and Skills, is responsible for inspecting and evaluating all State schools</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Foireann Chigireachta na Scoileanna, mar chuid den Roinn Oideachais agus Scileanna, freagrach as cigireacht agus measúnú a dhéanamh ar na scoileanna Stáit go léir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Teachers duty of care</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dualgais cúraim na múinteoirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Provides information on a teacher's duty of care, accidents in the school, and the school's requirement to have insurance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Eolas maidir le dualgas cúram mhúinteoirí, timpistí sa scoil, agus freagracht na scoile maidir le hárachas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Flag initiatives for schools</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tionscnaimh bhratach do scoileanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Educational initiatives which award flags to schools that successfully participate in their programmes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tionscnaimh oideachais a bhronnann bratacha ar scoileanna a ghlacann páirt rathúil ina gcuid clár</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Information about the education, professional qualifications and registration of teachers in primary and post primary schools</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faisnéis faoi na cáilíochtaí oideachais, gairmiúla agus clárú múinteoirí i mbunscoileanna agus in iar-bhunscoileanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most Read in "Education and Training"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ábhar is mó éilimh i "Oideachas agus Oiliúint"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>School terms in primary and post-primary schools</seg></tuv>
+  <tuv xml:lang="ga"><seg>Téarmaí scoile i mbunscoileanna agus iarbhunscoileanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further Education and Training (FET) allowances</seg></tuv>
+  <tuv xml:lang="ga"><seg>Táillí do scoláirí tríú leibhéal</seg></tuv>
+</tu>
+</body>
+</tmx>

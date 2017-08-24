@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Your health after birth</seg></tuv>
+  <tuv xml:lang="ga"><seg>Do Shláinte tar éis na Breithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Pregnancy and childbirth put a great strain on your body and it will take time to recover, particularly if you have had a difficult labour or a Caesarean section</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann toircheas agus breith linbh stró mór ar do chorp agus tógfaidh sé riar ama teacht chugat féin arís, go háirithe má bhí luí seoil chrua agat nó gearradh Caesarach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may have been ill after having your baby, or you may suffer from a common range of minor ailments and infections that affect new mothers</seg></tuv>
+  <tuv xml:lang="ga"><seg>B'fhéidir go raibh tú tinn tar éis duit do leanbh a shaolú, nó b'fhéidir go mbeifeá ag fulaingt ó raon coitianta mionbhreoiteachtaí agus mionionfhabhtuithe a chuireann isteach ar mháithre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your hospital or public health nurse will be able to supply you with details of local postnatal exercise classes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh ar chumas an ospidéal nó do altra sláinte poiblí mionsonraí a chur ar fáil duit maidir le ranganna aclaíochta iarbhreithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have had a normal delivery, you will then have a check-up after 2 weeks and then after 6 weeks</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhí gnáthluí seoil agat, ansin cuirfear scrúdú ort tar éis 2 sheachtain agus arís tar éis 6 seachtain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This will be carried out either by your GP or by the hospital if you had your baby in hospital</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfaidh do dhochtúir teaghlaigh nó an ospidéal ina raibh an páiste agat é sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your GP or hospital doctor will discuss any health problems with you and may take a cervical smear</seg></tuv>
+  <tuv xml:lang="ga"><seg>Pléifidh do dhochtúir teaghlaigh/dhochtúir ospidéil aon fhadhbanna sláinte leis agus b'fhéidir go dtógfadh siad smearadh ceirbheacsach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For some women, breastfeeding is established easily, but others find it takes longer to get comfortable</seg></tuv>
+  <tuv xml:lang="ga"><seg>Do roinnt ban, tarlaíonn beathú cíchego héasca, ach tógann se níos faide ar dhaoine eile a bheith compordach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some find that the demands of a young baby and a new lifestyle make them feel low and, sometimes depressed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mothaíonn roinnt go n-íslíonn riachtanais naíonáin óga agus bealach nua saoil a meanmna, agus ó am go chéile, bíonn dúlagar orthu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is quite normal after having a baby and help is available</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is gnáthrud é sin tar éis leanbh a shaolú agus tá cabhair ar fáil</seg></tuv>
+</tu>
+</body>
+</tmx>

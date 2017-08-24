@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Monitoring and surveillance at work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Monatóireacht agus faire ag obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the National Vetting Bureau (Children and Vulnerable Persons) Acts 2012-2016, people working with children or vulnerable adults must be vetted by the Garda Síochána</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi na hAchtanna um an mBiúró Náisiúnta Grinnfhiosrúcháin (Leanaí agus Daoine Soghonta) 2012-2016, tá sé éigeantach go ngrinnfhiosrófadh an Garda Síochána daoine a bhíonn ag obair le leanaí nó le daoine soghonta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Surveillance in the workplace</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faireachas sa láthair oibre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Find out about the data privacy rules in place regarding the surveillance in the workplace. Advice and information for employers and employees provided</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuir tú féin ar an eolas i leith na rialacha maidir le príobháideacht sonraí atá ann maidir le faireachán sa láthair oibre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most Read in "Employment"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ábhar is mó éilimh i "Fostaíocht"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Rest periods and breaks</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tréimhsí sosa agus sosanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Tax and starting work - PAYE</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cáin agus tosú ar obair</seg></tuv>
+</tu>
+</body>
+</tmx>

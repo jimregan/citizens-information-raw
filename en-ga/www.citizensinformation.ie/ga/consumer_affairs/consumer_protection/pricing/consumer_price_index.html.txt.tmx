@@ -1,0 +1,173 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>The Consumer Price Index (CPI) is designed to measure the change in the average level of prices paid for consumer goods and services by all private households and foreign visitors to Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tomhaiseann an tInnéacs Praghsanna do Thomhaltóirí (IPT) athruithe i meánleibhéal praghsanna a íocann teaghlaigh agus cuairteoirí eachtrannacha go hÉirinn le haghaidh earraí tomhaltais agus seirbhísí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The CPI is the official measure of inflation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an IPT an slat tomhais oifigiúil maidir le bolsciú in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The most recent CPI figures are available on the Central Statistics Office (CSO) website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad na figiúirí is déanaí IPT ar fáil ar láithreán gréasáin na Príomh-Oifige Staidrimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Central Statistics Office carries out this survey by collecting the prices of a fixed representative group of goods and services on an ongoing basis every month</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann an Phríomh-Oifig Staidrimh (POS) an suirbhé seo trí phraghsanna grúpa léirithe buan d'earraí agus seirbhísí a bhailiú ar bhonn leanúnach gach mí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These prices are then compared to the prices from the same goods and services from the previous month and the price change calculated</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirtear na praghsanna seo i gcomparáid le praghsanna na n-earraí agus na seirbhísí céanna ón mí roimhe agus ríomhtar an t-athrú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The prices of these goods and services are then combined into a single index measuring the overall level of prices</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirtear le chéile in aon innéacs amháin praghsanna na n-earraí agus na seirbhísí seo, a thomhaiseann leibhéal iomlán praghsanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The index is compiled in the week of the second Tuesday of each month up to and including the third Tuesday of each month</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirtear an t-innéacs i dtoll a chéile i rith sheachtain an dara Máirt gach mí a fhad leis an tríú Máirt i ngach mí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The goods and services that are included in the basket are determined from the Household Budget Survey</seg></tuv>
+  <tuv xml:lang="ga"><seg>Socraítear na táirgí agus na seirbhísí a chuirtear san áireamh ón Suirbhé ar Bhuiséad Teaghlaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The relative importance or weights of these goods and services are also decided by the CSO from information collected in the Household Budget survey</seg></tuv>
+  <tuv xml:lang="ga"><seg>Socraíonn an POS an tábhacht nó ualaí coibhneasta na n-earraí agus na seirbhísí seo de réir eolais bailithe ón Suirbhé ar Bhuiséad Teaghlaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The main purpose of the Household Budget Survey is to determine in detail the current pattern of household expenditure in order to update the expenditure weighting of the CPI</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is í príomhaidhm an tSuirbhé ar Bhuiséad Teaghlaigh patrún reatha caitheachais teaghlaigh a shocrú go mion chun ualach caiteachais an IPT a choinneáil suas chun dáta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The CSO provide information on how the CPI is calculated (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann an Phríomh-Oifig Staidrimh (POS) faisnéis ar fáil ar conas a ríomhtar an IPT (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The CPI tells us the percentage change in prices over time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann an IPT faisnéis ar fáil dúinn faoin gcéatadán d’athrú a thagann ar phraghsanna le himeacht ama</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If we compare index numbers for 2 different products, we can say that the price of one product is rising or falling faster or slower than the other</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chuirimid uimhreacha innéacs do dhá tháirge éagsúla i gcomparáid, is féidir linn a dheimhniú go bhfuil an praghas atá ar tháirge amháin ag dul in airde nó ag teacht anuas níos tapúla nó níos moille ná an táirge eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Prices will generally increase with time and your money loses purchasing power</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is gnách go méadófar praghsanna le himeacht ama agus bíonn níos lú cumhacht cheannaigh ag d’airgead dá bharr</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This increase in the overall level of prices is called inflation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar boilsciú ar an méadú seo a thagann ar an leibhéal foriomlán praghsanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You could also use the CPI - among other things - to check whether your wages have kept pace with prices</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfá an IPT a úsáid – i measc rudaí eile – lena sheiceáil cibé acu ar tháinig nó nár tháinig an méadú céanna ar do phá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your take-home pay increases by less than the index over a certain period (say a year), then you are less well off</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má thagann méadú níos lú ná an méadú innéacs ar an bpá a thugann tú abhaile i gcaitheamh tréimhse éigin (cuirimis i gcás, bliain amháin), ní bhaineann tú an sochar céanna as</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Apart from calculating the overall price index, the CSO calculates indices for specific types of goods such as food or housing</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seachas ón innéacs foriomlán praghsanna a ríomh, ríomhann an POS innéacsanna do na saghsanna ar leith earraí, ar nós bia nó tithíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The CSO provides information on frequently asked questions about the Consumer Price Index (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann an POS faisnéis ar fáil ar cheisteanna coitianta faoin Innéacs Praghsanna do Thomhaltóirí (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The CPI covers the full range of housing costs, namely:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Clúdaíonn an IPT réimse iomlán costais tithíochta, sé sin:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Mortgage interest costs of buying a house or apartment</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Costas úis mhorgáiste chun teach nó arásan a cheannach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Rents of privately owned dwellings</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cíos tithe i seilbh phríobháideach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Rents of local authority dwellings</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cíos tithe údaráis áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Domestic energy products such as electricity, oil, gas etc</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Táirgí fuinneamh tí, ar nós leictreachais, ola, gáis etc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Water supply and sewage collection were added in January 2015</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireadh soláthar uisce agus séarachais leo in Eanáir 2015</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The outright purchase of a house or apartment as a private residence is not covered in the CPI as it is considered to be a form of investment rather than consumer expenditure</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chlúdaíonn an IPT ceannach thar barr amach tí nó ceannach arásan mar theach cónaithe príobháideach mar breathnaítear air mar chineál infheistíochta in áit caitheachais tomhaltóra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Down payments in the case of mortgage arrangements and the capital element of mortgage repayments are also excluded from the CPI for the same reason</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fágtar amach ón IPT íocaíochtaí síos i gcás morgáiste agus an chuid caipitil d'íocaíochtaí morgáiste, ar an gcúis chéanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Each month, the CSO publishes the monthly and annual rate of inflation - this is given in terms of the percentage changes in prices since the preceding month and since the same month in the previous year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Foilsíonn an POS an ráta boilscithe míosúil agus bliantúil gach mí. Tugtar é seo i dtéarmaí ceatadáin na n-athruithe i bpraghasanna ón mí roimhe agus ón mí chéanna sa bhliain roimhe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These rates of inflation are the monthly and annual headline inflation figures quoted by economic commentators and the media</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad na rátaí boilscithe seo na rátaí cinnlínte míosúla agus bliantúla a luann tráchtairí eacnamaíochta agus na meáin chumarsáide</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The CSO also publishes separate indices and percentage changes for the following twelve groups of goods and services:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Foilsíonn an POS innéacsanna ar leith agus céatadán athruithe don dhá ghrúpa déag earraí agus seirbhísí seo a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Food and non-alcoholic beverages</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bia agus deoch neamh-mheisciúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Alcoholic beverages and tobacco</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Deoch meisciúil agus tobac</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Housing, water, electricity, gas and other fuels</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tithíocht, uisce, leictreachas, gás agus breosla eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Furnishings, household equipment and routine household maintenance</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Troscáin, fearas tí agus gnáthchothábháil tí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Miscellaneous goods and services</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Earraí agus seirbhísí ilghnéitheacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These 12 groups display price trends for broad categories of goods and services and the extent to which they contribute to overall inflation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Taispeánann an dá ghrúpa déag seo treochtaí praghais d'earnálacha leathana earraí agus seirbhísí agus an méid a chuireann siad leis an ráta boilscithe iomlán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The CPI releases are available to the public from the CSO web site free of charge</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an t-eolas a eisíonn an IPT ar fáil don phobal ó shuíomh idirlín an POS saor in aisce</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All information supplied to the CSO is treated as strictly confidential</seg></tuv>
+  <tuv xml:lang="ga"><seg>Coinnítear gach eolas a chuirtear ar fáil don POS faoi rún daingean</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Statistics Act, 1993 sets out stringent confidentiality standards stating that information collected may be used only for statistical purposes and that no details that might be related to an identifiable person or business undertaking may be divulged to any other government department or body</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagann an tAcht Staidrimh 1993 síos dianchaighdeáin rúndachta ag rá gur do chuspóirí staidrimh amháin a cheadaítear úsáid a bhaint as eolas atá bailithe. Ní féidir sonraí a d'fhéadfadh a bheith ceangailte le duine nó gnó ar leith a sceitheadh le Rannóg Rialtais nó comhlacht eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The results of the Consumer Price Index are available to the public on request from the Central Statistics Office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá torthaí an IPT ar fáil don phobal ón bPríomh-Oifig Staidrimh ach iad a iarraidh orthu</seg></tuv>
+</tu>
+</body>
+</tmx>

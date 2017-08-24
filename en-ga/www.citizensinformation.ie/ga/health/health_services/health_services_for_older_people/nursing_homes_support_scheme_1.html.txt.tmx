@@ -1,0 +1,797 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Nursing Homes Support Scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>An Scéim Tacaíochta do Thithe Altranais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Existing nursing home residents</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Daoine atá anois ina gcónaí i dtithe altranais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Nursing Homes Support Scheme, also known as the “Fair Deal”, provides financial support to people who need long-term nursing home care. The scheme is operated by the Health Service Executive (HSE)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Soláthraíonn an Scéim Tacaíochta do Thithe Altranais (STTA), ar a dtugtar ‘Cothrom na Féinne’, tacaíocht airgeadais do dhaoine a bhfuil gá acu le cúram fadtéarmach i dteach altranais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under this scheme, you make a contribution towards the cost of your care and the State pays the balance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is í Feidhmeannacht na Seirbhíse Sláinte (FSS) a oibríonn an scéim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Anyone who is ordinarily resident in the State and is assessed as needing long-term nursing home care can apply for the scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoin scéim seo, déanann tú ranníocaíocht i leith chostas do chúraim agus íocann an Stát an t-iarmhéid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you apply for the scheme your care needs are assessed to confirm that long-term nursing home care is the most appropriate option for you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Clúdaíonn an scéim tithe altranais príobháideacha, deonacha agus poiblí ar tithe altranais faofa iad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your financial situation is also assessed to see how much you will have to contribute towards your nursing home fees</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gheobhaidh tú liosta de na tithe altranais faofa ón FSS – féach 'Cá háit a ndéanfaidh mé iarratas'</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Assets, such as savings and property, are taken into account when assessing your financial situation. You can apply for the Nursing Home Loan if you want to defer making the part of your contribution that is based on your home or other property</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh duine ar bith a bhfuil gnáthchónaí air nó uirthi sa Stát agus a mheastar atá i ngátar cúraim fhadtéarmaigh i dteach altranais iarratas a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This subvention has been replaced by the Nursing Homes Support Scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rinneadh an fóirdheontas seo a ionadú ag an Scéim Tacaíochta do Thithe Altranais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Nursing Home Subvention scheme closed on 27 October 2009</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugadh chun deiridh an scéim Fóirdheontais Teach Altranais an 27 Deireadh Fómhair 2009</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you were getting a subvention on that date, you can choose to continue to receive it or you can move to the Nursing Homes Support Scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhí fóirdheontas á fháil agat ar an dáta sin, is féidir leat a roghnú le leanúint ar aghaidh agus é a fháil nó is féidir leat é aistriú chuig an Scéim Tacaíochta do Thithe Altranais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>What is covered by the NHSS</seg></tuv>
+  <tuv xml:lang="ga"><seg>An méid a chlúdaítear faoin scéim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The scheme covers long-term nursing home care only</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cúram fadtéarmach i dtithe altranais amháin is ea a chlúdaítear faoin scéim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It does not cover short-term care such as respite, convalescent care or day care although these types of services may be provided in some nursing homes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chlúdaítear cúram gearrthéarma ar nós cúraim sosa, cúram téarnaimh nó cúram lae cé go bhféadfadh sé go mbeadh seirbhísí dá leithéid ar fáil i roinnt tithe altranais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Act defines “long-term residential care services” as maintenance, health and personal care services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sainmhíníonn an tAcht “seirbhísí cúraim chónaithe fadtéarmach” mar sheirbhísí cothabhála, sláinte agus cúraim phearsanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Department of Health has further clarified that this includes: bed and board, nursing and personal care appropriate to the level of care needs of the person, laundry service, and basic aids and appliances necessary to assist a person with the activities of daily living</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an Roinn Sláinte tar éis é sin a shoiléiriú tuilleadh, á rá go gclúdaítear: leaba agus lóistín, cúram altranais agus pearsanta oiriúnach do leibhéal riachtanas cúraim an duine, seirbhís neachtlainne, agus bunáiseanna agus gléasanna atá riachtanach chun cuidiú le duine dul i mbun gnáthghníomhaíochtaí an lae</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Other goods and services may be available under schemes such as the Medical Card or Drugs Payment Scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh earraí agus seirbhísí eile a bheith ar fáil faoi Scéim na gCártaí Leighis nó faoin Scéim Íocaíochtaí Drugaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is a set level of funding for the scheme each year, so there may be situations where a person’s name must go onto a waiting list until funding becomes available</seg></tuv>
+  <tuv xml:lang="ga"><seg>Socraítear leibhéal áirithe cistithe don scéim gach bliain agus mar sin d’fhéadfadh sé tarlú go mbeadh ar dhuine a (h)ainm a chur ar liosta feithimh go dtí go mbeadh cistiú ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If this is the case the HSE will let you know when it writes to advise you whether you are eligible for State support</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más amhlaidh atá, cuirfidh an FSS é sin in iúl duit nuair a scríobhann sé chugat le rá cibé an bhfuil tú i dteideal tacaíochta Stáit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Moving from hospital care to long-term care</seg></tuv>
+  <tuv xml:lang="ga"><seg>Aistriú ó chúram ospidéil go cúram fadtéarmach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are in hospital, but no longer need acute care, then you can be charged for long-term care in that hospital</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá san ospidéal, ach muna bhfuil géarchúram de dhíth ort a thuilleadh, is féidir go ngearrfaí táille ort as cúram fadtéarmach san ospidéal sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If, for example, you are waiting to move to long-term care, then you should apply for the NHSS scheme as soon as possible</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, má tá tú ag fanacht ar aistriú go cúram fadtéarmach, ba cheart duit iarratas a dhéanamh ar STTA chomh luath agus is féidir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must apply to the HSE on the standard application form</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfear iarratas a dhéanamh chuig an FSS ar an fhoirm chaighdeánach iarratais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are 3 steps in the application process:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Trí chéim atá sa phróiseas iarratais:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Step 1 is an application for a Care Needs Assessment – see below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Céim 1 is ea iarratas ar Mheasúnacht ar Riachtanais Chúraim – féach thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Care Needs Assessment identifies whether or not you need long-term nursing home care, that is, whether you can be supported to continue living at home or whether long-term nursing home care is more appropriate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sainaithníonn an Measúnú ar Riachtanais Chúraim cibé an bhfuil cúram fadtéarmach i dteach altranais de dhíth ort, is é sin le rá, cibé an bhféadfaí tacú leat chun leanúint i do chónaí sa bhaile nó cibé an mbeadh cúram fadtéarmach i dteach altranais níos oiriúnaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Step 2 is an application for State support – see below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Céim 2 is ea iarratas ar thacaíocht Stáit – féach thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The information that you give will be used to complete the Financial Assessment – see below – which decides how much you contribute to your care and how much State support you get</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bainfear úsáid as an fhaisnéis a gheofar uait chun Measúnú Airgeadais a dhéanamh – féach thíos – a shocróidh an méid a íocfaidh tú i leith do chúraim agus an méid a íocfaidh an Stát</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Financial Assessment looks at your income and assets in order to work out what your contribution to the cost of your care will be</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féachann an Measúnú Airgeadais ar do theacht isteach agus ar do shócmhainní agus oibríonn amach an méid a íocfaidh tú i leith chostas do chúraim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The HSE will then pay the balance of your cost of care</seg></tuv>
+  <tuv xml:lang="ga"><seg>An FSS a íocfaidh iarmhéid chostas do chúraim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This payment by the HSE is called State support</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tacaíocht Stáit a thugtar ar an íocaíocht seo ón FSS</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All applicants must complete Steps 1 and 2</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór do gach iarrthóir Céimeanna 1 agus 2 a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Step 3 is an optional application for the Nursing Home Loan, that is, if you want to defer paying the part of your contribution which is based on your home or other property</seg></tuv>
+  <tuv xml:lang="ga"><seg>Céim 3 is ea iarratas roghnach ar an Iasacht Teach Altranais, is é sin le rá, má theastaíonn uait an chuid sin den ranníocaíocht atá bunaithe ar do bhaile nó ar réadmhaoin eile a chur siar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The application form should be completed and signed by the person who is applying for nursing home care</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart an fhoirm iarratais a chomhlánú agus ní mór don té atá ainmnithe ar an bhfoirm iarratais an fhoirm a shíniú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, in certain cases, another person, called a Specified Person may apply on their behalf (see below)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh duine eile, ar a dtugtar Duine Sonraithe, an t-iarratas a dhéanamh ar a s(h)on, i gcásanna áirithe (féach thíos)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Care Needs Assessment will be carried out by appropriate healthcare professionals appointed by the HSE, for example, a nurse</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gairmí cuícháilithe sláinte a cheapfaidh an FSS, altra, mar shampla, a dhéanfaidh an Measúnú ar Riachtanais Chúraim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It can be completed at any time in a hospital or a community setting such as your own home and may involve a physical examination</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir é a dhéanamh uair ar bith in ospidéal nó i suíomh pobail mar do bhaile féin, agus d’fhéadfadh scrúdú fisiceach a bheith i gceist leis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The assessment will take into account:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirfidh an measúnú na nithe seo a leanas san áireamh:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Your ability to carry out the activities of daily living, for example, bathing, shopping,dressing and moving around</seg></tuv>
+  <tuv xml:lang="ga"><seg>• do chumas gnáthghníomhaíochtaí laethúla a dhéanamh, mar shampla, tú féin a ní, a ghléasadh, siopadóireacht a dhéanamh, bogadh timpeall</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The medical, health and personal social services being provided to you or available to you both at the time of the carrying out of the assessment and generally</seg></tuv>
+  <tuv xml:lang="ga"><seg>• na seirbhísí míochaine, sláinte agus sóisialta pearsanta a fhaigheann tú nó atá ar fáil duit tráth déanta an mhéasúnaithe agus i gcoitinne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The family and community support available to you</seg></tuv>
+  <tuv xml:lang="ga"><seg>• an tacaíocht a fhaigheann tú ón teaghlach agus ón bpobal, agus</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Your wishes and preferences</seg></tuv>
+  <tuv xml:lang="ga"><seg>• do mhianta agus do rogha féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When the Care Needs Assessment has been completed a report will be prepared</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ullmhófar tuairisc nuair a bheidh an Measúnú ar Riachtanais Chúraim déanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Based on the report, the HSE must decide whether or not long-term nursing home care is the most appropriate option</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don FSS cinneadh a dhéanamh, bunaithe ar an tuairisc, cibé an é cúram fadtéarmach i dteach altranais an rogha is oiriúnaí duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Once a decision is made, you will be notified in writing within 10 working days</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirfear an cinneadh i scríbhinn chugat laistigh de dheich lá oibre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will be given a copy of the report and the reasons for the decision</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gheobhaidh tú cóip den tuairisc agus de na cúiseanna leis an gcinneadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must be assessed as needing nursing home care in order to be eligible for either State support or the Nursing Home Loan</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór tú a mheasúnú mar dhuine a bhfuil cúram teach altranais de dhíth ort le bheith cáilithe do thacaíocht Stáit nó d'Iasacht Teach Altranais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The HSE may use the Care Needs Assessment to identify other health or personal social service needs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh an FSS úsáid a bhaint as an Measúnú ar Riachtanais Chúram chun riachtanais eile sláinte nó pearsanta sóisialta a shainaithint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, there is no legal requirement for them to provide the services identified</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach níl aon cheangal orthu de réir dlí na seirbhísí sainaitheanta a sholáthar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Financial Assessment looks at your income and assets in order to work out what your contribution to care will be</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féachann an Measúnú Airgeadais ar do theacht isteach agus do shócmhainní chun an ranníocaíocht a bheidh le híoc agat i leith an chúraim a oibriú amach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The HSE will then pay the balance of your cost of care</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocfaidh an FSS iarmhéid an chostais chúraim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, if the cost of your care was €1,000 and your weekly contribution was €300, the HSE will pay the weekly balance of €700</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, má chosnaíonn do chúram €1,000 sa tseachtain, agus más é €300 do ranníocaíocht féin, íocfaidh an FSS an t-iarmhéid seachtainiúil de €700</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This payment by the HSE is called State support</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tacaíocht Stáit a thugann an FSS ar an íocaíocht seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Financial Assessment looks at all of your income and assets</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féachann an Measúnú Airgeadais ar gach teacht isteach agus sócmhainn dá bhfuil agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the case of a member of a couple, the assessment will be based on half of the couple’s combined income and assets</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más ball de lánúin thú, bunófar an measúnú ar leath de theacht isteach agus de shócmhainní na lánúine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Income includes any earnings, pension income, social welfare benefits or allowances, rental income, income from holding an office or directorship, income from fees, commissions, dividends or interest, or any income which you have deprived yourself of in the 5 years leading up to your application</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áirítear ar theacht isteach gach tuilleamh, pinsean, sochar nó liúntas leasa shóisialaigh nó teacht isteach ó chíos, teacht isteach ó oifig nó stiúrthóireacht, teacht isteach ó tháillí, ó choimisiúin, ó dhíbhinní nó ó ús, nó aon teacht isteach a choinnigh tú uait féin sna cúig bliana sula ndearna tú an t-iarratas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An asset is any material property or wealth, including property or wealth outside of the State</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sócmhainn is ea réadmhaoin ábhartha nó saibhreas, lena n-áirítear réadmhaoin nó saibhreas lasmuigh den Stát</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Assets are divided into two distinct categories, namely cash assets and relevant assets</seg></tuv>
+  <tuv xml:lang="ga"><seg>Roinntear sócmhainní in dhá chatagóir ar leith, sócmhainní airgid agus sócmhainní ábhartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Cash assets include savings, stocks, shares and securities</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áirítear ar shócmhainní airgid coigilteas, stoic, scaireanna agus urrúis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Relevant assets include all forms of property other than cash assets, for example a person’s principal residence or land</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áirítear ar shócmhainní ábhartha gach cineál réadmhaoine seachas sócmhainní airgid, mar shampla príomháit chónaithe an duine agus talamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In both cases, the assessment will also look at assets that you have deprived yourself of since applying for State support or in the 5 years before the application</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa dá chás, caithfidh an measúnú súil, chomh maith, ar shócmhainní a bhain tú díot féin ó rinne tú iarratas ar thacaíocht Stáit nó sna 5 bliana roimh an iarratas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The assessment will not take into account the income of other relatives such as your children</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chuirfidh an measúnú ar áireamh teacht isteach do ghaolta, ar nós teacht isteach do leanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your contribution to care</seg></tuv>
+  <tuv xml:lang="ga"><seg>Do ranníocaíocht i leith cúraim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Having looked at your income and assets, the Financial Assessment will work out your contribution to care</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tar éis féachaint ar do theacht isteach agus ar do shócmhainní, oibreofar amach an ranníocaíocht a bheidh le híoc agat i leith do chúraim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• 80% of your income (less deductions below) and</seg></tuv>
+  <tuv xml:lang="ga"><seg>• 80% de do theacht isteach (lúide na n-asbhaintí thíos) agus</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• 7.5% of the value of any assets per annum (5% if the application was made before 25 July 2013)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• 7.5% de luach aon sócmhainní sa bhliain (5% de na sócmhainní má rinneadh an t-iarratas roimh an 25 Iúil 2013)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, the first €36,000 of your assets, or €72,000 for a couple, will not be counted at all in the Financial Assessment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíodh sin mar atá, ní áireofar an chéad €36,000 de do shócmhainní, nó €72,000 i gcás lánúine, sa Mheasúnú Airgeadais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where your assets include land and property, the 7.5% contribution based on such assets may be deferred and paid to Revenue after your death</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás ina bhfuil talamh agus réadmhaoin ar áireamh i do shócmhainní, d'fhéadfaí an ranníocaíocht de 7.5% bunaithe ar na sócmhainní sin a chur siar agus a íoc leis na Coimisinéirí Ioncaim i ndiaidh do bháis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is known as the Nursing Home Loan</seg></tuv>
+  <tuv xml:lang="ga"><seg>An Iasacht Teach Altranais a thugtar air sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can read more about the repayment of the Nursing Home Loan in the FAQs on the Nursing Homes Support Scheme (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gheobhaidh tú tuilleadh eolais mar gheall ar aisíoc na hIasachta Teach Altranais sna Ceisteanna Coitianta mar gheall ar an Scéim Tacaíochta do Thithe Altranais(pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your principal residence will only be included in the financial assessment for the first 3 years of your time in care</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní áireofar do phríomháit chónaithe ar an mheasúnú airgeadais ach sna chéad trí bliana de do thréimhse cúraim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is known as the 22.5% or ‘three-year cap' (the cap is 15% for applications made before 25 July 2013)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar an 22.5% nó ‘an chaidhp trí bliana’ air seo (15% má rinneadh an t-iarratas roimh an 25 Iúil 2013)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It means that you will pay a 7.5% contribution based on your principal residence for a maximum of 3 years regardless of the length of time you spend in nursing home care</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn sé go n-íocfaidh tú ranníocaíocht de 7.5% bunaithe ar do phríomháit chónaithe ar feadh trí bliana ar a mhéad is cuma cén tréimhse a chaithfidh tú i dteach altranais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the case of a couple, the contribution based on the principal residence will be capped at 11.25% (7.5% for applications before 25 July 2013) where one partner remains in the home while the other enters long-term nursing home care, that is, the ‘three-year cap’ applies</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás lánúine, cuirfear caidhp 11.25% ar an ranníocaíocht atá bunaithe ar an bpríomháit chónaithe (7.5% má rinneadh an t-iarratas roimh an 25 Iúil 2013), sa chás go bhfanann páirtnéir amháin sa bhaile fad a iontrálann an páirtnéir eile cúram fadtéarma teach altranais, is é sin, bíonn éifeacht ag an ‘gcaidhp trí bliana’</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you opt for the Nursing Home Loan in respect of your principal residence, your spouse or partner can also apply to have the repayment of the Loan deferred for their lifetime</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má roghnaíonn tú an Iasacht Teach Altranais maidir le do phríomháit chónaithe, féadfaidh do chéile nó do pháirtí iarratas a dhéanamh ar shiarchur na hIasachta ar feadh a s(h)aoil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have already been in a nursing home for 3 years when you apply for the scheme, then you do not pay the 7.5% on your principal residence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhí tú i dteach altranais cheana féin ar feadh 3 bliana nuair a dhéanann tú iarratas ar an Scéim Tacaíochta do Thithe Altranais, ní gá duit an 7.5% a íoc ar do phríomháit chónaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>After 3 years, even if you are still getting long-term nursing home care, you will not pay any further contribution based on the principal residence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tar éis trí bliana, fiú má tá cúram fadtéarmach á fháil agat i gcónaí i dteach altranais, ní íocfaidh tú aon ranníocaíocht eile bunaithe ar do phríomháit chónaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This ‘three-year cap’ applies regardless of whether you choose to opt for the Nursing Home Loan or not</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá feidhm ag an ‘uasteorainn trí bliana’ seo is cuma cibé an roghnaíonn tú an Iasacht Teach Altranais nó nach roghnaíonn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All other assets will be taken into account for as long as you are in care</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirfear gach sócmhainn eile san áireamh fad a bhíonn tú ag fáil cúraim fhadtéarmaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The ‘three-year cap’ also extends to farms and businesses in certain circumstances</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leathnaítear an ‘uasteorainn trí bliana’ chuig feirmeacha agus gnóthais i gcásanna áirithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are safeguards built in to the Financial Assessment which ensure that:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuimsíonn an Measúnú Airgeadais roinnt cosaintí a chinnteoidh:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Nobody will pay more than the actual cost of care</seg></tuv>
+  <tuv xml:lang="ga"><seg>• nach n-íocfaidh duine ar bith níos mó ná costas iarbhír an chúraim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You will keep a personal allowance of 20% of your income or 20% of the maximum rate of the State Pension (Non-Contributory), whichever is the greater</seg></tuv>
+  <tuv xml:lang="ga"><seg>• go gcoimeádfaidh tú liúntas pearsanta de 20% de do theacht isteach nó 20% de uasráta an Phinsin Stáit (Neamhranníocaíoch), cibé acu is mó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you have a spouse or partner remaining at home, they will be left with 50% of the couple’s income or the maximum rate of the State Pension (Non-Contributory), whichever is the greater</seg></tuv>
+  <tuv xml:lang="ga"><seg>• má tá céile nó páirtí sa bhaile agat, go bhfágfar 50% de theacht isteach na lánúine nó uasráta an Phinsin Stáit (Neamhranníocaíoch) acu, cibé acu is mó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A couple is defined as a married couple who are living together</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sainítear lánúin mar lánúin phósta atá ag maireachtáil i bhfochair a chéile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It also includes a heterosexual or same-sex couple who are cohabiting as life partners for at least 3 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áirítear air chomh maith lánúin heitrighnéasach nó chomhghnéis atá ag maireachtáil i bhfochair a chéile ar feadh trí bliana ar a laghad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Summary table for 7.5% yearly contribution re assets</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tábla achomair maidir le ranníocaíochtaí bliantúla 7.5% bunaithe ar shócmhainní</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Asset │7.5% per│3 year cap │Option to take up Nursing Home │Option to │ │ │year │ │Loan │further defer │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│ Sócmhainn │7.5% sa bhliain │ Uasteorainn 3 bliana │ Rogha chun glacadh le hIasacht Teacht Altranais │Rogha chun é a chur siar tuilleadh │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│ │ │ │Yes, if they are a land-based │ │ │Chargeable asset│Yes │No │asset in the Irish State</seg></tuv>
+  <tuv xml:lang="ga"><seg>│ │ │ │Bainteach, más sócmhainn talamhbhunaithe í i Stát na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Principal │ │ │ │ │ │Private │Yes │Yes │Yes │Yes │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Príomháit │Bainteach │Bainteach │Bainteach │Bainteach │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Residence │ │ │ │ │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Chónaithe │ │ │ │ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Farm/Relevant │Yes │Yes (but certain │Yes, if they are a land-based │No │ │Business │ │qualifying criteria) │asset in the Irish State. │ │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Feirm/Gnóthas Ábhartha │Bainteach │Bainteach (faoi réir chritéir áirithe cháilitheachta) │Bainteach, más sócmhainn talamhbhunaithe í i Stát na hÉireann │Neamhbhainteach │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In relation to income, the following deductions are allowed:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceadaítear na hasbhaintí seo a leanas, i dtaca le teacht isteach:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Income tax, social insurance contributions and levies actually paid</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cáinioncam, ranníocaíochtaí árachais shóisialaigh agus tobhaigh a íocadh iarbhír</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Where a person owns their principal residence, interest on loans for the purchase, repair or improvement of the principal residence</seg></tuv>
+  <tuv xml:lang="ga"><seg>• I gcás ina mbaineann an phríomháit chónaithe leis an duine, ús ar iasachtaí le haghaidh ceannach, deisiú nó feabhsú na príomháite cónaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>is living in rented accommodation), rental payments in respect of the residence can be deducted where the person’s partner or a child aged under 21 of the couple lives in the residence</seg></tuv>
+  <tuv xml:lang="ga"><seg>• I gcás ina n-íocann duine cíos ar son a p(h)ríomháit chónaithe (is é sin le rá, go bhfuil cónaí air/uirthi i gcóiríocht ar cíos), féadfar íocaíochtaí cíosa maidir leis an áit chónaithe a asbhaint i gcás ina bhfuil páirtí an duine nó leanbh de chuid na lánúine atá faoi bhun 21 bliain ina gcónaí san áit chónaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Health expenses allowable for tax purposes, excluding contributions payable under the Nursing Homes Support Scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Costais sláinte is inlamháilte chun críocha cánach, seachas ranníocaíochtaí is iníoctha faoin Scéim Tacaíochta do Thithe Altranais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Maintenance payments in respect of a child, spouse or former spouse made under a separation agreement or a court order</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Íocaíochtaí cothabhála maidir le leanbh, céile nó iarchéile a rinneadh faoi chomhaontú idirscartha nó ordú cúirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the case of assets the net value of the asset is assessed, that is, its value minus any borrowings incurred specifically for the purchase or improvement of the asset</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás sócmhainní measúnaítear glanluach na sócmhainne, is é sin le rá, a luach lúide aon iasachtaí a tabhaíodh go sonrach chun an tsócmhainn a cheannach nó a fheabhsú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Payment of your contribution</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cé leis a íoctar an ranníocaíocht?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Public Nursing Home: You pay the assessed contribution to the HSE</seg></tuv>
+  <tuv xml:lang="ga"><seg>Teach Altranais Phoiblí: Íocann tú an ranníocaíocht mheasúnaithe leis an FSS</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Private Nursing Home: You pay the assessed contribution directly to the nursing home</seg></tuv>
+  <tuv xml:lang="ga"><seg>Teach Altranais Phríobháideach: Íocann tú an ranníocaíocht mheasúnaithe go díreach leis an teach altranais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The HSE pays the balance of the cost of care to the private nursing home</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocann an FSS iarmhéid an chostais chúraim leis an teach altranais príobháideach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Financial support will only be paid where a nursing home is identified as being appropriate to your needs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní íocfar tacaíocht airgeadais ach sa chás go meastar go n-oireann an teach altranais do do riachtanais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Existing nursing home residents</seg></tuv>
+  <tuv xml:lang="ga"><seg>Daoine atá anois ina gcónaí i dtithe altranais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will not be affected if you were already in a public nursing home or a HSE contract bed in a private nursing home before the Nursing Homes Support Scheme started</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bheidh aon tionchar aige seo ort má bhí tú i dteach altranais poiblí nó i leaba chonartha FSS cheana féin i dteach altranais príobháideach sular thosaigh an Scéim Tacaíochta do Thithe Altranais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can contribute to your care on the same basis as before</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú cur le do chúram ar an mbonn céanna faoi mar a rinne tú roimhe seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you were already in an approved private nursing home before the start of the scheme you can transfer to the Nursing Homes Support Scheme or keep your existing payment arrangements</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhí tú i dteach faofa altranais sular thosaigh an scéim, féadfaidh tú aistriú chuig an Scéim Tacaíochta do Thithe Altranais nó do shocruithe reatha íocaíochta a choimeád</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have been resident in the nursing home for three years or more, the financial assessment will only be based on income and assets other than your principal residence (and your farm/business in certain circumstances), that is, the ‘three year’ cap will apply</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá cónaí ort sa teach altranais ar feadh trí bliana ar a laghad, bunófar an measúnú airgeadais ar do theacht isteach agus do shócmhainní seachas ar do phríomháit chónaithe (agus ar d'fheirm/do ghnóthas i gcásanna áirithe), is é sin le rá, beidh feidhm ag an ‘uasteorainn trí bliana’</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your private nursing home is not approved for this scheme you can retain your current subvention arrangements or you can opt to apply for the scheme and change to a nursing home which is on the list</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna bhfuil do theach altranais príobháideach ceadaithe don scéim seo tá sé de rogha agat leanúint de bheith ag fáil an fhóirdheontas atá á fháil agat faoi láthair nó iarratas a dhéanamh ar an scéim agus aistriú go teach altranais atá ar an liosta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you were in an approved private nursing home before the start of the scheme, you do not need to apply for a Care Needs Assessment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhí tú i dteach faofa príobháideach altranais sular thosaigh an scéim, ní gá duit iarratas a dhéanamh ar Mheasúnacht ar Riachtanais Chúraim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can commence the process by applying for the Financial Assessment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú tús a chur leis an bpróiseas trí iarratas a dhéanamh ar an Measúnacht Airgeadais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can fill in the application form yourself, or ask someone else to help to fill it in</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat an fhoirm iarratais a chomhlánú tú féin, nó iarraidh ar dhuine éigin eile cabhrú leat í a chomhlánú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a person has reduced mental capacity, then a Specified Person (see 'Further information' below) can apply on their behalf</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá cumas meabhrach laghdaithe agat, is féidir le Duine Sonraithe í a chomhlánú ar do shon</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Applying on behalf of someone else</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag déanamh iarratais thar ceann duine éigin eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the applicant is not able to apply his/herself, a Specified Person can act on his/her behalf for Steps 1 and 2 of the application process</seg></tuv>
+  <tuv xml:lang="ga"><seg>Munar féidir leis an iarratasóir an t-iarratas a dhéanamh é/í féin, féadfaidh Duine Sonraithe an t-iarratas a dhéanamh ar a s(h)on, i gcás Céimeanna 1 agus 2 den phróiseas iarratais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Only a court appointed Care Representative (see 'Further information' below) can act on the applicant’s behalf for the Nursing Home Loan</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir ach le hIonadaí Cúraim arna cheapadh ag cúirt gníomhú thar ceann iarratasóra i gcás na hIasachta Teach Altranais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>After you send in the application form</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tar éis duit an fhoirm iarratais a sheoladh isteach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When the Care Needs and Financial Assessments have been completed, the HSE will write to you and inform you of your contribution to care, and your eligibility for State support and the Nursing Home Loan (if applicable)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a bheidh an Measúnú ar Riachtanais Chúraim agus an Measúnú Airgeadais críochnaithe, scríobhfaidh an FSS chugat ag insint duit an ranníocaíocht a bheith le híoc agat i leith an chúraim, agus cibé an bhfuil tú i dteideal tacaíochta Stáit agus na hIasachta Teach Altranais (más infheidhme)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>At this stage you will also be provided with the list of nursing homes that are participating in the scheme. This list will include public nursing homes, voluntary nursing homes and approved private nursing homes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag an gcéim seo cuirfear liosta ar fáil duit de na tither altranais atá rannpháirteach sa scéim, idir thithe altranais poiblí, thithe altranais deonacha agus thithe altranais príobháideacha ceadaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may choose any nursing home from the list subject to the following conditions:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú aon teach altranais ar an liosta a roghnú faoi réir na gcoinníollacha seo a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The home must have a place for you</seg></tuv>
+  <tuv xml:lang="ga"><seg>• ní mór go mbeadh áit ag an teach altranais duit, agus</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The home must be able to cater for your particular needs</seg></tuv>
+  <tuv xml:lang="ga"><seg>• ní mór don teach altranais a bheith oiriúnach chun freastal do do riachtanais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The nursing home will have to carry out an assessment to determine whether it can meet your particular needs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh ar an teach altranais measúnú a dhéanamh féachaint an bhfreastalóidh sé do na riachtanais atá agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your choice of nursing home is not connected in any way to the level of your contribution to care</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bheidh aon bhaint idir an rogha a dhéanfaidh tú i measc tithe altranais agus leibhéal do ranníocaíochta i leith do chúraim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Since 1 October 2011 the date of payment of State support and ancillary State support (nursing home loan) will be paid either from the date that the application is approved, or date of admission to the nursing home whichever is the later</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ón 1 Deireadh Fómhair 2011 i leith, íocfar tacaíocht Stáit agus tacaíocht choimhdeach Stáit (iasacht do theach altranais) ón dáta a cheadaítear an t-iarratas, nó ón dáta a thugtar cead isteach chuig an teach altranais, pé ceann ba dhéanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(People who applied before 1 October 2011 received the payment from the date of application or the date of admission to the nursing home whichever was the later.)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fuair daoine a rinne iarratas roimh an 1 Deireadh Fómhair 2011 an íocaíocht ó dháta an iarratais nó ó dháta an cheada isteach chuig an teach altranais, pé ceann ba dhéanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Paying your contribution If you select a public or voluntary nursing home, you will pay your contribution to the HSE or voluntary nursing home as appropriate each week and the State will pay the balance on your behalf</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má roghnaíonn tú teach altranais poiblí nó deonach, íocfaidh tú do ranníocaíocht leis an FSS nó leis an teach altranais dheonach faoi mar is cuí gach seachtain agus íocfaidh an Stát an t-iarmhéid ar do shon</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you select an approved private nursing home, you will pay your contribution to the nursing home provider each week and the State will pay the balance on your behalf</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má roghnaíonn tú teach altranais príobháideach, íocfaidh tú an ranníocaíocht chuig an soláthraí teach altranais gach seachtain agus íocfaidh an Stát an t-iarmhéid ar do shon</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can download an application form (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir foirm iarratais (pdf) a íoslódáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They are also available from any health care setting in your area, including your Local Health Office and hospitals</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá foirmeacha iarratais ar fáil chomh maith i ngach suíomh cúraim shláinte i do cheantar, agus an Oifig Sláinte Áitiúil agus ospidéil san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is more information on the scheme provided online by the Department of Health and HSE</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gheobhaidh tú tuilleadh eolais mar gheall ar an scéim ar láithreán gréasáin na Roinne Sláinte:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These information pages include links to download the following documents:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Treoir ghearr ar an Scéim Tacaíochta do Thithe Altranais(pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Quick Guide on the Nursing Homes Support Scheme (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leabhrán Eolais ar an Scéim Tacaíochta do Thithe Altranais (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Information Booklet on the Nursing Homes Support Scheme (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceisteanna Coitianta ar an Scéim Tacaíochta do Thithe Altranais (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have any questions you can contact your local Nursing Homes Support Office or contact the HSE Infoline on Callsave 1850 24 1850 or on (041) 685 0300</seg></tuv>
+  <tuv xml:lang="ga"><seg>nó cuir glao an Oifig Tacaíochta do Thithe Altranais nó cuir glao ar Líne Eolais an FSS ar 1850 24 1850 nó (041) 685 0300</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Appeals: The HSE will inform you of the appeals process and provide details of your local Appeals Office when it writes to you to inform you of the outcome of your Care Needs and Financial Assessments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Achomhairc: Cuirfidh an FSS scéala chugat mar gheall ar an bpróiseas achomhairc mar aon le sonraí d'Oifig Achomhairc áitiúil nuair a scríobhann sé chugat le toradh an Mheasúnaithe ar Riachtanais Chúraim agus an Mheasúnaithe Airgeadais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If, for example, your Care Needs Assessment found that you did not need long-term nursing home care you can appeal the decision to your local Appeals Office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, má fuair an Measúnú ar Riachtanais Chúraim nach raibh cúram fadtéarmach i dteach altranais de dhíth ort, féadfaidh tú an cinneadh sin a achomharc chuig an Oifig Achomhairc áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Reviews: Any Care Needs Assessment can be reviewed six months after a previous assessment or earlier if either:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Athbhreithniú: Is féidir aon Mheasúnú ar Riachtanais Chúraim a athbhreithniú tar éis tréimhse sé mhí nó níos luaithe más amhlaidh:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The HSE is satisfied that there has been a material change in your health or circumstances or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• go bhfuil an FSS sásta go bhfuil athrú ábhartha ar do shláinte nó ar do chúinsí nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A registered medical practitioner states that in his/her opinion there has been a material change in your health or circumstances since your most recent care needs assessment</seg></tuv>
+  <tuv xml:lang="ga"><seg>• má deir lia-chleachtóir cláraithe, ina t(h)uairim, go bhfuil athrú ábhartha ar do shláinte nó ar do chúinsí ó rinneadh an measúnú is déanaí ar do riachtanais chúraim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Reviews are carried out by your local Nursing Home Support Office and you should contact them if you want to have your Care Needs or Financial Assessment reviewed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann an Oifig Tacaíochta do Thithe Altranais áitiúil an t-athbhreithniú agus ba cheart duit teagmháil a dhéanamh leo má theastaíonn uait go ndéanfaí athbhreithniú ar do Mheasúnú ar Riachtanais Chúraim nó ar do Mheasúnú Airgeadais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Once the HSE has made a decision regarding the review, you will be notified of the decision and the reasons for the decision, in writing, within 10 working days</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a bheidh cinneadh déanta ag an FSS maidir le hathbhreithniú, cuirfear an cinneadh in iúl duit mar aon leis na cúiseanna leis an gcinneadh, i scríbhinn, laistigh de dheich lá oibre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Role of the Specified Person</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ról an Duine Shainithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where a person may need care, and because of ill-health, a physical disability or a mental condition, is unable to make an application for a care needs assessment, a specified person may apply for a care needs assessment on their behalf</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás go bhféadfadh go dteastódh cúram ó dhuine, agus mar gheall ar dhrochshláinte, ar mhíchumas fisiciúil nó ar riocht meabhrach, nach bhfuil siad in ann iarratas a dhéanamh ar mheasúnú ar riachtanais chúraim, féadfaidh duine sainithe iarratas a dhéanamh ar mheasúnú riachtanas ar a son</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where a person has reduced ability to make decisions (that is, diminished mental capacity), the specified person may also make the application for State support on their behalf</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás go bhfuil cumas laghdaithe ag duine chun cinntí a dhéanamh, is é sin, cumas laghdaithe meabhrach, féadfaidh an duine sainithe an t-iarratas a dhéanamh ar thacaíocht Stáit ar a son, chomh maith leis sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A specified person is:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is éard is duine sainithe:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are a ward of court, your Committee</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más coimircí cúirte thú, do Choiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A person appointed under a valid, registered enduring power of attorney who is not restricted from applying for the scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Duine a cheaptar faoi chumhacht sheasmhach bhailí chláraithe aturnae nach bhfuil srian air/uirthi ó iarratas a dhéanamh ar an scéim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A Care Representative appointed under the Nursing Homes Support Scheme Act 2009</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ionadaí Cúraim arna cheapadh faoin Acht fán Scéim um Thacaíocht Tithe Banaltrais, 2009</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your spouse or partner,</seg></tuv>
+  <tuv xml:lang="ga"><seg>Do chéile nó do pháirtnéir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A relative of yours who is 18 years of age or over</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gaol leat atá 18 mbliana d’aois nó níos sine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A ‘next friend’ appointed by a court</seg></tuv>
+  <tuv xml:lang="ga"><seg>‘Neaschara’ arna cheapadh ag cúirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your legal representative, or</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’ionadaí dlí, nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A registered medical practitioner, nurse or social worker</seg></tuv>
+  <tuv xml:lang="ga"><seg>Liachleachtóir, altra nó oibrí sóisialta cláraithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The people listed at A-C have first priority over those listed at D-H</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar céadtosaíocht de na daoine a liostaítear ó A go C thuas tharstu siúd ó D go H</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that they have the right to act as a specified person ahead of the other categories</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn seo go bhfuil an ceart acu feidhmiú mar dhuine sainithe chun tosaigh ar na catagóirí eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, the people listed at A-C may consent in writing to a person with lesser priority acting as the specified person</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh na daoine a liostaítear ó A go C, áfach, toiliú a thabhairt i scríbhinn do dhuine ag a bhfuil tosaíocht níos lú chun feidhmiú mar an duine sainithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where a person has reduced ability to make decisions and wishes to apply for the Nursing Home Loan, only the people listed at A-C above may make the application</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás go bhfuil cumas laghdaithe ag duine chun cinntí a dhéanamh agus más mian leo iarratas a dhéanamh ar an Iasacht Teach Altranais, ní féidir ach na daoine a liostaítear ó A go C an t-iarratas a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where your assets include land and property, the contribution based on these may be deferred until after your death</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás go n-áirítear le do shócmhainní talamh agus réadmhaoin, féadtar an ranníocaíocht 5% bunaithe orthu seo a iarchur go dtí an tráth tar éis do bháis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are approved for the Nursing Home Loan, the HSE will pay the money to the nursing home on your behalf and it will be collected after your death</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéantar tú a fhaomhadh don Iasacht Teach Altranais, íocfaidh FSS an t-airgead leis an teach altranais ar do shon agus baileofar é i ndiaidh do bháis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In certain circumstances the payment may be deferred for a longer period, for example, if a spouse or partner or your former carer is still living in your principal private residence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi chúinsí áirithe, féadtar an íocaíocht a iarchur ar feadh tréimhse níos faide, mar shampla, má tá céile nó páirtnéir nó d’iarchúramóir fós ina gcónaí i do phríomháit chónaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can apply for the Loan when you first apply for the Nursing Homes Support Scheme or at any stage while resident in the nursing home</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú iarratas a dhéanamh ar an Iasacht nuair a dhéanann tú iarratas den chéad uair ar an Scéim Tacaíochta do Thithe Altranais nó ag an tráth fad a bhíonn cónaí ort sa teach altranais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In order to apply for the Nursing Home Loan you must provide written consent to having a Charging Order registered against your asset</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhonn iarratas a dhéanamh ar an Iasacht Teach Altranais, ní mór duit toiliú i scríbhinn a chur ar fáil go ndéanfar Ordú Muirir a chlárú i leith do shócmhainní</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are part of a couple, your spouse/partner must also provide written consent</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más duine lánúine thú, ní mór do do chéile/pháirtnéir toiliú i scríbhinn a chur ar fáil chomh maith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Charging Order is a simple type of mortgage which secures the money loaned by the HSE</seg></tuv>
+  <tuv xml:lang="ga"><seg>Saghas simplí de mhorgáiste atá i gceist leis an Ordú Muirir a chuireann an t-airgead a thugann FSS ar iasacht faoi urrús</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Subject to your consent, the HSE is responsible for making the Charging Order, registering it against your asset and making Nursing Home Loan payments on your behalf</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi réir do thoilithe, tá FSS freagrach as an Ordú Muirir a dhéanamh, é a chlárú i leith do shócmhainní agus íocaíochtaí Iasacht Teach Altranais a dhéanamh ar do shon</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will not need to do anything (although the HSE may need to check with you about the information in your application)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bheidh gá duit aon rud a dhéanamh (cé gur seans go mbeidh ar FSS dul i dteagmháil leat chun an fhaisnéis i d’iarratas a sheiceáil)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a person does not have the capacity to consent to the Nursing Home Loan and the Charging Order, a Care Representative will need to be appointed to act on his/her behalf</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura mbíonn sé de chumas ar dhuine toiliú a thabhairt don Iasacht Teach Altranais agus don Ordú Muirir, beidh gá le hIonadaí Cúraim a cheapadh chun feidhmiú ar a s(h)on</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The legislation underpinning the Scheme sets out specific timeframes for repayment of the loan (depending on what has caused the repayment to arise)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagtar amach sa reachtaíocht atá mar bhonn agus taca leis an Scéim amfhrámaí sonracha chun an iasacht a aisíoc (ag brath ar céard ba chúis leis an aisíocaíocht)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As long as the repayment is made within the specified timeframes (that is, 12 months where repayment arises because the person in the nursing home has passed away and 6 months if the property is sold or transferred), interest does not have to be paid</seg></tuv>
+  <tuv xml:lang="ga"><seg>A fhad agus a dhéantar an aisíocaíocht laistigh de na hamfhrámaí sonraithe (is é sin, 12 mhí sa chás go n-eascraíonn an aisíocaíocht mar gheall go bhfuair an duine sa teach altranais bás agus 6 mhí má dhíoltar an réadmhaoin nó má aistrítear í), ní gá ús a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If, however, repayment is not made within the specified timeframes, interest applies and the HSE will apply the Consumer Price Index to the loan to take account of the time value of money (that is, inflation or deflation) since the loan was made</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura ndéantar aisíocaíocht laistigh de na hamfhrámaí sonraithe, áfach, beidh ús i gceist agus cuirfidh FSS an Praghasinnéacs Tomhaltóirí i bhfeidhm ar an iasacht chun luach ama an airgid a chur i gcuntas (is é sin, boilsciú nó díbhoilsciú) ó rinneadh an iasacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Revenue Commissioners notify people in advance of the deadlines of the need to pay on time so as to avoid paying interest</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann na Coimisinéirí Ioncaim daoine ar an eolas, roimh na spriocdhátaí, gur gá dóibh íocaíocht a dhéanamh in am trátha d’fhonn íocaíocht úis a sheachaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For more information on repayment of the Nursing Home Loan, see FAQs on the Nursing Homes Support Scheme (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun teacht ar thuilleadh faisnéise faoi aisíocaíocht na hIasachta Teach Altranais, féach Ceisteanna coitianta ar an Scéim Tacaíochta do Thithe Altranais (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A Care Representative is only required where a person has reduced capacity to make certain decisions (that is, diminished mental capacity) and wishes to apply for the Nursing Home Loan</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní theastaíonn Ionadaí Cúraim ach amháin nuair a bhíonn cumas laghdaithe ag duine chun cinntí áirithe a dhéanamh (is é sin, cumas laghdaithe meabhrach) agus gur mian leo iarratas a dhéanamh ar an Iasacht Teach Altranais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Care Representative is appointed by the Circuit Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceapann an Chúirt Chuarda an tIonadaí Cúraim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Their role is to act on behalf of the person in respect of the Nursing Homes Support Scheme and especially in respect of the Nursing Home Loan</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an ról atá acu feidhmiú ar son an duine i dtaca leis an Scéim Tacaíochta do Thithe Altranais agus go háirithe maidir leis an Iasacht Teach Altranais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They can also act on behalf ofthe person in relation to making an application for a Care Needs Assessment, State support, or any other matter relating to the scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, féadfaidh siad feidhmiú ar son an duine maidir le hiarratas a dhéanamh ar iarratas ar Mheasúnú ar Riachtanais Chúraim, tacaíocht Stáit, nó aon ábhar eile lena mbaineann an scéim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The list of people who can apply to be a Care Representative is set out below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagtar amach thíos an liosta daoine ar féidir leo bheith ina nIonadaí Cúraim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Proof of diminished mental capacity</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cruthúnas i leith cumas laghdaithe meabhrach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A person is considered to be of diminished mental capacity if, in relation to a decision on applying for the Nursing Home Loan and consenting to the Charging Order, he or she is unable:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Meastar go bhfuil cumas laghdaithe meabhrach ag duine má, maidir le cinneadh ar iarratas a dhéanamh ar an Iasacht Teach Altranais agus toiliú a thabhairt don Ordú Muirir, ní féidir leis nó léi:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To understand the information relevant to the decision</seg></tuv>
+  <tuv xml:lang="ga"><seg>An fhaisnéis lena mbaineann an cinneadh a thuiscint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To retain that information</seg></tuv>
+  <tuv xml:lang="ga"><seg>An fhaisnéis sin a choinneáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To use or weigh that information as part of the process of making the decision, or</seg></tuv>
+  <tuv xml:lang="ga"><seg>An fhaisnéis sin a úsáid nó a bhreithniú mar chuid de phróiseas déanta an chinnidh, nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To communicate his or her decision (whether by talking, using sign language, communicating through a third party or any other means)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun a c(h)inneadh a chur in iúl (cibé acu trí labhairt, teanga chomharthaíochta, cumarsáid a dhéanamh trí thríú páirtí nó trí aon bhealaí eile)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Two reports from two separate registered medical practitioners are required by the court as evidence that a person is of diminished mental capacity</seg></tuv>
+  <tuv xml:lang="ga"><seg>Teastaíonn dhá thuarascáil ó bheirt liachleachtóirí cláraithe ar leith ón gcúirt mar fhianaise go bhfuil cumas laghdaithe meabhrach ag duine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Persons who can apply for appointment as a Care Representative</seg></tuv>
+  <tuv xml:lang="ga"><seg>Daoine ar féidir leo iarratas a dhéanamh lena gceapadh mar Ionadaí Cúraim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The following persons, in order of priority, may apply to be appointed as a Care Representative once they are 18 years of age or over:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh na daoine a leanas, in ord tosaíochta, iarratas a dhéanamh go gceapfar iad mar Ionadaí Cúraim a luaithe a bhíonn siad 18 mbliana d’aois nó níos sine:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your brother or sister (whether a full or half sibling)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Do dheartháir nó do dheirfiúr (cibé acu más siblíneach iomlán nó leathshiblíneach iad)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your niece or nephew</seg></tuv>
+  <tuv xml:lang="ga"><seg>Do neacht nó do nia</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A person who appears to the court to have a good and sufficient interest in your welfare, other than the owner of a nursing home in which you reside or are likely to reside or a medical practitioner who examined you and prepared a report for the court in relation to your capacity</seg></tuv>
+  <tuv xml:lang="ga"><seg>Duine ar dócha don chúirt go bhfuil dea-spéis agus spéis leordhóthanach acu i do leas, seachas úinéir teach altranais ina gcónaíonn tú nó inar dócha go mbeidh cónaí ort nó liachleachtóir a rinne scrúdú ort agus a réitigh tuarascáil don chúirt maidir le do chumas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Procedure for appointment as a Care Representative</seg></tuv>
+  <tuv xml:lang="ga"><seg>An nós imeachta um cheapachán mar Ionadaí Cúraim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The application for appointment must be made to the County Registrar in any county in the Circuit in which the person requiring a Care Representative now lives or in which he/ she has lived at any time during the past three years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór an t-iarratas ar cheapachán a dhéanamh leis an gCláraitheoir Contae in aon chontae sa Chiorcad ina gcónaíonn an duine óna dteastaíonn Ionadaí Cúraim anois nó inar chónaigh sé/sí ag tráth ar bith le trí bliana anuas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You do not need to obtain legal representation in order to be appointed as a Care Representative</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní gá duit ionadaíocht dhlíthiúil a fháil go gceapfar thú mar Ionadaí Cúraim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, anyone who wishes to seek legal advice/representation is free to do so</seg></tuv>
+  <tuv xml:lang="ga"><seg>Díolúintí leis an gceanglas lena mbaineann ceapachán mar Ionadaí Cúraim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For more information on the legal procedure, see Information Booklet on the Nursing Homes Support Scheme (pdf</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sa chás go bhfuil duine eile ceadaithe ag an dlí chun feidhmiú ar son an iarratasóra</seg></tuv>
+</tu>
+</body>
+</tmx>

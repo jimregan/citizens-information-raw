@@ -1,0 +1,245 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Cancer is one of the main causes of death in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá ailse ar cheann de na príomhchúiseanna báis in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have any concerns regarding cancer or have a family history of cancer or have symptoms that you are worried about, you should contact your family doctor (GP)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá imní ar bith ort mar gheall ar ailse nó má tá stair ailse i measc do mhuintire nó má tá comharthaí ort a bhfuil tú buartha fúthu, ba cheart duit dul i dteagmháil le do dhochtúir ginearálta (DG)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Cancer care services are provided by your family doctor (GP), hospitals and community care services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann do dhochtúir ginearálta (DG), ospidéil agus seirbhísí cúram pobail seirbhísí cúram ailse ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are also palliative care services, that is, care for a patient and his/her family when there is no longer a medical expectation of a cure</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá seirbhísí cúraim mhaolaithigh ar fáil chomh maith, is é sin, cúram d'othar agus a m(h)uintir nuair nach bhfuil na gairmithe liachta ag súil go mbeidh biseach air/uirthi</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>HSE National Cancer Control Programme (NCCP)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Clár Náisiúnta Rialaithe Ailse FSS (NCCP)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is widely accepted that the best outcomes for cancer patients are achieved when the initial diagnosis, treatment plan, surgery and radiotherapy are carried out by multi-disciplinary teams dealing with large numbers of patients</seg></tuv>
+  <tuv xml:lang="ga"><seg>Glactar leis go forleathan go mbaintear na torthaí is fearr amach d’othair ailse nuair a dhéanann foirne ildisciplíneacha, a láimhseálann líon mór othar, an phríomhdhiagnóis, an plean cóireála, an máinliacht agus an radaiteiripe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In 2007 the Health Service Executive (HSE) established a National Cancer Control Programme to manage, organise and deliver a national programme for the entire population</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa bhliain 2007, bhunaigh Feidhmeannacht na Seirbhíse Sláinte (FSS) an Clár Náisiúnta Rialaithe Ailse chun clár náisiúnta a bhainistiú, a eagrú agus a sheachadadh don phobal uile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the NCCP there are eight cancer centres within four managed cancer control networks nationally</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoin gClár seo, tá ocht n-ionad ailse laistigh de cheithre líonra rialaithe bhainistithe ailse go náisiúnta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All initial diagnosis and surgery will eventually take place in these cancer centres</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé beartaithe go ndéanfar gach príomhdhiagnóis,agus gach máinliacht sna ionaid ailse seo sa deireadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Chemotherapy and follow up care will be delivered more locally, according to care plans set at the cancer centres</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirfear ceimiteiripe agus iarchúram ar fáil in ionaid níos áitiúla, de réir pleananna cúraim a shocrófar ag na hionaid ailse</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are Rapid Access Clinics for prostate cancer detection and treatment and lung cancer detection and treatment in all eight cancer centres</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Clinicí Mear-Rochtana ann le haghaidh brath agus cóireáil ailse phróstatach agus ailse scámhóg i ngach ceann de na hocht n-ionad ailse</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may be referred to one of these by your GP or other medical professional</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh do LG nó gairmí eile leighis thú a atreorú chuig ceann díobh seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│HSE Dublin North East │ │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│FSS Baile Átha Cliath Thoir Thuaidh │ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│ │Mater Misericordiae Hospital │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│ │Ospidéal Mater Misericordiae │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│ │St. James's Hospital │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│ │Ospidéal San Séamas │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│HSE Dublin Mid Leinster │ │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│FSS Baile Átha Cliath Lár-Laighean │ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│ │St. Vincent's Hospital │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│ │Ospidéal Ollscoile Uinsinn │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│ │Cork University Hospital │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│ │Ospidéal Ollscoile Chorcaí │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│HSE South │ │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│FSS Theas │ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│ │Waterford Regional Hospital │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│ │Ospidéal Réigiúnach Phort Láirge │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│ │University Hospital Galway │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│ │Ospidéal an Ollscoile, Gaillimh │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│HSE West │ │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│FSS Thiar │ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│ │Limerick Regional Hospital │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│ │Ospidéal Réigiúnach Luimnigh │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>National Cancer Screening Service</seg></tuv>
+  <tuv xml:lang="ga"><seg>An tSeirbhís Náisiúnta Ailse-Scrúdaithe (NCSS)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The National Cancer Screening Service is part of the NCCP and provides the following cancer screening programmes:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an tSeirbhís Náisiúnta Scagtha Ailse mar chuid den NCCP agus soláthraíonn siad na cláir scagtha ailse a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• BreastCheck, the National Breast Screening Programme</seg></tuv>
+  <tuv xml:lang="ga"><seg>• BreastCheck an Clár Náisiúnta Scagthástála Cíoch</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• CervicalCheck, the National Cervical Screening Programme</seg></tuv>
+  <tuv xml:lang="ga"><seg>• CervicalCheck an Clár Náisiúnta Scagthástála Ceirbheacs</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• BowelScreen, the National Bowel Screening Programme</seg></tuv>
+  <tuv xml:lang="ga"><seg>• BowelScreen an Clár Náisiúnta Scagthástála Putóige</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The National Cancer Registry is a statutory body whose function is to collect and analyse data and report on cancer incidence and mortality in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is comhlacht reachtúil í an Chlárlann Náisiúnta Ailse ag a bhfuil sé mar aidhm sonraí a bhailiú agus a anailísiú, agus tuairiscí ar mhinicíocht ailse agus ar ráta básmhaireachta de bharr ailse in Éirinn a thabhairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Child oncology patients and children with permanent disabilities</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leanaí arb othair oinceolaíochta iad agus leanaí atá faoi mhíchumais bhuana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the case of children receiving treatment for cancer (that is, child oncology patients) and children with permanent disabilities, tax relief may be claimed on certain telephone, overnight accommodation, travel, hygiene products and special clothing expenses incurred as health expenses</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás leanaí atá ag fáil cóireála in aghaidh ailse (is é sin, leanaí arb othair oinceolaíochta iad) agus leanaí atá faoi mhíchumais bhuana, is féidir faoiseamh cánach a éileamh ar chostais áirithe teileafóin, cóiríochta thar oíche, taistil, táirgí sláinteachais agus sainéadaí atá tabhaithe mar chostais sláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read more about taxation of medical expenses in Ireland here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léigh tuilleadh faoi cháin agus costais leighis in Éirinn anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some people who are referred to a cancer centre may need help with the costs of travelling to their appointment(s)</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh sé go dteastódh cúnamh ó roinnt daoine a atreorófaí chuig ionad ailse leis na costais a bhaineann le taisteal chuig a gcoinne/í</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The NCCP therefore funds a Travel2Care scheme, which is administered by the Irish Cancer Society</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin, déanann Clár Náisiúnta Rialaithe Ailse FSS an scéim Travel2Care a mhaoiniú, scéim atá á riaradh ag Cumann Ailse na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The scheme may help patients with some travel costs if they have genuine financial hardship or need due to travelling to a cancer centre</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh sé go gcabhródh an scéim le costais taistil othar dá mbeidís i gcruachás ó thaobh airgid de, nó dá mbeidís i ngátar mar thoradh ar thaisteal chuig ionad ailse</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Patients who are attending a designated cancer care centre for assessment and/or investigations in one of the approved centres can apply by downloading and completing Application Form A: Assessment and Investigation (pdf) or request a hardcopy to be posted by contacting: Travel2Care, Irish Cancer Society, Tel: (01) 231 6643/ 231 6619 or email travel2care@irishcancer.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat foirm iarratais a fháil go díreach ó Eimear Considine, Travel2Care, Cumann Ailse na hÉireann, Teil: 01-2316619 nó ríomhphost travel2care@irishcancer.ie nó íoslódáil an fhoirm ó láithreán Gréasáin Chumann Ailse na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Care To Drive programme</seg></tuv>
+  <tuv xml:lang="ga"><seg>An clár ‘Tiomáint mar Chúram’ ('Care to Drive’)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Care to Drive is a volunteer-led transport initiative in which the Irish Cancer Society recruit and train volunteers to drive patients to and from their chemotherapy appointments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tionscnamh iompair atá faoi threoir deonaithe is ea an clár ‘Tiomáint mar Chúram’ ina ndéanann Cumann Ailse na hÉireann deonaithe a earcú agus oiliúint a chur orthu chun othair a thiomáint chuig agus óna gcoinní ceimiteiripe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The service is free to the patient and the hospital</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seirbhís saor in aisce atá inti don othar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is not yet nationally available</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl fáil ar an tseirbhís go náisiúnta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is currently available in the following hospitals:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sí ar fáil faoi láthair sna hospidéil a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• St. James's Hospital, Dublin</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ospidéal San Séamas, Baile Átha Cliath</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• St. Vincent's University Hospital, Dublin</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ospidéal Ollscoile Naomh Uinseann, Baile Átha Cliath</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Connolly Hospital, Blanchardstown, Dublin</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ospidéal Uí Chonghaile, Baile Bhlainséir, Baile Átha Cliath</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Mater Misericordiae University Hospital, Dublin (public)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ospidéal Ollscoile Mater Misericordiae, Baile Átha Cliath (poiblí)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Mid Western Regional Hospital, Limerick</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ospidéal Réigiúnach an Mheán-Iarthair, Luimneach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Midlands Regional Hospital, Tullamore</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ospidéal Réigiúnach Lár Tíre, Tulach Mhór</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Adelaide and Meath Hospital, Tallaght</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ospidéal Adelaide &amp; na Mí, Tamhlacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The Mercy Hospital, Cork</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ospidéal Ollscoile na Trócaire, Corcaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The patient must present themselves to the social worker in the partner hospital or to the nurse administering their chemotherapy treatment who will then perform an assessment on the patient and can refer them to the service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don othar iad féin a chur in iúl don oibrí sóisialta san ospidéal páirtnéara nó don altra a chuirfidh cóir cheimiteiripe orthu agus a thabharfaidh faoi mheasúnú ansin ar an othar agus ar féidir leo t-othar a chur ar aghaidh chuig an tseirbhís</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For more information call the Irish Cancer Society on (01) 231 0522 or (01) 231 0566</seg></tuv>
+  <tuv xml:lang="ga"><seg>Le tuilleadh faisnéise a fháil, cuir glao ar Chumann Ailse na hÉireann: 01 231 0522 nó 01 231 0566</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Irish Cancer Society is a voluntary organisation that provides support and help to cancer sufferers and their families</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is eagraíocht dheonach é Cumann Ailse na hÉireann a chuireann tacaíocht agus cúnamh ar fáil dóibh siúd a bhfuil ailse orthu agus dá muintir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It provides some nursing services and funds some palliative care and twilight nursing services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Soláthraíonn sé roinnt seirbhísí altranais agus déanann sé roinnt seirbhísí cúraim mhaolaithigh agus seirbhísí altranais “breacsholais” a mhaoiniú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It has local branches in most parts of the country</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá craobhacha áitiúla ag an gCumann ar fud na tíre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Locall:Freephone Helpline 1800 200 700</seg></tuv>
+  <tuv xml:lang="ga"><seg>Lóghlao:Freephone Helpline 1800 200 700</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>CanTeen is a support group for young people aged 12–25 who have had cancer and for their families and friends</seg></tuv>
+  <tuv xml:lang="ga"><seg>Grúpa tacaíochta é CanTeen Éireann do dhaoine óga idir 12-25 bliana d’aois a bhfuil ailse orthu, agus dá gcairde gaoil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It operates from the Irish Cancer Society premises</seg></tuv>
+  <tuv xml:lang="ga"><seg>Oibríonn sé as áitreabh Chumann Ailse na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Cancer Helpline Freefone 1800 200 700</seg></tuv>
+  <tuv xml:lang="ga"><seg>Líne Cabhrach don ailse Saorfhón 1800 200 700</seg></tuv>
+</tu>
+</body>
+</tmx>

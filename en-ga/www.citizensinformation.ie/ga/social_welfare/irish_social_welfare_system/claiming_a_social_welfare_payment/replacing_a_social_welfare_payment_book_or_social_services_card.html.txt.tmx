@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>How social welfare payments are paid</seg></tuv>
+  <tuv xml:lang="ga"><seg>Athsholáthar leabhar leasa shóisialaigh nó Cárta Seirbhísí Sóisialacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you live in Ireland and are getting a social welfare payment, you can request the method by which you are paid</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chónaíonn tú in Éirinn agus má tá íocaíocht leasa shóisialaigh á fáil agat, féadfaidh tú an modh a íoctar thú a iarraidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• By Electronic Funds Transfer (EFT): your social welfare payment is paid directly into your personal account at a bank, building society or at certain credit unions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cinntí riaracháin a bhíonn i gceist leis na cinntí a dhéantar ar an rogha modh íocaíochta laistigh den Roinn Coimirce Sóisialaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>DSP will decide if you can be paid by EFT</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá 3 modh íocaíochta éagsúla ann:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• By cash in your local post office: you will need a Public Services Card or Social Services Card for identification to collect cash payments at your local post office</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Airgead i d’oifig poist áitiúil: Is féidir Cárta Seirbhísí Leasa Shóisialaigh (SWS) ar mhaithe le cúrsaí aitheantais a úsáid chun íocaíochtaí airgid a bhailiú ag d'oifig poist áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If using an SSC, you will also require photo ID</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirtear an Cárta Seirbhísí Poiblí in ionad an SWS</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• By cheque: your social welfare payment cheque can be cashed in your local post office or lodged to an account in a financial institution</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seic • Ríomhaistriú Airgid: íocaíocht leasa shóisialaigh a íoctar díreach isteach i do chuntas bainc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Social welfare payments are no longer paid using a book of payable orders that you can cash at your local post office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní íoctar íocaíochtaí leasa shóisialaigh trí leabhar pá-orduithe le briseadh ag d'oifig poist áitiúil a thuilleadh</seg></tuv>
+</tu>
+</body>
+</tmx>

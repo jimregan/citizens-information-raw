@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Case study: Claiming constructive dismissal</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cás-Staidéar: éileamh i ndáil le dífhostú inchiallaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Jean worked as the area manager of a company for 10 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'oibrigh Jean mar bhainisteoir limistéir i gcomhlacht ar feadh 10 mbliana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Brian worked as the accountant of the company</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'oibrigh Brian mar chuntasóir an chomhlachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Three years ago, Jean went on maternity leave and after she returned to work, she found that many of her responsibilities were being gradually removed and given to Brian</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chuaigh Jean ar shaoire mháithreachais 3 bliana ó shin agus tar éis di filleadh ar an obair, fuair sí go raibh mórán dá cuid freagrachtaí á mbaint uaithi go mall agus á thabhairt do Bhrian</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Jean claimed her position was intolerable</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'éiligh Jean go raibh a staid oibre dofhulaingthe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>She contacted her manager to complain and was assured her responsibilities would soon be transferred back to her and that her work situation would return to normal</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rinne sí teagmháil lena bainisteoir chun gearán a dhéanamh agus cinntíodh léi go n-aistreofaí na freagrachtaí ar ais chuici go luath agus go bhfillfeadh a staid oibre mar a bhí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When there was no improvement in the situation, she wrote to the manager again</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair nach raibh aon fheabhas ar an staid oibre, scríobh sí chuig an mbainisteoir arís</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Her letter said that unless she received a reply within 7 days confirming her functions and responsibilities as area manager were the same as before, she would consider herself constructively dismissed and leave her employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dúirt a litir mura bhfaigheadh sí freagra laistigh de 7 lá ag dearbhú go raibh a cuid feidhmeanna agus freagrachtaí mar bhainisteoir limistéir mar a bhí cheana, go measfadh sí í féin dífhostaithe go hinchiallaithe agus go bhfágfadh sí a fostaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Jean then made a claim for constructive dismissal against her employer but was her claim successful?   Answer</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rinne Jean ansin éileamh i ndáil le dhífhostú inchiallaithe in aghaidh a fostóir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Employment Appeals Tribunal decided that the company had appointed Brian as joint area manager without consultation or notice to Jean and this conduct had undermined the relationship of confidence and trust between her and the company</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rinne an Binse Achomhairc Fostaíochta cinneadh gur cheap an comhlacht Brian mar chomhbhainisteoir limistéir gan comhairliú le nó fógra a thabhairt do Jean agus tá an iompar seo tar éis an ghaolmhaireacht muiníne agus iontaoibhe idir í féin agus an comhlacht a lagú go mór</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Tribunal found that it reasonable that she found this undermining of her confidence and trust in her</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fuair an Binse go raibh sé réasúnta go bhfuair sí gur baineadh an bonn den mhuinín agus iontaoibh inti</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The managing director had failed to communicate with her to reassure her about her position and to maintain the relationship of confidence and trust</seg></tuv>
+  <tuv xml:lang="ga"><seg>Theip ar an stiúrthóir bainistíochta cumarsáid léi chun cinntiú léi faoina staid oibre agus gaolmhaireacht mhuiníne agus iontaoibhe a chothabháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This conduct indicated that the company no longer intended to be bound by the terms of her contract as area manager</seg></tuv>
+  <tuv xml:lang="ga"><seg>Thug an t-iompar seo le fios nach raibh sé ar intinn ag an gcomhlacht cloí le téarmaí an chonartha s'aici mar bhainisteoir limistéir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Therefore she was entitled to terminate her employment because of the conduct of her employer and was constructively dismissed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dá bhrí sin, bhí sí i dteideal críoch a chur lena cuid fostaíochta toisc iompar an fhostóra s'aici agus bhí sí dífhostaithe go hinchiallaithe</seg></tuv>
+</tu>
+</body>
+</tmx>

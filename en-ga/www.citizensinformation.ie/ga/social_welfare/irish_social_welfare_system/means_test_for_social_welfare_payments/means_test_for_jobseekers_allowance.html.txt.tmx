@@ -1,0 +1,277 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Means test for Jobseeker's Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tástáil mhaoine don Liúntas Cuardaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Capital and property not personally used</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Maoin atá úsáidte go pearsanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Living with your parents</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag cónaí le do thuismitheoirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To qualify for Jobseeker’s Allowance (JA) you must satisfy a mean test</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun cáiliú don Liúntas Cuardaitheora Poist, caithfidh tú tástáil mhaoine a shásamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In a means test the Department of Social Protection examines all your sources of income to test if they fall below a certain level</seg></tuv>
+  <tuv xml:lang="ga"><seg>Le tástáil mhaoine, scrúdaíonn an Roinn Coimirce Sóisialaí d’fhoinsí ioncaim ar fad chun tástáil an dtiteann tú faoi leibhéal áirithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If they fall below that level you will get Jobseeker’s Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gheobhaidh tú Liúntas Cuardaitheora Poist má thiteann siad faoin leibhéal sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The amount of Jobseeker’s Allowance you get depends on your income level</seg></tuv>
+  <tuv xml:lang="ga"><seg>Braitheann méid an Liúntais Cuardaitheora Poist a fhaigheann tú ar an leibhéal ioncaim atá agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the means test for Jobseeker’s Allowance your household income is assessed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa tástáil mhaoine don Liúntas Cuardaitheora Poist, déantar d’ioncam teaghlaigh a mheasúnú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are married, in a civil partnership or cohabitating, the means of your spouse, civil partner or cohabitant are also taken into account</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú pósta, i bpáirtnéireacht shibhialta nó ag comhchónaí, déantar acmhainní do chéile/pháirtnéir sibhialta/chomhchónaitheoir a thógáil san áireamh chomh maith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Sometimes a certain amount of income or income from particular sources is not taken into account</seg></tuv>
+  <tuv xml:lang="ga"><seg>Uaireanta, ní dhéantar méid áirithe ioncaim nó ioncam ó fhoinsí áirithe a thógáil san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Income not taken into account is often referred to as an income disregard</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is minic a thagraítear d’ioncam nach gcuirtear san áireamh mar "neamhaird ioncaim"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The means test for Jobseeker’s Allowance can be a complex calculation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le ríomh na tástála maoine don Liúntas Cuardaitheora Poist a bheith casta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Here we look at some of the general items that are taken into account in the means test</seg></tuv>
+  <tuv xml:lang="ga"><seg>Breathnaímid anseo ar mhíreanna ginearálta nach dtógtar san áireamh sa tástáil mhaoine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The means test examines the following types of income:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Scrúdaíonn an tástáil mhaoine na cineálacha ioncaim a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Cash income (including income from work)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ioncam in airgead tirim (lena n-áirítear ioncam oibre)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Capital (savings and investments) and property not personally used</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Caipiteal (coigiltis agus infheistíochtaí) agus maoin nach bhfuil úsáidte go pearsanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Benefit and privilege from living with your parents</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Leas agus pribhléid ó bheith i do chónaí le do thuismitheoirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The means test assesses all cash income that you expect to get in the forthcoming year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar measúnú sa tástáil mhaoine ar an ioncam ar fad in airgead tirim a thuartar a fháil sa bhliain romhainn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If it is not possible to estimate your income over the next 12 months, it is usually based on the income you actually received in the previous year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil sé indéanta d’ioncam don chéad 12 mhí eile a mheas, déantar measúnú ar an bhfigiúr trí mhéid an ioncaim sa bhliain roimhe sin a ríomh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Among the cash income that is assessed is:</seg></tuv>
+  <tuv xml:lang="ga"><seg>An t-ioncam in airgead tirim a dhéantar a mheasúnú ná:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Income from a social security pension from another country</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ioncam ó phinsean slándála sóisialaí i dtír eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Income from maintenance, for example, if you are separated</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ioncam ó chothabháil, má tá tú idirscartha mar shampla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most social welfare payments are not taken into account</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chuirtear tromlach na n-íocaíochtaí leasa shóisialaigh ná íocaíochtaí Feidhmeannachta na Seirbhíse Sláinte san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Find out more about cash income not included in the means test</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigh tuilleadh eolais faoi ioncam in airgead tirim nach gcuirtear san áireamh i dtástáil mhaoine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The house in which you live is not included in the assessment of your means unless you are getting an income from it</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sochar Breoiteachta • Pinsean Míchumais (nuair a íoctar in éineacht le Sochar Breoiteachta nó Forlíonadh Éagumais é) • Sochar Díobhála • Pinsean Easláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have rented a room in the house, that income is assessed but the capital value of your home is not</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Pinsean Stáit (Neamhranníocach) • Pinsean Stáit (Ranníocach) • Pinsean Stáit (Idirthréimhseach)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Capital and property not personally used</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Mar shampla (rátaí ó Márta 2017): │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Capital includes property (not your home), savings and investments</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Gheobhaidh Paul Liúntas Cuardaitheora Poist de €141.70 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you own property (excluding your home) or you have investments or any other form of capital, the value is assessed using a standard formula (see below), whether or not you are getting an income from the property or investment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní áirítear an teach cónaithe atá agat sa mheasúnú acmhainní murach go bhfuil ioncam á fháil uaidh. Má tá seomra ar cíos agat sa teach, déantar measúnú ar an ioncam sin ach ní dhéantar luach an tí a mheasúnú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If property is rented you will not be assessed on the actual income from the letting</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caipiteal agus maoin nach bhfuil úsáidte go pearsanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Any outstanding mortgage registered against the property is deducted from the market value to find the capital value</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áirítear maoin (seachas do theach féin), coigiltis agus infheistíochtaí mar chaipiteal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The property and investments that may be assessed include savings in a bank account (or anywhere else), a house that you have let and stocks and shares</seg></tuv>
+  <tuv xml:lang="ga"><seg>I measc na maoine agus na n-infheistithe ar féidir measúnú a dhéanamh orthu faoin gceannteideal seo tá coigilteas i gcuntas bainc (nó aon áit eile), teach a ligeann tú ar cíos agus stoic agus scaireanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you or your spouse, civil partner or cohabitant saves a portion of your social welfare payment each week, these savings as well as savings from most other sources will be taken into account as part of your means</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéanann do chéile/pháirtnéir sibhialta/chomhchónaitheoir cuid de d’íocaíocht leasa shóisialaigh a choigilt gach seachtain, cuirfear an coigilteas sin agus coigilteas ó bheagnach gach foinse eile san áireamh mar chuid de do mhaoin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The formula for assessing the value of capital including property (but not your own home), savings and investments is as follows:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seo a leanas an fhoirmle maidir luach an chaipitil a mheasúnú lena n-áirítear do theach (seachas do theach), coigiltis agus infheistíochtaí:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Capital │Weekly means assessed │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Caipiteal │Maoin sheachtainiúil measúnaithe │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│First €20,000 │Nil │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│An chéad €20,000 │Dada │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Next €10,000 │€1 per €1,000 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│An chéad €10,000 eile │€1 de réir €1,000 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Next €10,000 │€2 per €1,000 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│An chéad €10,000 eile │€2 de réir €1,000 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Balance (€40,000 +) │€4 per €1,000 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Iarmhéid (€40,000 +) │€4 de réir €1,000 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have a joint account with your spouse, civil partner or cohabitant, legally the total amount in the account is owned by each of you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá comhchuntas agat le do chéile nó do pháirtí, tá úinéireacht ag an mbeirt agaibh ar an méid iomlán atá sa chuntas de réir an dlí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Therefore it can be assessed in full against each of you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin is féidir measúnú a dhéanamh air ina iomláine i gcoinne na beirte agaibh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if you are both getting means-tested payments it will be assessed on a shared basis or against only one of you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin féin, má tá tú féin agus do chéile/pháirtnéir sibhialta/chomhchónaitheoir ag fáil íocaíochtaí atá tástáilte ó thaobh maoine, déanfar iad a mheasúnú ar bhonn roinnte nó do dhuine amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│If you have €55,000 savings: │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Má tá coigiltis €55,000 agat: │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│The first €20,000 is assessed as nil, €20,000 to €30,000 is assessed as €10, €30,000 to €40,000 is│ │assessed as €20, €40,000 and €55,000 is assessed as €60. │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Déantar an chéad €20,000 a mheasúnú mar neamhní, €20,000 go €30,000 a mheasúnú mar €10, €30,000 go €40,000 a mheasúnú mar €20, €40,000 agus €55,000 a mheasúnú mar €60.│</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Savings of €55,000 gives a means of €90 per week</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Tugann coigiltis €55,000 acmhainní de €90 in aghaidh na seachtaine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Living with your parents</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag cónaí le do thuismitheoirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are 24 years of age or under and you are living with a parent or a step-parent in the family home, some of your parents' income will also be taken into account in the assessment for Jobseeker's Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú 24 bliana d’aois nó faoina bhun agus má tá tú i do chónaí le tuismitheoir nó le leastuismitheoir in áras an teaghlaigh, cuirfear cuid d’ioncam do thuismitheoirí san áireamh nuair atá measúnú á dhéanamh ó thaobh Liúntais Cuardaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is called an assessment of the benefit and privilege you get from living with your parents</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar measúnú ar 'leas agus pribhléid' ó bheith i do chónaí le do thuismitheoirí ar an measúnú seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>More information is available on how benefit and privilege is assessed in the means test</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh eolais ar fáil faoi conas a dhéantar leas agus pribhléid a mheasúnú i dtástáil mhaoine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To find your total means, your means under the various headings (for example, cash income, employment, capital, benefit and privilege) are added together</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun d’acmhainní iomlána a fháil, déantar d’acmhainní a shuimiú le chéile faoi cheannteidil éagsúla (mar shampla, ioncam in airgead tirim, fostaíocht, caipiteal, leas agus pribhléid)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are married, in a civil partnership or cohabiting and your partner is getting a social welfare payment in their own right your means may be halved - see ‘Couples’ below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más lánúin phósta, páirtnéireacht sibhialta nó ag maireachtáil i bhfochair a chéile atá i gceist, déanfar d’acmhainní a roinnt faoi leath (féach ‘Lánúineacha’ thíos)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your total household means is then deducted from the maximum payment for your situation (see below) to find the actual amount of Jobseeker’s Allowance you are entitled to</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar acmhainní iomlána an teaghlaigh agat a asbhaint ón íocaíocht uasta ansin (féach thíos) chun méid iarbhír an Liúntais Cuardaitheora Poist lena bhfuil tú incháilithe a dhéanamh amach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Maximum payment for your situation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocaíocht uasta o thaobh do chúinsí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The maximum payment for your situation is the maximum personal rate of Jobseeker's Allowance including any increases for adult and child dependants</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is íocaíocht uasta o thaobh do chúinsí í an ráta pearsanta Liúntais Cuardaitheora Poist lena n-áirítear méaduithe ar bith do chleithiúnaithe aosaigh agus leanaí cleithiúnacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if you are married, in a civil partnership or cohabiting and your spouse, civil partner or cohabitant is getting a social welfare payment in their own right, your joint means are halved and the maximum payment for your situation will not include an increase for an adult dependant and will only include half-rate increases for your child dependants (see 'Couples' below)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áfach má tá tú pósta nó ag maireachtáil i bhfochair a chéile agus roinntear d’acmhainní faoi leath, ní áirítear an méadú do dhuine fásta cáilithe agus ach amháin leath-ráta an mhéadú do chleithiúnaí linbh san íocaíocht uasta o thaobh do chúinsí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your age can also determine the maximum payment for your situation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le d'aois an uasráta íocaíochta le haghaidh do chúinsí a chinneadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>More information on the JA rate for people under 26 can be found in our document on Jobseeker's Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh eolais maidir le ráta LCP do dhaoine faoi 26 bliana d’aois ar fáil inár ndoiciméid faoi Liúntas Chuardaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your spouse, civil partner or cohabitant has a social welfare payment in their own right (except Child Benefit, Disablement Pension, guardian's payments, Supplementary Welfare Allowance, Domiciliary Care Allowance or half-rate Carer's Allowance) or is on a Further Education and Training (FET) or VTOS course and getting a payment in their own right you cannot claim an Increase for a Qualified Adult for them</seg></tuv>
+  <tuv xml:lang="ga"><seg>Roinntear d’acmhainní faoi leath má tá do chéile/pháirtnéir sibhialta/chomhchónaitheoir:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that the maximum you can be paid is the maximum Jobseeker’s Allowance payment for a single person plus a half-rate allowance for each qualified child</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag fáil íocaíochta leasa shóisialaigh (seachas Sochar Linbh, Pinsean Míchumais, Liúntas Cúram Baile, íocaíocht chaomhnóra, Liúntas Leasa Forlíontach agus Liúntas Cúramóra leath-ráta)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(Your spouse, civil partner or cohabitant will get a half-rate payment for each qualified child with their payment.)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ar chúrsa Cúrsaí oiliúna Breisoideachais agus Oiliúna (BOO) nó SDOG agus ag fáil liúntais ina c(h)eart féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can claim an increase for your spouse, civil partner or cohabitant while they are taking part in a Community Employment (CE) scheme. Their earnings from the scheme are assessed in the same way as earnings from insurable employment (and your combined means are not halved)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má ghearrtar d’acmhainní faoi leath, ní bhfaighidh tú an méadú le haghaidh duine fásta cáilithe ach is féidir leat méadú leathráta a fháil do gach leanbh incháilithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a couple are both claiming Jobseeker’s Allowance in their own right the rate paid to each person is half of the family rate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má ghlacann do chéile, pháirtnéir sibhialta nó chomhchónaitheoir páirt i scéim Fostaíochta Pobail, d’fhéadfá méadú a fháil dóibh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The total amount payable to a couple where one or both are under 26 can vary depending on who makes the claim (see examples below)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar measúnú ar a thuilleamh ón scéim ar an mbealach céanna a dhéantar amhlaidh ar ioncam ó obair inárachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Disablement Pension (when paid with Illness Benefit or Incapacity Supplement)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat tuilleadh eolais a fháil i dTreoirlínte Oibriúcháin na Roinn Coimirce Sóisialaí faoi:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Invalidity Pension • State Pension (Non-Contributory)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ioncam in airgead tirim a mheasúnú mar acmhainní</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• State Pension (Transition) • Jobseeker's Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Maoin lánúin a mheasúnú mar acmhainní</seg></tuv>
+</tu>
+</body>
+</tmx>

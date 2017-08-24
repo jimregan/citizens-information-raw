@@ -1,0 +1,325 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Classification of crimes in criminal cases</seg></tuv>
+  <tuv xml:lang="ga"><seg>Coireanna a aicmiú i gcúiseanna coiriúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A crime is defined in law in Ireland as an act which may be punished by the State</seg></tuv>
+  <tuv xml:lang="ga"><seg>De réir dlí na hÉireann, is í coir ná gníomhaíocht inphionóis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The way in which a criminal offence is investigated and prosecuted depends on the type of crime involved</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar imscrúdú ar chion coiriúil agus déantar é a ionchúiseamh bunaithe ar an gcineál coire atá i gceist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For these purposes criminal offences may be described in different ways such as:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun na críche seo, féadtar cionta coiriúla a aicmiú mar seo a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Summary and indictable offences</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cionta Achomair agus Indíotáilte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are two ways criminal offences can be tried in Irish law:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Úsáidtear dhá mhodh chun cionta coiriúla a thriail in Éirinn:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• In the lower court (District Court) before a judge without a jury</seg></tuv>
+  <tuv xml:lang="ga"><seg>• I gcúirteanna áitiúla (Cúirt Dúiche), os comhair breithimh ach gan coiste dháréag a bheith i láthair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• In the higher courts (Circuit Criminal Court, Central Criminal Court) before a judge and jury</seg></tuv>
+  <tuv xml:lang="ga"><seg>• I gcúirteanna náisiúnta (An Chúirt Chuarda Choiriúil, An Phríomhchúirt Choiriúil) os comhair breithimh agus coiste dháréag</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Summary and indictable offences indicate the manner in which these offences are tried or dealt with in the courts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léiríonn teideal na gcionta – cionta achomair agus indíotáilte – an tslí ina ndéantar na cionta seo a thriail nó a phlé sna cúirteanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A summary offence is one which can only be dealt with by a judge sitting without a jury,that is the District Court, while an indictable offence is one which may be or must be tried before a judge and jury</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfear cion achomair a phlé os comhair breithimh gan coiste dháréag a bheith i láthair - an Chúirt Dúiche - ach caithfear cion indíotáilte a thriail os comhair breithimh agus coiste dháréag</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All common-law offences are held to be indictable offences as the common law did not distinguish or differentiate between indictable and non-indictable offences</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féachtar ar chionta faoin dlí coiteann mar chionta indíotáilte, toisc nár leagadh amach difríochtaí idir cionta indíotáilte agus cionta neamhindíotáilte faoin dlí coiteann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, criminal statutes or criminal laws passed into law by the Oireachtas do make a distinction between types of crimes and therefore differentiates on how different crimes will be dealt with by the courts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagtar amach na difríochtaí seo áfach sna reachtanna nó sna dlíthe coiriúla a chur an Oireachtas i bhfeidhm. Soláthraíonn na hathruithe seo faisnéis ar na modhanna difriúla a n-úsáidtear sna cúirteanna chun déileáil le coireanna difriúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When an offence is dealt with in a District Court, the judge is restricted in the length of sentence they can impose for any offence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a dhéantar cion a phlé sa Chúirt Dúiche, níl cead ag an mbreitheamh pianbhreith ró-fhada a chur ar dhuine de bharr ciona amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Criminal Justice Act 1984 (Section11) states that the maximum term of imprisonment that can be imposed by the District Court in respect of any number of offences for which sentence is passed at the same time cannot exceed 2 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>De réir an Achta um Cheartas Coiriúil 1984 (Alt 11) níl cead ag an gCúirt Dúiche téarma príosúnachta de níos mó ná dhá bhliain a thabhairt do dhuine i leith ciona amháin nó níos mó ná cion amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Similarly, the District Court cannot exceed a maximum sentence of 1 year in respect of one offence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar an gcuma chéanna, níl cead ag Cúirt Dúiche téarma príosúnachta de níos mó ná bliain amháin a thabhairt do dhuine i leith ciona amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Examples of summary offences are:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad seo a leanas roinnt chionta achomair:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Public Order Offence – Begging in an intimidating or threatening manner</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cion Oird Phoiblí – Ag lorg déirce ar bhealach is cúis le himeagla nó le bagairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The penalty for being found guilty of this offence is a class E fine or up to one month in prison or both a fine and a term of imprisonment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Pionós de rang E fíneáil atá ciontach nó téarma príosúnachta de mí amháin, nó an dá rud</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Public Order Offence- Threatening abusive or insulting behaviour in a public place</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cion Oird Phoiblí – Iompar a d’fhéadfadh a bheith bagrach don bheatha, iompar aibheiseach nó maslaitheach in áit phoiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The penalty available to a judge where a person is found guilty of this offence is a class D fine or up to three months in prison or both a fine and a term of imprisonment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá cead ag an mbreitheamh pionós de rang D fíneáil a thabhairt amach don té atá ciontach, nó téarma príosúnachta de thrí mhí, nó an dá rud</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Are all indictable offences tried in the higher courts?</seg></tuv>
+  <tuv xml:lang="ga"><seg>An ndéantar cionta indíotáilte a thriail i gcúirteanna náisiúnta?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Indictable offences are those which may or must be tried on indictment before a judge and jury, that is, in the Circuit Court or the Central Criminal Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad cionta indíotáilte ná cionta a fhéadfar nó a gcaithfear a thriail ar díotáil os comhair breithimh agus coiste dháréag – sa Chúirt Chuarda nó sa Phríomhchúirt Choiriúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, not all indictable offences are tried before a jury</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní dhéantar gach cion indíotáilte a thriail os comhair coiste dháréag áfach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Indictable offences can be divided into a number of categories</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadtar cionta indíotáilte a chur i roinnt chatagóirí difriúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A) Offences which must always be tried on indictment</seg></tuv>
+  <tuv xml:lang="ga"><seg>A) Caithfear na cionta seo a leanas a thriail ar díotáil i gcónaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are a number of offences which must be tried before a judge and jury and these offences are listed in the Criminal Procedure Act 1967 and the Criminal Law (Rape) (Amendment) Act 1990. These include:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfear roinnt chionta a thriail os comhair breithimh agus coiste dháréag. Luaitear na cionta seo san Acht um Nós Imeachta Coiriúil 1967 agus san Acht um Dhlí Choiriúil (Éigniú) (Leasú) 1990, mar shampla:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Offence under the Treason Act 1939</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cionta faoin Acht Um Thréas 1939</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Murder, attempted murder, conspiracy to murder</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Dúnmharú, iarracht ar dhúnmharú, comhcheilg chun dúnmharú a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In addition to the above there are a number of offences which do not include an option to be dealt with in the District Court (summary disposal)</seg></tuv>
+  <tuv xml:lang="ga"><seg>I dteannta leis na cionta thuasluaite, ní fhéadtar roinnt chionta a thriail sa Chúirt Dúiche (achoimre a chur de láimh)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They must be dealt with on indictment. Examples of these are:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfear déileáil leis na cionta seo ar díotáil, mar shampla:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Section 4 of the Non Fatal Offences Against the Person Act 1997 – Assault causing serious harm</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Alt 4 den Acht um Chionta Neamh-Mharfacha in Aghaidh an Duine 1997 – Ionsaí tromchúiseach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The penalty on conviction on indictment is a fine or imprisonment for life or both</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéantar an té atá ciontach a chiontú, caithfear pionós a íoc, cuirtear príosúnacht lena shaol air nó an dá rud</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The statute (or piece of law) does not allow for this offence to be dealt with summarily</seg></tuv>
+  <tuv xml:lang="ga"><seg>De réir an reachta (nó ailt dlí) seo, ní fhéadtar déileáil leis an gcion seo go hachomair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Section 14 of the Criminal Justice (Public Order) Act 1994 - Riot</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Alt 14 den Acht um Cheartas Coiriúil 1994 (Ord Poiblí) - Círéib</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Again the offence can only be dealt with on indictment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfear déileáil leis an gcion seo ar díotáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>B) Offences which may be tried summarily or by indictment at the request of the Director of Public Prosecutions, the judge or the accused</seg></tuv>
+  <tuv xml:lang="ga"><seg>B) Cionta gur féidir iad a thriail go hachomair nó ar díotáil, ar iarratas ón Stiúrthóir Ionchúiseamh Poiblí, ón mbreitheamh nó ón duine cúisithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Section 2 of the Criminal Justice Act 1951 as amended by the Criminal Justice (Miscellaneous Provisions) Act 1997 provides that offences listed in the First Schedule of the 1951 Act can be dealt with in the District Court if three conditions are met:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Forálann Alt 2 den Acht um Cheartas Coiriúil 1951, arna leasú ag an Acht um Cheartas Coiriúil 1997 (Forálacha Speisialta), gur féidir déileáil leis na cionta a luaitear sa Chéad Sceideal den Acht 1951, sa Chúirt Dúiche nuair a chomhlíontar an trí choinníoll a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The court is of the opinion that the facts proved or alleged amount to a minor offence which the court feels is fit to be tried summarily (in the District Court)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn an Chúirt den bharúil gur mionchion atá i gceist toisc na fíorais soiléire nó líomhanta atá ar fáil agus go bhféadfaí in ann an duine a thriail go hachomair (i gCúirt Dúiche)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The accused person, when told by the court of his/her right to be tried by a judge and a jury, does not object to being tried in the District Court, and</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl an duine cúisithe i gcoinne trialach sa Chúirt Dúiche, nuair a thugtar faisnéis dó/di faoina c(h)earta i leith trialach os comhair breitheamh agus coiste dháréag</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Director of Public Prosecutions (DPP) consents to the accused being tried summarily for such offence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann Stiúrthóir Ionchúiseamh Poiblí (DPP) cead do na cúirteanna an duine cúisithe a thriail go hachomair i leith ciona dá leithéid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In practice, the judge looks to see what the DPP has directed and then asks the prosecuting Garda for an outline of the facts of the case</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann an breitheamh imscrúdú ar threoracha an DPP agus cuireann sé/sí ceist ar an Garda ionchúisimh achoimre a thabhairt ar fhíorais an cháis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The judge then decides whether or not they are willing to hear the case or send it forward to a higher court to be dealt with (indictment)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ansin, caithfear cinneadh a dhéanamh an cás a thriail roimh an Chúirt Dúiche nó é a chur ar aghaidh go cúirt níos airde (ar díotáil)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the judge decides to hear the case in the District Court the accused is given an opportunity to choose whether to be dealt with in the District Court or the Circuit Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéantar an cás a thriail sa Chúirt Dúiche, is féidir leis an duine cúisithe roghnú a dhéanamh idir an Chúirt Dúiche agus an Chúirt Chuarda</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Normally, if an accused is given this choice they elect to be dealt with in the District Court as the maximum penalty available to the District Judge is less than that available in the Circuit Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>De ghnáth, is í an Chúirt Dúiche a roghnaíonn an duine cúisithe chun a c(h)ás a thriail, toisc go mbíonn pionós níos lú i gceist sa Chúirt Dúiche, i gcomparáid leis an gCúirt Chuarda</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Examples of some of the offences listed in the First Schedule are:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad seo a leanas roinnt de na cionta a luaitear sa Chéad Sceideal:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Offences under the Criminal Law Act 1997</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cionta faoin Acht um Dhlí Choiriúil 1997</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Offences under the Criminal Law (Rape) (Amendment) Act 1990</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cionta faoin Acht um Dhlí Choiriúil 1990 (Éigniú) (Leasú)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Offences under the Criminal Justice (Theft and Fraud Offences) Act 2001</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cionta faoin Acht um Cheartas Coiriúil 2001 (Cionta Gada agus Calaoise)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>C) Offences which may be tried either summarily or on indictment at the option of the Director of Public Prosecutions, subject to the agreement of the District Court judge</seg></tuv>
+  <tuv xml:lang="ga"><seg>C) Cionta gur féidir iad a thriail go hachomair nó ar díotáil, bunaithe ar rogha an Stiúrthóra Ionchúiseamh Poiblí, agus i gcomhaontú le breitheamh na Cúirte Dúiche</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This procedure is the same as that outlined at (B) above but without the accused being given an option as to whether they want the case to be dealt with in the District or Circuit Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an nós imeachta céanna i gceist anseo, a shainmhínítear i (B) thuas, ach amháin nach mbíonn cead ag an duine cúisithe roghnú a dhéanamh idir an Chúirt Dúiche agus an Chúirt Chuarda chun a c(h)ás a thriail</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The offences in this category are created by statute and the statute or piece of law states the different punishments on summary conviction and on indictment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cruthaítear na cionta sa chatagóir seo de bhua reachta agus leagtar amach sa reacht nó san acht áirithe na pionóis dhifriúla a bhaineann le ciontú ar achomair nó ar díotáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>How this process works in practice is that the DPP issues instructions as to whether the offence should be dealt with in the District or Circuit Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar chuid den phróiseas seo, eisíonn an DPP treoracha chun an cion a thriail sa Chúirt Dúiche nó sa Chúirt Chuarda</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the DPP directs summary disposal (District Court), the District Court judge hears a summary of the facts from the prosecuting Garda and then decide if they will allow the case to be dealt with in their court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a thugann an DPP treoir achomair (Cúirt Dúiche), déanann breitheamh na Cúirte Dúiche imscrúdú ar na bhfíorais ón Garda ionchúisimh chun cinneadh a dhéanamh an cás a thriail ina c(h)úirt féin nó i gcúirt eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the judge is not satisfied that the offence is a minor offence then they refuse jurisdiction (that is, refuses to deal with the case) and sends it forward to the Circuit Court to be dealt with on indictment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má cheapann an breitheamh gur tromchion atá i gceist, ní ghlacann sé/sí le dlínse (ní ghlacann sé/sí leis an gcás) agus chuirtear é ar aghaidh chuig an Chúirt Chuarda chun é a thriail ar díotáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Article 38.2 of the Constitution of Ireland sets out that minor offences may be tried in courts of summary jurisdiction, that is, the District Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>De réir Airteagail 38.2 de Bhunreacht na hÉireann féadtar mionchionta a thriail i gcúirteanna le dlínse achomair – an Chúirt Dúiche</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is no definition of what a minor offence is in the Constitution although they are most often set down by the actual law</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní thugtar cur síos ar mhionchion i mBunreacht na hÉireann, ach déantar é sin san acht iomchuí don chuid is mó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The distinction between the constitutional concepts of minor and non-minor offences equates more or less with the statutory distinction drawn between summary and indictable offences</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an idirdhealú bunúsach céanna idir na coincheapa bunreachtúla, “mionchionta” agus “neamhmhionchionta”, agus idir na coincheapa reachtúla “cionta achomair” agus “cionta indíotáilte”</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Supreme Court has however considered the issue of what constitutes a minor offence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagadh amach sa Chúirt Uachtarach áfach cad é mionchion</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The most important case in this area is a case called Melling v Ó Mathghamhna <ph/> IR 1</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é Melling v Ó Mathghamhna <ph/> IR 1 an cás is tábhachtaí maidir leis an saincheist seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In examining the criteria or rules when deciding whether an offence was minor the Supreme Court laid out the following test:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Úsáideann an Chúirt Uachtarach na tástálacha seo a leanas chun scrúdú a dhéanamh ar na critéirí nó rialacha chun a fháil amach an é mionchion atá i gceist:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The severity or seriousness of the punishment</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Déine nó tromchúis an phionóis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Moral guilt of the accused</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ciontacht mhorálta an duine cúisithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The law in 1937 when the Constitution was adopted, and</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An dlí i 1937, nuair a glacadh leis an mBunreacht, agus</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Of these four tests, it is undoubtable that the most important one is the severity or seriousness of the sentence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cinnte, is í an tástáil is tábhachtaí ná tromchúis nó déine na breithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All that can be said with certainty is that an offence is minor where the punishment is less than six months imprisonment (Conroy v Attorney General <ph/> IR 411), whereas an offence is non-minor where the punishment is two years or more (Mallon v Minister for Agriculture, Food and Forestry <ph/> 1 IR 517)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir linn a rá go bhfuil mionchion i gceist nuair a bhíonn ar dhuine níos lú ná 6 mhí a chaitheamh sa phríosún (Conroy v an tArd-Aighne <ph/> IR 411), agus is neamhmhionchion é nuair a fhaigheann an duine cúisithe 2 bhliain nó níos mó sa phríosún (Mallon v an tAire Talmhaíochta, Bia agus Foraoiseachta <ph/> 1 IR 517)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It appears, however, that the courts have come to the belief an offence with a maximum prison sentence of twelve months constitutes a minor offence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is léir áfach, go gceapann na cúirteanna gur mionchion atá i gceist nuair a fhaigheann an duine cúisithe pianbhreith phríosúnachta de 12 mí nó íos lú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It can be said as a result that any offence that carries a penalty of more than twelve months imprisonment is considered a non-minor offence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar thoradh ar seo, is neamhmhionchion é nuair a bhíonn ar dhuine cúisithe níos mó ná 12 mí a chaitheamh i bpríosún</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Bail Act 1997 created a new distinction between serious and non-serious offences</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagadh amach difríochtaí nua idir tromchionta agus neamhthromchionta san Acht um Bhannaí 1997</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Act allows bail to be refused where an accused is charged with a serious offence and it can be established that the accused is likely to commit further serious offences if released on bail</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann an Acht cead do na cúirteanna bannaí a dhiúltú i gcás tromchiona nó nuair a thaispeántar go bhfuil seans mór ann go mbeidh an duine cúisithe freagrach as tromchionta eile, má ligfear amach ar bhannaí iad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Bail Act 1997 defines a serious offence as an offence for which a person, if convicted, could be imprisoned for 5 years or more</seg></tuv>
+  <tuv xml:lang="ga"><seg>De réir an Achta um Bhannaí 1997, bíonn tromchion i gceist nuair a bhíonn ar an duine cúisithe 5 bliana nó níos mó a chaitheamh sa phríosún</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Arrestable and non-arrestable offences</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cionta inghabhála agus neamhinghabhála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Just as the Bail Act 1997 created a distinction between serious and non-serious offences, the Criminal Law Act 1997 abolished the distinction between a felony and misdemeanour and created the arrestable/non-arrestable distinction</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cruthaíodh na téarmaí tromchionta agus neamhthromchionta san Acht um Bhannaí 1997, agus cuireadh deireadh le húsáid na téarmaí “feileonacht” agus “oilghníomh”, agus bunaíodh cionta inghabhála agus neamhinghabhála san Acht um Dhlí Choiriúil 1997</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Act defines an arrestable offence as an offence for which a person could be punished by imprisonment for 5 years or more, similar to the definition of a serious offence mentioned above</seg></tuv>
+  <tuv xml:lang="ga"><seg>De réir an Achta, bíonn cion inghabhála i gceist nuair a bhíonn ar an duine cúisithe 5 bliana nó níos mó a chaitheamh sa phríosún. Tá an cion seo an-chosúil leis an tromchion thuasluaite</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This distinction holds great importance for the Gardaí</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an difríocht seo an-tábhachtach do na Gardaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Section 4 of the Criminal Law Act 1997 allows a Garda to arrest without warrant any person whom the Garda, with reasonable cause, believes to be guilty of committing or having committed an arrestable offence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann Alt 4 den Acht um Dhlí Choiriúil 1997 cead do na Gardaí duine a ghabháil gan barántas nuair a bhíonn cúis réasúnach acu go bhfuil an duine seo ciontach as cion inghabhála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Any person arrested for such an arrestable offence (without a warrant) can be detained in a Garda station for a maximum period of 12 hours for questioning before being charged with an offence or being released</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a ghabháltar duine de bharr ciona inghabhála (gan barántas gabháil), féadtar iad a ghabháil agus a choimeád i stáisiún na nGardaí ar feadh 12 uaire nó níos lú, chun iad a cheistiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Also, if you remain silent when questioned by Gardaí in certain circumstances, inferences can be drawn from your silence in any proceedings against you for an arrestable offence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má theipeann ort ceisteanna na nGardaí a fhreagairt i gcásanna áirithe, is féidir leis na Gardaí tátail a bhaint as seo má dhéantar an dlí a chur orthu de bharr ciona inghabhála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further information on your right to silence is available here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cliceáil anseo chun breis faisnéise a fháil ar do cheart chun tosta</seg></tuv>
+</tu>
+</body>
+</tmx>

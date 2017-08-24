@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Worksheet: One-Parent Family Payment and income from work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bileog Oibre: Íocaíocht do Theaghlach Aon-Tuismitheora agus ioncam ó obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are getting a One-Parent Family Payment (OPF) this worksheet will help you to work out how taking up a job will affect your weekly income</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an aidhm atá leis an mbileog oibre seo ná cabhrú leat, má tá tú ag fáil Íocaíocht do Theaghlach Aon-Tuismitheora (OPF), oibriú amach cén tionchar a bhéas ag jab ar d'ioncam seachtainiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Step 1: Find how income from work will affect your One-Parent Family Payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Céim 1: Faigh amach conas mar a chuirfidh ioncam ó obair isteach ar d'Íocaíocht do Theaghlach Aon-Tuismitheora</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Find your assessable income from work (see Note 1) €_______</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigh d' ioncam inmheasúnaithe ón obair - féach Nóta 1 _______</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Take away €110 from your weekly earnings (if earnings are below €110 you will keep your full OFP)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tóg €90 ón méid a shaothraíonn tú sa tseachtain (má tá an méid a shaothraíonn tú níos ísle ná €90 coinneoidh tú do OFP iomlán)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Half of your weekly earnings between €110 and €425 is assessed as income</seg></tuv>
+  <tuv xml:lang="ga"><seg>Measúnaítear leath den méid a shaothraíonn tú sa tseachtain idir €90 agus €425 mar ioncam</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>New rate of One-Parent Family Payment €_______</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ráta Nua den Íocaíocht do Theaghlach Aon-Tuismitheora _______</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To find your new rate of OPF check SW 19 Social Welfare Rates of Payment booklet to find out how much OPF is payable with your means</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun do ráta nua OPF a fháil seiceáil lámhleabhar an SW 19 Social Welfare Rates of Payment chun an méid OPF iníoctha a fháil de réir do acmhainne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Step 2: Find your new total gross weekly income</seg></tuv>
+  <tuv xml:lang="ga"><seg>Céim 2: Faigh do ioncam olliomlán seachtainiúil nua</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your total weekly income is your new rate of One-Parent Family Payment and your income from work before tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sé do ioncam oll-iomlán seachtainiúil nua ná do ráta nua de Íocaíocht Teaghlach Aon-Tuismitheora agus do ioncam ón obair roimh cháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>New rate of One-Parent Family Payment (see Step 1 above) €_______</seg></tuv>
+  <tuv xml:lang="ga"><seg>An Ráta nua den Íocaíocht do Theaghlach Aon-Tuismitheora - féach Céim 1 thuas _______</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Add Gross weekly income from work €_______</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cur leis Ioncam oll-iomlán seachtaine ón obair _______</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Total Gross weekly income €_______</seg></tuv>
+  <tuv xml:lang="ga"><seg>Iomlán Ioncam Oll-iomlán seachtainiúil _______</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Step 3: Find your new total net weekly income</seg></tuv>
+  <tuv xml:lang="ga"><seg>Céim 3: Faigh do ioncam olliomlán seachtainiúil nua</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your total weekly income is your new rate of One-Parent Family Payment and your income from work after tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sé do ioncam oll-iomlán seachtainiúil nua ná do ráta nua de Íocaíocht Teaghlach Aon-Tuismitheora agus do ioncam ón obair roimh cháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>From this calculation you will be able to find out if you are financially better off</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ón áirimh seo beidh tú ábalta a fháil amach má tá tú níos fearr as ó thaobh airgead de</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Gross weekly income €_______</seg></tuv>
+  <tuv xml:lang="ga"><seg>Iomlán Ioncam Oll-iomlán seachtainiúil _______</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Less Universal Social Charge - see Note 2 below €_______</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bain as Muirear Uilíoch Sóisialach – féach Nóta 2</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Less PRSI paid each week - see Note 3 below €_______</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bain as ÁSPC a íoctar gach seachtain - féach Nóta 3 _______</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Less income tax paid each week - see Note 4 below €_______</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bain as Cáin Ioncaim a íoctar gach seachtain - féach Nóta 4 _______</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Total net income €_______</seg></tuv>
+  <tuv xml:lang="ga"><seg>Iomlán Ioncam Glan _______</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Remember, you may have to pay child-minding and travel costs out of your net income</seg></tuv>
+  <tuv xml:lang="ga"><seg>Smaoineamh, beidh ort costaisí cúram leanaí agus taistil a íoc as do ioncam glan</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will pay a Universal Social Charge (USC) on your gross income from work (if your overall income is above €13,000). Find out more about the Universal Social Charge. You do not pay USC on your OFP payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh ort a íoc an Muirear Sóisialta Uilíoch (MSU) ar d’ollioncam ón obair (Íocann tú MSU má sháraíonn d’ioncam €13,000 sa bhliain.)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You pay PRSI on income from your work only, not on your One-Parent Family Payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocann tú ÁSPC ar ioncam ó do jab amháin, ní ar do Íocaíocht do Theaghlach Aon-Tuismitheora</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you earn less than €352 a week you do not pay any PRSI</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má shaothraíonn tú níos lú ná €352 sa tseachtain ní íocann tú ÁSPC</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You only pay PRSI for the weeks you work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní íocann tú ÁSPC ach ar na seachtainí a oibríonn tú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You pay income tax (PAYE) on all your income: that is your gross weekly income (see Step 2 above)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocann tú cáin ioncaim (ÍMAT) ar do chuid ioncam ar fad: sé sin do Ioncam Oll-Iomlán - féach Céim 2 thuas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To calculate how much income tax you pay each week, multiply your gross weekly income by 20% to get the gross amount of income tax payable each week</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun do Cháin Ioncaim chuile sheachtain a mheas, méadaigh an Ioncam Iomlán fá 20% chun an méid iomlán cáin ioncaim iníoctha sa tseachtain a fháil amach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Total gross income by 20% €_______</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ioncam Oll-Iomlán seachtainiúil x 20% _______</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Less Weekly Tax Credit (see below for calculation)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bain as Creidmheas Cánach Seachtainiúil (féach thíos luaite chun suim a fheiceáil) €95.19</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Total income tax paid each week €______</seg></tuv>
+  <tuv xml:lang="ga"><seg>Iomlán Cáin Ioncam a íoctar gach seachtain _______</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Tax Credit for 2017</seg></tuv>
+  <tuv xml:lang="ga"><seg>Creidmheas Cánach do 2015</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Add Single Person Child Carer Tax Credit (if eligible): €1,650</seg></tuv>
+  <tuv xml:lang="ga"><seg>An Creidmheas Cánach Cúramóra Linbh do Dhuine Singil €1,650</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Add PAYE/Employee Tax Credit: €1,650</seg></tuv>
+  <tuv xml:lang="ga"><seg>Creidmheas Cánach ÍMAT/Fostaí €1,650</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Total Tax Credit: €4,950</seg></tuv>
+  <tuv xml:lang="ga"><seg>Iomlán Creidmheas Cánach €4,950</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Weekly Tax Credit: €95.19</seg></tuv>
+  <tuv xml:lang="ga"><seg>Roinn ar 52 chun an creidmheas cánach seachtainiúil a fháil de €95.19</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Other tax free allowances</seg></tuv>
+  <tuv xml:lang="ga"><seg>Liúntais Saor ó Cháin eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are a tenant in private-rented accommodation, you may be able to claim some tax relief for rent paid</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh tú bheith in ann éilimh a dhéanamh ar Fhaoiseamh ó ús morgáiste agus faoiseamh ar shláinte agus faoiseamh ó cháin ar chostaisí leighis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are a widowed parent you can claim a Widowed Parent Tax Credit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más tionónta thú i lóistín atá ar chíos phríobháideach, d'fhéadfadh tú bheith ábalta éilimh a dhéanamh ar fhaoiseamh cánach ar chíos atá íoctha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can get more information about tax credits and reliefs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más tuismitheoir thú atá ina b(h)aintreach is féidir leat éilimh a dhéanamh ar Chreidmheas cánach an Tuismitheoir atá ina B(h)aintreach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should keep your medical card for 3 years from the date you take up employment – check with your local Health Service Executive Area</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is rogha eile én an liúntas cánach seo ó scéimeanna spreagúla fostaíochta eile ar nó an Liúntas um Fhilleadh ar Obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>See worksheet on Calculating Rent Supplement to work out how your Rent Supplement will be affected by income from work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir tuilleadh eolas a fháil faoi chreidmheas cánach agus faoisimh cánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Family Income Supplement (FIS)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Forlíonadh Ioncaim Teaghlaigh (FIS)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can claim FIS if you are working at least 19 hours per week, or 38 hours per fortnight, and your income falls below the income threshold for your family size</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis éilimh a dhéanamh ar FIS má tá tú ag obair ar a laghad 19 uair sa tseachtain, nó 38 uair sa gcoicís, agus titfidh do ioncam faoi thairseach ioncaim do mhéid do chlann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Family Income Supplement is not taxable and does not affect secondary benefits</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir cáin a ghearradh ar Fhorlíonadh Ioncaim Teaghlaigh agus ní chuireann sé isteach ar shochair thánaisteacha</seg></tuv>
+</tu>
+</body>
+</tmx>

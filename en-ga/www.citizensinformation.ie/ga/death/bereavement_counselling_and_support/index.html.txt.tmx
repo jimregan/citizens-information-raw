@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Bereavement counselling and support</seg></tuv>
+  <tuv xml:lang="ga"><seg>Comhairleoireacht agus tacaíocht do lucht méala</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Bereavement counselling and support services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Deileáil le Bás agus Brón</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some useful contacts and information to help you through this difficult time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cur síos ar deileáil le bás agus brón</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Information on the range of counselling and support organisations for those affected by suicide</seg></tuv>
+  <tuv xml:lang="ga"><seg>Eolas teagmhála ar eagraíochtaí tacaíochta i gcás féinmharaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most Read in "Death and Bereavement"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ábhar is mó éilimh i "Bás agus Méala"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Dealing with the deceased's estate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Deileáil le hEastát an Mhairbh</seg></tuv>
+</tu>
+</body>
+</tmx>

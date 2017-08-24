@@ -1,0 +1,253 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ro"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Medical card means test: aged under 70</seg></tuv>
+  <tuv xml:lang="ro"><seg>Evaluarea mijloacelor de subzistență pentru obţinerea cardului medical: persoane sub 70 de ani</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Assessment of capital and property</seg></tuv>
+  <tuv xml:lang="ro"><seg>• Evaluarea capitalului și a proprietăților</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To qualify for a medical card your weekly income must be below a certain figure for your family size</seg></tuv>
+  <tuv xml:lang="ro"><seg>Pentru a vă putea încadra în condiţiile de obţinere a unui card medical, venitul dvs</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Here we explain the means test for those who are aged under 70</seg></tuv>
+  <tuv xml:lang="ro"><seg>săptămânal trebuie să fie sub un anumit cuantum, în funcţie de mărimea familiei</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>See also other information about the medical card and how to apply</seg></tuv>
+  <tuv xml:lang="ro"><seg>A se vedea și alte informaţii despre cardul medical și cum îl puteţi obține</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are different means test rules for those over 70 years of age</seg></tuv>
+  <tuv xml:lang="ro"><seg>Există diverse reguli pentru evaluarea mijloacelor de subzistență în cazul celor peste 70 de ani</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The assessment of a couple for medical card purposes is based on the age of the older person</seg></tuv>
+  <tuv xml:lang="ro"><seg>Evaluarea unui cuplu în scopul obținerii unui card medical ia în calcul vârsta persoanei mai bătrâne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Income, savings, investments and property (except for your own home) are taken into account in the means test</seg></tuv>
+  <tuv xml:lang="ro"><seg>În cadrul evaluării mijloacelor de trai sunt luate în calcul veniturile, economiile, investiţiile și proprietăţile (cu excepţia propriului imobil)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, there are certain exceptions</seg></tuv>
+  <tuv xml:lang="ro"><seg>Însă, există anumite excepţii</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>According to the HSE's guidelines, if your income is derived solely from social welfare allowances or benefits or HSE allowances, you should be granted a medical card even though your payment may be in excess of the income guidelines for your age and situation</seg></tuv>
+  <tuv xml:lang="ro"><seg>Conform normelor HSE, în cazul în care venitul dvs. se constituie exclusiv din alocații sau indemnizații de ajutor social sau din alocații HSE, trebuie să vi se acorde un card medical chiar dacă suma poate depăşi normele de venit corespunzătoare vârstei și situației dvs</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your income is above the guidelines you will automatically be assessed for the GP visit card which has higher income limits</seg></tuv>
+  <tuv xml:lang="ro"><seg>În cazul în care venitul dvs. depășește aceste limite, veți fi evaluat automat în vederea obținerii cardului de vizite la doctorul de familie care are limite de venit mai mari</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can also apply for the Drugs Payment Scheme</seg></tuv>
+  <tuv xml:lang="ro"><seg>De asemenea, puteți depune cerere pentru Schema de coplată pentru medicamente</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are some categories of people exempt from the means test, including people entitled to a medical card under EU Regulations</seg></tuv>
+  <tuv xml:lang="ro"><seg>Există anumite categorii de persoane scutite de la evaluarea mijloacelor de subzistență, inclusiv persoanele care au dreptul la un card medical în baza reglementărilor UE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Weekly income limit (gross less tax, Universal Social Charge and PRSI)</seg></tuv>
+  <tuv xml:lang="ro"><seg>Limită de venit săptămânală (brut minus impozit, taxă socială universală și PRSI)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│ │under 66 │66 │</seg></tuv>
+  <tuv xml:lang="ro"><seg>│ │Sub 66 │Peste │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Single person living alone │€184 │€201.50 │</seg></tuv>
+  <tuv xml:lang="ro"><seg>│Persoană necăsătorită care locuieşte singură │€184 │€201.50│</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Single person living with family │€164 │€173.50 │</seg></tuv>
+  <tuv xml:lang="ro"><seg>│Persoană necăsătorită care locuiește cu familia │€164 │€173.50│</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Couple, married/cohabiting/civil partners (or lone parent with │€266.50 │€298 │</seg></tuv>
+  <tuv xml:lang="ro"><seg>│Cuplu, căsătorit/uniune consensuală/parteneri civili (sau părinte │€266.50│€298 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│dependent children) │ │ │</seg></tuv>
+  <tuv xml:lang="ro"><seg>│singur cu copii în întreţinere) │ │ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Allowance for each of first 2 children aged under 16 │€38 │€38 │</seg></tuv>
+  <tuv xml:lang="ro"><seg>│Alocație pentru fiecare din primii 2 copii cu vârsta sub 16 ani │€38 │€38 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Allowance for 3rd and each subsequent child under 16 │€41 │€41 │</seg></tuv>
+  <tuv xml:lang="ro"><seg>│Alocație pentru cel de-al 3-lea copil și următorii cu vârsta sub 16│€41 │€41 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Allowance for each of first 2 children aged over 16 (with no │€39 │€39 │</seg></tuv>
+  <tuv xml:lang="ro"><seg>│Alocație pentru fiecare din primii 2 copii cu vârsta peste 16 ani │€39 │€39 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│income) │ │ │</seg></tuv>
+  <tuv xml:lang="ro"><seg>│(fără venituri) │ │ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Allowance for 3rd and each subsequent child over 16 (with no │€42.50 │€42.50 │</seg></tuv>
+  <tuv xml:lang="ro"><seg>│Alocație pentru cel de-al 3-lea copil și următorii cu vârsta peste │€42.50 │€42.50 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│income) │ │ │</seg></tuv>
+  <tuv xml:lang="ro"><seg>│16 ani (fără venituri) │ │ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Each dependant over 16 years in full-time third-level │€78 │€78 │</seg></tuv>
+  <tuv xml:lang="ro"><seg>│Fiecare persoană în întreținere peste 16 ani care urmează o formă │ │ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│education, who is not grant aided │ │ │</seg></tuv>
+  <tuv xml:lang="ro"><seg>│de bursă │ │ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Reasonable expenses for childcare costs and rent/mortgage payments will also be allowed</seg></tuv>
+  <tuv xml:lang="ro"><seg>Se vor admite, de asemenea, și cheltuieli rezonabile suportate în legătură cu costurile de îngrijire a copiilor și în legătură cu plățile pentru chirii/ipoteci</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Mortgage-related insurance payments are allowable: fire and contents insurance, mortgage protection insurance and associated life assurance. Maintenance payments made are allowable. Nursing home costs are also allowable</seg></tuv>
+  <tuv xml:lang="ro"><seg>Plățile de asigurare cu privire la ipoteci sunt admise: asigurarea bunurilor împotriva incendiilor, asigurarea de protecție a ipotecii și asigurarea de viață asociată</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For weekly travel costs to work, the actual cost of public transport is allowable or, if a car is required, mileage at a rate of 30 cent per mile/18 cent per km. Where a couple needs two cars to travel to work, a double allowance applies. The cost of parking can be taken into account</seg></tuv>
+  <tuv xml:lang="ro"><seg>Pentru costurile săptămânale de deplasare la serviciu se admite costul real al transportului public sau, în cazul posesorilor de autovehicule, kilometrajul calculat la 30 cenți pe milă/18 cenți pe km</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your income is over the limit, the deciding officer will consider whether it would cause you undue hardship if you are refused a medical card</seg></tuv>
+  <tuv xml:lang="ro"><seg>În cazul în care cuplul are nevoie de două autovehicule pentru a se deplasa la serviciu, se aplică o alocație dublă</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you don’t qualify for a medical card, you are then assessed for a GP visit card</seg></tuv>
+  <tuv xml:lang="ro"><seg>În cazul în care venitul dvs</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your income is over the relevant limit, the deciding officer will consider whether it would be ‘unduly burdensome’ for you to pay for GP Services if you don’t have a GP visit card</seg></tuv>
+  <tuv xml:lang="ro"><seg>depășește aceste limite, puteți totuși depune cerere pentru obținerea cardului medical pe motiv de dificultăţi financiare: de exemplu, dacă aveţi cheltuieli medicale mari sau dacă venitul dvs</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have children under the age of 6 and they are not eligible for medical cards then they will be given GP visit cards for children under 6</seg></tuv>
+  <tuv xml:lang="ro"><seg>depășește doar cu puțin limita impusă</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Income not taken into account</seg></tuv>
+  <tuv xml:lang="ro"><seg>Venituri neluate în calcul</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Compensation payments made by the Residential Institutions Redress Board</seg></tuv>
+  <tuv xml:lang="ro"><seg>• Plăţi compensatorii efectuate de către Comisia de acordare a măsurilor reparatorii pentru persoanele din instituţiile rezidențiale</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Repayments made under the Health (Repayment) Scheme (that is, the Nursing Home repayment scheme)</seg></tuv>
+  <tuv xml:lang="ro"><seg>• Plăți efectuate în baza Schemei de Sănătate (plată) (adică, schema de plăţi pentru centre de îngrijire și asistență)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Awards made to people who contracted Hepatitis C or HIV from contaminated blood products (together with income from the investment of that money)</seg></tuv>
+  <tuv xml:lang="ro"><seg>• Sume acordate persoanelor care au contractat hepatita C sau HIV de la produse sanguine contaminate (împreună cu venitul rezultat din investirea acelor bani)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Ex-gratia payments approved by the Lourdes Hospital Redress Board under the terms of the Lourdes Hospital Redress Scheme 2007</seg></tuv>
+  <tuv xml:lang="ro"><seg>• Despăgubiri gratuite aprobate de către Comisia de acordare a măsurilor reparatorii a spitalului Lourdes în baza termenilor Schemei reparatorii pentru spitalul Lourdes 2007</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Certain payments made by the State:</seg></tuv>
+  <tuv xml:lang="ro"><seg>Anumite plăți efectuate de către stat:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• HSE payments: Mobility Allowance, Blind Welfare Allowance</seg></tuv>
+  <tuv xml:lang="ro"><seg>• Plăți HSE: Alocație asistent maternal, alocație de handicap locomotor, alocație pentru persoanele oarbe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Social welfare payments: Family Income Supplement, Child Benefit, Carer's Allowance, Domiciliary Care Allowance, Guardian's Payments; weekly supplements (such as a diet or heating supplement) paid under the Supplementary Welfare Allowance scheme; Fuel, Island, Living Alone and Over 80 Allowances</seg></tuv>
+  <tuv xml:lang="ro"><seg>• Plăți de ajutor social: Ajutor suplimentar pentru venitul familial, alocația pentru copil, alocația de îngrijitor, alocație pentru îngrijire la domiciliu, plăți pentru tutorele legal; suplimente săptămânale (ca de exemplu supliment pentru dietă sau încălzire) acordate în baza schemei de alocații suplimentare de ajutor social; alocație pentru combustibil, alocație pentru persoanele care locuiesc pe o anumită insulă și alocații pentru persoanele care locuiesc singure și cele peste 80 de ani</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Other payments: Third-level educational maintenance grants; Rehabilitation Maintenance Allowance; earnings from employment of a rehabilitative nature (up to €120.00 per week), Foster Care Allowance</seg></tuv>
+  <tuv xml:lang="ro"><seg>• Alte plăți: Burse de întreținere pentru educație terțiară; alocație de întreținere pentru reabilitare; câștiguri obținute de pe urma unui loc de muncă cu caracter terapeutic (până la 120 EUR pe săptămână)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Assessment of capital and property</seg></tuv>
+  <tuv xml:lang="ro"><seg>Evaluarea capitalului și a proprietăților</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All capital (savings and investments) is taken into account for medical card purposes</seg></tuv>
+  <tuv xml:lang="ro"><seg>În scopul acordării cardului medical este luat în calcul tot capitalul (economii și investiții)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, income from savings, investments or property of €36,000 for a single person or €72,000 for a couple is disregarded</seg></tuv>
+  <tuv xml:lang="ro"><seg>Însă, veniturile obţinute din economii, investiţii sau proprietăţi în valoare de 36.000 EUR pentru o persoană necăsătorită și de 72.000 EUR pentru un cuplu nu sunt luate în calcul</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The value of your family home is not assessed</seg></tuv>
+  <tuv xml:lang="ro"><seg>Valoarea imobilului familiei nu intră în calcul</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For amounts over the disregard limits, interest is taken into account in the means test. A notional assessment of interest is used</seg></tuv>
+  <tuv xml:lang="ro"><seg>Pentru sumele care depășesc limitele de excludere, se aplică o evaluare teoretică a dobânzii</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Notional assessment of interest</seg></tuv>
+  <tuv xml:lang="ro"><seg>Evaluarea teoretică a dobânzii</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│First €36,000 (single), €72,000 │Nil │</seg></tuv>
+  <tuv xml:lang="ro"><seg>│Primii 36.000 EUR (necăsătorit), │Nil │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Next €10,000 │€1 per €1,000 │</seg></tuv>
+  <tuv xml:lang="ro"><seg>│Următorii 10.000 │€1 per €1,000 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Next €10,000 │€2 per €1,000 │</seg></tuv>
+  <tuv xml:lang="ro"><seg>│Următorii 10.000 │€2 per €1,000 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Balance │€4 per €1,000 │</seg></tuv>
+  <tuv xml:lang="ro"><seg>│Sold │€4 per €1,000 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Certain specified types of State compensation are not assessable. Prize bonds are included in the amount assessed</seg></tuv>
+  <tuv xml:lang="ro"><seg>În esenţă, se va lua în calcul ca venit doar venitul teoretic obţinut din economii și investiţii similare și nu valoarea totală a economiilor sau investițiilor</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Property (other than the family home) Where land or buildings are leased to another person, the income to be assessed will be the gross income, less any cost necessarily incurred associated with the property and such cost may include insurance premiums, loan/mortgage repayments, maintenance etc</seg></tuv>
+  <tuv xml:lang="ro"><seg>Proprietăţi (altele decât propriul imobil) În cazul în care terenul sau clădirile sunt închiriate unei alte persoane, venitul ce urmează a fi evaluat va fi venitul brut, din care se scad costurile necesare suportate cu proprietatea, astfel de costuri putând include prime de asigurare, plăţi pentru împrumuturi/ipoteci, întreținere, etc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For land or buildings that are not being used but are capable of being leased or sold, the following assessment options can be used, with the more beneficial option applying to the applicant:</seg></tuv>
+  <tuv xml:lang="ro"><seg>Pentru terenul sau clădirile neutilizate dar care pot fi închiriate sau vândute, se pot folosi următoarele opțiuni de evaluare, aplicându-se în favoarea aplicantului opțiunea cea mai benefică:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Notional assessment of the rental/lease “going rate” for the area</seg></tuv>
+  <tuv xml:lang="ro"><seg>• Evaluarea teoretică a preţului standard al zonei pentru chirie/arendă</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Assessment of capital value as in the table for capital, above</seg></tuv>
+  <tuv xml:lang="ro"><seg>• Evaluarea valorii capitalului conform tabelului pentru capital, de mai sus</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read more information about the medical card, including how to apply</seg></tuv>
+  <tuv xml:lang="ro"><seg>Citiţi mai multe informaţii despre cardul medical, inclusiv cum depuneţi cererea</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The HSE has published Medical Card/GP Visit Card National Assessment Guidelines (pdf)</seg></tuv>
+  <tuv xml:lang="ro"><seg>HSE a publicat Normele naţionale de evaluare pentru obținerea cardului medical/cardului de vizite la doctorul de familie (pdf)</seg></tuv>
+</tu>
+</body>
+</tmx>

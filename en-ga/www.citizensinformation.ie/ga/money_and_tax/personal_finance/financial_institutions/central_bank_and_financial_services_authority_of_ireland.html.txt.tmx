@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Central Bank of Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Banc Ceannais na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Central Bank Reform Act 2010, which commenced on 1 October 2010, created a new single body called the Central Bank of Ireland which is responsible for both central banking and financial regulation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chruthaigh Acht an Bhainc Cheannais (Leasú), 2010 comhlacht nua singil ar a dtugtar Banc Ceannais na hÉireann atá freagrach as baincéireacht agus as rialú airgeadais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It replaced the previous related bodies – the Central Bank and the Financial Services Authority of Ireland (generally known as the Central Bank) and the Irish Financial Services Regulatory Authority (Financial Regulator)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tháinig sé in ionad na gcomhlachtaí gaolmhara roimhe seo – Banc Ceannais agus Údarás Seirbhísí Airgeadais na hÉireann (ar a dtugtar go ginearálta, an Banc Ceannais) agus Údarás Rialála Seirbhísí Airgeadais na hÉireann (an Rialtóir Airgeadais)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can read about the Central Bank’s regulatory role in our document, Financial regulation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú faisnéis a léamh faoi fheidhm rialála an Bhainc Cheannais inár gcáipéis, Rialáil airgeadais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Central Bank is responsible for protecting the best interests of consumers of financial services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an Banc Ceannais freagrach as barrleas tomhaltóirí seirbhísí airgeadais a chosaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Competition and Consumer Protection Commission (CCPC) provides information to consumers on the costs, risks and benefits of different financial products</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann an Coimisiún um Iomaíocht agus Cosaint Tomhaltóirí do Thomhaltóirí (CCPC) faisnéis ar fáil do thomhaltóirí ar chostais, rioscaí agus sochair tháirgí éagsúla airgeadais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Bank is a member of the European System of Central Banks (ESCB)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ball de Chóras Eorpach na mBanc Ceannais (CEBC) é an Banc anois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The ESCB comprises the European Central Bank and the national central banks of all the member states whether or not they have adopted the euro</seg></tuv>
+  <tuv xml:lang="ga"><seg>Banc Ceannais na hEorpa agus bancanna ceannais náisiúnta an uile stát san Aontas Eorpach cibé an bhfuil an euro mar aonad airgeadais acu nó nach bhfuil é an CEBC</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The tasks of the ESCB include conducting foreign exchange operations for the Eurozone countries, managing official currency reserves within each country and promoting the smooth operating of financial institutions.   The Central Bank also:  • Contributes to Eurosystem effectiveness and price stability</seg></tuv>
+  <tuv xml:lang="ga"><seg>I measc na ndualgas atá ar an CEBC déanann sé oibreacha aistrithe maidir le hairgead eachtrannach a chur i gcrích do na tíortha sa cheantar euro, déanann sé bainistíocht ar airgeadra cúltaca oifigiúil taobh istigh de gach tír agus cuireann sé chun cinn dea-oibriú na n-institiúidí airgeadais</seg></tuv>
+</tu>
+</body>
+</tmx>

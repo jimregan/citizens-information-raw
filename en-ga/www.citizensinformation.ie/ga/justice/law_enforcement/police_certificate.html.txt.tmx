@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>A Police Certificate is a statement about you issued by the Gardaí</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is éard atá i dTeastas Póilíní ná ráiteas a eisíonn na Gardaí fút</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The certificate, which is normally valid for one year, states your name, address, date of birth and also includes information about whether or not you have a criminal record</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn an teastas bailí ar feadh bliana de ghnáth agus tugann sé d’ainm, do sheoladh agus do dháta breithe. Lena chois sin insíonn sé cibé an bhfuil taifead coiriúil acu fút nó nach bhfuil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This does not include adult cautions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní áirítear rabhadh do dhaoine fásta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Spent convictions: The Irish spent convictions legislation cannot be used to prevent disclosure when you are required to disclose information about your criminal convictions to another state</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciontuithe spíonta: Más éilítear ort faisnéis faoi do chiontuithe coiriúla a nochtadh, ní féidir leis an reachtaíocht ciontuithe spíonta Éireannach bheith úsáidte chun nochtadh a chosc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can only get a Police Certificate in certain circumstances</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl ach imthosca áirithe ann ina bhféadfaidh tú Teastas Póilíní a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They are issued when required by consular authorities</seg></tuv>
+  <tuv xml:lang="ga"><seg>Eisítear iad nuair a éilíonn Údaráis Chonsalachta iad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, Police Certificates are often required before you can apply for a visa to visit or travel to other countries</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go minic bíonn Teastais Phóilíní riachtanach sula gcuireann tú isteach ar víosa chun cuairt a thabhairt ar thíortha eile nó chun taisteal chucu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They are not issued for employment or any other purpose</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní eisítear iad i gcomhair cúrsaí fostaíochta nó i gcomhair aon chúrsaí eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, they can be issued for the setting up or registering a business in another EU member state</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfar iad a eisiúint, áfach, maidir le gnó a bhunú nó a chlárú i mBallstát eile den AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Requests for Police Certificates are not processed in your local Garda station but instead, are sent to the Superintendent for the district where you live or used to live</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní dhéantar iarratais ar Theastais Phóilíní a phróiseáil i stáisiún na nGardaí gar duit ach seoltar ar aghaidh iad chuig Ceannfort na dúiche ina bhfuil tú i do chónaí nó ina mbíodh tú i do chónaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your completed Police Certificate will be issued directly from the district office and it can take up to 3 weeks for it to be issued</seg></tuv>
+  <tuv xml:lang="ga"><seg>Eiseofar do Theastas Póilíní go díreach ón oifig dúiche agus d’fhéadfadh sé suas le trí seachtaine a thógáil lena dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is no charge for a Police Certificate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon táille ar Theastas Póilíní</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should make your application in writing to the Superintendent in charge of the district where you live</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart duit d’iarratas a dhéanamh i scríbhinn chuig an gCeannfort atá i gceannas na dúiche ina gcónaíonn tú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you no longer live in Ireland, write to the Superintendent for the district where you use to live</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más rud é nach bhfuil tú ag cur fút a thuilleadh in Éirinn scríobh chuig Ceannfort na dúiche sin ina mbíodh tú i do chónaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you leave your application into your local Garda station for forwarding to the Superintendent for the district, you should take note of the Garda's name or shoulder number</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhágann tú d’iarratas i stáisiún áitiúil na nGardaí lena chur ar aghaidh chuig Ceannfort na dúiche ba chóir duit nóta a dhéanamh d’ainm nó uimhir ghualainne an gharda</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your application in writing should include the following:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart na nithe seo a leanas a bheith i gceist san iarratas a dhéanann tú i scríbhinn:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Your full name as on your birth certificate including your maiden name if applicable</seg></tuv>
+  <tuv xml:lang="ga"><seg>• D’ainm iomlán faoi mar atá sé ar do theastas breithe agus d’ainm roimh phósadh más bainteach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Your date and place of birth (or a copy of your birth certificate)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Do dháta breithe agus d’áit bhreithe nó cóip de do theastas breithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• All addresses at which you have lived at in Ireland and when you lived there</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gach seoladh i ngach áit a raibh tú i do chónaí in Éirinn agus cathain a bhí tú i do chónaí sna háiteanna sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The place and purpose for which you require the Certificate</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An fáth a bhfuil an Teastas ag teastáil uait agus an áit a bhfuil sé ag teastáil uait faoina comhair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should also include with your application:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart duit freisin na rudaí seo a chur isteach le d’iarratas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A copy of your passport, driving licence or similar for identification purposes</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cóip de do phas nó de do cheadúnas tiomána nó rud éigin dá sórt ar mhaithe le cúrsaí aitheantais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A stamped, self addressed envelope</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Clúdach litreach le do sheoladh agus stampa air</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your application will take approximately 3 weeks to process</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tógfaidh sé thart ar trí seachtaine d’iarratas a phróiseáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Irish people living abroad</seg></tuv>
+  <tuv xml:lang="ga"><seg>Éireannaigh atá ag cur fúthu thar lear</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Generally speaking, if you are an Irish person living abroad it is not possible to obtain a Police Certificate from Ireland unless you require it:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más Éireannach tú atá ag cur fút thar lear ní féidir Teastas Póilíní a fháil de ghnáth mura bhfuil sé ag teastáil uait:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• To apply for residency in another country</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Chun iarratas a dhéanamh le cur fút i dtír eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the above instances, write to the Superintendent of your police district here in Ireland and request a Police Certificate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sna cásanna sin ba cheart duit scríobh chuig Ceannfort dúiche na nGardaí ina raibh tú i do chónaí chun Teastas Póilíní a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if you are living abroad and require a Police Certificate from Ireland for something like a job, you could get in touch with the local police in the country where you now live</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más rud é, áfach, go bhfuil cónaí ort thar lear agus go bhfuil Teastas Póilíní uait ó na Gardaí in Éirinn maidir le rud éigin a bhaineann le post, d’fheadfá dul i dteagmháil leis na póilíní áitiúla sa tír ina bhfuil tú i do chónaí anois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Explain to them what you require and they may get in touch on your behalf with your nearest police station here in Ireland and request this information</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mínigh dóibh cad atá uait agus b’fhéidir go rachaidh siad i dteagmháil le stáisiún na nGardaí sa cheantar anseo in Éirinn a raibh tú i do chónaí ann chun an fhaisnéis sin a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Contact information for all Garda stations and district offices in Ireland is available on the Garda Síochána website or at the front of all public telephone directories</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sonraí teagmhála gach stáisiún agus oifig de chuid an Gharda Síochána in Éirinn le fáil ar láithreán gréasáin an Gharda Síochána agus ag tosach gach eolaire teileafóin poiblí</seg></tuv>
+</tu>
+</body>
+</tmx>

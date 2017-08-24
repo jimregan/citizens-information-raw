@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>If you have a medical prescription from a doctor in the European Economic Area (EEA), the prescription is valid in all other EEA countries if it contains certain information</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá oideas leighis agat ó lia sa Limistéar Eacnamaíoch Eorpach (LEE), is bailí é an t-oideas sin i ngach aon tír eile de chuid an LEE má fhaightear faisnéis shonrach ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The EEA includes the member states of the European Union as well as Iceland, Liechtenstein and Norway</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áirítear leis an LEE ballstáit an Aontais Eorpaigh maille leis an Íoslainn, an Lichtinstéin agus an Iorua</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is no specific form or format required in order to be able to use a prescription in another EEA country but the prescription must include certain information about the patient, doctor and medical product prescribed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon fhoirm ná formáid faoi leith ag teastáil chun bheith in ann úsáid a bhaint as oideas i dtír éigin eile an LEE, ach caithfear áireamh leis an oideas sin faisnéis shonrach faoin othar, faoin lia agus faoin táirge leighis san oideas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Surname and first name written in full (not initials)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sloinne agus céadainm scríofa ina n-iomláine (seachas céadlitreacha)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Details of the prescribing health professional</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mionsonraí an ghairmí sláinte a scríobhann an t-oideas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Surname and first name written in full</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sloinne agus céadainm scríofa ina n-iomláine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Details for direct contact (email and telephone or fax including international prefix)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sonraí teagmhála díreacha (ríomhphost agus teileafón nó facs lena n-áirítear réimír idirnáisiúnta)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Work address (including the country)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seoladh oibre (lena n-áirítear an tír)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Date the prescription is issued</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An dáta ar ar eisíodh an t-oideas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Details of the prescribed product</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mionsonraí an táirge san oideas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The common name should be used rather than the brand name, which may be different in another country</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ba cheart an t-ainm coiteann seachas ainm an bhranda a úsáid, a d’fhéadfadh bheith éagsúil i dtír éigin eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(If a specific brand is medically necessary the prescription should include a brief statement of the reason.) There are International Nonproprietary Names recommended by the World Health Organisation which should be used where possible</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Ba chóir go n-áireofaí ráiteas gairid faoin bhfáth go dteastaíonn branda sonrach ar bhonn leighis.) Is ann d’Ainmneacha Idirnáisiúnta Neamhdhílseánaigh arna moladh ag an Eagraíocht Dhomhanda Sláinte ar cheart leas a bhaint astu de réir mar is féidir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the case of biological medicinal products, brand names may be used</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir ainmneacha brandála a úsáid i gcás táirgí leighis bhitheolaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The format of the product, for example, whether it is in the form of tablets or solution</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Formáid an táirge, mar shampla, bíodh sé i bhfoirm piolláirí nó tuaslagáin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The dosage or instructions for use</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An dáileogacht nó treoracha úsáide</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Not all of these details are required for a prescription in Ireland so, if you intend to use a prescription in another country, you should check that the doctor has included all the necessary information listed above</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní theastaíonn na mionsonraí sin go léir d’oideas in Éirinn, má tá tú ag ceapadh chun úsáid a bhaint as oideas i dtír éigin eile ba cheart duit ceadú gur áirigh an lia gach eolas riachtanach a liostaíodh thuas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Prescriptions are subject to the rules of the country where they are dispensed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tagann na hoidis faoi réir rialacha na tíre mar a bhfodháiltear iad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, in some countries a prescription may only be accepted for a certain time period after it is written</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, b’fhéidir nach nglacfaí le hoideas i dtíortha áirithe ach ar feadh tréimhse ama éigin tar éis a scríofa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some medicines may not be authorised for sale or may not be available in another country within the EEA</seg></tuv>
+  <tuv xml:lang="ga"><seg>B’fhéidir nach bhfuil cógais leighis áirithe údaraithe dá ndíol nó b'fhéidir nach mbíonn siad ar fáil i dtír éigin eile laistigh den LEE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To find out if your medicine is available in other member states, you can check with the national contact point for cross-border healthcare</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun fáil amach an mbíonn do chógas ar fáil i mballstáit eile, is féidir leat ceadú leis an bpointe teagmhála náisiúnta don chúram sláinte trasteorann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If an item is required to have a special medical prescription it should not be issued for use in another member state</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má theastaíonn mír éigin chun oideas leighis speisialta bheith agat, níor cheart go n-eiseofaí é le húsáid i mballstát éigin eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This applies to controlled drugs such as strong, opioid-based painkillers and certain sedatives</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn feidhm leis sin do dhrugaí rialaithe ar nós pianmhúchán láidre bunaithe ar ópóideach agus ar thámhacháin áirithe</seg></tuv>
+</tu>
+</body>
+</tmx>

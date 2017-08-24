@@ -1,0 +1,361 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>• Introduction • EU waste directives</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Treoracha AE maidir le dramhaíl</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Implementation of waste directives</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Treoracha dramhaíola a fhorfheidhmiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The range of EU Directives dealing with waste management include the Integrated Pollution Prevention and Control Directive (1996/61/EC) as well as the following:</seg></tuv>
+  <tuv xml:lang="ga"><seg>I measc raon na dTreoracha AE a bhaineann le bainistíocht dramhaíola, tá Treoir um Chosc agus Rialú Comhtháite ar Thruailliú(1996/61/EC) mar aon leis an méid seo a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Waste Framework Directive (Directive 2008/98/EC on waste) sets down basic requirements for handling waste and defines what is meant by "waste"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagann an Chreat-Treoir Dramhaíola (Treoir 2008/98/EC maidir le dramhaíol) bunriachtanais amach chun dul i ngleic le dramhaíl agus sainmhínítear ann cad is "dramhaíl"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It provides that EU member states must:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Foráiltear ann i leith ballstáit an AE:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Ensure that the disposal and recovery of waste does not present a risk to water, air, soil, plants and animals</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Go gcaithfidh siad a chinntiú nach riosca é diúscairt agus athghabháil dramhaíola d'uisce, d'aer, d'ithir, do phlandaí agus d'ainmhithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Not allow waste disposal to constitute a public nuisance through excessive noise levels or unpleasant odours, or to degrade places of special natural interest</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Nár chóir dóibh ligean do dhiúscairt dramhaíola a bheith ina núis phoiblí de bharr leibhéal torainn iomarcaigh nó bolaithe míphléisiúrtha, nó áiteanna spéise nádúrtha faoi leith a dhíghrádú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Prohibit the dumping or uncontrolled disposal of waste</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Go gcaithfidh siad cosc a chur ar dhumpáil nó dhiúscairt neamhrialaithe dramhaíola</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Establish an integrated and effective network of waste disposal plants, prepare waste management plans, ensure that those who store waste handle it properly, and ensure that waste treatment operations are licensed</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Go gcaithfidh siad líonra comhtháite agus éifeachtach de ghléasraí diúscartha dramhaíola a bhunú, pleananna bainistíochta dramhaíola a ullmhú, a chinntiú go ndéanann siad siúd a stórálann dramhaíl í a láimhseáil i gceart, agus a chinntiú go bhfuil oibríochtaí cóireála ceadúnaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Require waste collectors to have special authorisation and to keep records</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Go gcaithfidh siad iachall a chur ar bhailitheoirí dramhaíola údarú speisialta a bheith acu agus taifid a choinneáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Carry out inspections of companies involved in waste collection or disposal</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Go gcaithfidh siad iniúchtaí a dhéanamh ar na cuideachtaí atá bainteach le bailiú nó le diúscairt dramhaíola</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The PCB/PCT Directive (Directive 96/59/EC on the disposal of polychlorinated biphenyls and polychlorinated terphenyls) deals with the disposal of certain hazardous chemicals that represent a particular threat to the environment and to human health</seg></tuv>
+  <tuv xml:lang="ga"><seg>Pléann an Treoir PCB/PCT (Treoir 96/59/CE maidir le diúscairt défheinilí polaclóirínithe agus trífheinilí polaclóirínithe) le diúscairt ceimicí guaiseacha a léiríonn bagairt áirithe ar an gcomhshaol agus ar shláinte daonna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Sewage Sludge Directive (Directive 86/278/EEC on the protection of the environment, and in particular of the soil, when sewage sludge is used in agriculture) sets controls on the use of sewage sludge in agriculture</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagann an Treoir um Shludach Séarachais (Treoir 86/278/CEE maidir le caomhnú an chomhshaoil, agus caomhnú na hithreach go háirithe, nuair a úsáidtear sludach le haghaidh talmhaíochta) srianta amach maidir le húsáid sludaí séarachais le haghaidh talmhaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Landfill Directive (Directive 1999/31/EC on the landfill of waste) sets out detailed rules on waste landfills</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagann an Treoir maidir le Líonadh Talún (Treoir 1999/31/CE maidir le dramhaíl a chur i láithreán líonta talún) rialacha mionsonraithe amach maidir le líonta talún le haghaidh dramhaíola</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It provides that the operators of existing landfill sites must have an approved conditioning plan which indicates how the requirements of the Directive are to be met within the required timeframe</seg></tuv>
+  <tuv xml:lang="ga"><seg>Forálann sé go gcaithfidh oibreoirí na láithreán líonta talún atá ann cheana plean comhoiriúnaithe faofa a bheith acu a léiríonn an chaoi a dhéanfar freastal ar riachtanais na Treorach laistigh den fráma ama</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These plans must help prevent the negative effects of landfill on surface water, groundwater, soil and air</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh na pleananna seo cúnamh a thabhairt chun cosc a chur ar éifeachtaí diúltacha líonta talún ar uisce dromchla, screamhuisce, ar ithir agus ar aer</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Directive also bans certain types of waste from landfill sites, for example used tyres, and requires member states to reduce the amount of biodegradable waste that they landfill to 35% of 1995 levels</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann an Treoir cosc ar chineálacha éagsúla dramhaíola ó láithreáin líonta talún, mar shampla boinn úsáidte, agus cuireann sé iachall ar bhallstáit méid na dramhaíola in-bhithmhillte a chuireann siad i láithreán líonta talún a laghdú go 35% de réir na leibhéal a bhí ann i 1995</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Incineration of Waste Directive</seg></tuv>
+  <tuv xml:lang="ga"><seg>An Treoir um Loscadh Dramhaíola</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Directive on the incineration of waste (Directive 2000/76/EC of 4 December 2000) aims to prevent or limit the negative effects of the incineration of waste</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is éard is aidhm na Treorach um Loscadh Dramhaíola (Treoir 2000/76/CE an 4 Nollaig 2000) ná cosc a chur ar na héifeachtaí diúltacha maidir le loscadh dramhaíola</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It imposes operational and technical requirements and sets emission limit values for waste incineration and co-incineration plants within the EU</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sonraíonn sé riachtanais oibriúcháin agus theicniúla agus socraíonn sé luachanna le aghaidh teorainneacha astaíochtaí maidir le gléasra loiscthe agus comhloiscthe dramhaíola laistigh den AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Packaging Waste Directive (Directive 94/62/EC on packaging and packaging waste) sets targets for the recovery and recycling of packaging waste and requires member states to set up collection, recycling and recovery schemes for such waste</seg></tuv>
+  <tuv xml:lang="ga"><seg>Socraíonn an Treoir um Dhramhaíl Pacáistithe (Treoir 94/62/CE maidir le pacáistiú agus dramhaíl pacáistithe) spriocanna le haghaidh aisghabháil agus athchúrsáil na dramhaíola pacáistithe agus cuireann sé iachall ar bhallstáit scéimeanna bailithe, athchúrsála agus aisghabhála le haghaidh dramhaíola dá leithéid a bhunú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The End-of-Life Vehicles Directive (Directive 2000/53/EC on end-of-life vehicles) sets out measures which aim to prevent waste from motor vehicles and vehicle components that have reached the end of their life-cycle and to promote vehicle reuse, recycling and other forms of recovery</seg></tuv>
+  <tuv xml:lang="ga"><seg>Socraíonn an Treoir um Fheithiclí a Bhfuil a Ré Caite (Treoir 2000/53/CE maidir le feithiclí a bhfuil a ré caite) na bearta a bhfuil sé mar aidhm acu cosc a chur ar dhramhaíl ó fheithiclí agus ó chomhpháirteanna feithiclí a bhfuil a ré caite agus chun athúsáid feithiclí, athchúrsáil agus cineálacha aisghabhála eile a chur chun cinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It requires that collection systems be set up to ensure that end-of-life vehicles are effectively and safely disposed of without damaging the environment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is riachtanas dá cuid go socraítear córais bailithe chun a chinntiú go ndiúscraítear feithiclí a bhfuil a ré caite go héifeachtach agus go sábháilte gan dochar a dhéanamh don chomhshaol</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read more about how to dispose of an end-of-life vehicle</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tógadh an Treoir isteach sa dlí in Éirinn trí Rialacháin 282/2006</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Electrical and Electronic Waste (WEEE)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dramhaíl Leictreach agus Leictreonach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Directive on waste electrical and electronic equipment (the WEEE Directive 2012/19/EU) became effective on 14 February 2014</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tháinig an Treoir maidir le dramhthrealamh leictreach agus leictreonach (Treoir WEEE 2012/19/AE) i bhfeidhm ar 14 Feabhra 2014</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It aims to prevent the generation of electrical and electronic waste and to promote reuse, recycling and other forms of recovery in order to reduce the quantity of such waste to be eliminated through landfilling or incineration</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is éard is aidhm na Treorach ná cosc a chur ar ghiniúint dramhaíola leictrí agus leictreonaí agus chun athúsáid, athchúrsáil agus cineálacha aisghabhála éagsúla a chur chun cinn d'fhonn cainníocht na dramhaíola dá leithéid a bheadh le díchur trí líonadh talún nó loscadh a laghdú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It requires the collection of WEEE, recovery and reuse or recycling</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is riachtanas dá cuid go ndéantar WEEE a bhailiú, a aisghabháil agus a athúsáid nó a athchúrsáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read more about recycling WEEE</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léigh tuilleadh ar fhorfheidhmiú WEEE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Implementation of waste directives</seg></tuv>
+  <tuv xml:lang="ga"><seg>Treoracha dramhaíola a fhorfheidhmiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These Directives are implemented in Ireland by the Environmental Protection Agency Act 1992, the Waste Management Act 1996, the Waste Management (Amendment) Act 2001 and the Protection of the Environment Act 2003</seg></tuv>
+  <tuv xml:lang="ga"><seg>Forfheidhmítear na Treoracha seo in Éirinn tríd an Acht fán nGníomhaireacht um Chaomhnú Comhshaoil 1992, an Acht um Bainistiú Dramhaíola 1996, an Acht um Bainistiú Dramhaíola 2001 agus an Acht fán nGníomhaireacht um Chaomhnú Comhshaoil 2003</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Several statutory instruments deal with specific aspects of EU Directives</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá roinnt ionstraimí reachtúla ann chomh maith a phléann le sainghnéithe na dTreoracha AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Up to July 2016, the Department of the Environment, Community and Local Government had overall responsibility for waste management policy</seg></tuv>
+  <tuv xml:lang="ga"><seg>Roimh mí Iúil 2016, bhi an dualgas foriomlán maidir le beartas um bhainistiú dramhaíola ar an Roinn Comhshaoil, Pobal agus Rialtais Áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These functions have now been transferred to the Department of Communications, Climate Action and Environment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ta an dualgas anois ag an Roinn Cumarsáide, Gníomhaithe ar son na hAeráide agus Comhshaoil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Waste policy and legislation are implemented largely by the Environmental Protection Agency and the local authorities</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is í an Ghníomhaireacht um Chaomhnú Comhshaoil mar aon leis na húdaráis áitiúla a chuireann an beartas sin agus an reachtaíocht i bhfeidhm den chuid is mó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The current waste management policy is set out in A Resource Opportunity – Waste Management Policy in Ireland (pdf), which was published in 2012</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an beartas bainistíochta dramhaíola reatha leagtha amachin A Resource Opportunity – Waste Management Policy in Ireland (pdf), a foilsíodh i 2012</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Waste Management Acts provide for a general duty on everyone not to hold, transport, recover or dispose of waste in a manner that causes or is likely to cause environmental pollution</seg></tuv>
+  <tuv xml:lang="ga"><seg>Forálann na hAchtanna um Bainistiú Dramhaíola go bhfuil dualgas ginearálta ar gach duine gan dramhaíl a choimeád, a iompar, a aisghabháil nó a dhiúscairt i slí a dhéanann truailliú comhshaoil nó ar dhócha í truailliú a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Environmental Protection Agency (EPA) and waste</seg></tuv>
+  <tuv xml:lang="ga"><seg>An Ghníomhaireacht um Chaomhnú Comhshaoil (GCC) agus dramhaíl</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The EPA's main activities in the waste management area are:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad seo a leanas príomhghníomhaíochtaí na GCC i réimse na bainistíochta dramhaíola:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Drawing up and reviewing the National Hazardous Waste Management Plan</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An Plean Náisiúnta um Bainistiú Dramhaíola Guaisí a dhréachtú agus a athbhreithniú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The integrated pollution prevention and control (IPPC) licensing system, which deals with the generation, recovery and disposal of waste</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An córas ceadúnaithe comhtháite maidir le truailliú a chosc agus a rialú (IPPC) a théann i ngleic le giniúint, aisghabháil agus diúscairt dramhaíola</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Development of guidelines for the selection, management, operation and ending of use of landfill sites</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Treoirlínte a fhorbairt chun láithreáin líonta talún a roghnú, a bhainistiú, a oibriú agus deireadh a chur lena n-úsáid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Authorisation of waste imports</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Allmhairí dramhaíola a údarú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Maintenance of a national waste database</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bunachar sonraí náisiúnta um dhramhaíl a chothabháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The local authorities are responsible for:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá na húdaráis áitiúla freagrach as:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Authorisation and control of commercial waste collection activities</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gníomhaíochtaí bailithe dramhaíola tráchtála a údarú agus a rialú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Authorisation of waste exports and monitoring of internal movements of hazardous wastes</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Onnmhairí dramhaíola a údarú agus gluaiseachtaí inmheánacha de dhramhaíl ghuaiseach a fhaire</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Waste permits for small-scale recovery and disposal activities</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ceadanna dramhaíola le haghaidh gníomhaíochtaí aisghabhála agus diúscartha ar bhonn mionscála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Ensuring adequate waste collection, recovery and disposal arrangements in their areas</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Socruithe iomchuí maidir le bailiú, aisghabháil agus diúscairt dramhaíola ina gceantair a chinntiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Monitoring and inspection of waste activities generally</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gníomhaíochtaí dramhaíola i gcoitinne a fhaire agus a iniúchadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The EPA is responsible for the National Hazardous Waste Management Plan</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an GCC freagrach as an bPlean Náisiúnta um Bainistiú Dramhaíola Guaisí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The plan must be reviewed at least once every 5 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfear an plean a athbhreithniú uair amháin ar a laghad gach 5 bliana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are 3 regions for the purposes of waste management planning: Southern, Eastern-Midlands and Connacht-Ulster</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá 3 réigiún freagrach as Pleananna Bainistíochta Dramhaíola: Deisceart, Oirthear-Lár Tíre agus Connacht-Uladh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The regional waste management plans deal with non-hazardous waste and must include measures to:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Pléann na pleananna réigiúnacha le dramhaíl neamhghuaiseach agus caithfidh na bearta seo a leanas a bheith san áireamh leo:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Prevent or minimise the production or harmful nature of waste</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Táirgeadh nó nádúr guaiseach na dramhaíola a chosc nó a íoslaghdú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Encourage and support the recovery of waste</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Aisghabháil na dramhaíola a spreagadh agus a thacú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Ensure that the waste which cannot be prevented or recovered is disposed of without causing environmental pollution</seg></tuv>
+  <tuv xml:lang="ga"><seg>• A chinntiú go ndéantar an dramhaíl nach bhféidir a chosc nó a aisghabháil a dhiúscairt gan truailliú comhshaoil a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Ensure that the 'polluter pays' principle is effectively applied</seg></tuv>
+  <tuv xml:lang="ga"><seg>• A chinntiú go bhfeidhmítear an prionsabal 'íoc mar a thruaillítear'</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The region must publish a notice of its intention to draw up or review a plan</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don réigiún fógra a fhoilsiú go bhfuil sé ar intinn aige plean a dhréachtú nó a athbhreithniú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Anyone may make a written submission within 2 months of this notice</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le duine ar bith aighneacht scríofa a chur isteach laistigh de 2 mhí ón bhfógra seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When the proposed plan is drawn up, it must be available for inspection and you have 2 months to make submissions about it</seg></tuv>
+  <tuv xml:lang="ga"><seg>I ndiaidh don phlean molta a bheith dréachtaithe, caithfidh sé a bheith ar fáil le haghaidh iniúchta agus tá 2 mhí agat aighneachtaí a chur isteach ina thaobh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The plans must be reviewed at least once every 5 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfear na pleananna a athbhreithniú uair amháin ar a laghad gach 5 bliana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Certain facilities that deal with the generation, recovery and disposal of waste require a licence from the EPA</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá ceadúnas ón nGníomhaireacht um Chaomhnú Comhshaoil riachtanach d'áiseanna áirithe a phléann le giniúint, aisghabháil agus diúscairt dramhaíola</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The procedure is the same as for the IPPC licences</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an nós imeachta mar an gcéanna do cheadúnais IPPC</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The EPA keeps a public register of waste licences</seg></tuv>
+  <tuv xml:lang="ga"><seg>Coimeádann an GCC clár poiblí de cheadúnais dhramhaíola</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Before granting a waste licence, the EPA must be satisfied, among other things, that</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sula mbronntar ceadúnas dramhaíola, ní mór don GCC a bheith sásta, i measc rudaí eile:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The emissions from the facility comply with the relevant standards</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Go gcomhlíonann na hastaíochtaí ón áis na caighdeáin ábhartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The activity concerned will not cause environmental pollution</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Nach mbeidh an ghníomhaíocht atá i gceist ina truailliú comhshaoil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The best available technology will be used to minimise emissions</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Go mbainfear úsáid as an teicneolaíocht is fearr atá ar fáil chun astaíochtaí a íoslaghdú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The applicant is a fit and proper person to hold a waste licence</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Go bhfuil an t-iarrthóir ina dhuine oiriúnach agus cuí chun ceadúnas dramhaíola a bheith ina sheilbh aige</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The local authorities operate a permit system for certain waste disposal and recovery activities which do not require a licence from the EPA</seg></tuv>
+  <tuv xml:lang="ga"><seg>Feidhmíonn na húdaráis áitiúla córas ceada le haghaidh gníomhaíochtaí áirithe maidir le diúscairt agus aisghabháil dramhaíola nach dteastaíonn ceadúnas dóibh ón GCC</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The application must give public notice of intention to apply for such a permit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don iarratas fógra poiblí rúin a thabhairt go gcuirfear iarratas isteach ar cheadúnas dá leithéid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The application must be available for inspection at the local authority’s offices and anyone may make a written submission about it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh an t-iarratas a bheith ar fáil le haghaidh iniúchta ag oifigí an údaráis áitiúil agus is féidir le duine ar bith aighneacht scríofa a dhéanamh faoi</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A permit may be granted for up to 3 years and may have various conditions attached</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir ceadúnas a bhronnadh ar feadh suas le 3 bliana agus is féidir coinníollacha éagsúla a bheith ceangailte leis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The National Waste Collection Permit Office (NWCPO) maintains a register for waste facility permits and certificates of registration issued by local authorities</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá clár na gceadúnas á chothabháil ag an Oifig Náisiúnta do Cheadanna Bailithe Dramhaíola</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The collection of waste on a commercial basis requires a waste collection permit from the NWCPO</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé riachtanach cead bailithe dramhaíola a fháil ón Oifig Náisiúnta do Cheadanna Bailithe Dramhaíola chun dramhaíl a bhailiú ar bhonn tráchtála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An applicant for a waste collection permit must publish a notice of intention to apply and must give details of what is to be collected and how this is to be done</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh iarrthóir le haghaidh ceada bailithe dramhaíola fógra rúin a fhoilsiú maidir leis an iarratas a dhéanamh agus sonraí a thabhairt maidir le cad a bhaileofar agus conas a dhéanfar é seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The application may be inspected on the NWCPO website and anyone may make a written submission on it in the 25 days after it is made</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir an t-iarratas a iniúchadh ar láithreán gréasáin na hOifige Náisiúnta do Cheadanna Bailithe Dramhaíola agus is féidir le duine ar bith aighneacht scríofa a dhéanamh i rith na 25 lá i ndiaidh é a chur isteach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you make such a submission, you must be told of the NWCPO’s decision</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéanann tú aighneacht dá leithéid, caithfear tú a chur ar an eolas faoi chinneadh na hOifige</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Various conditions may be attached to the permit, including conditions relating to the use of skips in public places</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir coinníollacha éagsúla a cheangail leis an gcead, lena n-áirítear coinníollacha a bhaineann le húsáid scipí bruscair in áiteanna poiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, it may require that skips be lighted at night</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, is féidir go mbeidh riachtanas ann go ndéanfaí scipí bruscair a shoilsiú istoíche</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(This may also be a requirement under bye laws issued under the Roads Act 1993</seg></tuv>
+  <tuv xml:lang="ga"><seg>(D'fhéadfadh sé seo a bheith ina riachtanas de réir na bhfodhlíthe a eisíodh faoi Acht na mBóithre 1993</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Section 72 of the Roads Act 1993 allows local authorities to make bye-laws governing the use of skips on public roads)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ligeann Alt 72 d'Acht na mBóithre 1993 d'údaráis áitiúla fodhlíthe a dhéanamh a rialaíonn úsáid scipí bruscair ar bhóithre poiblí.)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>'Producer responsibility obligation' means a requirement to take steps for the purpose of the prevention, minimisation, limitation or recovery of waste by the producer of the waste</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn 'Oibleagáid dualgais an táirgeora' riachtanas chun céimeanna a ghlacadh ionas go ndéanfadh táirgeoir na dramhaíola an dramhaíl a chosc, a íoslaghdú, a theorannú nó a aisghabháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the Producer Responsibility Initiative (PRI), as an alternative to statutory controls and obligations, relevant business sectors were invited to formulate and implement proposals for a voluntary producer responsibility initiative. A review of the PRI was published in 2014</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá iachall ar gach éinne a dhéanann gníomhaíocht talmhaíochta, tráchtála nó tionsclaíoch cosc nó íoslaghdú a dhéanamh ar tháirgeadh na dramhaíola ón ngníomhaíocht sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is a voluntary agreement between the Government and Repak Ltd to promote, co-ordinate and finance the collection and recovery of packaging waste in order to achieve the objectives set out in the Packaging Waste Directive (see above)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá comhaontú deonach idir an Rialtas agus Repak Ltd chun bailiú agus aisghabháil dramhaíola pacáistithe a chur chun cinn, a chomhordú agus a mhaoiniú d'fhonn na cuspóirí a leagtar amach sa Treoir um Dhramhaíl Pacála (féach thuas) a bhaint amach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is an equivalent scheme in operation for farm plastics. A similar scheme operates for end-of-life vehicles</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá scéim chomhionainn i bhfeidhm maidir le plaistigh fheirme agus tá scéim eile cosúil léi á moladh le haghaidh feithiclí a bhfuil a ré caite</seg></tuv>
+</tu>
+</body>
+</tmx>

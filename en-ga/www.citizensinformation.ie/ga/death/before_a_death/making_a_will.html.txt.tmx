@@ -1,0 +1,681 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>A will is a witnessed document that sets out in writing the deceased's wishes for his or her possessions, (called his or her 'estate'), after death</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cáipéis fhianaithe is ea uacht a leagann síos i scríbhinn céard atá ag teastáil ón duine marbh maidir lena m(h)aoin, ar a dtugar a (h)eastát, tar éis a b(h)áis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Reasons for making a will</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fáthanna ar ceart uacht a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is important for you to make a will because if you do not, and die without a will, the law on intestacy decides what happens to your property</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna ndéanann, agus má fhaigheann tú bás gan uacht, déanfaidh an dlí díthiomnachta an cinneadh céard a tharlóidh do do mhaoin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A will can ensure that proper arrangements are made for your dependants and that your property is distributed in the way you wish after you die, subject to certain rights of spouses/civil partners and children</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfaidh uacht cinnte go ndéanfar socruithe cearta maidir le do chleithiúnaithe agus go roinnfear do mhaoin mar is mian leat tar éis do bháis, faoi réir ag cearta áirithe de chuid céilí/páirtnéirí sibhialta agus páistí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is also advisable to complete and keep updated a list of your assets</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé inmholta freisin a chur i gcrích agus a choinneáil cothrom le dáta liosta de do chuid sócmhainní</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can use a form such as our form, Where my possessions are kept</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat úsáid a bhaint as ár bhfoirm cibé foirm a ordóidh, I gcás ina gcoimeádtar mo sealúchais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It will make it easier to identify and trace your assets after you die</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh sé a dhéanamh níos éasca a aithint agus a lorg do shócmhainní tar éis tú bás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should keep the list in a safe place</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir duit a choinneáil ar an liosta in áit shábháilte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>What happens if you die having made a will</seg></tuv>
+  <tuv xml:lang="ga"><seg>Céard a tharlaíonn má fhaigheann tú bás tar éis duit uacht a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have made a will, you are called a testator (male) or testatrix (female)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá uacht déanta agat, tugtar tiomnóir (fear) nó bantiomnóir (bean) ort</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A person who dies having made a valid will is said to have died 'testate'</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a fhaigheann duine a bhfuil uacht bhailí déanta aige/aici bás, deirtear go bhfuair sé/sí bás tiomnach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you die testate, then all your possessions will be distributed in the way you set out in your will</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhaigheann tú bás tiomnach, dáilfear do mhaoin ar fad faoi mar a leag tú síos i d'uacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is the job of the executor or executors you named in your will to make sure this happens</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoin seiceadóir/seiceadóirí a d'ainmnigh tú i d'uacht atá sé a fhéachaint chuige go dtarlóidh sé seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are legal limits as to how much of your property goes to which person, as set out in law in the Succession Act, 1965. An executor can be a beneficiary under the will</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá teorainneacha dlíthiúla ann maidir leis an méid de do mhaoin a théann chuig daoine ar leith, mar a leagtar síos san Acht Comharbais, 1965</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>After you die, somebody has to deal with your estate, by gathering together all your money and possessions, paying any debts you owe and then distributing what is left to the people who are entitled to it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a fhaigheann tú bás, bíonn ar dhuine éigin d'eastát a réiteach trí d'airgead agus do mhaoin uilig a bhailiú, fiach ar bith a d'fhág tú a íoc, agus ansin an méid atá fágtha a dháileadh ar na daoine atá ina theideal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you leave a will before you die, one or more of the executors you named in your will usually has to get legal permission from the Probate Office or the District Probate Registry for the area in which you lived at the time of death to do this</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhágann tú uacht sula bhfaigheann tú bás, de ghnáth beidh ar dhuine de na seiceadóirí a d'ainmnigh tú i d'uacht cead dlithiúil a fháil ón Oifig Phrobháide nó ón gClárlann Phrobháide Dhúiche don cheantar ina raibh tú i do chónaí nuair a fuair tú bás, chun é sin a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Permission comes in the form of a document called a Grant of Representation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tagann an cead i bhfoirm cáipéise ar a dtugtar Deonú Ionadaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you did not name any executors in your will or if the executors are unable or unwilling to apply for a Grant of Representation, documents called Letters of Administration (With Will) are issued</seg></tuv>
+  <tuv xml:lang="ga"><seg>Munar ainmnigh tú seiceadóirí i d'uacht, nó muna bhfuil na seiceadóirí in ann nó toilteanach iarratas a dhéanamh ar Dheonú Ionadaíochta, eisítear cáipéisí ar a dtugar Litreacha Riaracháin (le hUacht)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When your estate is distributed, the legal rights of your spouse/civil partner and children, if any, will be fulfilled first after any debts are paid before any other gifts are considered</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a dháiltear d'eastát, comhlíontar cearta do chéile/páirtnéir sibhialta agus do pháistí ar dtús más ann dóibh, tar éis fiacha ar bith a íoc, sula smaoinítear ar bhronntanas ar bith eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>What happens if you die without a will or your will is invalid</seg></tuv>
+  <tuv xml:lang="ga"><seg>Céard a tharlaíonn má fhaigheann tú bás gan uacht, nó muna bhfuil d'uacht bailí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A person who dies without a will is said to have died 'intestate'</seg></tuv>
+  <tuv xml:lang="ga"><seg>Deirtear faoi dhuine a fhaigheann bás gan uacht a dhéanamh, go bhfuair sé/sí bas díthiomnach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you die intestate, this means your estate, or everything that you own, is distributed in accordance with the law by an administrator</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhaigheann tú bás díthiomnach ciallaíonn sé seo go ndáileann riarathóir d'eastáit, nó do mhaoin uilig, de réir an dlí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To do this, the administrator needs permission in the form of a Grant of Representation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun é sin a dhéanamh bíonn cead ag teastáil ón riarthóir i bhfoirm Deonaithe Ionadaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When a person dies without a will or when their will is invalid, this Grant is issued as Letters of Administration by the Probate Office or the District Probate Registry for the area in which the person lived at the time of death</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a fhaigheann duine bás gan uacht, nó nuair a bhíonn a (h)uacht neamhbhailí, eisíonn an Oifig Phrobháide nó an Chlárlann Phrobháide Dhúiche, don cheantar ina raibh an duine ina c(h)ónaí nuair a fuair sé/sí bás, an Deonú seo mar Litreacha Riaracháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Distribution of your estate when you die intestate or have not made a valid will</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dáileadh d'eastáit nuair a fhaigheann tú bás díthiomnach, nó nuair nach mbíonn uacht bhailí déanta agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The legal rules governing the distribution of your property apply:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirtear na rialacha dlíthiúla a riarann dáileadh d’eastáit i bhfeidhm:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• When you have not made a will</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Nuair nach mbíonn uacht déanta agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• When the will has been denied probate because it has not been made properly or a challenge to it has been successful</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Nuair a dhiúltaítear probháid don uacht mar nach raibh sí déanta i gceart, nó má d'éirigh le hagóid ina coinne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• When the will does not completely deal with all your possessions</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Nuair nach gcaitheann an uacht go hiomlán le do mhaoin uilig</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In these cases, after debts and expenses have been deducted, the estate is distributed in the following way</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sna cásanna seo, nuair a bhíonn fiacha agus costais bainte de, dáilítear an t-eastát mar a leanas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are survived by:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má mhaireann i do dhiaidh:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A spouse/civil partner but no children (or grandchildren): your spouse/civil partner gets the entire estate</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Céile/páirtnéir sibhialta, ach muna maireann clann (nó garchlann): faigheann do chéile/páirtnéir sibhialta an t-eastát uilig</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A spouse/civil partner and children: your spouse/civil partner gets two-thirds of your estate and the remaining one-third is divided equally among your children</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Céile/páirtnéir sibhialta agus páistí: Faigheann do chéile/páirtnéir sibhialta dhá thrian d'eastáit, agus dáiltear an trian eile go cothrom ar do pháistí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If one of your children has died, that share goes to his/her children</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá duine de do pháistí tar éis bás a fháil, tabharfar an chuid sin dá p(h)áistí siúd</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Children, but no spouse/civil partner: your estate is divided equally among your children (or their children)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Páistí, ach muna maireann céile/páirtnéir sibhialta: dáiltear d'eastát ar do pháistí (nó a bpáistí siúd)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Parents, but no spouse/civil partner or children: your estate is divided equally between your parents or given entirely to one parent if only one survives</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tuismitheoirí, ach muna maireann céile/páirtnéir sibhialta ná páistí: roinntear d'eastát go cothrom ar do thuismitheoirí, nó tugtar ina iomláine do thuismitheoir amháin é muna maireann ach duine amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Brothers and sisters only: your estate is shared equally among them, with the children of a deceased brother or sister taking his/her share</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Deartháireacha agus deirfiúracha amháin: roinntear d'eastát go cothrom eatarthu, agus tógann páistí dearthár nó deirféar atá básaithe a c(h)uid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Nieces and nephews only: your estate is divided equally among those surviving</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Neachtanna agus nianna amháin: roinntear d'eastát go cothrom eatarthu siúd a mhaireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Other relatives only: your estate is divided equally between the nearest equal relationship</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gaolta eile amháin: roinntear d'eastát go cothrom idir na daoine a bhfuil an gaol cothrom is gaire duit acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• No relatives: your estate goes to the state</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gaol ar bith: faigheann an stát d'eastát</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The requirements of a valid will</seg></tuv>
+  <tuv xml:lang="ga"><seg>Na coinníollacha a bhaineann le huacht bhailí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is possible to draw up a will yourself or you can hire a solicitor to help you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir uacht a dhreachtadh tú féin, nó is féidir dlíodóir a fhostú chun cabhrú leat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For a will to be legally valid, the following rules apply:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun go mbeidh uacht bailí ό thaobh an dlí de, cuirtear na rialacha seo a leanas i bhfeidhm:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The will must be in writing</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Caithfidh an uacht a bheith i scríbhinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You must be over 18 (if you are or have been married you can be under 18)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní mór duit a bheith os cionn 18 (má tá tú pósta faoi láthair nó má bhí tú pósta, is féidir leat a bheith faoi 18)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You must be of sound mind</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní foláir duit a bheith slán ó thaobh intinne de</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You must sign or mark the will or acknowledge the signature or mark in the presence of two witnesses</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Caithfidh tú an uacht a shíniú, nó a mharcáil, nó an síniú nó an marc a admháil i láthair beirt fhinnéithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Your two witnesses must sign the will in your presence</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní foláir do do bheirt fhinnéithe an uacht a shíniú i do láthair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Your two witnesses cannot be people who will gain from your will and they must be present with you at the same time for their attestation to be valid</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní fhéadfadh na finnéithe leas a bhaint as d'uacht, agus caithfidh siad a bheith i láthair leat ag an am céanna chun go mbeidh a ndearbhú bailí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The witnesses' spouses/civil partners also cannot gain from your will</seg></tuv>
+  <tuv xml:lang="ga"><seg>Na céilí/páirtnéirí sibhialta de na finnéithe nach féidir a fháil chomh maith ó do huachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Your witnesses must see you sign the will but they do not have to see what is written in it</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Caithfidh d'fhinnéithe tú a fheiceáil ag síniú na huachta, ach ní chaithfidh siad céard atá scríofa inti a fheiceáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The signature or mark must be at the end of the will</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Caithfidh an síniú nó an marc a bheith ag deireadh na huachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These are legal requirements and if they any of them are not met, the will is not valid</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is coinníollacha dlíthiúla iad seo agus má bhíonn aon ceann acu nach bhfuil comhlíonta, ní bheidh an uacht bailí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you want to change your will after you make it, you can add a codicil (amendment or change) to your will; this codicil must meet the same requirements set out above</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhíonn tú ag iarraidh d'uacht a athrú tar éis duit í a dhéanamh, is féidir leat codaisíl (athrú nó leasú) a chur le d'uacht; caithfidh an chodaisíl seo na coinníollacha céanna thuasluaite a chomhlíonadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The format of the will</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagan amach na huachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You do not have to have your will in any set format</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chaithfidh tú leagan amach ar leith a chur ar d'uacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, it is important that the will has the following:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé tábhachtach, áfach, go mbíonn na rudaí seo a leanas inti:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Your name and address</seg></tuv>
+  <tuv xml:lang="ga"><seg>• D'ainm agus do sheoladh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A statement that says you revoke or disown all earlier wills or codicils, such as "I hereby revoke all former wills and testamentary instruments made by me and declare this to be my last will and testament"</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ráiteas a deir go dtarraingíonn tú siar nó go séanann tú gach uacht nό codaisíl a rinne tú níos luaithe mar shampla "Leis seo cúlghairim na hiaruachtanna agus na hiarionstraimí tiomnacha uilig a rinne mé agus dearbhaím gurb í seo m'uacht dheireanach agus gurb é seo mo thiomna deireanach"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A clause or section of your will that appoints one or more executors, or people who will carry out your wishes in your will after you die, and stating these executors' names and addresses</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Clásal nó rannóg de d'uacht a ainmníonn seachadóir nó seachadóirí, nó daoine a chuirfidh do thoil i gcrích tar éis do bháis, agus ag tabhairt ainmneacha agus seoltaí na seachadóirí seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A residuary clause, which is a section in your will that sets out how property not effectively dealt with in the will should be distributed</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Clásál iarmharach, is é sin rannóg i d'uacht a leagann síos an chaoi ar cheart maoin a dháileadh nár caitheadh leis go héifeachtach i d'uacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is important because specific bequests, such as "I leave x</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn sé seo tábhachtach mar d'fhéadfadh tiomnacht ar leith, ar nós "Fágaim x do Sheán Ó Murchú" a chliseadh (mar go meastar nach bhfuil sé bailí)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>to Sean Murphy" can fail (be considered invalid), and then revert to the residue to be decided by this residuary clause</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ansin téann sé i bhfrithdhílse don iarmhar a bhíonn clúdaithe ag an gclásal iarmharach seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your residuary clause could say that anything not covered in your will would be a gift or legacy to someone, like "The remainder of my estate I leave to my daughter, Mary"</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh do chlásaliarmharach a rá go mbeadh rud ar bith nach gclúdaíonn d'uacht mar bhronntanas nó tiomna do dhuine ar leith, ar nós "Fágaim fuíoll m'eastáit do m'iníon, Máire"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Your will should be dated and signed by you and your witnesses</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ba cheart go mbeadh d'uacht dátaithe agus sínithe agat agus ag d'fhinnéithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Usually, these signatures are underneath a line in the will that states "Signed by the testator in the presence of us and by us in the presence of the testator"</seg></tuv>
+  <tuv xml:lang="ga"><seg>De ghnáth bíonn na sínithe faoi líne san uacht a deir "Sínithe ag an tiomnóir inár láthair agus sínithe againn i láthair an tiomnóra"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This statement is called "an attestation clause"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar "clásal dearbhaithe" ar an gclasál seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An attestation clause is not a formal requirement of a valid will, but it is advisable to include it in your will as it constitutes evidence that your will has been validly executed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní coinníoll foirmeálta de chuid uachta bailí é clásal dearbhaithe, ach moltar duit é a chur i d'uacht mar fhianaise go bhforghníomhaíodh d'uacht go bailí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>What if the testator in unable to sign or make a mark?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Céard a tharlaíonn muna bhfuil an tiomnóir in ann síniú nó marc a dhéanamh?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are unable to sign your will due to ill-health or illiteracy, it is acceptable for you to sign your will by means of a mark</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna bhfuil tú in ann d'uacht a shíniú mar gheall ar easláinte nó neamhlitearthacht, glacfar leis má shíníonn tú le marc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are physically disabled to the extent that you are unable to sign or mark your will, it is possible for you to direct an agent or representative to sign your will for you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá míchumas fisiciúil ort ionas nach bhfuil tú in ann d'uacht a shíniú ná marc a chur uirthi, is féidir leat ordú a thabhairt do ghníomhaire nó d'ionadaí d'uacht a shíniú ar do shon</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your agent must sign the will in your presence and on your direction and your two witnesses must be present</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní foláir don ghníomhaire an uacht a shíniú i do láthair agus de réir d'ordaithe, agus caithfidh do bheirt fhinnéithe a bheith i láthair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You then adopt this signature as your own</seg></tuv>
+  <tuv xml:lang="ga"><seg>Uchtaíonn tú an siniú seo mar do shíniú féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The sound mind requirement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Coinníoll na hintinne sláine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In order to make a valid will, you must not only set out your wishes in a written and witnessed document, but you must also have, in the eyes of the law, the mental capacity to do so</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun uacht bhailí a dhéanamh bíonn ort, de réir an dlí, a bheith slán ó thaobh intinne de chomh maith le do thoil a chur síos i gcáipéis scríofa agus fianaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means you must make your will with "understanding and reason" and not be suffering from mental conditions such as delusion, insane suspicion or aversion</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn sé seo go gcaithfidh tú d'uacht a dhéanamh le "tuiscint agus réasún" agus gan a bheith ag fulaingt galar intinne mar sheachrán céille, amhras éigéillí nó col</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is your mental condition at the time you made your will is that legally relevant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is í do riocht intinne ag an am a rinne tú d'uacht a bhíonn bailí de réir dlí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you suffer from any mental disorder, it is important that evidence is left with your will (for example, from a doctor) that proves you were mentally competent at the time you made the will</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá galar intinne ar bith ort, tá sé tábhachtach go bhfágtar fianaise le d'uacht (mar shampla ó dhochtúir) a dhearbhaíonn go raibh tú ábalta go hintinneach nuair a rinne tú an uacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Otherwise, your will can be open to challenge</seg></tuv>
+  <tuv xml:lang="ga"><seg>Murach é sin d’fhéadfaí agóid a dhéanamh i gcoinne d'uachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your will can also be challenged on the basis that you were acting under pressure or undue influence when you made it so it is important that you get independent legal advice and not use the services of a solicitor of any potential beneficiary of your will</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfaí agóid a dhéanamh i gcoinne d'uachta chomh maith de bharr go raibh tú ag feidhmiú faoi bhrú nó faoi thionchar míchuí. Mar sin tá sé tábhachtach go bhfaigheann tú comhairle dlí neamhspleách, agus nach mbaineann tú úsáid as seirbhísí dlíodóra atá ag obair ar son duine ar bith a d'fhéadfadh tairbhe a bhaint as d'uacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Changing or revoking your will</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'uacht a athrú nó a chúlghairm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you want to change your will, you and your witnesses must sign or initial the will in the margin of the page beside the changes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ag iarraidh d'uacht a athrú, ní foláir duitse agus do do fhinnéithe an uacht a shíniú, nó do cheannlitreacha a chur, ar chiumhais an leathanaigh le hais na n-athruithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can also change your will in the form of a memorandum or written note that is signed by you and your witnesses that refers clearly to the changes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat d'uacht a athrú chomh maith i bhfoirm meamraim nó nóta scríofa a shíníonn tú agus d'fhinnéithe agus a dhéanann tagairt shoiléir do na hathruithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To change your will, you can also make a separate document, called a codicil, which is like an update added to the end of your will</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun d'uacht a athrú, is féidir leat cáipéis ar leith a dhéanamh ar a dtugtar codaisíl. Tá sí cosúil le haguisín suas chun dáta curtha le deireadh d'uachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This document, again signed by you and your witnesses, should set out clearly and accurately the changes you want to make to your will</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart go leagfadh an cháipéis seo síos go soiléir agus go cruinn na hathruithe atá tú ag iarraidh a dhéanamh ar d’uacht, agus go mbeadh sí sínithe agat agus ag d'fhinnéithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These changes are then legally binding</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn na hathruithe seo ceangailteach go dlíthiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if you plan to make a lot of changes to your will, instead of adding a codicil, it might be easier to simply revoke or disown your current will and make a new one, using the same procedures</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá sé i gceist agat go leor athruithe a dhéanamh ar d'uacht, áfach, d'fhéadfadh sé a bheith níos éasca d'uacht reatha a chúlghairm nó a shéanadh in áit codaisíl a chur léi, agus ceann nua a dhéanamh, ag baint úsáide as na modhanna oibre céanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is always possible for you to revoke your will</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat i gcónaí d'uacht a chulghairm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This can only be challenged if your mental capacity when you revoked your will is called into question</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir agóid a dhéanamh ina coinne ach amháin má tá amhras ann faoi do chumas intinne nuair a chulghairm tú d'uacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your will shall be revoked automatically in certain situations:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cúlghairmeofar d’uacht go huathoibríoch i gcásanna áirithe:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you marry or enter into a civil partnership, your will shall be revoked, unless your will was made in contemplation of that marriage or civil partnership</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má phósann tú nó páirtnéireacht shibhialta a dhéanamh cúlghairmeofar d'uacht, ach amháin má rinneadh í agus an pósadh á bheartú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you make another will, the first will you made shall be revoked</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má dhéanann tú uacht eile, cúlghairmeofar an chéad cheann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you draw up a written document that is executed in accordance with the requirements for a will, your first will shall be revoked</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má dhréachtann tú cáipéis scríofa a fhorghníomhaítear mar is dual d'uacht, cúlghairmeofar do chéad uacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you burn, tear or destroy your will, it will no longer be considered valid</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má dhónn tú, má stróiceann tú, nó má scriosann tú d'uacht, ní glacfar leis níos mó go bhfuil sí bailí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Or, if you have someone else destroy it, your will shall be revoked, provided this was done in your presence, with your consent, and with the intention of revoking your will</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má iarrann tú ar dhuine eile í a scriosadh, cúlghairmeofar d'uacht, má rinneadh é i do láthair, le do chead, agus é ar intinn agat d'uacht a chúlghairm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Legal rights of spouses, civil partners and children when there is a valid will</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cearta dlíthiúla céilí, páirtnéirí sibhialta agus páistí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In general, you are free to dispose of your belongings or estate as you wish, but your will is subject to certain rights of spouses/civil partners and other more limited rights of children</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, tá saoirse agat do mhaoin nó d'eastát a dháileadh mar is mian leat, ach bíonn d'uacht faoi réir ag cearta áirithe céilí/páirtnéirí sibhialta, agus cearta níos teoranta páistí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These rights are set out below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagtar amach na cearta sin thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Rights of a spouse or civil partner</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cearta céile nó páirtnéir sibhialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have left a will, and your spouse/civil partner has never renounced or given up his/her rights to your estate, and is not "unworthy to succeed" in legal terms, then that spouse/civil partner is entitled to what is called a "legal right share" of your estate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má d'fhág tú uacht, agus munar thréig do chéile/páirtnéir sibhialta a c(h)earta do d'eastát, agus munar rud é "nach bhfuil sé/sí inchurtha leis an oidreacht" i dtéarmaí dlíthiúla bíonn an céile/páirtnéir sibhialta sin i dteideal ruda ar a dtugtar "cuid cheart dhlíthiúil" de d'eastát</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This legal right share is:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is éard atá sa chuid cheart dhlíthiúil seo ná leath d'eastáit muna bhfuil páistí agat, agus trian de má tá páistí agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• One-half of your estate if you do not have children</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chaithfidh do chéile/páirtnéir sibhialta dul chun na cúirte chun an chuid seo a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• One-third of your estate if you do have children</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn iachall ar sheiceadóir ar bith an chuid sin a cheadú nuair a bhíonn sé oiriúnach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your spouse/civil partner does not have to go to court to get this share, as any executor is obliged to grant this share where applicable</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat tiomnacht a dhéanamh i d'uacht a mhéadaíonn cuid cheart dhlíthiúil do chéile/páirtnéir sibhialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can also make a bequest in your will that increases your spouse's/civil partner's legal right share, although if you do not specify that this gift is meant to be in addition to his/her legal right share, the executor may consider it part of that share and not an extra element to it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna leagann tú síos go bhfuil an chuid seo ceapaithe a bheith ann chomh maith lena c(h)uid cheart dhlíthiuil, d'fhéadfadh an seiceadóir í a thuiscint mar chuid den chuid sin in áit í a thuiscint mar eilimint bhreise</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your spouse/civil partner can choose to take either the assets specified under the will or his/her legal right share</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bheadh an rogha ag do chéile/páirtnéir sibhialta na maoine ainmnithe san uacht nó a c(h)uid cheart dhlíthiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The executors must inform your spouse/civil partner in writing of his or her right to choose between these two options and your spouse/civil partner must exercise this right within 6 months of receipt of notification or within 12 months of the taking out of the Grant of Representation</seg></tuv>
+  <tuv xml:lang="ga"><seg>a thógáil. Beidh ar na seiceadóirí do chéile/páirtnéir sibhialta a chur ar an eolas i scríbhinn maidir lena c(h)eart chun rogha a dhéanamh idir an dá rud, agus beidh ar do chéile an rogha seo a dhéanamh taobh istigh de 6 mhí ón dáta a fhaigheann sé/sí an fógra, nó taobh istigh de 12 mhí ón am a fuarthas an Deonú Ionadaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Renouncing or losing rights under a will</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cearta a thréigean nó a chailleadh faoi uacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is possible for a spouse/civil partner to renounce his/her rights to the legal right share</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le céile/páirtnéir sibhialta a c(h)earta don chuid cheart dhlíthiúil a thréigean</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This can form part of an agreement prior to marriage/civil partnership, for example, in the case of a second marriage, or the spouse/civil partner may set aside his or her rights in order to favour any children</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh sé seo a bheith mar chuid de chomhaontú roimh phósadh/páirtnéireacht shibhialta, mar shampla i gcás an dara pósadh, nó is féidir le céile/páirtnéir sibhialta a c(h)earta a chur i leataobh chun tairbhe páistí áirithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, any such renunciation may be ignored in certain circumstances, for example, if there is evidence of undue influence or evidence that the spouse/civil partner did not understand what he/she was doing or did not have independent legal advice</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfar an tréigean sin a dhiúltú, áfach, mar shampla má tá fianaise ann go raibh tionchar míchuí i gceist, nó fianaise nár thuig an céile céard a bhí á dhéanamh aige/aici, nó nach raibh comhairle dlí neamhspleách aige/aici</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a couple is separated, a renunciation of each other's right to the legal right share is usually included in a separation agreement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhíonn lánúin scartha óna chéile, de ghnáth bíonn tréigean na coda cirte dlíthiúla mar chuid de chomhaontú scartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Divorce or dissolution of a civil partnership, however, automatically ends succession rights</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann colscaradh nó páirtnéireacht shibhialta a dhíscaoileadh deireadh go huathoibríoch le cearta oidreachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Cohabiting partners have no automatic legal right to each other's estates, although under the redress scheme for cohabiting couples introduced by the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010 a qualified cohabitant may apply for provision to be made from the estate of a deceased cohabitant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhíonn cearta uathoibríocha ag páirtithe comhchónaithe d'eastáit a chéile, cé faoin scéim sásaimh do lánúineacha comhchónaithe a tugadh isteach leis an tAcht um Páirtnéireacht Shibhialta agus um Chearta agus Oibleagáidí Áirithe de chuid Comhchónaitheoirí 2010 féadfaidh comhchónaitheoir cáilithe iarratas a dhéanamh ar sholáthar le déanamh as eastát an éagaigh comhchónaitheoir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Cohabiting partners can make wills that favour each other</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le páirtithe comhchónaithe a dhéanamh uachtanna go bhfabhar chéile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These wills, however, cannot cancel out the legal rights of a spouse/civil partner if someone is separated but not divorced or their civil partnership dissolved</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leis na huachtanna seo, áfach, cearta dlíthiúla céile/páirtnéir sibhialta a chur ar ceal má tá duine scartha, ach gan a bheith colscartha nó páirtnéireacht shibhialta dhíscaoilte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Being judged "unworthy to succeed" is relatively rare, and would arise, for example, if the surviving spouse/civil partner had murdered or committed certain other serious crimes against the deceased</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is réasúnta annamh a mheastar "nach bhfuiltear inchurtha leis an oidreacht" agus tharlódh sé dá dhúnmharódh an céile/páirtnéir sibhialta a mhaireann an duine marbh, nó dá ndéanfadh sé/sí coireanna tromchúiseacha eile ina (h)aghaidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It could also apply if the spouse/civil partner had deserted the deceased for at least two years before death</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh sé a bheith i gceist chomh maith dá dtréigfeadh an céile/páirtnéir sibhialta an duine marbh ar feadh dhá bhliain ar a laghad roimh a b(h)ás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Rights of children under a will</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cearta páistí de réir uachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Unlike a spouse/civil partner, children do not have any absolute right to inherit their parent's estate if the parent has made a will</seg></tuv>
+  <tuv xml:lang="ga"><seg>Éagsúil le cearta an chéile/páirtnéir sibhialta, ní bhíonn ceart leithleach ag páistí teacht in oidreacht ar eastát a dtuismitheora, má rinne an tuismitheoir uacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Children born inside or outside marriage and adopted children all have the same rights and there are no age restrictions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn na cearta céanna ag páistí a rugadh taobh istigh nó taobh amuigh de phósadh agus ag uchtpháistí agus ní bhíonn teorainneacha aoise i gceist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, a child may make an application to court if he/she feels that he/she has not been adequately provided for</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh páiste, áfach, iarratas a dhéanamh chuig an chúirt má cheapann sé/sí nár soláthraíodh dó/di i gceart</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is important to seek legal advice before making such an application</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn sé tábhachtach comhairle dlíthiúil a fháil sula ndéantar iarratas mar sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An application must be made within 6 months of the taking out of a Grant of Representation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní foláir iarratas a dhéanamh taobh istigh de 6 mhí ón am a fuarthas Deonú Ionadaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The court then has to decide if the parent has failed in his/her duty to the child in accordance with the needs of that child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn ar an gcúirt ansin cinneadh a dhéanamh an bhfuil faillí déanta ag an tuismitheoir ar an bpáiste de réir riachtanais an pháiste sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Each case is considered individually, but it is important to remember that the legal right share of the spouse cannot be infringed in order to give the child a greater share of the estate. It can, however, reduce the entitlement of a civil partner</seg></tuv>
+  <tuv xml:lang="ga"><seg>Scrúdaítear gach cás ar leith, ach tá sé tábhachtach a mheabhrú nach féidir cuid cheart dhlíthiúil an chéile a sharú chun cuid níos mó den eastát a thabhairt don pháiste.Is féidir é, áfach, laghdú ar an teideal atá ag páirtnéir sibhialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The surviving spouse/civil partner may require that the family/shared home be given to him/her in satisfaction of his/her legal right share, although if the house is worth more than the legal right share, the spouse/civil partner may have to pay the difference into the deceased's estate</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh an céile/páirtnéir sibhialta a mhaireann teach an teaghlaigh a éileamh chun a c(h)uid cheart dhlíthiúil a shásamh. Má tá luach an tí níos mó ná an chuid cheart dhlíthiúil, áfach, b'fhéidir go mbeidh ar an gcéile/páirtnéir sibhialta an difríocht idir an dá rud a íoc isteach in eastát an duine mhairbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A court may decide that this sum does not have to be paid if it would cause undue hardship to the spouse/civil partner or dependent children</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh cúirt cinneadh a dhéanamh nach gcaithfear an tsuim seo a íoc dá gcuirfeadh sé cruatan míchuí ar an gcéile/páirtnéir sibhialta nó ar pháistí cleithiúnacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Giving away property in order to disinherit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Maoin a thabhairt uait chun duine a chur as oidhreacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a court finds that the deceased person gave away property before he/she died with the intention of defeating the interest of or unfairly reducing the legal right share of a spouse/civil partner or child, a court order may be issued to the person who received the property, making that person a debtor of the estate, and requiring them to pay back an amount to the estate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má mheasann cúirt gur thug an duine marbh maoin uaidh/uaithi sula bhfuair sé/sí bás chun leas céile/páirtnéir sibhialta nó páiste a shárú nó a gcuid cheart dhlíthiúil a laghdú go héagórach, is féidir ordú cúirte a eisiúnt don duine a fuair an mhaoin ag déanamh fiachóra de chuid an eastáit de/di agus ag cur iachaill air/uirthi méid áirithe a aisíoc don eastát</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Remember that any legacy or gift in your will could fail for many reasons</seg></tuv>
+  <tuv xml:lang="ga"><seg>Meabhraigh gur féidir le tiomnacht nó bronntanas ar bith i d'uacht a chliseadh ar go leor fáthanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If your will states that you are leaving an asset to someone and you no longer have the asset or the asset no longer exists, then the gift fails, or is in ademption</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má deir d'uacht go bhfuil tú ag fágáil maoine ag duine, agus muna bhfuil an mhaoin sin agat níos mó, nó muna bhfuil an mhaoin sin ar an saol níos mó, cliseann an bronntanas, nó bíonn sé i seachsásamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you leave a gift to a person who is a witness to your will</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má fhágann tú bronntanas ag duine atá ina fhinné do d'uacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If the gift is not clearly identified in your will or it does not conform to its description in the will</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Muna bhfuil cur síos soiléir ar an mbronntanas i d’uacht nó muna réitíonn sé leis an gcur síos atá san uacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Your gift lapses, or no longer applies, if the beneficiary dies before you do</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Titeann do bhronntanas ar lár, nó ní bhíonn feidhm aige níos mó, má fhaigheann an dílseánach beinifíse bás romhat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If this happens or if the beneficiary refuses to accept the gift, your gift goes back to your residuary clause, or if you do not have one a residuary clause, into intestacy</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tharlaíonn sé seo, nó má dhiúltaíonn an dílseánach beinifíse do bhronntanas, téann do bhronntanas ar ais go dtí do chlásál iarmharach, nó muna bhfuil ceann agat, go díthiomnacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your gift will not lapse, however, if the beneficiary who dies is a child or other descendant of yours, such as a grandchild, but whose child (or other descendant) is still alive</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní thitfidh do bhronntanas ar lár, áfach, má tá an tairbhí a fhaigheann bás linbh nó shliocht eile de do chuid, mar shampla ua nó banua, ach tá a leanbh (nó shliocht eile) fós beo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In that case, the gift becomes part of your deceased beneficiary’s estate for distribution according to their will or intestacy</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás sin, beidh an bronntanas chuid d'eastát an tairbhí éagaigh agus tá sé dháileadh de réir a uacht nó díthiomnacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>How wills are interpreted</seg></tuv>
+  <tuv xml:lang="ga"><seg>An chaoi a mbaintear ciall as uachtanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most wills are not disputed, but if there is a disagreement, it must be settled in court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní dhéantar agóid i gcoinne an chuid is mó d'uachtanna, ach má tá easaontas ann, caithfear é a réiteach sa chúirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The court will give effect to the testator or will-maker's wishes as expressed in the will</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirfidh an chúirt toil an tiomnóra nó an duine a rinne an uacht i gcrích mar a cuireadh in iúl í san uacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The testator's wishes are derived or taken from a reading of the will as a whole, with words and phrases taken in their ordinary meaning unless they are technical words and it can be assumed the testator meant them to be taken in their technical meaning</seg></tuv>
+  <tuv xml:lang="ga"><seg>Díorthaítear, nó tόgtar, toil an tiomnóra ó léamh na huachta go hiomlán, ag miniú focal agus frásaí lena ngnáthchiall munar focail theicniúla iad agus más féidir glacadh leis go raibh an tiomnóir ag súil go mbainfí a gciall theicniúil astu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Extrinsic evidence, or evidence outside the will, such as letters or notes that refer to the will in advance of its making, may be introduced to the court to explain more fully the testator's intentions and to help ascertain the true meaning of the will</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir fianaise eistreach, nó fianaise taobh amuigh den uacht, mar litreacha nó nótaí a thagraíonn don uacht sula ndearnadh í, a chur os comhair na cúirte chun rún an tiomnóra a mhiniú agus ciall cheart na huachta a bhaint amach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where two interpretations of a provision in the will arise, the court will lean in favour of the interpretation that upholds that bequest</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má thagann dhá mhíniú éagsúla d'fhoráil san uacht chun solais, beidh claonadh ag an gcúirt a bheith i bhfabhar an mhínithe a thacaíonn leis an tiomnacht sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Because wills can be disputed, it is important that you write your will in simple, straightforward language</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ós rud é gur féidir agóid a dhéanamh i gcoinne uachtanna, tá sé tábhachtach go scríobhann tú d'uacht i dteanga shimplí, dhíreach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have property in other countries, it is generally considered advisable to make a will in each of those countries due to possible differences in succession law</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhíonn maoin agat i dtíortha eile, is gnách go meastar gur fearr duit uacht a dhéanamh i ngach ceann de na tíortha siúd mar gheall go bhféadfadh difríochtaí a bheith ann sa dlí comharbais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under EU Regulation 650/2012 on matters of succession (Brussels IV), if you have property in another EU member state, apart from the UK or Denmark, you can direct in your will that the law of your nationality should apply to the property</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi Rialachán 650/2012 maidir le ceisteanna comharbais (an Bhruiséil IV), má bhíonn maoin agat i mballstát eile an AE, seachas an RA nó an Danmhairg, féadfaidh tú a ordú i d’uacht gur cheart go mbainfeadh dlí do náisiúntachta leis an maoin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Status of wills as public documents</seg></tuv>
+  <tuv xml:lang="ga"><seg>Stádas uachtanna mar cháipeisí poiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>After probate has been taken out on a person's will, that will then becomes a public document and a copy of the grant and the will can be obtained by anyone from the Probate Office or relevant District Probate Registry using Form PAS1 (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>I ndiaidh gur glacadh probháid ar uacht duine, déanfar cáipéis phoiblí ansin di agus is féidir le duine ar bith ón Oifig Probháide nó ón gClárlann ábhartha Phrobháide Cheantair cóip den deonú agus den uacht trí Fhoirm PAS1 (pdf) a úsáid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The grant sets out the name and address of the executor or administrator of the estate and the name of the solicitor acting on their behalf (if any)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagtar amach sa deonú ainm agus seoladh sheiceadóir nó riarthóir an eastáit agus ainm an aturnae a ghníomhaíonn thar a gceann (más ann dó/di)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It also sets out the gross value and the net value of the estate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagtar amach ann, chomh maith, oll-luach agus glanluach an eastáit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Detailed information about the estate is not normally available to the general public, however, certain people may be able to inspect the Inland Revenue Affidavit which contains the detailed information</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní gnách go mbíonn faisnéis mhionsonraithe ar fáil don phobal i gcoitinne faoin eastát, ach b’fhéidir go mbeidh daoine áirithe in ann an Mhionscríbhinn Ioncam Intíre a scrúdú, áfach, ina gcuimsítear an fhaisnéis mhionsonraithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A beneficiary who is named in the will</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tairbhí atá ainmnithe san uacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Someone who is entitled to a share of the estate</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Duine éigin atá i dteideal sciar den eastát a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A child who is entitled to bring proceedings against the estate under Section 117 of the Succession Act 1965</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Leanbh atá i dteideal imeachtaí a thionscnamh i gcoinne an eastáit faoi Alt 117 den Acht Comharbais, 1965</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Information on obtaining a copy of a will is available on the Courts Service website as well as in the information notes of Form PAS1</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá faisnéis ar chóip d’uacht a fháil ar fáil ar láithreán gréasáin na Seirbhíse Cúirteanna, anuas ar nótaí faisnéise Fhoirm PAS1</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Probate Office also sends copies of the will, the Grant of Representation and the Inland Revenue Affidavit to the Revenue Commissioners</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chomh maith leis sin, seolann an Oifig Probháide cóipeanna den uacht, an Deonú Ionadaíochta agus an Mhionnscríbhinn Ioncam Intíre chuig na Coimisinéirí Ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Joint bank accounts or joint ownership of property are valid ways of deciding the fate of your assets in your own lifetime, but making a will can eliminate most potential disputes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is bealaí bailí iad comhchuntais bainc, nó comhúinéaracht maoine chun a bhfuil i ndán do do shócmhainní a réiteach i rith do shaoil, ach dibríonn uacht an chuid is mó de na haighnis a d'fhéadfadh a tharlú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where joint bank accounts are opened with a spouse/civil partner or child, it is presumed that one party will be fully entitled to the money in the account when the other party dies</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a osclaítear comhchuntas bainc le céile nó páiste, glactar leis go mbeidh páirtí amháin i dteideal iomlán an airgid sa chuntas nuair a fhaigheann an páirtí eile bás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Disputes can arise, however, if someone, perhaps an elderly person or a person with a physical disability, opens a joint bank account with a relative or friend so that the relative or friend can manage his or her finances for him or her</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh aignis a tharlú, áfach, má osclaíonn duine, b'fhéidir duine scothaosta nó duine le míchumas fisiciúil, chomhchuntas bainc in éineacht le gaol nó le cara ionas go mbeidh an gaol nó an cara in ann a g(h)nó airgeadais a dhéanamh ar a s(h)on</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is because the owner's intention may or may not have been to benefit the relative or friend</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tarlaíonn sé seo mar ní gá go raibh leas an ghaoil nó an charad i gceist ag an úinéir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A decision in such a case would depend on the intention of the people involved, the amount they each lodged into the account and the terms of their contract with the bank</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bhraithfeadh cinneadh i gcás mar sin ar rún na ndaoine atá i gceist, an méid airgid a chuir gach duine acu sa chuntas agus téarmaí a gconartha leis an mbanc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is advisable for people with joint accounts to make clear in their contract with their bank or in their will what their intentions are for the money in such accounts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Moltar do dhaoine le chomhchuntais céard atá i gceist acu maidir leis an airgead i gcuntais mar sin a leagan amach go soiléir ina gconarthaí leis an mbanc nó ina n-uachtanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A solicitor will be able to help you draft a will or you can write it yourself</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bheadh dlíodóir in ann cábhrú leat chun uacht a dhréachtadh, nó is féidir leat é a dhéanamh tú féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are an executor seeking probate, you may make a personal application for a grant of probate to the Probate Office or to one of 14 District Probate Registry offices</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más seiceadóir tú atá ag cuartú probháide, is féidir leat iarratas pearsanta a dhéanamh ar dheonú probháide chuig an Oifig Phrobháide nó chuig ceann de na ceithre cinn déag de Chlárlanna Probháide Dúiche</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should go to the District Probate Registry Office in the area where the deceased lived at the date of death</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart duit dul chuig an gClárlann Phrobháide Dhúiche sa cheantar ina raibh an duine marbh ina c(h)ónaí ag dáta an bháis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the deceased lived at the time of his or her death in Dublin, Meath, Kildare or Wicklow or lived outside Ireland, application for a grant of probate must be made to the Probate Office in Dublin</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhí an duine marbh ina c(h)ónaí i mBaile Átha Cliath, Contae na Mí, Cill Dara nó taobh amuigh d'Éirinn ag am a b(h)áis, ní foláir iarratas ar dheonú probháide a dhéanamh chuig an Oifig Phrobháide i mBaile Átha Cliath</seg></tuv>
+</tu>
+</body>
+</tmx>

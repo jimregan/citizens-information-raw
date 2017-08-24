@@ -1,0 +1,513 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>• Step 1: Calculate your gross assessable weekly income from all sources</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Céim 1: D’ollioncam seachtainiúil inmheasúnaithe ó gach foinse a ríomh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Step 2: Find out what your income in excess of the SWA rate is</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Céim 2: D’ioncam de bhreis ar an ráta SWA a fháil amach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Step 3: Calculate the Additional Income disregard or Rehabilitative Earnings disregard (if applicable)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Céim 3: An neamhaird Ioncaim Bhreise nó an neamhaird Tuillimh Athshlánúcháin a ríomh (más infheidhme)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Step 4: Calculate your contribution from means</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Céim 4: Do ranníocaíocht ó acmhainn a ríomh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Step 5: Find your total contribution to your rent</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Céim 5: Do ranníocaíocht iomlán i leith do chíosa a aimsiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Step 6: Find your Rent Supplement payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Céim 6: D’íocaíocht Forlíonadh Cíosa a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Before you start to calculate your Rent Supplement you must check whether you qualify</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sula gcuireann tú tús le d’Fhorlíonadh Cíosa a ríomh, ní mór duit a sheiceáil cé acu a cháilíonn tú nach gcáilíonn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Make sure you read our document on Rent Supplement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déan cinnte go léann tú ár gcáipéis faoi Fhorlíonadh Cíosa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should use the worksheet for calculating Rent Supplement with this document</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart duit úsáid a bhaint as an mbileog oibre le haghaidh Forlíonadh Cíosa a ríomh leis an gcáipéis seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Calculating Rent Supplement is very complex</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé an-chasta Forlíonadh Cíosa a ríomh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Department of Social Protection's (DSP) representative (formerly known as the Community Welfare Officer) will calculate your entitlement to Rent Supplement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfaidh ionadaí (ar ar tugadh an tOifigeach Leasa Pobail roimhe sin) na Roinne Coimirce Sóisialaí (DSP) do theidlíocht i leith Forlíonadh Cíosa a ríomh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have any questions about your entitlement to Rent Supplement you should contact your local DSP representative</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart duit dul i dteagmháil le d’ionadaí áitiúil ón Roinn Coimirce Sóisialaí má tá aon cheisteanna agat maidir le do theidlíocht i leith Forlíonadh Cíosa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This document shows you the steps involved in calculating Rent Supplement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léiríonn an cháipéis seo na céimeanna atá i gceist le Forlíonadh Cíosa a ríomh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are 6 steps:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ann do 6 chéim:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Step 1: Calculate your gross assessable weekly income from all sources</seg></tuv>
+  <tuv xml:lang="ga"><seg>Céim 1: D’ollioncam seachtainiúil inmheasúnaithe ó gach foinse a ríomh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Include all income you and your spouse, partner or cohabitant have from DSP payments, Family Income Supplement, employment or training schemes and gross income from employment or self-employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuir san áireamh an t-ioncam ar fad a fhaigheann tusa agus do chéile, do pháirtnéir nó do chomháitritheoir ó íocaíochtaí na Roinne Coimirce Sóisialaí, ón bhForlíonadh ar Ioncam Teaghlaigh, ó scéimeanna fostaíochta agus oiliúna agus ollioncam ó fhostaíocht nó ó fhéinfhostaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Include all income from maintenance if applicable</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuir san áireamh an t-ioncam ar fad ó chothabháil más infheidhme</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Include any means from capital that you have (see below)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuir san áireamh aon acmhainn ó chaipiteal atá agat (féach thíos)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some income is not counted for Supplementary Welfare Allowance (SWA) schemes so you do not need to include it when working out your gross income</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní áirítear ioncam áirithe le haghaidh scéimeanna Liúntais Leasa Fhorlíontaigh (SWA) agus, dá bhrí sin, ní gá duit é a chur san áireamh agus d’ollioncam á dhéanamh amach agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The following items are not taken into account as income:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chuirtear na míreanna seo a leanas san áireamh mar ioncam:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Foster care payments from the Health Service Executive</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Íocaíochtaí cúram altrama ó Fheidhmeannacht na Seirbhíse Sláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Payments for accommodating children under the Child Care Act</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Íocaíochtaí as cóiríocht a chur ar fáil do leanaí faoin Acht um Chúram Leanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Income from Gaeltacht students</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ioncam ó dhaltaí Gaeltachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Grants or allowances from schemes promoting the welfare of blind people</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Deontais nó liúntais ó scéimeanna a chuireann leas daoine dalla chun cinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Money received from charitable organisations, for example, St Vincent de Paul</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Airgead a fhaightear ó chumainn charthanachta, mar shampla, Naomh Uinseann de Pól</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Compensation awarded by the Compensation Tribunal in respect of Hepatitis C contracted from certain blood products, to those who have disabilities caused by Thalidomide and to those receiving compensation under the Residential Institutions Redress Board</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cúiteamh a dhámhann an Binse Cúitimh maidir le Heipitíteas C a tolgadh ó tháirgí fola áirithe, dóibh sin a bhfuil míchumas orthu de dheasca Tailídimíde, agus dóibh sin a fhaigheann cúiteamh faoin mBord Sásamh d’Institiúidí Cónaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Maintenance grants paid for educational purposes</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Deontais chothabhála a íoctar chun críocha oideachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Guardian's Payment (Contributory) and Guardian's Payment (Non-Contributory)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Íocaíocht Chaomhnóra (Ranníocach) agus Íocaíocht Chaomhnóra (Neamh-ranníocach)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>From January 2012 income from working as a home help with the HSE is taken into account</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó mhí Eanáir 2012, cuirtear ioncam ó oibriú mar chúntóir baile le FSS san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The capital value of property (except your own home), investments and savings are assessed on a weekly basis as follows:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Measúnaítear an luach caipitiúil réadmhaoine (gan do theach féin a áireamh), infheistíochtaí agus coigiltis ar bhonn seachtainiúil mar seo a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>First €5,000 is not taken into account</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chuirtear an chéad €5,000 san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Next €10,000 is assessed at €1 per €1,000</seg></tuv>
+  <tuv xml:lang="ga"><seg>Measúnaítear an chéad €10,000 eile ag €1 sa €1,000</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Next €25,000 is assessed at €2 per €1,000</seg></tuv>
+  <tuv xml:lang="ga"><seg>Measúnaítear an chéad €25,000 eile ag €2 sa €1,000</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Any capital over €40,000 is assessed at €4 per €1,000</seg></tuv>
+  <tuv xml:lang="ga"><seg>Measúnaítear aon chaipiteal os cionn €40,000 ag €4 sa €1,000</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Step 2: Find out what your income in excess of the SWA rate is</seg></tuv>
+  <tuv xml:lang="ga"><seg>Céim 2: D’ioncam de bhreis ar an ráta SWA a fháil amach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To do this you deduct the Over 65 disregard, the Carer’s disregard, travel costs, PRSI and the appropriate basic Supplementary Welfare Allowance (SWA) rate for your circumstances from your gross assessable income to find out what your income in excess of the SWA rate is</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhonn é sin a dhéanamh, bain an neamhaird os cionn 65 bliain d’aois, an neamhaird do Chúramóirí, costais taistil, ÁSPC agus an ráta bunúsach Liúntais Leasa Fhorlíontaigh (SWA) atá oiriúnach do d’imthosca as d’ollioncam inmheasúnaithe chun d’ioncam de bhreis ar an ráta SWA a fháil amach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Over 65 disregard: If you are aged 65 or over (or where one of a couple is of pensionable age) and have a combined household income greater than the rate of SWA appropriate to your household circumstances, you are allowed a disregard</seg></tuv>
+  <tuv xml:lang="ga"><seg>Neamhaird os cionn 65 bliain d’aois: Más rud é go bhfuil tú 65 bliain d’aois nó os a chionn (nó más rud é go bhfuil duine amháin de lánúin ag aois an phinsin) agus gur mó d’ioncam teaghlaigh comhcheangailte ná an ráta SWA atá oiriúnach d’imthosca do theaghlaigh, tá tú i dteideal neamhairde</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This disregard is equal to the difference between the maximum rate of State Pension (Contributory) appropriate to your circumstances and the rate of SWA appropriate to your circumstances (even if you are not getting a pension)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ionann an neamhaird seo agus an difríocht idir uasráta an Phinsin Stáit (Ranníocach) atá oiriúnach do d’imthosca agus an ráta SWA atá oiriúnach do d’imthosca (fiú mura bhfuil pinsean á fháil agat)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The effect of this is that a person whose only income is a State pension will pay no more than the minimum household contribution towards their rent</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an toradh atá air sin ná go n-íocfaidh duine arb é pinsean Stáit an t-aon ioncam amháin atá aige méid nach mó ná an íos-ranníocaíocht teaghlaigh i leith a chíosa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, the Over-65 disregard for a person aged 65 or over would be the maximum State Pension (Contributory) rate (€230.60) minus the SWA rate for a single person (€186) which is €44.30</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, bheadh an neamhaird os cionn 65 bliain d’aois do dhuine atá 65 bliain d’aois nó os a chionn cothrom le huasráta an Phinsin Stáit (Ranníocach) (€230.60) lúide an ráta SWA do dhuine singil (€186) arb ionann é agus €44.30</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Over 65 disregard for a couple who are both aged 66 and getting separate payments or working would be worked out using the maximum State Pension (Contributory) rate for 2 people minus the basic SWA rate for a couple (€460.60 - €310.80 = €149.80)</seg></tuv>
+  <tuv xml:lang="ga"><seg>An neamhaird os cionn 65 bliain d’aois do lánúin atá 66 bliain d’aois agus atá ag fáil íocaíochtaí ar leith nó atá ag obair, dhéanfaí amach í ach úsáid a bhaint as uasráta an Phinsin Stáit (Ranníocach) do bheirt lúide an bunráta SWA do lánúin (€460.60 - €310.80 = €149.80)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Their Over 65 disregard would be €149.80</seg></tuv>
+  <tuv xml:lang="ga"><seg>B’ionann a neamhaird os cionn 65 bliain d’aois agus €149.80</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Carer’s disregard: If you are getting a carer's payment, the amount of Carer's Allowance or Benefit in payment above the appropriate SWA rate for your situation (either the adult dependant rate for a couple or the personal rate for a single person) is not taken into account</seg></tuv>
+  <tuv xml:lang="ga"><seg>Neamhaird do chúramóirí: Más rud é go bhfuil íocaíocht do chúramóirí á fáil agat, ní chuirtear san áireamh méid an Liúntais do Chúramóirí nó an tSochair do Chúramóirí atá á íoc os cionn an ráta SWA atá oiriúnach do d’imthosca (an ráta cleithiúnaí is aosach do lánúin nó an ráta pearsanta do dhuine singil)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To get your carer’s disregard you subtract the relevant rate of SWA (either €124.80 or €186) from the actual rate of Carer’s Allowance or Benefit you are getting (not including any Increases for Qualified Children)</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhonn do neamhaird do chúramóirí a fháil amach, dealaigh an ráta ábhartha SWA (€124.80 nó €186) ó ráta iarbhír an Liúntais do Chúramóirí nó an tSochair do Chúramóirí atá á fháil agat (gan aon Mhéaduithe le haghaidh Leanaí Cáilithe a áireamh)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your travel costs will vary depending on where you live – ask your local Community Welfare Office for more information</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh do chostais taistil éagsúil ag brath ar an áit ina bhfuil tú i do chónaí - iarr ar an Oifig Leasa Pobail is cóngaraí duit tuilleadh faisnéise a chur ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>See sample SWA rates for different family groupings and circumstances</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féach rátaí samplacha SWA le haghaidh grúpaí éagsúla teaghlaigh agus imthosca éagsúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The figure for income in excess of the SWA rate is your contribution from means (in addition to your minimum household contribution) if Step 3 does not apply to you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ionann an figiúr le haghaidh ioncaim de bhreis ar an ráta SWA agus d’ioncam ó acmhainn (de bhreis ar d’íos-ranníocaíocht teaghlaigh) más rud é nach mbaineann Céim 3 leat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Step 3: Calculate the Additional Income disregard or Rehabilitative Earnings disregard (if applicable)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Céim 3: An neamhaird Ioncaim Bhreise nó an neamhaird Tuillimh Athshlánúcháin a ríomh (más infheidhme)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Additional Income disregard is a certain amount of your household income which is not taken into account</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é is an neamhaird Ioncaim Bhreise ann ná méid áirithe de d’ioncam teaghlaigh nach gcuirtear san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The first €75 of any additional household income above the SWA rate for your circumstances is not taken into account</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chuirtear san áireamh an chéad €75 d’aon ioncam teaghlaigh breise a sháraíonn an ráta SWA atá oiriúnach do d’imthosca</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Also, 25% of your additional household income over €75 is not taken into account</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chomh maith leis sin, ní chuirtear san áireamh 25% den ioncam teaghlaigh breise atá agat os cionn €75</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is no upper limit on the amount that can be disregarded</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon uasteorainn leis an méid ar féidir neamhaird a dhéanamh de</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Additional income includes income from the following:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áirítear le hioncam breise ioncam ó na nithe seo a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Part-time employment or part-time self-employment (under 30 hours per week)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Fostaíocht pháirtaimseartha nó féinfhostaíocht pháirtaimseartha (níos lú ná 30 uair sa tseachtain)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Full-time employment or full-time self-employment (30 hours or over per week) where you are accepted as being in need of accommodation under the Rental Accommodation Scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Fostaíocht lánaimseartha nó féinfhostaíocht lánaimseartha (30 uair sa tseachtain nó níos mó) nuair a ghlactar leis go bhfuil cóiríocht faoin Scéim um Chóiríocht ar Cíos ag teastáil uait</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• SOLAS training allowances or training provided on behalf of the Department of Education and Skills (for example, YouthReach) and ETB/VEC training,</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Liúntais oiliúna SOLAS nó oiliúint a chuirtear ar fáil thar ceann na Roinne Oideachais agus Scileanna (Ógtheagmháil, mar shampla) agus oiliúint na mBord Oideachais agus Oiliúna/na gCoistí Gairmoideachais,</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Back to Work Allowance and the Back to Work Enterprise Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An Liúntas um Fhilleadh ar Obair agus an Liúntas Fiontraíochta um Fhilleadh ar Obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The Part-time Job Incentive Scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An Scéim Dreasachta Poist Pháirtaimseartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>*Maintenance is assessed as additional income and maintenance payments up to €95.23 per week are assessed in full</seg></tuv>
+  <tuv xml:lang="ga"><seg>*Déantar cothabháil a mheasúnú mar ioncam teaghlaigh breise agus déantar íocaíochtaí cothabhála suas go dtí €95.23 sa tseachtain a mheasúnú ar an iomlán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(The reason for this is that the first €95.23 per week of maintenance payments are considered to be a contribution towards your housing expenses.) The Additional Income disregard applies to maintenance payments above this amount</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Is é an chúis leis sin ná go meastar an chéad €95.23 sa tseachtain d’íocaíochtaí cothabhála a bheith ina ranníocaíocht i leith do chostas tithíochta.) Baineann an neamhaird Ioncaim Teaghlaigh le híocaíochtaí cothabhála os cionn an mhéid sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are getting maintenance under €95.23 do not include it in this step</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más rud é go bhfuil cothabháil de níos lú ná €95.23 á fáil agat, ná cur san áireamh í sa chéim seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your maintenance is over €95.23 you should subtract €95.25 and include the excess maintenance when working out your Additional Income disregard</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más rud é go sáraíonn do chothabháil €95.23, ba cheart duit €95.25 a dhealú agus an chothabháil iomarcach a chur san áireamh agus do neamhaird Ioncaim Bhreise á hoibriú amach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You work out your additional income using the formula: (A+B) – C or the value of A – whichever is the smallest amount</seg></tuv>
+  <tuv xml:lang="ga"><seg>Oibrítear d’ioncam breise amach ach úsáid a bhaint as an bhfoirmle: (A+B) - C nó luach A - cibé acu is ísle</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A = income from employment, prescribed employment or training schemes, Family Income Supplement and maintenance payments of over €95.23 a week</seg></tuv>
+  <tuv xml:lang="ga"><seg>A = ioncam ó fhostaíocht, ó fhostaíocht fhorordaithe nó ó scéimeanna oiliúna, ón bhForlíonadh ar Ioncam Teaghlaigh agus ó íocaíochtaí cothabhála atá níos mó ná €95.23 sa tseachtain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>B = assessable weekly income from all other sources</seg></tuv>
+  <tuv xml:lang="ga"><seg>B = ioncam seachtainiúil inmheasúnaithe ó gach foinse eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>C = SWA rate for family circumstances</seg></tuv>
+  <tuv xml:lang="ga"><seg>C = ráta SWA d’imthosca teaghlaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You subtract PRSI, pension contributions and Revenue-approved income continuance payments from your additional income figure</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dealaigh ÁSPC, ranníocaíochtaí pinsin agus íocaíochtaí leanúnachas ioncaim atá faofa ag na Coimisinéirí Ioncaim ó fhigiúr d’ioncaim bhreise</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You then subtract €75 and get 25% of the remaining figure</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dealaigh €75 ansin agus faigh 25% den fhigiúr atá fágtha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Add €75 and 25% of the subtotal together – this is your Additional Income disregard</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuir €75 agus 25% den fho-iomlán le chéile - is é seo do neamhaird Ioncaim Bhreise</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Mary has 1 child</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Tá leanbh amháin ag Mary</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>She works and earns €385 weekly in a part-time job</seg></tuv>
+  <tuv xml:lang="ga"><seg>Oibríonn sí agus tuilleann sí €385 sa tseachtain i bpost páirtaimseartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>She gets a One-Parent Family payment of €95.30 a week and maintenance of €80 a week</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigheann sí íocaíocht Teaghlach Aontuismitheora €95.30 sa tseachtain agus cothabháil €80 sa tseachtain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Her additional income is:│</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é a hioncam breise:│</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│(A+B) – C= €264.50 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│(A+B) – C= €264.50 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Subtract PRSI (4% of €385=€15.40) │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Dealaigh ÁSPC (4% de €385 = €15.40) │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│25% of €174.10 = €43.52 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│25% de €174.10 = €43.52 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Mary's Additional Income disregard is €118.52 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Is é €118.52 an neamhaird Ioncaim Bhreise atá ag Mary │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Rehabilitative Earnings disregard is up to €120 from rehabilitative training or employment which is not taken into account in the assessment for Rent Supplement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an neamhaird Tuillimh Athshlánúcháin méid suas go dtí €120 ó oiliúint athshlánúcháin nó ó fhostaíocht nach gcuirtear san áireamh sa mheasúnú ar Fhorlíonadh Cíosa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All rehabilitative earnings over €120 are taken into account and will affect your Rent Supplement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirtear an tuilleamh athshlánúcháin ar fad os cionn €120 san áireamh agus rachaidh sé i bhfeidhm ar d’Fhorlíonadh Cíosa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your earnings are under €120 then use that figure as your Rehabilitative Earnings disregard</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más rud é go bhfuil do thuilleamh níos lú €120, úsáid an figiúr sin mar neamhaird Tuillimh Athshlánúcháin atá agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are working and getting Disability Allowance or Blind Pension you can either use the Rehabilitative Earnings disregard or the Additional Income disregard (but not both)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más rud é go bhfuil tú ag obair agus ag fáil Liúntas Míchumais nó Phinsean na nDall, is féidir leat an neamhaird Tuillimh Athshlánúcháin nó an neamhaird Ioncaim Bhreise a úsáid (ach ní féidir an dá cheann acu a úsáid)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Use whichever is in your best interest</seg></tuv>
+  <tuv xml:lang="ga"><seg>Úsáid cibé acu atá le do leas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should always work out what your Additional Income disregard would be and compare it to your Rehabilitative Earnings disregard</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart duit oibriú amach a dhéanamh i gcónaí ar an méid a bheadh i do neamhaird Ioncaim Bhreise agus é a chur i gcomparáid le do neamhaird Tuillimh Athshlánúcháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Jack gets Disability Allowance and earns €180 a week</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é €120 a neamhaird Tuillimh Athshlánúcháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>His Rehabilitative Earnings disregard is €120</seg></tuv>
+  <tuv xml:lang="ga"><seg>B’ionann a neamhaird Ioncaim Bhreise agus €101.75</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>His Additional Income disregard would be €101.75 so it is more beneficial for him to use the Rehabilitative Earnings disregard</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dá bhrí sin, b’fhearr dó úsáid a bhaint as an neamhaird Tuillimh Athshlánúcháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Petra gets Disability Allowance and earns €70 a week</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bheadh a neamhaird Tuillimh Athshlánúcháin cothrom le €70 sa tseachtain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Her Rehabilitative Earnings disregard would be €70 a week</seg></tuv>
+  <tuv xml:lang="ga"><seg>B’ionann a neamhaird Ioncaim Bhreise agus €72</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Her Additional Income disregard would be €72 so it is more beneficial for her to use the Additional Income disregard.│</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dá bhrí sin, b’fhearr di úsáid a bhaint as an neamhaird Tuillimh Bhreise.│</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Step 4: Calculate your contribution from means</seg></tuv>
+  <tuv xml:lang="ga"><seg>Céim 4: Do ranníocaíocht ó acmhainn a ríomh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You subtract the disregards you calculated in Step 3 from the figure you calculated in Step 2 to get your contribution from means</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dealaigh na neamhairdeanna a ríomh tú i gCéim 3 ón bhfigiúr a ríomh tú i gCéim 2 d’fhonn do ranníocaíocht ó acmhainn a aimsiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Step 5: Find your total contribution to your rent</seg></tuv>
+  <tuv xml:lang="ga"><seg>Céim 5: Do ranníocaíocht iomlán i leith do chíosa a aimsiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Find the total amount you must pay towards your rent</seg></tuv>
+  <tuv xml:lang="ga"><seg>Aimsigh an méid iomlán nach mór duit a íoc i leith do chíosa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To do this, add your contribution from means (this is the total figure after Step 4) and your minimum Household contribution</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhonn é sin a dhéanamh, cuir do ranníocaíocht ó acmhainn (is é seo an figiúr iomlán tar éis Chéim 4) le d’íos-ranníocaíocht Teaghlaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In general, a household (this is the claimant and may also include a qualified adult and qualified children) must contribute at least €30 towards rent</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don teaghlach (is é seo an t-éilitheoir ach is féidir go gcuireann sé duine fásta cáilithe agus leanaí cáilithe san áireamh freisin) ranníocaíocht €30 ar a laghad a dhéanamh i dtreo cíosa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are one of a couple you contribute €40</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más duine amháin de lánúin thú, déanann tú ranníocaíocht €40</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The personal rent contribution is reduced from €30 to €10 per week for Rent Supplement recipients who are getting Jobseeker’s Allowance (JA) or Supplementary Welfare Allowance of €100 per week and from €30 to €20 for those who are getting JA of €144</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór do bhaill teaghlaigh neamhchleithiúnacha atá spleách go hiomlán ar íocaíocht leasa shóisialaigh phearsanta ranníocaíocht €30 ar a laghad a dhéanamh freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For those getting Back to Education Allowance, a Further Education and Training (FET) training allowance or on Youthreach, where the age-related rate of €160 applies, the personal rent contribution is reduced from €30 to €20 a week</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin féin, ní bheidh ort ranníocaíocht €30 a dhéanamh más rud é gur measúnaíodh sochar agus pribhléid in aghaidh d’íocaíochta leasa shóisalaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Non-dependent household members who are solely dependent on a personal social welfare payment must also contribute at least €30. However, if benefit and privilege has been assessed against your social welfare payment you will not have to contribute €30</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le hionadaí (ar ar tugadh an tOifigeach Leasa Pobail roimhe sin) na Roinne Coimirce Sóisialaí méid an Fhorlíonta Cíosa le híoc a laghdú trí mhéid atá, ina thuairim féin, iníoctha ag gach ball teaghlaigh neamhchleithiúnach i mbun fostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The DSP's representative (formerly known as the Community Welfare Officer) can reduce the amount of Rent Supplement payable by an amount which, in their opinion, is payable by each non-dependent household member in employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an gnás agus an cleachtadh ná go ndéantar ioncam inmheasúnaithe an bhaill teaghlaigh neamhchleithiúnaigh (is é sin, ollioncam lúide ÁSPC agus costais taistil chun na hoibre) a roinnt ar an ráta SWA atá oiriúnach dá imthoisc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Custom and practice is that the assessable income of the non-dependent household member (that is, gross income less PRSI and travel costs to work) is divided by the appropriate rate of SWA for their situation which is then multiplied by €30 to establish their liability to contribute</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar é a iolrú faoi €30 ansin chun a dhliteanas chun ranníocaíocht a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│If your 26 year old daughter is living with you and earning €700 per week: │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Más rud é go bhfuil d’iníon 26 bliain d’aois ina cónaí leat agus ag tuilleamh €700 sa tseachtain:│</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│€700 ÷ €186 (SWA) = €3.76 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│€700 ÷ €186 (SWA) = €3.76 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Multiply €3.76 by €30 = €112.80 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Iolraigh €3.76 trí €30 = €112.80 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│In this case, your Rent Supplement is reduced by €112.80 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Sa chás seo, déantar laghdú €112.80 ar d’Fhorlíonadh Cíosa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A couple aged over 65 with an income equal or less than the State Pension (Contributory) for their situation will contribute €40 towards their rent</seg></tuv>
+  <tuv xml:lang="ga"><seg>Lánúin atá os cionn 65 bliain d’aois ag a bhfuil ioncam acu atá cothrom leis an bPinsean Stáit (Ranníocach) nó atá níos lú ná an Pinsean Stáit (Ranníocach) dá n-imthoisc, déanfaidh siad ranníocaíocht €40 i leith a gcíosa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A couple who both have State Pensions (Contributory) and no other income will also contribute €40 towards their rent</seg></tuv>
+  <tuv xml:lang="ga"><seg>Lánúin a bhfuil Pinsin Stáit (Ranníocach) ag an mbeirt acu ach nach bhfuil aon ioncam eile acu, déanfaidh siad ranníocaíocht €40 i leith a gcíosa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Step 6: Find your Rent Supplement payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Céim 6: D’íocaíocht Forlíonadh Cíosa a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To calculate your Rent Supplement you subtract your total contribution to rent from your weekly rent</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhonn d’Fhorlíonadh Cíosa a ríomh, dealaigh do ranníocaíocht iomlán i leith cíosa as do chíos seachtainiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In Step 5, you found your total contribution to your rent</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcéim 5, d’aimsigh tú do ranníocaíocht iomlán i leith do chíosa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Now you need to find out how much your weekly rent is</seg></tuv>
+  <tuv xml:lang="ga"><seg>Anois, ní mór duit a fháil amach cá mhéad atá ar do chíos seachtainiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may already know how much your weekly rent is</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir gurb eol duit cheana cá mhéad atá ar do chíos seachtainiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you pay your rent by month, you must multiply your monthly rent figure by 12 and divide it by 52 to get your weekly rent figure</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má íocann tú do chíos sa mhí, ní mór duit figiúr do chíosa mhíosúil a iolrú faoi 12 agus é a roinnt ar 52 chun figiúr do chíosa sheachtainiúil a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your rent must not be above the maximum limit set for your area</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is gá nach mó do chíos ná an uasteorainn a shocraítear le haghaidh do cheantair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Susan and Paul are living in Dublin and paying €900 per month for accommodation. │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Tá Susan agus Paul ina gcónaí i mBaile Átha Cliath agus tá siad ag íoc €900 sa mhí as cóiríocht.│</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│To get the weekly rent figure, multiply €900 by 12 and divide by 52</seg></tuv>
+  <tuv xml:lang="ga"><seg>│D’fhonn figiúr an chíosa sheachtainiúil a fháil, iolraigh €900 faoi 12 agus roinn ar 52</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Monthly rent €900 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Cíos míosúil €900 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│(Multiply by 12 months ) x 12 = €10,800 a year │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│(Iolraigh faoi 12 mhí) x 12 = €10,800 sa bhliain │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│€(Divide by 52 weeks) ÷ 52 = €207.70 a week │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│€(Roinn ar 52 seachtain) ÷ 52 = €207.70 sa tseachtain │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Weekly rent is €207.70 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Is é €207.70 an cíos seachtainiúil │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A maximum rent level is set for each county</seg></tuv>
+  <tuv xml:lang="ga"><seg>Socraítear uasleibhéal cíosa le haghaidh gach contae</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The maximum rent level for your county is set by the Department of Social Protection</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an Roinn Coimirce Sóisialaí a shocraíonn an t-uasleibhéal cíosa le haghaidh do chontae</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Community Welfare Service may set lower rates within these limits</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh an tSeirbhís Leasa Pobail rátaí níos ísle a shocrú laistigh de na teorainneacha sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your actual rent is higher than the local maximum, you may be refused Rent Supplement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más airde do chíos ná an t-uasmhéid áitiúil, féadfar Forlíonadh Cíosa a dhiúltú duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Contact the Department of Social Protection's representative (formerly known as the Community Welfare Officer) at your local health office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déan teagmháil le hionadaí (ar ar tugadh an tOifigeach Leasa Pobail roimhe sin) na Roinne Coimirce Sóisialaí ag d’oifig sláinte áitiúil</seg></tuv>
+</tu>
+</body>
+</tmx>

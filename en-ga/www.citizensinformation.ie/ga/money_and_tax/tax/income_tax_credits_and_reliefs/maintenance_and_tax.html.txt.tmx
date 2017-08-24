@@ -1,0 +1,233 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>The effect of separation on each spouse's tax liability depends chiefly on whether there are any maintenance payments involved and, if so, whether these payments are made under a legally enforceable arrangement or not</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a scarann pósadh braitheann an tionchar a bheidh aige ar dhliteanas cánach gach céile an bhfuil íocaíochtaí cothabhála i gceist agus, má tá, an bhfuil na híocaíochtaí seo dhá dhéanamh faoi chomhaontú dlíthiúil infheidhmithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If maintenance payments are made, for the benefit of a spouse, under a legally enforceable arrangement during the year in which the couple separates then:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéantar íocaíochtaí cothabhála, ar mhaithe le céile amháin, faoi chomhaontú dlíthiúil infheidhmithe sa bhliain chéanna ina scarann an lánúin óna chéile, ansin:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The spouse who makes the payments is entitled to a tax deduction for the payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Is féidir leis an gcéile a dhéanann na híocaíochtaí laghdú cánach a éileamh ar a son</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The spouse to whom the maintenance is paid is taxed on the payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gearrtar cáin ar an gcéile a fhaigheann na híocaíochtaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where a couple separates and no maintenance payments are made, each spouse is taxed as a single person and is responsible for filing his/her own tax return and paying tax on his/her own income</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má scarann lánúin agus muna bhfuil aon íocaíochtaí cothabhála i gceist gearrtar cáin mar dhuine singil ar gach duine acu agus tá sé/sí freagrach as tuairisceán cánach a chomhlánú ar a s(h)on féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Tax treatment of voluntary maintenance payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cáin ar íocaíochtaí cothabhála deonacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Voluntary maintenance payments (i.e., payments that are not legally enforceable) are not taken into account when calculating either spouse's tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chuirtear íocaíochtaí cothabhála deonacha (i.e., íocaíochtaí nach féidir a chur i bhfeidhm go dlíthiúil) san áireamh nuair atá cáin ceachtar den bheirt dhá ríomh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The spouse who makes the payments is not entitled to a tax deduction for them</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní féidir leis an gcéile a dhéanann na híocaíochtaí laghdú cánach a éileamh ar a son</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The spouse who receives the payments is not taxed on them</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní ghearrtar cáin ar an gcéile a fhaigheann na híocaíochtaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Both spouses are taxed on their own income as single people</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gearrtar cáin ar an mbeirt ar a n-ioncam mar dhaoine singil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Makes voluntary maintenance payments to the other spouse</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Dhéanann céile íocaíochtaí cothabhála deonacha leis an gcéile eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Is not entitled to a tax deduction for the payments because they were not made under a legally enforceable arrangement</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Muna bhfuil sé/sí in ann laghdú cánach a éileamh ar a son ós rud é nach bhfuil comhaontú dlíthiúil infheidhmithe i bhfeidhm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The payments are sufficient to either wholly or mainly maintain his/her spouse,</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Más leor na híocaíochtaí sin lena c(h)éile a chothú go hiomlán nó don chuid is mó,</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>he/she will qualify for the married person's tax credit but only the single person's standard rate cut-off point is due</seg></tuv>
+  <tuv xml:lang="ga"><seg>is féidir leis/léi creidmheas cánach an duine phósta a éileamh ach ní bheidh aige/aici ach an pointe scartha don ráta caighdeánach don duine singil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The other spouse can also claim the single person's tax credit against his/her own income (if any)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis an gcéile eile freisin éileamh a dhéanamh ar chreidmheas cánach an duine singil ar a (h)ioncam, más ann dó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>"Mainly Maintaining" means that the payer's maintenance payments exceed the recipient's income</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn "Cothabháil don chuid is mó" gur mó é suim na n-íocaíochtaí cothabhála ná ioncam an fhaighteora</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Legally enforceable maintenance arrangements</seg></tuv>
+  <tuv xml:lang="ga"><seg>Comhaontuithe Cothabhála Dlíthiúla Infheidhmithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Legally enforceable maintenance arrangements include annual or periodic maintenance payments made under an order of court, deed of separation, rule of court, trust, covenant or any other act that gives rise to a legally enforceable obligation</seg></tuv>
+  <tuv xml:lang="ga"><seg>I measc na gcomhaontaithe cothabhála dlíthiúla infheidhmithe tá íocaíochtaí bliantúla nó tréimhsiúla a dhéantar faoi ordú cúirte, gníomhas scartha, rialú cúirte, iontaobhas, cúnant nó aon ghníomh eile atá ina cheangal infheidhmhithe dlíthiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The maintenance arrangement must be made or carried out in consideration or in consequence of a separation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go mbeadh an comhaontú cothabhála déanta nó curtha i gcrích ar mhaithe le nó mar gheall ar phósadh a scaradh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Maintenance payments that are made under a legally enforceable arrangement entered into on or after 8 June 1983 are payable without deduction of tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá íocaíochtaí cothabhála a dhéantar faoi chomhaontú dlíthiúil infheidhmithe a rinneadh ar nó i ndiaidh an 8 Meitheamh 1983 iníoctha gan cáin a asbhaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The following rules apply to maintenance payments made for the benefit of a spouse:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann na rialacha seo a leanas le híocaíochtaí cothabhála a dhéantar ar mhaithe le céile:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The payments are made without deduction of tax (gross)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Go ndéantar na híocaíochtaí gan aon cháin a bhaint astu (comhlán)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The spouse who makes the payments is entitled to a tax deduction for them</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Go bhfuil an céile a dhéanann na híocaíochtaí i dteideal éilimh a dhéanamh ar laghdú cánach ar a son</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The spouse who receives the maintenance payments is liable for tax on them</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Go bhfuil cáin le n-íoc orthu ag an gcéile a fhaigheann na híocaíochtaí cothabhála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Both spouses are taxed as single people (unless they choose to be taxed as a married couple)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gearrtar cáin mar dhaoine singil ar an mbeirt (ach amháin sa chás go mbíonn siad ag iarraidh cáin a íoc mar lánúin phósta)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A separated couple can choose to be treated as a married couple for income tax purposes if:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le lánúin atá scartha cinneadh a dhéanamh cáin ioncaim a íoc mar lánúin phósta:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• They are both resident in the State</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má tá an bheirt acu ina gcónaí sa Stát</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Maintenance payments are made under a legally enforceable arrangement</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má tá na híocaíochtaí cothabhála dhá ndéanamh faoi chomhaontú dlíthiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The couple must submit a joint election in writing if they wish to avail of this option</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don lánúin iarratas scríofa a dhéanamh lena chéile más mian leo an rogha seo a thógáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The election must be made in writing before the end of the tax year and must be signed by both parties</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór an cinneadh seo a dhéanamh roimh dheireadh na bliana cánach agus ní mór don bheirt acu an t-iarratas a shíniú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If such an election is made, the maintenance payments are ignored, i.e., the spouse making the payments does not get a tax deduction for them and the spouse who receives the payments is not liable for tax on them</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéantar an rogha seo déantar neamhaird de na híocaíochtaí cothabhála, i.e., ní fhaigheann an céile a dhéanann na híocaíochtaí laghdú cánach ar a son agus ní íocann an céile a fhaigheann na híocaíochtaí aon cháin orthu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where both spouses possess income, separate assessment will apply, i.e., tax credits and standard rate cut-off point will be apportioned between the spouses, subject to a review at the end of the year to ensure that any unused tax credit or relevant rate bands are given to the other spouse</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá ioncam ag an mbeirt gearrfar cáin orthu faoi mheasúnú ar leith, i.e., roinnfear creidmheasanna cánacha agus an pointe scartha don ráta caighdeánach idir an bheirt acu, déanfar athbhreithniú ar seo ag deireadh na bliana le déanamh cinnte go bhfuil an céile eile in ann leas a bhaint as aon chreidmheas cánach nár úsáideadh nó as aon bhandaí cánacha cuí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where only one spouse has income, the full tax credits, reliefs and the maximum standard rate cut-off point (for couples with one spouse working) will be given to that spouse</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna bhfuil ioncam ach ag céile amháin tabharfar na creidmheasanna cánacha iomlán, na faoisimh agus an t-uasmhéid den phointe scartha don ráta caighdeánach don chéile sin (iad siúd atá ar fáil do lánúin le céile amháin ag obair)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For details and examples of the different types of assessment see Taxation of married people and civil partners in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sonraí agus samplaí de na cineálacha éagsúla measúnaithe ar fáil anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Maintenance payments that are made for the benefit of a child or children are ignored for tax purposes:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar neamhaird ar íocaíochtaí cothabhála a dhéantar ar mhaithe le páiste nó páistí ó thaobh cúrsaí cánacha:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The payments are made without deduction of tax (gross)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Déantar na híocaíochtaí gan aon cháin a bhaint (comhlán)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The person making the payments is not entitled to a tax deduction for the payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Níl an té a dhéanann na híocaíochtaí i dteideal laghdú ó cháin a fháil ar a son</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The payments are not taxable</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Níl cáin le n-íoc ar na híocaíochtaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The payments are not regarded as income of the child</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní chuirtear na híocaíochtaí san áireamh mar ioncam an pháiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A primary claimant can surrender his or her entitlement to the credit, in favour of a secondary claimant (provided the child (or children) lives with that person for more than 100 days in a year and the person meets all the other qualifying conditions.)</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh sé go mbeadh gach céile in ann éileamh a dhéanamh ar Chreidmheas Cánach ar Pháiste faoi Mhíchumas (féach ar Bileog IT18 (pdf)) agus/nó Creidmheas Cánach do Theaghlach Aontuismitheora (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are receiving maintenance payments and you also have income that is subject to PAYE, it may be possible to collect some or all of the tax due on the maintenance by reducing your tax credits</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ag fáil íocaíochtaí cothabhála agus má tá ioncam a bhaineann leis an gcóras ÍMAT agat freisin d'fhéadfadh sé go mbeadh tú in ann iomlán nó cuid den cháin atá dlite a íoc faoin gcóras sin tríd do chreidmheasanna cánacha a laghdú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are receiving maintenance payments only, the tax due is payable directly in one lump sum under the self assessment procedures</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna bhfuil d'ioncam agat ach na híocaíochtaí cothabhála gearrfar an cháin ort faoin gcóras féin-mheasúnaithe in aon chnapshuim amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In calculating your finances, you should take into account the payment of any tax that is due and the fact that this amount may have to be paid in one lump sum</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair atá tú ag ríomh do chuid cúrsaí airgeadais ba cheart duit a chur san áireamh aon cháin atá le n-íoc agat agus smaoineamh go mba fhéidir go mbeidh ort í sin a íoc ina cnapshuim amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where a couple obtain an Irish divorce, the provisions as outlined above will apply to any maintenance arrangements made by order of the court, which means that:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a bhíonn colscaradh Éireannach ag lánúin beidh na soláthair thuasluaite i bhfeidhm maidir le haon íocaíochtaí cothabhála a ordaíonn an Chúirt, rud a chiallaíonn:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Maintenance payments are made without deduction of tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Go ndéantar íocaíochtaí cothabhála gan cáin a bhaint astu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The spouse who makes the payments is entitled to a tax deduction for them</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Go bhfuil an céile a dhéanann na híocaíochtaí i dteideal éilimh a dhéanamh ar laghdú cánach ar a son</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The spouse who receives the maintenance is taxable on the payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Go bhfuil cáin le n-íoc orthu ag an gcéile a fhaigheann na híocaíochtaí cothabhála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Both spouses are taxed as single persons</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gearrtar cáin mar dhaoine singil ar an mbeirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A divorced couple also has the option of being treated as a married couple (the separate assessment provisions will apply) for income tax purposes if:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le lánúin colscartha rogha a dhéanamh cáin a íoc mar lánúin phósta (bainfidh na rialacha faoin measúnú faoi leith leo) ar a n-ioncam:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• They are both resident in the State</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má tá an bheirt acu ina gcónaí sa Stát</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Neither spouse has remarried</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Muna bhfuil ceachtar acu athphósta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a marriage is annulled, each spouse will be taxed as a single person from the date of the annullment onwards</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéantar pósadh a chur ar neamhní gearrfar cáin ar gach duine den bheirt mar dhuine singil ón dáta sin ar aghaidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The couple cannot make an election for joint assessment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leis an lánúin iarratas a dhéanamh ar chomh-mheasúnú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Visit the Revenue contact locator webpage to find the Lo-call number for your region</seg></tuv>
+  <tuv xml:lang="ga"><seg>Uimhreacha ló-ghlaoch teileafóin do oifigí réigiúnach na gCoimisinéirí Ioncaim ar fáil anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find more detailed contact details for your region here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat a thuilleadh eolais a fháil faoi shonraí teagmhála do do réigiún anseo</seg></tuv>
+</tu>
+</body>
+</tmx>

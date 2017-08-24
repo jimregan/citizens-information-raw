@@ -1,0 +1,373 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Civil Legal Advice and Legal Aid</seg></tuv>
+  <tuv xml:lang="ga"><seg>Comhairle agus Cúnamh Dlí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Legal Aid Board is responsible for the provision of civil legal aid and advice to those unable to pay for such services from their own resources</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an Bord Cúnamh Dlí freagrach as comhairle agus cúnamh dlí a sholáthar dóibh siúd nach bhfuil in ann íoc as na seirbhísí sin óna n-acmhainní féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Legal aid means representation by a barrister or solicitor in civil proceedings in court, in addition to the preparatory work this entails</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn cúnamh dlí ionadaíocht ag abhcóide nó aturnae in imeachtaí sibhialta i gcúirt, sa mhullach ar an obair ullmhúcháin a bhíonn i gceist leis seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Legal advice includes any oral or written advice provided by a solicitor or barrister</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áirítear le comhairle dlí aon chomhairle ó bhéil nó scríofa a chuireann aturnae nó abhcóide ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As part of Abhaile, the national Mortgage Arrears Resolution Service, a new aid and advice scheme for people in serious mortgage arrears covers a certain amount of free legal aid and advice for eligible borrowers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi Abhaile, an tSeirbhís um Réiteach Riaraistí Morgáiste, cuireann scéim nua do dhaoine i ndroch-riaráistí morgáiste méid áirithe chomhairle agus cúnamh dlí ar fail d'iasachtaithe cáilithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read more about this scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léigh tuilleadh faoin scéim seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Civil legal advice is any oral or written advice given to you by a solicitor or a barrister about how the law applies in civil matters</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is comhairle shibhialta dlí aon chomhairle ó bhéil nó scríofa a thugann aturnae nó abhcóide duit faoi conas a chuirtear an dlí i bhfeidhm in ábhair shibhialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It can also include writing letters on your behalf or acting for you in negotiations with other people</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfaí a áireamh leis litreacha a scríobh ar do shon nó gníomhú duit in idirbheartaíochtaí le daoine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Legal advice is provided by the Board's solicitors in their law centre network</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann aturnaetha an Bhoird comhairle dlí ar fáil ina líonra ionad dlí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Legal advice may be given in relation to any legal matter with the exception of the following:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir comhairle dlí a thabhairt maidir le haon ábhar dlí seachas an méid a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A criminal law matter, unless the person seeking advice is a complainant in a sexual assault or rape case</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ábhar dlí choiriúil, mura gearánaí an duine a lorgaíonn an chomhairle i gcás ionsaí gnéasaigh nó éignithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A matter that in the opinion of the Board could be dealt with by obtaining appropriate advice other than state-assisted legal advice</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ábhar, ina bhfuil an Bord faoin tuairim go bhféadfaí déileáil leis tríd an gcomhairle chuí a fháil seachas comhairle dlí ó chúnamh an stáit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Board may decide to stop providing advice where it considers it is no longer reasonable to do so or that the person receiving the advice is no longer eligible because of his/her means to receive it</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh an Bord a chinneadh chun stop a chur le comhairle dlí sa chás go measann siad nach bhfuil sé réasúnach a thuilleadh amhlaidh a dhéanamh nó nach bhfuil an duine a fhaigheann an chomhairle i dteideal a thuilleadh mar thoradh ar a mhaoin/maoin chun í a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In order to qualify for legal advice you must pass a means test</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhonn cáiliú do chomhairle dlí, ní mór duit pas a fháil i dtástáil mhaoine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your application is successful you will be asked to make a financial contribution</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhíonn an rath ar d’iarratas, iarrfar ort ranníocaíocht airgeadais a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>How much you pay will depend on your means</seg></tuv>
+  <tuv xml:lang="ga"><seg>Braithfidh an méid a íocfaidh tú ar do mhaoin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are a complainant in a sexual assualt or rape case, you do not have to pass a means test or pay a contribution</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más gearánaí thú i gcás ionsaí ghnéasaigh nó éignithe, ní gá go n-éireoidh leat i dtástáil mhaoine nó ranníocaíocht a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the Board refuses to grant you legal advice, you may appeal the decision</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhiúltaíonn an Bord chun comhairle dlí a cheadú duit, is féidir leat an cinneadh a achomharc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Legal aid means representation by a solicitor or barrister in civil proceedings in the District, Circuit, High and Supreme Courts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn cúnamh dlí ionadaíocht ag aturnae nó abhcóide in imeachtaí dlí sna Cúirteanna Dúiche, Cuarda, Ard-Chúirteanna agus sna Cúirteanna Uachtaracha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that you have engaged the Board to act on your behalf in the proceedings, including sending correspondence on your behalf, drafting court documents, giving advice, representation in court and all the background preparatory work required</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn seo go ndeachaigh tú i dteagmháil leis an mBord chun gníomhú ar do shon sna himeachtaí, lena n-áirítear comhfhreagras a sheoladh ar do shon, cáipéisí cúirte a dhréachtú, comhairle a thabhairt, ionadaíocht a dhéanamh duit sa chúirt agus an obair uile chúlra ullmhúcháin a theastaíonn a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Generally, legal aid is provided by solicitors employed by the Board in its law centres</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, cuireann aturnaetha atá fostaithe ag an mBord cúnamh dlí ar fáil ina n-ionaid dlí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In certain family law matters, legal aid may be provided by a solicitor in private practice from a panel of solicitors which has been established by the Board</seg></tuv>
+  <tuv xml:lang="ga"><seg>In ábhair áirithe dlí teaghlaigh, is féidir le haturnae cúnamh dlí a chur ar fáil i gcleachtas príobháideach ó phainéil aturnaetha a bhunaigh an Bord</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Legal aid is available in relation to most civil matters</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn cúnamh dlí ar fáil do nach mór gach ábhar sibhialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, certain cases are excluded from the scope of civil legal aid</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní áirítear cásanna áirithe, áfach, ó scóip an chúnaimh shibhialta dlí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In order to qualify for legal aid you must pass both a means test and a merit test</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhonn cáiliú do chúnamh dlí, ní mór duit pas a fháil i dtástáil mhaoine agus i dtástáil tuilleamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you qualify for legal aid, you will have to make some contributions to the overall costs of the proceedings except for child-care cases</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má cháilítear thú do chúnamh dlí, beidh ort roinnt ranníocaíochtaí a dhéanamh do chostais fhoriomlána na n-imeachtaí, ach amháin i gcás cásanna cúraim leanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Rates section below sets out the minimum and maximum contributions that may be made</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagtar amach i mír na Rátaí thíos na ranníocaíochtaí uasta agus íosta is féidir a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the Board refuses to grant you legal aid, you may appeal the decision</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhiúltaíonn an Bord chun cúnamh dlí a cheadú duit, is féidir leat an cinneadh a achomharc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is an initial test to ensure that your case is a legitimate one and that a reasonable person would take the case and would be advised to take the case</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seo tástáil tosaigh lena chinntiu gur cás dlisteanach do chás agus go nglacfadh duine réasúnta an cás agus go molfaí dóibh an cás a ghlacadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will pass the merit test, if in the Board's opinion:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Éireoidh leat sa tástáil tuilleamh, más é tuairim an Bhoird:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You have as a matter of law reasonable grounds for instituting, defending or being a party to the proceedings for which legal aid is sought</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go bhfuil agat, i dtaobh ábhar dlí de, údar réasúnta leis na himeachtaí a thosú, a chosaint nó bheith i do pháirtí leis na himeahctaí a lorgaítear an cúnamh dlí dóibh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are reasonably likely to be successful in the proceedings</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gur dóigh go réasúnta go n-éireoidh leat sna himeachtaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The proceedings for which legal aid is sought are the most satisfactory means of achieving the result sought by you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gurb iad na himeachtaí a lorgaítear an cúnamh dlí dóibh an bealach is sásúla chun an toradh a lorgaíonn tú a bhaint amach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Having regard to all the circumstances (including the probable cost to the Board, measured against the likely benefit to you), it is reasonable to grant the application</seg></tuv>
+  <tuv xml:lang="ga"><seg>Agus aird ar an uile chúinse (lena n-áirítear an costas dóchúil don Bhord, a mheastar i leith na tairbhe dóchúla duit), gur réasúnta an t-iarratas a cheadú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your case does not fall within the excluded areas</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní thagann do chás faoi chuimsiú na limistéar eisiata</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the proceedings concern the welfare of a child including custody or access, factors 2 and 4 do not apply</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhaineann leas linbh leis na himeachtaí, lena n-áirítear caomhnóireacht nó rochtain, ní bhaineann tosca 2 agus 4</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In order to qualify for either legal advice or legal aid, you must complete a means test form, which is available at all Legal Aid offices</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhonn cáiliú do chomhairle nó do chúnamh dlí, ní mór duit foirm um thástáil mhaoine a chomhlánú, ar a bhfuil fáil san uile oifig Cúnamh Dlí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The law setting out the means test regulations are SI 273/1996 Civil Legal Aid Regulations 1996, SI 8/2002 Civil Legal Aid Regulations 2002, SI 460/2006 Civil Legal Aid Regulations 2006 and SI 346/2013 Civil Legal Aid Regulations 2013</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an dlí a leagann amach na rialacháin um thástáil mhaoine IR 273/1996 Rialacháin um Chúnamh Dlí Shibhialta, 1996, IR 8/2002 Rialacháin um Chúnamh Dlí Shibhialta, 2002, IR 460/2006 Rialacháin um Chúnamh Dlí Shibhialta, 2006 agus IR 346/2013 Rialacháin um Chúnamh Dlí Shibhialta 2013</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Legal Aid Board means test is different to the social welfare or Health Service Executive (HSE) means tests</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is éagsúil an Bord Cúnamh Dlí ó thástálacha maoine leasa shóisialaigh nó Fheidhmeannacht na Seirbhíse Sláinte (FSS)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The time period of relevance is the year following your application</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is í an tréimhse ábhartha ama an bhliain i ndiaidh d’iarratais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Board will seek to estimate what your disposable income for that year will be</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féachfaidh an Bord lena mheas céard é d’ioncam indiúscartha don bhliain sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It may be necessary to consider your income for the last year in order to do so</seg></tuv>
+  <tuv xml:lang="ga"><seg>B’fhéidir go mbeidh sé riachtanach breithniú a dhéanamh ar d’ioncam don bhliain seo caite d’fhonn é seo a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As well as having disposable income of less than €18,000, you must also have disposable capital of less than €100,000</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chomh maith le hioncam indiúscartha níos lú ná €18,000, ní mór go mbíonn agat caipiteal níos lú ná €100,000</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your family home is not considered when assessing disposable capital</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní dheántar breithniú ar theach do theaghlaigh nuair a bhíonn caipiteal indiúscartha á mheasúnú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Disposable income is total income less deductible expenses including income tax, mortgage repayments, rent, social insurance contributions, interest on loans, child-minding expenses and other items</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ionann ioncam indiúscartha agus an t-ioncam iomlán lúide costais asbhainteacha, lena n-áirítear cáin ioncaim, aisíocaíochtaí morgáiste, cíos, ranníocaíochtaí árachas sóisialta, ús ar iasachtaí, costais feighlíocht leanaí agus míreanna eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Legal Aid Board is authorised (by your application form for legal aid) to get information from the Department of Social Protection and the Revenue Commissioners about your income or capital</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an Bord Cúnamh Dlí údaraithe (ag d’fhoirm iarratais ar chúnamh dlí) chun faisnéis a fháil ón Roinn Coimirce Sóisialaí agus ó na Coimisinéirí Ioncaim faoi d’ioncam nó do chaipiteal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All sources or income are considered by the Legal Aid Board and taken into account including income from a job, self-employment, pensions (both occupational and social welfare) investments, rental income, etc</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann an Bord Cúnamh Dlí breithniú ar an uile fhoinse ioncaim agus í a chur san áireamh, lena n-áirítear ioncam ó phost, féinfhostaíocht, pinsin (pinsin ghairme agus leasa shóisialaigh araon), infheistíochtaí, ioncam ó chíosa, etc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The value of benefits, privileges and perks that you enjoy will be taken into account</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirfear san áireamh luach na sochar, na bpribhléidí agus na bpeorcaisí a théann chun do shochair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This includes free accommodation and/or board, and the value of a non-contributory pension scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áirítear leis seo cóiríocht agus/nó béilí shaor in aisce, agus luach scéim neamhranníocach pinsin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the case of a married couple, the income of both is taken into account except</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás lanúin phósta, cuirtear ioncam an dá ruda san áireamh seachas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• where they are on opposing sides in the proposed action or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• sa chás go bhfuil siad ar a mhalairt de thaobh sa chaingean a bheartaítear, nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• they are separated and living apart</seg></tuv>
+  <tuv xml:lang="ga"><seg>• go bhfuil siad ina gcónaí amach óna chéile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Once the Board has estimated your annual income, it will then seek to calculate your disposable income by deducting the following allowances and expenditure</seg></tuv>
+  <tuv xml:lang="ga"><seg>A luaithe a dhéanann an Bord d’ioncam bliantúil a mheas, féachfaidh siad ansin le d’ioncam indiúscartha a ríomh trí na liúntais agus an caiteachas a leanas a bhaint de:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Spouse/partner - there is a deduction of €3,500 if you have a spouse/partner</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Céile/páirtnéir – is ann d’asbhaint €3,500 má tá céile/páirtnéir agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(The spouse/partner has to be a dependant)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Ní mór don chéile/pháirtnéir bheith ina c(h)leithiúnaí)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Dependants - there is a deduction of €1,600 for each dependant</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cleithiúnaithe – is ann d’asbhaint €1,600 do gach cleithiúnaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A dependant may be a child or step-child under 18 or over 18 and in full-time education or a dependant relative or other person who lives with you and is supported by you</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh leanbh faoi 18 mbliana nó níos sine ná 18 atá in oideachas lánáimseartha nó gaol cleithiúnaigh nó duine eile a chónaíonn leat agus a dtugann tú tacaíocht dóibh bheith ina c(h)leithiúnaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Child care expenses up to a maximum of €6,000 per child</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Costais chúram linbh a mhéid agus €6,000 an leanbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Accommodation costs up to a maximum of €8,000 per year</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Costais chóiríochta a mhéid agus €8,000 sa bhliain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• PRSI contributions are deducted in full</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Baintear ranníocaíochtaí ÁSPC ina n-iomláine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Income tax payments are deducted in full</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Baintear íocaíochtaí cáin ioncaim ina n-iomláine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Ex gratia payments received up to €1,040 in total</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Íocaíochtaí ex gratia a fuarthas a mhéid agus €1,400 ar an iomlán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All persons under 18 years and those over that age in full-time education are regarded as dependants of their parents, step-parents or guardians</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gach duine faoi 18 mbliana agus iad siúd níos sine ná an aois sin atá in oideachas lánaimseartha agus a mheastar gur cleithiúnaithe iad dá dtuismitheoirí nó dá gcaomhnóirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In those circumstances, the parents', step-parents' or guardians' income is taken into account if the young person is looking for legal services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi na cúinsí sin, cuirtear ioncam na dtuismitheoirí nó na gcaomhnóirí san áireamh má bhíonn an duine óg ag lorg seirbhísí dlí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are minimum contributions that must be paid except in cases of extreme hardship</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seo iad na ranníocaíochtaí íosta nach mór a íoc seachas i gcásanna fíor-chruatain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, the contribution that you must make depends on your disposable income for legal advice and your disposable income and disposable capital for legal aid</seg></tuv>
+  <tuv xml:lang="ga"><seg>Braitheann an ranníocaíocht nach mór duit a dhéanamh, áfach, ar d’ioncam indiúscartha do chomhairle dlí agus ar d’ioncam agus do chaipiteal indiúscartha do chúnamh dlí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is no contribution required in child-care cases, however, you still need to come within the disposable income and capital thresholds</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon ranníocaíocht ag teastáil i gcásanna cúraim leanaí, áfach, caithfidh tú fós a thagann faoina tairseacha ioncam indiúscartha agus caipitil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Legal advice: a minimum contribution of €30 must be paid where your disposable income is less than €11,500</seg></tuv>
+  <tuv xml:lang="ga"><seg>Comhairle dlí: ní mór ranníocaíocht €30 ar a laghad a íoc sa chás go bhfuil d’ioncam níos lú ná €11,500</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If it is more, your contribution is one-tenth of the difference between €11,500 and your disposable income, up to a maximum of €150</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más níos mó ná seo atá sé, is ionann do ranníocaíocht agus an deichiú cuid den difríocht idir €11,500 agus d’ioncam indiúscartha, a mhéid agus €150</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Legal aid: a minimum contribution of €130 must be paid where your disposable income is less than €11,500</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cúnamh dlí: ní mór ranníocaíocht €130 ar a laghad a íoc sa chás go bhfuil d’ioncam níos lú ná €11,500</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If it is more, your contribution is €130 plus one-quarter of the difference between €11,500 and your disposable income</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más níos mó ná seo atá sé, is ionann do ranníocaíocht €130 agus móide an ceathrú cuid den difríocht idir €11,500 agus d’ioncam indiúscartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must pay an additional contribution if your disposable capital is more than €4,000 as follows:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit ranníocaíocht bhreise a íoc más níos mó ná €4,000 do chaipiteal indiúscartha, amhail a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Up to €54,000 your contribution is 2.5% of the difference between €4,000 and your disposable capital</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Is ionann do ranníocaíocht agus 2.5% den difríocht idir €4,000 agus do chaipiteal indiúscartha chuig a mhéid agus €54,000</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Over €54,000 your contribution is €1,250 plus 5% of the difference between €54,000 and your disposable capital</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Is ionann do ranníocaíocht agus €1,250 móide 5% den difríocht idir €54,000 agus do chaipiteal indiúscartha breis agus €54,000</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the legal matter in question is a marriage dispute and both spouses are eligible for legal aid, they should be represented by different law centres</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más díospóid phósta an t-ábhar dlí atá faoi chaibidil agus go bhfuil an bheirt chéilí i dteideal cúnamh dlí a fháil, ba cheart d’ionaid dhifriúla dlí ionadaíocht a dhéanamh dóibh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To find out whether you qualify for legal aid and/or advice, you should simply complete the Legal Aid Application Form (pdf) available in the law centres</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun a dheimhniú an gcáilíonn tú do chúnamh dlí agus/nó comhairle dlí, ba cheart duit an Fhoirm Iarratais ar Chúnamh Dlí (pdf) a chomhlánú. Tá fáil uirthi sna hionaid dlí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will give details about your income and your expenses on a confidential basis</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabharfaidh tú sonraí faoi d’ioncam agus do chuid costas ar bhonn rúnda</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Board provides information on how to complete the form (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Soláthraíonn an Bord faisnéis maidir le conas an bhfoirm a chomhlánú (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your application is accepted, you will be asked to make a minimum contribution</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má ghlactar le d’iarratas, iarrfar ort ranníocaíocht íosta a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If legal aid is necessary, the Board will issue you with a legal aid certificate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhíonn gá le cúnamh dlí, eiseoidh an Bord teastas cúnamh dlí duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is a waiting time for an appointment with a solicitor</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ann do thréimhse feithimh le haghaidh coinne le haturnae</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The maximum waiting time for an appointment with a solicitor is four months</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó 2005 i leith, is í an tréimhse uasta feithimh le haghaidh coinne le haturnae ceithre mhí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, the Board gives priority to certain categories of cases, such as domestic violence, child care, child abduction and cases where there is a danger that the time limits for issuing proceedings may expire</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann an Bord tosaíocht de chatagóirí áirithe de chásanna, áfach, ar nós foréigean teaghlaigh, cúram leanaí, abduchtú leanaí agus cásanna ina bhfuil an baol go bhféadfadh na teorainneacha ama chun imeachtaí a eisiúint éag</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your application for legal aid or legal advice is refused, you may appeal the decision</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhiúltaítear d’iarratas ar chúnamh dlí nó ar chomhairle dlí, is féidir leat an cinneadh a achomharc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The appeal is a two-step process;</seg></tuv>
+  <tuv xml:lang="ga"><seg>Próiseas dhá chéime is ea an t-achomharc;</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The decision maker will review his/her decision</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfaidh an té a dhéanfaidh an cinneadh athbhreithniú ar a c(h)inneadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are still unsatisfied with his/her decision, you may appeal to the "appeal committee", which consists of the chairman and four members of the Board</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhíonn tú fós míshásta lena c(h)inneadh, is féidir leat achomharc a dhéanamh leis an “gcoiste achomhairc”, ina bhfuil cathaoirleach agus ceathrar ball den Bhord</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The decision of the appeal committee is final and unappealable</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cinneadh deiridh a bheidh i gceist le cinneadh an choiste achomhairc agus ní féidir é a achomharc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Submit your written appeal through the law centre solicitor dealing with your application or send your written appeal directly to the Legal Aid Board</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seol isteach d’achomharc i scríbhinn trí aturnae an ionaid dlí a dhéileálann le d’iarratas nó seol d’achomharc go díreach chuig an mBord Cúnamh Dlí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Legal Aid and Advice Service operates out of law centres staffed by qualified solicitors</seg></tuv>
+  <tuv xml:lang="ga"><seg>Oibríonn an tSeirbhís Cúnamh agus Comhairle Dlí as ionaid dlí ina n-oibríonn aturnaetha cáilithe</seg></tuv>
+</tu>
+</body>
+</tmx>

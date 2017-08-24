@@ -1,0 +1,297 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Case study: Calculating Rent Supplement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cás-staidéar: Forlíonadh Cíosa a Ríomh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is an example showing how Rent Supplement is calculated in 2015</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is sampla é seo a léiríonn conas a ríomhtar Forlíonadh Cíosa in 2015</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Susan and Paul have 2 children aged 6 and 12</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá 2 leanaí atá 6 bliana d’aois agus 12 bhliain d’aois ag Susan agus Paul</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Paul has been unemployed for 1 year but has recently found work and will start his new full-time job in a couple of weeks</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Paul dífhostaithe le 1 bhliain ach tá obair faighte aige le déanaí agus tosóidh sé a phost lánaimseartha nua i gceann cúpla seachtain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>His net income from work will be €440 each week</seg></tuv>
+  <tuv xml:lang="ga"><seg>An glanioncam a bheidh aige ón obair ná €440 gach seachtain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Susan had been getting half-rate Carer’s Allowance because Paul was getting Jobseeker’s Benefit and claiming for her as an adult dependant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bhí Susan ag fáil Liúntais do Chúramóirí ar leathráta toisc go raibh Paul ag fáil Sochar Cuardaitheora Poist agus ag éileamh di mar aosach cleithiúnach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When Paul returns to work she will get full-rate Carer’s Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gheobhaidh sí an Liúntas do Chúramóirí ag an ráta iomlán nuair a fhilleann Paul chun na hoibre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>She will not get any increases for their children because Paul's income is over €400 a week</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhfaighidh sí aon mhéaduithe dá leanaí mar go bhfuil ioncam Paul níos mó ná €400 sa tseachtain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Their 6-year old child is getting Domiciliary Care Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá a leanbh atá 6 bliana d'aois ag fáil Liúntas Cúram Baile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Their only other income is from Child Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>An t-aon ioncam eile atá acu ná ó Shochar Linbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, they may also apply for Family Income Supplement when Paul starts work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin féin, féadfaidh siad iarratas a dhéanamh freisin ar Fhorlíonadh ar Ioncam Teaghlaigh nuair a thosaíonn Paul ag obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Susan wants to know if they can keep any of their Rent Supplement when Paul starts work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Teastaíonn ó Susan a fháil amach an gcoinneoidh siad cuid ar bith den Fhorlíonadh Cíosa nuair a thosaíonn Paul ag obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Their rent is €950 per month which is within the limit for their area</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ionann a gcíos agus €950 sa mhí, méid atá laistigh den teorainn le haghaidh a gceantair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They have been assessed by their local authority as in need of housing under the Rental Accommodation Scheme so they can retain their Rent Supplement while Paul is in full-time employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mheas a n-údarás áitiúil go bhfuil siad ina lánúin a bhfuil tithíocht de dhíth orthu faoin Scéim um Chóiríocht ar Cíos le gur féidir leo a bhForlíonadh Cíosa a choinneáil agus Paul i mbun fostaíocht lánaimseartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Step 1: Calculate the household's gross assessable weekly income from all sources</seg></tuv>
+  <tuv xml:lang="ga"><seg>Céim 1: Ollioncam seachtainiúil inmheasúnaithe an teaghlaigh ó gach foinse a ríomh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Income source │Amount │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Foinse ioncaim │Méid │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Assessable income from employment │€440 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Ioncam inmheasúnaithe ó fhostaíocht │€440 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Carer's Allowance │€204 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Liúntas do Chúramóirí │€204 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Family Income Supplement │€25.20 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Forlíonadh ar Ioncam Teaghlaigh │€25.20 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Gross assessable weekly income │€669.20 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Ollioncam seachtainiúil inmheasúnaithe │€669.20 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Note that Child Benefit and Domiciliary Care Allowance are not included as income</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabhair faoi deara nach gcuirtear Sochar Linbh agus Liúntas Cúram Baile san áireamh mar ioncam</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Susan may also get a Respite Care Grant in June from the Department of Social Protection</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chomh maith leis sin, d’fhéadfadh Susan Liúntas Cúraim Sosa a fháil i mí an Mheithimh ón Roinn Coimirce Sóisialaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Respite Care Grant is not taken into account as income</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chuirtear an Liúntas Cúraim Sosa san áireamh mar ioncam</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Step 2: Find out what your income in excess of the Supplementary Welfare Allowance (SWA) rate is</seg></tuv>
+  <tuv xml:lang="ga"><seg>Céim 2: D’ioncam de bhreis ar an ráta Liúntais Leasa Fhorlíontaigh (SWA) a fháil amach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To do this you deduct the Over 65 disregard, the Carer’s disregard, travel costs, PRSI and the Appropriate SWA rate for your circumstances from your gross assessable income to find out what your income in excess of the SWA rate is</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhonn é sin a dhéanamh, bain an neamhaird os cionn 65 bliain d’aois, an neamhaird do Chúramóirí, costais taistil, ÁSPC agus an Ráta SWA atá oiriúnach do do thosca as d’ollioncam inmheasúnaithe chun d’ioncam de bhreis ar an ráta SWA a fháil amach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Gross assessable weekly income (see Step 1) │€669.20 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Ollioncam seachtainiúil inmheasúnaithe (féach Céim 1) │€669.20 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Less Carer's disregard* │-€79.20 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Lúide neamhaird do Chúramóirí* │-€79.20 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Less PRSI (4% of €440) │-€17.60 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Lúide ÁSPC (4% de €440) │-€17.60 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Less appropriate SWA rate for a couple with 2 children │-€370.40 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Lúide an ráta SWA atá oiriúnach do lánúin ag a bhfuil 2 leanaí │-€370.40 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Income in excess of the SWA rate │€202 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Ioncam de bhreis ar an ráta SWA │€202 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>*The amount of Carer's Allowance (CA) in payment above the appropriate SWA rate for the carer is not taken into account</seg></tuv>
+  <tuv xml:lang="ga"><seg>*Ní chuirtear san áireamh méid an Liúntais do Chúramóirí (CA) atá á íoc os cionn an ráta SWA don chúramóir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The appropriate SWA rate for the carer is either the Increase for a Qualified Adult (if you are a couple) or the personal rate (if you are a single person)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an ráta SWA atá oiriúnach don chúramóir an Méadú do Dhuine Fásta Cáilithe (más lánúin sibh) nó an ráta pearsanta (más duine singil thú)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Susan is living with her partner Paul</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Susan ina cónaí le Paul, a páirtnéir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The SWA rate for a qualified adult is subtracted from her Carer’s Allowance and the remainder is not taken into account</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dealaítear an ráta SWA do dhuine fásta cáilithe óna Liúntas do Chúramóirí agus ní chuirtear an chuid atá fágtha san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Susan's Carer's disregard is €79.20</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é €79.20 an neamhaird do Chúramóirí atá ag Susan</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Step 3: Calculate the Additional income disregard</seg></tuv>
+  <tuv xml:lang="ga"><seg>Céim 3: An neamhaird Ioncaim Bhreise a ríomh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Additional income = (A+B) - C │Income │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Ioncam breise = (A+B) - C │Ioncam │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│A = Gross income from: │€440 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│A = Ollioncam ó: │€440 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│ • Full or part-time work │€25.20 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│ • Obair lánaimseartha nó pháirtaimseartha │€25.20 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│ • Family Income Supplement │ │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│ • Forlíonadh ar Ioncam Teaghlaigh │ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Total A: │€465.20 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Iomlán A: │€465.20 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│B = assessable income from other sources: │€204 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│B = ioncam inmheasúnaithe ó fhoinsí eile │€204 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│ • Carer’s Allowance/Benefit │-€79.20 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│ • Liúntas/Sochar do Chúramóirí │-€79.20 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│ • Subtract Carer’s disregard (Subtract SWA IQA rate from actual carer's payment) │ │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│ • Dealaigh an neamhaird do Chúramóirí (Dealaigh IQA an ráta SWA ón íocaíocht iarbhír do chúramóirí) │ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Total B: │€124.80 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Iomlán B: │€124.80 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│C = SWA rate for family circumstances │€370.40 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│C = ráta SWA d’imthosca teaghlaigh │€370.40 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Total C: │ │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Iomlán C: │ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│(A+B) – C = Additional Income │€219.60 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│(A+B) – C = Ioncam Breise │€219.60 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Subtract PRSI, pension contributions, income continuance │-€17.60 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Dealaigh ÁSPC, ranníocaíochtaí pinsin, leanúnachas ioncaim │-€17.60 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Additional Income for disregard │€202 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Ioncam Breise a dtabharfar neamhaird air │€202 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│If Additional Income for disregard is less than or equal to €75 this figure is the Additional income disregard</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Más rud é go bhfuil Ioncam Breise a dtabharfar neamhaird air níos lú ná nó cothrom le €75, is é an figiúr sin an neamhaird Ioncaim Bhreise</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│If not do this calculation: │ │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Mura bhfuil sé sin amhlaidh, déan an ríomh seo: │ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Subtract €75 │-€75 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Dealaigh €75 │-€75 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│25% of subtotal │€31.75 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│25% den fho-iomlán │€31.75 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Add €75 + 25% of subtotal to get Additional Income disregard │€106.75 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Cuir €75 le 25% den fho-iomlán chun an neamhaird Ioncaim Bhreise a fháil │€106.75 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Step 4: Subtract the Additional Income disregard from your income in excess of the SWA rate (figure at the end of Step 2)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Céim 4: Dealaigh an neamhaird Ioncaim Bhreise ó d’ioncam de bhreis ar an ráta SWA (an figiúr ag deireadh Chéim 2)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This figure is your contribution from means</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an figiúr seo do ranníocaíocht ó acmhainn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Income in excess of the SWA rate: €202</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ioncam de bhreis ar an ráta SWA: €202</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Less Additional Income disregard: €106.75</seg></tuv>
+  <tuv xml:lang="ga"><seg>Lúide an neamhaird Ioncaim Bhreise: €106.75</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Contribution from means: €95.25</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ranníocaíocht ó acmhainn: €95.25</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Step 5: Find your total weekly contribution to rent by adding your contribution from means to your minimum Household Contribution</seg></tuv>
+  <tuv xml:lang="ga"><seg>Céim 5: Do ranníocaíocht sheachtainiúil iomlán i leith cíosa a aimsiú trí do ranníocaíocht ó acmhainn a chur le d’íos-Ranníocaíocht Teaghlaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Contribution from means: €95.25</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ranníocaíocht ó acmhainn: €95.25</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Plus Minimum Household Contribution: €40</seg></tuv>
+  <tuv xml:lang="ga"><seg>Móide an Íos-ranníocaíocht Teaghlaigh: €40</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Total weekly contribution to rent: €135.25</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ranníocaíocht sheachtainiúil iomlán i leith cíosa: €135.25</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must pay a minimum contribution towards your rent in addition to any assessable income</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit íos-ranníocaíocht a íoc i leith do chíosa de bhreis ar aon ioncam inmheasúnaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is €30 for a single person and €40 for a couple</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é sin €30 do dhuine singil agus €40 do lánúin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This minimum contribution may be increased depending on the number of non-dependent members in the household getting social welfare payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfar an íos-ranníocaíocht sin a mhéadú ag brath ar líon na mball teaghlaigh neamhchleithiúnach atá ag fáil íocaíochtaí leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In this case, the minimum household contribution is €40</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás seo, is é €40 an íos-ranníocaíocht teaghlaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Step 6: Find your Rent Supplement payment by subtracting your total weekly contribution to your rent from your weekly rent</seg></tuv>
+  <tuv xml:lang="ga"><seg>Céim 6: D’íocaíocht Forlíonadh Cíosa a fháil trí do ranníocaíocht sheachtainiúil iomlán i leith do chíosa a dhealú ó do chíos seachtainiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Susan and Paul are paying €950 per month for accommodation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Susan agus Paul ag íoc €950 sa mhí as cóiríocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To get the weekly rent figure, multiply €950 by 12 and divide by 52</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhonn figiúr an chíosa sheachtainiúil a fháil, iolraigh €950 faoi 12 agus roinn ar 52</seg></tuv>
+</tu>
+</body>
+</tmx>

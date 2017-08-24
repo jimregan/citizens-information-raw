@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Travelling from Ireland for healthcare in Europe</seg></tuv>
+  <tuv xml:lang="ga"><seg>Travelling from Ireland for healthcare in Europe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are resident in Ireland you can choose to access healthcare in other countries in the European Union (EU), the European Economic Area (the EEA also includes Iceland, Liechtenstein and Norway) or Switzerland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá cónaí in Éirinn ort, féadfaidh tú a roghnú chun rochtain a fháil ar chúram sláinte i dtíortha eile san Aontas Eorpach (an AE), an Limistéar Eorpach Eacnamaíochta (tá an Íoslainn, Lichtinstéin agus Iorua sa LEE chomh maith) nó san Eilvéis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can get planned healthcare abroad under the Treatment Abroad Scheme or the Cross-Border Healthcare Directive</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú cúram sláinte pleanáilte a fháil faoin Scéim um Chóireáil Thar Lear nó faoin Treoir um Chúram Sláinte Trasteorann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In general, the Cross-Border Healthcare Directive only covers treatments that are available in Ireland while the Treatment Abroad Scheme covers treatments that are not available in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, ní chumhdaíonn an Treoir um Chúram Sláinte Trasteorann cóireálacha atá ar fáil in Éirinn agus cumhdaíonn an Scéim um Chóireáil Thar Lear cóireálacha nach bhfuil ar fáil in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a treatment is covered by the Treatment Abroad Scheme, you cannot get a refund for it under the Cross-Border Healthcare Directive, so it is important to apply under the appropriate scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá cóireáil cumhdaithe faoin Scéim um Chóireáil Thar Lear, ní féidir leat aisíocaíocht a fháil di faoin Scéim um Chóireáil Thar Lear, mar sin, is tábhachtach chun iarratas a dhéanamh faoin scéim chuí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The differences are summarised below, with links to more detailed information</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar achoimre ar na difríochtaí thíos, agus soláthraítear naisc le faisnéis níos mionsonraithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The European Health Insurance Card does not entitle you to travel abroad with the aim of getting public healthcare</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní thugann an Cárta Eorpach um Árachas Sláinte an teidlíocht duit taisteal thar lear agus é ina aidhm cúram sláinte poiblí a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It covers unplanned healthcare for Irish residents who become sick or injured while travelling in another country in the EU, EEA or Switzerland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cumhdaíonn sé cúram sláinte neamhphleanáilte do chónaitheoirí na hÉireann a dtagann breoiteacht orthu nó a ngortaítear iad fad atá siad ag taisteal i dtír eile san AE, LEE nó san Eilvéis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are entitled to health services that are publicly funded and available in Ireland, you may opt to access those services in another member state of the EU or EEA under the Cross-Border Healthcare Directive</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú i dteideal seirbhísí sláinte a fháil a chistítear go poiblí agus atá ar fáil in Éirinn, féadfaidh tú a roghnú chun na seirbhísí siúd a rochtain i mballstát eile an AE nó an LEE faoin Treoir um Chúram Sláinte Trasteorann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The treatment abroad can be in public or private healthcare</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Féadfaidh an chóireáil thar lear a bheith i gcúram sláinte poiblí nó príobháideach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Some types of treatment need to be authorised in advance</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Is gá roinnt saghsanna de chóireáil a údarú roimh ré</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You pay for the healthcare and then apply for a refund</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Íocann tú as an gcúram sláinte agus déanann tú iarratas ar aisíocaíocht ina dhiaidh sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You need the same kind of referral for healthcare abroad as you would for healthcare in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Teastaíonn an saghas céanna d’atreorú uait le haghaidh cúram sláinte thar lear a bheadh ag teastáil uait le haghaidh cúram sláinte in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, from a GP (family doctor) or hospital consultant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, atreorú ó LG (dochtúir teaghlaigh) nó ó chomhairleach ospidéil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Travel costs and living expenses abroad are not covered</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní chumhdaítear costais taistil agus costais mhaireachtála thar lear</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read more about the Cross-Border Healthcare Directive</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir níos mó a léamh faoin Treoir um Chúram Sláinte Trasteorann anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are a public healthcare patient and require treatment that is not available in Ireland or, taking account of your medical circumstances, is not available within the time normally necessary to obtain it, you may be able to use the Treatment Abroad Scheme to get the treatment in another country in the EU, EEA or Switzerland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más othar cúram sláinte poiblí thú agus má theastaíonn cóireáil uait nach bhfuil ar fáil in Éirinn nó, agus do chúinsí leighis á gcur san áireamh, nach bhfuil ar fáil laistigh den tréimhse ama is gnách go dteastaíonn go gcuirfear an chóireáil sin ort, b’fhéidir go mbeidh tú in ann an Scéim um Chóireáil Thar Lear a úsáid go gcuirfear an chóireáil ort i dtír eile san AE, an LEE nó san Eilvéis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The treatment abroad must be in public healthcare</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní mór go mbeidh an chóireáil thar lear i gcúram sláinte poiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Treatment must be pre-authorised</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní mór go mbeadh an chóireáil réamhúdaraithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You do not have to pay the healthcare provider abroad for pre-authorised treatment</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní gá duit an soláthraí cúram sláinte thar lear a íoc as cóireáil réamhúdaraithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You must be referred for treatment abroad by an Irish-based consultant who is treating you as a public patient</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní mór go n-atreoróidh comhairleach atá bunaithe in Éirinn thú a bhfuil cóir leighis á cur aige/aici ort mar othar poiblí, i dtaobh cóireála thar lear</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You cannot refer yourself or be referred by a GP</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leat tú féin a atreorú ná ní féidir le LG thú a atreorú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The Treatment Abroad Scheme may provide assistance with travel costs for the patient and a travelling companion where appropriate</seg></tuv>
+  <tuv xml:lang="ga"><seg>• D’fhéadfadh an Scéim um Chóireáil Thar Lear cúnamh a sholáthar leis na costais taistil a mbíonn ar an othar íoc astu agus costais chompánach taistil, nuair is cuí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read more about the Treatment Abroad Scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir níos mó a léamh faoin Scéim um Chóireáil Thar Lear anseo</seg></tuv>
+</tu>
+</body>
+</tmx>

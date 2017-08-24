@@ -1,0 +1,233 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Charges for taxi, hackney and limousine services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Táillí le haghaidh seirbhísí tacsaí, hacnaí agus limisín</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are certain rules in place regarding how fares for taxi, hackney and limousine services are structured and set</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá rialacha áirithe i bhfeidhm in Éirinn maidir leis an mbealach a dhéantar táillí le haghaidh seirbhísí tacsaí, hacnaí agus limisín a struchtúrú agus a shocrú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The National Transport Authority has overall responsibility for determining fares for these services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an Údarás Náisiúnta Iompair freagrach go hiomlán as táillí le haghaidh na seirbhísí seo a shocrú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This document examines the current rules concerning how maximum fares are set out, explains how taxi fares are calculated and recorded and the duties of passengers and drivers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa doiciméad seo, scrúdaítear na rialacha reatha maidir leis an mbealach a leagtar amach uastáillí, mínítear conas a ríomhtar agus a thaifeadtar táillí tacsaí chomh maith leis na dualgais atá ar phaisinéirí agus ar thiománaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Ireland is treated as one taximeter area</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Éire mar limistéar tacsaiméadair amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The maximum taxi fares are provided for by Regulation 52 and Schedule 10 of the Small Public Service Vehicle (Consolidation and Reform) Regulations 2014</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá na tacsaithe táillí uasta ar fáil sna Rialachán 52 agus Sceideal 10 den Rialacháin Beag Feithiclí Seirbhíse Poiblí (Comhdhlúthú agus Athchóiriú) 2014</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They set the maximum fares for the national taximeter area</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagann siad na táillí uasta don cheantar tacsaiméadair náisiúnta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Since 31 January 2015, the remainder of the 2014 Regulations have been replaced by the Taxi Regulation (Small Public Service Vehicle) Regulations 2015</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó 31 Eanáir 2015, tá na Rialacháin um Rialáil Tacsaithe (Feithicil Beaga Seirbhíse Poiblí) 2015 in ionad an chuid eile de na Rialacháin 2014</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the Regulations all taxi fares for all taxi journeys are calculated on the meter</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi na Rialacháin go ríomhtar gach táille tacsaí le haghaidh gach turas tacsaí ar an méadar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where a fare is agreed in advance, you can only be charged whichever is the lower - the pre-agreed fare or the meter fare</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás ina táille aontaithe roimh ré, is féidir leat a bheith ghearradh ach amháin cibé acu is ísle - an táille réamh-aontaithe nó an táille méadar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As of 30 April 2015, the maximum fares are set by the Taxi Regulation Act 2013 (Maximum Fares) Order 2015</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó 30 Aibreán 2015, tá na táillí uasta leagtha síos ag an Táillí Tacsaí Náisiúnta Uasmhéid Ordú 2015</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>What is the maximum taxi fare?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cad é an t-uastáille tacsaí?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is a standard rate and a premium rate National Maximum Taxi Fare</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá ráta caighdeánach agus ardráta ann don Uastáille Náisiúnta Tacsaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The standard rate applies from 8 am to 8 pm</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn an ráta caighdeánach i bhfeidhm ó 8 rn go dtí 8 in</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The premium rate applies at night from 8 pm to 8 am and on Sundays and public holidays</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn an t-ardráta speisialta i bhfeidhm istoíche ó 8 in go dtí 8 rn agus ar an Domhnach agus ar laethanta saoire poiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is also a special premium rate which applies between 8 pm on Christmas Eve and 8 am on St. Stephen's Day and between 8 pm on New Year's Eve and 8 am on New Year's Day</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn ardráta i bhfeidhm idir 8 in Oíche Nollag agus 8 rn Lá Fhéile Stiofáin agus idir 8 in Oíche Chinn Bhliana agus 8 rn Lá Caille</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The National Maximum Taxi Fare consists of 3 separate parts:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá 3 chuid ar leithligh san Uastáille Náisiúnta Tacsaí:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Initial charge: amount which appears on the meter at the beginning of the journey</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Táille tosaigh: suim a bhíonn le feiceáil ar an méadar ag tús an turais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As of 30 April 2015, the national initial charge is €3.60 standard rate and €4.00 premium rate and includes an initial distance of 500m, or a period of 85 seconds</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an táille tosaigh náisiúnta atá i bhfeidhm ó 30 Aibreán 2015 ná ráta caighdeánach €3.60 agus ardráta €4.00 agus tá achar tosaigh 500m, nó tréimhse 85 soicind san áireamh leis sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Further travel: after the distance/time included in the initial charge has been exceeded, the fare for further travel is calculated at small portions of the journey</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Achar níos faide: tar éis don tacsaí dul os cionn an achair/ama atá i gceist leis an táille tosaigh, ríomhtar an táille d’achar níos faide in aghaidh tráthanna gearra le linn an turais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>At low speeds, or when a taxi is stationary, the fare is calculated on the basis of time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a bhíonn luas íseal faoin tacsaí, nó nuair atá sé ina sheasamh, ríomhtar an táille ar bhonn ama</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Once the taxi exceeds a certain speed, the fare is then calculated according to the distance travelled using three graduated tariffs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a théann an tacsaí os cionn luas áirithe, ríomhtar an táille de réir an achair atá déanta ag úsáid trí tharaif chéimnithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Extra charge: there are strict rules about extra charges that can be levied</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Táille bhreise: tá rialacha dochta ann maidir le táillí breise is féidir a ghearradh ar an bpaisinéir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These include a booking fee, additional passenger charges and a soiling charge</seg></tuv>
+  <tuv xml:lang="ga"><seg>San áireamh leo seo, tá táille áirithinte, táillí le haghaidh paisinéirí breise agus táille salaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It's important to remember, customers have the right to request a discount before engaging a taxi</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé tábhachtach cuimhneamh go bhfuil sé de cheart ag custaiméirí lascaine a iarraidh sula bhfostaíonn siad seirbhísí tacsaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Drivers have the right to charge the maximum amount calculated on the meter, or a lesser sum at their discretion</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé de cheart ag tiománaithe an tsuim uasta arna ríomh ar an méadar a ghearradh ar an bpaisinéir, nó suim is lú ná sin dá rogha féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Any discounts given may be recorded in handwriting on the receipt</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfar aon lascainí a thugtar a thaifeadadh de láimh ar an admháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the absence of any arrangement on discounts agreed in advance, the customer is liable to pay the amount calculated by the meter in full</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura gcomhaontaítear aon socrú maidir le lascainí roimhe ré, dlitear den chustaiméir an tsuim iomlán arna ríomh ag an méadar a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Information on taxi fares is available on the National Transport Authority's consumer website transportforireland.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá eolais maidir le táille tascaí ar fáil ar láithreán gréasáin an t-Údarás Náisiúnta Iompair, transportforireland.ie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under current Regulations, the maximum taxi fare is the highest amount you can be charged by a taxi driver</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi Rialacháin reatha, is é an t-uastáille tacsaí an tsuim is airde is féidir le tiománaí tacsaí a ghearradh ort</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The National Transport Authority has the power to set the maximum taxi fares</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé de chumhacht ag an tÚdarás Náisiúnta Iompair na huastáillí tacsaí a shocrú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Taxi fares are calculated by a piece of equipment called a taximeter, displayed in the front of the vehicle</seg></tuv>
+  <tuv xml:lang="ga"><seg>Píosa trealaimh a dtugtar tacsaiméadar air a ríomhann na táillí tacsaí agus bíonn sé le feiceáil amuigh chun tosaigh san fheithicil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The meter calculates the fare by time and distance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ríomhann an méadar an táille de réir ama agus achair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All taxi meters must be tested and sealed before being used in taxis</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfear gach tacsaiméadar a thástáil agus a shéalú sular n-úsáidtear i dtacsaithe iad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is done by the Legal Metrology Service (LMS)</seg></tuv>
+  <tuv xml:lang="ga"><seg>An tSeirbhís Mhéadreolaíochta Dlí a dhéanann é seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Legal Metrology Service is part of the National Standards Association of Ireland (NSAI) and is responsible for enforcing the law on how measuring instruments are used in business</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an tSeirbhís Mhéadreolaíochta Dlí ina cuid de Údarás Náisiúnta Caighdeán na hÉireann (ÚNCÉ) agus tá an tseirbhís freagrach as an dlí a fhorfheidhmiú maidir leis an mbealach a úsáidtear ionstraimí tomhais sa saol gnó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Hackneys do not have taximeters (that is, equipment installed to record taxi fares) installed and therefore maximum charges do not apply</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní shuiteáiltear tacsaiméadair (is é sin, trealamh a shuiteáiltear chun táillí tacsaí a thaifeadadh) i hacnaithe agus mar gheall air sin, ní bhíonn uastáillí i gceist leo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All fares must be agreed between the driver and passenger before the journey begins</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh an tiománaí agus an paisinéir gach táille a chomhaontú sula dtosaíonn an turas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As with hackneys, limousines do not have taximeters installed so again, maximum charges don’t apply</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar aon le hacnaithe, ní shuiteáiltear tacsaiméadair i limisíní agus mar sin, arís, ní bhíonn uastáillí i gceist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you choose to hire the services of a limousine, you must agree any fares with the driver before your journey begins</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má roghnaíonn tú seirbhísí limisín a fhruiliú, caithfidh tú aon táillí a chomhaontú leis an tiománaí sula dtosaíonn do thuras</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A fare card is a card that must be displayed in all taxis showing how the fare area is calculated</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is éard atá i gcárta táillí ná cárta a chaithfear a chur ar taispeáint i ngach tacsaí agus lena dtaispeáintear conas a ríomhtar limistéar na táille</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The card includes details on distance, time and extras</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá mionsonraí maidir le hachar, am agus míreanna breise ar an gcárta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The fare card should be displayed clearly where it is easily visible by the passenger</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir go mbeadh an cárta táillí ar taispeáint go soiléir áit a mbeidh sé éasca ag an bpaisinéir é a fheiceáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All licensed taxis are obliged to display passenger information including rights and responsibilities and fare information, which are supplied by the National Transport Authority, in the front and back of the vehicle</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé d’oibleagáid ar gach tacsaí ceadúnaithe eolas do phaisinéirí, lena n-áirítear cearta agus freagrachtaí agus eolas maidir le táillí, a chur ar taispeáint amuigh chun tosaigh agus ar chúl na feithicle</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under Part 3 of the Taxi Regulation Act 2013, it is an offence for a taxi or hackney driver to charge you more than the maximum fee shown on the meter or the fee agreed at the start of the journey</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi Chuid 3 den Acht um Rialáil Tacsaithe 2013, is cion é má ghearrann tiománaí tacsaí nó hacnaí táille ort ar mó é ná an t-uastáille atá ar taispeáint ar an méadar nó an táille a comhaontaíodh ag tús an turais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you feel you have been overcharged, you are entitled to make a complaint about the taxi driver</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má mheasann tú gur gearradh táille iomarcach ort, tá tú i dteideal gearán a dhéanamh faoin tiománaí tacsaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is an offence for a passenger in a SPSV not to pay the agreed fare or maximum fare shown on the taximeter</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is cion é mura gcomhaontaíonn paisinéir in SPSV an táille comhaontaithe nó an t-uastáille a thaispeántar ar an tacsaiméadar a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The driver is entitled to ask you to prove that you can afford to pay the fare before the journey begins</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an tiománaí i dteideal iarraidh ort a chruthú go bhfuil sé d’acmhainn agat an táille a íoc sula dtosaíonn an turas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you cannot prove this, they can refuse to take you on the journey</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura féidir leat é seo a chruthú, is féidir leis diúltú tú a thabhairt leis ar an turas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the 2015 Regulations, you are entitled to receive a printed receipt at the end of a taxi journey upon payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi Rialacháin 2015, tá tú i dteideal admháil phriontáilte a fháil ag deireadh an turais tacsaí tar éis duit íoc as</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The receipt should detail the date, duration of the journey, distance, amount paid and vehicle licence number</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir go mbeadh mionsonraí faoin dáta, faoi fhad an turais, faoin achar agus faoin tsuim a íocadh ar an admháil chomh maith le huimhir cheadúnais na feithicle</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Can I make a complaint about a taxi fare?</seg></tuv>
+  <tuv xml:lang="ga"><seg>An féidir liom gearán a dhéanamh faoi tháille tacsaí?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have a dispute about a fare you should pay the fare displayed on the meter including extras</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá táille ina cnámh spairne agat, ba chóir an táille a thaispeántar ar an méadar a íoc mar aon le míreanna breise</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should make sure you get a printed receipt and proceed to make a formal complaint to the National Transport Authority</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir duit a chinntiú go bhfaighidh tú admháil phriontáilte agus gearán foirmiúil a dhéanamh leis an gCoimisiún um Rialáil Tacsaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>See our document on making a complaint about a taxi, hackney or limousine driver</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féach ár ndoiciméad maidir le gearán a dhéanamh faoi thiománaí tacsaí, hacnaí nó limisín</seg></tuv>
+</tu>
+</body>
+</tmx>

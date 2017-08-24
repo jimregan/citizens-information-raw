@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Postnatal care for your baby</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cúram iarbhreithe do do naíonán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the Maternity and Infant Care Scheme (the scheme that provides free antenatal and postnatal care), mother and baby are entitled to two visits to your family doctor (GP) after the baby is born. The first visit is when the baby is 2 weeks old, and the second is at 6 weeks</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoin Scéim Cúram Máithreachais agus Naíonán (an scéim a chuireann cúram réamhbhreithe agus iarbhreithe saor in aisce ar fáil), tá an mháthair agus an naíonán i dteideal 2 chuairt ar do dhochtúir teaghlaigh tar éis bhreith an linbh - cuairt amháin nuair a bhíonn an leanbh 2 sheachtain d'aois, agus ceann eile nuair a bhíonn an leanbh 6 seachtaine d'aois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The visit at 2 weeks is primarily to re-establish contact with your GP and to see how the mother and baby are getting on</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ann don chuairt ag 2 sheachtain go bunúsach le teagmháil a athbhunú le do dhochtúir teaghlaigh agus féachaint mar atá ag éirí leis an máthair agus an naíonán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The more widely known visit is referred to as the "6-week check"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is í an chúirt is mó a bhfuil eolas uirthi ná an "seiceáil 6 seachtaine"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can either go to your GP or your maternity hospital for this. The GP or the hospital paediatrician will examine your baby to check his/her development</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat dul chuig do dhochtúir teaghlaigh nó chuig d'ospidéal máithreachais lena haghaidh sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They will check the baby's weight, length, head circumference and hips</seg></tuv>
+  <tuv xml:lang="ga"><seg>Scrúdóidh an dochtúir teaghlaigh nó an leanbhlia do naíonán lena f(h)orbairt a sheiceáil, ag féachaint ar mheáchan do naíonáin, a f(h)ad, imlíne an chinn agus na cromáin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They will discuss the baby's feeding patterns and general health with you, and address any concerns you might have</seg></tuv>
+  <tuv xml:lang="ga"><seg>Pléifidh sé/sí patrúin cothaithe agus sláinte ginearálta an naíonáin leat agus tabharfaidh sé/sí aghaidh ar aon imní a d'fhéadfadh a bheith ort</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Thereafter, your points of contact with the healthcare system will be via your GP, who will immunise your baby, and your public health nurse, who will visit you at home</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina dhiaidh sin, is tríd an dochtúir teaghlaigh a bheidh do phointí teagmhála leis an gcóras cúram sláinte, agus is é/í a imdhíonfaidh do naíonán vaicsíniú do do naíonán, agus tríd an altra sláinte phoiblí cúram máithreachais agus an Altra Sláinte Phoiblí</seg></tuv>
+</tu>
+</body>
+</tmx>

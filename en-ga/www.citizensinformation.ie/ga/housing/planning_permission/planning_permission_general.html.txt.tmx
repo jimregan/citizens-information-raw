@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>If you are going to build a house, you will need planning permission</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú chun teach a thógáil beidh ort cead pleanála a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are going to build an extension or make other changes to your existing house, you may need planning permission</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú chun síneadh a chur le teach atá agat cheana féin, nó aon athrú eile a dhéanamh leis, d'fhéadfadh sé go mbeadh cead pleanála ag teastáil uait</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some small extensions and conservatories do not need planning permission but you should make sure of this before you start building</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go hiondúil ní theastaíonn cead pleanála le haghaidh síneadh beag a chur le teach, nó le haghaidh teach gloine ach ba cheart duit é seo a chinntiú roimh duit tosnú ar an obair thógála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your local authority will be able to advise you about this and tell you how to apply as well as giving you general advice about your application</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh d' údarás áitiúil in ann comhairle a thabhairt duit maidir leis seo, chomh maith le n-insint duit cén chaoi le hiarratas a dhéanamh agus comhairle ginearálta a chur ort maidir le d'iarratas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your local authority will also be able to tell you whether your proposals are likely to comply with the development plan for your area</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh d'údarás áitiúil in ann insint duit freisin an bhfuil do chuid moltaí ag teacht le plean forbartha do cheantair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are 3 types of planning permission: permission, outline permission and permission consequent on outline permission</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ta 3 chinéal cead pleanála ann: cead, cead imlíne agus ceadú bunaithe ar chead imlíne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The most common type is permission, sometimes called full permission</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é cead, nó lánchead mar a thugtar go minic air, an ceann is coitianta dóibh seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if you want to see if the planning authority agrees in principle to you building a house on a particular site or building a large extension, you might apply for outline permission, which will require you to produce only the plans and particulars that are necessary to enable the planning authority to make a decision in relation to the siting, layout or other proposals for development</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ag iarraidh a fheiceáil an aontaíonn an t-údarás pleanála i bprionsabal le teach a thógáil ar shuíomh ar leith, mar shampla, nó síneadh mór a thógáil, d'fhéadfá cur isteach ar chead imlíne. Sa chás seo ní bheidh ort ach na bunphleananna agus na sonraí cuí a chur ar fáil a chuirfidh ar chumas an údaráis phleanála cinneadh a dhéanamh maidir leis an suíomh, dearadh agus moltaí eile forbartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you get outline permission, you will have to submit detailed drawings and receive consequent permission before you start building work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhaigheann tú cead imlíne, beidh ort pleananna cuimsitheacha a chur ar fáil agus cead bunaithe ar chead imlíne a fháil roimh duit tosnú ar obair thógála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Generally, outline permissions have a 3-year duration</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seasann cead imlíne go hiondúil ar feadh trí bliana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is an offence to carry out any work that requires planning permission, without planning permission, and the offence can carry very heavy fines and imprisonment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is coir atá ann aon obair a dhéanamh a dteastaíonn cead pleanála dí gan an cead sin a fháil agus is féidir fíneáil an-trom agus príosún a ghearradh ort dá bharr</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if a genuine mistake has been made, it is possible to apply for planning permission to retain an unauthorised development</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más fíor-dhearmad a bhí ann, is féidir cur isteach ar chead pleanála chun an fhorbairt a choinneáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This permission may be refused, in which case, the unauthorised development will have to be demolished</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh sé go ndiúltófaí an cead seo agus sa chás seo ní mór an fhorbairt a threascradh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Generally, the local planning authority must make a decision on a planning application within 8 weeks of receiving the application, but if the local authority needs more information, or the decision is appealed, it may take much longer</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go hiondúil ní mór don údarás pleanála cinneadh a dhéanamh maidir le cead pleanála taobh istigh de 8 seachtain ó thagann an t-iarratas chuige. Ach, má theastaíonn tuilleadh eolais, nó má dhéantar achomharc ar an gcinneadh, d'fhéadfadh sé a bheith i bhfad níos faide ná sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Anyone can see a copy of your application and on payment of a fee of €20, can make a written submission or observation on it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le aon duine cóip de d'iarratas a fheiceáil agus má íocann sé/sí táille de €20 cuntas nótuairimí scríofa a thabhairt air</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The decision on your planning permission will be notified to you and anyone who commented in writing on it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirfear scéal chugatsa agus chuig aon duine a thug tuairim ar an iarratas nuair atá cinneadh déanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the local authority decides to give you planning permission, you will get a notice of intention to grant planning permission</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má thugann an t-údarás áitiúil cead pleanála, gheobhfaidh tú fógra toile go bhfuil cead pleanála le bronnadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If no one appeals the decision to An Bord Pleanála within 4 weeks of the date of this decision, you will get grant of permission from the local authority</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna ndéanann aon duine achomharc chuig an mBord Pleanála taobh istigh de 4 sheachtain den dáta sin gheobhfaidh tú deonú ceada ón údarás áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must give a public notice of your proposals before making an application</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh tú fógra poiblí de do phlean a thabhairt roimh duit iarratas a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This must be done by placing a notice in a locally circulating newspaper (your local authority will have a list) and putting up a site notice that can be clearly read</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit é seo a dhéanamh tré fhógra a chur i bpáipéar áitiúil (beidh liosta ag d'údarás áitiúil) agus fógra suímh a chur in áit gur féidir é a léamh go soiléar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will find details of information that must be contained in the notices in the planning application form</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gheobhaidh tú sonraí den eolas nach mór a bheith sna fógraí ar an bhfoirm iarratais ar chead pleanála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The application must be received by the local authority within 2 weeks of the notice appearing in the local newspaper and the erection of the site notice</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh tú an t-iarratas a chur chuig an údarás áitiúil taobh istigh de choicís ón lá a raibh an fógra sa pháipéar áitiúil agus an fógra a bheith croctha ar an suíomh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The site notice must remain in place for at least 5 weeks from the date of receipt of the planning application. (Please note, nine days over Christmas, from 24 December to 1 January, are not taken into account when calculating the 5-week period)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfear an fógra suímh a fhágáil ann ar feadh ar a laghad 5 sheachtain ón lá go bhfaigheann an t-údarás áitiúil an t-iarratas pleanála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must not start building before you receive the grant of permission</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir tosnú ag tógáil roimh duit deonú ceada a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Normally, planning permission is subject to conditions, some of which may require changes to your proposals</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iondúil go mbíonn coinníollacha ag baint leis an gcead pleanála agus d'fhéadfadh sé go mbeadh athruithe le déanamh agat ar do phlean len iad a shásamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Planning permission normally lasts for 5 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iondúil go seasann cead pleanála ar feadh 5 bliana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may be required to make a financial contribution towards the construction of any road, water supply or sewerage that may be necessary</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh sé go mbeadh ort íoc as cuid den chostas a bhaineann le bóthar, córas uisce agus séarachais a sholáthar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the local authority refuses your application, it will give you the reasons for this</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhiúltaíonn an t-údarás áitiúil le d'iarratas, tabharfar cúiseanna duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You have 4 weeks from the date of this decision to appeal to An Bord Pleanála</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh 4 sheachtain agat ó dháta an chinnithe sin achomharc a chur chuig an mBord Pleanála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You have to pay a fee with your application</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh táille le n-íoc agat le d'iarratas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Different fees apply to different types of development</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá táillí éagsúla i gceist ag brath ar an gcineál forbartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The current fee for an application to build a house is €65</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi láthair is €65 an táille a bhaineann le iarratas a dhéanamh teach a thógáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The fee for a house extension or the conversion of a garage for use as part of a house is €34</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is €34 an táille a ghearrtar ar dhuine a dhéanann iarratas ar shíneadh a chur le teach nó le athrú a dhéanamh ar gharáiste, &amp; rl a bheidh in úsáid mar chuid den teach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You apply for planning permission by filling in a planning application form and submitting it together with required documents to your local authority</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann tú isteach ar chead pleanála tré fhoirm iarratais ar chead pleanála a líonadh agus í a sheoladh leis na cáipéisí cuí chuig do údarás áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your local authority will be able to give you advice about how to apply, whether your proposals are likely to comply with the development plan, what other documents you will need, what the fee will be and any other requirements</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh d'údarás áitiúil in ann comhairle a chur ort maidir leis an iarratas a dhéanamh, an dóigh go dtiocfaidh do phlean féin leis an bplean forbartha, cé na cáipéisí eile a bheidh ag teastáil uait, cén táille a bheidh le n-íoc agat agus aon riachtanais eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Information, application form and a checklist are available from your local authority</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá faisnéis, foirm iarratais agus seicliosta ar fáil ó d'údarás áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To apply for planning permission, contact the Planning Department of your local authority</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déan teagmháil le d'údarás áitiúil chun iarratas ar chead pleanála a dhéanamh</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,329 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Taxation of social welfare payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gearradh cánach ar íocaíochtaí leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All income in Ireland is generally subject to taxation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go hiondúil, gearrtar cáin ar gach ioncam in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your social welfare payment may or may not be deemed taxable but even if your social welfare payment is taxable, you may not actually have to pay tax on it</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh d'íocaíocht leasa shóisialaigh a bheith inchánaithe nó saor ó cháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are getting a social welfare payment you get a PAYE tax credit in addition to your normal tax credits</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fiú má tá d'íocaíocht leasa shóisialaigh inchánaithe, tá seans fós ann nach n-íocfaidh tú cáin uirthi</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means, if a social welfare payment is your only source of income you may not pay tax because your tax liability does not exceed your tax credits</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ag fáil íocaíocht leasa shóisialaigh, gheobhaidh tú creidmheas cánach ÍMAT chomh maith leis na gnáth-chreidmheasanna cánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The PAYE tax credit is given to the person claiming the social welfare payment and not to the adult dependant even if the Increase for a Qualified Adult is paid directly to the dependant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dá thoradh, más íocaíocht leasa shóisialaigh an t-aon foinse ioncaim atá agat, ní bheidh cáin le híoc agat toisc nach sáraíonn do dhliteanas cánach do chreidmheasanna cánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Universal Social Charge and social insurance (PRSI) is not payable on social welfare payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhaineann an Muirear Sóisialta Uilíoch (MSU) le híocaíochtaí leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Social welfare payment and another income</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocaíocht leasa shóisialaigh agus ioncam eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have a social welfare payment and another source of income, you may have to pay tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá íocaíocht leasa shóisialaigh chomh maith le foinse eile ioncaim agat, d'fhéadfadh sé go mbeadh cáin le n-íoc aige/aici</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In this case, your taxable social welfare payment and your other income are added together</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás seo, beidh d’íocaíocht inchánaithe agus d’fhoinse eile ioncaim suimithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are taxed on the total amount</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gearrtar cáin ar an méid iomlán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is no mechanism for taxing social welfare payments at source (before it is paid to you)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon bhealach i bhfeidhm le cáin a ghearradh ar phinsin leasa shóisalaigh ag an bhfoinse, i bhfocail eile, sula n-íoctar an pinsean leat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your non-social welfare income determines how tax due is paid</seg></tuv>
+  <tuv xml:lang="ga"><seg>Braitheann an córas cánach ar an bhfoinse eile ioncaim atá agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, you are getting a social welfare pension and an occupational pension</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, má tá íocaíocht leasa shóisialaigh agus pinsean gairme agat, gearrtar cáin air tríd an gcóras ÍMAT air, díreach mar an gcéanna leis an gcóras nuair a ghearrtar cáin ar phá nó tuarastal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your occupational pension is taxed through the Pay-As-You-Earn (PAYE) system in the same way as a wage or salary</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ionann é seo agus a rá go bhfaigheann tú chreidmheasanna cánach sa ghnáthbhealach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that you get your tax credits in the normal way. In order to tax your social welfare pension, your annual tax credits are reduced by the tax liability on your social welfare pension</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun cáin a ghearradh ar an bpinsean leasa shóisialaigh, déantar scoithphointe an ráta chaighdeánaigh a laghdú faoi mhéid an phinsin leasa shóisialaigh agus déantar na creidmheasanna cánach a laghdú faoin dliteanas cánach ar an bpinsean leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You then effectively pay tax on both the pensions, but it is collected from the occupational pension</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin, is amhlaidh go n-íoctar cáin ar an dá phinsean ach íoctar í tríd an bpinsean ceirde</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The technical term for this is coding in of credits</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar "códú" creidmheasanna ar an nós seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The same arrangement applies if you have income from a job and a social welfare payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirtear an nós imeachta céanna i bhfeidhm má tá ioncam agat ó phost agus má tá pinsean leasa shóisialaigh aige/aici</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your social welfare payment was not coded in, you would have to pay tax as a self-employed person and in a lump sum by 31 October each year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna mbeadh do phinsean leasa shóisialaigh curtha san áireamh sa bhealach seo, bheadh cáin le n-íoc air ina cnapshuim go bliantúil mar dhuine féinfhostaithe faoin 31 mí Dheireadh Fómhair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your other source of income is not taxed through the PAYE system, for example, if you are self-employed, have an occupational pension from abroad or have investment income, then you are classed as a self-employed person and your tax is payable annually by 31 October each year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura n-íocann tú cáin ar an bhfoinse ioncaim eile atá agat tríd an gcóras ÍMAT, cuir i gcás go bhfuil pinsean gairme ó thír thar lear nó ioncam infheistíochta agat, cuirtear tú san aicme féinfhostaithe agus ní mór an cháin a íoc ina cnapshuim go bliantúil roimh 31 Deireadh Fómhair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Social security pensions from abroad</seg></tuv>
+  <tuv xml:lang="ga"><seg>Pinsin leasa shóisialaigh nó pinsin slándála sóisialaí ó thír eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have a social security pension from abroad, it is also generally taxable in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá pinsean slándála sóisialaí ó thír eile agat, is iondúil go bhfuil sé inchánaithe in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The tax is payable annually unless you have a source of income that is subject to PAYE</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór an cháin a íoc go bliantúil mura bhfuil foinse ioncaim eile agat a thiteann faoin gcóras ÍMAT</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Certain foreign pensions that would be exempt from tax if you were resident in the country paying the pension, are however also exempt from tax in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá pinsin eachtrannacha áirithe a bheadh saor ó cháin dá mbeadh faighteoir an phinsin ina chónaí sa tír as atá an pinsean ag teacht agus mar sin tá siad saor ó cháin in Éirinn chomh maith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Universal Social Charge and PRSI are not payable</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocaíochtaí leasa shóisialaigh Éireannacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Department of Social Protection (DSP) will pay Maternity Benefit without any deduction of tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn Sochar Cuardaitheora Poist inchánaithe go ginearálta, ach bíonn an chéad €13 gach seachtain saor ó cháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However the DSP will notify Revenue of the amount of Maternity Benefit to be taken into account for income tax purposes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl Sochar Cuardaitheora Poist atá iníochta le hoibreoirí gearrthréimhseacha inchánaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are self-employed and pay your tax through the self-assessment system you should include details of any Maternity Benefit received in your annual tax return</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl Méaduithe i leith Leanaí Cáilithe atá iníochta le Sochar Cuardaitheora Poist, Sochar Breoiteachta agus an Scéim Díobhálacha Ceirde (Sochar Díobhála, Pinsean Míchumais agus Forlíonadh Easláinte) inchánaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you pay tax through the PAYE system Revenue will, where possible, automatically reduce your annual tax credits and rate bands to account for the tax payable on your Maternity Benefit (see 'Further information' below for examples)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seachas na cásanna thuas, má tá d’íocaíocht leasa shóisialaigh inchánaithe, beidh aon mhéadú ar d’íocaíocht le haghaidh do chleithiúnaí aosaigh inchánaithe chomh maith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can also read our case study</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl Sochar Linbh inchánaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you were getting Maternity Benefit up to and including 30 June 2013 you may be entitled to a tax and PRSI refund if your Maternity Benefit is paid to your employer and your employer continues to pay your normal weekly wage</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocaíochtaí caomhnóra, arb íocaíochtaí iad a rinneadh ar mhaithe le dílleachta, inchánaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If this is the case, when your Maternity Benefit has finished, you can write to the Maternity Benefit Section or contact the Maternity Benefit Section online to request an MB21 Statement, which you should then forward to your tax office to get a tax refund</seg></tuv>
+  <tuv xml:lang="ga"><seg>Meastar gur réadmhaoin thairbhiúil an linbh íocaíocht chaomhnóra agus tá sé inmheasúnaithe, ar an ábhar sin, i leith a n-ioncaim (más ann dó), seachas i leith ioncam an duine a fhaigheann an íocaíocht chaomhnóra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They do this by including the taxable amount of Illness or Injury Benefit with the employee’s earnings</seg></tuv>
+  <tuv xml:lang="ga"><seg>│An Díbhinn Teaghlaigh um Fhilleadh ar │Saor ó cháin │ │Obair │ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Jobseeker’s Benefit and One-Parent Family Payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Liúntas Cuardaitheora Poist │Saor ó cháin │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>One-Parent Family Payment is taxed in the same way</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Socrú idirthréimhseach Liúntas │Saor ó cháin │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>No PRSI or USC is payable</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Cuardaitheora Poist │ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Jobseeker's Benefit payable to short-time workers is not taxable</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Liúntas Réamhscoir │Saor ó cháin │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Guardian's payments, which are payments made for the benefit of an orphan, are taxable</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Cúnamh Feirme │Saor ó cháin │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Payments that are not taxed</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Pinsean Baintrí, Baintrí Fir nó │ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Back to Work Family Dividend Not taxed</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Páirtnéara Shibhialta Mharthanaigh │Inchánaithe │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Disablement Gratuity (lump sum payment) Not taxed Domiciliary Care Allowance Not taxed</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Íocaíocht Chaomhnóra (Neamhranníocach) │(ar ioncam │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Family Income Supplement Not taxed</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Liúntas Cúramóra │Inchánaithe │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Fuel Allowance Not taxed</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Liúntas Leasa Forlíontach │Saor ó cháin │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Household Benefits Scheme Not taxed</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Pinsean Stáit (Neamhranníocach) │Inchánaithe │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Jobseeker's Allowance Not taxed</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Pinsean na nDall │Inchánaithe │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Jobseeker's Transitional payment Not taxed</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Liúntas Míchumais │Saor ó cháin │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Pre-Retirement Allowance Not taxed</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Liúntas Banchéile Thréigthe │Inchánaithe │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Supplementary Welfare Allowance Not taxed</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Íocaíocht Teaghlaigh Aontuismitheora │Inchánaithe │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Deserted Wife’s Allowance Taxable</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Sochar Atharthachta │Inchánaithe │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Disablement Pension Taxable (except for child increases)</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Sochar Breoiteachta │Inchánaithe (ach amháin │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Guardian's Payment (Contributory) Taxable (on child's income)</seg></tuv>
+  <tuv xml:lang="ga"><seg>│ │méadaithe cleithiúnaí linbh) │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Guardian's Payment (Non-Contributory) Taxable (on child's income)</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Sochar Máithreachais │Inchánaithe (ón 1 Iúil 2013) │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Health and Safety Benefit Taxable (since 1 July 2013)</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Sochar Uchtála │Inchánaithe (ón 1 Iúil 2013) │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Maternity Benefit Taxable (since 1 July 2013)</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Sochar Sláinte agus Sábháilteachta │Inchánaithe (ón 1 Iúil 2013) │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>One-Parent Family Payment Taxable</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Pinsean Míchumais │Inchánaithe │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Partial Capacity Benefit Taxable</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Sochar Cuardaitheora Poist │Inchánaithe (ach amháin │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>State Pension (Contributory) Taxable</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Liúntas Fiontraíochta Gearrthréimhseach │Inchánaithe │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>State Pension (Non-Contributory) Taxable</seg></tuv>
+  <tuv xml:lang="ga"><seg>│hoibrithe gearr-ama) │ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Widow’s, Widower’s or Surviving Civil Partner's (Contributory) Pension Taxable</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Pinsean Baintrí, Baintrí Fir nó Páirtnéara │Inchánaithe │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Widow’s, Widower’s or Surviving Civil Partner's (Non-Contributory) Pension Taxable  Other schemes</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Shibhialta Mharthanaigh (Ranníocach) │ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Vocational Training Opportunities Scheme (VTOS) is not taxable</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Íocaíocht Chaomhnóra (Ranníocach) │Inchánaithe (ar ioncam linbh) │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Water Conservation Grant (paid annually to households registered with Irish Water) is exempt from income tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Sochar Banchéile Thréigthe │Inchánaithe │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Payments made under the Community Employment scheme, Rural Social Scheme (RSS), Tús, Gateway and the Community Services Programme are taxable</seg></tuv>
+  <tuv xml:lang="ga"><seg>├────────────────────────────────────────────────┼───────────────────────────────┤ │Sochar Cúramóra │Inchánaithe │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the underlying payment is not taxable, JobBridge payments are not taxable</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Sochar Cumais Pháirtigh │Inchánaithe │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may get an increase in your social welfare payment, if you are living alone</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Pinsean Stáit (Ranníocach │Inchánaithe │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your social welfare payment is taxable, then the Living Alone Increase is taxable</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Pinsean Stáit (Ranníocach) │Inchánaithe │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your social welfare payment is not taxable, then your Living Alone Increase is not taxable</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Liúntas Freastail Leanúnach ( Iníoctha le │Inchánaithe │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>No tax is deducted at source by the Department of Social Protection</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Sochar Gortaithe │Inchánaithe │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All enquiries about your tax liability should be addressed to your local tax office</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Pinsean Sochair Báis │Inchánaithe │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you pay tax through the PAYE system you will probably fall into one of the following 3 categories:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl an Liúntas um Fhilleadh ar Obair; an Liúntas Fiontraíochta um Fhilleadh ar Obair agus an Liúntas um Fhilleadh ar Oideachas inchánaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Revenue will reduce your tax credits and rate band to account for the tax payable on your Maternity Benefit and in this way collect the tax due</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl íocaíochtaí a dhéanann an CGO faoin Scéim Deiseanna Oiliúna Ghairmoideachais (SDOG) inchánaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Revenue will then send a revised tax credit certificate to your employer</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl an Deontas Caomhnaithe Uisce inchánaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>2. You are paid your full or partial salary by your employer and your Maternity Benefit is paid directly to you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá íocaíochtaí faoin Scéim Shóisialta Tuaithe (RSS), TÚS agus faoin gClár Seirbhísí Pobail inchánaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Revenue will reduce your tax credits and rate band to account for the tax payable on your Maternity Benefit and your employer should only deduct tax, USC and PRSI only on the amount of salary actually paid by them</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá íocaíochtaí a dhéantar faoi JobBridge, an Scéim Náisiúnta Intéirneachta, inchánach má tá an íocaíocht bhunúsach leasa shóisialaigh inchánach. Mura bhfuil an íocaíocht bhunúsach inchánach, nach bhfuil íocaíochtaí JobBridge inchánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>3. You do not get any salary while on maternity leave and your Maternity Benefit is paid directly to you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú i do chónaí i d'aonar, d'fhéadfá méadú ar d'íocaíocht leasa shóisialaigh a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Revenue will reduce your tax credits and rate band to account for the tax payable on your Maternity Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá d'íocaíocht leasa shóisialaigh inchánaithe, tá anMéadú do Mhaireachtáil Aonair inchánaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your only income is Maternity Benefit you will probably pay very little or no tax (since your total tax credits will probably exceed your total tax liability)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura mbíonn d'íocaíocht leasa shóisialaigh inchánaithe, níl do Mhéadú do Mhaireachtáil Aonair inchánaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Alternatively, when you go back to work after maternity leave, any refund of tax which may be due can be calculated</seg></tuv>
+  <tuv xml:lang="ga"><seg>De ghnáth, níl an Liúntas Cúram Baile agus an Liúntas Breosla inchánaithe</seg></tuv>
+</tu>
+</body>
+</tmx>

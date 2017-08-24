@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Article 28 of Bunreacht na hÉireann (the Irish Constitution) sets out the composition of Government</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagann alt 28 Bunreacht na hÉireann síos comhdhéanamh na Rialtais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Constitution states that the Government must not be smaller than 7 members or larger than 15 members</seg></tuv>
+  <tuv xml:lang="ga"><seg>Deireann Bunreacht na hÉireann go bhfuil gá le níos mó ná 7 mball agus gan níos mó ná 15 ball a bheith in aon Rialtas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Taoiseach is the head of the Irish Government</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an Taoiseach i gceannas an Rialtais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He or she is nominated by the Dáil (one of the houses of Parliament) and formally appointed by the Irish President</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann an Dáil a hainm nó a ainm ar aghaidh agus glacann an tUachtarán go foirimiúil leis an ainmiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Normally, each of the political parties or a coalition of parties will have its own nominee for Taoiseach</seg></tuv>
+  <tuv xml:lang="ga"><seg>De ghnáth cuireann gach páirtí polaitiúil, nó gach comhrialtas páirtithe, ainm chun cinn le seasamh mar Thaoiseach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The nominee who has the support of the majority of the members of the Dáil will become Taoiseach</seg></tuv>
+  <tuv xml:lang="ga"><seg>An té a fhaigheann tacaíocht ó thromlach na mball sa Dáil a bheidh ina T(h)aoiseach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Taoiseach then nominates the other members of the Government and gives each of them a Department of State</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ainmníonn an Taoiseach, ansin, baill eile den Rialtas agus tugann Roinn Stáit dóibh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They are approved by the Dáil and appointed by the President. You can view this list of current Irish Government Ministers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigheann siad seo tacaíocht na Dála agus glacann an tUachtarán leis an gceapáchán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the Government is made up of 2 or more political parties, it is called a coalition government</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá níos mó ná páirtí polaitiúil amháin sa Rialtas tugtar comhrialtas ar an gcinéal seo Rialtais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The 2 parties will share the positions in the Government - usually the position of Tánaiste is given to the leader of the smaller party in coalition</seg></tuv>
+  <tuv xml:lang="ga"><seg>Roinneann na páirtithe na postanna sa Rialtas - de ghnáth tugtar post an Tánaiste do cheannaire an pháirtí is lú sa chomhrialtas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The members of the Government must be members of either Dáil Éireann or Seanad Éireann</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór do bhaill an Rialtais a bheith ina mbaill de Dáil Éireann nó ina mbaill de Sheanad Éireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There cannot be more than 2 members of Seanad Éireann appointed to the Government</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir níos mó na beirt bhall de Sheanad Éireann a bheith ina mbaill den Rialtas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Taoiseach, the Tánaiste and the Minister for Finance must be members of Dáil Éireann</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh an Taoiseach, an Tánaiste agus an tAire Airgeadais a bheith ina mbaill de Dháil Éireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Taoiseach may also appoint Ministers of State who are also known as Junior Ministers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis an Taoiseach Airí Stáit a roghnú freisin, ainm eile a thugtar orthu ná Airí Sóisearacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They are not actually members of the Cabinet but they help Government ministers in their parliamentary and departmental work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní baill den chomh-aireacht iad ach cuidíonn siad leis na hAirí Rialtais ina gcuid oibre Rialtais agus ina gcuid oibre sa Roinn atá faoina gcúram</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Taoiseach will also appoint an Attorney General to advise the Government on legal issues</seg></tuv>
+  <tuv xml:lang="ga"><seg>Roghnaíonn an Taoiseach Ard-Aighne, freisin, chun comhairle dlí a chuir ar fáil don Rialtas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Attorney General is not a member of the Government but he/she traditionally attends at Cabinet meetings</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní ball den Rialtas An tArd-Aighne ach de réir traidisiún déanann sé/sí freastal ar chruinnithe den chomh-aireacht</seg></tuv>
+</tu>
+</body>
+</tmx>

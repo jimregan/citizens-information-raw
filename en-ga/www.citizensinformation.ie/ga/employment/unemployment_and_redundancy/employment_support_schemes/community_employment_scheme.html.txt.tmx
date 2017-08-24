@@ -1,0 +1,417 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>The Community Employment (CE) programme is designed to help people who are long-term unemployed and other disadvantaged people to get back to work by offering part-time and temporary placements in jobs based within local communities</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an clár Fhostaíochta Pobail (FP) dírithe ar chúnamh a thabhairt do dhaoine atá dífhostaithe go fadtéarmach agus daoine eile atá faoi mhíbhuntáiste a chur ar ais ag obair tríd áiteanna páirtaimseartha agus sealadacha a chur ar fáil dóibh i bpoist atá lonnaithe sna pobail áitiúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Participants can take up other part-time work during their placement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le rannpháirtithe dul i gceann obair eile pháirtaimseartha freisin nuair atá siad ag plé leis an scéim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>After the placement, participants are encouraged to seek permanent part-time and full-time jobs elsewhere based on the experience and new skills they have gained while in a Community Employment scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tar éis don scéim críochnú spreagtar na rannpháirtithe le poist páirtaimseartha agus lánaimseartha eile a lorg bunaithe ar an taithí agus na scileanna nua atá faighte acu ar an Scéim Fhostaíochta Pobail</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Community Employment programme is administered by the Department of Social Protection (DSP)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an clár Fhostaíochta Pobail riartha ag an Roinn Coimirce Sóisialaí (RCS)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Community Employment sponsors - the voluntary organisations or public bodies that manage CE schemes - plan and manage CE placements</seg></tuv>
+  <tuv xml:lang="ga"><seg>Pleanálfaidh agus bainisteoidh urraitheoirí Fostaíochta Pobail – eagraíochtaí deonacha nó comhlachtaí poiblí – do shocrúchán FP</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They sponsor local or community projects that meet an identified community need</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann siad urraíocht ar thionscadail áitiúla nó pobail a shásaíonn gá pobail aitheanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Since 2013 there is a CE Childcare Training and Development Programme for CE participants who wish to pursue a career in childcare</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó 2013, cuirtear Clár Oiliúint agus Forbairt Cúraim Leanaí FP i bhfeidhm i leith rannpháirtithe FP gur mian leo lean ar aghaidh le gairm chúraim leanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is a 3-year programme of formal learning and work experience leading to a NFQ Level 5 qualification in early childhood care and education</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ea clár foghlama foirmiúil agus taithí oibre 3 bliana as a dtiocfaidh cáilíocht CNC Leibhéal 5 i gcúram agus oideachas luath-óige</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are 2 different categories of Community Employment (CE), each with its own set of eligibility requirements</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá 2 chatagóir Fostaíochta Pobail difriúla agus bíonn a riachtanais iontrála féin ag gach aon cheann acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is a maximum time limit for Community Employment participation of 3 years, subject to DSP approval</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad na catagóirí ná an Rogha Chomhtháite Pháirtaimseartha agus an Rogha Poist Páirtaimseartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is possible to re-qualify for CE after 12 months on a qualifying payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat páirt a ghlacadh ceachtar iontu ach ní féidir leat páirt a ghlacadh sa bheirt ag an am céanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An overall lifetime limit of 6 years applies to all CE participants</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá uasteorainneacha rannpháirtíochta Fostaíochta Pobail – 3 bhliain i gcás daoine faoi bhun 55 bliain d’aois agus 6 bliana dóibh siúd atá os cionn 55 bliain d’aois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are getting one of the specified disability payments you may be eligible for an additional year’s participation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhaigheann tú íocaíocht míchumais sonraithe, d’fheadfá cáiliú bliain rannpháirtíochta breise a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Time spent on CE before 1 January 2007 is not counted in these participation limits</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní áirítear am caite ar FP roimh 3 Aibreán 2000 sna teorainneacha rannpháirtíochta seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under a pilot scheme which started on 4 January 2016 new and existing CE participants aged 62 and over may be eligible to participate on Community Employment continuously until they reach State pension age</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi scéim phíolótach a thosaíonn an 4 Eanáir 2016, d’fhéadfadh rannpháirtithe FP nua agus reatha páirt a ghlacadh i bhFostaíocht Phobail go leanúnacha suas go dtí aois pinsin Stáit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The CE Part-time Integration Option allows you to work under the Community Employment scheme for a maximum of 1 year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceadaíonn an Rogha Chomhtháite Pháirtaimseartha thú chun obair faoin scéim fostaíochta pobail suas go bliain amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It may be possible to have your one-year placement extended, subject to DSP approval and the availability of places and budget</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seans gur féidir scéim bliana a fhadú bliain amháin eile ag brath ar fhaomhadh RCS agus fáil áiteanna agus buiséad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Generally participants complete their one-year placement and then seek a permanent full-time or part-time job elsewhere</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go hiondúil críochnaíonn na rannpháirtithe an sochrúchán bliana agus téann siad ag lorg post lán nó páirtaimseartha in áiteanna eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may qualify for participation in the CE Part-time Integration Option if:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat a bheith cáilithe le páirt a ghlacadh sa Rogha Chomhtháite Pháirtaimseartha den Scéim Fhostaíochta Pobail má:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are aged 21 years or older and:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tú 25 bliain d'aois nó níos sine agus:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Unemployed and getting any combination of the following payments: Jobseeker's Benefit (JB), Jobseeker's Allowance (JA), Jobseeker's Transitional payment (JST), One-Parent Family Payment (OFP), Deserted Wife’s Benefit, Widow's, Widower's or Surviving Civil Partner's Contributory Pension, Widow's, Widower's or Surviving Civil Partner's Non-Contributory Pension or Farm Assist for at least 12 months - see 'Eligibility period' below</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Dífhostaithe agus ag fáil aon chinn de na híocaíochtaí seo a leanas: Shochar Cuardaitheora Poist (SCP), Liúntas Cuardaitheora Poist (LCP), Íocaíocht Teaghlaigh Aontuismitheora (ITA), Sochar Banchéile Thréigthe, Phinsean Neamh-Ranníocach Baintrí, Baintrí Fir nó Pháirtnéara Shibhialta Mharthanaigh, Phinsean Ranníocach Baintrí, Baintrí Fir nó Pháirtnéara Shibhialta Mharthanaigh nó Chúnamh Feirme ar feadh 12 mhí ar a laghad - féach 'Tréimhse incháilitheachta' thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are aged 18 years and over and:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tú atá 18 mbliana d'aois nó níos sine agus:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A member of the Traveller community, unemployed and getting Jobseeker's Benefit or Jobseeker's Allowance for any period or One-Parent Family Payment for at least 1 year</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Is ball den Lucht Siúil tú, dífhostaithe agus ag fáil Shochar Cuardaitheora Poist, Liúntas Cuardaitheora Poist nó Íocaíocht Teaghlaigh Aontuismitheora ar feadh bliain amháin ar a laghad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Getting Disability Allowance, Blind Person's Pension or Invalidity Pension</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag fáil Liúntais Míchumais, Pinsin na nDall, nó Pinsin Easláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Getting Illness Benefit for at least 6 months</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag fáil Shochar Breoiteachta ar feadh 6 mhí ar a laghad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A refugee authenticated by the Department of Justice and Equality (Garda Registration Certificate with Stamp 4) and getting a social welfare payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Is dídeanaí tú atá fíordheimhnithe ag an Roinn Dlí agus Cirt agus Comhionannais (Teastas clárúcháin na nGardaí le stampa 4) agus ag fáil íocaíocht leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• An ex-offender who has been referred by the Probation Service or other designated service, or an ex-offender not referred by a designated service who has been getting JA or JB for 12 months</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Is iar-chiontóir thú atá curtha chuig an Scéim Fostaíochta Pobail ón tSeirbhís Phromhaidh nó seirbhís ainmnithe eile nó is iar-chiontóir thú nach bhfuil curtha ó sheirbhís ainmnithe agus ag fáil SCP nó LCP ar feadh 12 mhí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Referred following an appropriate assessment according to the National Drugs Rehabilitation Framework protocols</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Atreoraithe i ndiaidh measúnú cuí de réir prótacal na Creatlaí Náisiúnta um Athshlánú ó Dhrugaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Living on one of the offshore islands and currently in receipt of a CE-qualifying payment for 6 months or more</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag maireachtáil i gceann de na hoileáin mhara agus ag fáil íocaíocht incháilithe le haghaidh FP ar feadh 6 mhí nó níos mó láithreach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The CE Part-Time Job Option provides participants with part-time work placements for 1 year initially, with annually renewable contracts for another 2 years, subject to DSP approval and the availability of places and budget</seg></tuv>
+  <tuv xml:lang="ga"><seg>Soláthraíonn an Rogha Poist Páirtaimseartha FP obair pháirtaimseartha ar fáil ar feadh bliain amháin ar dtús, agus conarthaí bliantúla in-athnuaite ar feadh 2 bhliain eile ag brath ar fhaomhadh RCS agus fáil áiteanna agus buiséad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This option is designed to give extended access to employment to older people who may have been unable to secure regular employment for some time</seg></tuv>
+  <tuv xml:lang="ga"><seg>An aidhm atá leis an rogha ná fostaíocht a chur ar fáil ar feadh tréimhse réasúnta fadtéarmach do dhaoine meánaosta nach raibh in ann fostaíocht sheasta a fháil le tamall anuas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may qualify for participation in the CE Part-Time Job Option if:</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh sé go mbeadh tú incháilithe don Rogha Phoist Páirtaimseartha FP má:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are aged 35 years or older and you:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tú 35 bliana nó níos sine agus:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Have been getting any combination of the following payments: Jobseeker's Benefit, Jobseeker's Allowance, Jobseeker’s Transitional payment (JST), One-Parent Family Payment (OFP), Widow's, Deserted Wife's Benefit, Widower's or Surviving Civil Partner's Contributory Pension, Widow's, Widower's or Surviving Civil Partner's Non-Contributory Pension or Farm Assist for at least 3 years - see 'Eligibility period' below</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tar éis a bheith ag fáil aon chinn de na híocaíochtaí seo a leanas: Shochar Cuardaitheora Poist (SCP), Liúntas Cuardaitheora Poist (LCP), Íocaíocht Idirthréimhseach Cuardaitheora Poist (IICP), Íocaiocht Teaghlaigh Aontuismitheora (ITA), Sochar Banchéile Thréigthe, Phinsean Ranníocach Baintrí, Baintrí Fir nó Pháirtnéara Shibhialta Mharthanaigh, Phinsean Neamh-Ranníocach Baintrí, Baintrí Fir nó Pháirtnéara Shibhialta Mharthanaigh nó Chúnamh Feirme ar feadh 3 bliana ar a laghad - féach 'Tréimhse incháilitheachta' thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Getting Disability Allowance, Blind Person's Pension or Invalidity Pension</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag fáil Liúntas Míchumais, Pinsean na nDall nó Pinsean Easláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Getting Illness Benefit for at least 6 months</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag fáil Sochar Breoiteachta ar feadh 6 mhí ar a laghad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• An ex-offender who has been referred by the Probation Service or other designated service, or an ex-offender not referred by a designated service who has been getting JA or JB for 3 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Is iar-chiontóir thú atá curtha chuig an Scéim Fostaíochta Pobail ón tSeirbhís Phromhaidh nó seirbhís ainmnithe eile nó is iar-chiontóir thú nach bhfuil curtha ó sheirbhís ainmnithe agus ag fáil SCP nó LCP ar feadh 3 bliain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are 18 years of age or over and:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú 18 mbliana d’aois nó níos sine agus:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A member of the Traveller community getting Jobseeker's Benefit, Jobseeker's Allowance or One-Parent Family Payment for at least 1 year</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Is ball den Lucht Siúil tú, ag fáil Shochar Cuardaitheora Poist, Liúntas Cuardaitheora Poist nó Íocaíocht Teaghlaigh Aontuismitheora ar feadh bliain amháin ar a laghad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A refugee authenticated by the Department of Justice and Equality (Garda Registration Certificate with Stamp 4) and getting a social welfare payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Is teifeach thú, aitheanta ag an Roinn Dlí agus Cirt agus Comhionannais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Referred following an appropriate assessment according to the National Drugs Rehabilitation Framework protocols’</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Atreoraithe i ndiaidh measúnú cuí de réir prótacal na Creatlaí Náisiúnta um Athshlánú ó Dhrugaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Living on one of the offshore islands and currently in receipt of a CE-qualifying payment for 6 months or more</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag maireachtáil ar cheann de na hoileáin mhara agus ag fáil íocaíocht incháilithe le haghaidh FP ar feadh 6 mhí nó níos mó láithreach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In general, the qualifying period is 1 year for the Part-time Integration Option and 3 years for the Part-time Job Option</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, is ea an tréimhse incháilitheachta 1 bhliain don Rogha Chomhtháite Pháirtaimseartha agus 3 bhliain don Rogha Poist Pháirtaimseartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you were getting Basic Supplementary Welfare Allowance (SWA) prior to receiving Jobseeker's Benefit, Jobseeker's Allowance, One-Parent Family Payment, Widow's, Widower's or Surviving Partner’s Contributory Pension, Widow's, Widower's or Surviving Partner’s Non-Contributory Pension, Deserted Wife’s Benefit or Farm Assist, this time on SWA can also count towards the CE-qualifying period provided there are no breaks between different payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má bhí tú ag fáil Liúntas Leasa Forlíontach bunúsach roimh ag fáil Shochar Cuardaitheora, Poist Liúntas Cuardaitheora Poist, Íocaíocht Idirthréimhseach Cuardaitheora Poist (IICP), Íocaíocht Teaghlaigh Aontuismitheora, Phinsean Neamh-Ranníocach Baintrí, Baintrí Fir nó Pháirtnéara Shibhialta Mharthanaigh, Phinsean Ranníocach Baintrí, Baintrí Fir nó Pháirtnéara Shibhialta Mharthanaigh, Shochar Banchéile Thréigthe, nó Chúnamh Feirme, is féidir é seo a áireamh i gcomhair do thréimhse incháilitheachta bhliain amháin, ar an gcoinníoll nach bhfuil aon bhriseadh idir íocaíochtaí difriúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you were getting Carer's Allowance this can also count towards the eligibility period but your caring responsibilities must have ceased and you must currently be getting either JA, JB. JST or OFP</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má bhí tú ag fáil Liúntas Cúramóra, is féidir é seo a áireamh i gcomhair do thréimhse incháilitheachta bhliain amháin, ach ní mór do do chúraimí cúramóra a bheith críochnaithe agus ní mór duit a bheith ag fáil SCP, LCP, IICP nó ITA faoi láthair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Those getting JB or JA are allowed a maximum of 30 worked days in each of the qualifying years before starting a CE scheme when assessing eligibility</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Nuair a bheidh cáilitheacht á mheasúnú, ceadaítear daoine a fhaigheann SCP nó LCP uasmhéid 30 lá oibrithe i ngach bliain den tréimhse incháilitheachta roimh thosú scéim FP</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Time spent on one of the above disability payments can count towards the eligibility period, provided there is no break, for example, 3 months on Illness Benefit followed immediately by 9 months on Jobseeker’s Allowance or 12 months on Illness Benefit followed immediately by 24 months on Jobseeker’s Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Is féidir am caite ar cheann de na híocaíochtaí míchumais thuas a áireamh i gcomhair do thréimhse incháilitheachta, ar an gcoinníoll nach bhfuil aon bhriseadh, mar shampla, 12 mhí ar Shochar Breoiteachta, agus ina dhiaidh sin 24 mí ar Liúntas Cuardaitheora Poist nó 3 mhí ar Shochar Breoiteachta, agus ina dhiaidh sin 9 mí ar Liúntas Cuardaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Time spent on CE no longer counts towards continued time on CE for new participants who start on or after 8 October 2012</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní áireofar am caite ar FP a thuilleadh le haghaidh ama leanúnach ar FP i gcomhair rannpháirtithe nua a thosaíonn ar nó i ndiaidh 8 Deireadh Fómhair 2012</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Generally, time spent on Tús, Gateway, Rural Social Scheme, JobBridge, Back to Education Allowance or Springboard will not count towards the eligibility period</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Go ginearálta, ní áireofar am caite ar Tús, Gateway, Scéim Sóisialta Tuaithe, JobBridge, Liúntas chun Filleadh ar Oideachas nó Springboard i gcomhair do thréimhse incháilitheachta 3 bhliain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are some exceptions and you can read more about these and the other eligibility requirements for the Part-time Integration Option and the Part-time Job Option on welfare.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá cúpla eisceacht agus is féidir léigh tuilleadh fúthu agus faoi na riachtanais cháilitheachta don Rogha Chomhtháite Pháirtaimseartha nó don Rogha Poist Pháirtaimseartha ar welfare.ie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Swap with qualified adult</seg></tuv>
+  <tuv xml:lang="ga"><seg>Babhtáil duine fásta cáilithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The spousal swap option is no longer open to new CE participants since 16 September 2013</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó 16 Meán Fómhair 2013, níl an rogha babhtáil do chéile ar fáil do rannpháirtithe FP nua</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>People currently availing of a swap with a qualified adult are not affected</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon tionchar ar dhaoine a fhaigheann an rogha babhtáil do dhuine fásta cáilithe láithreach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Working on a CE scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag obair i scéim FP</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The average number of working hours for placements is 39 hours per fortnight</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar an meán is 39 uair an chloig oibre a dhéantar sa choicís don socrúchán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are paid weekly by your sponsor and have certain statutory employment rights including annual leave, public holidays, maternity leave and a written statement of your terms and conditions of employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocann d’urraitheoir leat go seachtainiúil. Tá cearta fostaíochta áirithe agat: saoire bhliantúil, laethanta saoire phoiblí, saoire mháithreachais agus ráiteas scríofa faoi théarmaí agus coinníollacha fostaíochta san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Tax may be deducted from your pay if applicable but your CE pay is exempt from the Universal Social Charge</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baintear cáin as do phá ach tá do phá FP díolmhaithe ón Muirear Sóisialta Uilíoch</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>CE participants pay PRSI at Class A8/A9 which counts as a full Class A contribution</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocann rannpháirtithe i scéimeanna Fhostaíochta Pobail ranníocaíocht ÁSPC ag Aicme A8/A9 agus áirítear é mar lánranníocaíocht ÁSPC Aicme A</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your CE payment is less than €352 a week you do not pay any employee contribution</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá d’íocaíocht FP níos lú ná €352 sa tseachtain, ní íocfá aon ranníocaíocht fostaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your CE payment is over €352 a week you pay an employee PRSI contribution</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá d’íocaíocht FP níos mó ná €352 sa tseachtain, d’íocfá ranníocaíocht ÁSPC fostaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>More information is available in the Community Employment Procedures Manual</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh faisnéise ar fáil sa Lámhleabhar Nósanna Imeachta Fostaíocht Pobail</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Age limit: Funding is not provided for CE participants who have reached the qualifying age for a State pension, that is:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Teorann ama: Ní chuirtear maoiniú ar fáil i gcás oibrithe sa Scéim Fostaíochta Pobail atá aois cháilitheach do phinsean Stáit mar a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• 66 for those born before 1 January 1955</seg></tuv>
+  <tuv xml:lang="ga"><seg>• 66 le haghaidh daoine a shaolaíodh roimh 1 Eanáir 1955</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• 67 for those born on or after 1 January 1955</seg></tuv>
+  <tuv xml:lang="ga"><seg>• 67 le haghaidh daoine a shaolaíodh ar nó i ndiaidh 1 Eanáir 1955</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• 68 for those born on or after 1 January 1961</seg></tuv>
+  <tuv xml:lang="ga"><seg>• 67 le haghaidh daoine a shaolaíodh ar nó i ndiaidh 1 Eanáir 1955</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Childcare: If you need childcare in order to become a CE participant, you may be eligible for the Community Employment Childcare (CEC) programme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cúram leanaí: Más gá duit cúram leanaí chun bheith rannpháirtí FP, d’fhéadfá bheith i dteideal an clár Cúraim Leanaí Fostaíochta Pobail (CLFP) a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It provides subsidised childcare places for children up to the age of 13</seg></tuv>
+  <tuv xml:lang="ga"><seg>Soláthraíonn sé áiteanna cúraim leanaí do leanaí suas go 13 bliana d’aois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should contact your sponsor for more details about the CEC programme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir duit dul i dteagmháil le d’urraitheoir chun sonraí faoin chlár CLFP a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Since 16 January 2012 new participants on Community Employment (CE) schemes cannot claim another social welfare payment at the same time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó 16 Eanáir 2012 ní féidir le rannpháirtithe nua i scéimeanna Fhostaíochta Pobail (FP) íocaíocht leasa shóisialaigh ag an am céanna a éileamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>New participants are people who have not been employed on a CE scheme in the previous 12 months</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sainítear rannpháirtithe nua mar iad sin nach raibh fostaithe ar scéim FP sa 12 mhí roimhe seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Existing participants on One-Parent Family Payment, Deserted Wife's Benefit, disability payments and widow’s, widower’s or surviving civil partner’s pensions will continue to get their social welfare payment until they are no longer eligible to participate in a CE scheme or they leave the scheme voluntarily</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leanfaidh rannpháirtithe reatha, a fhaigheann Íocaíocht Teaghlaigh Aontuismitheora, Sochar Banchéile Thréigthe nó Pinsean Baintrí, Baintrí Fir nó Pháirtnéara Shibhialta Mharthanaigh (Ranníocach) a íocaíocht leasa shóisialaigh a fháil go dtí nach mbeidh siad cáilithe chun bheith páirteach i scéim FP nó go bhfágfaidh siad an scéim go deonach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Qualified child increases: Since 20 February 2012 if a person is on a CE scheme and getting One-Parent Family Payment, Deserted Wife's Benefit or Widow's, Widower's or Surviving Civil Partner's Contributory Pension, payment of 2 qualified child increases ceased for both new and existing participants</seg></tuv>
+  <tuv xml:lang="ga"><seg>Méaduithe do leanbh cáilithe: Má tá duine páirteach i scéim FP agus má fhaigheann siad Íocaíocht Teaghlaigh Aontuismitheora, Sochar Banchéile Thréigthe nó Pinsean Baintrí, Baintrí Fir nó Pháirtnéara Shibhialta Mharthanaigh (Ranníocach), ó 20 Feabhra 2012 ní íoctar 2 méadú do leanbh cáilithe níos mó d’fhaighteoirí nua agus reatha – féach ‘Íocaíochtaí leasa shóisialaigh’ thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Existing participants get the qualified child increase on their social welfare payment and get the personal rate for a CE participant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigheann rannpháirtithe reatha an méadú do leanbh cáilithe lena íocaíocht leasa shóisialaigh agus an ráta pearsanta do rannpháirtí FP</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>New CE participants get the qualified child increase with their CE payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigheann rannpháirtithe nua an méadú do leanbh cáilithe lena íocaíocht FP</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Other payments and CE: If you get a place on a CE scheme and your spouse or partner is claiming Jobseeker's Allowance (JA), Disability Allowance (DA) or Farm Assist in their own right, they can claim an Increase for a Qualified Adult with their JA, DA or Farm Assist</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocaíochtaí eile agus FP: Má fhaigheann tú áit ar scéim FP agus má fhaigheann do chéile nó pháirtnéir Liúntas Cuardaitheora Poist (LCP), Liúntas Míchumais (LM) nó Cúnamh Feirme dóibh féin, is féidir leo Méadú i leith Duine Fásta Cáilithe leis an LCP, LM nó Cúnamh Feirme a éiligh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your income from the CE scheme (as a single person) is then assessed as insurable employment against their payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ansin déantar measúnú ar d’ioncam ón scéim FP (mar dhuine singil) mar fhostaíocht inárachais i leith na híocaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will retain your medical card</seg></tuv>
+  <tuv xml:lang="ga"><seg>Coimeádfaidh tú do Chárta Leighis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will retain an entitlement to the extra benefits you were receiving immediately before going onto Community Employment provided you continue to satisfy the conditions for these benefits</seg></tuv>
+  <tuv xml:lang="ga"><seg>Coimeádfaidh tú teidlíocht ar shochair breise a bhí tú ag fáil díreach roimh dhul ar aghaidh go dtí Fostaíocht Pobail ar chuntar go sásaítear na coinníollacha le haghaidh na liúntais seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The amount of Rent Supplement which you get may be reduced</seg></tuv>
+  <tuv xml:lang="ga"><seg>Laghdófar an méid Liúntais Cíosa a fhaigheann tú, áfach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may be able to keep part of your Mortgage Interest Supplement</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfá cuid de do Liúntas Us Morgáiste a choimeád</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Department of Social Protection offers grants to sponsors towards the cost of hiring people under the scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann an Roinn Coimirce Sóisialaí deontais ar fáil d'urraiteoirí le cabhrú leo daoine a fhostú faoin scéim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The minimum weekly payment for new participants based on 19.5 hours worked is €215.50 with effect from 13 March 2017</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó Márta 2017 is an t-íosráta íocaíochta seachtainiúil do rannpháirtithe nua €215.50 bunaithe ar fhigiúr 19.5 uaireanta oibre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>From March 2017, if the actual social welfare payment (including dependants) you were getting was €193 a week or less, then you will get the minimum CE weekly rate of €215.50 (that is €193 plus €22.50). If your actual weekly social welfare payment (including dependants) was €193.01 or more, then you will get the equivalent rate plus €22.50</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más €193 nó níos lú sa tseachtain é an íocaíocht leasa shóisialaigh iarbhír (cleithiúnaithe san áireamh) atá á fáil agat, gheobhaidh tú an t-íosráta seachtainiúil €215.50 (sin é €193 móide €22.50) Más €193.01 nó níos mó sa tseachtain é an íocaíocht leasa shóisialaigh iarbhír (cleithiúnaithe san áireamh) atá á fáil agat, gheobhaidh tú an ráta coibhéiseach móide €22.50</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Additional income: If you have any additional income, for example, from part-time work, it will not affect your CE payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ioncam breise: Má tá aon ioncam breise agat, mar shampla, ioncam ó obair páirtaimseartha, ní bheidh aon tionchar ar d’íocaíocht FP</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, the rules on change of circumstances that apply to your original social welfare payment also apply to your CE payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áfach, baineann na rialacha le haghaidh athraithe i do chúinsí féin le do bhuníocaíocht leasa shóisialaigh le d’íocaíocht FP freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, if your qualified adult gets a job, their income will be assessed as means and your CE payment may be reduced</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, má fhaigheann do dhuine fásta cáilithe post, déanfar a n-ioncam a mheas mar acmhainní agus d'fhéadfadh go laghdófar d’íocaíocht FP</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your CE payment cannot be reduced below the minimum rate of €215.50</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní fhéadfadh í faoi bhun an íosráta €208 a laghdaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In order to avoid any possible overpayments, if there is any change in your circumstances, you should immediately inform your CE supervisor and the local DSP Community Development Officer responsible for your CE scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun ró-íocaíocht a sheachaint, má tá aon athrú i do chúinsí féin, ba chóir duit cuir in iúl do mhaoirseoir FP agus an tOifigeach Forbartha Pobail RCP áitiúil atá freagrach as do scéim FP</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(Your CE supervisor will give you contact details for the local DSP Community Development Officer.) There is more information about change of circumstances in section 3.2.6 of the Community Employment Procedures Manual</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Tugann do mhaoirseoir FP thú sonraí teagmhála den Oifigeach Forbartha Pobail RCP áitiúil.) Tá tuilleadh faisnéise maidir le hathrú i do chúinsí féin in alt 3.2.6 ar fáil an Lámhleabhar Nósanna Imeachta Fostaíocht Pobail</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Spouses or partners and CE: If you are on a CE scheme and your spouse or partner gets a place on a CE scheme, you will each get a single rate of the CE payment together with half of the Increases for a Qualified Child for any dependent children</seg></tuv>
+  <tuv xml:lang="ga"><seg>Céilí nó páirtnéirí agus FP: Má tá tú ar scéim FP agus má fhaigheann do chéile nó do pháirtnéir áit ar scéim FP, gheobhaidh gach duine agaibh ráta singil íocaíochta FP chomh maith le leath a Mhéadú Linbh Cáilithe le haghaidh aon linbh cleithiúnach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are a limited number of Community Employment (CE) places available</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá líon teoranta postanna ar fáil mar chuid den Scéim Fostaíochta Pobail (FP)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you want to participate in a CE scheme contact your local Intreo Centre for information about CE job opportunities</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mian leat páirt a ghlacadh i Scéim FP déan teagmháil le d'oifig seirbhísí fostaíochta áitiúil chun dheiseanna fostaíochta faoin Scéim FP a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Job listings are also available online</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá liostaí fostaíochta ar fáil ar an idirlín</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Voluntary organisations and public bodies may sponsor CE projects which are for community and public benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le heagraíochtaí deonacha nó comhlachtaí poiblí urraíocht a dhéanamh ar thionscadail Fhostaíochta Pobail ar son sochair pobail agus poiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They should contact their local Intreo Centre for more information</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir dóibh dul i dteagmháil leis an oifig seirbhísí fostaíochta áitiúil chun tuilleadh faisnéise a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Leaving and re-entry to Community Employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fágáil agus athiontráil ar Fhostaíocht Pobail</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you leave a CE scheme, you cannot participate in another CE scheme for 12 months after you leave and you must be getting a qualifying payment for those 12 months</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhágann tú scéim FP, ní féidir leat páirt a ghlacadh i scéim FP eile ar feadh 12 mhí tar éis d’fhágáil. Caithfidh tú bheith ag fáil íocaíocht cáilithe le linn na 12 mhí seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are being re-engaged, that is, if you are continuing for another year on your CE scheme, you are not required to have this 12-month break</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú athfhostaithe, is é sin, má leanann tú ar feadh bliain eile ar do scéim FP, ní gá duit an briseadh 12 mhí a bheith agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have the opportunity of full-time work you can take one period of temporary unpaid leave with your sponsor’s agreement for up to 26 weeks</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá seans obair lánaimseartha agat agus má aontaíonn d’urraitheoir, is féidir tréimhse saoire neamhíoctha amháin suas go dtí 26 seachtain a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the work opportunity continues beyond 26 weeks, you must leave the CE scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má leanann an obair thar 26 seachtain, caithfidh tú an scéim FP a fhágáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Contact your local Intreo Centre</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déan teagmháil le d'ionad Intreo nó d'oifig seirbhísí fostaíochta áitiúil</seg></tuv>
+</tu>
+</body>
+</tmx>

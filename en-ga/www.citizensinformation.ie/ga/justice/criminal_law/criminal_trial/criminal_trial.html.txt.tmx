@@ -1,0 +1,261 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>There are two types of criminal offences:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá dhá chineál coir choiriúil ann;</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Summary offences, that is, offences that are tried by a judge sitting alone</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cionta Achomaire, sé sin, cionta a thagann ós comhair Breithimh atá ina aonar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Indictable offences, that is, offences that can be tried by a judge and jury</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cionta indíotáilte , sé sin, cionta a thagann ós comhair Breithimh agus giuiré le chéile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Certain indictable offences may be tried summarily</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir cionta indíotáilte áirithe a thriail go hachomair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are accused of a criminal offence, you may qualify for criminal legal aid, which provides free legal representation in criminal cases</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá cion coiriúil curtha i do leith b'fhéidir go bhfuil tú i dteideal cúnamh dlí choiriúil, rud a thugannionadaíocht dlí i gcásanna coiriúla saor in aisce duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are two types of trial:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá dhá chineál trialach ann:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A summary trial - a trial conducted by a judge sitting alone</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Triail achomaire - triail ós comhair breithimh atá ina aonar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Trial by jury - a trial conducted by a judge sitting with a jury</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Triail ghiúré - triail ós comhair breithimh agus giúré le chéile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Summary trials are heard in the District Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chloiseann siad trialacha achoimre sa Chúirt Dúiche</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are charged with an indictable offence, the District Court Judge will send you forward to the Circuit Court or the Central Criminal Court (High Court) for trial by jury providing the Director of Public Prosecutions (DPP) consents to it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú cúisithe i gcion indíotáilte, cuireann an Chúirt Dúiche Breitheamh tú ar aghaidh chuig an gCúirt Chuarda nó Phríomh-Chúirt Choiriúil (Ard-Chúirt) chun trialach le giúiré má aontaíonn an Stiúrthóir Ionchúiseamh Poiblí (DPP)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The court that will hear and decide on your case depends on the type of offence involved</seg></tuv>
+  <tuv xml:lang="ga"><seg>Braitheann sé ar an gcinneál cion atá i gceist cén chúirt a éisteann an cás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Before the actual trial takes place, there are a number of issues that come up including the disclosure of evidence and the option of pleading guilty</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sula dtagann an cás chun trialach, tá roinnt nithe eile nach mór a bheith ullamh, ina measc seo tá fianaise a nochtadh agus an rogha maidir le pléadáil ciontach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>After the trial, there is sentencing</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tar éis na trialach, tagann an bhreith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>At any stage in criminal proceedings against you in court, you may decide to plead guilty to the offence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat pléadáil ciontach ag aon am le linn an cháis atá curtha i do leith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are charged with a summary offence you plead guilty in the District Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá cion achomaire curtha i do leithpléadáilfidh tú ciontach sa Chúirt Dúiche </seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The District Court Judge will then issue your sentence after listening to your legal representative and the prosecution (usually a member of An Garda Siochana - the Irish police force)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabharfaidh an Breitheamh sa Chúirt Dúiche a bhreith/breith agus gearrfaidh sé/sí breith ort tar éis dó/di éisteacht le do ionadaí dleathach agus lena bhfuil le rá ag na cúisitheoirí (Gárda a bhíonn ann de ghnáth)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are charged with an indictable offence and you decide to plead guilty when you appear in the District Court, you will be required to sign pleas of guilt</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá cion indíotáilte curtha i do leith agus go bhfuil tú ag pléadáil ciontach sa Chúirt Dúiche, beidh ort "pléadálanna an chiontaigh" a shiniú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Before you sign the pleas of guilt, the District Judge will first make sure that you are aware of the facts alleged against you and that you understand the nature of the offence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sula síníonn tú an cáipéis seo déanfaidh an breitheamh cinnte de go bhfuil a fhios agat céard í an choir atá curtha i do leith agus go dtuigeann tú na fíricí a bhaineann leis an gcás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will then be sent forward to the Circuit Court for sentencing</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirfear ar aghaidh ansin tú chuig an Chúirt Chuarda áit a dtabharfar breith ort</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you change your mind, you may withdraw your pleas of guilt at the Circuit Court and the trial will go ahead</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má thagann athrú intinne ort is féidir leat do phléadáil ciontach a tharraingt siar agus rachaidh an triail ar aghaidh ansin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have pleaded not guilty in the District Court and you have been sent forward for trial by a judge and jury, you may then decide to plead guilty to the offence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má phléadáil tú "neamh chiontach" sa Chúirt Dúiche agus go bhfuil tú seolta ar aghaidh chun trialach faoi bhreitheamh agus giúiré, is féidir leat ansin pléadáil "ciontach" don choir atá curtha i do leith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you plead guilty at the Circuit Court, you will stand convicted and the court will then decide your sentence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má deireann tú go bhfuil tú ciontach sa Chúirt Chuarda, beidh tú ciontaithe agus déanfaidh an chúirt cinneadh faoin mbreith atá le tabhairt ort</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are charged with a summary offence, a judge sitting without a jury will decide your case</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá cion achomaire curtha i do leith, beidh do chás ós comhair breitheamh gan aon ghiúiré i láthair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It will take place in the District Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh sé ar siúl sa Chúirt Dúiche</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A summary trial will usually take the following format</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh an leagan amach seo ar thriail achomaire:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The Registrar of the District Court will call your case by its name</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Glaofaidh Cláraitheoir na Cúirte Dúiche amach do chás de réir ainm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You or your legal representative will stand up to make yourself known to the court</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seasfaidh tú féin agus do ionadaí dlí suas chun sibh féin a chur in aithne don chúirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The Garda (member of the Irish police force) who has made the complaint against you will take the witness stand and give evidence about the offence - i.e., what happened</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seasfaidh an Gárda a rinne an gearán i do choinne ag clár na mionn agus tabharfaidh sé fianaise faoin gcoir atá curtha i do leith - sé sin, céard a thárla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The defence may cross-examine the Garda</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Is féidir leis an abhcóide cosanta an Gárda a cheistniú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The prosecution may call any more witnesses and will question the witnesses to allow them to give evidence about the offence</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cuirfidh na cúisitheoirí fios ar fhinné agus ceistneoidh siad iad chun deis a thabhairt dóibh fianaise a thabhairt maidir leis an gcoir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The defence may cross-examine each of the prosecution witnesses after they have given evidence</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tá cead ag an abhcóide cosanta finné na gcúisitheoirí a chroscheistniú nuair a bhíonn a bhfianaise tugtha acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The defence may call and question witnesses to give evidence in your defence</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Is féidir leis an abhcóide cosanta finné a ghlaoch chun fianaise a thabhairt ar do shon</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You yourself may give evidence although you are not obliged to do so</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat féin fianaise a thabhairt, freisin, cé nach bhfuil aon iallach ort sin a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The prosecution may cross-examine each of your witnesses</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tá cead ag na cúisitheoirí gach duine de do fhinné a chroscheistniú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Both the prosecution and the defence may make final submissions relating to the case</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Is féidir leis na cúisitheoirí agus le do thaobh cosanta áiteamh deireadh a dhéanamh maidir leis an gcás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The judge will make their decision about whether you are guilty or not guilty of the offence, based on the evidence given</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Déanfaidh an Breitheamh cinneadh an bhfuil tú ciontach nó neamhchiontach ag brath ar an bhfianaise atá curtha ós a chomhair/a comhair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To find you guilty, they must believe that it has been proven beyond all reasonable doubt that you are guilty</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sula bhfaigheann sé/sí ciontach tú ní mór go gcreidfeadh sé/sí gur cruthaíodh thar aon amhras reasúnta go bhfuil tú ciontach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If the judge finds that you are guilty of the offence, they may decide the sentence</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má fhaigheann an Breitheamh ciontach tú sa choir a cuireadh i do leith, is féidir leis/lei réiteach cad é an bhreith atá le dhul ort</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the judge finds that you are not guilty, they will dismiss the charges against you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhaigheann an Breitheamh neamhchiontach tú, caithfidh sé/sí amach an cás a bhí curtha i do leith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Criminal jury trials are held in the Circuit Court and the Central Criminal Court and usually follow the following format:</seg></tuv>
+  <tuv xml:lang="ga"><seg>An Chúirt Chuarda agus an Phríomh-Chúirt Choiriúil a éisteacht trialacha giúiré coiriúla agus leanann siad de ghnáth an fhormáid seo a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The indictment is read out, which lists the offences (counts) to which you have pleaded not guilty</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Léifear amach an díotáil, ina léirítear na cionta (scóir) ar phléadáil an cosantóir neamhchiontach dóibh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The opening speech of the trial is made by the prosecution</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Is é an lucht ionchúisimh a thugann óráid tosaigh na trialach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The prosecution counsel opens the case and tells the jury about matters that the prosecution intends to prove</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann an t-abhcóide tús leis an gcás agus insíonn don ghiúiré faoi nithe ar mian leis na hionchúisitheoirí a chruthú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Counsel gives an outline of the facts and evidence that the prosecution intends to call</seg></tuv>
+  <tuv xml:lang="ga"><seg>Imlíníonn an t-abhcóide na fíricí agus an fhianaise a bhfuil sé ar intinn ag na cúisitheoirí a thaispeáint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They explain the nature of the charges alleged against the accused</seg></tuv>
+  <tuv xml:lang="ga"><seg>Míníonn sé nó sí na cúiseanna atá líomhanta i leith an chosantóra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• After the opening address to the jury, the prosecution calls witnesses, usually in the order listed in the Book of Evidence</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tar éis an aithisc thosaigh, glaonn na cúisitheoirí ar fhinnéithe, de réir ord an leabhair fhianaise de ghnáth</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Counsel asks the witnesses questions to allow them to tell their story and give their evidence in their own words</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fiafraíonn an t-abhcóide ceisteanna díobh le ligean dóibh a scéal agus a bhfianaise a insint ina bhfocail féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Documents and statements may be introduced</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadtar cáipéisí agus ráitis a thabhairt i gcás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Forensic evidence may be introduced as exhibits and the jury is usually given an opportunity to examine such exhibits</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadtar fianaise fhóiréinseach a chur faoi bhráid na cúirte mar fhoilseáin agus de ghnáth tugtar deis don ghiúiré na foilseáin sin a scrúdú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• When the prosecuting counsel has finished asking each witness questions, the defence counsel may cross-examine the witness</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Nuair a bhíonn an t-abhcóide ionchúisimh críochnaithe ag cur ceisteanna ar gach finné, féadann abhcóide an chosantóra an fhinné a "chroscheistiú"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the defence intends to challenge a prosecution witness's evidence, the defence counsel must explain the basis for the challenge to the witness</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhíonn sé ar intinn ag an lucht cosanta dúshlán a thabhairt faoi fhianaise fhinné na gcúisitheoirí, caitheann an t-abhcóide cosanta bunús an dúshláin a mhíniú don fhinné</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• When the prosecuting counsel has finished presenting the case for the prosecution, the defence begins</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Nuair a bhíonn deireadh curtha ag an abhcóide ionchúisimh le cur i láthair an cháis ionchúisimh, is ansin a thosóidh an chosaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The defence counsel opens the defence and calls witnesses and introduces evidence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Osclóidh an t-abhcóide cosanta an chosaint agus glaofaidh sé nó sí ar fhinnéithe agus tabharfaidh fianaise isteach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Each witness may be cross-examined by the prosecution</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis an lucht ionchúisimh gach finné a chroscheistiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As you are the accused you are not obliged to give evidence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní gá don chúisí aon fhianaise a thabhairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• At the end of the case, both the prosecution and the defence counsel summarise the facts for the jury and emphasise the merits of their own case</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag deireadh an cháis déanann na cúisitheoirí agus na cosantóirí araon achoimriú ar na fíricí don ghiúiré agus leagann siad béim ar bhuanna a gcás féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• At the end of the trial, the judge sums up the case for the jury</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag deireadh na trialach coimríonn an breitheam an cás don ghiúiré</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They explain the jury's function and directs the jury to confine itself to the evidence presented in court and to disregard any media reports</seg></tuv>
+  <tuv xml:lang="ga"><seg>Míníonn sé nó sí feidhm an ghiúiré dóibh agus treoraíonn sé nó sí don ghiúiré a n-aird a dhíriú ar an bhfianaise a cuireadh faoi bhráid na cúirte amháin agus neamhaird a dhéanamh d’aon tuairiscí sna meáin chumarsáide</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The judge must direct the jury on any legal points that arise</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Caithfidh an breitheamh an giúiré a threorú maidir le haon phointe dlí a thagann aníos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, they may explain the legal ingredients of the offence of murder so that the jury can arrive at a verdict that conforms to that legal rule</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, féadann sé nó sí bunábhair dhlíthiúla chion an dúnmharaithe a mhíniú ionas gur féidir leis an ngiúiré a theacht ar fhíorasc a chloíonn leis an riail dhlíthiúil sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• As the case is a criminal one, the judge will also explain to the jury that it must be satisfied of your guilt beyond reasonable doubt</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Más cás coiriúil atá ann, caithfidh an breitheamh a mhíniú don ghiúiré gur ghá go mbeidís sásta faoi chiontacht an chúisithe thar aon amhras réasúnta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Beyond reasonable doubt means that if there are two reasons given in the case and both are possible explanations for what happened, taken together with the evidence presented, the jury should give you the benefit of the doubt</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn thar aon amhras réasúnta má thugtar dhá fháth sa chás, agus más míniú féideartha ar ar tharla araon iad, ba chóir don ghiúiré, i dteannta leis an bhfianaise a cuireadh i láthair, sochar an amhrais a thabhairt don chúisí</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Checklist: entitlements for older people</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seicliosta: teidlíochtaí do dhaoine aosta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The lists and links below are to help you to check out all the main services and entitlements for older people</seg></tuv>
+  <tuv xml:lang="ga"><seg>Le cabhair a thabhairt duit iad na naisc agus na liostaí thíos an uile phríomhsheirbhís agus phríomhtheidlíocht atá ann do dhaoine aosta a sheiceáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>document.write("If you would like these links to remain available while you browse this website, you can 'pin' the checklist to the right-hand side of the website</seg></tuv>
+  <tuv xml:lang="ga"><seg>document.write("Más mian leat go bhfanfadh na nascanna seo ar fáil fad is atá an suíomh seo á bhrabhsáil agat, d’fhéadfá an seicliosta a ‘ghreamadh’ ar thaobh deis an tsuímh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It will remain in place until you click the 'X' in the top right-hand corner.");</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fanfaidh an seicliosta ansin go dtí go chliceáltar an ‘X’ sa chúinne ag barr an taoibh dheis.");</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The headings in the left hand column of each section link to general documents on the subject, and those in the right hand column link to details of specific payments or services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá nasc sna teidil i ngach mír le doiciméid ghinearálta faoin ábhar, agus tá nasc sna doiciméid liostáilte le sonraí faoi íocaíochtaí nó faoi sheirbhísí sonracha</seg></tuv>
+</tu>
+</body>
+</tmx>

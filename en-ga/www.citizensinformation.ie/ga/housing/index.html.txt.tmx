@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>• Taxes, charges and reliefs</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cánacha, muirir agus faoisimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Local authority and social housing</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An t-údarás áitiúil agus tithíocht shóisialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Housing grants and schemes</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Deontais agus scéimeanna tithíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Building or altering a home</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Teach a thógáil nó a athrú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Life Event Document Somewhere to Live An overview of housing and types of accommodation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Life Event Document Tithíocht Soláthraíonn an doiciméad seo forbhreathnú ar thithíocht agus ar chóiríocht in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most Read in "Housing"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ábhar is mó éilimh i "Tithíocht"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Applying for local authority/social housing</seg></tuv>
+  <tuv xml:lang="ga"><seg>Iarratas a dhéanamh ar thithíocht shóisialta/údaráis áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your landlord wants you to leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má theastaíonn ó do thiarna talún go bhfágfadh tú an teach nó an t-árasan</seg></tuv>
+</tu>
+</body>
+</tmx>

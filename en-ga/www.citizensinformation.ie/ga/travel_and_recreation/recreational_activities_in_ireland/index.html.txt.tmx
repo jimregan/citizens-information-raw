@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Recreational activities in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caitheamh Aimsire in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Recreational activities for young people</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gníomhaíochtaí caitheamh aimsire do dhaoine óga</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The overall objective of the National Recreation Policy for Young People is to provide a framework for the promotion of appropriate recreational opportunities for young people between the ages of 12 and 18. Find out more</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é cuspóir foriomlán an Bheartais Náisiúnta Caitheamh Aimsire do Dhaoine Óga creatlach a sholáthar chun na deiseanna oiriúnacha caitheamh aimsire do dhaoine óga idir 12 agus 18 mbliana a chur chun cinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Setting up a new club</seg></tuv>
+  <tuv xml:lang="ga"><seg>Club nua a bhunú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This document outlines what is involved in setting up a new club and where you can get more information</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann an cháipéis seo sainiú ar céard atá i gceist le club nua a bhunú agus cén áit ar féidir leat tuilleadh faisnéise a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most Read in "Travel and Recreation"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ábhar is mó éilimh i "Taisteal agus Áineas"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Applying for your first Irish passport</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag déanamh iarratais ar phas Éireannach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Renewing an Irish passport</seg></tuv>
+  <tuv xml:lang="ga"><seg>Pas Éireannach a athnuachan</seg></tuv>
+</tu>
+</body>
+</tmx>

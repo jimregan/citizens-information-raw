@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Tax relief on the costs of employing a home carer</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoiseamh cánach ar na costais a bhaineann le cúramóir baile a fhostú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can claim tax relief on the cost of employing a carer either if you employ one for yourself, or for another family member</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir faoiseamh cánach a éileamh ar an gcostas a bhaineann le cúramóir a fhostú, má fhostaíonn tú ceann duit féin nó do bhall eile de do theaghlach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can employ the carer directly or you can use an agency that employs carers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat an cúramóir a fhostú go díreach nó is féidir leat gníomhaireacht a úsáid a fhostaíonn cúramóirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you employ the carer yourself, you should register as an employer and you will be responsible for your employee's tax and social insurance (PAYE, Universal Social Charge and PRSI)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhostaíonn tú an cúramóir tú féin, ba chóir duit clárú mar fhostóir agus beidh tú freagrach as cáin agus árachas sóisialta (IMAT, Muirear Sóisialta Uilíoch (MSU) agus ASPC do chuid fhostaithe)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will also have other duties and obligations as an employer, for example regarding hours of work, contracts of employment, payslips, holidays and the minimum wage</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh dualgais eile ort chomh maith mar fhostóir, mar shampla maidir le huaireanta oibre, conarthaí fostaíochta, duillíní pá, saoire agus íosphá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you pay an agency to provide the carer, the agency will employ the carer and be responsible for their tax and social insurance etc</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má íocann tú gníomhaireacht chun an cúramóir a sholáthar, fostóidh an ghníomhaireacht an cúramóir agus beidh siad freagrach as a chuid chánach agus árachas sóisialta srl</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can still claim tax relief on the cost of paying the agency to provide a carer</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat fós faoiseamh cánach a éileamh ar an gcostas den ghníomhaireacht a íoc chun an cúramóir a sholáthar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you employ a carer for yourself or on behalf of a family member, you can claim the tax relief on the cost of that care</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhostaíonn tú cúramóir duit féin nó ar son ball teaghlaigh, is féidir leat an faoiseamh cánach a íoc ar chostas an chúramóra sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A family member is a spouse, civil partner, child or a relative, including a relation by marriage or civil partnership</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é atá i gceist le 'ball teaghlaigh' ná céile, leanbh nó gaol, gaol trí phósadh san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must be totally incapacitated for the complete tax year (January to December) in which you are claiming the tax relief but the carer does not have to be employed for the full tax year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh tú a bheith éagumasaithe go hiomlán don bhliain chánach iomlán (Eanáir go Nollaig) dá bhfuil an faoiseamh cánach á éileamh agat ach ní gá go mbeadh an cúramóir fostaithe don bhliain cánach iomlán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The term totally incapacitated means you are disabled and require a carer</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn an téarma 'éagumasaithe go hiomlán' go bhfuil míchumas chomh mór sin ort go bhfuil cúramóir de dhíth ort</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You cannot claim tax relief for employing a carer if the carer only carries out housekeeper duties or if a Dependent Relative Tax Credit or an Incapacitated Child Tax Credit has already been granted</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leat faoiseamh cánach a éileamh do chúramóir a fhostú mura ndéanann an cúramóir ach dualgais choimeádaí tí nó má tá Creidiúint Chánach do Ghaol Cleithiúnach nó Creidiúint Chánach do Leanbh Éagumasaithe tugtha cheana féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may be asked by the Revenue Commissioners to get a medical certificate to confirm the nature of your disability but it isn't necessary to send one in with your application form unless you are getting home nursing for a serious illness</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh na Coimisinéirí Ioncaim iarraidh ort teastas míochaine a fháil chun nádúr do mhíchumais a dheimhniú ach ní gá ceann a sheoladh le d'fhoirm iarratais ach amháin má tá altranas baile á fháil agat do thinneas tromchúiseach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you, or a family member has a serious illness and you employ a qualified nurse, you must provide the Revenue Commissioners with the following:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tinneas tromchúiseach ort nó ar bhall teaghlaigh agus go bhfuil altra cáilithe fostaithe agat, caithfidh tú an méid seo a leanas a sholáthar do na Coimisinéirí Ioncaim:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Name, address and qualifications of each nurse providing care</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ainm, seoladh agus cáilíochtaí gach altra atá ag soláthar cúraim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Receipts for all payments made to the nurses</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Fáltais do gach íocaíocht a íoctar leis na haltraí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A medical certificate from doctor (either your GP or consultant)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Teastas míochaine ó dhochtúir (do dhochtúir ginearálta nó chomhairleoir)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The medical certificate must state the following:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don teastas míochaine an méid seo a leanas a lua:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Name and address of the person with the serious illness</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ainm agus seoladh an duine a bhfuil an tinneas tromchúiseach orthu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The nature of that illness</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Nádúr an tinnis sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Confirm that constant nursing care by a qualified nurse in the patient’s home is required</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Deimhniú go bhfuil cúram altranais leanúnach ó altra cáilithe i mbaile an othair riachtanach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Cover the full period of time for which the tax relief is being claimed for home nursing</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An tréimhse ama iomlán dá bhfuil an faoiseamh cánach á éileamh d'altranas baile a chlúdach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Tax allowances and reliefs reduce the amount of tax that you have to pay</seg></tuv>
+  <tuv xml:lang="ga"><seg>Laghdaíonn liúntais agus faoisimh chánach an méid cánach a mbíonn ort a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The amount by which a tax allowance/relief will reduce your tax depends on your rate of tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Braitheann an méid a laghdóidh liúntas/faoiseamh cánach do cháin ar do ráta cánach féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find out more about how your income tax is calculated</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cliceáil anseo le tuilleadh eolais a fháil ar an slí a ríomhtar do cháin ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can claim tax relief (at your highest rate) on the lower of the following two amounts:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú faoiseamh cánach a éileamh (ag do ráta cánach is airde) ar an méid is lú den dá mhéid seo a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The actual cost incurred or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An costas iarbhír tabhaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The maximum deduction of €75,000</seg></tuv>
+  <tuv xml:lang="ga"><seg>• €50,000 ag do ráta cánach is airde</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The maximum amount of relief for employing a carer is €75,000 in 2017 (It was €75,000 in 2016 and 2015 and €50,000 in 2014 and previous years)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Í 2017, is é an méid iomlán faoisimh do chúramóir a fhostú ná €75,000 (€74,000 í 2016 agus 2015 agus €50,000 í 2014) agus caithfidh tú an faoiseamh a éileamh gach bliain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must claim the relief each year. You can get tax relief on the cost of employing a carer, less any amount recovered from the Health Service Executive (HSE)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat faoiseamh cánach a fháil ar an gcostas a bhaineann le cúramóir a fhostú, lúide aon mhéid a aisghabhtar ó Fheidhmeannacht na Seirbhíse Sláinte (FSS)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If two or more of you pay for the care, the relief is divided between you in proportion to the amount each paid</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má íocann beirt nó níos mó agaibh as an gcúram, roinntear an faoiseamh eadraibh i gcomhréir leis an méid a íoc gach duine agaibh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must claim tax relief on the cost of employing a carer each year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh tú faoiseamh cánach a éileamh ar an gcostas a bhaineann le cúramóir a fhostú gach bliain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are a PAYE taxpayer, you can apply for tax relief for employing a carer on form HK 1 (pdf) or telephone Revenue Lo-call Service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más cáiníocóir IMAT tú, is féidir leat iarratas a dhéanamh ar fhaoiseamh cánach as duine a fhostú ar fhoirm HK 1 (pdf) nó ar an teileafón Seirbhís Íseal-Ghlao na gCoimisinéirí Ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your certificate of tax credits will be increased to include the relief due</seg></tuv>
+  <tuv xml:lang="ga"><seg>Méadófar do theastas de creidiúnaithe cánach chun an faoiseamh atá dlite a áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that you will pay less tax each week from your salary</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn sé seo go n-íocfaidh tú níos lú cánach gach seachtain ó do thuarastal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Alternatively, you can claim relief at the end of the tax year by submitting your form P60 and that of your spouse or civil partner, if applicable, to your local Revenue office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina mhalairt de chás, féadfaidh tú faoiseamh a éileamh ag deireadh na bliana cánach ach d’fhoirm P60 agus foirm do chéile nó do pháirtnéir shibhialta, más infheidhme, a chur isteach chuig d'oifigh Cánach Ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you pay tax by self-assessment the claim for tax relief for employing a carer should also be sent on form HK 1 and attached to your annual tax return</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má íocann tú cáin le féinmheasúnú ba chóir an éileamh ar fhaoiseamh cánach do chúramóir a fhostú a sheoladh ar fhoirm HK 1 chomh maith agus é a iniamh le do thuairisceán cánach bliantúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Send your completed application form to your local tax office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seol d'fhoirm iarratais chomhlánaithe chuig d'oifig chánach áitiúil</seg></tuv>
+</tu>
+</body>
+</tmx>

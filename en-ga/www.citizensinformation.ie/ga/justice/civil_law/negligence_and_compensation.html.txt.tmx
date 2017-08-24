@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>It is not enough to have been in an accident or to have suffered injury in order to obtain compensation from the courts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir cúiteamh a fháil ó na cúirteanna díreach má bhí duine i dtimpiste nó fiú gortaithe i dtimpiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It must be clear that the party or parties you have sued were to blame for the accident and the injuries that you have suffered</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go mbeadh sé soiléar go bhfuil an duine nó na daoine a bhfuil tú ag cur an dlí orthu freagrach as an timpiste agus as an ngortú a d'fhulaing tú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It may be the case that a number of people are partly to blame for an accident, including the person suing</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh sé go bhfuil roinnt daoine ciontach as an timpiste, an t-éilitheoir ina measc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In that situation, the court will apportion or divide the blame between the different people involved</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás sin, deanfaidh an chúirt an milleán a roinnt idir na daoine eagsúla atá i gceist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, a driver who suffered injury in a car accident in circumstances where he/she wasn't wearing a seat-belt may be 15% to blame for the injuries he/she suffered</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, tiománaí a gortaíodh i dtimpiste cairr ach nach raibh crios sabhálta dhá chaitheamh aige/aici, d'fhéadfadh an chúirt cinneadh a dhéanamh go bhfuil sé/sí féin 15% ciontach as an ngortú a d'fhulaing sé/sí féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As a result, the court may only award him/her 85% of the compensation that his/her injuries are valued at</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar thoradh, ní féidir leis an gcúirt ach 85% de luach an ghortaithe a thabhairt dó/dí mar chúiteamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your claim for compensation will be divided into two parts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfar éileamh ar chúiteamh a bhriseadh ina dhá chuid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is compensation for the pain, suffering and inconvenience you experienced and will continue to experience as a result of the accident</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cúiteamh ar mhaithe le pian, fulaingt agus míchaothúlacht a thit ort agus a thitfidh ort de bharr na timpiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The court will decide the level of damages by estimating the gravity of the injuries</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfaidh an chúirt cinneadh maidir le méid na ndamáistí bunaithe ar chomh dona agus atá an gortú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It will do this by considering all the medical evidence put before it, by considering the pain already suffered by the person suing and the prognosis for the future, that is, how long and to what intensity the injured party is likely to continue suffering</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfar é seo tríd an bhfianaise leighis ar fad atá ós comhair na cúirte a mheas, tríd an bhfulaingt atá déanta cheana ag an éilitheoir a chur san áireamh chomh maith lena bhfuil le fulaingt sa todhchaí i.e., cé chomh fada agus cén fhulaingt a bheidh le déanamh ag an duine atá gortaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is compensation for the financial costs and expenses both past and future you incurred as a result of the accident</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cúiteamh as na costais airgeadais a thit ar duine agus a thitfidh air/uirthi de bharr na timpiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This would include the cost of repairing your car (if relevant), the medical costs you incurred, your loss of earnings as a result of being unable to go to work and all expenses, including travel, home-help and similar, you incurred</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh sé go mbeadh costas an chairr a dheisiú san áireamh (más cuí), na costais leighis a thit ar an duine, aon chaillteanas pá de bharr nach raibh an duine in ann dul ag obair agus aon chostais eile a bhain le taisteal, cúnamh a fháil ag baile, &amp; rl, a thit ar an éilitheoir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may be asked to produce receipts and bills to prove you have incurred all of these expenses so it is important to keep a file of every bill and receipt</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh sé go mbeadh ar an éilitheoir admhálacha agus billí a chur ar fáil mar fhianaise ar na costais atá dhá éileamh agus mar sin tá sé tábhachtach cód a choinneáil le chuile bille agus admháil ann</seg></tuv>
+</tu>
+</body>
+</tmx>

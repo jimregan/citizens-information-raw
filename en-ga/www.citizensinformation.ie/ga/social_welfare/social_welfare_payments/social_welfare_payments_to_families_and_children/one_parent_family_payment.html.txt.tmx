@@ -1,0 +1,441 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>One-Parent Family Payment (OFP) is a payment for men and women under 66 who are bringing children up without the support of a partner</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is íocaíocht d’fhir agus do mhná faoi bhun 66 atá ag tógáil clainne gan tacaíocht pháirtnéara atá i gceist leis an Íocaíocht Teaghlach Aontuismitheora (ITA)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To get this payment you must meet certain conditions and you must satisfy a means test</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun an íocaíocht seo a fháil, ní mór duit roinnt coinníollacha agus tástáil mhaoine a shásamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>One-Parent Family Payment is a taxable source of income</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is foinse inchánaithe ioncaim an Íocaíocht Teaghlach Aontuismitheora</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To qualify for a One-Parent Family Payment (OFP) you must:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun cáiliú don Íocaíocht Teaghlach Aontuismitheora:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Be under 66 (at 66 you become eligible for a State pension)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tá tú faoi bhun 66 bliana d'aois (Is féidir leat pinsean Stáit a éileamh ó 66 bliana d'aois amach.)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Be the parent, step-parent, adoptive parent or legal guardian of a relevant child (this means a child under the relevant age limit - see below)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní mór duit bheith i do thuismitheoir, leastuismitheoir, tuismitheoir uchtaíoch nó caomhnóir dlíthiúil linbh cháilithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The child must live with you. OFP is not payable if the parents have joint equal custody of a child or children</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Caithfidh tú bheith mar an bpríomhchúramóir do leanbh amháin cáilithe, ar a laghad, agus ní mór don leanbh sin cónaí leat Níl an Íocaíocht Teaghlach Aontuismitheora iníoctha má tá coimeád cothrom ag na tuismitheoirí i gcomhair linbh nó leanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Have earnings of €425 or less per week</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní mór duit €425 nó níos lú a bheith á thuilleamh agat sa tseachtain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Satisfy a means test</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní mór duit tástáil mhaoine a shásamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Be habitually resident (certain people, in particular EU nationals who are considered migrant workers, are exempt from the habitual residence condition)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní mór duit gnáthchónaí bheith ort in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Not be living with a spouse, civil partner or cohabiting</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní féidir leat bheith i do chónaí le céile, le páirtnéir sibhialta nó bheith ag comháitiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are separated, divorced or your civil partnership is dissolved you must:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú scartha, colscartha nó má rinneadh do pháirtnéireacht shibhialta a dhíscaoileadh, caithfidh:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Have been living apart from your spouse or civil partner for at least 3 months. This does not apply to cohabitants</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Go bhfuil tú i do chónaí in áit eile seachas le do chéile/pháirtnéir sibhialta ar feadh 3 mhí ar a laghad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Have made efforts to get maintenance from your spouse or civil partner (if your civil partner is the parent of the child/ren)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Go ndearna tú iarrachtaí ar chothabháil a fháil ó do chéile nó páirtnéir sibhialta (más é/í do pháirtnéir sibhialta tuismitheoir an linbh/na leanaí)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Be inadequately maintained by your spouse or civil partner (if your civil partner is the parent of the child/ren)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Nach bhfuil cothabháil acmhainneach á déanamh ag do chéile duit (más é/í do pháirtnéir sibhialta tuismitheoir an linbh/na leanaí)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your spouse or civil partner is in prison:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá do chéile nó do pháirtnéir sibhialta sa phríosún:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• He/she must have been sentenced to at least 6 months in prison or have spent at least 6 months in custody</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Caithfidh sé/sí tréimhse phríosúnachta ós cionn sé mhí ar a laghad a bheith gearrtha air/uirthi, nó sé mhí ar a laghad a bheith caite aige/aici faoi choimeád</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you were not married to the parent of your child/children you do not need to seek maintenance from the other parent when you first claim OFP</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura raibh tú pósta le tuismitheoir do linbh/leanaí, ní gá duit cothabháil ón tuismitheoir eile a lorg nuair a éilíonn tú an ITA den chéad uair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However you must make efforts to seek maintenance from the other parent to continue to be eligible for OFP</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh tú iarrachtaí a dhéanamh chun cothabháil a fháil, áfach, ón tuismitheoir eile le leanúint de bheith incháilithe don ITA</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can read more about what making an effort to seek maintenance means for separated parents and for unmarried parents</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh faisnéise ar fáil maidir le céard atá i gceist le tuismitheoirí scartha agus le tuismitheoirí neamhphósta a dhéanann iarracht chun cothabháil a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>See also 'Liability to maintain family' below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féach freisin 'Dliteanas Teaghlach a Chothabháil' thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All income from maintenance is assessed as means</seg></tuv>
+  <tuv xml:lang="ga"><seg>Meastar ioncam iomlán ó chothabháil mar acmhainn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This includes maintenance for you and maintenance to you for any of your children</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áirítear cothabháil duitse agus cothabháil chugatsa le haghaidh duine ar bith de do leanaí araon anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are getting maintenance from more than one person all the payments are added together and the total is assessed as means</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhaigheann tú cothabháil ó níos mó ná duine amháin cuirfear é go léir le chéile agus measfar an t-iomlán mar acmhainn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have housing costs, your rent or mortgage repayment up to a maximum of €95.23 per week can be offset against maintenance payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áfach, féadfar d'aisíocaíocht cíosa nó morgáiste d'uasmhéid €95.23 sa tseachtain a fhritháireamh in aghaidh íocaíochtaí cothabhála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Half the balance is then assessed as means</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ansin meastar leath an fhuílligh mar acmhain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must provide proof of rent or mortgage payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit fianaise a thabhairt ar d'íocaíochtaí cíosa nó morgáiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can get more information on how maintenance is assessed as means</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh eolais ar fáil faoi conas cothabháil a mheas mar acmhainn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Liability to maintain family</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dliteanas Teaglach a Chothabháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Men and women are required, under the law, to pay maintenance to a dependent spouse, civil partner or former cohabitant and any dependent children who are not living with them</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá dualgas ar fhir agus ar mhná, de réir dlí, cothabháil a íoc le chéile, le pháirtnéir sibhialta nó le chomhchónaitheoir atá cleithiúnach agus le haon leanbh cleithiúnach nach gcónaíonn leo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These people are called 'liable relatives'</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar 'gaolta faoi dhliteanas' ar na daoine seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are a liable relative and fail to pay enough maintenance to your ex-spouse, ex-civil partner or former cohabitant and dependent child(ren), you must contribute to the cost of the One-Parent Family Payment, which is paid to your family</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más gaol faoi dhliteanas thú agus má theipeann ort dóthain cothabhála a íoc le do chéile, do pháirtnéir sibhialta nó do chomhchónaitheoir agus/nó do leanbh cleithiúnach/leanaí cleithiúnacha, ní mór duit ranníocaíocht a dhéanamh as costas na hÍocaíochta Teaghlaigh Aontuismitheora, a íoctar le do theaghlach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Maintenance Recovery Unit of the Department of Social Protection will contact the liable relative if they have not paid enough maintenance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfaidh an tAonad Aisghabhála Cothabhála na Roinne Coimirce Sóisialaí teagmháil leis an ngaol faoi dhliteanas mura mbíonn dóthain cothabhála íoctha aige/aici, nuair a dheonaítear an Íocaíocht Teaghlaigh Aontuismitheora</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can contact the Maintenance Recovery Unit on (071) 967 2599 for more information</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir teagmháil a dhéanamh leis an tAonad Aisghabhála Cothabhála ag (071) 96 72599 chun a thuilleadh eolais a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can also find out more about ‘Liability to Maintain Family’</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat freisin faigh amach tuilleadh faoi ‘Dhliteanas Teaglach a Chothabháil’</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>One-Parent Family Payment and EU Regulations</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocaíocht do Theaghlach Aon-Tuismitheora agus Rialacha an AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>From 5 May 2005, EU citizens, EEA citizens and Swiss nationals who are employed or self-employed in Ireland and who are paying into the Irish social insurance system do not have to meet the habitual residence criteria to qualify for One-Parent Family Payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó 5 Bealtaine 2005 ar aghaidh, ní bheidh ar na dreamanna seo a leanas: Saoránaigh an AE, saoránaigh LEE agus náisiúnaithe de chuid na hEilvéise atá fostaithe nó féinfhostaithe in Éirinn, agus atá ag íoc ranníocaíochtaí le Córas Árachais Sóisialta na hÉireann na critéir ghnáthchónaithe a chomhlíonadh le bheith incháilithe don íocaíocht do Theaghlach Aon-Tuismitheora</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>One-Parent Family Payment and Deserted Wife's Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocaíocht do Theaghlach Aon-Tuismitheora agus Sochar Banchéile Thréigthe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you had to transfer from Deserted Wife’s Benefit to One-Parent Family Payment to be accepted as a participant on a Community Employment Scheme, you can apply to have your entitlement to Deserted Wife's Benefit restored</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhí ort aistriú ó Shochar Banchéile Thréigthe go hÍocaíocht do Theaghlach Aon-Tuismitheoira ionas go bhféadfá páirt a ghlacadh ar Scéim Fostaíochta Pobail, féadfaidh tú iarratas a dhéanamh anois go dtabharfaí an Sochar Banchéile Thréigthe ar ais duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>While Deserted Wife's Benefit is closed to new applicants, it is still paid to those who had qualified for it before 2 January 1997</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cé nach dtugtar an Sochar Banchéile Thréigthe d'iarratasóirí nua a thuilleadh íoctar fós é leo siúd a bhí i dteideal é a fháil roimh 2 Eanáir 1997</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The maximum weekly rate of payment for Deserted Wife’s Benefit is higher than the maximum weekly rate of payment for One-Parent Family Payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá uasráta íocaíochta níos airde i gceist i gcás Sochar Banchéile Thréigthe ná mar atá i gcás Íocaíocht do Theaghlach Aon-Tuismitheora</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you qualify to have your entitlement to Deserted Wife’s Benefit restored you may also be due arrears</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú i dteideal an Sochar Banchéile Thréigthe a thabhairt ar ais duit d'fhéadfá a bheith i dteideal riaráistí a fháil ar ais freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Age limit for a relevant child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Aoisteorainn do leanbh cáilithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To get a One-Parent Family Payment you must have at least one relevant child below the relevant age limit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun Íocaíocht Teaghlach Aontuismitheora a fháil, ní mór duit ar a laghad leanbh cáilithe amháin a bheith agat faoin aoisteorainn chuí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>From 2 July 2015 the age limit is 7 years of age</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ón 2 Iúil 2015 tá an aoisteorainn 7 mbliana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Exceptions to the age limits</seg></tuv>
+  <tuv xml:lang="ga"><seg>Eisceachtaí leis na haoisteorainneacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are getting Domiciliary Care Allowance (DCA) for a child, you qualify for OFP on behalf of that child if you meet the other conditions. This means that you can apply for or continue to claim OFP until the child reaches 16 or DCA stops</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá Liúntas Cúram Baile (DCA) á fháil agat do leanbh, leanfaidh an ITA go dtí go mbainfidh an leanbh 16 bliana amach agus gur féidir leo iarratas a dhéanamh ar Liúntas Míchumais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will also get an Increase for a Qualified Child (IQC) for any other children in the family until they reach 18 (or 22 if in full-time education) while DCA (and OFP) is in payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, gheobhaidh tú méadú do Leanbh Cáilithe (MLC) d’aon leanaí eile atá sa teaghlach go dtí go mbainfidh siad 18 mbliana d’aois amach (nó 22 bliain má tá siad ag plé le hoideachas lánaimseartha) fad a bhíonn an LCB (agus an ITA) á íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that you can claim OFP and a half-rate Carer’s Allowance (CA) until your youngest child turns 16 provided you continue to meet the conditions for both schemes. You will also get an Increase for a Qualified Child (IQC) for any other children in the family until they reach 18 (or 22 if in full-time education) while CA and OFP is in payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más éilitheoir nua thú agus má tá tú i do thuismitheoir leat féin de bharr go bhfuair do chéile, do pháirtnéir nó do pháirtnéir sibhialta bás, is féidir leat an ITA a fháil ar feadh 2 bhliain ó dháta an bháis nó go dtí go mbainfidh do leanbh is óige 18 bliana amach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you were previously getting both OFP and half-rate CA, and were affected by the OFP age change reforms, you are now eligible to re-apply for both payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocaíocht do Theaghlach Aon-Tuismitheora agus Sochar Banchéile Thréigthe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Death of a spouse, partner or civil partner</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhí ort aistriú ó Shochar Banchéile Thréigthe go hÍocaíocht do Theaghlach Aon-Tuismitheoira ionas go bhféadfá páirt a ghlacadh ar Scéim Fostaíochta Pobail, féadfaidh tú iarratas a dhéanamh anois go dtabharfaí an Sochar Banchéile Thréigthe ar ais duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are a new claimant and you are parenting alone because of the death of your spouse, partner or civil partner you may get OFP for 2 years from the date of death provided your youngest child is under 18</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cé nach dtugtar an Sochar Banchéile Thréigthe d'iarratasóirí nua a thuilleadh íoctar fós é leo siúd a bhí i dteideal é a fháil roimh 2 Eanáir 1997</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Blind Pension is payable with OFP. This means that a person who qualifies for OFP and Blind Pension can get both payments at the full rate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá uasráta íocaíochta níos airde i gceist i gcás Sochar Banchéile Thréigthe ná mar atá i gcás Íocaíocht do Theaghlach Aon-Tuismitheora</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that you can claim both Blind Pension and OFP (and any IQCs payable with both Blind Pension and OFP) together until your youngest child is 16 years of age</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú i dteideal an Sochar Banchéile Thréigthe a thabhairt ar ais duit d'fhéadfá a bheith i dteideal riaráistí a fháil ar ais freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>What happens when my One Parent Family payment ends?</seg></tuv>
+  <tuv xml:lang="ga"><seg>An Íocaíocht Teaghlach Aontuismitheora agus obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is a payment for people parenting alone whose children are aged between 7 and 13 (inclusive)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat oibriú agus an Íocaíocht Teaghlach Aontuismitheora a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can work and get One-Parent Family Payment. The amount of payment you get depends on your weekly means</seg></tuv>
+  <tuv xml:lang="ga"><seg>Braitheann méid na híocaíochta ar d’ollmhaoin sheachtainiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The first €110 of your gross weekly earnings is not taken into account (or disregarded)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní chuirtear san áireamh (nó tugtar neamhaird ar) an chéad €110 de d’olltuillimh sheachtainiúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that you can earn up to €110 per week and qualify for the full One-Parent Family Payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn seo gur féidir leat a mhéid agus €110 a thuilleamh sa tseachtain agus cáiliú don Íocaíocht iomlán Teaghlach Aontuismitheora</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Half the remainder of your gross earnings up to €425 per week is assessed as means</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Déanfar measúnú ar leath fhuílleach d’olltuilleamh chuig a mhéid agus €425 sa tseachtain mar mhaoin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you earn between €110 and €425 per week you may qualify for a reduced payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má thuilleann tú idir €110 agus €425 sa tseachtain, d’fhéadfá cáiliú d’íocaíocht laghdaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>SW 19 Social Welfare Rates of Payment booklet shows the amount of OPF payable with your means</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léirítear i Leabhrán SW 19 – Rátaí Íocaíochta Leasa Shóisialaigh an méid den ITA atá iníoctha i dteannta do mhaoine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Social insurance contributions, superannuation/PRSA contributions and trade union subscriptions are not taken into account in the assessment of earnings</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chuirtear san áireamh ranníocaíochtaí árachais shóisialta, ranníocaíochtaí aoisliúntais/ÁSPC agus síntiúis cheardchumainn agus measúnú á dhéanamh ar thuillimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, your gross earnings must be below €425 before any deductions are allowed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór do d’olltuillimh, áfach, bheith faoi bhun €425 sula gceadófar aon asbhaintí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may qualify for Family Income Supplement (FIS), if you are working for at least 19 hours a week (38 hours a fortnight)</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfá cáiliú don Fhorlíonadh Ioncam Teaghlaigh (FIT), má bhíonn tú ag oibriú ar a laghad19 n-uaire sa tseachtain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can continue to claim One-Parent Family Payment and your FIS payment is not counted as means. Find out more about Family Income Supplement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat leanúint agus an Íocaíocht Teaghlach Aontuismitheora a éileamh agus ní chuirfear d’íocaíocht FIT san áireamh mar mhaoin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you want to become self-employed, you may qualify for the Back to Work Enterprise Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigh amach níos mó faisnéise faoin bhForlíonadh Ioncam Teaghlaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However if you take part in a CE scheme and return immediately to OFP from the CE scheme your entitlement is based on your original start date</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mian leat bheith féinfhostaithe, d’fhéadfá cáiliú don Liúntas Fiontraíochta um Fhilleadh ar Obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your pay from work is reduced</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá do phá ó obair laghdaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may be entitled to an increase in your One-Parent Family Payment if your pay is reduced</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfá bheith i dteideal méadú a fháil ar d'Íocaíocht Teaghlach Aontuismitheora má tá do phá laghdaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To get an increase in your One-Parent Family Payment send a current payslip (showing your reduced pay) with a letter from your employer, confirming your new work situation, to the Intreo Centre or Social Welfare Branch Office dealing with your claim</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun méadú a fháil ar d’Íocaíocht Teaghlach Aontuismitheora, seol duillín reatha pá (a léiríonn do phá laghdaithe) le litir ó d’fhostóir, a dheimhníonn do chás nua oibre, chuig an Oifig Leasa Shóisialaigh a dhéileálann le d’éileamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your pay is reduced and you are getting Family Income Supplement (FIS), your FIS payment will stay the same</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá do phá laghdaithe agus má tá Forlíonadh Ioncam Teaghlaigh (FIT) á fháil agat, fanfaidh d'íocaíocht FIT mar an gcéanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the number of hours you work each week is reduced to below 19 hours (38 hours per fortnight), you are no longer entitled to FIS</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má laghdaítear an líon uaireanta a oibríonn tú sa tseachtain faoi 19 n-uaire (38 uair sa choicís) níl tú i dteideal an FIT a fháil níos mó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should notify the FIS section if the hours you work fall below the minimum requirement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart duit an rannóg FIT a chur ar an eolas má thiteann an líon uaireanta a oibríonn tú faoin íosmhéid a theastaíonn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may be entitled to an increase in your Rent Supplement</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfá bheith i dteideal méadú a fháil ar d’Fhorlíonadh Cíosa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are on the Housing Assistance Payment (HAP), you should contact your local authority to find out if you are entitled to a reduction in your weekly HAP rent contribution</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá cóiríocht ar cíos agat ó údarás áitiúil nó ó chomhlachas tithíochta, ba cheart duit teagmháil a dhéanamh leo lena dheimhniú an bhfuil tú i dteideal laghdú a fháil ar do chíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you rent from a local authority or housing association you should contact them to find out if you are entitled to a reduction in your rent</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil cárta leighis nó cárta cuairte LG á fháil agat, ba cheart duit a dheimhniú an gcáilíonn tú anois dóibh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you were receiving Maternity Benefit immediately before getting OFP you will get credited contributions. You can read more about credited contributions in the Operational Guidelines for OFP</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá Íocaíocht Teaghlach Aontuismitheora á fáil agat agus má ghlacann tú am saor ón obair i ndiaidh gur saolaíodh leanbh leat, gheobhaidh tú ranníocaíochtaí creidiúnaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>One Parent Family Payment and education or training</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocaíocht Teaghlach Aontuismitheora agus oideachas nó oiliúint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will need to assess whether it is more beneficial for you to transfer from the One-Parent Family Payment to the Back to Education Allowance (BTEA) when you go back to education or to remain on your current payment and apply for a student grant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh ort a mheas cibé acu is tairbhiúla duit – aistriú ón Íocaíocht Teaghlach Aontuismitheora chuig an Liúntas um Fhilleadh ar Oideachas nuair a fhilleann tú ar oideachas nó fanacht agus d'íocaíocht reatha a fháil agus iarratas a dhéanamh ar dheontas mac léinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However you cannot get BTEA and a student grant together</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat tabhairt faoi chúrsa oiliúna FET agus d’Íocaíocht Teaghlach Aontuismitheora a choimeád</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read more in our document on social welfare payments and student grants</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfar do ITA a laghdú, áfach, de bharr go ndéanfar do liúntas oiliúna FET a mheasúnú ina leith mar ioncam</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You could do a FET (formerly FÁS) training course and keep your One-Parent Family Payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhfaighidh tú bónas oiliúna €20 sa tseachtain, mura bhfuil tú ag leanúint ar aghaidh tar éis 12 mhí a chaitheamh ar Scéim FP nó ar chlár Tionscnamh Jabanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>One-Parent Family Payment rates</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rátaí Íocaíocht Teaghlach Aontuismitheora i 2016 agus roimh 16 Márta 2017</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│One-Parent │Weekly rate (maximum) in│Weekly rate │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Íocaíocht Teaghlach Aontuismitheora │Ráta Seachtainiúil (uasta) │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Family │2016 and up to 16 March │(maximum) from 16 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Ráta pearsanta (faoi 66) │€188.00 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Payment │2017 │March 2017 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Leanbh cleithiúnaigh │€29.80 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Personal │ │ │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Íocaíocht Teaghlach Aontuismitheora │Ráta Seachtainiúil (uasta) │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│rate (under│€188.00 │€193.00 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Ráta pearsanta (faoi 66) │€193.00 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Child │€29.80 │€29.80 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Leanbh cleithiúnaigh │€29.80 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are entitled to a One-Parent Family Payment, payment of an Increase for a Qualified Child (IQC) will continue for other children in the family until they reach 18 (or 22 if in full-time education)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú i dteideal na hÍocaíochta Teaghlach Aontuismitheora a fháil bunaithe ar aois an linbh is óige sa teaghlach, leanfaidh íocaíocht Mhéadaithe do Leanbh Cáilithe (MLC) do leanaí eile sa teaghlach go dtí go mbainfidh siad 18 mbliana d’aois amach (nó 22 bliain má tá siad ag plé le hoideachas lánaimseartha)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To apply fill in a One-Parent Family Payment application form (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart duit Foirm OFP1 a íoschóipeáil agus a chomhlánú (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Send it with the relevant supporting documents to the Department of Social Protection - see 'Where to apply' below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Líon isteach an fhoirm agus cuir ar ais í leis na cáipéisí cuí tacaíochta chuig an Roinn Coimirce Sóisialaí ag an seoladh thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are widowed or a surviving civil partner, you should apply within 3 months of your spouse's or civil partner's death</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más baintreach thú, ba cheart duit iarratas a dhéanamh taobh istigh de 3 mhí ó bhás do chéile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are single, you should apply within 3 months of the birth of your child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna bhfuil tú pósta, ba cheart duit iarratas a dhéanamh taobh istigh de 3 mhí ó bhreith do linbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are separated, divorced or no longer in a civil partnership, you must have been living apart for 3 months and you should apply within 3 to 6 months of the date you separated from your spouse or civil partner</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú scartha/colscartha, ba cheart duit iarratas a dhéanamh taobh istigh de 6 mhí ó dháta an scartha ó do chéile. Ní mór duit a bheith scartha ar a laghad ar feadh 3 mhí roimh duit a bheith in ann iarratais a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are a prisoner's spouse or civil partner, you should apply when your spouse or civil partner:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más céile príosúnaigh thú, ba cheart duit iarratas a dhéanamh:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Has been in custody for at least 6 months without being sentenced or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• nuair atá do chéile faoi choimeád ar feadh ar a laghad 6 mhí gan téarma a bheith gearrtha fós air/uirthi nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Starts their sentence, which must be for at least 6 months</seg></tuv>
+  <tuv xml:lang="ga"><seg>• nuair a chuireann do chéile tús lena t(h)éarma sa phríosún, nach mór a bheith ar feadh ar a laghad 6 mhí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Staff in your local Intreo Centre or Social Welfare Branch Office will be happy to help you complete the application form and answer any questions you may have</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh áthas ar an bhfoireann san oifig áitiúil leasa shóisialaigh cúnamh a thabhairt duit an fhoirm iarratais a chomhlánú agus aon cheisteanna atá agat a fhreagairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can have your payment paid directly into your nominated post office by Electronic Information Transfer (EIT) or into your bank account. You will need to use your Public Services Card (PSC) at the post office to collect your payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfar an Íocaíocht Teaghlaigh Aontuismitheora a íoc leat trí íocaíocht dhíreach le do bhanc nó is féidir leat do Chárta Seirbhísí Sóisialacha a úsáid ag oifig an phoist chun do chuid airgid a bhailiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you do not have a PSC, you will need your Social Services Card and another form of photographic ID to collect your payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a fhaigheann tú do Chárta Seirbhísí Sóisialacha, sínigh ar an gcúl é agus coinnigh in áit shábháilte é</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you get a One-Parent Family Payment you can use the Household Budget Scheme to help you manage your bills</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat leas a bhaint as an Scéim Bhuiséadta Teaghlaigh chun cabhrú leat do chuid billí a bhainistiú má tá an Íocaíocht Teaghlach Aontuismitheora á fáil agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may also be eligible for other benefits such as Fuel Allowance, Family Income Supplement, Rent Supplement or a medical card</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfá freisin a bheith i dteideal sochar eile ar nós Liúntas Breosla, Forlíonadh Ioncam Teaghlaigh, an Scéim Liúntais Leasa Fhorlíontaigh nó cárta leighis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you think you have been wrongly refused a One-Parent Family Payment, or you are unhappy about a decision of a social welfare Deciding Officer about your entitlements, you can appeal this decision</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má mheasann tú gur diúltaíodh thú go héagórach Íocaíocht Teaghlach Aontuismitheora a fháil, nó mura bhfuil tú sásta le cinneadh a rinne Oifigigeach Cinnidh Leasa Shóisialaigh faoi do theidlíochtaí, tá sé de rogha agat an cinneadh seo a acomharc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Send your application for One-Parent Family Payment to your Intreo Centre or local Social Welfare Branch Office</seg></tuv>
+  <tuv xml:lang="ga"><seg>An Roinn Coimirce Sóisialaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you wish to talk to someone face-to-face about your entitlements, you can visit your local Citizens Information Centre, Intreo Centre or Social Welfare Branch Office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Uaireanta Oscailte:Ní thairgeann an oifig seo seirbhís do chuairteoirí pearsanta. Caithfidh gach ceist a bheith cur isteach tríd an fhoirm fiosraithe ar líne a úsáid, tríd an teileafón nó i scríbhinn</seg></tuv>
+</tu>
+</body>
+</tmx>

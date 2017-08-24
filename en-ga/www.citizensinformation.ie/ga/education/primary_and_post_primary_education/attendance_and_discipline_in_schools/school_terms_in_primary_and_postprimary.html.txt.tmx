@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>School terms in primary and post-primary schools</seg></tuv>
+  <tuv xml:lang="ga"><seg>Téarmaí scoile i mbunscoileanna agus iarbhunscoileanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Schools in Ireland are obliged to open for 183 days per year at primary level and 167 days per year at post-primary level</seg></tuv>
+  <tuv xml:lang="ga"><seg>In Éirinn tá iachall ar scoileanna bunleibhéil 183 lá scoile a oibriú sa bhliain agus scoileanna dara leibhéil 167 lá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>At one time, schools had a good deal of flexibility about the start and end of school terms</seg></tuv>
+  <tuv xml:lang="ga"><seg>Uair amháin bhí a gcomhairle féin roinnt mhaith ag scoileanna faoi thús agus deireadh théarmaí scoile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This meant that there was considerable variation about when students returned to school after holidays such as Christmas and mid-term breaks</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin bhí éagsúlacht nach beag idir scoileanna sna dátaí athoscailte tar éis saoire na Nollag, abair, agus scítheanna lárthéarma</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Since 2004 school terms have been standardised under a series of agreements made between representatives of schools, teacher unions, parents’ organisations and other relevant bodies</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó 2004 i leith, tá caighdeánú déanta de réir sraith chomhaontú idir ionadaithe ó na scoileanna, ó cheardchumainn na múinteoirí, ó eagraíochtaí tuismitheoirí agus ó ghrúpaí eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The dates for the start and the end of the school year are not standardised so schools have some discretion about when students finish school in the summer and when they start school in the autumn</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon chaighdeán leagtha síos faoi thús agus deireadh na scoilbhliana. Mar sin tá solúbthacht áirithe ag scoileanna faoi thús agus deireadh saoire an tsamhraidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All schools are closed for July and most (or all) of August</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn na scoileanna uilig dúnta Mí Iúil agus (formhór nó an mhí go léir) Mí Lúnasa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The dates for the Christmas, Easter and mid-term breaks are standardised</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá caighdeánú déanta ar shaoire na Nollag agus na Cásca agus ar gach briseadh lárthéarma</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>At the start of the school year, parents/guardians will get a list of days that the school will be closed during the year, including holidays and training days for teachers</seg></tuv>
+  <tuv xml:lang="ga"><seg>I dtús na bliana scoile faigheann tuismitheoirí agus caomhnóirí liosta na ndúnta scoile i rith na bliana, lena n-áirítear laethanta saoire agus laethanta traenála do mhuinteorí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If there are other unexpected closures the school will let you know in advance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tharlaíonn aon dúnadh eile gan choinne, tabharfaidh an scoil réamhfhógra duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Department of Education and Skills Circular 0016/2014 deals with the standardisation of the school year 2016/2017</seg></tuv>
+  <tuv xml:lang="ga"><seg>Pléann ciorclán 0016/2014 de chuid na Roinne Oideachais agus Scileanna le caighdeánú na scoilbhliain 2016/2017</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Circular 0009/2017 deals with the standardisation of the school years from 2017/2018 to 2019/2020</seg></tuv>
+  <tuv xml:lang="ga"><seg>Pléann ciorclán 0009/2017 de chuid na Roinne Oideachais agus Scileanna le caighdeánú na ó scoilbhliain 2017/2018 go scoilbhliain 2019/2020</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The circulars also provides guidance about how schools can make up any time that is lost due to unforeseen closures</seg></tuv>
+  <tuv xml:lang="ga"><seg>Soláthraíonn an ciorclán freisin treoir maidir le conas is féidir scoileanna am caillte de bharr dúnta gan coinne a thabhairt isteach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Start and end of the school year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tús agus deireadh na scoilbhliana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The dates for the start and the end of the school year at both primary and post-primary level are not fixed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon dátaí cinnte socraithe faoi thús agus deireadh na scoilbhliana i mbunscoileanna ná i scoileanna dara leibhéil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, due to the start of certificate exams, post-primary schools are usually not open for tuition after the Friday before the June public holiday (the first Monday in June) in any year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach, go hiondúil, mar gheall ar na scrúdaithe teistiméireachta ní bhíonn na scoileanna dara leibhéil oscailte do ghnáthranganna i ndiaidh Dé hAoine roimh shaoire bainc an Mheithimh (an chéad Luan i Mí Meithimh) in aon bhliain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The school year generally starts in the week in which 1 September falls </seg></tuv>
+  <tuv xml:lang="ga"><seg>De ghnáth tosaíonn an scoilbhliain sa tseachtain chéanna a dtiteann an 1ú Meán Fómhair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Every school must be open for tuition for a minimum of 183 days at primary level and 167 days at post-primary level</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór chuile scoil a bheith ar oscailt i gcóir ranganna 183 lá ag an mbunleibhéal agus 167 lá ag an dara leibhéal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Schools can use any remaining days at their discretion to extend the summer holiday period or to close on religious or other holidays</seg></tuv>
+  <tuv xml:lang="ga"><seg>Aon lá le cois féadfaidh scoileanna é a úsáid ar a gcomhairle féin le fad a chur le saoire an tsamhraidh nó le dúnadh i gcóir laethanta saoire eaglaise nó laethanta saoire eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, schools cannot use these days to extend the Christmas, Easter or mid-term breaks (unless a religious observance day(s) falls at that time for schools of a particular denomination or faith)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach níl cead na laethanta seo a úsáid le fad a chur le saoire na Nollag nó na Cásca nó le scíth lárthéarma (ach amháin má thiteann lá nó laethanta saoire eaglaise ag an am sin i gcás scoileanna a bhaineann le reiligiún nó creideamh ar leith)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a school does not have enough discretionary days left for a religious holiday, it can denote that day a non-tuition day</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tharlaíonn sé go mbíonn scoil gann i laethanta gan socrú fúthu i gcóir lá saoire eaglasta d’fhéadfaí an lá sin a mharcáil mar lá scoile gan teagasc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>October 2016 mid-term break</seg></tuv>
+  <tuv xml:lang="ga"><seg>Scíth lárthéarma Dheireadh Fómhair 2016</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All schools close from Monday 31 October 2016 to Friday 4 November 2016 inclusive</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dúnfar gach scoil ón Luan 31 Deireadh Fómhair 2016 go dtí an Aoine 4 Samhain 2016</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All schools close on Thursday 22 December 2016, which is the final day of the school term</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dúnfar gach scoil ar an Déardaoin 22 Nollaig 2016 (an lá deiridh den scoilthéarma)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All schools re-open on Monday 9 January 2017</seg></tuv>
+  <tuv xml:lang="ga"><seg>Athosclófar gach scoil ar an Luan 9 Eanáir 2017</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>February 2017 mid-term break</seg></tuv>
+  <tuv xml:lang="ga"><seg>Scíth lárthéarma na Feabhra 2017</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Primary schools close for 2 days, on Thursday 23 February 2017 and Friday 24 February 2017</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dúnfar gach bunscoil ar feadh dhá lá an Déardaoin 23 agus an Aoine 24 Feabhra 2017</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They may use 3 discretionary days to extend this to a 5-day break starting on Monday 20 February, unless they need these days to make up for time lost due to unforeseen school closures</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Cead ag bunscoileanna 3 lá nach bhfuil socrú fúthu a úsáid le scíth 5 lá a thógáil seachas más gá dóibh am caillte de bharr dúnta gan coinne a thabhairt isteach.)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Post-primary schools close for a week, from Monday 20 February 2017 to Friday 24 February 2017 inclusive, unless changes are needed to make up for time lost due to unforeseen school closures</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dúnfar gach scoil iar-bhunoideachais ón Luan 20 go dtí an Aoine 24 Feabhra 2017 seachas más gá dóibh athraigh chun am caillte de bharr dúnta gan coinne a thabhairt isteach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a post-primary school needs to make up such time, it may shorten the mid-term break by staying open up to and including Wednesday 22 February 2017</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más gá do scoil iar-bhunoideachais am caillte a thabhairt isteach, is féidir an scíth lárthéarma a ghiorraigh agus fan oscailte suas go Céadaoin 22 Feabhra 2017</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All schools close on Friday 7 April 2017, which is the final day of the school term, unless changes are needed to make up for time lost due to unforeseen school closures</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dúnfar gach scoil ar an Aoine 7 Aibreán 2017 an lá deiridh den scoilthéarma seachas más gá dóibh athraigh chun am caillte de bharr dúnta gan coinne a thabhairt isteach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a school needs to make up such time, it may shorten the mid-term break by staying open up to and including Wednesday 12 April 2017</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más gá do scoil an t-am seo a thabhairt isteach, is féidir an scíth a ghiorraigh agus fan oscailte suas go Céadaoin 12 Aibreán 2017</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All schools re-open on Monday 24 April 2017</seg></tuv>
+  <tuv xml:lang="ga"><seg>Athosclófar gach scoil ar an Luan 24 Aibreán 2017</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>October 2017 mid-term break</seg></tuv>
+  <tuv xml:lang="ga"><seg>Scíth lárthéarma Dheireadh Fómhair 2017</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All schools close from Monday 30 October 2017 to Friday 3 November 2017 inclusive</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dúnfar gach scoil ón Luan 30 Deireadh Fómhair 2017 go dtí an Aoine 3 Samhain 2017</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All schools close on Friday 22 December 2017, which is the final day of the school term</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dúnfar gach scoil ar an Aoine 22 Nollaig 2017 (an lá deiridh den scoilthéarma)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All schools re-open on Monday 8 January 2018</seg></tuv>
+  <tuv xml:lang="ga"><seg>Athosclófar gach scoil ar an Luan 8 Eanáir 2018</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>February 2018 mid-term break</seg></tuv>
+  <tuv xml:lang="ga"><seg>Scíth lárthéarma na Feabhra 2018</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Primary schools close for 2 days, on Thursday 15 February 2018 and Friday 16 February 2018</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dúnfar gach bunscoil ar feadh dhá lá an Déardaoin 15 agus an Aoine 16 Feabhra 2018</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They may use 3 discretionary days to extend this to a 5-day break starting on Monday 12 February, unless they need these days to make up for time lost due to unforeseen school closures</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Cead ag bunscoileanna 3 lá nach bhfuil socrú fúthu a úsáid le scíth 5 lá a thógáil seachas más gá dóibh am caillte de bharr dúnta gan coinne a thabhairt isteach.)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Post-primary schools close for a week, from Monday 12 February 2018 to Friday 16 February 2018 inclusive, unless changes are needed to make up for time lost due to unforeseen school closures</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dúnfar gach scoil iar-bhunoideachais ón Luan 12 go dtí an Aoine 16 Feabhra 2018 seachas más gá dóibh athraigh chun am caillte de bharr dúnta gan coinne a thabhairt isteach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a post-primary school needs to make up such time, it may shorten the mid-term break by staying open up to and including Wednesday 14 February 2018</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más gá do scoil iar-bhunoideachais am caillte a thabhairt isteach, is féidir an scíth lárthéarma a ghiorraigh agus fan oscailte suas go Céadaoin 14 Feabhra 2018</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All schools close on Friday 23 March 2018, which is the final day of the school term, unless changes are needed to make up for time lost due to unforeseen school closures</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dúnfar gach scoil ar an Aoine 23 Márta 2018 an lá deiridh den scoilthéarma seachas más gá dóibh athraigh chun am caillte de bharr dúnta gan coinne a thabhairt isteach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a school needs to make up such time, it may shorten the mid-term break by staying open up to and including Wednesday 28 March 2018</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más gá do scoil an t-am seo a thabhairt isteach, is féidir an scíth a ghiorraigh agus fan oscailte suas go Céadaoin 28 Márta 2018</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All schools re-open on Monday 9 April 2018</seg></tuv>
+  <tuv xml:lang="ga"><seg>Athosclófar gach scoil ar an Luan 9 Aibreán 2018</seg></tuv>
+</tu>
+</body>
+</tmx>

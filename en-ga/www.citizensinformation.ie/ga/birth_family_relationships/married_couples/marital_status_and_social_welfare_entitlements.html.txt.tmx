@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>For the purposes of most social welfare claims in Ireland (for example, Jobseeker's Allowance) and supplementary welfare allowance claims, unmarried couples who are living together are treated in the same way as married couples (or civil partners)</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás an chuid is mó de na héilimh ar leasa sóisialacha in Éirinn (mar shampla, éilimh maidir le cúnamh dífhostaíochta) agus liúntas breise leasa shóisialaigh, caitear mar a chéile le lánúineacha neamhphósta atá in aontíos agus le lánúineacha pósta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your marital status will affect your entitlement to Widow's/Widower's or Surviving Civil Partner's Pension</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh baint ag an stádas pósta atá agat le do theideal ar Phinsean Baintrí, Baintrí Fir nó Páirtnéara Shibhialta Mharthanaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can only claim Widow's/Widower's or Surviving Civil Partner's Pension if your spouse or civil partner dies</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir Pinsean Baintrí, Baintrí Fir nó Páirtnéara Shibhialta Mharthanaigh a éileamh ach amháin sa chás go bhfaigheann d’fhear céile/do bhean chéile ó do pháirtnéir sibhialta bás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will not be entitled to this pension if you re-marry or enter into a new civil partnership</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bheidh tú i dteideal an phinsin sin sa chás go bpósann tú in athuair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are in doubt about how your marital status will affect your claim, you should contact your local social welfare office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú in amhras maidir leis an gcaoi a gcuirfeadh an stádas pósta atá agat isteach ar d’éileamh, ba cheart duit teagmháil a dhéanamh le d’oifig leasa shóisialaigh áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the case of supplementary welfare allowance, you should contact the Department of Social Protection's representative (fomerly known as the Community Welfare Officer) in your local office</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás liúntas breise leasa shóisialaigh, da cheart duit teagmháil a dhéanamh le hionadaí na Roinne Coimirce Sóisialaí(a tugadh an tOifigeach Leasa Pobail air roimhe seo) i d'oifig áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further information about how your marital status will or may affect your entitlements is always available from your local social welfare office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá breis faisnéise faoi conas a imreoidh do stádas pósta nó conas a fhéadfaidh do stádas pósta tionchar a imirt ar do theidlíochtaí ar fáil i gcónaí ó d’oifig áitiúil leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Staff will be happy to explain your entitlements and to fill out forms</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh an fhoireann sásta do chuid teidlíochtaí a mhíniú agus foirmeacha a chomhlánú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can contact the Department of Social Protection's representative at your local office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú teagmháil a dhéanamh le hionadaí na Roinne Coimirce Sóisialaí ag d’oifig áitiúil</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,493 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>In general, non-EEA nationals must have an employment permit to work in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, caithfidh náisiúnaigh neamh-LEE cead fostaíochta a bheith acu chun oibriú in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>EEA and Swiss nationals do not need an employment permit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní gá do náisiúnaigh an LEE agus na hEilvéise cead fostaíochta a bheith acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the Employment Permits Acts 2003–2014 there are 9 types of employment permit including a General Employment Permit, a Critical Skills Employment Permit and a Dependant/Partner/Spouse Employment Permit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi na hAchtanna um Cheadanna Fostaíochta 2003-2014, tá 9 saghas de chead fostaíochta ann, lena n-áirítear Cead Fostaíochta Ginearálta, Cead Fostaíochta Scileanna Ríthábhachtacha agus Cead Fostaíochta Cleithiúnaí/Páirtnéara/Céile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can read about other types of permit in our overview document on employment permits</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú léamh faoi shaghsanna eile de chead inár gcáipéis forbhreathnaithe ar cheadanna fostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Since 1 October 2014, the Employment Permits (Amendment) Act 2014 has changed the previous employment permits system</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ón Deireadh Fómhair 2014 ar aghaidh, d’athraigh an tAcht um Cheadanna Fostaíochta (Leasú) an t-iar-chóras ceadanna fostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are now 9 different types of employment permit with new application forms for each type and changes to the criteria for issuing employment permits</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá anois 9 saghas éagsúla de chead fostaíochta le foirmeacha iarratais nua le haghaidh gach saghas agus athruithe ar na critéir chun ceadanna fostaíochta a eisiúint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Act also provides that a foreign national without an employment permit, who took all reasonable steps to get one, can take civil action against their employer to compensate them for work done or services rendered</seg></tuv>
+  <tuv xml:lang="ga"><seg>Anuas air sin, forálann an tAcht, gur féidir le náisiúnach iasachta nach bhfuil cead fostaíochta aige/aici, a rinne gach beart réasúnta chun ceann a fháil, dul i mbun caingean shibhialta i leith an fhostóra chun cúiteamh a fháil as aon obair a rinneadh nó aon seirbhísí a soláthraíodh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>General Employment Permits are issued by the Department of Jobs, Enterprise and Innovation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Eisíonn an Roinn Post, Fiontar agus Nuálaíochta Ceadanna Fostaíochta Ginearálta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Either the employer or the employee can apply for a permit which must be based on an offer of employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh an fostóir nó an fostaí iarratas a dhéanamh ar chead, agus ní mór dó a bheith bunaithe ar thairiscint fostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Permits are issued to the employee and include a statement of the employee's rights and entitlements</seg></tuv>
+  <tuv xml:lang="ga"><seg>Eisítear ceadanna don fhostaí agus áirítear leo ráiteas ar chearta agus teidlíochtaí an fhostaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An employee with an employment permit has all the employment rights of Irish or EEA citizens for the duration of the employment permit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh gach ceann de na cearta fostaíochta ag fostaí ag a bhfuil cead fostaíochta a bhíonn ag saoránaigh na hÉireann nó an LEE ar feadh fhad an cheada fostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Generally applications for General Employment Permits must have a minimum annual remuneration (pay) of €30,000</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go mbeidh luach saothair bliantúil (pá) €30,000, ar a laghad ag iarratais ghinearálta ar Cheadanna Fostaíochta Ginearálta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Remuneration includes the salary for the job and health insurance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áirítear le luach saothair an tuarastal don phost agus árachas sláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Applications for jobs with annual pay of €27,000* are considered on an exceptional basis in the following cases:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar breithniú ar iarratais ar phoist ag a bhfuil pá bliantúil €27,000* ar bhonn eisceachtúil sna cásanna a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Non-EEA students who have graduated in the last 12 months, from an Irish third level institution, and have been offered a graduate position from the Highly Skilled Occupations List</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Mic léinn neamh-LEE a bhain a gcéim amach le 12 mhí anuas, ó institiúid tríú leibhéal in Éirinn, agus a ndearnadh post iarchéime a thairiscint dóibh ó Liosta na nGairmeacha Ardoilte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Non-EEA students who have graduated in the last 12 months, from an overseas third level institution, and have been offered a graduate position as an ICT professional from the Highly Skilled Occupations List</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Mic léinn neamh-LEE a bhain a gcéim amach le 12 mhí, ó institiúid tríú leibhéal thar lear, agus a ndearnadh post iarchéime a thairiscint dóibh mar ghairmí TFC ón Liosta Gairmeacha Ardoilte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Applications for specialist language support and technical or sales support with a fluency in a non-EEA language for companies who are getting support from the State enterprise development agencies</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Iarratais maidir le tacaíocht speisialta teanga agus tacaíocht theicniúil nó díolachán nuair atá an t-iarratasóir líofa i dteanga neamh-LEE do chuideachtaí a bhfuil tacaíocht á fáil acu ó ghníomhaireachtaí forbartha fiontair an Stáit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>* The annual pay must be €30,000 when applying for a renewal of the permit</seg></tuv>
+  <tuv xml:lang="ga"><seg>* Ní mór gurb ionann an pá bliantúil agus €30,000 nuair a bhíonn iarratas á dhéanamh ar athnuachan an cheada</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Non-EEA nationals with a stamp 1, 1A, 2, 2A or 3 residence permission may apply for a General Employment Permit provided the job is not on the list of ineligible occupations</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh náisiúnaigh neamh-LEE a bhfuil cead cónaithe stampa 1, 1A, 2, 2A nó 3 acu, iarratas ar Chead Fostaíochta Ginearálta ar an gcoinníoll nach bhfuil an post ar liosta gairmeacha neamh-incháilithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must have the qualifications, skills and experience required for the job</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go bhfuil na cáilíochtaí, scileanna agus taithí a theastaíonn don phost agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must be directly employed and paid by your employer</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go mbíonn tú fostaithe agus íoctha go díreach ag d’fhostóir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>General Employment Permit applications from recruitment agencies and other intermediaries are not acceptable</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní ghlactar le hiarratais ar Chead Fostaíochta Ginearálta ó ghníomhaireachtaí earcaíochta agus ó idirghabhálaithe eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The employer must be trading in Ireland, registered with Revenue and with the Companies Registration Office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go mbeidh an fostóir ag trádáil in Éirinn agus a bheith cláraithe leis an Oifig um Chlárú Cuideachtaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your employer cannot deduct recruitment expenses from your pay or retain your personal documents</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir le d’fhostóir costais earcaíochta a bhaint ó do phá nó do cháipéisí pearsanta a choimeád</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A General Employment Permit will not be issued to companies where the granting of the permit would mean that more than 50% of the employees would be non-EEA nationals</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní eiseofar Cead Fostaíochta Ginearálta do chuideachtaí dá mbeadh breis agus 50% de na fostaithe ina náisiúnaigh neamh-LEE mar gheall ar an gcead a dheonú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, this requirement may be waived in the case of start-up companies or where the applicant will be the only employee</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadtar an ceanglas seo a tharscaoileadh i gcás cuideachtaí nuathionscanta nó sa chás go mbeidh an t-iarratasóir ar an t-aon fhostaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Labour market needs test</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tástáil riachtanas an mhargaidh shaothair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All new applications for General Employment Permits include evidence that a labour market needs test has been carried out</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áirítear le gach iarratas nua ar Cheadanna Fostaíochta Ginearálta fianaise gur tugadh faoi thástáil riachtanas an mhargaidh shaothair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Waivers: Since 1 October 2014 the requirement for a labour market needs test may be waived if the application:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tarscaoiltí: Ón 1 Deireadh Fómhair 2014, féadtar an ceanglas le tástáil riachtanas an mhargaidh shaothair a tharscaoileadh sna cásanna a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Is for a former permit holder who has been made redundant or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má tá an t-iarratas d’iar-shealbhóir ceada a rinneadh iomarcach nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Is for a job listed on the Highly Skilled Occupations List or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má tá an t-iarratas do phost atá liostaithe i Liosta na nGairmeacha Ardoilte nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Has been recommended by Enterprise Ireland or IDA Ireland or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má mhol Fiontraíocht Éireann nó ÚFT Éireann an t-iarratas nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Is for a carer with a proven history of caring for the sick person or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má tá an t-iarratas do chúramóir a cruthaíodh a bhfuil stair aige/aici de chúram a thabhairt don duine breoite nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Is for a job with an annual salary of €60,000 or more</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má tá an t-iarratas do phost ag a bhfuil tuarastal bliantúil €60,000 nó níos mó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The test requires that the vacancy must have been advertised with the Department of Social Protection (DSP) employment services/EURES employment network for 2 weeks, in a national newspaper for at least 3 days and in either a local newspaper or jobs website for 3 days</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceanglaíonn an tástáil nach mór gur fógraíodh an folúntas le seirbhísí fostaíochta na Roinne Coimirce Sóisialaí (RCS)/líonra fostaíochta EURES ar feadh 2 sheachtain, i nuachtán náisiúnta ar feadh 3 lá, ar a laghad, agus cibé acu i nuachtán áitiúil nó ar láithreán gréasáin phost ar feadh 3 lá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is to ensure that an EEA or Swiss national cannot be found to fill the vacancy</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar seo ar mhaithe lena chinntiú nach féidir náisiúnach LEE nó Eilvéiseach a aimsiú chun an folúntas a líonadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When registering the vacancy on DSP/EURES the employer must specify that the vacancy is a potential General Employment Permit application</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a bhíonn an folúntas á chlárú leis an RCS/EURES, ní mór don fhostóir a shonrú gurb iarratas féideartha ar Chead Fostaíochta Ginearálta atá san iarratas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the employer is unable to find an EEA or Swiss national, they must contact their local employment services office or Intreo centre within 4 weeks to ask for a decision to be made on the vacancy</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil an fostóir in ann náisiúnach LEE nó Eilvéiseach a aimsiú, ní mór dóibh teagmháil a dhéanamh lena n-oifig áitiúil seirbhísí fostaíochta nó ionad Intreo laistigh de 4 seachtaine chun iarraidh ar chinneadh a dhéanamh faoin bhfolúntas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In response to the employer’s request, the employment services office will decide whether a General Employment Permit is justified to fill the vacancy</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar fhreagairt d’iarratas an fhostóra, déanfaidh an oifig seirbhísí fostaíochta cinneadh ar cibé acu an bhfuil nó nach bhfuil údar le Cead Fostaíochta Ginearálta chun an folúntas a líonadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the employer does not contact the local employment services office, the advertisement will continue but no employment permit can be issued for that vacancy</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura ndéanann an fostóir teagmháil leis an oifig áitiúil seirbhísí fostaíochta, leanfaidh an fógra ach ní féidir aon chead fostaíochta a eisiúint don fholúntas sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Occupations that are ineligible for employment permits</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gairmeacha atá incháilithe do cheadanna fostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Employment permits are not available for occupations listed under the heading ‘Ineligible Employments’ on the Ineligible Categories of Employment list (except for certain carers)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl fáil ar cheadanna fostaíochta do ghairmeacha atá liostaithe faoin teideal ‘Fostaíocht Neamh-Incháilithe’ ar an liosta Catagóirí Neamh-Incháilithe Fostaíochta (seachas i gcás cúramóirí áirithe)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, applicants for the Dependant/Partner/Spouse and the Reactivation Employment Permit Schemes can get employment permits for these occupations apart from those taking place in a domestic setting (except for certain carers) or contrary to public interest</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh iarratasóirí ar na Scéimeanna Cead Fostaíochta Cleithiúnaí/Páirtnéara/Céile agus Athghníomhachtaithe ceadanna fostaíochta a fháil, áfach, seachas iad siúd a bhíonn ar bun i suíomh baile (seachas i gcás roinnt cúramóirí) nó iad siúd a thagann salach ar leas an phobail</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A General Employment Permit is issued first for 2 years and then may be renewed for a further 3 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Eisítear Cead Fostaíochta Ginearálta i dtosach ar feadh 2 bhliain agus féadtar é a athnuachan ar feadh 3 bliana ina dhiaidh sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have worked for 5 consecutive years on a work permit you may no longer need a permit to work in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má d’oibrigh tú ar feadh cúig bliana as a chéile ar chead fostaíochta, b’fhéidir nach dteastóidh cead uait a thuilleadh chun oibriú in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When your stamp 1 permission is due for renewal your local immigration officer – see ‘Registration’ below – will issue you with a stamp 4 immigration permission for one year which will allow you to take up any employment but not self-employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair atá do chead stampa 1 dlite le hathnuachan, eiseoidh d'oifigeach áitiúil inimirce – féach ‘Clárúchán’ thíos – cead inimirce stampa 4 ar feadh bliain amháin duit a cheadóidh duit glacadh le haon fhostaíocht, seachas féinfhostaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you have been legally living and working in Ireland for 5 years on a work permit you can apply for long-term residence to the Irish Naturalisation and Immigration Service (INIS) - see 'Where to apply' below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a bhí tú ag oibriú agus i do chónaí go dleathach in Éirinn ar feadh 5 bliana ar chead oibre, féadfaidh tú iarratas a dhéanamh ar chónaitheacht fhadtéarmach le Seirbhís Eadóirseachta agus Inimirce na hÉireann (SEIÉ) – féach ‘Cá ndéanfaidh mé iarratas? ’ thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may also apply for exemption from the requirement to have an employment permit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chomh maith leis sin, féadfaidh tú iarratas a dhéanamh ar dhíolúine ón gceanglas chun cead fostaíochta a bheith agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your application is successful you will be granted extended residence permission for a further 5 years and you will not need a work permit to work in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má éiríonn le d’iarratas, deonófar cead sínte cónaitheachta duit do 5 bliana breise agus ní theastóidh cead oibre uait chun oibriú in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If this is your first work permit in Ireland you are expected to stay with your new employer for 12 months (apart from in exceptional circumstances)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más é seo do chéad chead fostaíochta in Éirinn, bítear ag súil leis go bhfanfaidh tú le d’fhostóir ar feadh 12 mhí (seachas faoi chúinsí eisceachtúla)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>After that you may move to a new employer provided that a new application for a General Employment Permit has been made for a similar job or to another eligible employment sector</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina dhiaidh sin, féadfaidh tú aistriú chuig fostóir nua, a fhad agus a rinneadh iarratas nua ar Chead Fostaíochta Ginearálta ar a mhacasamhail de phost nó go dtí earnáil fostaíochta eile incháilithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you lose your job through redundancy, you should notify the Department of Jobs, Enterprise and Innovation using the redundancy notification form within 28 days of your dismissal</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chailleann tú do phost trí iomarcaíocht, ba cheart duit an Roinn Post, Fiontar agus Nuálaíochta a chur ar an eolas trí fhoirm fógra iomarcaíochta a úsáid laistigh de 28 lá tar éis dífhostú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are provisions for non-EEA workers as follows:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá na forálacha a leanas ann le haghaidh oibrithe neamh-LEE:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Employment permit for 5 years:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cead fostaíochta ar feadh 5 bliana:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have been made redundant after working on an employment permit for 5 consecutive years you will no longer need a permit to work in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má rinneadh iomarcach thú tar éis oibriú ar feadh cúig bliana as a chéile ar chead fostaíochta, ní theastóidh cead uait a thuilleadh chun oibriú in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should apply to your local immigration officer - see 'Registration' below who will issue you with a stamp 4 immigration permission for one year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart duit iarratas a dhéanamh ar d’oifigeach áitiúil inimirce – féach ‘Clárúchán’ thíos, a eiseoidh cead inimirce stampa 4 duit ar feadh bliain amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This permission may be renewed annually and it will allow you to take up any employment or become self-employed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadtar an cead seo a athnuachan gach bliain agus ceadóidh sé duit glacadh le haon fhostaíocht nó bheith féinfhostaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Employment permit for less than 5 years:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cead fostaíochta ar feadh níos lú ná 5 bliana:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Department of Jobs, Enterprise and Innovation will allow you 6 months to find another job</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabharfaidh an Roinn Post, Fiontar agus Nuálaíochta 6 mhí duit chun post eile a aimsiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you find another job you have to apply for a new General Employment Permit but a labour market needs test is not required</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a aimsíonn tú post eile, beidh ort iarratas a dhéanamh ar Chead Fostaíochta Ginearálta ach ní theastaíonn tástáil riachtanas an mhargaidh shaothair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you were made redundant from a job on the list of ineligible categories you may apply for a new General Employment Permit for a job on that ineligible list</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má rinneadh iomarcach thú ó phost ar an liosta de chatagóirí neamh-incháilithe, féadfaidh tú iarratas a dhéanamh ar Chead nua Fostaíochta Ginearálta le haghaidh poist ar an liosta neamh-incháilithe sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should contact your local immigration officer to confirm your immigration status – see 'Registration' below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart duit teagmháil a dhéanamh le d’oifigeach áitiúil inimirce le do stádas inimirce a dheimhniú – féach ‘Clárúchán’ thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have more than 6 months before your immigration permission expires, you can reside in Ireland under your stamp 1 permission for a further 6 months</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura n-éagfaidh do chead inimirce go ceann 6 mhí, ar a laghad, féadfaidh tú cónaí in Éirinn faoi do chead stampa 1 a fuair tú, ar feadh 6 mhí bhreise</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have less than 6 months' immigration permission you can have your immigration permission extended to 6 months which means you will have to pay for a new Certificate of Registration - see 'Rates' below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má éagfaidh do chead inimirce laistigh de 6 mhí, féadfaidh tú a iarraidh go sínfear do chead inimirce go dtí 6 mhí, a chiallaíonn go mbeidh ort íoc as cárta nua BNIGS – féach ‘Rátaí’ thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have not found a new job after 6 months you will be expected to leave Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Murar aimsigh tú post nua tar éis 6 mhí, beifear ag súil leis go bhfágfaidh tú Éire</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you then get an offer of employment in Ireland you may apply for a new General Employment Permit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má thugtar tairiscint fostaíochta duit in Éirinn, ansin, féadfaidh tú iarratas a dhéanamh ar Chead nua Fostaíochta Ginearálta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Short-time working: if you have been put on short-time working while on a work permit or a General Employment Permit, you must notify the Department of Jobs, Enterprise and Innovation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Obair ghearr-ama: Má cuireadh ar obair ghearr-ama thú fad atá tú ag oibriú ar chead oibre nó Cead Fostaíochta Ginearálta, ní mór duit fógra a thabhairt don Roinn Post, Fiontar agus Nuálaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you do not do this any application to renew your permit in future may be affected</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura ndéanann tú seo, d’fhéadfaí tionchar a imirt ar aon iarratas chun do chead a athnuachan amach anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are a national who requires a visa, you should obtain a visa before travelling to Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más náisiúnach thú óna dteastaíonn víosa, ba cheart duit víosa a fháil sula dtaistealaíonn tú go hÉirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must apply for an entry visa online</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit iarratas a dhéanamh ar víosa iontrála ar líne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Registration and permission to remain</seg></tuv>
+  <tuv xml:lang="ga"><seg>Clárúchán agus cead chun fanacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Non-EEA nationals (with the exception of Switzerland) must register with the local immigration officer in the area where they intend to live when they arrive in the State</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór do náisiúnaigh neamh-LEE (seachas an Eilvéis) clárú leis an oifigeach áitiúil inimirce sa cheantar ina bhfuil sé beartaithe acu cónaí nuair a thagann siad chun an Stáit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In Dublin you register at the Burgh Quay Registration Office</seg></tuv>
+  <tuv xml:lang="ga"><seg>I mBaile Átha Cliath, féadfaidh tú clárú ag Oifig Chlárúcháin Cé an Bhúrcaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Since 15 September 2016, you must book an appointment online to visit it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó 15 Meán Fómhair 2016, caithfidh tú coinne a scríobh isteach ar líne chun cuairt a thabhairt air</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Outside Dublin you may register at your regional registration office or your local Garda District Headquarters</seg></tuv>
+  <tuv xml:lang="ga"><seg>Lasmuigh de Bhaile Átha Cliath, féadfaidh tú clárú ag oifig chlárúcháin régiúnach nó Ceanncheathrú áitiúil Cheantar an Gharda Síochána</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may be able to bring your family to live here after you have been legally working here for a year on a General Employment Permit</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfá bheith in ann do theaghlach a thabhairt leat chun cónaí anseo má bhí tú ag oibriú go dleathach anseo ar feadh bliana ar Chead Fostaíochta Ginearálta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You also have to be able to show that you will be able to support them</seg></tuv>
+  <tuv xml:lang="ga"><seg>Anuas air sin, tá ort bheith in ann a thaispeáint go mbeidh tú in ann tacú leo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In practice, you need to be earning more than the limits for Family Income Supplement</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcleachtas, is gá duit níos mó ná na teorainneacha ar an bhForlíonadh Ioncam Teaghlaigh a bheith á thuilleamh agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have a General Employment Permit your spouse, partner or dependants are not eligible to apply for a Dependant/Partner/Spouse Employment Permit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá Cead Fostaíochta Ginearálta agat, níl do chéile, páirtnéir nó cleithiúnaithe i dteideal iarratas a dhéanamh ar Chead Fostaíochta Cleithiúnaí/Páirtnéara/Céile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They can apply for a General Employment Permit in their own right</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh siad iarratas a dhéanamh ar Chead Fostaíochta Ginearálta as a stuaim féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They may require visas to come to Ireland (see 'Visas' above) and there are INIS guidelines about family reunification for workers</seg></tuv>
+  <tuv xml:lang="ga"><seg>B’fhéidir go dteastódh víosaí uathu chun teacht go hÉirinn (féach ‘Víosaí’ thuas) agus tá treoirlínte SEIÉ ann faoi athaontú teaghlaigh le haghaidh oibrithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Employment permit not necessary</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní theastaíonn cead fostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are a non-EEA national you do not need an employment permit if:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más náisiúnach neamh-LEE thú, ní theastaíonn cead fostaíochta uait, sna cásanna a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You have permission to remain as the spouse, civil partner or dependant of an Irish or EEA national</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tá cead agat fanacht mar chéile, páirtnéir sibhialta nó cleithiúnaí náisiúnaigh Éireannaigh nó náisiúnaigh den LEE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You are a Swiss national</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Is náisiúnach na hEilvéise thú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You have been granted refugee status - whether through the normal process or as a programme refugee</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Deonaíodh stádas dídeanaí duit – cibé acu tríd an ngnáthphróiseas nó mar dhídeanaí cláir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You have been granted temporary permission to remain on humanitarian grounds, having been in the asylum process</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Deonaíodh cead sealadach duit chun fanacht ar fhorais dhaonnúla, tar éis a bheith sa phróiseas tearmainn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You have been granted permission to remain as the parent of an Irish citizen</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Deonaíodh cead duit chun fanacht mar thuismitheoir saoránaigh Éireannaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You have specific immigration permission to live and work in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tá cead sonrach inimirce agat chun cónaí agus oibriú in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You have business permission to set up a business in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tá cead gnó agat chun gnó a chur ar bun in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You are a registered student - see below</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Mac léinn cláraithe thú – féach thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will be refused an employment permit where you:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Diúltófar cead fostaíochta a thabhairt duit sna cásanna a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Entered the State on the basis that you are not taking up employment, for example, as a visitor</seg></tuv>
+  <tuv xml:lang="ga"><seg>• D’iontráil tú an Stát ar an mbonn nach mbeidh tú ag glacadh le fostaíocht, mar shampla, mar chuairteoir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Are in the State illegally or you no longer comply with the conditions under which you were admitted</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tá tú sa Stát go mídhleathach nó ní chomhlíonann tú na coinníollacha a thuilleadh faoinar tugadh cead isteach duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Have been asked by the Department of Justice and Equality to leave the State</seg></tuv>
+  <tuv xml:lang="ga"><seg>• D’iarr an Roinn Dlí agus Cirt agus Comhionannais ort an Stát a fhágáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Are in the process of being deported</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tá tú á dhíbirt faoi láthair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Are seeking employment with a non-European Economic Area/Swiss employer who is operating in the State without business permission from the Minister for Justice and Equality</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tá fostaíocht á lorg agat le fostóir neamh-Limistéar Eorpach Eacnamaíoch/Éilvéiseach atá ag oibriú sa Stát gan cead gnó ón Aire Dlí agus Cirt agus Comhionannas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The fee must be paid by the applicant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don iarratasóir an táille a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Either the employee or the employer can apply</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh an fostaí nó an fostóir iarratas a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In some circumstances, for example, where the employer applying is a registered charity, the fee may be waived</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi roinnt cúinsí, mar shampla, sa chás gur carthanas cláraithe é an fostóir a bhfuil iarratas á dhéanamh aige/aici, féadtar an táille a tharscaoileadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Payments from businesses are made by electronic fund transfer (EFT)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar íocaíochtaí ó gnóthaí trí ríomhaistriú airgid (EFT)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Fees for new applications for General Employment Permits</seg></tuv>
+  <tuv xml:lang="ga"><seg>Táillí ar iarratais nua ar Cheadanna Fostaíochta Ginearálta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Duration of permit │Amount │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Fad an cheada │Méid │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Up to 6 months │€500 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│A fhad le 6 mhí │€500 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Up to 2 years │€1,000 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│A fhad le 2 bhliain │€1,000 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Fees for renewals of General Employment Permits</seg></tuv>
+  <tuv xml:lang="ga"><seg>Táillí ar athnuachan ar Cheadanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Duration of renewal │Amount │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Fad na hathnuachana │Méid │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Up to 6 months │€750 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│A fhad le 6 mhí │€750 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Up to 3 years │€1,500 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│A fhad le 3 bliana │€1,500 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If an application is refused or withdrawn, 90% of the fee will be refunded to the applicant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhiúltaítear nó má aistarraingítear iarratas, aisíocfar 90% den táille leis an iarratasóir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The fee for the Certificate of Registration is €300</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is í an táille atá ar Dheimhniú Clárúcháin BNIGS ná €300</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>New applications for General Employment Permits can be made by the prospective employer or employee to the Employment Permits Section of the Department of Jobs, Enterprise and Innovation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh an fostóir ionchasach no an fostaí iarratais nua a dhéanamh ar Cheadanna Fostaíochta Ginearálta leis an Rannóg Ceadanna Fostaíochta den Roinn Post, Fiontar agus Nuálaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Since 5 September 2016, you apply online with the required documentation, using the Employment Permits Online System (EPOS)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó 5 Meán Fómhair 2016, féadtar iarratais a dhéanamh ar líne leis an cháipéisíocht tacaíochta a theastaíonn agus leas á bhaint as an gCóras Ceadanna Fostaíochta Ar Líne (CCFA)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Processing and reviews: You can check the status of your application through the online status enquiry facility</seg></tuv>
+  <tuv xml:lang="ga"><seg>Próiseáil agus athbhreithnithe: Féadfaidh tú stádas d’iarratas tríd an tsaoráid fhiosrúcháin faoi stádas ar líne a sheiceáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The application processing times on the Department’s website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá na hamanna próiseála iarratais ar shuíomh gréasáin na Roinne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The official processing your application will either grant it or refuse it for specific reasons</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfaidh próiseáil oifigiúil d’iarratais é a dheonú nó a dhiúltú ar údair shonracha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your application is refused you may appeal the decision within 28 days, using the form to submit a decision for review</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhiúltaítear d’iarratas, féadfaidh tú achomharc a dhéanamh laistigh de 28 lá, trí leas a bhaint as an bhfoirm chun cinneadh a sheoladh isteach a bhfuil athbhreithniú le déanamh air</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Renewal of General Employment Permits: Either an employer or an employee can apply for a renewal using the Employment Permits Online System (EPOS) 16 weeks before the expiry of the permit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Athnuachan ar Cheadanna Fostaíochta Ginearálta: Féadfaidh an fostóir nó an fostaí iarratas a dhéanamh ar athnuachan agus leas á bhaint as an gCóras Ceadanna Fostaíochta Ar Líne (CCFA)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If an employer applies for a General Employment Permit for a former employee who has left the State, this will be considered a new application</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéanann fostóir iarratas ar Chead Fostaíochta Ginearálta d’iar-fhostaí a d’fhág an Stát, measfar gurb iarratas nua seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is further information about General Employment Permits on the Department's website.   Where to apply</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá breis faisnéise ar fáil faoi Cheadanna Fostaíochta Ginearálta ar láithreán gréasáin na Roinne</seg></tuv>
+</tu>
+</body>
+</tmx>

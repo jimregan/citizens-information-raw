@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Case study: Dependant/Partner/Spousal Employment Permit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cás-staidéar: Cead Fostaíochta do Chleithiúnaí/Pháirtnéir/Chéile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Alice came to Ireland from the Philippines with her husband who is employed on a Critical Skills Employment Permit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tháinig Alice go hÉirinn ó na hOileáin Fhilipíneacha lena fear céile atá fostaithe ar Cead Fostiaíochta Scileanna Criticiúla. Cárta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>She has been looking for work and found a position in a local shop</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bhí sí ag cuardach oibre agus tháinig sí ar phost le siopa áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The shop owner looked into getting an employment permit for Alice but have told her that it is too expensive for them to organise the employment permit for her</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rinne an fostóir fiosruithe faoi chead fostaíochta a fháil do Alice, ach tá sé ráite acu léi go mbeidh sé ró-chostasach an cead a fháil di</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Alice was very disappointed and went to her local Citizens Information Centre to get more information about employment permits and her options</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bhí an-díomá ar Alice agus thug sí cuairt ar an Ionad Faisnéise do Shaoránaigh áitiúil chun breis faisnéise a fháil faoi cheadanna fostaíochta agus na roghanna atá aici</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In fact, because Alice’s husband is already working in Ireland on a Critical Skills Employment Permit, Alice is eligible for a Dependant/Partner/Spousal (DPS) Employment Permit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é fírinne an scéil ná toisc go bhfuil fear céile Alice cheana féin ag obair in Éirinn ar Chead Fostiaíochta Scileanna Criticiúla, tá Alice incháilithe do Cead Fostaíochta do Chleithiúnaí/Pháirtnéir/Chéile (CPC)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is no fee for this permit and the employer does not have to advertise the role to see if an Irish or EEA citizen is available</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní ghearrtar aon táille as an gcead seo agus ní chaithfidh an fostóir an ról seo a fhógairt le feiceáil an bhfuil saoránach Éireannach nó LEE ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Alice told her potential employer this and they have applied for and received a DPS Employment Permit for Alice</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dúirt Alice an méid seo lena fostóirí féideartha agus tá iarratas déanta acu, agus Cead Fostaíochta CPC faighte acu do Alice</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Now that Alice is working, employment protection legislation applies to her in the same way that it applies to all other workers in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>De bhrí go bhfuil Alice ag obair anois, baineann reachtaíocht cosanta fostaíochta léi ar an mbealach céanna le gach oibrí eile in Éirinn</seg></tuv>
+</tu>
+</body>
+</tmx>

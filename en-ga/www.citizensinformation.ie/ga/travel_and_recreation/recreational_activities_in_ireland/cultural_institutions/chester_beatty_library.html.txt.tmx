@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>The Chester Beatty Library is an art museum and library and houses a collection of Oriental and Western manuscripts and art</seg></tuv>
+  <tuv xml:lang="ga"><seg>Iarsmalann ealaíne agus leabharlann atá i Leabharlann Chester Beatty agus tá inti bailiúchán lámhscríbhinní agus ealaíne Oirthearaí agus Iartharaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The library is located in Dublin Castle</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an leabharlann lonnaithe i gCaisleán Bhaile Átha Cliath</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The collections contains early papyri, including some of the earliest texts of the Bible, in addition to other early Christian manuscripts, western prints and printed books</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa bhailiúchán tá paipéir ársa, ina measc, roinnt de na téacsanna is luaithe dá bhfuil ann den Bhíobla, mar aon le lámhscríbhinní ársa na Críostaíochta, priontaí agus leabhair chlóbhuailte Iartharacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Library's Reading Room holds reference material relating to the collections</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá i Seomra Léimh na Leabharlainne ábhar tagartha a bhaineann leis na bailiúcháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Library's collections include representative samples of the world’s heritage (artistic, religious and secular) from about 2700 BC to the present century</seg></tuv>
+  <tuv xml:lang="ga"><seg>I measc bhailiúcháin na leabharlainne tá samplaí ionadaíocha d'oidhreacht an domhain (ealaíonta, reiligiúnach agus saolta) ó thart ar an tráth 2700 RCh go dtí céad na linne seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They comprise of the following:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina measc tá an méid a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The East Asian collections</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bailiúcháin Oirthear na hÁise</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Library's collections are presented in 2 permanent exhibitions:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirtear bailiúcháin na Leabharlainne i láthair in 2 thaispeántas bhuana:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Library also mounts special temporary exhibitions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, cuireann an Leabharlann taispeántais shealadacha speisialta ar siúl</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Educational activities at the Library include talks, children's workshops and demonstrations in techniques represented in the collections, such as calligraphy, painting, printing and other crafts, as well as tours and films</seg></tuv>
+  <tuv xml:lang="ga"><seg>I measc na ngníomhaíochtaí oideachais ag an Leabharlann tá cainteanna, ceardlanna agus taispeántais do leanaí i dteicníochtaí atá le sonrú sna bailiúchain, ar nós callagrafaíochta, péintéireachta, clóbhuailte agus ceirdeanna eile, mar aon le turais agus le scannáin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further information on the schedule of events is available on the Library's website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh faisnéise ar fáil faoi sceideal na n-imeachtaí ar láithreán gréasáin na Leabharlainne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Library is open all year round apart from 1 January; Good Friday; 24, 25 and 26 December; and Monday public holidays</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an Leabharlann ar oscailt ar feadh na bliana ach amháin i gcás le haghaidh 1 Eanáir; Aoine an Chéasta; 24, 25 agus 26 Nollaig; agus Dé Luain laethanta saoire poiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Admission to the Library and all public tours are free of charge</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá cead isteach chuig an Leabharlann saor in aisce agus níl aon táille le híoc do na turais phoiblí go léir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>See the schedule of events for charges on other events</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caith súil ar sceideal na n-imeachtaí le teacht ar tháillí ar imeachtaí eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you wish to arrange a tour you can book it online</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mian leat turas a shocrú, is féidir leat é a chur in áirithe ar líne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you wish to use the Reading Room, you should contact the Reference Librarian at (01) 407 0750 or or use the online contact form</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mian leat an Seomra Léimh a úsáid, ba cheart duit teagmháil a dhéanamh leis an Leabharlannaí Tagartha ag (01) 407 0750 nó leas a bhaint as an bhfoirm teagmhála ar líne</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>• Buying or selling a vehicle</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Díol nó ceannach feithicle</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Motor tax and insurance</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cáin Ghluaisteáin agus Árachas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Ireland's InjuriesBoard.ie decides on personal injury claims where the person responsible for the injury is not disputing liability and consents to the Board assessing the claim for compensation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann InjuriesBoard.ie na hÉireann cinneadh maidir le héilimh ar dhíobháil phearsanta sa chás nach bhfuil an duine a bhí freagrach as an ngortú ag cur i gcoinne dliteanais agus go dtoilíonn sé/sí don Bhord measúnú a dhéanamh ar an éileamh ar chúiteamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This document is in: Justice &gt; Civil law</seg></tuv>
+  <tuv xml:lang="ga"><seg>This document is in: Dlí &gt; An Dlí Sibhialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are involved in a motor accident there are certain things you are required by law to do</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhíonn tú i mótarthimpiste tá roinnt rudaí gur gá duit a dhéanamh de réir an dlí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most Read in "Travel and Recreation"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ábhar is mó éilimh i "Taisteal agus Áineas"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Applying for your first Irish passport</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag déanamh iarratais ar phas Éireannach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Renewing an Irish passport</seg></tuv>
+  <tuv xml:lang="ga"><seg>Pas Éireannach a athnuachan</seg></tuv>
+</tu>
+</body>
+</tmx>

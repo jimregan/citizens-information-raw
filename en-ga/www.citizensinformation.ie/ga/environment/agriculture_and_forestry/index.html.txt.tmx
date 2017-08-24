@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Incentives for farmers to protect the environment</seg></tuv>
+  <tuv xml:lang="ga"><seg>An Scéim Cosanta Timpeallachta Tuaithe, scéim cúnamh ioncaim atá dhá rith ag an Roinn Talmhaíochta, Iascaireachtaí agus Bia</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The total forest area is 11% of the landscape</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chlúdaíonn coillearnacha ach 11% de thírdhreach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In 2000 over a million trees were planted on behalf of each home in the country</seg></tuv>
+  <tuv xml:lang="ga"><seg>I 2000 plandáladh os cionn 1.2 milliún crann thar cheann gach teaghlach sa tír</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most Read in "Environment"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ábhar is mó éilimh i "Comhshaol"</seg></tuv>
+</tu>
+</body>
+</tmx>

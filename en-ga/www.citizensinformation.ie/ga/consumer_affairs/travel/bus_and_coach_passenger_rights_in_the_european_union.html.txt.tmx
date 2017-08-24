@@ -1,0 +1,341 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Bus and coach passenger rights in the European Union</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cearta paisinéirí bus agus cóiste san Aontas Eorpach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Since March 2013 bus and coach passengers have a minimum set of rights when travelling in the European Union</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó Mhárta 2013, tá sraith íosta cearta ag paisinéirí bus agus cóiste nuair a bhíonn siad ag taisteal san Aontas Eorpach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Regulation 181/2011 concerning the rights of passengers in bus and coach transport applies to passengers travelling with regular services that operate at specified intervals along specified routes, with passengers being picked up and set down at predetermined stopping points</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn feidhm ag Rialachán 181/2011 a bhaineann le cearta paisinéirí in iompar busanna agus cóistí le paisinéirí a thaistealaíonn le seirbhísí rialta a oibríonn ag eatraimh shonraithe feadh bealaí sonraithe, ina nglactar le breis paisinéirí agus ina scaoiltear le paisinéirí ag pointí réamhchinnte stadta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Either the boarding or the alighting point must be within the European Union</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go mbeidh bordáil nó díbhordáil ag tarlú laistigh den Aontas Eorpach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some of the Regulation’s provisions are mandatory and apply to all services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá forálacha áirithe an Rialacháin éigeantach agus baineann siad le gach seirbhís</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The other rights available under the Regulation only apply where the scheduled distance of the service is 250 km or more</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhíonn feidhm ag na cearta eile atá ar fáil faoin Rialachán ach amháin nuair a bhíonn 250km nó níos faide i gceist leis an bhfad sceidealaithe taistil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An EU member state may grant an exemption from the application of the entire Regulation for a period of 4 years in the case of a regular service where a significant part of the service (including at least one scheduled stop) operates outside the European Union</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh ballstát an AE díolúine a dheonú ó chur i bhfeidhm an Rialacháin iomláin ar feadh tréimhse 4 bliana i gcás seirbhís rialta nuair a oibríonn cuid shuntasach den tseirbhís (lena n-áirítear stad sceidealaithe amháin, ar a laghad) lasmuigh den Aontas Eorpach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The exemption may be renewed once for another 4 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadtar an díolúine seo a athnuachan uair amháin ar feadh 4 bliana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The European Commission has provided an application for smartphones which gives information on passengers’ rights including bus and coach passengers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sholáthair an Coimisiún Eorpach feidhmchlár le haghaidh gutháin chliste a thugann faisnéis ar chearta paisinéirí, lena n-áirítear paisinéirí bus agus cóiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The following provisions of the Regulation apply to all regular bus and coach passenger services, irrespective of the scheduled distance of the service:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann na forálacha a leanas den Rialachán le gach seirbhís rialta do phaisinéirí bus agus cóiste, gan aird ar fhad sceidealaithe na seirbhíse:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• When buying a bus or coach ticket, you may not be discriminated against, for example, by being charged a higher price because of your nationality or where you are buying the ticket from</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Nuair a bhíonn ticéad bus nó cóiste á cheannach, ní fhéadtar idirdhealú a dhéanamh ort, mar shampla, trí phraghas níos airde a ghearradh ort mar gheall ar do náisiúntacht nó ar an áit a bhfuil an ticéad á cheannach agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You can't be stopped from buying a ticket, making a reservation or getting on board because of your reduced mobility, unless this is strictly necessary to comply with health and safety requirements, or where the infrastructure cannot guarantee safe transport</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní fhéadtar cosc a chur ort ó thicéad a cheannach, áit a chur in áirithe nó bordáil a dhéanamh mar gheall ar do shoghluaisteacht laghdaithe, mura bhfuil géarghá leis seo, chun na ceanglais sláinte agus sábháilteachta a chomhlíonadh, nó sa chás nach féidir leis an mbonneagar iompar sábháilte a chinntiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Where a carrier or a terminal operator is liable for the loss of or damage to your wheelchair or other mobility equipment, the amount of compensation they are liable for is the cost of replacement or repair of the equipment lost or damaged</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sa chás go bhfuil iompróir nó oibreoir críochfoirt faoi dhliteanas íoc as an gcaillteanas nó as an díobháil a rinneadh do do chathaoir rothaí nó do threalamh soghluaisteachta eile, is ionann an méid cúitimh a bheidh le híoc acu agus an costas a bheidh ar an trealamh a cailleadh nó a ndearnadh díobháil dó a chur in ionad nó a dheisiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(A terminal means a staffed terminal and has facilities such as a check-in counter, waiting room or ticket office.)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Ciallaíonn críochfort críochfort ina bhfuil foireann ag oibriú agus ina bhfuil áiseanna ar nós cuntar um sheiceáil isteach, seomra feithimh nó oifig ticéad.)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You have the right to adequate information throughout your travel</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tá sé de cheart agat faisnéis leordhóthanach a fháil ó thús deireadh do thaistil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This right includes the right to be informed about passenger rights and the contact details of national enforcement bodies</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áirítear leis an gceart seo an ceart go gcuirfear ar an eolas thú faoi chearta paisinéirí agus sonraí teagmhála comhlachtaí náisiúnta forfheidhmithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The information should be available in accessible formats</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart go mbeadh an fhaisnéis ar fáil i bhformáidí inrochtana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Bus and coach carriers are required to set up a complaints handling mechanism to help passengers who are trying to avail of their rights under this Regulation</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ceanglaítear ar iompróirí busanna agus cóistí meicníocht um láimhseáil gearán a shocrú chun cabhrú le paisinéirí a bhfuil iarrachtaí á ndéanamh acu a gceart a chur i bhfeidhm faoin Rialachán seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Every member state must designate a body responsible for the enforcement of this Regulation (see ‘Complaints and enforcement’ below)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní mór do gach ballstát comhlacht a shannadh a bheidh freagrach as forfheidhmiú an Rialacháin seo (féach ‘Gearáin agus forfheidhmiú’ thíos)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The following information covers additional passenger’s rights under the Regulation’s provisions where the scheduled distance of the regular service is 250 km or more</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuimsíonn an fhaisnéis a leanas cearta breise paisinéirí faoi fhorálacha an Rialacháin, sa chás go bhfuil fad sceidealaithe na seirbhíse rialta 250km nó níos faide</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, an EU member state may grant an exemption from these additional rights to a purely domestic regular service for a period of 4 years, which may be renewed once for a further 4 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar a shon sin, féadfaidh ballstát an AE díolúine a dheonú ó na cearta breise seo do sheirbhís rialta atá go hiomlán intíre, ar feadh tréimhse 4 bliana, ar féidir seo a athnuachan uair amháin ar feadh 4 bliana breise</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Carriers must issue tickets to passengers, unless other documents give entitlement to transport</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór d’iompróirí ticéid a eisiúint do phaisinéirí, mura dtugann cáipéisí eile teidlíocht chun taistil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A ticket may be issued in an electronic format</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadtar ticéad a eisiúint i bhformáid leictreonach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Compensation in the event of accidents</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cúiteamh i gcas timpistí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are entitled to compensation for death or personal injury, as well as for loss of or damage to luggage, due to accidents arising out of the use of bus or coach services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tú i dteideal cúiteamh a fháil i gcás báis nó díobháil phearsanta, agus sa chás go gcailltear bagáiste nó go ndéantar díobháil dó, mar thoradh ar thimpistí a eascraíonn ó sheirbhísí bus nó cóiste a úsáid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The conditions and amount of compensation is governed by the applicable national law</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann an dlí infheidhme náisiúnta coinníollacha agus méid an chúitimh a rialú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The compensation is not automatic and must be claimed in court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl an cúiteamh uathoibríoch agus ní mór é a éileamh sa chúirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Any maximum limit provided by the applicable national law to the compensation shall not be less than:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bheidh aon teorainn uasta dá bhforálann an dlí náisiúnta ar mhaithe le cúiteamh níos lú ná:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• €1,200 per item of luggage</seg></tuv>
+  <tuv xml:lang="ga"><seg>• €1,200 in aghaidh an earra bagáiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the event of damage to wheelchairs, other mobility equipment or assistive devices the amount of compensation shall always be equal to the cost of replacement or repair of the equipment lost or damaged</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás go ndéantar díobháil do chathaoireacha rothaí, nó do threalamh soghluaisteachta nó fearais chúnta eile, is ionann an méid cúitimh a bheidh le híoc agus an costas a bheidh ar an trealamh a cailleadh nó a ndearnadh díobháil dó a chur in ionad nó a dheisiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The carrier is required to provide you with reasonable assistance with regard to your immediate practical needs following the accident</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceanglaítear ar an iompróir cúnamh réasúnta a sholáthar duit maidir le do riachtanais láithreacha phraiticiúla tar éis na timpiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Such assistance shall include, where necessary, accommodation, food, clothes, transport and the facilitation of first aid</seg></tuv>
+  <tuv xml:lang="ga"><seg>I measc an chúnaimh sin, beidh, sa chás go dteastaíonn sé, cóiríocht, bia, éadaí, iompar agus garchabhair a éascú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The carrier may limit the total cost of accommodation to €80 per night and to a maximum of 2 nights</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh an t-iompróir teorainn €80 a chur ar chostas iomlán a cóiríochta agus an chóiríocht a sholáthar ar feadh 2 oíche ar a mhéid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Any assistance provided by the carrier does not constitute admission of liability</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní hionann aon chúnamh a sholáthraíonn an t-iompróir agus dliteanas a admháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If there is an overbooking or the carrier expects a service from a terminal to be cancelled or delayed by more than 120 minutes beyond the scheduled time of departure, you have the right to choose between:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéantar ró-áirithint nó má mheasann an t-iompróir go gcuirfear seirbhís ó chríochfort ar ceal nó go gcuirfear moill ar an tseirbhís a mhairfidh níos mó ná 120 nóiméad tar éis an ama sceidealaithe imeachta, tá de cheart agat roghnú idir na roghanna a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Re-routing to the final destination under comparable conditions at no additional costs and at the earliest opportunity</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bealach eile a aimsiú chuig an ceann scríbe deiridh faoina mhacasamhail de choinníollacha chomh luath agus is féidir gan aon chostais bhreise a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Reimbursement of the full ticket price within 14 days and, where relevant, a free-of-charge return service to the first point of departure, as set out in the transport contract, at the earliest opportunity</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Praghas iomlán an ticéid a fháil ar ais laistigh de 14 lá agus, sa chás gur cuí, seirbhís fillte saor in aisce a fháil chuig an gcéad phointe imeachta, amhail a leagtar amach sa chonradh, ag an tráth is luaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The same right to choose is applicable if the service is cancelled or delayed in departure from a bus stop for more than 120 minutes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn an ceart céanna agat chun an rogha seo a dhéanamh má chuirtear imeacht na seirbhíse ar ceal nó má chuirtear moill uirthi ó stad bus ar feadh breis agus 120 nóiméad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The reimbursement should be paid in money, unless you accept another form of reimbursement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart an aisíocaíocht a íoc in airgead, mura nglacann tú le foirm eile aisíocaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the carrier fails to offer you either reimbursement or rerouting, you have the right to compensation amounting to 50 % of the ticket price in addition to the reimbursement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má theipeann ar an iompróir aisíocaíocht nó bealach eile a aimsiú a thairiscint duit, tá de cheart agat cúiteamh a fháil arb ionann é agus 50% de phraghas an ticéid, anuas ar an aisíocaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This right to compensation and the eventual reimbursement of the ticket does not prevent you from seeking damages through the courts in respect of loss resulting from cancellation or delay of the service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chuireann an ceart seo chun cúiteamh a fháil agus aisíocaíocht faoi dheireadh an ticéid cosc ort ó dhamáistí a lorg trí na cúirteanna maidir le caillteanas a d’eascair ó chealú nó ó mhoill a chur ar an tseirbhís</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the bus or coach breaks down during the journey, the carrier must send another bus or coach to the place where the original bus or coach broke down, either to:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chliseann ar an mbus nó ar an gcóiste le linn an aistir, ní mór don iompróir bus nó cóiste eile a sheoladh chuig an áit inar chlis an chéad bhus nó cóiste, chun:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Continue the service and carry the passengers to their destination or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Leanúint leis an tseirbhís agus na paisinéirí a iompar chuig a gceann scríbe, nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Transport the passengers to a suitable waiting point or terminal from where continuation of the journey becomes possible</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Chun na paisinéirí a iompar chuig pointe oiriúnach feithimh nó chuig críochfort inar féidir leo leanúint lena n-aistear</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If there is a cancellation or delay in departure when you are departing from a terminal you should be informed of the situation as soon as possible and no later than 30 minutes after the scheduled departure time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chuirtear an t-imeacht ar ceal nó má chuirtear moill air nuair a bhíonn críochfort á fhágáil agat, ba cheart go gcuirfear ar an eolas thú a luaithe is féidir agus tráth nach déanaí ná 30 nóiméad tar éis an ama sceidealaithe imeachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should also be informed of the estimated departure time as soon as this information is available</seg></tuv>
+  <tuv xml:lang="ga"><seg>Anuas air sin, ba cheart go gcuirfear ar an eolas thú faoin am measta imeachta a luaithe a bhíonn an fhaisnéis seo ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you miss a connecting service due to a cancellation or delay, you should be informed of alternative connections</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chailleann tú seirbhís nasctha mar thoradh ar chealú nó ar mhoill, ba cheart go gcuirfear ar an eolas thú ar naisc eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If it is feasible, the above information should be provided by electronic means within the 30 minute time-limit, even if you are departing from a bus stop, providing you have requested that you be notified electronically and have supplied the necessary contact details</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más féidir, ba cheart an fhaisnéis thuas a sholáthar trí mheáin leictreonacha laistigh den teorainn ama 30 nóiméad, fiú má bhíonn tú ag fágáil ó stad bus, a fhad agus a d’iarr tú go gcuirfear ar an eolas thú go leictreonach agus gur sholáthair tú na sonraí riachtanacha teagmhála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the scheduled duration of your long distance journey is more than 3 hours and the service is cancelled or delayed in departing from the terminal for more than 90 minutes, you have a right to:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más breis agus 3 huaire an chloig am sceidealaithe d’aistir chianfhaid, agus má chuirtear an tseirbhís ar ceal nó má chuirtear moill uirthi agus í ag imeacht ó gcríochfoirt ar feadh breis agus 90 nóiméad, tá de cheart agat:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Snacks, meals or refreshments in relation to the waiting time or delay, providing they are available or can reasonably be supplied</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sneaiceanna, béilí nó sólaistí a fháil de réir an ama feithimh nó na moille, a fhad agus a bhíonn fáil orthu nó gur féidir iad a sholáthar go réasúnta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Hotel or other accommodation, as well as transport between the terminal and the place of accommodation, where a stay of 1 or more nights becomes necessary</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cóiríocht óstáin nó cóiríocht eile a fháil, mar aon le hiompar idir an críochfort agus áit na cóiríochta, sa chás go mbíonn gá le cóiríocht ar feadh oíche amháin nó níos mó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(The cost of accommodation is subject to a maximum of €80 per night and to a maximum of 2 nights.)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Bíonn costas na cóiríochta faoi réir €80 san oíche ar a mhéid agus faoi réir 2 oíche ar a mhéid.)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The requirement to provide accommodation does not apply where the carrier proves that the cancellation or delay is caused by severe weather conditions or a major natural disaster</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhíonn feidhm ag an gceanglas chun cóiríocht a sholáthar nuair a chruthaíonn an t-iompróir gurb í fíor-dhrochaimsir nó mórthubaiste nádúrtha is cúis leis an gcealú nó leis an moill</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are not entitled to assistance or rerouting/reimbursement if you have an open ticket that does not specify the time of departure</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl tú i dteideal cúnamh nó bealach eile a aimsiú/aisíocaíocht a fháil má tá ticéad oscailte agat nach sonraíonn am an imeachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, you are entitled to them if you hold a travel pass or a season ticket</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tú i dteideal an mhéid thuas, áfach, má tá pas taistil nó ticéad séasúir agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Regulation does not prevent you seeking damages in the courts in respect of any loss that results from the cancellation or delay of the service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chuireann an Rialachán cosc ort ó dhamáistí a lorg sna cúirteanna maidir le haon chaillteanas a d’eascair ó chealú nó ó mhoill a chur ar an tseirbhís</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>People with disabilities and those with reduced mobility have the right to obtain a ticket and a reservation for any regular service at no extra cost</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá de cheart ag daoine faoi mhíchumas agus iad siúd ag a bhfuil soghluaisteacht laghdaithe ticéad agus áirithint a fháil d’aon seirbhís rialta gan aon chostas eile a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They cannot be refused a ticket or reservation except where it is necessary in order to meet health and safety requirements or where it is not possible to transport them due to the design of the vehicle or infrastructure</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir ticéad nó áirithint a dhiúltú dóibh, seachas sa chás gur gá chun ceanglais sláinte agus sábháilteachta a chomhlíonadh nó sa chás nach féidir iad a iompar mar gheall ar dhearadh na feithicle nó ar an mbonneagar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are refused you should be informed immediately why you are being refused and, if you request it, you must be provided with the reasons in writing within 5 working days</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhiúltaítear thú, ba cheart go gcuirfear ar an eolas thú láithreach cén fáth a bhfuil amhlaidh á dhéanamh agus, má dhéanann tú é a iarraidh, ní mór go luafar leat na cúiseanna i scríbhinn laistigh de 5 lá oibre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must also be informed of any acceptable alternative service operated by the carrier</seg></tuv>
+  <tuv xml:lang="ga"><seg>Anuas air sin, ní mór go gcuirfear ar an eolas thú faoi aon seirbhís inghlactha eile a oibríonn an t-iompróir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the reasons for you being refused a booking or boarding can be removed by the presence of someone who can provide the necessary assistance you may request that you be accompanied by someone of your choice, free of charge</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más féidir na cúiseanna lenar diúltaíodh áirithint nó bordáil duit a bhaint trí dhuine éigin a bheith i láthair ar féidir leo an cúnamh riachtanach a sholáthar, féadfaidh tú a iarraidh go rachaidh duine éigin, a roghnaíonn tú féin, in éineacht leat saor in aisce</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you hold a ticket or a reservation and have notified the carrier about your specific needs as required and you are nonetheless denied boarding on the ground of your disability or reduced mobility, you can choose between reimbursement and rerouting (rerouting is dependent upon the availability of appropriate travel services)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá ticéad nó áirithint agat agus má chuir tú an t-iompróir ar an eolas faoi do riachtanais shonracha, amhail is gá, agus má dhiúltaítear duit bordáil, dá ainneoin sin, mar gheall go bhfuil tú faoi mhíchumas nó ar do shoghluaisteacht laghdaithe, féadfaidh tú rogha idir aisíocaíocht agus bealach eile a aimsiú a dhéanamh (braitheann bealach eile a aimsiú ar an bhfáil a bhíonn ar na seirbhísí oiriúnacha taistil)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Member states are required to designate terminals where assistance is available for people with disabilities and those with reduced mobility free of charge</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceanglaítear ar bhallstáit críochfoirt a shannadh ina bhfuil cúnamh ar fáil do dhaoine saor in aisce atá faoi mhíchumas agus iad siúd ag a bhfuil soghluaisteacht laghdaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Ireland has designated the following terminals:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá na críochfoirt a leanas sannta in Éirinn:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Cork Bus Station, Parnell Place, Cork</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Stáisiún Busanna Chorcaí, Plás Parnell, Corcaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Sligo Station, Lord Edward Street, Sligo</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Stáisiún Shligigh, Sráid an Tiarna Éadbhard, Sligeach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Galway Coach Station, Fairgreen Road, Galway</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Stáisiún Cóistí na Gaillimhe, Bóthar Fhaiche an Aonaigh, Gaillimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Assistance to people with disabilities</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cúnamh do dhaoine atá faoi mhíchumas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Carriers and terminal operators are required to provide assistance free of charge to people with disabilities and to those with reduced mobility</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceanglaítear ar iompróirí agus ar oibreoirí críochfoirt cúnamh a sholáthar saor in aisce do dhaoine atá faoi mhíchumas agus iad siúd ag a bhfuil soghluaisteacht laghdaithe saor in aisce</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must notify the carrier, terminal operator, travel agent or tour operator from whom you buy your ticket of your need for assistance at least 36 hours before it is needed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit an t-iompróir, oibreoir an chríochfoirt, an gníomhaire taistil nó oibreoir an turais óna gceannaíonn tú an ticéad a chur ar an eolas go dteastaíonn cúnamh uait ar a laghad 36 uair an chloig sula dteastaíonn sé</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must arrive at the terminal at the time you are asked to, but no more than 60 minutes before the scheduled departure time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit an críochfort a bhaint amach ag an am a iarrtar ort, ach nach mó ná 60 nóiméad roimh an am sceidealaithe imeachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If no arrival time is mentioned, you should arrive 30 minutes in advance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura luaitear aon am teachta, ba cheart duit teacht i láthair 30 nóiméad roimh ré</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When a carrier or terminal operator is liable for the loss of or damage to your wheelchair or other mobility equipment, it should make every effort to temporarily replace the mobility equipment that is lost or damaged, if necessary</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás go bhfuil iompróir nó oibreoir críochfoirt faoi dhliteanas íoc as an gcaillteanas nó as an díobháil a rinneadh do do chathaoir rothaí nó do threalamh soghluaisteachta eile, ba cheart dó/di gach iarracht a dhéanamh an trealamh soghluaisteachta a cailleadh nó a ndearnadh díobháil dó a chur in ionad go sealadach, más gá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Carriers must set up a complaints handling mechanism to help passengers who are trying to avail of their rights under this Regulation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór d’iompróirí meicníocht um láimhseáil gearán a shocrú chun cabhrú le paisinéirí a bhfuil iarrachtaí á ndéanamh acu a gceart a chur i bhfeidhm faoin Rialachán seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you want to make a complaint you should do so within 3 months of the scheduled service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mian leat gearán a dhéanamh, ba cheart duit amhlaidh a dhéanamh laistigh de 3 mhí tar éis na seirbhíse sceidealaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should receive a reply within 1 month from the carrier</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart go dtabharfar freagairt duit laistigh de mhí amháin ón iompróir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Information on making a complaint to Bus Éireann is available on its website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá fáil ar fhaisnéis ar ghearán a dhéanamh le Bus Éireann ar a láithreán gréasáin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Dublin Bus provides information on making a complaint in its customer charter</seg></tuv>
+  <tuv xml:lang="ga"><seg>Soláthraíonn Bus Átha Cliath faisnéis ar ghearán a dhéanamh ina gcairt chustaiméirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Every member state must designate a body responsible for the enforcement of this Regulation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór do gach ballstát comhlacht a shannadh a bheidh freagrach as forfheidhmiú an Rialacháin seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The National Transport Authority is the designated enforcement body (pdf) in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad an tÚdarás Náisiúnta Iompair an comhlacht sannta forfheidhmithe (pdf) in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are dissatisfied with an Irish carrier’s decision and your rights under the Regulation have been denied, or you did not receive a reply within 1 month of making the complaint, you can make a complaint to the National Transport Authority</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil tú sásta le cinneadh iompróra Éireannaigh agus má sáraíodh do chearta faoin Rialachán, nó mura bhfuair tú freagairt laistigh de mhí amháin tar éis gearán a dhéanamh, féadfaidh tú gearán a dhéanamh leis an Údarás Náisiúnta Iompair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Information on making a complaint is available on its website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá faisnéis ar fáil ar ghearán a dhéanamh ar a láithreán gréasáin</seg></tuv>
+</tu>
+</body>
+</tmx>

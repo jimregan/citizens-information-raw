@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>There are District Court offices throughout Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá oifig cúirte dúiche le fáil ar fud na tíre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The District Court office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Oifig na Cúirte Dúiche</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• issues all summonses, which initiate proceedings in criminal cases</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seolann amach gach toghairm a chuireann tús le gach cás coiriúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• issues and processes proceedings in family law and civil cases</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seolann amach agus cuireann tús le gach a bhaineann le cásanna dlí clainne agus cásanna siabhalta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• prepares the list of cases for court</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Réitíonn liosta cásanna don chúirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• records the Orders of the Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tógann cúntas de ordaithe na Cúirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• issues warrants to enforce the Orders of the Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Eisíonn barántais chun Ordaithe na Cúirte a chur i bhfeidhm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• prepares all Court Orders</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ullmhaíonn gach Ordú Cúirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• processes appeal documents for forwarding to the Circuit Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Déanann próiseáil ar doiciméidí sula dtéann said ar aghaidh chuig an Chúirt Chuarda</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• collects and transmits maintenance in family law cases</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bailíonn agus seolann ar aghaidh liúntas cothaithe i gcásanna dlí clainne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• receives and accounts for all monies lodged as bail</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Glacann agus coiméadann cúntas ar airgead a thagann isteach do bhannaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• operates the Small Claims procedure</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Oibríonn an córas mhionéileamh</seg></tuv>
+</tu>
+</body>
+</tmx>

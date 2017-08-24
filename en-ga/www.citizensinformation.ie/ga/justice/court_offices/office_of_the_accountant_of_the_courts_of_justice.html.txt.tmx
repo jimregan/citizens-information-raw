@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Office of the Accountant of the Courts of Justice</seg></tuv>
+  <tuv xml:lang="ga"><seg>Oifig Chuntasóra na gCúirteanna Cirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Accountant of the Courts of Justice</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ag Cuntasóir na gCúirteanna Cirte a bhíonn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• is responsible for the receipt, custody, investment and payment out of monies required to be lodged in court either by direction of the High Court or the Supreme Court, by statute or by the Rules of Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Freagracht as fáil, caomhnú, infheistiú agus íoc amach airgid a bhíonn le lóisteáil i gcúirt faoi threoir na hArd Cúirte nó na Cúirte Uachtaraigh, faoi reacht nó faoi Rialacha na Cúirte</seg></tuv>
+</tu>
+</body>
+</tmx>

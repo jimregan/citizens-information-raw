@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Unclaimed life insurance policies</seg></tuv>
+  <tuv xml:lang="ga"><seg>Polasaithe árachais saoil nár héilíodh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Unclaimed Life Assurance Policies Act 2003 requires insurance companies to identify and contact the owners of unclaimed life insurance policies</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoin Acht um Pholasaithe Árachais Saoil nár hÉilíodh 2003, ní mór do chomhlachtaí árachais úinéirí na bpolasaithe árachais saoil nár héilíodh a aimsiú agus teagmháil a dhéanamh leo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the owners cannot be traced, the proceeds of the policies will be transferred to the Dormant Accounts Fund, which is managed by the National Treasury Management Agency</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna féidir teacht ar na húinéirí ní mór ansin luach na bpolasaithe a aistriú isteach i gCiste na gCuntas Díomhaoin, atá dhá bhainistiú ag an Údarás Náisiúnta um Bhainistiú Ciste an Stáit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The contents of the Dormant Accounts Fund are invested and the surplus disbursed by the Dormant Accounts Disbursement Fund to be used on programmes or projects to help people with disabilities and people who are economically, socially or educationally disadvantaged</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar a bhfuil i gCiste na gCuntas Díomhaoin a infheistiú agus caitheann Ciste Íocaíochta na gCuntas Díomhaoin an fuílleach ar chláracha nó tograí le cúnamh a thabhairt do dhaoine faoi mhíchumas agus do dhaoine atá faoi mhíbhuntáiste eacnamaíochta, sóisialta nó oideachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When is a life insurance policy considered to be dormant?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cén uair a dheirtear go bhfuil polasaí árachais saoil díomhaoin?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The dormancy period depends on whether the life assurance policy has a specified term or not</seg></tuv>
+  <tuv xml:lang="ga"><seg>Braitheann fad na tréimhse díomhaoin ar téarma a bheith luaite leis an bpolasaí árachais saoil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the policy has a specified term, it will be considered dormant if the customer has not been in contact with the insurance company for 5 years from the date the policy matured or the company's last communication with the customer, whichever is later</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá téarma faoi leith luaite leis an bpolasaí deirtear go bhfuil sé díomhaoin muna raibh an custaiméir i dteagmháil leis an gcomhlacht árachais le cúig bliain ón dáta gur tháinig an polasaí in aois nó ón dáta deireanach a raibh cumarsáid ag an gcomhlacht leis an gcustaiméir, cibé acu is deireanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the policy does not have a specified term, it will be considered to be dormant if there has been no communication between the company and the customer for 15 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna bhfuil téarma faoi leith luaite leis an bpolasaí deirtear go bhfuil sé díomhaoin muna raibh aon chumarsáid idir an comhlacht agus an custaiméir le cúig bliain déag</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Dormant life assurance policies must be transferred to the Dormant Accounts Fund in April of each year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór polasaithe árachais saoil a aistriú chuig Ciste na gCuntas Díomhaoin i mí an Aibreáin gach bliain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You have the right to claim the funds contained in your dormant life assurance policy at any time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé de cheart agat an t-airgead atá i do pholasaí díomhaoin árachais saoil a éileamh ag am ar bith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is no time-bar on account holders or their next of kin reclaiming dormant funds, as their rights are preserved</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon teorainn ama do shealbhóirí cuntais ná a ngarghaolta cistí díomhaoine a éileamh, mar tá a gcuid cearta cosanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that even if the funds have been transferred to the Dormant Accounts Fund, you or your next of kin still have a claim on your funds</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin fiú má bhíonn an t-airgead nó maoin aistrithe isteach i gCiste na gCuntas Díomhaoin is féidir leatsa nó le do gharghaolta éileamh a dhéanamh ar an airgead nó ar an maoin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>What life insurance policies are covered?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cé na polasaithe árachais saoil atá clúdaithe?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Unclaimed Life Assurance Act applies to all insurance undertakings in Ireland and all life assurance policies that have been taken out by Irish residents, with the exception of policies that form part of the assets of occupational pension schemes, group health insurance or disability benefit schemes and sponsored superannuation schemes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann an tAcht um Pholasaithe Árachais Saoil nár hÉilíodh le gach gealltanas árachais in Éirinn agus le gach polasaí árachais saoil a thóg saoránaigh Éireannacha, ach amháin polasaithe gur cuid de mhaoin scéimeanna pinsin saothair iad, árachas sláinte grúpaí nó scéimeanna um shochar míchumais agus scéimeanna pinsin le tacaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>What do insurance companies have to do under the terms of the Unclaimed Life Assurance Act?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Céard atá le déanamh ag comhlachtaí árachais faoi théarmaí an Achta um Pholasaithe Árachais Saoil nár hÉilíodh?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Insurance companies must personally contact customers whose life insurance policies are worth €500 or more and tell them how to claim the proceeds of the policies</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór do chomhlachtaí árachais dul i dteagmháil go pearsanta le custaiméirí gur fiú €500 nó níos mó a bpolasaithe árachais agus insint dóibh conas fáltas na bpolasaithe a éileamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Companies must also place advertisements in the national press twice yearly to inform customers whose policies are worth less than €500</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór do chomhlachtaí freisin fógraí a chur i nuachtáin náisiúnta faoi dhó sa bhliain le custaiméirí gur fiú níos lú ná €500 a bpolasaithe a chur ar an eolas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Insurance companies must keep a register of unclaimed policies</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór do chomhlachtaí árachais clár a choinneáil de na polasaithe nár héilíodh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The insurance companies must calculate the cash value of unclaimed life insurance policies on the date that they are transferred to the Dormant Accounts Fund</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór do na comhlachtaí árachais luach airgid aon pholasaithe árachais saoil nár héilíodh a ríomh ar an dáta ar déanadh iad a aistriú isteach i gCiste na gCuntas Díomhaoin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Companies must only transfer the investment value of the policy and must retain the insurance element</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór do chomhlachtaí luach infheistíochta an pholasaí amháin a aistriú agus an chuid árachais a choinneáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Contact your life insurance company</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déan teagmháil le do chomhlacht árachais saoil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Irish Insurance Federation maintains a list of insurance providers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá liosta soláthróirí árachais cothabháilte ag an Cónaidhm Árachais na hÉireann</seg></tuv>
+</tu>
+</body>
+</tmx>

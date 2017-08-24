@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>European elections - alternative voting arrangements</seg></tuv>
+  <tuv xml:lang="ga"><seg>Toghcháin Eorpacha - socruithe eile vótála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The following people may vote by post in a European Parliament election:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis na daoine seo a leanas vóta a chaitheamh tríd an bpost i dtoghchán do Pharlaimint na hEorpa:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Members of An Garda Siochana</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Baill den Gharda Síochana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Members of the Defence Forces</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Baill na bhFórsaí Cosanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Civil servants and their spouses attached to Irish missions abroad</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Státseirbhísigh agus a gcéilí atá ag obair le misin Éireannacha thar lear</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Electors living at home who are unable to vote at a polling station due to a physical illness or disability</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Vótálaithe a chónaíonn sa bhaile ach nach bhfuil in ann vóta a chaitheamh ag na stáisiúin vótála de bharr tinnis nó míchumais fhisiciúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Full-time students registered at home who are living elsewhere while attending an educational institution in the State</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Mic léinn lánaimseartha atá cláraithe le vótáil sa bhaile ach a chónaíonn in áit eile le freastal a dhéanamh ar institiúid oideachais sa Stát</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Prisoners detained as a result of an order of a court</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Príosúnaigh coinnithe de thoradh ordú cúirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To vote by post, a ballot paper will be posted to you at your home</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mian leat vóta a chaitheamh tríd an bpost ní mór go mbeadh páipéar ballóide curtha chugat sa phost chuig do bhaile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must arrange to have a declaration of identity witnessed by a Garda before marking the ballot paper in the Garda station and returning it by post to the returning officer</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit socrú a dhéanamh go mbeadh dearbhú aitheantais sínithe ag Garda roimh an bpáipéar ballóide a mharcáil ag stáisiún na nGardaí agus é a chur ar ais sa phost chuig an gceann comhairimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Special voting arrangements apply to electors living in hospitals, nursing homes or similar institutions who are unable to vote due to a physical illness or disability</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann socruithe speisialta le daoine a chónaíonn in ospidéil, i dtithe altranais nó institiúidí eile den chineál nach féidir leo vóta a chaitheamh de bharr tinnis nó míchumais fhisiciúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The ballot paper is brought to them in the institution and they vote in the presence of a special presiding officer accompanied by a Garda</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar an páipéar ballóide chucu san institiúid agus caitheann siad a vóta i láthair oifigigh speisialta i gceannais agus Garda</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Electors with physical disabilities who have difficulty in gaining access to their local polling station may be allowed to vote at a more accessible station in the constituency</seg></tuv>
+  <tuv xml:lang="ga"><seg>Aon duine a bhfuil míchumas fisiciúil air/uirthi a bhíonn deacracht aige/aici dul isteach chuig an ionad vótála áitiúil beidh cead aige/aici a vóta a chaitheamh ag ionad níos feiliúnaí dó/dí sa toghcheantar céanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is more information on european elections on the website of the Department of Housing, Planning, Community and Local Government</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh eolais maidir le toghcháin na hEorpa ar láithreán gréasáin na Roinne Tithíochta, Pleanála​​, Pobail agus Rialtais Áitiúil</seg></tuv>
+</tu>
+</body>
+</tmx>

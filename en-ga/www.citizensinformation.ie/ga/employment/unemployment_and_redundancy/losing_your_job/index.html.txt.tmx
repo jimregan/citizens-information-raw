@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Life Event Document Losing your job If you lose your job you need to find out about the different payments and services for unemployed people</seg></tuv>
+  <tuv xml:lang="ga"><seg>Life Event Document Do phost a chailliúint Má tá do phost caillte agat ba cheart duit eolas a chur ar na hiocaíochtaí agus seirbhísi do dhaoine dífhostaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Losing your job - entitlements</seg></tuv>
+  <tuv xml:lang="ga"><seg>Do phost a chailliúint - teidlíochtaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Describes the rights of employees if being let go from their employment. Action to be taken in case of dispute with the employer</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá cur síos anseo ar na cearta atá ag fostaí atá dhá ligint ag imeacht óna p(h)ost agus an córas achomhairc atá ann i gcás conspóide leis an bhfostóir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A means-tested payment to people who are unemployed and looking for work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocaíocht a ndéantar fiosrú maoine uirthi agus a tugtar do dhaoine atá dífhostaithe agus ar lorg oibre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This document is in: Social Welfare &gt; Social welfare payments &gt; Unemployed people</seg></tuv>
+  <tuv xml:lang="ga"><seg>This document is in: Leas Sóisialach &gt; Íocaíochtaí Leasa Shóisialaigh &gt; Daoine Dífhostaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is a weekly payment to people who have lost their job and are covered by social insurance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is íocaíocht sheachtainiúil é a dtugtar do dhaoine atá a bpost caillte acu agus atá ag lorg oibre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This document is in: Social Welfare &gt; Social welfare payments &gt; Unemployed people</seg></tuv>
+  <tuv xml:lang="ga"><seg>This document is in: Leas Sóisialach &gt; Íocaíochtaí Leasa Shóisialaigh &gt; Daoine Dífhostaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most Read in "Employment"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ábhar is mó éilimh i "Fostaíocht"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Rest periods and breaks</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tréimhsí sosa agus sosanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Tax and starting work - PAYE</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gnó a chur ar bun</seg></tuv>
+</tu>
+</body>
+</tmx>

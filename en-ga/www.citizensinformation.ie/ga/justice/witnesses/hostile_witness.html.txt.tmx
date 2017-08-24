@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>A hostile witness is a witness who at some point after the person has been sworn in to give evidence in court, appears unwilling to tell the truth</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is éard is finné naimhdeach ann ná finné a bhfuil an cuma ar an scéal, ag pointe áirithe tar éis an duine a chur faoi mhionn chun fianaise a thabhairt i gcúirt, nach bhfuil sé/sí sásta an fhírinne a insint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Normally, the party that calls you as a witness does so in the belief that you will provide the court with evidence similar to the account you provided earlier in a pre-trial statement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go hiondúil, nuair a ghlaonn páirtí ort mar fhinné déantar é sin ag creideamh go dtabharfaidh tú fianaise don chúirt atá cosúil leis an gcuntas a chur tú ar fáil níos luaithe sa ráiteas réamh-trialach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you do not give the evidence expected, very little can be done</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura dtugann tú an fhianaise a bhfuiltear ag súil leis, is beag ar fad gur féidir a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If, however, you go further and start telling lies or refuse to answer questions, the party who called you can apply to the judge to have you declared a hostile witness</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más rud é, áfach, go dtéann tú níos faide agus go dtosaíonn tú ag insint bréaga, nó go ndiúltaíonn tú ceisteanna a fhreagairt, is féidir leis an bpáirtí a ghlaoigh ort iarratas a dhéanamh leis an mbreitheamh chun tú a dhearbhú mar fhinné naimhdeach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When your evidence under oath begins to change materially from the account that you provided earlier in a pre-trial statement, the counsel or barrister calling you can apply to the judge for a decision as to whether or not you are hostile</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a thosaíonn do chuid fianaise faoi mhionn ag athrú go bunúsach ón gcuntas a chur tú ar fáil i ráiteas réamh-trialach, is féidir leis an abhcóide a ghlaoigh ort iarratas a dhéanamh leis an mbreitheamh ar chinneadh an bhfuil nó nach bhfuil tú naimhdeach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This application must be made to the judge in the absence of the jury</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfear an t-iarratas seo a dhéanamh leis an mbreitheamh gan an giúiré a bheith i láthair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The judge decides (largely on your demeanour and credibility) whether or not to treat you as a hostile witness</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann an breitheamh cinneadh (bunaithe ar d'iompar agus ar do chreidiúnacht don chuid is mó) an gcaithfear leat mar fhinné naimhdeach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The judge also has to distinguish between a hostile witness and an unfavourable witness</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh an breitheamh idirdhealú a dhéanamh freisin idir finné naimhdeach agus finné neamhfhabhrach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Just because you give unhelpful or unfavourable evidence it does not mean the party calling you can attack your credibility</seg></tuv>
+  <tuv xml:lang="ga"><seg>Díreach mar gheall go dtugann tú fianaise neamhchabhrach nó neamhfhabhrach ní chiallaíonn sé sin gur féidir leis an bpáirtí atá ag glaoch ort ionsaí a dhéanamh ar do chreidiúnacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>What happens if I am ruled as a hostile witness?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cad a tharlaíonn má rialaítear gur finné naimhdeach mé?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Normally, if a counsel or barrister calls you as a witness, the calling barrister is not permitted to attack your credibility or cross-examine you as if you were a witness for the other side</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go hiondúil, má ghlaonn abhcóide ort mar fhinné, ní féidir leis an abhcóide atá ag glaoch ort ionsaí a dhéanamh ar do chreidiúnacht ná croscheistiú a chur ort cosúil le gur finné don taobh eile a bhí ionat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He/she cannot ask questions about, or introduce evidence of, your bad character, past convictions, prior inconsistent statements or bias</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leis/léi ceisteanna a chur ort faoi, ná fianaise a thabhairt isteach ar, do dhrochcháil, ciontuithe roimhe seo, ráitis neamh-chomhsheasmhacha roimhe seo ná claontacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Also, the calling barrister cannot ask leading questions to get you to say what the barrister wants</seg></tuv>
+  <tuv xml:lang="ga"><seg>Freisin, ní féidir leis an abhcóide atá ag glaoch ort treoircheisteanna a chur ort le go ndéarfaidh tú an méid atá an abhcóide ag iarraidh go ndéarfaidh tú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where you are ruled as hostile, the barrister calling you may:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a rialaítear naimhdeach thú, is féidir leis an abhcóide atá ag glaoch:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Ask leading questions in an effort to get you to say what they want</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Treoircheisteanna a chur ort mar iarracht le go ndéarfaidh tú an rud atá uaidh/uaithi</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Cross-examine you on your previous statement made before the trial</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Croscheistiú a dhéanamh ort faoi do ráiteas roimhe sin a rinne tú sular thosaigh an triail</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are cross-examined on your previous statement, that statement is only evidence of your inconsistency and is not proof of the facts contained in the statement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéantar croscheistiú ort faoi do ráiteas roimhe sin, níl sa ráiteas sin ach fianaise ar do neamh-chomhsheasmhacht agus ní fianaise é ar na fíricí atá ar fáil sa ráiteas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For more detailed information you should seek legal advice</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir duit comhairle dlí a lorg chun faisnéis mionsonraithe a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Procedure followed when a witness is declared hostile</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nós imeachta a leantar nuair a dearbhaítear finné a bheith naimhdeach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The following is a summary of the procedure that is adopted when a witness is accused of contradicting his/her previous statement while in the witness box:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is achoimre í an méid seo a leanas ar an nós imeachta a ghlactar nuair a chuirtear i leith finné go bhfuil sé/sí ag cur an bhréag ar a ráiteas roimhe sin le linn dó/di a bheith ar chlár na mionn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Counsel or barrister makes an application to the judge in the absence of the jury and puts before the judge the statement upon which it is sought to have the witness declared a hostile witness</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Déanann abhcóide iarratas leis an mbreitheamh gan an giúiré a bheith i láthair agus cuirtear ráiteas roimh an mbreitheamh ina iarrtar an finné a dhearbhú a bheith ina fhinné naimhdeach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If the judge rules that the witness may be treated as a hostile witness, in the presence of the jury it is put to the witness that the witness had previously made a statement which differed materially from, or contradicted the one he/she was making in the witness box</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má rialaíonn an breitheamh gur féidir caitheamh leis an bhfinné mar fhinné naimhdeach, i láthair an ghiúiré deirtear leis an bhfinné go ndearna an finné ráiteas roimhe sin a bhí difriúil go bunúsach ó, nó a chuir an bhréag ar an gceann a bhí sé/sí ag déanamh ar chlár na mionn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If the witness denies this, the witness is then asked to stand down from the witness box</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má shéanann an finné roimh seo, iarrtar ansin ar an bhfinné seasamh síos ó chlár na mionn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• To prove that the witness made the statement, the Garda who took the statement goes into the witness box and proves to the judge that the statement was made (without revealing the contents of the statement)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Le cruthú go ndearna an finné an ráiteas, téann an Garda a thóg an ráiteas chuig clár na mionn agus chruthaíonn sé/sí don bhreitheamh go ndearnadh an ráiteas (gan an méid atá sa ráiteas a nochtadh)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The witness is then asked to go back into the witness box and the statement is shown to the witness for identification</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Iarrtar ar an bhfinné ansin dul ar ais ar chlár na mionn agus taispeáintear an ráiteas don fhinné chun é a aithint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The witness’s attention is drawn to the part of the statement in which the contradiction or difference occurs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tarraingítear aird an fhinné chuig an gcuid den ráiteas ina bhfuil an difríocht nó atá ag cur an bhréag ar an méid atá sé/sí ag rá anois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If the witness agrees that there is a contradiction or difference between the statement and his/her evidence to the court, then that is the end of the matter in relation to discrediting the witness’s credibility</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má aontaíonn an finné go bhfuil an ráiteas difriúil nó ag cur an bhréag ar a cuid/chuid fianaise leis an gcúirt, sin deireadh an scéil ansin maidir le hamhras a chaitheamh ar chreidiúnacht an fhinné</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If, however, the witness persists in denying the contradiction, then the statement is read into evidence, that is, read to the jury as proof of the fact that the witness made a contradictory or different statement, to the evidence the witness offered while in the witness-box</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Más rud é, áfach, go leanann an finné air/uirthi ag séanadh go bhfuil sé ag cur an bhréag ar a cuid/chuid fianaise, ansin léitear an ráiteas isteach san fhianaise, sé sin, léitear don ghiúiré é mar chruthúnas ar an bhfíric go ndearna an finné ráiteas a bhí difriúil nó ag cur an bhréag ar an bhfianaise a chur an finné ar fáil le linn dó/di a bheith ar chlár na mionn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Where the statement is read into evidence, the judge must make it clear to the jury that what the witness has said in the written statement is not evidence of the facts in the statement, but only evidence relating to the credibility of the witness</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Nuair a léitear ráiteas isteach san fhianaise, caithfidh an breitheamh é a dhéanamh soiléir don ghiúiré nach bhfuil an méid a dúirt an finné sa ráiteas scríofa ina fhianaise ar fhíricí an ráitis, agus nach bhfuil sé ach ina fhianaise a bhaineann le chreidiúnacht an fhinné</seg></tuv>
+</tu>
+</body>
+</tmx>

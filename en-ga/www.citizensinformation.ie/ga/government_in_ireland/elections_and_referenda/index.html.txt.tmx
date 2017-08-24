@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Most Read in "Government in Ireland"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ábhar is mó éilimh i "Rialtas in Éirinn"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Presidential Election in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bunchearta faoi Bhunreacht na hÉireann</seg></tuv>
+</tu>
+</body>
+</tmx>

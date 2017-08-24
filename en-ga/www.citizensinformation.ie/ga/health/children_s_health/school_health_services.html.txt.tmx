@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>The Health Service Executive (HSE) provides a school screening programme and a school immunisation programme for children attending public primary schools</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann Feidhmeannacht na Seirbhíse Sláinte (FSS) clár scagtha scoile agus clár imdhíonta scoile ar fáil do pháistí atá ag freastal ar bhunscoileanna poiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Private primary schools may request the service and the Health Service Executive has the discretion to extend the service to these schools</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le bunscoileanna príobháideacha an tseirbhís a iarraidh agus is faoin FSS atá sé cinneadh a dhéanamh an tseirbhís seo a chur ar fáil sna scoileanna sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>School health screenings are conducted by public health nurses and area medical officers who are employed by the HSE</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad na haltraí sláinte poiblí a chuireann an scagadh sláinte scoile ar fáil chomh maith le hoifigigh sláinte ceantair atá fostaithe ag an FSS</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These screenings are carried out on the school premises and the school principal is told of the date of the screenings in advance so parents can be notified and parents are entitled to be present if they wish</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar an scagadh seo i bhfoirgneamh na scoile agus cuirtear in iúl don phríomhoide cén dáta a bhfuil sé i gceist a bheith i láthair sa scoil ionas gur féidir scéal a chur chuig na tuismitheoirí agus is féidir leo a bheith i láthair más mian leo é</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Children's hearing and vision are examined and where requested by the parent or deemed necessary, a physical examination may be carried out</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar éisteacht agus amharc na bpáistí a scrúdú agus nuair a bhíonn sé iarrtha ag na tuismitheoirí nó má cheaptar go bhfuil gá leis is féidir scrúdú fisiceach a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Problems that are identified at these screenings are treated free of charge if the child attends as a public patient at an out-patient hospital departments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má aimsítear fadhbanna ag na scrúduithe seo cuirtear cóir leighis ar fáil dóibh saor in aisce má thagann an páiste mar othar poiblí chuig rannóg na n-othar seachtrach in ospidéal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Any subsequent treatment (whether out-patient or in-patient) arising from this initial referral is free of charge as a public patient</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir aon chóir leighis a bhaineann leis an gcéad chuairt ar an rannóg seachtrach (mar othar seachtrach nó cónaitheach) a fháil saor in aisce mar othar poiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>School screening is arranged by the HSE in conjunction with the school principal</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann Feidhmeannacht na Seirbhíse Sláinte (FSS) scagadh scoile a eagrú i gcomhair le príomhoide na scoile</seg></tuv>
+</tu>
+</body>
+</tmx>

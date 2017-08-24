@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>There are 2 types of referendum in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá 2 chineál reifreann in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When the Government wishes to change something in the Irish Constitution, it must do it by holding a constitutional referendum</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá an rialtas ag iarraidh rud a athrú i mBunreacht na hÉireann, ní foláir dó é sin a dhéanamh tríd reifreann bunreachtúil a eagrú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The referendum gives the people a chance to vote for or against the proposed change or amendment to the Constitution</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann an reifreann deis do mhuintir vótáil ar son, nó in aghaidh, an athraithe nó an leasaithe ar an mBunreacht atá beartaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When the Government wishes to introduce a law that is of national importance, the Seanad and the Dáil can petition the President to hold a referendum about the law</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá an rialtas ag iarraidh dlí a thabhairt isteach a bhfuil tábhacht náisiúnta ag baint leis, is féidir leis an Seanad agus an Dáil iarratas a dhéanamh chuig an Uachtarán reifreann faoin dlí a eagrú</seg></tuv>
+</tu>
+</body>
+</tmx>

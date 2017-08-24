@@ -1,0 +1,721 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>The State Pension (Contributory) is paid to people from the age of 66 who have enough Irish social insurance contributions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an Pinsean Stáit (Ranníocach) iníoctha le daoine in Éirinn a bhfuil a ndóthain Ranníocaíochtaí Leasa Shóisialaigh íoctha acu agus a bhfuil 66 bliain slán acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is not means-tested</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon tástáil acmhainne i gceist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can have other income and still get a State Pension (Contributory)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú Pinsean Stáit (Ranníocach) a fháil agus ioncam agat ó fhoinsí eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This pension is taxable but you are unlikely to pay tax if it is your only income</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an pinsean seo inchánach ach má tá tú gan aon ioncam eile, ní miste cáin a ghearradh air</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As the social insurance conditions are very complex you should apply for a State Pension (Contributory) if you have ever worked and have any contributions (stamps) paid at any time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá na coinníollacha a bhaineann le hárachas sóisialta an-chasta agus ba chóir duit cur isteach ar Phinsean Stáit (Ranníocach) má tá obair agus ranníocaíocht (stampa) déanta agat uair ar bith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are a number of pro-rata pensions available to people who paid different types of social insurance contributions or who did not pay contributions because of various reasons (see below). Changes are proposed to the current system in 2020 (see 'Further information' below)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá roinnt Pinsean Stáit (Ranníocach) éagsúla pro-rata ar fáil do dhaoine atá íocaíochtaí éagsúla árachais sóisialta á déanamh acu nó atá gan aon ranníocaíocht á déanamh acu ar chúiseanna éagsúla - féach thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you retire early, you should ensure that you continue to pay PRSI contributions or get credited contributions (if eligible) to maintain your entitlement to a pension</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má théann tú ar scor go luath ba chóir duit a dhéanamh cinnte go leanann tú ar aghaidh ag déanamh na ranníocaíochtaí ÁSPC nó ranníocaíochtaí creidiúnaithe a fháil chun do theidlíocht ar phinsean a choimeád</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are getting Jobseeker's Benefit (JB) and are aged between 65 and 66 when your JB would normally end, you may continue to receive it until the age of 66, provided you meet the PRSI requirements</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá Sochar Cuardaitheora Poist (SCP) á fháil agat agus má chríochnaíonn do SCP de ghnáth nuair tá tú idir 65 agus 66 bliain d'aois, b'fhéidir go bhfaighfeá an íocaíocht go dtí aois 66 a fhad agus a chomhlíonann tú na riachtanais ÁSPC</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Department of Social Protection has published FAQs on Qualifying for the State Pension (Contributory) which can help you to work out whether you qualify for a State Pension (Contributory)</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhoilsigh an Roinn Coimirce Sóisialaí, FAQs cabhróidh sé leat oibriú amach an bhfuil tú i dteideal Pinsean Stáit (Ranníocach).   D’athraigh an t Acht um Athchóiriú an Dlí Leasa Shóisialaigh agus um Pinsin 2006 (pdf) ainm an Phinsean Ranníocach Seanaoise go Pinsean Stáit (Ranníocach). Tháinig an t-ainm nua i bhfeidhm an 29 Meán Fómhair, 2006</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To qualify for a State Pension (Contributory) you must be aged 66 or over and have enough Class A, E, F,G, H, N or S social insurance contributions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit a bheith 66 bliana d'aois agus dóthain ranníocaíochtaí árachais shóisialta Rannóige A, E, F, G, H, N nó S a bheith déanta agat le bheith i dteideal an pinsean seo a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Have paid social insurance contributions before a certain age</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ranníocaíochtaí árachais shóisialta a bheith déanta agat roimh aois áirithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Have a certain number of social insurance contributions paid and</seg></tuv>
+  <tuv xml:lang="ga"><seg>Oiread áirithe ranníocaíochtaí árachais shóisialta a bheith déanta agat agus</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Have a certain average number over the years since you first started to pay</seg></tuv>
+  <tuv xml:lang="ga"><seg>Líon áirithe díobh a bheith déanta agat ar an mheán i rith na mblianta ó thosaigh tú ag íoc don chéad uair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Paid insurance before a certain age</seg></tuv>
+  <tuv xml:lang="ga"><seg>An t-árachas a bheith íoctha roimh aois áirithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must have started to pay social insurance before the age of 56</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh tú a bheith tagtha isteach sa scéim árachais roimh aois áirithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(The age limit is higher for people born before 1922.)</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás daoine atá faoi bhun 66 faoi láthair, caithfidh sé gur thosaigh siad ag íoc as árachas sóisialta roimh aois a 56</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your entry into insurance means the date on which you first started to pay social insurance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Séard atá i gceist le tosú sa scéim árachais ná an dáta ar thosaigh tú ag íoc as árachas sóisialta don chéad uair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The rules that determine when you entered into insurance are quite complex for those with mixed insurance, that is, full social insurance for some of the time and modified at other times</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá castacht ag baint leis na rialacha a dhearbhaíonn cathain ar tháinig tú isteach sa scéim árachais má tá árachas measctha ag an té sin. Is é sin le rá go raibh lán-árachas sóisialta aige nó aici cuid den am agus árachas athraithe uaireanta eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Normally the date of starting insurable employment is taken as the date of the first paid employment contribution</seg></tuv>
+  <tuv xml:lang="ga"><seg>De ghnáth glactar leis gur é an dáta tosú fostaíochta inárachais, dáta an chéad ranníocaíocht fostaíochta íoctha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However if you have a mixture of full- and modified-rate contributions and paid your first full-rate employment contribution before 6 April 1991 and before you reached 56 years of age, your entry into insurance can be the date on which you first started to pay the full rate of insurance if that would be to your advantage</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má thosaigh tú ag íoc lán-árachais roimh 6 Aibreán 1991 agus roimh a mbíonn tú 56 bliain d'aois, glacfar leis gur tháinig tú isteach sa scéim árachais ar an dáta ar thosaigh tú ag íoc an ráta iomlán árachais - más tairbheach duit an socrú seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you started to pay full insurance after 6 April 1991, your entry into insurance is the time you first paid any social insurance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má thosaigh tú ag íoc as lán-árachas i ndiaidh an 1 Aibreán 1991, glactar leis gur tháinig tú isteach sa scéim árachais an t-am a thosaigh tú ag íoc árachais shóisialta de chineál ar bith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are also special entry into insurance rules for self-employed people</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá rialacha faoi leith ann maidir le teacht isteach sa scéim árachais i gcás daoine féinfhostaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>PRSI for the self-employed was first introduced on 6 April 1988. If you started to pay self-employed contributions on 6 April 1988 and had previously paid employee insurance at any time, then the date of entry into insurance can be either 6 April 1988 or the date on which you actually first paid insurance, whichever is to your advantage</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má thosaigh tú ag déanamh ranníocaíochtaí féinfhostaithe ar an 6 Aibreán 1988 agus má bhí ranníocaíochtaí íoctha agat mar fhostaí uair ar bith roimhe sin, is féidir leat do rogha a dhéanamh idir an 6 Aibreán 1988 agus an chéad lá riamh ar íoc tú as árachas agus dáta is fearr a oireann duit a bheith agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Number of paid contributions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Líon na ranníocaíochtaí a rinneadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you reach pension age on or after April 6 2012, you need to have 520 full-rate contributions (10 years contributions)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má shroicheann tú aois an phinsin ar nó i ndiaidh 6 Aibreán 2012, ní mór duit 520 ranníocaíocht a bheith déanta agat (ranníocaíochtaí 10 mbliana)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In this case, only 260 of the 520 contributions may be voluntary contributions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás seo, ní féidir go mbeadh níos mó ná 260 den 520 ina ranníocaíochtaí deonacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if you were a voluntary contributor on or before April 6 1997 and you have a yearly average of 20 contributions, you may meet the requirement if you have a total of 520 full-rate contributions (of which only 156 need to be compulsory paid contributions)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más rud é, áfach, go raibh tú i do ranníocthóir deonach ar an 6 Aibreán 1997, nó roimhe, agus má tá 20 ranníocaíocht déanta ar an mheán agat in aghaidh na bliana, féadfaidh tú an riachtanas a shásamh má tá 520 ranníocaíocht déanta agat san iomlán, agus a chás sin, ní gá ach go mbeadh 156 díobh ina ranníocaíochtaí a rinneadh go héigeantach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you reached pension age on or after 6 April 2002, you needed to have 260 full-rate contributions (effectively 5 years contributions but they do not need to be consecutive)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má shroicheann tú aois an phinsin ar nó i ndiaidh 6 Aibreán 2002, nár mhór duit 260 ranníocaíocht a bheith déanta agat (ranníocaíochtaí 5 bliana ach ní gá dóibh bheith comhleanúnacha)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you reached pension age before 6 April 2002, you needed 156 qualifying full-rate contributions (a total of 3 years but they did not have to be consecutive)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má shroicheann tú aois an phinsin roimh 6 Aibreán 2002, nár mhór duit 156 ranníocaíocht a bheith déanta agat (ranníocaíochtaí 3 bliana ach ní gá dóibh bheith comhleanúnacha)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Note that social insurance contributions fall into the four groups below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn ranníocaíochtaí árachais shóisialaigh roinnte ina gceithre ghrúpa thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Full-rate social insurance contributions are PRSI contributions at Classes A, E, F, G, H, N and S or at the 'ordinary' rate before 6 April 1979</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Is ionann ranníocaíochtaí árachais shóisialaigh ar lánráta agus ranníocaíochtaí ÁSPC in Aicmí A, E, F, G, H agus N nó ar 'ghnáthráta' roimh 6 Aibreán 1979</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Modified-rate social insurance contributions are PRSI contributions at Classes B, C and D (paid by civil and public servants)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Is ionann ranníocaíochtaí árachais shóisialaigh ar ráta mionathraithe agus ranníocaíochtaí ÁSPC in Aicmí B, C agus D (íoctha ag fostaithe sa tseirbhís phoiblí agus státseirbhísigh)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Voluntary contributions are made by people under age 66 who are no longer covered by compulsory PRSI provided they satisfy certain conditions</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bíonn ranníocaíochtaí deonacha déanta ag daoine faoi bhun 66 bliain d'aois nach bhfuil cuimsithe faoi ÁSPC éigeantach a thuilleadh, fad is go sásaíonn siad coinníollacha áirithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Credited contributions ('credits') are similar to the social insurance contributions you pay while employed and are usually awarded at the same rate as your last paid social insurance contribution</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tá ranníocaíochtaí creidiúnaithe ('creidmheasanna') cosúil leis na ranníocaíochtaí árachais shóisialaigh a íocann tú nuair atá tú fostaithe agus is gnách go mbíonn siad bronnta ar an ráta céanna le do ranníocaíocht dheireanach íoctha árachais shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may get credits when you are claiming a social welfare payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat creidmheasanna a fháil fad is atá íocaíocht leasa shóisialaigh á héileamh agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Credits are not allowed after self-employed contributions (Class S)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní cheadaítear creidmheasanna tar éis ranníocaíochtaí féinfhostaithe (Aicme S)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Average number of contributions per year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Meán ranníocaíochtaí in aghaidh na bliana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must meet the average condition</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit an mheánchoinníoll a shásamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is probably the most complex aspect of qualifying for a State Pension (Contributory)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is dócha gurb é seo an ghné is casta a bhaineann le cáiliú le pinsean a fháil agus an ceann is mó a chothaíonn fadhbanna agus aimhrialtachtaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The normal average rule states that you must have a yearly average of at least 10 appropriate contributions paid or credited from the year you first entered insurance or from 1953, whichever is later to the end of the tax year before you reach pension age (66)</seg></tuv>
+  <tuv xml:lang="ga"><seg>De réir riail an ghnáthmheáin ní mór duit deich ranníocaíocht chuí ar a laghad a bheith déanta agat nó creidiúnaithe duit mar mheánráta bliantúil ón bhliain a ndeachaigh tú isteach sa scéim árachais, nó ó 1953 i leith (cibé acu is déanaí) suas go dtí deireadh an bhliain chánach sula sroicheann tú aois an phinsin (66). Má bhíonn 10 gcinn mar mheán-ráta bliantúil agat tá tú i dteideal an bunphinsean a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An average of 10 entitles you to a minimum pension; you need an average of 48 to get the maximum pension</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit 48 gcinn a bheith agat mar mheán-ráta chun an phinsean iomlán a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This alternative average only applies to people who reach pension age on or after 6 April 1992</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhaineann an meán malartach seo ach leo siúd a shroicheann aois an phinsin ar an 6 Aibreán 1992 nó ina dhiaidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It requires that you have an average of 48 Class A, E, F, G, H, N or S contributions (paid or credited) for each contribution year from the 1979/80 tax year to the end of the tax year before you reach pension age (66)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dar réir na rialach seo ní mór duit 48 ranníocaíocht Rannóige A, E, F, G, H, N nó S a bheith déanta agat, nó creidiúnaithe duit, ar an meán in aghaidh gach bliain íocaíochta ó an bliain ranníoca 1979/80 suas go dtí an bhliain ranníoca dheiridh iomlán agus an bhliain sin san áireamh go dtí do 66ú breithlá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This average would entitle you to the maximum pension</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dá mbeadh an mheánuimhir seo agat bheifeá i dteideal pinsean iomlán a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is no provision for a reduced pension when this alternative average is used</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon fhoráil ann pinsean níos lú a chur ar fáil nuair a úsáidtear an meán malartach seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>So, if you reach the age of 66 on or after April 6 1992, your average will be looked at in two ways - the usual average will be assessed and the alternative average will be assessed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin, má bhíonn an 66 bliana slán agat ar an 6 Aibreán 1992, déanfar do mheánuimhir ranníocaíochtaí a mheas ar dhá bhealach - faoin ngnáthmheán agus faoin meán malartach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most employed or formerly employed people will be able to meet the alternative average</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh formhór d'fhostaithe agus d'iarfhostaithe na tíre in ann an meán malartach a shásamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The alternative average will probably be looked at first because it is easier to assess</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is dócha go ndéanfar an meán malartach a scrúdú ar dtús toisc gur fusa é a mheas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you do not have an average of 48 contributions from 1979 then the normal method of assessing the average will be looked at and you may get a reduced pension (if you do not meet the alternative average, it is virtually impossible for you to have an average of 48 using the normal average rule)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil 48 ranníocaíocht déanta agat ar an mheán ó 1979 i leith déanfar an mheánuimhir a mheas ar an ngnáthbhealach agus b'fhéidir go bhfaighidh tú pinsean laghdaithe. (Mura n-éiríonn leat an meán malartach a shásamh beidh sé beagnach dodhéanta 48 acu a bheith agat mar mheán ar an ngnáthbhealach)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Working in the home and State pensions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag obair sa bhaile agus pinsin Stáit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Homemakers' Scheme makes it easier for people who stop working for a period to take care of children or adults to qualify for pensions</seg></tuv>
+  <tuv xml:lang="ga"><seg>I 1994, rinneadh rialacháin a bheadh sé a dhéanamh níos éasca cáiliú le haghaidh pinsean, do dhaoine a ghlacann saoire chun cúram do bhaill teaghlaigh a thabhairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The scheme was introduced from 6 April 1994 and applies to anyone who provides full-time care for a child under age 12 or an ill or disabled person age 12 or over</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann an Scéim um Chúramaí Baile le daoine a bhí ina gcúramóirí ó 1994 i leith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It does not apply to time spent caring before the introduction of the scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhaineann sé leo siúd a bhí ina gcúramóirí roimh 1994 agus ní rachaidh sé chun tairbhe morán dóibh siúd a d'éirigh as a gcuid oibre go buan</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is most beneficial for people who work outside the home for a number of years and then spend a number of years as carers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann sé go háirithe leo siúd a bhí ag obair taobh amuigh den bhaile ar feadh roinnt blianta, a chaith roinnt blianta mar chúramóir agus d'fhill arís ar an obair taobh amuigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It applies equally to women and men</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann sé le fir agus le mná</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>From 6 April 1994, a contribution year spent as a homemaker may be disregarded in the calculation of the yearly average (see above) up to a maximum of 20 years. This has the effect of increasing your yearly average as the same number of total contributions are divided by a smaller number of years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ón 5ú Aibreán 1994 i leith is féidir neamh-aird a dhéanamh ar aon bhliain síntiúis (ach teorann 20 bliain leis) a chaith duine mar chúramóir baile, nuair atá comháireamh á dhéanamh ar an meán bliantúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>So, the fact that you do not have any contributions in those years will not reduce your yearly average and will make it easier for you to qualify for a State Pension (Contributory)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin, cé nach bhfuil aon síntiúis íoctha agat ar na blianta sin, ní chuirfidh sé seo isteach ar do chuid cearta pinsin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are a number of pro-rata pensions, which were introduced because of the exclusion of some people from the social insurance system at particular times</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá roinnt pinsean pro-rata ann a tugadh isteach toisc na bhfadhbanna agus na haimhrialtachatí a d'eascair ó fheidhmiú riail na meánuimhreacha ranníocaíochtaí agus toisc go raibh daoine áirithe eisiata ón gcóras árachais shóisialta ag uaireanta éagsúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Pro-rata pension for mixed insurance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Pinsean pro-rata le haghaidh árachas meascaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Pro-rata pensions were introduced for people with mixed insurance records</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad ar déanadh socrú faoi phinsean dá-réir dóibh, ná iad siúd a raibh árachas measctha acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Mixed insurance arises when a person spends part of his/her working life in the public service paying modified social insurance contributions and part in the private sector paying full rate social insurance contributions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Thárlodh go mbeadh árachas measctha ag duine nuair a chaitheann sé/sí cuid dá s(h)aol ag obair sa tseirbhís póiblí agus ag íoc ranníocaíochtaí árachais shóisialaigh mionathraithe agus cuid eile dá s(h)aol sa rannóg phríobháideach ag íoc ranníocaíochtaí árachais shóisialaigh ag an ráta iomlán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Many people have had a career in both the public and private sector but do not have mixed insurance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá daoine ann a bhí fostaithe sa rannóg phoiblí agus sa rannóg phríobháideach nach bhfuil árachas measctha acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is because no insurance was payable by people whose incomes were above certain limits before 1 April 1974</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tharla sé seo de bhárr nach raibh gá do dhaoine a raibh a n-ioncam os cionn teorainn áirithe, aon árachas a íoc roimh ó 1 Aibreán 1974</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Certain groups who are now insured were outside the scope of the system - Gardai are insurable since 1 April 1974; certain members of religious orders since 6 April 1988 and doctors and dentists in the civil service since 6 April 1988</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bhí grúpaí áirithe atá anois ag íoc árachais, taobh amuigh den chóras-thosaigh Gárdaí ag íoc árachais ó Aibreán 1974; thosaigh baill áirithe de na hoird rialta á íoc ó Aibreán 1988 agus dochtúirí agus fiaclóirí sa stát sheirbhís ó Aibreán 1988</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>People with mixed insurance may have enough full rate contributions to enable them to qualify for a State Pension (Contributory)</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh go mbeadh a ndóthain ranníocaíochtaí ag an ráta iomlán ag daoine chun go mbéidís i dteideal Pinsean Stáit (Ranníocach)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This depends on the exact circumstances of each case</seg></tuv>
+  <tuv xml:lang="ga"><seg>Braitheann sé seo ar chuinsí gach cás ann féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It could happen that one person would qualify while another, who might have more contributions, would not qualify</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh go mbeadh duine amháin i dteideal an phinsin agus nach mbeadh duine eile, in ainneoin níos mó ranníocaíochtaí a bheith ag an dara duine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Since 1991, a State Pension (Contributory) may be payable on a pro-rata basis to people with mixed insurance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó 1991 i leith is féidir Pinsean Stáit (Ranníocach) a íoc ar bhonn pro rata le daoine a bhfuil árachas measctha acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you reach pension age on or after 6 April 2012, you need to have a total of at least 520 full-rate and modified rate contributions paid</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má shroicheann tú aois a 66 ar nó tar éis 6 Aibreán 2012 caithfidh 520 ranníocaíocht idir an ráta iomlán agus an ráta mionathraithe a bheith agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• At least 260 paid contributions at the full rate since entry into insurance or 1953, whichever is later</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ar a laghadh 260 ranníocaíochtaí a bheith íoctha nó curtha chun sochair duit ó chuaigh tú isteach in árachas nó ó 1953 pé acu is déanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A mixture of full and modified contributions, which when added together give you a yearly average of 10 (for the State Pension Contributory) from the time you first entered insurance or 1953, whichever is later, to the end of the contribution year before your 66th birthday</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Meascán de lán ranníocaíochtaí agus de ranníocaíochtaí laghdaithe a bheith agat a thugann, nuair a shuimítear iad meán bliantúil 10 ón am a ndeachaigh tú isteach in árachas ar dtús, nó ó 1953 pé acu is déanaí, go dtí deireadh na bliana ranníocaíochtaí roimh do 66ú breithlá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Failed to qualify for a pension under EU regulations or under reciprocal arrangements with other countries or only qualified for a pension at a lower rate than this pro-rata pension would give you</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gur theip ort pinsean a fháil faoi rialacha an AE nó faoi shocrú cómhalartach le tíortha eile, nó go raibh tú i dteideal pinsean a bhí ar ráta níos ísle ná an ceann a bheadh agat de bhárr an phinsin dá-réir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you meet all these requirements, you may qualify for a pension proportionate to the number of contributions that you have at the full rate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chomhlíonann tú na riachtanais seo ar fad, d'fhéadfá a bheith i dteideal pinsean a bheadh i gcomhréir leis an méid ranníocaíochtaí a bhí íoctha agat ag an ráta iomlán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To take a very simple example, if you worked for 40 years up to age 66 and 10 of those were in the private sector, you would get one-quarter of the normal pension</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tóg sampla an-simplí, má bhí tú ag obair ar feadh 40 bliain suas go dtí aois a 66 agus gur chaith tú deich mbliana acu sin sa rannóg phríobháideach is aon ceathrú den ghnáth phinsean a bheadh ag dul duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The amount paid is in proportion to your full-rate contributions as a percentage of your overall contributions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an méid íoctha i gcomhréir do ranníocaíochtaí ag an ráta iomlán mar chéatadán iomlán do ranníocaíochtaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To calculate your pension you add contributions at the full and modified rates together</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun do phinsean a ríomh, suimítear le chéile na ranníocaíochtaí a bhí íoctha ag an ráta iomlán agus ag an ráta mionathraithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The average is then measured in the normal way</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar an meán a thomhais ar an ngnáth bhealach, ansin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have an average of at least 10 then you may qualify</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá 10 ranníocaíocht ar an meán agat d'fhéadfá a bheith i dteideal an phinsin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Then the number of full rate contributions is divided by the total number of contributions to find out what proportion are full rate; you then get that proportion of the pension</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ansin roinntear an líon ranníocaíochtaí atá agat ag an ráta iomlán ar an líon iomlán ranníocaíochtaí chun a fháil amach cén codán acu atá ag an ráta iomlán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Increase for a Qualified Adult payable with this pension is proportioned as well</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn an Méadú do Dhuine Fásta Cáilithe, a théann leis an bpinsean seo, comhréireach freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Pro-rata pension for intermittent insurance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Pinsin pro-rata d'árachas uaineach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This pension applied to people with intermittent insurance and who had a yearly average of under 10</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann an pinsean seo le daoine atá árachas uaineach acu le meánuimhir bliantúil 10 nó níos lú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It no longer applies to new applicants (from January 2013)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhaineann sé le hiarratasóirí nua a thuilleadh (ó Eanáir 2013)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This pro-rata pension was only payable to people who meet specific conditions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níor íocadh an pinsean pro-rata seo ach amháin le daoine a chomhlíonann na coinníollacha speisialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>That is, they had to have a broken insurance record and have re-entered insurance in 1974 because of the removal of the income limit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh siad taifead briste a bheith acu agus a tháinig isteach in árachas arís sa bhliain 1974 nuair a cuireadh deireadh leis an teorainn ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Their average is measured in the usual way and if that average is 10 or more they got a pension in the normal way</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar an mheánuimhir a mheas ar an ngnáthbhealach agus má tá 10 nó breis acu ar an meán faigheann siad pinsean ar an ngnáthbhealach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if it was between 5 and 9 they got a special partial pension which was one quarter of the maximum pension</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áfach, má tá sí idir 5 agus 9, fuair siad pinsean pro-rata, (ceathrú den uasphinsean)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>See Further information below for more information on other pro-rata pensions that no longer apply to many people (because most people who would qualify are now over 66)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féach ‘Tuilleadh eolais’ chun faisnéis bhreise maidir le pinsin pro-rata eile nach baineann le go leor daoine (tá an chuid is mó den daoine incháilithe os cionn aois 66)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have worked in Ireland and one or more EU states your social insurance contributions from each EU state will be added to your Irish social insurance contributions to help you qualify for a social welfare payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má d'oibrigh tú in Éirinn agus i mballstát nó i mballstáit de chuid an AE, cuirfear do chuid ranníocaíochtaí árachais shóisialta ó gach ballstát le do chuid ranníocaíochtaí árachais shóisialta in Éirinn le gur fearr do theideal ar íocaíocht leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>More information about combining your social insurance contributions to qualify for a state pension is available</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh eolais ar fáil faoi do chuid ranníocaíochtaí árachais shóisialta a chur le chéile le teideal a fháil ar phinsean stáit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Increases for a qualified adult and pensioners over 80 years of age are calculated in the same way as the personal rate of pension</seg></tuv>
+  <tuv xml:lang="ga"><seg>Oibrítear amach na liúntais le haghaidh daoine fásta agus le haghaidh daoine ós cionn 80 ar an mbealach seo freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Increases for a qualified child are payable from one country only and, if from Ireland, are paid in full</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir an liúntas le haghaidh páiste cleithiúnaigh a fháil ach ó thír amháin agus más as Éirinn atá sé ag teacht íocfar ina iomláine é</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Bilateral social security agreements</seg></tuv>
+  <tuv xml:lang="ga"><seg>Comhaontuithe déthaobhach leasa ahóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Ireland has bilateral social security agreements with Canada, the USA, Australia, New Zealand, Austria, Japan, Republic of Korea and Quebec (which has a separate system from the rest of Canada)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá comhaontuithe déthaobhach leasa shóisialaigh ag Éirinn le Ceanada, na Stáit Aontaithe, An Astráil, An Nua Shéalainn, An Eilbhéis, an Ostair, an tSeapáin, Korea, agus le Quebec (a bhfuil córas éagsúil aici ón gcuid eile de Cheanada)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These agreements are broadly similar and they generally provide that social insurance paid in Ireland and the other country can be combined to help people qualify for old age and retirement pensions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tríd is tríd tá na haontais seo cosúil le chéile agus go hiondúil socraíonn siad gur féidir árachas sóisialta a íoctar in Éirinn agus i dtíortha eile, a chur le chéile chun go mbeadh daoine i dteideal pinsin sean-aoise agus pinsin scoir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Again, in general, the method of calculation is similar to the EU rules</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go hiondúil bíonn an módh a úsáidtear chun méid an phinsin a oibriú amach, cosúil le rialacha an AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>State Pension (Contributory) rates from 10 March 2017</seg></tuv>
+  <tuv xml:lang="ga"><seg>Pinsean Stáit (Ranníocach): Rátaí ón 10 Márta 2017</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Yearly average PRSI contributions │Personal rate per week, € │Increase for a qualified adult* (under 66), € │Increase for a qualified adult* (over 66), € │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Meán Bliantúil │Ráta Pearsanta (seachtainiúil), € │Méadú i Leith Duine Aosaithe Cháilithe faoi 66* (uasráta seachtainiúil) │Méadú i Leith Duine Aosaithe Cháilithe atá 66+* (uasráta seachtainiúil) │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│48 or over │238.30 │158.80 │213.50 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│48 nó níos mó │238.30 │158.80 │213.50 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>State Pension (Contributory) rates from 10 March 2017 for people who qualified for pensions before 1 September 2012</seg></tuv>
+  <tuv xml:lang="ga"><seg>*Íocaíocht faoi réir thástáil maoine is ea an Méadú i leith Duine Aosaithe Cháilithe - féach thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>*These qualified adult rates apply to claims made from 6 April 2001</seg></tuv>
+  <tuv xml:lang="ga"><seg>Siad na rátaí le haghaidh Pinsean Stáit (Ranníocach) í 2012:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Yearly average PRSI contributions │Personal rate per week, € │Increase for a qualified adult* (under 66), € │Increase for a qualified adult* (over 66), € │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Ranníocaíochtaí ÁSPC │Ráta seachtainiúil │Méadú do Dhuine Fásta Cáilithe (in aois faoi 66) │Méadú do Dhuine Fásta Cáilithe (atá 66+) │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│48 or over │233.30 │155.50 │209.00 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│48 nó níos mó │€238.30 │€158.80 │€213.50 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>*These qualified adult rates apply to claims made from 6 April 2001</seg></tuv>
+  <tuv xml:lang="ga"><seg>*Baineann na rátaí do dhuine fásta cáilithe le héilimh déanta ón 6 Aibreán 2001</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This increase is not paid to qualified adults</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sochair bhreise leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Living Alone Increase may be payable to people who live completely alone</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh Méadú um Chónaí Aonair a bheith íoctha do dhaoine a chónaíonn ina n-aonair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may also be eligible for other benefits. Find out more about medical cards, the Household Benefits Package and Fuel Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfá cáiliú le haghaidh sochair eile, faigh amach tuilleadh faoi chárta leighis, an Pacáiste Sochar Teaghlaigh agus Liúntas Breosla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can get an increase in your payment for an adult dependant (called a qualified adult)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat méadú a fháil i d'íocaíocht i gcomhair duine fásta cháilithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your income is not taken into account in the assessment for a Increase for a Qualified Adult</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní thógtar d'ioncam san áireamh ó thaobh measúnú maidir le Méadú do Dhuine Fásta Cáilithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Any income your adult dependant has from employment, self-employment, savings, investments and capital (for example, any property except your own home) is taken into account</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tógfar aon ioncam atá ag do dhuine fásta cháilithe ó fhostaíocht, féinfhostaíocht, coigiltis, infheistíochtaí agus caipiteal (mar shampla, aon mhaoin seachas do theach féin ag an mbaile) san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have joint savings or investments with your spouse, civil partner or cohabitant only half is taken into account</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá caipiteal nó infheistíochtaí coinnithe i gcomhpháirt idir tú féin agus do chéile, pháirtnéir sibhialta nó chomhchónaitheoir ní thógtar ach amháin leath den luach san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are getting a State Pension (Contributory) the Increase for a Qualified Adult is automatically paid directly to your adult dependant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ag fáil Pinsin Stáit (Ranníocach) íocfar an méadú do dhuine fásta go díreach agus go huathoibritheach le do cleithiúnaí lánaoiseach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This only applies to applications for State pensions received by the Department on or after 27 September 2007</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhaineann sé seo ach le hiarratais ar phinsin Stáit a fuarthas sa Roinn ar 27 Meán Fómhair 2007 nó ina dhiaidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can also get an increase in your payment for child dependants (known as qualified children)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat méadú a fháil ar d'íocaíocht i gcomhair do chleithiúnaí linbh freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Since 6 July 2012 you can no longer claim an Increase for a Qualified Child (IQC) with your State Pension (Contributory) if your spouse, civil partner or cohabitant has an income of over €400 a week</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ón 6 Iúil 2012, má tá ioncam ag do chéile, pháirtnéir sibhialta nó chomhchónaitheoir de bhreis ar €400 sa tseachtain, ní féidir leat Méadú i leith Leanbh Cáilithe (MLC) a éileamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You get a half-rate IQC if your spouse, civil partner or cohabitant earns between €310 and €400 a week</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má thuilleann do chéile, pháirtnéir sibhialta nó chomhchónaitheoir idir €310 agus €400 sa tseachtain, gheobhaidh tú MLC leathráta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This only applies to claims made after 6 July 2012</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhaineann seo ach amháin le héilimh déanta i ndiaidh 6 Iúil 2012</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can request a copy of your social insurance record through MyWelfare.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú staire d'árachais shóisialta a sheiceáil i rannóg Thaifid Lárnacha an ÁSPC sa Roinn Coimirce Sóisialaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To do this, you need your PPS (Personal Public Service) Number</seg></tuv>
+  <tuv xml:lang="ga"><seg>Le go bhféadfaidh tú do thaifead árachais shóisialta a sheiceáil, ní mór duit d'Uimhir Phearsanta Seirbhíse Poiblí (PSP) a bheith agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can get a State Pension (Contributory) form (pdf) from your local post office and your Intreo Centre or Social Welfare Branch Office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá na foirmeacha seo le fáil ó d'oifig phoist áitiúil agus óna hoifigí áitiúla de chuid na Roinne Coimirce Sóisialaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should apply 3 months before the age of 66. However, if you have paid social insurance contributions in more than one country, you should apply 6 months before reaching 66</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart duit iarratas a dhéanamh 3 mhí roimh aois a 66 duit agus 6 mhí roimh aois a 66 má amhlaidh a rinne tú ranníocaíochtaí árachais shóisialta i mbreis agus tír amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are currently getting a State Pension Contributory and wish to apply for an Increase for a Qualified Adult for your spouse, civil partner or cohabitant you should fill out form SPCQA1(pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhaigheann tú Pinsean Stáit (Ranníocach) láithreach agus más mian leat iarratas ar Mhéadú Dhuine Fásta Cáilithe le haghaidh do chéile, do pháirtnéir sibhialta nó do chomhchónaitheoir a dhéanamh, caithfidh tú foirm SPCQA1 (pdf) a chomhlánú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Note that any increase for a qualified adult that you may qualify for will be paid directly to your spouse, civil partner or cohabitant unless they state that they wish to have it paid to you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabhair faoi deara má tá tú incháilithe le haghaidh aon mhéadú duine fásta cáilithe, íocfar é díreach le do chéile, do pháirtnéir sibhialta nó do chomhchónaitheoir mura ndéarfaidís ba mhaith leo go n-íocfar leat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may qualify for Supplementary Welfare Allowance if there is a delay in processing your claim</seg></tuv>
+  <tuv xml:lang="ga"><seg>B'fhéidir go mbeidh teideal agat ar Liúntas Leasa Forlíontach le linn do d'iarratas a bheith á phróiseáil ag an Roinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>From April 2012 late claims for contributory pensions can be backdated for a maximum of 6 months</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó Aibreán 2012 is féidir éilimh déanacha ar phinsin ranníocacha bheith siardhátaithe suas go 6 mhí ar a mhéid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This applies to State Pension (Contributory and Transition) and Widow's, Widower's or Surviving Civil Partner's (Contributory) Pension</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann sé seo le Pinsean Stáit (Ranníocach agus Eatramhach) agus Pinsean Baintrí, Baintrí Fir nó Páirtnéara Shibhialta Mharthanaigh (Ranníocach)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read more in our document about late claims</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léigh tuilleadh inár ndoiciméad faoi éileamh déanacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Questions about your eligibility for a State Pension (Contributory) should be addressed to your Intreo Centre or Social Welfare Branch Office or:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart aon cheist a bhaineann le do theideal ar Phinsean Stáit (Ranníocach) a chur chuig d'Ionad Intreo nó d'Oifig Bhrainse Leasa Shóisialaigh nó chuig:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Department of Social Protection</seg></tuv>
+  <tuv xml:lang="ga"><seg>An Roinn Coimirce Sóisialaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Opening Hours:This office does not offer a service to personal callers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Uaireanta Oscailte:Ní thairgeann an oifig seo seirbhís do chuairteoirí pearsanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All queries must be made using the online enquiry form, by telephone or in writing</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh gach ceist a bheith cur isteach tríd an fhoirm fiosraithe ar líne a úsáid, tríd an teileafón nó i scríbhinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can email the State Pension (Contributory) section using the secure enquiry form</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat ríomhphost don Rannóg Pinsean Stáit (Ranníocach) a sheoladh tríd an fhoirm fhiosraithe daingnithe Pinsean Stáit (Ranníocach) a úsáid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you wish to talk to someone face-to-face about your pension entitlements, you can visit your local Citizens Information Centre, Social Welfare Branch Office or Intreo Centre</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mian leat labhairt duine-le-duine faoi do theidlíochtaí, is féidir leat cuairt a thabhairt ar d'Ionad Faisnéise do Shaoránaigh áitiúil, d'Ionad Intreo nó d'Oifig Bhrainse Leasa Shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you have received a copy of your PRSI contribution record through MyWelfare.ie, any queries you have regarding your record should be addressed to:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart ceisteanna a bhaineann le do thaifead árachais shóisialta a chur chuig:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Changes to the State Pension (Contributory)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Athruithe ar an bPinsean Stáit (Ranníocach)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Social Welfare and Pensions Act 2011 made a number of changes to the qualifying age for State pensions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rinne an tAcht Leasa Shóisialaigh agus Pinsean 2011 roinnt athruithe ar an aois cháilitheach do na pinsin Stáit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The qualifying age will rise to 67 in 2021 and 68 in 2028. So:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh an aois cháilitheach ardaithe go dtí 67 bliain i 2021 agus 68 bliain i 2028 mar a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you were born on or after 1 January 1955 the minimum qualifying State pension age will be 67</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má saolaíodh tú an 1 Eanáir 1955 nó ina dhiaidh ní cháileoidh tú don Pinsean Stáit go dtí go mbeidh tú 67 bliain ar a laghad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you were born on or after 1 January 1961 the minimum qualifying State pension age will be 68</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má saolaíodh tú an 1 Eanáir 1961 nó ina dhiaidh ní cháileoidh tú don Pinsean Stáit go dtí go mbeidh tú 68 bliain ar a laghad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the National Pensions Framework a number of other changes were proposed to the qualifying conditions for the State Pension (Contributory).   This is a summary of the proposals</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoin gCreatlach Náisiúnta um Pinsin tá roinnt athruithe eile pleanáilte do na choinníollacha cáilitheacha don Phinsean Stáit (Ranníocach) (ó 2020)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Note that legislation is required before these changes come into effect and that, at present, these remain proposals</seg></tuv>
+  <tuv xml:lang="ga"><seg>Teastaíonn reachtaíocht sula dtagann na hathruithe seo i bhfeidhm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The main change proposed was the introduction of a total contributions approach to replace the current yearly averaging system</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an príomhathrú atá molta ná tabhairt isteach cur chuige ranníocaíochtaí iomláin chun teacht in áit an chórais atá ann faoi láthair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that the amount of pension paid to you would be directly proportionate to the number of social insurance contributions and/or credits you have made over your working life</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn sé seo go mbeidh méid an phinsin a íocfar leat díreach ar aon dul le líon na ranníocaíochtaí árachais shóisialaigh agus/nó creidmheasanna a d'fhéadfadh a bheith íoctha agat thar do shaol oibre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>So if you were born after 1 January 1954, when you reach pension age, you would need a total of 30 years contributions and/or credits to get the maximum State Pension</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más rud é gur rugadh thú tar éis 1 Eanáir 1954, nuair a bhaineann tú aois an phinsin amach, teastóidh 30 bliain de ranníocaíochtaí agus/nó creidmheasanna chun an Pinsean Stáit is mó a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You would be able to get the minimum State Pension if you have paid 520 full-rate contributions (10 years)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh tú in ann an Pinsean Stáit is lú a fháil má tá 520 ranníocaíocht ag an ráta iomláin íoctha agat (10 mbliana)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The minimum pension would be one third of the maximum rate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh an pinsean is lú ag aon trian den ráta uasta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You could then get a further 1/30th of the pension for each additional year of contributions that you have</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat aon tríocha eile den phinsean a fháil do gach bliain bhreise ar ranníocaíochtaí atá agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The maximum number of credits that could be used in calculating your entitlement to State Pension would be 520 (or 10 years)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an líon uasta de chreidmheasanna gur féidir leat a úsáid agus do theidlíocht Pinsin Stáit á ríomh ná 520 (nó 10 mbliana)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Pro-rata pension for self-employed people</seg></tuv>
+  <tuv xml:lang="ga"><seg>Pinsean pro-rata do dhaoine féin-fhostaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The self-employed have been obliged to pay social insurance since 1988</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá dualgas ar dhuine féin-fhostaithe árachas sóisialta a íoc ó 1988 i leith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Prior to that, some self-employed people were voluntarily paying insurance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Roimhe sin bhíodh roinnt daoine féin-fhostaithe ag íoc árachais go deonach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some self-employed people were already over the minimum age when they first started to pay contributions in 1988</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bhí roinnt daoine féin-fhostaithe os cionn an íos-aois cheana féin nuair a thosaigh siad ag íoc árachais i 1988</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In April 1999, a special pro-rata pension was introduced for them</seg></tuv>
+  <tuv xml:lang="ga"><seg>Í mí Aibreáin 1999 tugadh isteach pinsean speisialta dá-réir, don dream seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Only people aged 56 or over on 6 April 1988 (born on or before 6 April 1932) qualify for this pension</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfá a bheith i dteideal an phinsin dá-réir má bhí tú 56 nó ós a cionn ar an 6ú Aibreán 1988 (gur rugadh thú ar nó roimh 6ú Aibreán 1932)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Pro-rata pensions for people with pre-1953 contributions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Pinsean pro-rata do dhaoine a d'íoc ranníocaíochtaí roimh 1953</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This pro-rata pension was introduced in May 2000</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugadh an pinsean seo isteach den chéad uair i mí Bealtaine 2000</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may qualify if you have at least 520 full contributions, some of which must have been paid before 1953</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfá a bheith ina theideal má tá 260 ranníocaíochtaí ar a laghad agat ag an lán-ráta agus cuid acu a bheith íoctha roimh 1953</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Every 2 contributions paid before 1953 count as 3</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar gach 2 ranníocaíochtaí a bhí íoctha roimh 1953 a áireamh mar 3 ranníocaíochtaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you meet these conditions, you may get a pro-rata pension of half the normal maximum rate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chomhlíonann tú na riachtanais sin d'fhéadfá pinsean dá-réir ag leath ráta a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The increases for a qualified adult and child are also at payable at half-rate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íoctar an liúntas le haghaidh páiste cleithiúnaigh ag leath an ráta freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The increase for pensioners over 80 years of age is paid in full</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íoctar an liúntas le haghaidh duine os cionn 80 ag an ráta iomlán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Pro-rata pension for intermittent insurance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Pinsin pro-rata d'árachas uaineach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This pension no longer applies to new applicants from January 2013</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhaineann an pinsean seo le hiarratasóirí nua ó Eanáir 2013</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The first group for whom pro-rata pensions were arranged were those who had been in and out of insurance because of the operation of the income limit on contributions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Socraíodh pinsin pro-rata ar dtús dóibh siúd a raibh árachas acu tráth amháin agus tada acu uair eile de thoradh na dteorainneacha ioncaim a cuireadh ar ranníocaíochtaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Prior to 1974, non-manual workers were obliged to pay social insurance contributions only if their income was below a certain level</seg></tuv>
+  <tuv xml:lang="ga"><seg>Roimh 1974 ní raibh sé de dhualgas ar oibrithe nach raibh obair láimhe ar siúl acu ranníocaíochtaí árachas sóisialta a dhéanamh ach amháin má bhí a n-ioncam faoi bhun leibhéal áirithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>From 1 April 1974, there has been no income limit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireadh deireadh leis an teorainn ioncaim seo in Aibreán 1974</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Many people paid social insurance for a period and then ceased to pay when their income went above the limit then came back into the insurance system in April 1974 because of the abolition of the income limit </seg></tuv>
+  <tuv xml:lang="ga"><seg>D'íoc a lán daoine as árachas sóisialta ar feadh tamaill, d'éirigh as ansin ó thaobh ioncaim os cionn teorainn agus d'fhill ar an gcóras in Aibreán 1974 toisc gur cuireadh an teorainn ioncaim ar ceal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They would not meet the usual average requirement because they ceased to pay for a while</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní raibh siad ábalta an meánriachtanas a shásamh mar d'éirigh siad as íoc ar feadh tamaill</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>On 14 October 1988, arrangements were made for them to qualify for a pro-rata pension</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rinneadh socruithe an 14 Meán Fómhair 1988 chun go mbeadh siad incháilithe pinsin pro-rata a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Their average is measured in the usual way and if that average is 10 or more they get a pension in the normal way</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar an mheánuimhir a mheas ar an ngnáthbhealach agus má tá 10 nó breis acu ar an meán faigheann siad pinsean ar an ngnáthbhealach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if it is between 5 and 9 they may get a special partial pension which is one quarter of the maximum pension</seg></tuv>
+  <tuv xml:lang="ga"><seg>B'fhéidir go bhfaighidh siad pinsean pro-rata, (ceathrú den uasphinsean), áfach, má tá sí idir 5 agus 9</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This pro-rata pension is payable to people who meet the quite specific conditions outlined</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir an pinsean pro-rata, seo a íoc le daoine a chomhlíonann na coinníollacha speisialta seo a leanas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>That is, you must have a broken insurance record and have re-entered insurance in 1974 because of the removal of the income limit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir an pinsean pro-rata, seo a íoc le daoine a bhfuil bearnaí ina gcuid árachais acu agus a tháinig isteach in árachas arís sa mbliain 1974 nuair a cuireadh deireadh leis an teorann ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you re-entered insurance in that year for any other reason (for example, because you had previously been self-employed or out of the country), you do not meet these specific terms and you would not be eligible for this pro-rata pension</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tháinig tú isteach in árachas arís sa bhliain sin ar aon chúis eile (mar shampla, mar gheall ar go raibh tú féin-fhostaithe roimhe sin nó amuigh as an tír), ní chomhlíonann tú na riachtanais agus ní bheidh tú i dteideal pinsean pro-rata</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you qualify for this pro-rata pension you may also get the appropriate Increase for Qualified Adult for a dependent spouse, civil partner or cohabitant and an Increase for a Qualified Child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú incháilithe an pinsean pro-rata seo a fháil féadfaidh tú liúntas cáilithe an duine fásta a fháil agus liúntas iomlán do leanaí cleithiúnacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This pro-rata pension is for State Pension (Contributory) and Widow’s, Widower’s or Surviving Civil Partner's Contributory Pension only</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhaineann an pinsean pro-rata seo ach amháin le Pinsean Stáit (Ranníocach) agus le Pinsean Baintrí, Baintrí Fir nó Páirtnéara Shibhialta Mharthanaigh (Ranníocach)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Because it is easier to qualify for a Widow’s, Widower's or Surviving Civil Partner's Contributory Pension the numbers who need the pro-rata pensions are very small</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé níos éasca cáiliú le haghaidh Pinsin Baintrí, Baintrí Fir nó Páirtnéara Shibhialta Mharthanaigh (Ranníocach) agus dá bhrí sin tá méid an-bheag de dhaoine atá pinsin pro-rata ag teastáil uathu</seg></tuv>
+</tu>
+</body>
+</tmx>

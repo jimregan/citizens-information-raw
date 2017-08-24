@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Eligibility for Membership of the European Parliament</seg></tuv>
+  <tuv xml:lang="ga"><seg>Intofa mar bhall de Pharlaimint na hEorpa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The European Parliament is the institution that represents the citizens of the Member States</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is Parlaimint na hEorpa í an institiúid a hionadaíonn na saoránaigh de bhallstát</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To be eligible for election as a member of the European Parliament (i.e., an MEP), there are certain criteria you must fulfil:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Le bheith intofa mar bhall de Pharlaimint na hEorpa:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You must be a citizen of Ireland or a resident EU citizen</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní mór duit a bheith i do shaoránach Éireananch nó saoránach cónáitheach den AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You must be over 21 years of age and</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní mór duit a bheith ós cionn 21 bliain d'aois agus</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You must not be disqualified from election to the Dáil</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní féidir leat a bheith dícháilithe le toghadh mar Theachta Dála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To stand for election, you must be nominated for election</seg></tuv>
+  <tuv xml:lang="ga"><seg>Le seasamh sa toghchán, ní mór duit a bheith ainmnithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are disqualified from membership of the European Parliament if:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tú dícháilithe mar bhall de Pharlaimint na hEorpa:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• you are not a citizen of Ireland or a national of another Member State in the EU</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Muna bhfuil tú i do shaoránach Éireannach nó i do náisiúnach de bhallstát eile den AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• you have not yet reached 21 years of age</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má tá tú faoi bliain 's fiche d'aois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• you are a candidate for election in another member state</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Más iarrthóir toghcháin in aon bhallstát eile thú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• you are a national of another Member State and you may not stand as a candidate for election in that Member State because of a law in that Member State</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Más náisiúnach de Bhallstát eile thú agus nach féidir leat seasamh sa Bhallstát sin de bharr an dlí atá i bhfeidhm sa Bhallstát sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• you are a judge or the Comptroller and Auditor General</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Más breitheamh thú nó an tArd-Reachtaire Ciste agus Cuntas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• you are a member of the Garda Siochana</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Más ball den Gharda Síochána thú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• you are a whole-time member of the Defence Forces</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Más ball lánaimseartha de na Fórsaí Cosanta thú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• you are a civil servant and it does not specifically state in your contract of employment that you may be a member of the European Parliament</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Más státseirbhíseach thú, muna bhfuil sé luaite go sonrach i do chonradh fostaíochta go bhfuil cead agat seasamh mar bhall de Pharlaimint na hEorpa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• you are a person of unsound mind</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má tá galar intinne ort</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• you are presently in prison serving a term greater than 6 months</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má tá tú sa phríosún ag cur isteach téarma níos mó ná 6 mhí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are the Attorney General, the Ceann Comhairle of the Dáil, the Cathaoirleach of the Seanad or a Minister of State and you are elected to the European Parliament, you will cease to hold your original post on the day you are elected to the European Parliament</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más tú an tArd Aighne, Ceann Comhairle na Dála, Cathaoirleach an tSeanaid nó Aire Stáit agus má thoghtar tú mar bhall de Pharlaimint na hEorpa tiocfaidh deireadh le do thréimhse sa phost sin ar an lá a thoghtar thú mar bhall de Pharlaimint na hEorpa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>View a list of existing Members of the European Parliament (MEP's) here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féach liosta de na Baill atá ar Pharlaimint na hEorpa cheana féin anseo </seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is more information on european elections on the website of the Department of Housing, Planning, Community and Local Government</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh eolais maidir le toghcháin na hEorpa ar láithreán gréasáin na Roinne Tithíochta, Pleanála​​, Pobail agus Rialtais Áitiúil</seg></tuv>
+</tu>
+</body>
+</tmx>

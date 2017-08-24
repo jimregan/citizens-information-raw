@@ -1,0 +1,369 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>If your landlord wants you to leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má theastaíonn ó do thiarna talún go bhfágfadh tú an teach nó an t-árasan</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The law on residential tenancies requires private landlords and approved housing bodies (housing associations) to follow certain procedures before asking a tenant to leave rented accommodation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceanglaítear ar thiarnaí talún leis an dlí um thionóntachtaí cónaithe príobháideacha nósanna imeachta áirithe a leanúint sula n-iarrfaidh siad ar thionónta cóiríocht ar cíos a fhágáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They must also give the tenant a minimum amount of notice, depending on how long the tenancy has lasted</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá orthu freisin íosmhéid tréimhse fógra a thbhairt don tionónta, a bhraitheann ar fhad na tionóntachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It increased the required notice periods for terminating tenancies of 5 years or over – see ‘Notice periods’ below - and brought housing association tenancies under the remit of the Private Residential Tenancies Board, which is now the Residential Tenancies Board (RTB)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó 4 Nollaig 2015 amach, mhéadaigh an tAcht um Thionóntachtaí Cónaithe (Leasú) 2015 fad an fhógra i leith tionóntachtaí níos faide ná 5 bliana - féach 'Fad an fhógra' thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The 2015 Act also requires landlords to provide extra documentation when terminating a tenancy in certain situations - see ‘Notice of termination’ below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léigh tuilleadh ar láithreán an Bhoird um Thionóntachtaí Cónaithe Príobháideacha (BTCP) agus ar láithreán Threshold</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Law Reform Commission has produced a consolidated version of the 2004 Act as of 9 May 2016, incorporating all amendments in effect on that date</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirfidh forálacha eile den Acht (nach bhfuil i bhfeidhm go fóill) oibleagáidí breise ar thiarnaí talún i leith tionóntachtaí a fhoirceannadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some of the changes took effect from 24 December 2016, some took effect from 17 January 2017, and some others will require Commencement Orders. The changes include:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Scóp na reachtaíochta i leith thionóntachtaí cónaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Measures to prevent the simultaneous serving of termination notices on large numbers of residents in a single development</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ionann tionóntacht chónaithe príobháideach agus tionóntacht atá aontaithe go príobháideach idir tiarna talún agus tionónta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Extending the period of a Part 4 tenancy from 4 years to 6 years - for tenancies created from 24 December 2016</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá formhór na dtionóntachtaí den sórt sin clúdaithe ag an Acht um Thionóntachtaí Cónaithe 2004</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Removing the provision that allowed a landlord to end a further Part 4 tenancy during the first 6 months without having to give a reason • Changes to declarations required when a termination is due to sale of the dwelling</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá Forlíonadh Cíosa á fháil agat, is dócha go bhfuil cóiríocht á glacadh ar cíos agat ó thiarna talún príobháideach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read more about these and other measures on rtb.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dá bhrí sin, bheifeá clúdaithe ag an Acht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A private residential tenancy means a tenancy that is agreed privately between a landlord and a tenant. If you are getting Rent Supplement, you are probably renting from a private landlord, so you would be covered by the residential tenancies legislation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl tú clúdaithe ag an reachtaíocht sin má tá cóiríocht á glacadh ar cíos agat ó údarás áitiúil nó ó eagraíocht tithíochta sóisialta (amhail cóiríocht cumainn tithíochta nó cóiríocht mac léinn atá á ligean ar cíos ag institiúid aitheanta oideachais)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It also covers tenancies under the Rental Accommodation Scheme (RAS) and the Housing Assistance Payment (HAP). Since 7 April 2016, the legislation also covers housing association tenancies</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féach Fógra Scoir agus Díshealbhú le haghaidh tuilleadh faisnéise a fháil ar na cearta atá ag tionóntaí údaráis áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are renting from a local authority, you are not covered by this legislation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má ta cónaí ort i seomra i dteach do thiarna talún, níl chlúdaíonn an reachtaíocht seo an tionóntacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>See Repossession of rented social housing for information on procedures that local authorities must follow if asking their tenants to leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá árasán féinchuimsitheach ar cíos agat i dteach do thiarna talún, áfach, clúdaíonn an reachtaíocht do thionóntacht agus cathfidh an tiarna talún í a chlárú leis an BTCP</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are renting a room that is part of your landlord's home, your tenancy is not covered by this legislation. However, if you are renting a self-contained flat or apartment in your landlord’s home, your tenancy is covered</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féach ár gcáipéis maidir le Socrú ina bhfuil cónaí ort agus ar do thiarna talún sa chóiríocht chéanna chun tuilleadh faisnéise a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>How easily your landlord can end your tenancy depends on the type of tenancy you have and how long you have been in the accommodation. Your landlord must always give you valid written notice when asking you to leave - see 'Notice of termination' and 'Notice periods' below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Braitheann cé chomh héasca is atá sé do do thiarna talún deireadh a chur le do thionóntacht ar an gcineál tionóntachta atá agat agus ar cá fhad atá cónaí ort sa chóiríocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have a fixed-term tenancy, the landlord cannot normally end the tenancy unless you are in breach of your obligations – read more on the RTB's website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tionóntacht téarma sheasta agat, ní gnách gur féidir leis an tiarna talún deireadh a chur leis an tionóntacht murar sháraigh tú do chuid dualgas – léigh níos mó ar láithreán gréasáin an BTCP</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>After the first 6 months you acquire rights to security of tenure, even if you have a fixed-term tenancy (of 1 year, for example). The provisions on security of tenure are in Part 4 of the Residential Tenancies Act 2004 and the rights that they give are generally known as Part 4 rights.   Exceptions</seg></tuv>
+  <tuv xml:lang="ga"><seg>I ndiaidh na chéad 6 mhí, bronntar cearta tionachta ort, fiú má bhíonn tionóntacht téarma sheasta agat (tionóntacht 1 bhliain, mar shampla) – léigh níos mó inár gcáipéis ar dhaingne tionachta do thionóntaí príobháideacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Part 4 tenancies</seg></tuv>
+  <tuv xml:lang="ga"><seg>Eisceacht: Tá na forálacha ar dhaingne tionachta i gCuid 4 den Acht um Thionóntachtaí Cónaithe, 2004</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your tenancy is known as a Part 4 tenancy in the following situations:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá árasán féinchuimsitheach i dteach do thiarna talún ar cíos agat, a bhí mar chuid den phríomhtheach i dtosach báire, féadfaidh do thiarna talún a roghnú chun diúltú do na forálacha seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• It started on or before 24 December 2016 and has lasted between 6 months and 4 years, or</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an rogha seo ar fáil faoi Alt 25 den Acht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• It started after 24 December 2016 and has lasted between 6 months and 6 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh tú fógra a fháil i scríbhinn, roimh thús na tionóntachta, más mian leis an tiarna talún an rogha seo a ghlacadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>After the first cycle (4 or 6 years) of your Part 4 tenancy has ended, you enter a new cycle – see ‘Further Part 4 tenancies’ below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór do do thiarna talún fógra a thabhairt duit i ngach cás agus é ag iarraidh ort an chóiríocht a fhágáil – féach Tréimhsí fógra agus Fógra um Fhoirceannadh thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Section 40 of the 2016 Act provides that a landlord cannot terminate a Part 4 tenancy if he intends to sell 10 or more dwellings in a development within a 6-month period, unless he can show that the market value with a sitting tenant is over 20% below the market value with vacant possession, and that preventing him from terminating the tenancy would be unduly onerous on him or would cause him undue hardship. This provision is often called the ‘Tyrrelstown’ amendment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Reáchtáiltear tionóntachtaí a rialaítear faoi Pháirt 4 den Acht i dtimthriallta 4 bliana. Le linn na chéad sé mhí de thionóntacht, is féidir leis an tiarna talún iarraidh ort an chóiríocht a fhágáil gan cúis a thabhairt duit, ach ní mór dó/di fógra bailí scríofa um fhoirceannadh a sheirbheáil, rud lena gceadaítear íostréimhse fógra 28 lá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The landlord can end a Part 4 tenancy only in the following circumstances:</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás tionóntachta atá ann le tréimhse idir 6 mhí agus 4 bliana – ar a dtugtar tionóntacht Chuid 4 – ní féidir leis an tiarna talún deireadh a chur léi ach amháin sna cúinsí seo a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you do not comply with the obligations of the tenancy</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Mura gcomhlíonann tú oibleagáidí na tionóntachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If the property is no longer suited to your needs (for example, if it is overcrowded)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Mura n-oireann an réadmhaoin do do chuid riachtanas a thuilleadh (mar shampla, má tá sí plódaithe)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>or for the following 3 specific reasons:</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má tá sé ar intinn ag an tiarna talún an réadmhaoin a dhíol laistigh de 3 mhí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If the landlord needs the property for their own use or for an immediate family member (this only applies to private landlords)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má theastaíonn ón tiarna talún an réadmhaoin dó/di féin nó do dhuine muinteartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If the landlord intends to refurbish the property substantially</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má tá sé ar intinn ag an tiarna talún an réadmhaoin a athchóiriú go suntasach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If the landlord plans to change the business use of the property (for example, convert it to office use)  See 'Notice of termination' below for more details</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má tá sé beartaithe ag an tiarna talún úsáid ghnó na réadmhaoine a athrú (mar shampla, í a thiontú le haghaidh úsáid oifige)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further Part 4 tenancies</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a thagann deireadh le timthriall 4 bliana na tionóntachta, cuirtear tús le tionóntacht nua, ar a dtugtar tionóntacht bhrise Chuid 4</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your tenancy started on or before 24 December 2016: When the 4-year cycle of the tenancy has ended, a new tenancy starts, known as a further Part 4 tenancy. This tenancy will now last 6 years.   If your tenancy started after 24 December 2016: The further Part 4 tenancy will start when the first 6-year cycle of the original Part 4 tenancy has ended and it will last 6 years.   Ending a further Part 4 tenancy</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi mar a bhí i gceist ag tús do bhuntionóntachta, féadfaidh do thiarna talún deireadh a chur leis an tionóntacht seo ag aon tráth le linn na chéad sé mhí gan aon chúis a thabhairt – ach ní mór go dtugtar fógra 112 lá (16 seachtaine) duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The legislation originally provided that your landlord could end a further Part 4 tenancy at any time during the first 6 months without having to give a reason</seg></tuv>
+  <tuv xml:lang="ga"><seg>I ndiaidh sé mhí, bronntar daingne tionachta ort arís eile agus tá anois sé mhí caite agat i dtimthriall breise ceithre bliana ag an tráth sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Preventing a further Part 4 tenancy</seg></tuv>
+  <tuv xml:lang="ga"><seg>Foirceannadh chun críocha sonracha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a landlord wishes to stop a further Part 4 tenancy coming into existence, they may serve a notice during the original Part 4 tenancy, with the notice period expiring on or after the end of the tenancy</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má theastaíonn ón tiarna talún an réadmhaoin dó/di féin nó do dhuine muinteartha, ní mór an fhaisnéis seo a leanas a thabhairt duit i scríbhinn, in éineacht leis an bhfógra um fhoirceannadh:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Be signed by the landlord (or an authorised agent)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An caidreamh idir an duine sin agus an tiarna talún agus</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Specify the date of termination of the tenancy</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cá fhad a chónóidh sé/sí san áitreabh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Specify the date of the notice itself • State the reason for termination, if a tenancy has lasted more than 6 months or is a fixed-term tenancy</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór insint duit freisin nach foláir don tiarna talún tionóntacht a thairiscint duit má fhágann an duine an t-áitreabh laistigh de 6 mhí agus má thug tú do shonraí teagmhála dó/di</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• State that any issue as to the validity of the notice or the right of the landlord to serve it must be referred to the RTB within 28 days from the receipt of the notice</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin féin, níl feidhm ag an gceanglas sin i gcásanna inar cuireadh deireadh le do thionóntacht ar na cúiseanna seo a leanas: do chuid oibleagáidí a shárú, plódú, an réadmhaoin a bheith á díol, nó athrú úsáide</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In addition, the landlord must provide additional details in certain situations and, in some cases, a statutory declaration. The RTB provides sample notices of termination, giving the details required in each situation.   If the property is being sold</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá sé ar intinn ag an tiarna talún an réadmhaoin a dhíol sa mhéid gur gá í a bheith folamh, ní mór dó/di cineál na n-oibreacha atá i gceist a shonrú i scríbhinn, in éineacht leis an bhfógra um fhoirceannadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The RTB’s sample notice of termination due to intention to sell (pdf) contains the required information and a sample statutory declaration.   Termination for 3 other specific reasons</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór insint duit freisin nach foláir don tiarna talún tionóntacht a thairiscint duit má chuirtear an t-áitreabh ar fáil lena ghlacadh ar cíos agus má thug tú do shonraí teagmhála dó/di</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The detailed rules are outlined below. In addition, if any of these 3 reasons is cited, you must also be told that if the dwelling becomes available for letting within a certain period and you have given the landlord your contact details, they must offer you a tenancy</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar an gcéanna, níl feidhm ag an gceanglas sin i gcásanna inar cuireadh deireadh le do thionóntacht ar na cúiseanna seo a leanas: do chuid oibleagáidí a shárú, plódú, an réadmhaoin a bheith á díol, nó athrú úsáide</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the landlord needs the property for their own use or for an immediate family member, you must be given the following information in writing, along with the notice of termination: the person’s name; their relationship to the landlord; and how long they will occupy the dwelling</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá sé ar intinn ag an tiarna talún úsáid na réadmhaoine a athrú (tar éis dó/di aon chead pleanála riachtanach a fháil), ní mór dó/di an t-athrú úsáide atá i gceist a lua i scríbhinn, in éineacht leis an bhfógra um fhoirceannadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The notice must also include a statutory declaration stating that the landlord needs the property for their own use or for an immediate family member</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór insint duit freisin nach foláir don tiarna talún tionóntacht a thairiscint duit má chuirtear an t-áitreabh ar fáil lena athghlacadh ar cíos laistigh de 6 mhí agus má thug tú do shonraí teagmhála dó/di</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The RTB’s sample notice of termination when the landlord needs the property (pdf) contains the required information and a sample statutory declaration</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl feidhm ag an gceanglas sin i gcásanna inar cuireadh deireadh le do thionóntacht ar na cúiseanna seo a leanas: do chuid oibleagáidí a shárú, plódú nó an réadmhaoin a bheith á díol</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the landlord intends to refurbish the property to the extent that it needs to be vacant, they must state the nature of the works in writing, along with the notice of termination. If planning permission is required, the notice must be accompanied by a copy of the permission</seg></tuv>
+  <tuv xml:lang="ga"><seg>Forálann Altanna 28 agus 29 Achta 2015 do dhoiciméid agus faisnéis bhreise a bheith riachtanach i gcúinsí áirithe, na cásanna thuas ina measc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The notice must confirm that any necessary planning permission has been received</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl na haltanna seo i bhfeidhm go fóill</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If your landlord has ended your tenancy for one of the 3 reasons specified above, the property becomes available for re-letting and they do not offer you a tenancy • If they did not carry out the intention stated in the notice of termination – either one of the above 3 reasons or sale of the property  If the RTB upholds your complaint, it may direct the landlord to pay you damages or to reinstate your tenancy, or both</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más rud é go gcuireann do thiarna talún deireadh le do thionóntacht chun críoch shonrach agus nach gcomhlíontar an chríoch sin ina dhiaidh, is féidir leat é/í a thuairisciú don Bhord um Thionóntachtaí Cónaithe Príobháideacha (BTCP) agus déanfaidh sé imscrúdú ar d’éileamh agus gníomh breise de réir mar is cuí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Sample notices for termination in other situations</seg></tuv>
+  <tuv xml:lang="ga"><seg>Do thionóntacht a choimeád</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The RTB’s sample notices cover several other situations, for instance if the landlord is terminating your tenancy due to rent arrears. In this case you must have received a written warning notice at least 14 days before the notice of termination is issued – see ‘Notice periods’ below. The RTB’s sample (pdf) contains both of these notices</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá de chuspóir ag an bhfeachtas um chosc ar easpa dídine do dhaoine a bhfuil áit ar cíos acu faoi láthair, agus atá buartha faoina n-áit chónaithe a chailleadh, chun cosc a chur ar na tionóntachtaí siúd ó chliseadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Sample notices of termination are also available for breach of tenant obligations (pdf) and anti-social behaviour (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Díríonn sé go príomh ar theaghlaigh a bhfuil Forlíonadh Cíosa á fháil acu i gcóiríocht phríobháideach ar cíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is also a sample notice for when the dwelling is no longer suited to your household’s needs (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é Seirbhís um Chosaint Tionóntachta Threshold an príomhphointe teagmhála – féach ‘Cá ndéanfaidh mé iarratas?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In this case, the notice must be accompanied by a signed and dated statement of the number of bed spaces in the property and the reasons why it is no longer suitable, having regard to the bed spaces and the size and composition of your household</seg></tuv>
+  <tuv xml:lang="ga"><seg>’ thíos. Faoi phrótacal comhaontaithe, a bhaineann le réigiún Bhaile Átha Cliath agus cathair Chorcaí amháin, féadfaidh an tSeirbhís tionóntaí a atreorú chuig an Roinn Coimirce Sóisialaí go ndéanfar athbhreithniú ar a bhForlíonadh Cíosa, sa chás gur cuí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The notice of termination is otherwise in compliance with the provisions of the Act</seg></tuv>
+  <tuv xml:lang="ga"><seg>Braitheann fad an fhógra ar fhad na tionóntachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read more on the websites of the Residential Tenancies Board (RTB) and Threshold.   Notice periods</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar a dúradh thuas, mhéadaigh an tAcht um Thionóntachtaí Cónaithe (Leasú) 2015 fad an fhógra i leith tionóntachtaí níos faide ná 5 bliana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The length of notice required depends on the length of your tenancy</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tháinig an t-athrú seo i bhfeidhm ar 4 Nollaig 2015</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Residential Tenancies (Amendment) Act 2015 increased the notice periods for tenancies of 5 years or longer in duration, with effect from 4 December 2015</seg></tuv>
+  <tuv xml:lang="ga"><seg>Roimhe sin, b'é 112 lá fad an fhógra do thionóntacht ar bith os cionn 4 bliana agus sin an riail i gcónaí i leith fhógraí foirceannta a eisíodh roimh 4 Nollaig 2015 i leith thionóntachtaí mar seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Length of tenancy Notice that the landlord must give</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fad na tionóntachta Fad an fhógra ón tiarna talún</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Less than 6 months 4 weeks (28 days)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níos lú ná 6 mhí 4 seachtaine (28 lá)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>6 months or longer but less than 1 year 5 weeks (35 days)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó 6 mhí go bliain 5 seachtaine (35 lá)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>1 year or longer but less than 2 years 6 weeks (42 days)</seg></tuv>
+  <tuv xml:lang="ga"><seg>1 bhliain nó níos mó, ach níos lú ná 2 bhliain 6 seachtaine (42 lá)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>2 years or longer but less than 3 years 8 weeks (56 days)</seg></tuv>
+  <tuv xml:lang="ga"><seg>2 bhliain nó níos mó, ach níos lú ná 3 bliana 8 seachtaine (56 lá)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>3 years or longer but less than 4 years 12 weeks (84 days)</seg></tuv>
+  <tuv xml:lang="ga"><seg>3 bliana nó níos mó, ach níos lú ná 4 bliana 12 seachtain (84 lá)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>4 years or longer but less than 5 years 16 weeks (112 days)</seg></tuv>
+  <tuv xml:lang="ga"><seg>4 bliana nó níos mó, ach níos lú ná 5 bliana 16 seachtain (112 lá)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>5 years or longer but less than 6 years 20 weeks (140 days)</seg></tuv>
+  <tuv xml:lang="ga"><seg>5 bliana nó níos mó, ach níos lú ná 6 bliana 20 seachtain (140 lá)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>6 years or longer but less than 7 years 24 weeks (168 days)</seg></tuv>
+  <tuv xml:lang="ga"><seg>6 bliana nó níos mó, ach níos lú ná 7 mbliana 24 seachtain (168 lá)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>7 years or longer but less than 8 years 28 weeks (196 days)</seg></tuv>
+  <tuv xml:lang="ga"><seg>7 mbliana nó níos mó, ach níos lú ná 8 mbliana 28 seachtain (196 lá)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>8 years or longer 32 weeks (224 days)</seg></tuv>
+  <tuv xml:lang="ga"><seg>8 mbliana nó níos mó 32 seachtain (224 lá)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Exceptions to required notice periods</seg></tuv>
+  <tuv xml:lang="ga"><seg>Eisceachtaí ó na tréimhsí riachtanacha fógra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if your behaviour is seriously anti-social or threatens the fabric of the property, the landlord only needs to give you 7 days’ notice</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le do thiarna talún fógra níos lú mura bhfuil d’oibleagáidí á gcomhlíonadh agat (28 lá) nó má tá iompar frithshóisialta tromchúiseach ann (7 lá)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Section 17 (1) (a) and (b) of the 2004 Act sets out the type of seriously anti-social behaviour for which a 7-day notice may be allowed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áirítear le hiompar frithshóisialta foréigean, bagairtí nó imeaglú, mar aon le haon iompar dianseasmhach a chuireann isteach ar chomharsana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your rent is in arrears, your landlord must first give you written notification of the amount owing and must give you 14 days to pay the arrears</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá do chíos ar riaráiste, caithfidh do thiarna talún fógra scríofa a thabhairt duit faoin méid atá dlite agus 14 lá a thabhairt duit chun na riaráistí a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you still have not paid 14 days after you got this notification, your landlord can then give you 28 days’ notice of termination</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna bhfuil an méid sin íoctha agat go fóill 14 lá tar éis an fhógra seo, is féidir leis an tiarna talún fógra foirceanta 28 lá a thabhairt duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Landlords and tenants can agree shorter notice periods than the minimum periods set out above, but they can only do so at the time they decide to terminate the tenancy</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le tiarnaí talún agus le tionóntaí tréimhsí fógra a aontú atá níos giorra ná na híostréimhsí atá leagtha amach thuas, ach ní féidir leo déanamh amhlaidh ach amháin nuair a chinneann siad an tionóntacht a fhoirceannadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is illegal to agree a shorter notice period at the start of the tenancy</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé neamhdhleathach tréimhse fógra níos giorra a aontú ag tús na tionóntachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Landlords and tenants can also agree longer notice periods, but the maximum is 70 days when the tenancy has lasted less than 6 months</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le tiarnaí talún agus le tionóntaí tréimhsí fógra níos faide a aontú freisin, ach is é 70 lá an uastréimhse fógra i gcásanna ina bhfuil an tionóntacht ann le níos lú ná 6 mhí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your landlord locks you out or physically evicts you, you may be able to apply for an injunction to force them to let you back into the property or you may apply to the RTB to do so on your behalf</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má theastaíonn ó do thiarna talún go bhfágfadh tú an chóiríocht, ní foláir dó/di fógra foirceanta a sheirbheáil ort</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your landlord cannot remove your possessions from your home while your tenancy is still in existence (though after a tenancy has ended, a landlord is under no legal obligation to store or maintain belongings)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir an fógra a chur sa phost chugat, a thabhairt ar láimh chugat féin go pearsanta nó a fhágáil leat ag an láthair féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>FLAC also runs an information and referral line during office hours for basic legal information</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagann rannóg 62 an Achta 2004 síos cad is riachtanach chun is go mbeadh an fógra foirceanta bailí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Opening Hours:Mon-Fri 9.30 am - 5 pm</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bheith sínithe ag an tiarna talún (nó ag gníomhaire údaraithe)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Tel:1890 334 334 Fax:(01) 677 2407</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An dáta foirceanta a shonrú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Dublin Outreach Clinic Co. Council Office Grove Road</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá samplaí d'fhógraí foirceanta foilsithe ag an BTCP</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>22 South Mall Cork Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Foráiltear san alt seo, nuair a dhéileáiltear le díospóid maidir le fógra um fhoirceannadh, féadfaidh breithneoir (nó an Binse Tionóntachta) cinntiúchán a dhéanamh nach bhfágfaidh an botún nó an t-easnamh sin an fógra um fhoirceannadh neamhbhailí, má tá an breithneoir nó an Binse sásta faoin méid a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Opening Hours:Mon - Fri: 9 am to 1 pm and 2 pm to 5 pm Tel:(021) 427 8848</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní dhéanann an botún nó an t-easnamh atá i gceist dochar don fhógra um fhoirceannadh ar bhealach ábhartha, agus</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Fax:(021) 480 5111 Homepage: http://www.threshold.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Comhlíonann an fógra um fhoirceannadh forálacha an Achta ar gach bealach eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Opening Hours:Mon-Fri 9.30 am - 5 pm Tel:(091) 563 080 Fax:(091) 569 273 Homepage: http://www.threshold.ie Email: advicegalway@threshold.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir le do thiarna talún do shealúchas a bhaint de d’árasán nó teach, fad is atá an tionóntacht fós ina seasamh (tar éis deireadh a chur leis an tionóntacht, áfach, níl aon oibleagáid dhlíthiúil ar thiarna talún giuirléidí a stóráil ná a choinneáil)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>PO Box 47 Clonakilty Co</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chomh maith leis sin, reáchtálann ICDSA líne faisnéise agus tharchuir le linn uaireanta oifige, rud a chuireann faisnéis bhunúsach dlí ar fáil</seg></tuv>
+</tu>
+</body>
+</tmx>

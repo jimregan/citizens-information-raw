@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>The judge in an Irish courtroom usually sits on a raised platform at the top of the court and wears white collars and a black gown</seg></tuv>
+  <tuv xml:lang="ga"><seg>De ghnáth, bíonn an breitheamh, i seomra cúirte in Éirinn, ina s(h)uí ar ardán ardaithe ag barr na cúirte agus caitheann sé/sí bónaí bána agus róba dubh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If there is no jury in a case, it is the judge who decides which party shall win and which party shall lose in a case</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil giúiré i gcás áirithe, is é an breitheamh a dhéanann cinneadh ar cén páirtí a bhainfidh nó a chaillfidh i gcás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He or she listens to the evidence of both sides and to the submissions of the barristers (or solicitors)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Éisteann sé nó sí le fianaise an dá thaobh agus le haighneachtaí na n-abhcóidí (nó na n-aturnaetha)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The judge may ask questions of any witness and of the barristers (or solicitors)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh an breitheamh ceisteanna a chur ar aon fhinné agus ar na habhcóidí (nó na haturnaetha)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The judge may give the judgement in the case at the end of the trial or he or she may "reserve" the judgement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis an mbreitheamh an breithiúnas a thabhairt i gcás ag deireadh na trialach nó is féidir leis/léi an breithiúnas a “fhorchoimeád”</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When a judgement is reserved, the judge will take time to consider the case and then at some later stage deliver the judgement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a fhorchoimeádtar an breithiúnas, glacfaidh an breitheamh roinnt ama chun machnamh a dhéanamh ar an gcás agus ansin tabharfaidh sé/sí an breithiúnas ag tráth éigin níos déanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If there is a jury in the case, it is the jury that decides the outcome of the case</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá giúiré sa chás, is é an giúiré a dhéanann cinneadh ar thoradh an cháis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The judge merely provides guidance to the jury and makes sure that the trial is run properly</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní dhéanann an breitheamh ach treoir a sholáthar don ghiúiré agus a chinntiú go reáchtáiltear an triail i gceart</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The jury in a criminal trial has the very important function of deciding whether the person accused of the crime is guilty or not guilty</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá feidhm an-tábhachtach ag an ngiúiré i dtriail choiriúil chun cinneadh a dhéanamh ar cé acu an bhfuil nó nach bhfuil an duine a cúisíodh i leith na coire ciontach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In April 2006 new rules were signed into effect changing the way judges in Ireland are addressed in court</seg></tuv>
+  <tuv xml:lang="ga"><seg>In Aibreán 2006, síníodh rialacha nua a cuireadh i bhfeidhm a d’athraigh an bealach ina dtugtar aitheasc do bhreithiúna in Éirinn i gcúirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the past, judges in Ireland were referred to as "My Lord", or "His Lordship"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Roimhe seo, tagraíodh do bhreithiúna in Éirinn amhail “A Thiarna”, nó “an Tiarnas”</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Now, they will be addressed as "Judge" or referred to as "The Court"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Anois, tabharfar aitheasc dóibh amhail “a Bhreithimh” nó déanfar tagairt dóibh mar “an Chúirt”</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The only exception to this is in the case of the Chief Justice and President of the High Courts, who are addressed by their titles</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an t-aon eisceacht ina leith seo ná i gcás an Phríomh-Bhreithimh agus Uachtarán na n-Ard-Chúirteanna, a dtugtar aitheasc dóibh de réir a dteideal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Judges in Ireland are appointed by the President acting on the advice of the Government</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceapann an tUachtarán breithiúna in Éirinn a ghníomhaíonn de réir chomhairle an Rialtais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In most cases, the Government decides who to appoint as a judge after it has been advised by the Judicial Appointments Advisory Board</seg></tuv>
+  <tuv xml:lang="ga"><seg>I bhformhór na gcásanna, déanann an Rialtas cinneadh ar an duine atá le ceapadh ina b(h)reitheamh i ndiaidh gur mhol an Bord Comhairleach um Cheapacháin Bhreithiúnacha amhlaidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This Board identifies and informs the Government about suitable barristers and solicitors who have applied for the job</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann an Bord seo abhcóidí agus aturnaetha oiriúnacha a shainaithint a rinne iarratas ar an bpost agus an Rialtas a chur ar an eolas orthu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Judicial Appointments Advisory Board was established by law under Section 13 of the Court and Court Officers Act 1995</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bunaíodh an Bord Comhairleach um Cheapacháin Bhreithiúnacha faoin dlí faoi Alt 13 d’Acht na gCúirteanna agus na nOifigeach Cúirte, 1995</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Membership of the Judicial Appointments Board consist of the Chief Justice, President of the Court of Appeal, President of the High Court, President of the Circuit Court, President of the District Court, the Attorney General, a practicing barrister, solicitor and 3 Ministerial appointments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is éard atá i gceist le ballraíocht an Bhoird um Cheapacháin Bhreithiúnacha ná an Príomh-Bhreitheamh, Uachtarán na Cúirte Achomhairc, Uachtarán na hArd-Chúirte, Uachtarán na Cúirte Cuarda, Uachtarán na Cúirte Dúiche, an tArd-Aighne, abhcóide cleachtach, aturnae agus trí cheapachán ón Aire</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Judges must have at least 10 years experience as a barrister or solicitor and usually they have many more years of experience before they are appointed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go bhfuil ar a laghad 10 mbliana de thaithí ag breithiúna feidhmiú mar abhcóide nó mar aturnae agus is gnách go mbíonn i bhfad níos mó blianta de thaithí acu sula gceaptar iad</seg></tuv>
+</tu>
+</body>
+</tmx>

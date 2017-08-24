@@ -1,0 +1,613 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>• How does a Debt Relief Notice work?</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Conas mar a oibríonn Fógra um Fhaoiseamh Fiachais?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• How do I get a Debt Relief Notice?</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Conas a fhaighim Fógra um Fhaoiseamh Fiachais?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A Debt Relief Notice (DRN) is one of 3 debt resolution mechanisms introduced under the Personal Insolvency Act 2012 for people who cannot afford to pay their personal debts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Fógra um Fhaoiseamh Fiachais (DRN) ar cheann de thrí mheicníocht nua réitigh fiachais atá á socrú faoin Acht um Dhócmhainneacht Phearsanta, 2012 do dhaoine nach bhfuil in ann íoc as a bhfiachas pearsanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These arrangements offer different solutions to people in different situations</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann na socruithe seo réitigh dhifriúla ar fáil do dhaoine i gcásanna éagsúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Debt Relief Notice is designed for people who have very low disposable income or assets</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an Fógra um Fhaoiseamh Fiachais ann chun freastal ar dhaoine a bhfuil ioncam nó sócmhainní indiúscartha an-ísle acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It allows for the write-off of qualifying debt up to a certain limit, subject to a 3-year supervision period</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceadaíonn sé díscríobh fiachais cháilithigh suas go h-uasteorainn faoi réir tréimhse mhaoirseachta 3 bliana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This upper limit was originally €20,000</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba í €20,000 an uasteorainn ar dtús</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the Personal Insolvency (Amendment) Act 2015 the limit has increased to €35,000 with effect from 29 September 2015</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoin Acht um Dhócmhainneact Pearsanta (Leasú) 2015 méadaíodh an uasteorainn go €35,000 ó 29 Meán Fómhair 2015</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This document describes how to qualify for a DRN and how the process works</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar cur síos sa cháipéis seo ar conas cáiliú do DRN agus ar conas a n-oibríonn an próiseas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Insolvency Service of Ireland has published information about Debt Relief Notices, including FAQs, a guidebook and a set of possible scenarios</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá faisnéis foilsithe ag Seirbhís Dócmhainneachta na hÉireann (SDÉ) ar conas a oibríonn DRNanna lena n-áirítear ceisteanna coitianta, treoirleabhar agus sraith cásanna féideartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It also provides extra information on DRNs, including a quick guide (pdf) on its website backontrack.ie, aimed at people who are struggling with debt</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann SDÉ breis eolais ar DRNanna ar fáil ar an láithreán backontrack.ie, atá dírithe ar dhaoine a bhfuil fadhbanna fiachais acu. Ina mheasc sin tá treoir ghearr (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can read a general overview of personal insolvency options here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú foramharc ginearálta a léamh ar an gcóras dócmhainneachta pearsanta anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A Debt Relief Notice deals with qualifying debts of up to €35,000 in the case of people who have very low disposable income or assets and no prospect of being able to pay off their debts in the next 3 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déileálann Fógraí um Fhaoiseamh Fiachais le fiachas incháilithe a mhéid le €35,000 i gcás daoine ag a bhfuil ioncam nó sócmhainní indiúscartha an-ísle agus nach dócha go mbeidh siad in ann a bhfiachas a íoc sna 3 bliana amach romhainn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(As noted above, this upper limit has recently increased from €20,000.)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Mar a dúradh thuas, méadaíodh an uasteorainn ó €20,000 le déanaí.)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can only avail of a DRN once in your lifetime</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leat DRN a fháil ach uair amháin i do shaol</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You cannot get a DRN if you are involved in one of the other new debt resolution processes, or in the bankruptcy process, or if you have completed such a process within the last 5 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leat DRN a fháil má tá baint agat i gceann de na próisis eile réitigh fiachais, nó sa phróiseas féimheachta, nó má chríochnaigh tú próiseas den sórt sin le 5 bliana anuas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In general, you will only qualify for a DRN if all of your debts are unsecured (apart from exceptional cases, outlined below) and if the total of your debt to all your creditors adds up to €35,000 or less</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, ní cháileofar thú le haghaidh DRN ach amháin mura bhfuil do chuid fiachais faoi urrús (seachas i gcásanna eisceachtúla, ar a dtugtar breac-chuntas thíos) agus más ionann iomlán d’fhiachais atá le híoc le do chuid creidiúnaithe agus €35,000 nó níos lú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(Under the Personal Insolvency (Amendment) Act 2015, this limit was increased from €20,000 with effect from 29 September 2015.)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Faoin Acht um Dhócmhainneact Pearsanta (Leasú) 2015 méadaíodh an uasteorainn ó €20,000 ó 29 Meán Fómhair 2015.)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A Debt Relief Notice is mainly designed to cover unsecured debts (though it can include some secured debts – see below) so it is important to know whether your debts are secured or not</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Fógra um Fhaoiseamh Fiachais in ainm is fiachas nach bhfuil faoi urrús a chuimsiú, go príomha, (cé gur féidir roinnt fiachais faoi urrús a áireamh - féach thíos), mar sin is tábhachtach fios a bheith agat cibé acu an bhfuil d'fhiachas faoi urrús nó nach bhfuil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In general, debts such as the following are unsecured:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, níl fiachas ar nós iad siúd a leanas faoi urrús:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Utility bill arrears (gas, electricity etc.)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Riaráistí bille fóntais (gás, leictreachas, etc.)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if they are rolled up into your mortgage, they become secured loans</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá siad in éineacht le do mhorgáiste, áfach, déantar iasachtaí faoi urrús díobh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A secured debt is a loan on which property or goods are available as security against non-payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Iasacht atá i bhfiachas faoi urrús ar a bhfuil fáil ar réadmhaoin nó earraí mar urrús i leith neamhíocaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Mortgages and car loans are the most common secured loans</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad morgáistí agus iasachtaí gluaisteáin na hiasachtaí is coitianta d’iasachtaí faoi urrús</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(If you have this type of debt, you cannot get a DRN but you may apply for another personal insolvency option.)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Má tá an saghas seo fiachais agat, ní féidir leat DRN a fháil ach d’fhéadfá iarratas a dhéanamh ar rogha eile dócmhainneachta pearsanta)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, while a DRN will not cover mortgages or similar large-scale secured debt, in certain exceptional cases a loan may be secured against a small item of property, such as a ring</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cé nach gcuimseoidh DRN morgáistí ná fiachas mórmhéid dá shamhail sin nach bhfuil faoi urrús, áfach, i gcásanna áirithe eisceachtúla, féadtar iasacht a chur faoi urrús i leith earra beag réadmhaoine, ar nós fáinne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Such a secured debt can be included in a DRN, but only if the creditor agrees</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadtar a leithéid d’fhiachas faoi urrús a áireamh in DRN, ach amháin má chomhaontaíonn an creidiúnaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Excluded and excludable debts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fiachas eisiata agus in-eisiata</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Personal Insolvency Act 2012 specifies certain types of debt that cannot be written off by a Debt Relief Notice</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sonraítear san Acht um Dhócmhainneacht Phearsanta, 2012, roinnt saghsanna d’fhiachas nach féidir a dhíscríobh le Fógra um Fhaoiseamh Fiachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These are called excluded debts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar fiachas eisiata orthu seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Act specifies certain other types of debt to be excludable from a DRN</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sonraítear san Acht roinnt saghsanna eile d’fhiachas atá in-eisiata ó DRN</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that they can only be covered by the DRN if the creditor is asked and agrees to let them be included – in which case they become permitted debts – debts that the creditor permits to be covered</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn seo nach féidir iad a chuimsiú ag an DRN ach amháin má iarrtar ar an gcreidiúnaí agus má aontaíonn sé/sí le hiad a áireamh – agus sa chás sin, déantar fiachas ceadaithe astu – arb ionann sin agus fiachas a cheadaíonn an creidiúnaí a chuimsiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most types of excludable debts are those owed to the State</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is fiachas in-eisiata an chuid is mó den fhiachas atá le híoc leis an Stát</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The types of debt that are excluded are:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad na saghsanna fiachais a eisítear:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Debts under family law orders, such as maintenance orders for spouses and children</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Fiachas faoi orduithe dlí teaghlaigh, ar nós orduithe cothabhála do chéilí agus leanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Debts due under court awards for personal injury or death</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Fiachas atá le híoc faoi dhámhachtain chúirte mar gheall ar ghortú pearsanta nó bás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Debts arising from a loan (or forbearance of a loan) obtained through fraud or similar wrongdoing</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Fiachas a eascraíonn ó iasacht (nó staonadh iasachta) a fuarthas mar gheall ar chalaois nó éagóir dá samhail sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Debts arising under court orders made under the Proceeds of Crime Acts or fines imposed by the courts for criminal offences</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Fiachas a eascraíonn faoi orduithe cúirte a rinneadh faoi na hAchtanna um Fháltais ó Choireacht nó fíneálacha a ghearrann na cúirteanna mar gheall ar chionta coiriúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The types of debt that are excludable are:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad na saghsanna fiachais atá in-eisiata:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Taxes, duties or levies owed to the State, such as income tax, the Local Property Tax, VAT, capital taxes</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cáin, dleachtanna nó tobhaigh atá le híoc leis an Stát, ar nós cáin ioncaim, na Cánach Maoine Áitiúla nua, CBL, cáin chaipitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Service charges owed to local authorities</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Muirir sheirbhíse atá le híoc le húdaráis áitiúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Money owed under the Nursing Homes Support Scheme (in respect of a loan advanced by the HSE to a nursing home resident to cover the amount due from the principal private residence)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Airgead atá le híoc faoin Scéim Tacaíochta do Thithe Altranais (i dtaca le hiasacht a réamhíoc FSS le cónaitheoir i dteach altranais chun íoc as an méid atá le híoc ón bpríomháit chónaithe phríobháideach)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Money owed to the Department of Social Protection</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Airgead atá le híoc leis an Roinn Coimirce Sóisialaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Debts due to owners’ management companies in respect of annual service charges or contributions due for multi-unit developments (this is the only non-State debt in this category)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Fiachas atá le híoc le cuideachtaí bainistíochta úinéirí maidir le muirir nó le ranníocaíochtaí bliantúla seirbhíse atá le híoc le haghaidh forbairtí ilaonad (seo an t-aon fhiachas neamhStáit sa chatagóir seo)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Income and asset tests</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tástálacha ioncaim agus sócmhainní</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All of your income will be taken into account, except for Child Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirfear d’ioncam go léir san áireamh, seachas Sochar Linbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Any assets that you have will also be valued</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, déanfar aon sócmhainní atá agat a luacháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will only qualify for a DRN if, after deducting certain outgoings, you would be left with a net monthly disposable income of €60 or less</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní cháileofar thú le haghaidh DRN ach amháin dá bhfágfaí glanioncam míosúil indiúscartha €60 nó níos lú leat tar éis eisíocaíochtaí áirithe a asbhaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The 2 types of outgoings are:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad an dá shaghas eisíocaíochtaí:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Payments in respect of debts that are outside the DRN process – these are either excluded debts that cannot be covered, or excludable debts that the creditor has not agreed to include, as outlined above</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Íocaíochtaí maidir le fiachas atá lasmuigh den phróiseas DRN – ní fiachas eisiata iad seo nach féidir a chuimsiú, ná fiachas in-eisiata nár chomhaontaigh an creidiúnaí a chur san áireamh, amhail a shonraítear thuas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Reasonable living expenses, which will be assessed in accordance with detailed guidelines – see below</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Costais réasúnta mhaireachtála, a dhéanfar a mheasúnú i gcomhréir le treoirlínte sonracha – féach thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your net disposable income takes account of your income from salary, wages, pensions and contributions from other household members</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirtear san áireamh i do ghlanioncam indiúscartha d’ioncam ó thuarastal, pánna, pinsin agus ranníocaíochtaí ó dhaoine muinteartha eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Any other income available to you is also taken into account – including all social welfare payments except Child Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, cuirtear san áireamh aon ioncam eile ar a bhfuil fáil agat – lena n-áirítear gach íocaíocht leasa shóisialaigh seachas Sochar Linbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Deductions are then made for:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ansin déantar asbhaintí i leith an mhéid a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Income tax, PRSI and other charges/levies on income (such as Universal Social Charge)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cáin ioncaim, ÁSPC agus muirir/tobhaigh eile ar ioncam (ar nós an Mhuirir Shóisialta Uilíoch)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Payments that you make in respect of excluded debts and excludable debts (unless they are permitted debts – see ‘Excluded and excludable debts’ above)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Íocaíochtaí a rinne tú maidir le fiachas eisiata agus fiachas in-eisiata (mura fiachas ceadaithe iad – féach ‘Fiachas eisiata agus in-eisiata' thuas)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Reasonable living expenses - see below</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Costais réasúnta mhaireachtála – féach thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The total value of your assets must be €400 or less</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go mbeidh luach €400 nó níos lú ar luach iomlán do shócmhainní</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They are assessed at market value and include savings, shares and property</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar measúnú orthu de réir luach an mhargaidh agus cuirtear san áireamh leo coigilteas, scaireanna agus réadmhaoin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The following assets are not taken into account:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chuirtear na sócmhainní a leanas san áireamh:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Essential household equipment and appliances and books, tools or equipment needed for employment or business, up to a total value of €6,000</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Trealamh agus fearais ríthábhachtacha teaghlaigh agus leabhair, uirlisí nó trealamh a theastaíonn ar mhaithe le fostaíocht nó gnó, a mhéid le luach iomlán €6,000</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Books or equipment that are reasonably necessary to enable you or a dependant to participate in and complete a course of education (at primary or secondary level only)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Leabhair nó trealamh a theastaíonn uait nó ó chleithiúnaí leat go réasúnta chun páirt a ghlacadh i gcúrsa oideachais agus é a chríochnú (ar leibhéal bunscoile nó meánscoile amháin)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A vehicle that has been adapted for a person with a disability (either you or one of your dependants)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Feithicil a oiriúnaíodh do dhuine atá faoi mhíchumas (tú féin nó duine de do chleithiúnaithe)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A motor vehicle up to a value of €2,000 *</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Mótarfheithicil ar a bhfuil luach uasta €2,000*</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• One item of personal jewellery to a maximum value of €750 *</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Earra amháin seodra ar a bhfuil luach uasta €750*</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Any future pension entitlement or option that you cannot choose to access at present</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Aon teidlíocht nó rogha pinsin amach anseo nach féidir leat roghnú a rochtain faoi láthair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>* A motor vehicle or piece of jewellery cannot be excluded from the asset test if the cost of buying it forms part of your qualifying debts</seg></tuv>
+  <tuv xml:lang="ga"><seg>*Ní féidir mótarfheithicil nó píosa seodra a eisiamh ón tástáil sócmhainne má chruthaíonn an costas a bhí orthu cuid de d’fhiachas incháilithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Reasonable standard of living/living expenses</seg></tuv>
+  <tuv xml:lang="ga"><seg>Costais réasúnta mhaireachtála/costais mhaireachtála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must be left with enough income to maintain a reasonable standard of living for yourself and your dependants</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níor mhór go bhfágfar leat dóthain ioncaim le caighdeán réasúnta maireachtála a choimeád duit féin agus do do chuid cleithiúnaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Insolvency Service of Ireland (ISI) is responsible for drawing up guidelines on what constitutes a reasonable standard of living and reasonable living expenses</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann Seirbhís Dócmhainneachta na hÉireann (ISI) treoirlínte arb éard is caighdeán réasúnta maireachtála agus costais réasúnta mhaireachtála ann i dtoll a chéile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The guidelines provide examples of what may and may not be allowed as reasonable living expenses</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann na treoirlínte samplaí ar fáil ar na rudaí is féidir agus nach féidir a cheadú mar chostais réasúnta mhaireachtála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They are reviewed every year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar athbhreithniú orthu gach bliain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can use the ISI's reasonable living expenses calculator to find out what your household's monthly expenses would be assessed at</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir an ríomhaire chostais réasúnta mhaireachtála a úsáid chun costais mhíosúla do theaghlaigh fein a ríomh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>How does a Debt Relief Notice work?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Conas mar a oibríonn Fógra um Fhaoiseamh Fiachais?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a DRN is issued for you, it will allow for the write-off of your qualifying debt up to €35,000 (formerly €20,000) subject to a 3-year supervision period</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má eisítear DRN duit, ceadóidh sé díscríobh do chuid fiachais cháilithigh a mhéid le €35,000 (€20,000 ar dtús) faoi réir tréimhse mhaoirseachta 3 bliana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will still be liable for any excluded debts and for any excludable debts that your creditors have not agreed to include in the DRN - see ‘Excluded and excludable debts’ above</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh tú fós faoi dhliteanas íoc as aon fhiachas eisiata agus as aon fhiachas in-eisiata nár aontaigh do chreidiúnaithe a chur san áireamh sa DRN – féach ‘Fiachas eisiata agus in-eisiata’ thuas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>During the supervision period, you may not get credit of €650 or more from any source, either on your own or as part of a joint application with someone else, without informing that source that you have a Debt Relief Notice</seg></tuv>
+  <tuv xml:lang="ga"><seg>Le linn na tréimhse maoirseachta, ní féidir leat creidmheas €650 nó níos mó a fháil ó aon fhoinse, cibé acu leat féin nó mar chuid de chomhiarratas le duine eile, gan an fhoinse sin a chur ar an eolas go bhfuil Fógra um Fhaoiseamh Fiachais agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will have to tell the Insolvency Service of any change in your circumstances, for example, any increases in income, assets or liabilities</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh ort insint don tSeirbhís Dócmhainneachta faoi aon athrú a thagann ar do chuid cúinsí, mar shampla, aon mhéadú ar ioncam, sócmhainní nó dliteanais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your financial position improves above certain limits, you will have to repay part of your debts – see ‘Paying part of your debts’ below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má thagann feabhas ar do sheasamh airgeadais os cionn teorainneacha áirithe, beidh ort cuid de d’fhiachas a aisíoc – féach ‘Cuid de d’fhiachas a íoc’ thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will also have to tell the ISI if you become aware of any errors or omissions in the documentation included in your application for the DRN</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, beidh ort insint don ISI má bhíonn tú ar an eolas ar aon earráidí nó easnaimh sa cháipéisíocht a chuirtear san áireamh i d’iarratas ar an DRN</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The ISI has extensive powers of investigation of anything that it considers relevant to your case</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh ag an ISI cumhachtaí fairsinge imscrúdaithe ar aon rud a shíleann siad a bhaineann le do chás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Circuit Court may extend the supervision period in certain circumstances – see ‘Extension or unsuccessful ending of a DRN’ below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh an Chúirt Chuarda an tréimhse mhaoirseachta a shíneadh faoi chúinsí áirithe – féach ‘Síneadh nó deireadh mí-rathúil a chur le DRN’ thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Details of your DRN will be placed on a public Register of Debt Relief Notices</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirfear sonraí ar do DRN ar Chlár poiblí Fógraí um Fhaoiseamh Fiachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The issue of the DRN will be the first official notification to your creditors that you have applied to have your debts written off – except for creditors with excludable debts, who will have to be consulted about having their debts included as permitted debts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh eisiúint an DRN ar an gcéad fhógra oifigiúil a thabharfar do do chuid creidiúnaithe a dheimhneoidh go ndearna tú iarratas go ndéanfar d’fhiachas a dhíscríobh – seachas i gcás creidiúnaithe ag a bhfuil fiachas in-eisiata, nach mór dul i gcomhairle leo faoina bhfiachas a chur san áireamh mar fhiachas ceadaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your other creditors can object on certain specified grounds when they receive the DRN – see ‘Objections’ below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh do chreidiúnaithe eile aighneacht a dhéanamh ar bhunúis shonraithe nuair a fhaigheann siad an DRN – féach ‘Aighneachtaí’ thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>During the supervision period, your creditors will not be allowed to pursue any action against you for the recovery of debts covered by the DRN</seg></tuv>
+  <tuv xml:lang="ga"><seg>Le linn na tréimhse maoirseachta, ní cheadófar do do chreidiúnaithe tabhairt faoi aon ghníomhartha i do choinne ar mhaithe le haisghabháil an fhiachais atá faoi chumhdach an DRN</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that your creditors may not:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn seo nach féidir le do chreidiúnaithe an méid a leanas a dhéanamh:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Initiate or prosecute legal proceedings or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tús a chur le himeachtaí dlíthiúla nó iad a ionchúiseamh, nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Seek to recover payment for a debt or recover goods or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Aisghabháil íocaíochta a lorg ar fhiachas nó earraí a aisghabháil, nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Execute or enforce a judgment in respect of a debt</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Breithiúnas a fhorfheidhmiú nó a dhéanamh maidir le fiachas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if any of your debts were guaranteed by another person, the creditor may take action against that person</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhí aon cheann de d’fhiachas faoi urrús ag duine eile, áfach, féadfaidh an creidiúnaí dul i mbun gníomhartha i leith an duine sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Any of your creditors may apply to the Circuit Court if they object to the inclusion of the debts you owe them in the Debt Relief Notice</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh aon duine de do chreidiúnaithe iarratas a dhéanamh ar an gCúirt Chuarda má chuireann siad i gcoinne áireamh an fhiachais atá le híoc agat san Fhógra um Fhaoiseamh Fiachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They can only object on the following grounds:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leo aighneacht a dhéanamh ach ar na bunúis a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You do not meet the eligibility conditions for a DRN</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní chomhlíonann tú na coinníollacha incháilitheachta do DRN</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Inaccuracies in the documentation on which your application was based</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Míchruinnis sa cháipéisíocht ar ar bunaíodh d’iarratas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You have failed to inform the Insolvency Service of changed circumstances or failed to surrender extra income as required</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Theip ort an tSeirbhís Dócmhainneachta a chur ar an eolas ar chúinsí athraithe nó theip ort ioncam breise a thabhairt suas amhail a cheanglaítear</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You have committed an offence under the Personal Insolvency legislation since the DRN came into effect</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Rinne tú cion faoin reachtaíocht um Dhócmhainneacht Phearsanta ó tháinig an DRN i bhfeidhm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The procedural requirements were not followed</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Níor leanadh na ceanglais nós imeachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Court has the power to make various decisions, including extension or termination of the DRN</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé de chumhacht ag an gCúirt cinntí éagsúla a dhéanamh, lena n-áirítear síneadh nó deireadh a chur leis an DRN</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The ISI may apply to the Court for withdrawal of the notice on similar grounds and with similar consequences – see ‘Extension or unsuccessful ending of a DRN’ below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh an ISI iarratas a dhéanamh ar an gCúirt ar aistarraingt an fhógra ar a shamhail de bhunúis agus faoi chúinsí samhlacha – féach ‘Síneadh nó deireadh mí-rathúil a chur le DRN’ thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Paying part of your debts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuid de d’fhiachas a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your financial situation improves to a certain extent during the 3-year supervision period, you will have to repay part of your debts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má thagann feabhas de mhéid áirithe ar do chás airgeadais le linn na tréimhse maoirseachta trí bliana, beidh ort cuid de d’fhiachas a aisíoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you get a gift or windfall payment worth €500 or more, you must surrender half of it to the Insolvency Service</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má fhaigheann tú bronntanas nó íocaíocht amhantair ar fiú €500 nó níos mó é, ní mór duit an leath de a thabhairt suas go dtí an tSeirbhís Dócmhainneachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If your net income (after tax, PRSI and Universal Social Charge) increases by €400 or more per month, you must surrender half of that increase to the ISI as well</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má thagann méadú €400 nó níos mó ar do ghlanioncam (tar éis cánach, ÁSPC agus an Mhuirir Shóisialta Uilíoch) sa mhí, ní mór duit an leath den mhéadú sin a thabhairt don ISI chomh maith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Any amounts surrendered to the Insolvency Service will be distributed to the relevant creditors in proportion to the size of the debts that you owe to each creditor</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfar aon mhéid a thugtar suas don tSeirbhís Dócmhainneachta a leithdháileadh ar na creidiúnaithe ábhartha i gcomhréir le méid an fhiachais atá le híoc agat le gach creidiúnaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you manage to repay half of the total debts covered by the Debt Relief Notice, then you no longer have to pay any further money and the DRN will end successfully</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má éiríonn leat leath d’iomlán an fhiachais atá cuimsithe ag an bhFógra um Fhaoiseamh Fiachais a aisíoc, ní gá duit aon airgead breise a íoc agus cuirfear deireadh rathúil leis an DRN</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>At the end of the supervision period (or if you have managed to pay 50% or more of your debts) the Debt Relief Notice will cease to have effect</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag deireadh na tréimhse maoirseachta (nó má d'éirigh leat 50% nó níos mó de d’fhiachas a íoc), ní bheidh feidhm a thuilleadh ag an bhFógra um Fhaoiseamh Fiachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will be discharged from the debts it covered and any interest or penalties on those debts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Díscaoilfear thú ón bhfiachas a chuimsigh sé agus aon ús nó pionóis ar an bhfiachas sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All of the information about your DRN will be removed from the public Register of Debt Relief Notices and you will be given a Debt Relief Certificate, confirming that you have been discharged from the relevant debts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bainfear an fhaisnéis uile faoi do DRN ón gClár poiblí Fógraí um Fhaoiseamh Fiachais agus tabharfar Deimhniú um Fhaoiseamh Fiachais duit, a dheimhníonn gur díscaoileadh thú ón bhfiachas ábhartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The ISI will also write to all the creditors concerned, to tell them that the Debt Relief Notice has been removed from the Register</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, scríobhfaidh an ISI chuig na creidiúnaithe go léir lena mbaineann, le hinsint dóibh gur baineadh an Fógra um Fhaoiseamh Fiachais ón gClár</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Extension or unsuccessful ending of a DRN</seg></tuv>
+  <tuv xml:lang="ga"><seg>Síneadh nó deireadh mí-rathúil a chur le DRN</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In certain circumstances, the Debt Relief Notice may be amended or terminated, enforcement orders may be issued, or the supervision period may be extended</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi chúinsí áirithe, féadtar an Fógra um Fhaoiseamh Fiachais a leasú nó deireadh a chur leis, féadtar orduithe forfheidhmithe a eisiúint, nó féadtar an tréimhse mhaoirseachta a shíneadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The main situations in which this can happen are:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad na príomhchásanna inar féidir leis seo tarlú:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If the ISI concludes that you have failed to disclose an improvement in your financial position during the supervision period, the Circuit Court can make an order for enforcement, extend the period of the DRN, amend the DRN or make other orders or directions</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má bhíonn sé ina chonclúid ag an ISI gur theip ort feabhsú a nochtadh ar do staid airgeadais le linn na tréimhse maoirseachta, féadfaidh an Chúirt Chuarda ordú a dhéanamh ar fhorfheidhmiú, tréimhse an DRN a shíneadh, an DRN a leasú nó orduithe nó treoracha eile a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you or one of your creditors are aggrieved by something the Insolvency Service has done (or not done) and apply to the Circuit Court, the court may decide to revoke a decision of the ISI or make an order as above</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má tá tú féin nó duine de do chuid creidiúnaithe éagóirithe ag rud éigin a rinne (nó nach ndearna) an tSeirbhís Dócmhainneachta agus má dhéanann tú/siad iarratas ar an gCúirt Chuarda, féadfaidh an Chúirt a chinneadh chun cinneadh an ISI a chúlghairm nó ordú a dhéanamh amhail a shonraítear thuas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If it turns out that you have given incomplete or false information, were not originally eligible for a DRN, have failed to surrender money to the ISI (50% of increased income or lump sum) or are otherwise in breach of your DRN obligations, the court can make orders as above or can decide to terminate the DRN</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má tharlaíonn sé gur thug tú faisnéis neamhiomlán nó bhréagach, mura raibh tú i dteideal DRN a fháil ar an gcéad dul síos, má theip ort airgead a thabhairt suas don ISI (50% den ioncam nó den chnapshuim) nó má sháraíonn tú do chuid dualgais DRN, féadfaidh an chúirt orduithe a dhéanamh, amhail a shonraítear thuas, nó féadtar a chinneadh chun deireadh a chur leis an DRN</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your Debt Relief Notice is terminated by the Court, you will be liable to pay all the unpaid debts that it had covered (unless the Court orders otherwise) along with any arrears, charges and interest that built up during the supervision period</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chuireann an Chúirt deireadh le d’Fhógra um Fhaoiseamh Fiachais, beidh tú faoi dhliteanas íoc as an bhfiachas go léir nár íocadh a bhí cumhdaithe aige (mura n-ordaíonn an Chúirt a mhalairt) mar aon le haon riaráistí, muirir agus ús a cruthaíodh le linn na tréimhse maoirseachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>How do I get a Debt Relief Notice?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Conas a fhaighim Fógra um Fhaoiseamh Fiachais?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must apply through an Approved Intermediary (AI) – see How to apply below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit iarratas a dhéanamh trí Idirghabhálaí Faofa (AI) - féach 'Conas iarratas a dhéanamh' thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must disclose all details of your financial affairs to the AI, who will then advise you whether or not you meet the conditions for a DRN, the consequences, and any alternative options</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit gach sonra faoi do chuid gnóthaí airgeadais a nochtadh don AI, a chuirfidh comhairle ansin ort cibé acu an gcomhlíonann nó nach gcomhlíonann tú na coinníollacha le haghaidh DRN, na hiarmhairtí, aon roghanna breise, agus na táillí (más ann dóibh) a d’fhéadfadh bheith ort a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you decide go ahead and apply for a DRN, you must confirm your intention in writing</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chinneann tú chun leanúint ar aghaidh agus iarratas a dhéanamh ar DRN, ní mór duit a chur i scríbhinn go mbeartaíonn tú amhlaidh a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will have to complete a Prescribed Financial Statement (PFS), giving full and honest information about your financial circumstances</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh ort Ráiteas Forordaithe Airgeadais (PFS) a chomhlíonadh, ina dtugtar faisnéis iomlán agus ionraic faoi do chuid cúinsí airgeadais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must act in good faith and co-operate fully with the process</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit gníomhú le hintinn mhaith agus comhoibriú go hiomlán leis an bpróiseas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will have to allow access to certain personal data held by banks and other financial institutions so that your financial situation can be verified</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh ort rochtain a cheadú ar roinnt sonraí pearsanta atá á gcoinneáil ag bainc agus ag institiúidí airgeadais eile ionas gur féidir do staid airgeadais a fhíorú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Government departments and agencies will have the power to release certain information about you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh sé de chumhacht ag ranna agus gníomhaireachtaí an Rialtais faisnéis áirithe fút a scaoileadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The AI will help you to complete the Prescribed Financial Statement and will then process your application if they consider that:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cabhróidh an AI leat chun an Ráiteas Forordaithe Airgeadais a chomhlánú agus próiseálfaidh sé/sí d'iarratas duit ansin má mheasann siad:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You meet the eligibility conditions</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Go gcomhlíonann tú na coinníollacha incháilitheachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The information in your PFS is complete and accurate in all material respects - you must confirm this by making a statutory declaration **</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Go bhfuil an fhaisnéis i do PFS comhiomlán agus cruinn – ní mór duit é seo a dheimhniú trí dhearbhú reachtúil a dhéanamh**</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>** A statutory declaration is a solemn statement which must be signed in the presence of someone who is authorised to witness statutory declarations – such as a practising solicitor, a Peace Commissioner, a notary public or a Commissioner for Oaths</seg></tuv>
+  <tuv xml:lang="ga"><seg>**Ráiteas sollúnta is ea dearbhú reachtúil nach mór a shíniú i láthair duine atá údaraithe le bheith mar fhinné ar dhearbhuithe reachtúla – ar nós aturnae cleachtach, Coimisinéir Síochána, nótaire poiblí nó Coimisinéir Mionnaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The ISI has published detailed information on fees</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhoilsigh an ISI faisnéis mhionsonraithe faoi tháillí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A fee of €100 was payable to the ISI for applying for a DRN</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bhíodh táille €100 iníoctha leis an ISI as iarratas a dhéanamh ar DRN</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When the AI is satisfied that you are eligible for a Debt Relief Notice and that all the information you have provided is complete and accurate, they will sign a statement saying so</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a bhíonn an AI sásta go bhfuil tú i dteideal Fógra um Fhaoiseamh Fiachais a fháil agus go bhfuil an fhaisnéis go léir a sholáthair tú comhiomlán agus cruinn, síneoidh siad ráiteas ina ndearbhaítear amhlaidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The AI will then transmit your application, including all the details of your financial affairs and your debts, to the Insolvency Service to have a DRN approved</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ansin aistreoidh an AI d’iarratas, lena n-áirítear sonraí uile do ghnóthaí airgeadais agus d'fhiachais, chuig an tSeirbhís Dócmhainneachta go ndéanfar DRN a fhaomhadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When considering your application, the Insolvency Service can ask the AI for further information and will also have power to enquire into anything it considers relevant to verify the completeness and accuracy of your application</seg></tuv>
+  <tuv xml:lang="ga"><seg>Agus breithniú á dhéanamh ar d'iarratas, féadfaidh an tSeirbhís Dócmhainneachta iarraidh ar an AI ar bhreis faisnéise agus beidh sé de chumhacht acu aon rud a fhiosrú a mheasann siad is gá le hiomláine agus le cruinneas d’iarratais a dheimhniú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It can request information about your bank accounts, assets, liabilities, employment and income, and the Act states that anyone asked for such information (your bank, employer etc.) “shall furnish the information requested as soon as practicable”</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh siad faisnéis faoi do chuntais bhainc, sócmhainní, dliteanais, fostaíocht agus ioncam a iarraidh, agus luaitear san Acht, má iarrtar ar aon duine (do bhanc, d’fhostóir etc.) an fhaisnéis sin a thabhairt, “soláthrófar an fhaisnéis a lorgaíodh a luaithe agus is féidir”</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Government departments, the Revenue Commissioners and other State bodies can also provide relevant information to the ISI about your financial circumstances</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa mhullach air sin, féadfaidh ranna Rialtais, na Coimisinéirí Ioncaim agus comhlachtaí Stáit eile faisnéis ábhartha a sholáthar don ISI faoi do chúinsí airgeadais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the ISI considers that the application is in order, it will issue a certificate to that effect and notify the Circuit Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má mheasann an ISI go bhfuil an t-iarratas in ord, eiseoidh siad deimhniú ina leith sin agus cuirfidh siad an Chúirt Chuarda ar an eolas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The court will review the application and documentation and, if satisfied that the conditions are met, will issue a Debt Relief Notice</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfaidh an chúirt athbhreithniú ar an iarratas agus ar an gcáipéisíocht, agus, má tá siad sásta gur comhlíonadh na coinníollacha, eiseoidh siad Fógra um Fhaoiseamh Fiachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Court will notify the Insolvency Service, the AI, yourself and the relevant creditor(s) of the DRN</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirfidh an Chúirt an tSeirbhís Dócmhainneachta, an AI, tú féin agus an creidiúnaí/na creidiúnaithe ábhartha ar an eolas faoin DRN</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The DRN will relate to specific debts and specific creditors</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bainfidh an DRN le fiachas sonracha agus le creidiúnaithe sonracha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may well have other debts that are not covered by the DRN and those creditors are not affected by it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tharlódh go bhfuil fiachas eile agat nach gcumhdaíonn an DRN agus ní dhéanann sé aon difear do na creidiúnaithe siúd</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Insolvency Service will publish details of the DRN on the Register of Debt Relief Notices, which is accessible to the public</seg></tuv>
+  <tuv xml:lang="ga"><seg>Foilseoidh an tSeirbhís Dócmhainneachta sonraí faoin DRN ar Chlár Fógraí um Fhaoiseamh Fiachais, a mbeidh rochtain ag an bpobal orthu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your application for a Debt Relief Notice must be made through an Approved Intermediary (AI)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór d’iarratas ar Fhógra um Fhaoiseamh Fiachais a dhéanamh trí Idirghabhálaí Faofa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can choose an AI from the Register of Approved Intermediaries that is published by the ISI</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir Idirghabhálaí Faofa a roghnú ó Chlár na nIdirghabhálaithe Faofa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The majority of Money Advice and Budgeting Services (MABS) have been authorised as AIs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá formhór na Seirbhísí Bhuiséadta agus Chomhairle Airgid (MABS) ceadaithe mar Idirghabhálaithe Faofa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The MABS Helpline provides an initial checking service to check if you satisfy the eligibility criteria for a DRN</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann Líne Chabhrach MABS seirbhís seiceála ar fáil chun a sheiceáil ar dtús an sásaíonn tú na critéir le haghaidh DRN</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Before contacting the MABS Helpline for this eligibility check, you will need to assemble all the relevant information about your debts, assets, income and circumstances</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sula chuireann tú glao ar Líne Chabhrach MABS le haghaidh na seirbhíse seo, ba cheart duit gach eolas a chuimsiú maidir le d'fhiachais, do shócmhainni agus do chúinsí uile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The MABS Helpline is at 0761 07 2000, Monday to Friday from 9 am to 8 pm</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Líne Chabhrach MABS ar 0761 07 2000, ó Luan go hAoine, idir 9rn agus 8in</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read more on the MABS website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léigh tuilleadh ar láithreán MABS</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further information is available from the ISI’s helpline 0761 06 4200 (Monday to Friday, 9 am to 6 pm) and from its main website isi.gov.ie, as well as its website backontrack.ie for people who are struggling with debt</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá fáil ar bhreis faisnéise ó líne chabhrach an ISI, 0761 06 4200, ó Luan go hAoine, idir 9rn agus 6in, óna láithreán gréasáin, isi.gov.ie agus ón láithrean backontrack.ie, atá dírithe ar dhaoine a bhfuil fadhbanna fiachais acu</seg></tuv>
+</tu>
+</body>
+</tmx>

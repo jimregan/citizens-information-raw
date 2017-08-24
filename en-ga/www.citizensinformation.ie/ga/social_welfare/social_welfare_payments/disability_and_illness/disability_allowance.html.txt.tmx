@@ -1,0 +1,253 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Disability Allowance is a weekly allowance paid to people with a disability</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is liúntas seachtainiúil é Liúntas Míchumais a íoctar le daoine le míchumas ó 16 bliain d’aois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can get Disability Allowance from 16 years of age</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tú in oideachas nuair baineann tú 16 bliana amach, is féidir leat leanúint scoil a fhreastal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are in education when you turn 16, you can continue to attend school</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má cheapann tusa gur diúltaíodh Liúntas Míchumais duit go héagórach, bíonn an rogha agat chun an chinneadh sin a achomhrac</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you qualify for Disability Allowance you may also get extra social welfare benefits with your payment and other supplementary welfare payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má cháilíonn tú i gcomhair Liúntais Míchumais, d’fhéadfá freisin sochair leasa shóisialaigh bhreise le d’íocaíocht agus íocaíochtaí leasa forlíonacha a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To qualify for Disability Allowance (DA) you must:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Le bheith incháilithe le haghaidh Liúntais Míchumais, caithfidh tú:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Have an injury, disease or physical or mental disability that has continued or may be expected to continue for at least one year</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gortú, galar no míchumas fisiceach nó meabhrach a bheith ort a mhair nó a mbítear ag súil go mairfidh go ceann aon bhliain ar a laghad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• As a result of this disability be substantially restricted in undertaking work that would otherwise be suitable for a person of your age, experience and qualifications</seg></tuv>
+  <tuv xml:lang="ga"><seg>• De thoradh an reachta seo tá tú srianta go suntasach maidir le hobair a dhéanamh a bheadh oiriúnach do dhuine ar comhaois leat a bhfuil an taithí agus na cáilíochtaí céanna acu gan an riocht sin a bheith orthu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Be aged between 16 and 66</seg></tuv>
+  <tuv xml:lang="ga"><seg>• A bheith idir 16 agus 66 bliana d’aois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you reach 66 years of age you no longer qualify for DA, but you are assessed for a State pension</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a shroicheann tú aois 66 ní bheidh tú cáilithe chun LM a fháil, ach déanfar measúnú ort i gcomhar pinsean stáit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Satisfy a means test</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tástáil acmhainne a shásamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Satisfy the habitual residence condition</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Coinníoll Gnathchónaithe a shásamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are getting Disability Allowance and go into hospital or residential care you will continue to get your payment as long as you meet the qualifying conditions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ag fáil Liúntas Míchumais agus má théann tú i isteach san ospidéal faoi chúram cónaithe leanfar le d'íocaíocht chomh fada agus a shásaíonn tú na coinníollacha cáilithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you were not getting Disability Allowance before living in residential care you can get Disability Allowance if you meet the qualifying conditions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil tú ag fáil Liúntas Míchumais sula mbíonn tú faoi chúram cónaithe, d'fhéadfá a bheith i dteideal Liúntas Míchumais chomh fada agus a shásaíonn tú na coinníollacha cáilithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Disability Allowance is a means-tested payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is í íocaíocht de réir tástála acmhainne í Liúntas Míchumais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To get the allowance your total assessed means must be below a certain amount</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh iomlán d’acmhainní bheith faoi bhun méad áirithe chun an liúntas a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The main items that count as means are:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar na rudaí is mó a áirítear mar acmhainní tá:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Cash income that you or your spouse, civil partner or cohabitant may have</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ioncam airgid atá agatsa nó ag do chéile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>More information is available in our document about cash income not included in the means test</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh eolais ar fáil sa doiciméad faoin airgead tirim nach n-áirítear sa tástáil acmhainne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Capital, for example, the value of savings, investments, shares, any property you may have (other than your own home)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Caipiteal, mar shampla, luach taisce, infheistíochtaí, scaireanna, aon mhaoin atá agat (ach amháin do theach féin)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, the first €50,000 of any capital you have is not taken into account</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áfach, ní áirítear an chéad €50,000 de shócmhainní caipitiúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>More information is available in our document about capital and social welfare payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh eolais ar fáil sa doiciméad faoi caipiteal agus íocaíochtaí leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Maintenance paid to you</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cothabháil a íoctar leat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>More information is available in our document about how maintenance is assessed as means</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh eolais ar fáil sa doiciméad le haghaidh conas cothabháil a mheas mar acmhainn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Income from the sale of your home</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ioncam on díolachán an tí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The proceeds of the sale of the house up to €190,500 may not be taken into account when assessing your means if you sell your home and:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhíolann tú do theach, is féidir neamhaird a dhéanamh de thorthaí dhíol an tí suas le €190,500 agus d’acmhainní á meas in imthosca áirithe agus má bhogann tú:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Move to more suitable accommodation (you can either buy or rent)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Isteach i gcóiríocht mhalartach (is féidir leat í a cheannach nó a fháil ar cíos)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Move in with someone who is caring for you and getting a carer's payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Isteach le duine éigin atá ag tabhairt aire duit agus atá ag fáil íocaíocht chúramóra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Move to sheltered or special housing in the voluntary, co-operative, statutory or private sectors</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Isteach i dtithíocht speisialta nó sciath-thithíocht sna hearnálacha deonacha, comhoibríocha, reachtúla nó príobháideacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Move into a private nursing home that is registered under the Health (Nursing Homes) Act 1990</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Isteach i mbaile príobháideach altrachta atá cláraithe faoin Acht um Shláinte (Tithe Altrachta) 1990</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are living in premises, part of which is a business and part of which is used for accommodation, only the proceeds that relate to the part of the premises that has been used for accommodation are not taken into account</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chónaíonn tú in áitreabh atá roinnte idir áit chónaithe agus áit ghnó ní tharscaoiltear ach an fáltas a bhaineann leis an áit chónaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can do rehabilitative work (which includes self-employment) and earn up to €120 per week (after deduction of PRSI, any pension contributions and union dues) without your payment being affected</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat a bheith páirteach i bhfostaíocht athshlánúcháin agus suas le €120 glan sa tseachtain a thuilleamh agus ní rachaidh sé i bhfeidhm ar d’íocaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You notify the Department of Social Protection before you start work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh tú fógra a thabhairt ón Roinn Coimirce Sóisialaí sula ndeánann tú obair ar bith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>50% of your earnings between €120 and €350 will not be taken into account in the Disability Allowance means test</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní ghlacfar 50% de thuillimh idir €120 agus €350 san áireamh i dtástáil acmhainne an Liúntais Mhíchumais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>People on Disability Allowance are eligible for JobBridge - the National Internship Scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh aon tuillimh, áfach, de bhreis ar €350 a mheasúnú mar ioncam i dtástáil acmhainne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>More information is available in our document Disability payments and work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh eolais ar fáil sa doiciméad faoi na híocaíochtaí míchumais agus obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are married, in a civil partnership or cohabiting, you may get an increase in your payment for your spouse or partner</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú pósta nó ag cónaí le duine mar fhear céile agus bean chéile, d'fhéadfá a bheith i dteideal liúntais dóibh mar do dhuine fásta cáilithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may also get an increase in your payment for dependant children</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá leanaí cleithiúnacha agat, d'fhéadfá liúntas breise a fháil chomh maith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have children living with you and you are single, widowed, separated or a civil partner who is not living with the other civil partner, you may get an increase in your payment for the person who is caring for your child, provided the person is aged 16 or over, living with and being supported by you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá leanaí ag cónaí leat agus go bhfuil tú singil, gur baintreach tú nó go bhfuil tú idirscartha, d'fhéadfá liúntas a fháil don duine atá ag tabhairt cúraim do do leanbh/leanaí, chomh fada agus go bhfuil an duine 16 bliana d'aois nó os a chionn ag cónaí leat agus á t(h)acú agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Income from spouse's, civil partner's or cohabitant's work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ioncam ó thuillimh do chéile/pháirtí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your spouse, civil partner or cohabitant works it can affect your Disability Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má oibríonn do chéile/pháirtí, is féidir leis seo tionchar a bheith aige ar do Liúntas Míchumais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your spouse, civil partner or cohabitant's weekly earnings (from employment, including rehabilitiative employment) are assessed as follows:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ón 26 Meán Fómhair 2007, tá tuillimh do chéile/pháirtí measúnaithe mar a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Weekly earnings are gross earnings less PRSI, superannuation (pension payments) and union dues</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is éard atá i dtuilleamh seachtainiúil ná an t-olltuilleamh lúide ÁSPC, aoisliúntas agus dleachtanna ceardchumainn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>€20 per day (up to a maximum of €60) from work is deducted from your spouse, civil partner or cohabitant's average weekly earnings and then 60% of the balance is assessed as weekly means</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baintear €20 in aghaidh an lae (suas le huasmhéid €60) as meántuilleamh seachtainiúil do chéile/pháirtí agus déantar 60% den fhuílleach a mheasúnú mar acmhainní seachtainiúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The weekly means is then deducted from the combined total of your personal rate of Disability Allowance and the maximum Increase for a Qualified Adult and any Increases for Qualified Children (if applicable)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar na hacmhainní seachtainiúla a asbhaint ansin ó chomhiomlán do ráta pearsanta Liúntais Míchumais (LM) agus an Méadú uasta do Dhuine Fásta Cáilithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you were getting Disability Allowance before 26 September 2007 and you were still in payment on 26 September 2007, your spouse, civil partner or cohabitant's earnings will be assessed under the new means assessment to find out whether you are better off</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhí LM á fháil agat roimh 26 Meán Fómhair 2007 agus go bhfuil tú fós ag fáil íocaíochta ar an 26 Meán Fómhair, déanfar tuillimh do chéile/pháirtí a mheasúnú faoin measúnú maoine nua chun fáil amach an bhfuil tú níos fearr as</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you would get a greater amount of Disability Allowance on the previous assessment then you will continue to be assessed using the previous method of calculating means from employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhí níos mó LM á fháil agat ar an measúnú roimhe seo, leanfar leis an measúnú ag baint leasa as modh ríofa na n-acmhainní ó fhostaíocht roimhe seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your spouse, civil partner or cohabitant's means have changed, for any reason, since 26 September 2007, you cannot apply the previous method of calculating means from employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá acmhainní do chéile/pháirtí athraithe ar chúis ar bith ón 26 Meán Fómhair 2007, ní féidir leat iarratas a dhéanamh ar mhodh ríofa na n-acmhainní ó fhostaíocht roimhe seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are required to have your own doctor complete a medical report, which is part of the application form, on your medical condition</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir gurb é do dhoctúir féin a chomhlánaíonn an tuairisc leighis, atá mar chuid den fhoirm iarratais ar do riocht sláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This report is reviewed by one of the Department’s Medical Assessors</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann ceann de Mheasúnóirí Leighis na Ranna athbhreithniú deisce ar an tuairisc seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In 2016 and up to 15 March 2017, the weekly maximum rate of Disability Allowance was:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ráta seachtainiúil (i 2016 agus roimh 15 Márta 2017)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Personal rate (claimant) │€188.00 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Ráta Pearsanta │Méadú do Dhuine Fásta │Méadú do gach Leanbh │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Qualified child │ │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│(uasráta) │€124.80 (uasráta) │ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>From 15 March 2017, the weekly maximum rate of Disability Allowance is:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ráta seachtainiúil (ó 15 Márta 2017)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Personal rate (claimant) │€193.00 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Ráta Pearsanta │Méadú do Dhuine Fásta │Méadú do gach Leanbh │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Qualified child │ │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│(uasráta) │€128.10 (uasráta) │ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are married, in a civil partnership or cohabiting and you both qualify for Disability Allowance, you will each get a weekly personal rate of Disability Allowance. If you both qualify you can both get the maximum rate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú pósta nó má mhaireann tú in éineacht le duine faoi mar gurb eisean/ise d'fear nó do bhean chéile, agus má cháilíonn an bheirt agaibh i gcomhair Liúntas Míchumais, geobhaidh gach duine agaibh ráta pearsanta seachtainiúil den Liúntas Míchumais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you or your spouse, civil partner or cohabitant qualifies for Disability Allowance and the other is getting another social welfare payment, you will each get the weekly personal rate of your respective payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má cháilíonn tusa nó do chéile nó do pháirtí i gcomhair Liúntas Míchumais agus má tá íocaíocht leasa shóisialaigh eile á fáil ag an té eile, geobhaidh gach duine agaibh an ráta pearsanta seachtainiúil dá (h)íocaíocht féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can get an application form for Disability Allowance (pdf) from the Disability Allowance Section - see 'Where to apply' below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat an fhoirm iarratais do Liúntas Míchumais (pdf) a fháil ón Rannóg an Liúntas Míchumais - féach ‘Cá háit a dhéanfaidh mé iarratas’ thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can also get an application form in your Intreo Centre or Social Welfare Branch Office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat an fhoirm iarratas ó d'Ionad Intreo ó d’oifig leasa shóisialaigh áitiúil freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you think you have been wrongly refused Disability Allowance you can appeal this decision</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cá háit a ndeánfaidh mé iarratas?</seg></tuv>
+</tu>
+</body>
+</tmx>

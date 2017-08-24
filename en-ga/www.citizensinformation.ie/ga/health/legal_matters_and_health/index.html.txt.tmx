@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Legal matters and health</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cúrsaí dlí agus sláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Access to medical records</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rochtain ar thaifid leighis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are various ways in which you may access personal medical records. Find out about the procedures and rules</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá cur síos sa cháipéis seo ar na bealaí éagsúla inár féidir le duine teacht ar Thaifid Leighis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An Advance Healthcare Directive in Ireland is a statement about the type and extent of medical or surgical treatment you want in the future, on the assumption that you will not be able to make that decision at the relevant time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ráiteas é réamhthreoir cúraim maidir leis an gcineál agus an méid cóireála leighis nó máinliachta a bheidh ag teastáil uait sa todhchaí, de bhun na toimhdean nach mbeidh sé de chumas agat an cinneadh sin a dhéanamh ag an am ábhartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Consent to medical and surgical procedures</seg></tuv>
+  <tuv xml:lang="ga"><seg>Toiliú don chóireáil leighis agus máinliach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As a general rule, informed consent must be given before medical and surgical procedures can happen in Ireland. Find out more</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá cur síos sa cháipéis seo ar na rialacha a bhaineann le toiliú don chóireáil leighis agus máinliach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Legal arrangements for incapacity</seg></tuv>
+  <tuv xml:lang="ga"><seg>Socruithe Dlíthiúla maidir le hÉagumas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Legal arrangements for people who are unable to look after their own affairs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Na socruithe dlíthiúla éagsúla is féidir le duine a dhéanamh chun aire a thabhairt dá g(h)nóthaí mura bhfuil sé/sí in ann déanamh amhlaidh ar chúis ar bith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Explanation of what a Ward of Court in Ireland is and how to apply to have someone made a Ward of Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá cur síos sa cháipéis seo ar Choimircí Cúirte agus cén chaoi a ndéantar iarratas le duine a ainmniú ina c(h)oimirce cúirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most Read in "Health"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ábhar is mó éilimh i "Sláinte"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Admission to a psychiatric hospital</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ospidéal síciatrach a iontráil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Medical card means test: aged under 70</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tástáil mhaoine cárta leighis: daoine faoi bhun 70 bliain d’aois</seg></tuv>
+</tu>
+</body>
+</tmx>

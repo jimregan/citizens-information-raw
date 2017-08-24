@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Employee share option schemes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Scéimeanna Scaireanna Fostaithe in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In Ireland, employees can avail of certain share options from their company that may be 'tax free' or 'tax efficient'</seg></tuv>
+  <tuv xml:lang="ga"><seg>In Éirinn, is féidir le fostaithe roghanna faoi leith scaireanna a ghlacadh óna gcomhlacht a d'fhéadfadh a bheith "saor ó cháin" nó "cáin éifeachtúil"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, it is useful to bear in mind that there are few benefits employees can receive that are completely 'tax free'</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach, de bharr athruithe sa reachtaíocht in Éirinn is féidir le fostaithe leas a baint as rath a gcomhlacht gan dliteanais mhóra cánacha titim orthu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are two main ways an employee can benefit from shares in the company:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá dhá phríomh bhealach gur féidir le fostaí leas a bhaint as scaireanna sa chomhlacht:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Approved Profit Sharing Schemes</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Scéimeanna Ceadaithe le Brabús a Roinnt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Approved Profit Sharing Schemes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Scéimeanna Ceadaithe le Brabús a Roinnt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Approved Profit Sharing Schemes allow an employer to give an employee shares in the company up to a maximum value of €12,700 per year tax-free</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann Scéimeanna Ceadaithe le Brabús a Roinnt deis don fhostóir scaireanna sa chomhlacht a thabhairt don fhostaí suas go dtí uasluach de 12,700 euro sa bhliain saor ó cháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Approved Profit Sharing Schemes are subject to certain conditions set out in legislation and administered by the Revenue Commissioners</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá coinníollacha faoi leith ag baint le Scéimeanna Ceadaithe le Brabús a Roinnt atá leagtha síos i reachtaíocht agus atá dhá riaradh ag na Coimisinéirí Ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Providing the scheme meets the required conditions, an employee will pay no tax on shares up to a maximum value of €12,700 per year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má shásaíonn an scéim na coinníollacha, ní íocfaidh fostaí aon cháin ar scaireanna suas go dtí uasluach de 12,700 euro sa bhliain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The employer must hold the shares for a period of time (called the "retention period") and the employee must not dispose of the shares before three years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don fhostóir na scaireanna a choinneáil ar feadh tréimhse ama (ar a dtugtar an "tréimhse choinneála") agus ní féidir leis an bhfostaí fáil réidh leis na scaireanna sula mbíonn trí bliana caithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If an employee disposes of shares before this time, he or she is liable to pay income tax on whichever is the lower of the following:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhaigheann fostaí réidh leis na scaireanna roimhe sin, beidh air/uirthi cáin ioncaim a íoc ar pé acu is lú eatarthu seo a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The market value of the shares when they were given to the employee or,</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Luach margaidh na scaireanna nuair a tugadh don fhostaí iad, nó,</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The value of the shares at the time of sale</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Luach na scaireanna ag am an díolacháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Approved Profit Sharing Schemes are subject to a number of conditions that should be checked with the Revenue Commissioners</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá roinnt coinníollacha a bhaineann le Scéimeanna Ceadaithe le Brabús a Roinnt agus ba cheart iad a chinntiú leis na Coimisinéirí Ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>More information can be found in Revenue's publication Approved Profit Sharing Schemes IT62 (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir tuilleadh a léamh anseo maidir le Scéimeanna Ceadaithe le Brabús a Roinnt (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Revenue approved Savings-related Share Option Schemes allow you to save for and purchase share options in your employer's company tax effectively</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gearrtar an Cháin ar Ghnóthacháin Chaipitiúla ar an difríocht idir an bpraghas ceannaithe agus an praghas a dhíoltar na scaireanna air ina dhiaidh sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should check with the Revenue Commissioners and your employer as to what rules apply to your share options and when you are liable to pay tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá cáin iníochta ar gach díbhinn a éiríonn as scéimeanna le brabús a roinnt agus scéimeanna roghanna scaireanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find information in Revenue's publication A Guide to Savings-Related Share Option Schemes (pdf) and in Revenue's eBrief No</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé tábhachtach déanamh cinnte leis na Coimisinéirí ioncaim agus le do fhostóir cé na rialacha a bhaineann le do roghanna scaireanna agus cén uair a mbeidh cáin le n-íoc agat, má bhíonn</seg></tuv>
+</tu>
+</body>
+</tmx>

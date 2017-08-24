@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>A major emergency is an incident beyond the normal capabilities of the principal emergency services, which causes or threatens:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Teagmhas is ea móréigeandáil a sháraíonn gnáthchumas na bpríomhsheirbhísí éigeandála atá ina cúis leis an méid an leanas nó a chuthaíonn bagairt i leith an mhéid a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Serious disruption of essential services or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cur isteach tromchúiseach ar sheirbhísí ríthábhachtacha nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Damage to property, the environment or infrastructure</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Díobháil a dhéanamh do réadmhaoin, don chomhshaol nó don bhonneagar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Such events include explosions, train crashes, incidents involving hazardous substance and forms of severe weather such as flooding and storms</seg></tuv>
+  <tuv xml:lang="ga"><seg>I measc na dteagmhas sin tá pléascthaí, tuairteanna traenach, teagmhais lena mbaineann substaint bhaolach agus foirmeacha de dhianaimsir ar nós tuile agus stoirmeacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A major emergency requires the mobilisation of additional resources by the principal response agencies to ensure an effective response</seg></tuv>
+  <tuv xml:lang="ga"><seg>Teastaíonn ó mhóréigeandáil slógadh acmhainní breise ag príomhghníomhaireachtaí freagartha le freagairt éifeachtach a chinntiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The principal emergency services are the first services to respond to most major emergencies</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad na príomhsheirbhísí éigeandála na chéad seirbhísí le freagairt ar an mórchuid de mhóréigeandálaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They are the blue light services that respond to normal emergencies, that is, the Garda Síochána, the Ambulance Service and the Fire Service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seirbhísí gormsholais iad a fhreagraíonn ar ghnáthéigeandálaí, is é sin, an Garda Síochána, an tSeirbhís Otharcharranna agus an tSeirbhís Dóiteáin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A fourth principal emergency service, the Irish Coast Guard, is responsible for handling maritime emergencies in Irish territorial waters, harbours and coastline</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an ceathrú príomhsheirbhís éigeandála, Garda Cósta na hÉireann, freagrach as éigeandálaí mara a láimhseáil in uisce críche, i gcalafoirt agus in imeallbhord na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Principal response agencies (PRAs) are the agencies which have been designated by Government to respond to major emergencies</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gníomhaireachtaí iad príomhghníomhaireachtaí freagartha (GPFanna) arna sannadh ag an Rialtas le freagairt ar mhóréigeandálaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They are the Garda Síochána, the Health Service Executive and the local authorities</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad an Garda Síochána, Feidhmeannacht na Seirbhíse Sláinte agus na húdaráis áitiúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Each principal emergency service is part of a larger PRA</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar chuid de GPF níos mó is ea gach príomhsheirbhís éigeandála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, the Fire Service is a local authority service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, seirbhís údaráis áitiúil is ea an tSeirbhís Dóiteáin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Due to the nature and complexity of major emergencies, the staff and resources of the wider PRA are required to manage the consequences of the major emergency event and to co-ordinate its response with the other PRAs </seg></tuv>
+  <tuv xml:lang="ga"><seg>De bharr chineál agus chastacht na móréigeandálaí, teastaíonn foireann agus acmhainní an GPF níos fairsinge le hiarmhairtí theagmhas na móréigeandála a bhainistiú agus lena freagairt a chomhordú le GPFanna eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Depending on the nature of the emergency, agencies other than the PRAs such as the Defence Forces or the voluntary emergency services may also be required</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag brath ar chineál na héigeandála, d'fhéadfadh gníomhaireachtaí eile seachas na GPFanna, ar nós na bhFórsaí Cosanta nó na seirbhísí deonacha éigeandála bheith ag teastáil freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Major emergencies require special arrangements to ensure a co-ordinated and effective response by the PRAs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Teastaíonn socruithe speisialta ó mhóréigeandálaí le freagairt chomhordaithe agus éifeachtach a chinntiú ag na GPFanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Framework for Major Emergency Management</seg></tuv>
+  <tuv xml:lang="ga"><seg>Creat le haghaidh Móréigeandálaí a Bhainistiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In 2006 the Government approved a Framework for Major Emergency Management which is a framework of policies, structures and arrangements for preparedness and response to major emergencies at the local and regional levels</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cheadaigh an Rialtas in 2006 Creat le haghaidh Móréigeandálaí a Bhainistiú ar creat beartas, struchtúr agus socruithe é d'ullmhacht agus d'fhreagairt ar mhóréigeandálaí ar leibhéil áitiúla agus réigiúnacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The purpose of the Framework is to enable divisions of the Garda Síochána, regions of the Health Service Executive and local authorities to prepare for and make a co-ordinated response to any major emergency which occurs in their area</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é cuspóir an Chreata seo é a chur ar chumas ranna an Gharda Síochána, réigiún d'Fheidhmeannacht na Seirbhíse Sláinte agus údarás áitiúil réiteach le haghaidh aon mhóréigeandála agus chun freagairt chomhordaithe a dhéanamh ar aon mhóréigeandáil a tharlaíonn ina limistéar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Framework sets out arrangements for other services such as the Defence Forces, voluntary emergency services, utilities, transport companies, industrial and other participants, and the affected communities to support and work with the PRAs in reacting to and managing major emergencies</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagtar amach socruithe sa Chreat le haghaidh seirbhísí eile, ar nós na bhFórsaí Cosanta, seirbhísí deonacha éigeandála, fóntas, cuideachtaí iompair, tionscal agus rannpháirtithe eile, chomh maith le socruithe do na pobail a bhíonn thíos le móréigeandáil le tacú agus le hoibriú le GPFanna sa fhrithghníomhú agus sa bhainistiú ar mhóréigeandáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Each PRA has a major emergency plan that sets out the detail of its response, as well as its contribution to the combined response of all of the agencies</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá ag gach GPF plean móréigeandála ina leagtar amach sonraí faoina fhreagairt, mar aon leis an méid a chuireann sé le comhfhreagairt na ngníomhaireachtaí uile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Office of Emergency Planning</seg></tuv>
+  <tuv xml:lang="ga"><seg>An Oifig Pleanála Éigeandála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Office of Emergency Planning is responsible to the Minister for Defence for the co-ordination and oversight of planning for emergencies</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an Oifig Pleanála Éigeandála freagrach don Aire Cosanta as comhordú agus maoirsiú a dhéanamh ar phleanáil le haghaidh éigeandálaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It also provides a support role to the Government Task Force on Emergency Planning</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, cuireann siad tacaíocht ar fáil do Thascfhórsa an Rialtais um Pleanáil Éigeandála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It has published a handbook entitled Preparing for Major Emergencies (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhoilsigh siad lámhleabhar dar teideal Ullmhú le haghaidh Móréigeandálaí (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Policy and direction is provided by the Government Task Force on Emergency Planning which is chaired by the Minister for Defence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann Tascfhórsa an Rialtais um Pleanáil Éigeandála beartas agus treoir ar fáil. Tá an tAire Cosanta ina chathaoirleach ar an tascfhórsa seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It co-ordinates and oversees the emergency planning activities of all government departments and public authorities</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann siad gníomhaíochtaí pleanála éigeandála ranna uile an rialtais agus na n-údarás uile poiblí a chomhordú agus a mhaoirsiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It also promotes the best possible use of resources and compatibility across different planning requirements</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, cuireann siad an úsáid is fearr is féidir as acmhainní agus as comhoiriúnachta chun cinn i measc riachtanais éagsúla phleanála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Office of Emergency Planning chairs the Inter-Departmental Working Group on Emergency Planning (IDWG) which carries out specific studies and develops particular aspects of emergency planning</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an Oifig Pleanála Éigeandála ina gcathaoirleach ar an nGrúpa Oibre Idir-Rannach um Pleanáil Éigeandála (GOIPE) a thugann faoi staidéir shonracha agus a fhorbraíonn gnéithe áirithe de phleanáil éigeandála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The IDWG is the means by which expertise is shared between Government departments and public authorities on emergency planning</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad an GOIPE an meán trína gcomhroinnter saineolas idir ranna Rialtais agus údaráis phoiblí maidir le pleanáil éigeandála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The lead responsibility for specific emergency planning functions remains with the relevant government departments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ar na ranna cuí rialtais atá an phríomhfhreagracht as feidhmeanna sonracha pleanála éigeandá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When an emergency occurs, the appropriate emergency plan is set into operation with the relevant department taking the lead in its implementation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a thiteann éigeandáil amach, cuirtear an plean oiriúnach éigeandála i ngníomh agus an roinn chuí chun tosaigh ar a chur i bhfeidhm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Following severe weather events in the winters of 2009/2010 and 2010/2011 involving flooding and severe cold, the Government launched an information campaign to provide advice and information to help the public be better prepared to deal with a period of severe weather</seg></tuv>
+  <tuv xml:lang="ga"><seg>I ndiaidh teagmhais dianaimsire i ngeimhridh 2009/2010 agus 2010/2011ina raibh baint ag tuile agus fíorfhuacht, sheol an Rialtas feachtas faisnéise le comhairle agus faisnéis a chur ar fáil le cabhrú leis an bpobal a bheith réitithe níos fearr le déileáil le tréimhse dhianaimsire</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Office of Emergency Planning has published a booklet entitled Be Winter-Ready (pdf) and developed a website winterready.ie to provide practical advice and contact details of the main services that can provide help in extreme weather-related emergencies</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhoilsigh an Oifig Pleanála Éigeandála leabhrán dar teideal Bí Ullamh don Gheimhreadh (pdf) agus d’fhorbair siad láithreán gréasáin winterready.ie le comhairle phraiticiúil agus le sonraí teagmhála na seirbhísí a chur ar fáil ar féidir leo cabhrú in éigeandálaí dianaimsire</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Department of Transport has issued a guide for severe weather (pdf) which includes advice on travel during severe weather as well as contact details for city and county councils, bus operators, rail and ferry operators, airports and airlines</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’eisigh an Roinn Iompair treoir maidir le dianaimsir (pdf) lena n-áirítear comhairle maidir le taisteal le linn dianaimsire mar aon le sonraí teagmhála le haghaidh comhairlí cathrach agus contae, oibreoirí busanna, oibreoirí iarnróid agus bád farantóireachta, aerforit agus aerlínte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Department of Jobs, Enterprise and Innovation has published a guide for businesses on preparing for severe weather (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhoilsigh an Roinn Post, Fiontair agus Nuálaíochta treoir do ghnólachtaí maidir le hullmhú do dhianaimsir (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It includes a practical checklist to provide businesses with a basic template which could help identify weaknesses in their business continuity plans should a severe weather event occur</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áirítear léi seo seicliosta praiticiúil le teimpléad bunúsach a chur ar fáil do ghnólachtaí a d’fhéadfadh cabhrú leo laigí a shainaithint ina bpleananna leanúnachais ghnó, sa chás go dtarlóidh teagmhas dianaimsire</seg></tuv>
+</tu>
+</body>
+</tmx>

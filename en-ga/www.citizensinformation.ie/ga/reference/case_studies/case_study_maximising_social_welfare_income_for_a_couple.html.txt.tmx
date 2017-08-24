@@ -1,0 +1,461 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Case study: Maximising a couple's income from jobseeker's payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cás-staidéar: Ioncam lánúine ó íocaíochtaí cuardaitheora poist a uasmhéadú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Mary is working and earning €224 a week</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Máire ag obair, agus í ag tuilleamh €224 in aghaidh na seachtaine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Her days at work have been reduced permanently to 3 days</seg></tuv>
+  <tuv xml:lang="ga"><seg>Táthar tar éis a cuid laethanta ag obair a laghdú go buan chuig 3 lá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>She has an entitlement to Jobseeker’s Benefit (JB)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn sí i dteideal Sochair Chuardaitheora Poist (SCP)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As her days at work are permanently reduced she will be assessed for JB as a part-time worker and not a systematic short-time worker</seg></tuv>
+  <tuv xml:lang="ga"><seg>Toisc go bhfuil a cuid laethanta ag obair laghdaithe go buan is amhlaidh a dhéanfar measúnú uirthi don SCP mar oibrí páirtaimseartha agus gan mar oibrí gearrama</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>John has been out of work for some time and his JB claim has come to an end</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Seán tar éis bheith gan obair le hachar fada agus tá a éileamh SCP tar éis teacht chun deiridh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He has applied for Jobseeker’s Allowance (JA)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé tar éis iarratas a dhéanamh ar Liúntas Cuardaitheora Poist (LCA)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He has been offered a part-time job and will be working 2 days and earning €100 each week</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé tar éis tairiscint ar phost páirtaimseartha a fháil freisin, agus beidh sé ag obair 2 lá agus ag tuilleamh €100 in aghaidh na seachtaine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>John and Mary have 2 children aged 7 and 12</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá 2 leanaí ag Seán agus Máire d'aois 7 agus 12 bliain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They have no assessable means other than that from employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon acmhainn inmheasúnaithe acu seachas óna gcuid fostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>What social welfare payments can John and Mary claim and which payments will maximise their household income?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cad iad na híocaíochtaí leasa shóisialaigh ar féidir le Seán agus Máire a éileamh agus cad iad na híocaíochtaí lena n-uasmhéadófar a n-ioncam teaghlaigh?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the case of Mary and John, you must do 4 separate calculations to find out which social welfare payment or combination of payments will maximise their income</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás Mháire agus Sheáin, ní foláir duit 4 áireamh ar leithligh a dhéanamh chun fáil amach an íocaíocht leasa shóisialaigh nó an meascán íocaíochtaí lena n-uasmhéadófar a n-ioncam</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must calculate their social welfare entitlement based on the 4 following situations:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní foláir duit a dteidlíocht leasa shóisialaigh a áireamh bunaithe ar na 4 chúrsa seo a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>John claims JA for the whole family – see ‘Assessment 1’ below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann Seán éileamh ar LCP don teaghlach go léir – féach ‘Measúnú 1’ thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Mary claims JB for the whole family – see ‘Assessment 2’ below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann Máire éileamh ar SCP don teaghlach go léir – féach ‘Measúnú 2’ thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>John claims JA and Mary claims Family Income Supplement (FIS) – see ‘Assessment 3’ below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann Seán éileamh ar LCP agus Máire éileamh ar Fhorlíonadh Ioncaim Theaghlaigh (FIT) – féach ‘Measúnú 3’ thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>John and Mary claim separate social welfare payments: John claims JA and Mary claims JB – see ‘Assessment 4’ below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann Seán agus Máire éileamh ar íocaíochtaí leasa shóisialaigh ar leithligh: Déanann Seán éileamh ar LCP agus Máire éileamh ar SCP – féach ‘Measúnú 4’ thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Assessment 1: John claims JA for the family</seg></tuv>
+  <tuv xml:lang="ga"><seg>Measúnú 1: Déanann Seán éileamh ar LCP don teaghlach go léir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>IQC** rate €59.60 (for 2 children)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ráta MLC** €59.60 (i gcomhair 2 leanaí)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Less means €98.00 (from Mary’s employment – see Note 1 below)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Lúide acmhainn €98.00 (ó fhostaíocht Mháire – féach Nóta 1 thíos)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Less means €36 (from John’s employment – see Note 2 below)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Lúide acmhainn €36 (ó fhostaíocht Sheáin – féach Nóta 2 thíos)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Total JA for John €246.70</seg></tuv>
+  <tuv xml:lang="ga"><seg>Iomlán LCP do Sheán €246.70</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>*Increase for a Qualified Adult (IQA)</seg></tuv>
+  <tuv xml:lang="ga"><seg>*Méadú d’Aosach Cáilithe (MAC)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>** Increase for a Qualified Child (IQC)</seg></tuv>
+  <tuv xml:lang="ga"><seg>**Méadú do Leanbh Cáilithe (MLC)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Total income for Assessment 1: │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Ioncam iomlán i gcomhair Measúnú 1: │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Add their sources of income together to find their total income: │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Suimítear a bhfoinsí ioncaim le chéile chun teacht ar a n-ioncam iomlán: │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│John’s JA + Mary’s income from work + John’s income from work = total income €246.70 + €224 + €100 = €570.70│</seg></tuv>
+  <tuv xml:lang="ga"><seg>│LCP Sheáin + ioncam Mháire ón obair + ioncam Sheáin ón obair = ioncam iomlán €246.70 + €224 + €100 = €570.70│</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Total income = €570.70 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Ioncam iomlán = €570.70 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Assessment 2: Mary claims JB for the family</seg></tuv>
+  <tuv xml:lang="ga"><seg>Measúnú 2: Déanann Máire éileamh ar SCP don teaghlach go léir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>IQA €128.10 (not reduced as John’s earnings are only €100)</seg></tuv>
+  <tuv xml:lang="ga"><seg>MAC €128.10 (nach laghdaítear toisc nach fiú ach €100 tuilleamh Sheáin)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>IQC €59.60 (for 2 children)</seg></tuv>
+  <tuv xml:lang="ga"><seg>MLC** €59.60 (i gcomhair 2 leanaí)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, because Mary is working part-time 3 days each week, she is only eligible to claim for JB for 2 days</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhíonn Máire incháilithe chun LCP a éileamh ach amháin i gcomhair 2 lá toisc go n-oibríonn sí go páirtaimseartha 3 lá in aghaidh na seachtaine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>She will get two-fifths (40%) of €380.70</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gheobhaidh sí dhá chúigiú (40%) den €380.70</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Mary’s JB payment is €152.28 payment for 3 days of unemployment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ionann íocaíochta LCP Mháire agus íocaíocht €152.28 i gcomhair 3 lá dífhostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Total income for Assessment 2: │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Ioncam iomlán i gcomhair Measúnú 2: │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Add their sources of income together to find their total income: │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Suimítear a bhfoinsí ioncaim le chéile chun teacht ar a n-ioncam iomlán: │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Mary’s JB + Mary’s income from work + John’s income from work = total income│</seg></tuv>
+  <tuv xml:lang="ga"><seg>│SCP Mháire + ioncam Mháire ón obair + ioncam Sheáin ón obair = ioncam iomlán│</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Total income = €476.28 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Ioncam iomlán = €476.28 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Assessment 3: John claims JA and Mary claims FIS</seg></tuv>
+  <tuv xml:lang="ga"><seg>Measúnú 3: Déanann Seán éileamh ar LCP agus Máire éileamh ar FIT</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Half-rate IQC €29.80 (for 2 children)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leathráta MLC €29.80 (i gcomhair 2 leanaí)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Less means €49 (half Mary’s means – see Note 1 and 3 below)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Lúide acmhainn €49 (leath acmhainn Mháire – féach Nóta 1 agus 3 thíos)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Less means €18 (half John’s means – see Note 2 and 3 below)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Lúide acmhainn €18 (leath acmhainn Sheáin – féach Nóta 2 agus 3 thíos)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Total JA for John €155.80</seg></tuv>
+  <tuv xml:lang="ga"><seg>Iomlán LCP do Sheán €155.80</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Add their assessable income together:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Suimigh a n-ioncam inmheasúnaithe le chéile:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Mary’s income from work* €224 John’s income from work* €100</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ioncam Mháire ón obair* €224 Ioncam Sheáin ón obair* €100</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>John’s JA payment €155.80</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocaíocht LCP €155.80 le Seán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Total assessable income €479.80</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ioncam iomlán inmheasúnaithe €479.80</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>*Income from work less disregards</seg></tuv>
+  <tuv xml:lang="ga"><seg>*Ioncam ón obair lúide neamhshuimeanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│FIS limit for couple with 2 children │€612 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Teorainn FIT do lánúin le 2 leanaí │€612 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Less family’s assessable income │€479.80 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Lúide ioncam inmheasúnaithe teaghlaigh │€479.80 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>60% of 132.20 = €79.32</seg></tuv>
+  <tuv xml:lang="ga"><seg>60% de 132.20 = €79.32</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>FIS payment for Mary = €80 (rounded up)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocaíocht FIT do Mháire = €80 (chothromú)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Total income for Assessment 3: │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Ioncam iomlán i gcomhair Measúnú 3: │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Add their sources of income together to find their total income: │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Suimítear a bhfoinsí ioncaim le chéile chun teacht ar a n-ioncam iomlán: │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Mary’s FIS payment + Mary’s income from work + John’s income from work + John’s JA payment = total income│</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Íocaíocht FIT Mháire + ioncam Mháire ón obair + ioncam Sheáin ón obair + íocaíocht LCP Sheáin = ioncam iomlán│</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Total income = €559.80 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Ioncam iomlán = €559.80 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Assessment 4: John and Mary claim separate jobseeker’s payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Measúnú 4: Déanann Seán agus Máire éileamh ar íocaíochtaí cuardaitheora poist:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>John’s JA claim for himself only:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Éileamh LCP Sheáin dó féin amháin:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Half IQC €29.80 (for 2 children)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leath MLC €29.80 (i gcomhair 2 leanaí)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Less means €49 (half Mary’s means – see Note 1 and 3 below)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Lúide acmhainn €49 (leath acmhainn Mháire – féach Nóta 1 agus 3 thíos)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Less means €18 (half John’s means – see Note 2 and 3 below)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Lúide acmhainn €18 (leath acmhainn Sheáin – féach Nóta 2 agus 3 thíos)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Total JA for John €155.80</seg></tuv>
+  <tuv xml:lang="ga"><seg>Iomlán LCP do Sheán €155.80</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Mary’s JB claim for herself only:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Éileamh SCP Mháire di féin amháin:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Half IQC €29.80 (for 2 children)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leath MLC €29.80 (i gcomhair 2 leanaí)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, because she is working part-time 3 days each week, she will get two fifths of €222.80</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gheobhaidh sí dhá chúigiú de €222.80 ámh, toisc go n-oibríonn sí go páirtaimseartha 3 lá in aghaidh na seachtaine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Mary’s JB payment is €89.12 - payment for 3 days of unemployment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ionann íocaíocht SCP Mháire agus €89.12 - íocaíocht i gcomhair 3 lá dífhostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where separate payments are being claimed you must allow for maximum payment in your calculation – see Note 4 below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh tú spás a leagan amach don íocaíocht uasta i d’áireamh sa chás go ndéantar éileamh ar íocaíochtaí ar leithligh – féach Nóta 4 thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>€155.80 + €222.80 = €378.60, this amount is not greater than the maximum payment of €380.70, so John’s JA payment will not be reduced</seg></tuv>
+  <tuv xml:lang="ga"><seg>€155.80 + €222.80 = €378.60, ní mó an méid sin ná an íocaíocht uasta de €380.70, ionas nach laghdófar íocaíocht LCP Sheáin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Total income for Assessment 4: │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Ioncam iomlán i gcomhair Measúnú 4: │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Add their sources of income together to find their total income: │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Suimítear a bhfoinsí ioncaim le chéile chun teacht ar a n-ioncam iomlán: │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│John’s JA payment + John’s income from work + Mary’s JB payment + Mary’s income from work = total income│</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Íocaíocht LCP Sheáin + Ioncam Sheáin ón obair + íocaíocht SCP Mháire + Ioncam Mháire ón obair = ioncam iomlán│</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Total income = €568.92 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Ioncam iomlán = €568.92 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In this case study, the family are very slightly better off with Assessment 1 (John claims JA for the whole family)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is fearrde é an teaghlach sa chás-staidéar go hábhairín le Measúnú 1 (déanann Seán éileamh ar LCP don teaghlach go léir)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However Assessment 4 (John and Mary claim separate jobseeker payments) might be better since both partners are eligible for training and education schemes in their own right</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh Measúnú 4 bheith ní b’fhearr ámh (déanann Seán agus Máire éileamh ar íocaíochtaí cuardaitheora poist ar leithligh) óir go mbíonn an bheirt pháirtí incháilithe don oiliúint agus don oideachas astu féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Mary’s means from work for John’s JA assessment are calculated as follows:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ríomhtar acmhainn Mháire ón obair do mheasúnú LCP Sheáin mar seo a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Income from work of €224 less €20 for each day worked up to a maximum of €60 (3 days)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ioncam ón obair ar fiú €224 é lúide €20 in aghaidh gach lá a oibríodh suas le huasmhéid €60 (3 lá)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>60% of the balance is assessed as means</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar 60% den iarmhéid a mheasúnú mar acmhainn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>60% of €164 = €98 (rounded off)</seg></tuv>
+  <tuv xml:lang="ga"><seg>60% as €164 = €98 (slánaithe)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Mary’s means are calculated as €98</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ríomhtar acmhainn Mháire mar €98</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>John’s means from work for JA are calculated as follows:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ríomhtar acmhainn Sheáin ón obair do LCP mar seo a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Calculate John’s average daily earnings:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ríomhtar meántuilleamh laethúil Sheáin:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Get his total weekly assessable earnings from employment and divide by the number of days he worked that week</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigh a thuilleamh iomlán seachtainiúil inmheasúnaithe ón bhfostaíocht agus roinn é faoi líon na laethanta a d’oibrigh sé an tseachtain úd</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Total weekly earnings ÷ number of days worked = average daily earnings</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tuilleamh iomlán seachtainiúil ÷ líon na laethanta a oibríodh = meántuilleamh laethúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Next calculate John’s daily means from work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ríomh acmhainn laethúil Sheáin ón obair mar an chéad chéim eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>First disregard any income not taken into account</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déan neamhaird ar aon ioncam nár glacadh san áireamh ar dtús</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Income not taken into account is €20 for each day worked up to a maximum of €60 (3 days)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ionann an t-ioncam nár glacadh san áireamh agus €20 in aghaidh gach lá a oibríodh suas le huasmhéid €60 (3 lá)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Then 60% of the balance is assessed as means</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar 60% den iarmhéid a mheasúnú mar acmhainn ansin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Average daily earnings - €20 = total</seg></tuv>
+  <tuv xml:lang="ga"><seg>Meántuilleamh laethúil - €20 = iomlán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Total x 60% = daily means from work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Iomlán x 60% = acmhainn laethúil ón obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>30 x 60% = €18</seg></tuv>
+  <tuv xml:lang="ga"><seg>30 x 60% = €18</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Finally, find John’s weekly means from work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ríomh acmhainn sheachtainiúil Sheáin ón obair ar deireadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Multiply his daily means by the number of days worked</seg></tuv>
+  <tuv xml:lang="ga"><seg>Iolraigh a acmhainn laethúil faoi líon na laethanta a oibríodh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Daily means from work x number of days worked = weekly means from work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Acmhainn laethúil ón obair x líon na laethanta a oibríodh = acmhainn sheachtainiúil ón obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>€18 x 2 = €36</seg></tuv>
+  <tuv xml:lang="ga"><seg>€18 x 2 = €36</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>John’s means are assessed as €36</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ríomhtar acmhainn Sheáin mar €36</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Joint means are halved if spouse, civil partner or cohabitant is:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar dhá leath den chomhacmhainn más rud é go mbíonn céile, páirtí sibhialta nó comhchónaitheoir:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Getting a social welfare payment (except Child Benefit, Early Childcare Supplement, Disablement Pension, a guardian's payment, Supplementary Welfare Allowance, Domiciliary Care Allowance or half-rate Carer's Allowance)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag fáil íocaíochta leasa shóisialaigh (seachas (Sochar Linbh, Forlíonadh Luathchúraim Leanaí, Pinsean Míthreorach, íocaíocht caomhnóra, Liúntas Leasa Forlíontach, Liúntas Cúraim Bhaile agus Liúntas Cúramóra leathráta)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• On a Further Education and Training (FET) course or on a VTOS course and getting an allowance in their own right</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag déanamh cúrsa SOLAS nó VTOS agus go bhfaigheann siad liúntas astu féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Mary’s means from work is €98 – see ‘Note 1’ above</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ionann acmhainn Mháire ón obair agus €98 – féach ‘Nóta 1’ thuas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>John’s means from work is €36 – see ‘Note 2’ above</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ionann acmhainn Sheáin ón obair agus €36 – féach ‘Nóta 2’ thuas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In Assessments 3 and 4 the couples combined means is halved because both are getting social welfare payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar dhá leath d’acmhainn iomlán na lánúine i Measúnuithe 3 agus 4 toisc go bhfaigheann an bheirt acu íocaíochtaí leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In Assessment 3 Mary is getting FIS and John is getting JA</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigheann Máire FIT agus Seán LCP i Measúnú 3</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In Assessment 4 Mary is getting JB and John is getting JA</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigheann Máire SCP agus Seán LCP i Measúnú 4</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As a result, Mary’s means is €49 and John’s means is €18 for Assessments 3 and 4</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ionann acmhainn Mháire dá thoradh sin agus €49, agus is ionann acmhainn Sheáin agus €18 do Mheasúnuithe 3 agus 4</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If one of a couple is claiming Jobseeker's Allowance and the other is getting of one of the social welfare payments listed below, the total amount paid to the couple cannot exceed the maximum amount paid to one person (including dependants) on one social welfare payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéanann duine amháin den lánúin éileamh ar Liúntas Cuardaitheora Poist agus faigheann an duine eile ceann de na híocaíochtaí leasa shóisialaigh a liostaítear thíos, ; ní féidir leis an méid iomlán a íoctar leis an lánúin an t-uasmhéid a íoctar le duine amháin (lena n-áirítear cleithiúnaigh) ar íocaíocht leasa shóisialaigh amháin a shárú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, you can choose the higher-rate payment as the primary payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat an íocaíocht ag ráta níos airde a roghnú mar an phríomhíocaíocht ámh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Disablement Pension (when paid with Illness Benefit or Incapacity Supplement)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Pinsean Míthreorach (nuair a íoctar le Sochar Breoiteachta nó le Forlíonadh Éagumais)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where the spouse, civil partner or cohabitant of a JA claimant is getting JB, the Department of Social Protection assesses the maximum payment based on the premise that the person is fully unemployed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás go bhfaigheann an céile, an páirtí sibhialta nó an comhchónaitheoir le héilitheoir LCP SCP, is í an Roinn Coimirce Sóisialaí a dhéanann measúnú ar an íocaíocht uasta bunaithe ar an mbonn go mbíonn an duine lán-dífhostaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means, if the claimant is getting a reduced JB (for example 2 days JB) because they are working, they will be assessed as though they are getting full-rate JB</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn sé sin má fhaigheann an t-éilitheoir SCP laghdaithe (mar shampla 2 lá SCP) toisc go mbíonn siad ag obair, is amhlaidh a dhéanfar measúnú orthu go bhfaigheann siad SCP lánráta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the case study above the maximum payment for the family is: Personal rate + IQA + IQC (full rate for 2 children) = maximum payment for the family</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ionann an íocaíocht uasta don teaghlach sa chás-staidéar thuas: Ráta pearsanta + MAC + MLC (lánráta do 2 leanaí) = íocaíocht uasta don teaghlach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In Assessment 4 of the case study, John’s JA payment and Mary’s JB payment combined are less than the maximum payment for the family, as a result, there is no change to John’s JA payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is lú comh-íocaíocht LCP Sheáin agus íocaíocht SCP Mháire i Measúnú 4 den chás-staidéar agus an íocaíocht uasta don teaghlach, agus is amhlaidh dá réir nach dtagann aon athrú ar íocaíocht LCP Sheáin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If Mary and John’s combined JA and JB payment was greater than the maximum payment for the family, John’s JA payment would be reduced by the difference</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dá mba mhó comh-íocaíocht LCP agus SCP Mháire agus Sheáin ná an íocaíocht uasta don teaghlach, b’amhlaidh a laghdófaí íocaíocht LCP Sheáin faoin difríocht</seg></tuv>
+</tu>
+</body>
+</tmx>

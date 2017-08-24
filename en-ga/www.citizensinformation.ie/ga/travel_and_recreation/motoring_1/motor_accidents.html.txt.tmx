@@ -1,0 +1,181 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>If you are involved in a motor accident, whether with another motor vehicle, another user of the road or with an object along the road, there are certain things you are required by law to do</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhíonn tú i mótarthimpiste, cibé le mótarfheithicil eile, úsáideoir eile an bhóthair nó le rud éigin ar an mbóthar, tá roinnt rudaí gur gá duit a dhéanamh de réir an dlí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are also things which it is advisable to do for safety reasons and to help reduce any possible financial loss to yourself</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá rudaí eile a mholtar duit a dhéanamh ar mhaithe le sábháilteacht agus chun aon chaillteanas airgeadais a d’fhéadfadh a bheith i gceist duit a laghdú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>What should I do if I am involved in a motor accident?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cad ba chóir dom a dhéanamh má bhaineann mótarthimpiste liom?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the accident is serious the cars should not be moved</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más timpiste thromchúiseach í níor chóir na carranna a bhogadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the accident is minor and the cars are blocking the road or are a danger to other road users, the road should be marked and the cars moved</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más timpiste bheag í agus má tá na carranna sa bhealach ar an mbóthar nó ina ndainséar d’úsáideoirí eile an bhóthair, ba chóir an bóthar a mharcáil agus na carranna a bhogadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Take care when moving damaged cars and be alert to the danger from leaking fuel</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bí cúramach agus carranna damáistithe á mbogadh agus bí aireach faoin mbaol ó bhreosla ag sileadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should try to warn oncoming traffic of the accident</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir duit iarracht a dhéanamh rabhadh a thabhairt don trácht i d’aghaidh faoin timpiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can warn them by using your hazard lights</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat do shoilse guaise a úsáid chun rabhadh a thabhairt dóibh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have a reflective advance-warning triangle, place it on the road far enough from the scene of the accident to give enough warning to approaching traffic</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá triantán réamhrabhaidh frithchaiteach agat, cuir ar an mbóthar é fada go leor ó láthair na timpiste chun rabhadh imleor a thabhairt don trácht atá ag teacht i d’aghaidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the accident happens near a bend in the road, make sure you give warning to traffic on both sides of the bend</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tharlaíonn an timpiste i ngar do chor sa bhóthar, déan deimhin de go dtugann tú rabhadh don trácht ag teacht ón dá thaobh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you need to ask for another road user’s help to warn traffic, do so right away</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más gá duit cabhair a iarraidh ó úsáideoir eile an bhóthair chun rabhadh a thabhairt do thrácht, déan láithreach é</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If someone is injured the Gardaí should be contacted (telephone 999 or 112) and, if necessary, ambulance services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá duine gortaithe ba chóir dul i dteagmháil leis na Gardaí (teileafón 999 nó 112), agus le seirbhísí otharchairr más gá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further information on what to do at the scene of an accident is available in the Rules of the Road (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh faisnéise faoi cad ba chóir a dhéanamh ag láthair timpiste le fáil i Rialacha an Bhóthair (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>What are my legal obligations?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cad iad m’oibleagáidí dlíthiúla?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your legal obligations, if you are involved in a motor accident, are contained in Section 106 of the Road Traffic Act 1961 as amended</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá d’oibleagáidí dlíthiúla, má tá tú i mótarthimpiste, le fáil in Alt 106 den Acht um Thrácht ar Bhóithre 1961 arna leasú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must stop your car and remain at the scene of the accident for a reasonable time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh tú do charr a stopadh agus fanacht ag láthair na timpiste ar feadh achar réasúnta ama</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a Garda is present at the scene of the accident you must give, when requested:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá Garda ag láthair na timpiste ní mór duit an méid seo a leanas a sholáthar, nuair a iarrtar ort:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Your name and address</seg></tuv>
+  <tuv xml:lang="ga"><seg>• D'ainm agus do sheoladh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The address where your car is kept</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An seoladh ag a gcoimeádann tú do charr</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The name and address of the car owner</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ainm agus seoladh úinéir an chairr</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Motor insurance details (including expiry date of the policy)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sonraí an árachais ghluaisteán (lena n-áirítear dáta éaga an pholasaí)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If there is no Garda present you must, when requested, give this information to:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil Garda i láthair ní mór duit, nuair a iarrtar ort, an fhaisnéise seo a thabhairt do:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The injured person where a person has been injured (or someone asking on the person’s behalf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An duine gortaithe má gortaíodh duine (nó duine atá á hiarraidh ar son an duine gortaithe)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• To the owner where property has been damaged (or someone asking on the owner’s behalf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Úinéir na maoine a rinneadh damáiste di, má tharla a leithéid (nó duine atá á hiarraidh ar son an úinéara)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If none of these are present the information should be given to some independent person who was present when the accident occurred</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil aon duine díobh siúd i láthair ba chóir an fhaisnéis a thabhairt do dhuine neamhspleách a bhí ann nuair a tharla an timpiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If there is no Garda present, the accident must be reported as soon as possible to a Garda who is nearby or at a Garda station</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil Garda ann, caithfear an timpiste a thuairisciú do Garda atá i ngar don áit nó ag stáisiún Gardaí áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This can be done by the persons, if any, to whom you gave the information</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis an duine/na daoine ar thug tú an fhaisnéis dóibh é seo a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If they are not in a position to do so, you must report the accident</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil siad in ann é a dhéanamh, caithfidh tú féin an timpiste a thuairisciú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>What other steps should I take?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cad eile ba chóir dom a dhéanamh?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should obtain the information listed above from the other drivers involved in the accident</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir duit an fhaisnéis atá liostaithe thuas a fháil ó na tiománaithe eile a bhí sa timpiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the accident involves damage to property get the owner’s name, address and telephone number</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá damáiste déanta do mhaoin de bharr na timpiste faigh ainm, seoladh agus uimhir theileafóin an úinéara</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Get the names, addresses and telephone numbers of any witnesses as these may be required if there is a question of liability</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigh ainmneacha, seoltaí agus uimhreacha teileafóin aon fhinnéithe mar d’fhéadfadh siad sin a bheith ag teastáil má bhíonn ceist ann faoi dhliteanas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These should include photos of the cars before they are moved</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tóg grianghraif de láthair na timpiste má tá ceamara agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may need to ensure that a Garda report has been filed for insurance purposes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir grianghraif a thógáil de na carranna sula mbogtar iad freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should write down an account of all relevant facts connected to the accident as soon as possible afterwards</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir duit ainm agus uimhir an Gharda a dtuairiscítear an timpiste dó/di a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should sign and date it (including the time) when it is completed</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh a bheith ort a chinntiú go ndéantar tuarascáil ó Gharda a chomhdú ar mhaithe le cúrsaí árachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you wish to claim compensation where you are involved in an accident with an uninsured or unidentified car you should contact the Motor Insurer's Bureau of Ireland (MIBI)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir duit cuntas a scríobh ar na fíricí ábhartha go léir a bhaineann leis an timpiste chomh luath agus is féidir ina dhiaidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It also deals with claims arising from foreign motoring in Ireland or Irish motorists abroad</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir duit é a shíniú agus a dhátú (agus an t-am a chur air) nuair atá sé críochnaithe agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When a serious road traffic collision occurs, causing a serious or fatal injury, there will be an investigation by the Gardaí and possibly the coroner</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a tharlaíonn imbhualadh tráchta tromchúiseach ar bhóithre, is cúis le díobháil thromchúiseach nó mharfach, beidh imscrúdú ag na Gardaí agus b'fhéidir an cróinéir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It may involve an inquest and even a criminal prosecution</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh go mbeadh coiste cróinéara agus fiú le hionchúiseamh coiriúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>PARC Road Safety Group has published Finding your way (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhoilsigh PARC an Grúpa um Shábháilteacht ar Bhóithre leabhrán Ag Lorg do bhealach a dhéanamh (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is a guide for victims where the driver under suspicion of having caused a fatal or serious injury collision has survived and a criminal prosecution may follow</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is treoir d'íospartaigh ina bhfuil an tiománaí faoi dhrochamhras go ndearna sé de bharr imbhualadh gortú marfach nó tromchúiseach slán agus is féidir ionchúiseamh coiriúil a leanúint</seg></tuv>
+</tu>
+</body>
+</tmx>

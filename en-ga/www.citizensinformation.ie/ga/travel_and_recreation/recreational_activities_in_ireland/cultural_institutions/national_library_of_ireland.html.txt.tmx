@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>National Library of Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leabharlann Náisiúnta na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The National Library of Ireland, which was established in 1877, houses the country's collection of literary and illustrative works of Irish interest</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is i Leabharlann Náisiúnta na hÉireann, a bunaíodh in 1877, atá bailiúchán na tíre de shaothair liteartha agus léirithe is díol spéise Éireannaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The aim of the Library is to collect, conserve, and present these works, which include collections of printed books, periodicals, manuscripts, prints and drawings, photographs and maps</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is í aidhm na Leabharlainne na saothair seo a bhailiú, a chaomhnú agus a chur i láthair, lena n-áirítear bailiúcháin de leabhair chlóbhuailte, tréimhseacháin, lámhscríbhinní, priontaí agus tarraingtí, grianghraif agus léarscáileanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Library's collections of books, manuscripts, prints and drawings, maps, photographs, newspapers, music, ephemera and genealogical material comprises the most comprehensive collection of Irish documentary material in the world</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an bailiúchán de leabhair chlóbhuailte, lámhscríbhinní, priontaí agus tarraingtí, grianghraif agus léarscáileanna, nuachtáin, ceol, ábhar gearrshaolach agus seanchais an bailiúchán is cuimsithí de cháipéisí Éireannacha ar domhan</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>From its foundation, the Library has endeavored to collect all material of Irish interest or Irish origin published through the ages and throughout the world</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó bunaíodh í, tá an Leabharlann meáite ar an uile ábhar is díol spéise Éireannaí nó de bhunadh na hÉireann a foilsíodh i rith na n-aoiseanna agus ar fud an domhain a bhailiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is a legal deposit library of all works published in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leabharlann taisce dlithiúla atá inti den uile shaothar a foilsíodh in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Genealogical Office, the Office of the Chief Herald in Kildare Street, and the National Photographic Archive in Temple Bar are all part of the National Library</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuid den Leabharlann Náisiúnta iad an Oifig Ginealais, Oifig Phríomh-Aralt na hÉireann i Sráid Chill Dara, mar aon leis an gCartlann Náisiúnta Ghrianghrafadóireachta i mBarra an Teampaill</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Library does not lend books and reading is done in the various reading rooms</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní thugann an Leabharlann leabhair ar iasacht agus déantar na leabhair a léamh sna seomraí éagsúla léimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It's printed collections include:</seg></tuv>
+  <tuv xml:lang="ga"><seg>I measc a bailiúcháin chlóbhuailte tá:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Manuscripts collection contains a large and varied collection of manuscripts, of which the main components are Gaelic manuscripts, landed estate archives, maps, political material, and literary papers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá bailiúchán mór agus éagsúil de lamhscríbhinní sa bhailiúchán lámhscríbhinní agus is lámhscríbhinní na Gaeilge, cartlanna um eastáit talún, léarscáileanna, ábhar polaitiúil, agus páipéir liteartha den fhormhór atá ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Manuscripts Reading Room is at 2/3 Kildare Street</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Seomra Léimh na Lámhscríbhinní lonnaithe ag 2/3 Sráid Chill Dara</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Its visual collections consist of:</seg></tuv>
+  <tuv xml:lang="ga"><seg>I measc a bhailiúchán amhairc tá:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Library also makes resources digitally available</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, cuireann an Leabharlann fáil dhigiteach ar acmhainní</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Library's Genealogy Service is designed to assist all of those who wish to research their family history in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Seirbhís Ginealais na Leabharlainne in ainm is cabhrú leo siúd uile ar mian leo taighde a dhéanamh ar stair a dteaghlaigh in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Service is freely available to all personal callers to the Library</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an tSeirbhís ar fáil go neamhshrianta don uile dhuine a bhuaileann isteach chuig an Leabharlann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For first time researchers the Genealogy Service is an ideal starting point, allowing them the opportunity to discuss their research with experienced genealogists and Library staff, ready access to important finding aids and useful information panels</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás taighdeoirí céaduaire, pointe iontach tosaithe is í an tSeirbhís Ginealais, áit a ligeann dóibh plé a dhéanamh ar a dtaighde le gineolaithe ag a bhfuil taithí fhairsing agus le foireann na Leabharlainne, mar aon le rochtain gan stró ar áiseanna tábhachtacha cuardaigh agus ar phainéil úsáideacha faisnéise</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>More experienced family historians are also welcome to avail of the Service as, from time to time, they may need assistance with on-going research</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, cuirtear fáilte roimh staraithe teaghlaigh ag a bhfuil taithí níos fairsinge le leas a bhaint as an tSeirbhís, ó thráth go tráth, de bharr go dtarlódh go dteastódh cúnamh uathu le taighde atá ar bun acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Office of the Chief Herald of Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Oifig Phríomh-Aralt na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Chief Herald of Ireland is the State authority on heraldic matters</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é Príomh-Aralt na hÉireann an t-údarás Stáit a phléann le hábhair araltais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The functions of the office are the granting and confirming of coats of arms to individuals and corporate bodies</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad feidhmeanna na hoifige deonú agus deimhniú armas do dhaoine agus do chomhlachtaí corparáideacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All arms granted are recorded in the Register of Arms which can be viewed by application through the Manuscripts Reading Room of the National Library</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar an uile armas a chur i dtaifead sa Chlár Armas, ar féidir é a fheiceáil ar iarratas trí Sheomra Léimh Lámhscríbhinní na Leabharlainne Náisiúnta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A copying service is offered by the Library</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann an Leabharlann seirbhís cóipeála ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are also a range of self-service copying facilities available to readers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa mhullach air sin, tá fáil ar réimse d’áiseanna cóipeála féinfhreastail do léitheoirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The National Library mounts exhibitions of material from its collections</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann an Leabharlann Náisiúnta taispeántais ábhar óna bailiúcháin ar taispeáint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It also has a number of travelling exhibitions available for loan</seg></tuv>
+  <tuv xml:lang="ga"><seg>Anuas air sin, tá aici líon taispeántais taistil ar a bhfuil fáil ar iasacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Information on current exhibitions is available on it's website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá faisnéis faoi thaispeántais reatha ar fáil ar láithreán gréasáin na Leabharlainne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Library hosts a wide variety of events including public lectures, poetry and music recitals, theatre, children's storytelling and creative workshops</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann an Leabharlann réimse fairsing imeachtaí ar bun, lena n-áirítear léachtanna, ceadail filíochta agus cheoil, amharclannaíochta, seanchas do leanaí agus ceardlanna cruthaitheacha poiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>More information on events is available here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá fáil ar thuilleadh faisnéise faoi imeachtaí anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The National Photographic Archive is located in Meeting House Square in Temple Bar</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an Chartlann Náisiúnta Ghriangrafadóireachta lonnaithe i gCearnóg Theach an Tionóil i mBarra an Teampaill</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It houses a regular programme of exhibitions based on the Library’s photographic collections</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sa Chartlann clár rialta de thaispeántais atá bunaithe ar bhailiúcháin ghriangrafadóireachta na Leabharlainne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The National Library provides a number of tours of the library each week</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann an Leabharlann Náisiúnta líon tuaras den Leabharlann ar fáil gach seachtain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>No booking is required</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní gá rud ar bith a chur in áirithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Main Reading Room and the Manuscripts Reading Room are open from:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an Príomhsheomra Léimh agus Seomra Léimh na Lámhscríbhinní ar oscailt:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• 9.30 am to 7.45 pm, Monday to Wednesday</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Idir 9.30r.n. agus 7.45i.n., ó Luan go Céadaoin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• 9.30 am to 12.45 pm on Saturday</seg></tuv>
+  <tuv xml:lang="ga"><seg>agus 4.45i.n., ó Dhéardaoin go hAoine • 9.30r.n</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further information on opening hours is available here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh faisnéise faoi uaireanta oscailte ar fáil anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will need to present a Reader's Ticket to access all collections in the Library, with the exception of the Newspaper Section, which offers a one-day pass</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh ort Ticéad Léitheora a thaispeáint le rochtain a fháil ar an uile bhailiúchán sa Leabharlann, seachas an Rannóg Nuachtán, a chuireann pas aon lae ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Admission to the Library and the National Photographic Archive is free</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá cead isteach chuig an Leabharlann agus chuig an gCartlann Náisiúnta Ghrianghrafadóireachta saor in aisce</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Admission to the Library's exhibitions is free</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá cead isteach chuig taispeántais na Leabharlainne saor in aisce</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Information on the cost of copying services is available here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá fáil ar fhaisnéis faoi chostas seirbhísí cóipeála ar fáil anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can apply for a Reader's Ticket in the Main Reading Room</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat iarratas a chur isteach ar Thicéad Léitheora sa Phríomhsheomra Léimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will need to bring with you some current photographic identification</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh gá duit aitheantas reatha griangraif a thabhairt leat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Find out more about Reader's Tickets here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigh amach níos mó faisnéise faoi Thicéid Léitheora anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The National Library can make photocopies, printouts, digital images and prints of items in its Collection</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis an Leabharlann Náisiúnta fotachóipeanna, asphriontálacha, íomhánna digiteacha agus priontálacha a dhéanamh d’earraí atá ina Bailiúchán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Find out more about ordering copies here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigh amach níos mó faisnéise faoi chóipeanna a ordú anseo</seg></tuv>
+</tu>
+</body>
+</tmx>

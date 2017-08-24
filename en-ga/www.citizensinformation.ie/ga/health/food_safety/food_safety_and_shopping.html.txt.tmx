@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Food safety and shopping</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sábháilteacht bia agus siopadóireachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Food Safety Authority of Ireland has issued some important advice for consumers when shopping</seg></tuv>
+  <tuv xml:lang="ga"><seg>Thug an tÚdarás Éireannaigh um Shábháilteacht Bia comhairle tábhachtach do thomaltóirí maidir le siopadóireacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When shopping for food, there are a number of things you should look out for</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair atá tú ag siopadóireacht le haghaidh bia, tá cúpla rud ar cheart duit breathnú amach dóibh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Food from butchers or shop assistants if raw food and cooked food are not separated in the display counter</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bia ó fhreastalaithe buistéara nó siopa muna bhfuil bia amh agus bia a bhfuil cócaireacht déanta air scarrtha amach óna chéile sa chuntar taispeána</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Similarly, you should not buy food items if the server handles raw meat or poultry and then handles cooked food using the same utensil or without washing their hands</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar a chéile níor cheart duit bia a cheannacht má tá an freastálaí ag láimhsiú feola amh nó éanlaithe agus ansin má láimhsíonn sé/sí bia a bhfuil cócaireacht déanta air ag baint úsáide as an uirlis chéanna nó muna níonn sé/sí a c(h)uid lámha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Dairy products and other chilled or frozen food that is left out of fridges</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Táirgí déiríochta nó reoite atá fágtha amuigh as an gcuisneoir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Swollen chilled food packages and cans</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Pacáistí agus cannaí bia fuar atá ataithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Leaking cartons, cans, bottles or containers</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cartáin, cannaí, buidéil nó soithigh atá ag sileadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Food products with broken or imperfect safety seals</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tairgí bia le séala sábháilteachta atá briste nó lochtach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Products with moulds, discolouration or infestation</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tairgí le caonach liath, atá ag tréigeán datha nó truaillithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Products in vacuum packs, e.g. rashers and other meat products, where the pack is not tightly sealed around the food</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tairgí i bpacáistí folúis, mar shampla, slisíní bagúin agus tairgí feola eile, muna bhfuil séal daingean timpeall ar an bhia</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Salads should be displayed in a chilled dispenser unit to keep them fresh and each salad should have its own utensil</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart sailéid a chur ar taispeáint in aonad dáileora fionnuar le iad a choinneáil úr agus ba cheart go mbeadh uirlis ar leith le haghaidh gach sailéad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Always use a container from the dispenser or stack of containers provided</seg></tuv>
+  <tuv xml:lang="ga"><seg>Úsáid soiteach ón dáileoir i gcónaí nó ceann atá curtha ar fáil duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Never touch the food with your hands and do not sneeze or cough near the food</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ná bí ag láimhsiú an bhia le do chuid lámha agus ná bí ag ligeáint sraoth nó ag casachtaí timpeall ar an bhia</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you see anyone mis-handling the food, report it to a member of staff</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fheiceann tú éinne ag baint mí-úsáide as an bhia, cuir duine den fhoireann ar an eolas faoi</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In addition, you should follow the supermarket's instructions carefully</seg></tuv>
+  <tuv xml:lang="ga"><seg>Freisin, ba cheart duit treoracha an ollmhargaidh a leanacht go cúramach i gcónaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>"Best before"/"Use by" dates</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dátaí "B'fhearr roimh"/"An dáta faoinar cheart é a úsáid"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should always check best before and use by dates on food, especially food with a short shelf life such as dairy products</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart duit seic a dhéanamh i gcónaí ar dhátaí b'fhearr roimh agus an dáta faoinar ceart bia a úsáid, go háirithe má tá fad saoil ghearr ag bia ar nós tairgí déiríochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The best before date is the date until which the food keeps its best properties, if stored properly</seg></tuv>
+  <tuv xml:lang="ga"><seg>'Séard atá i gceist leis an "dáta b'fhearr roimh" ná go bhfuil na tréithe is fearr ag an mbia sin roimh an dáta seo, sé sin má tá sé storáilte i gceart</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The use by date is a warning that the food should no longer be consumed or sold once the date mentioned is passed</seg></tuv>
+  <tuv xml:lang="ga"><seg>'Séard atá i gceist leis an "dáta faoinar ceart bia a úsáid" ná rabhadh atá ann nár ceart bia a ithe ná a dhíol i ndiaidh an dáta seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should always choose refrigerated and frozen products such as meat, dairy products, deli products, ice cream and frozen meals towards the end of your shopping trip and keep them separated from hot food</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair atá tú ag siopadóireacht ná roghnaigh bia fuar nó bia reoite ar nós feoil, tairgí déiríochta, tairgí deilí, uachtar reoite nó bia reoite go dtí deireadh an turais siopadóireachta agus coinnigh scarrtha iad ó bhia té</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will not be subject to the Plastic Bag Environmental Levy if you use a smaller plastic bag to store meat, fish and poultry products, regardless of whether they are packaged or unpackaged</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bheidh Cáin Timpeallachta ar Mhálaí Plaisteacha le n-íoc agat má úsáideann tú málaí plaisteacha beaga le haghaidh tairgí feola, éisc agus éanlaithe, is cuma má tá siad i bpacáiste nó nach bhfuil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In addition, you will not be subject to the levy if you use plastic bags to store non-packaged food like dairy products, fruit, vegetables, nuts, confectionery, hot and cold cooked food and ice</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa bhreis ar sin, ní bheidh an cháin gearrtha ort má úsáideann tú málaí plaisteacha le haghaidh bia nach bhfuil pacáiste air ar nós tairgí déiríochta, torthaí, glasraí, cnónna, milseogra, bia fuar, bia a bhfuil cócaireacht déanta air agus oighear</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should avoid overloading your trolley as you may damage packaging</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déan cinnte nach gcuireann tú an-iomarca sa trucail mar is féidir leat an pacáiste atá ar bhia a bhriseadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Never leave your groceries in a warm car as germs multiply in warm temperatures</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ná fág do chuid earraí grósaera ariamh i gcarr té mar is féidir le frídíní méadú le teocht té</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are travelling a long distance, place your chilled and frozen products into a cool bag or box for the journey home - these can be purchased from many supermarkets</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá turas fada agat, cuir do chuid tairgí fuar nó reoite i mála fionnuar nó bosca fionnuar go dtí go bhfaighidh tú abhaile - is féidir iad seo a cheannacht i go leor ollmhargaidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Storing food at home</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag storáil bia sa bhaile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you get home, immediately pack chilled and frozen products into the fridge or freezer</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a sroicheann tú an baile, cuir na táirgí fuara nó reoite isteach sa chuisneoir nó reoiteoir láithreach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Check the condition of frozen products and do not re-freeze them if they have thawed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Breathnaigh ar na tairgí reoite agus ná déan athreo orthu má tá siad leáite</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should make sure your fridge temperature is below 4°C</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déan cinnte go bhfuil teocht an chuisneora faoi bhun 4°C</seg></tuv>
+</tu>
+</body>
+</tmx>

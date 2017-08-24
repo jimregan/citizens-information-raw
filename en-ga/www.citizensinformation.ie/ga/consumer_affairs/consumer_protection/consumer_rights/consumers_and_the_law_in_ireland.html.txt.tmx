@@ -1,0 +1,401 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Your rights as a consumer in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cearta Tomhaltóirí in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The following information is an overview of consumer law in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is achoimre í an méid seo a leanas ar dhlí na dtomhaltóirí in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It sets out basic rules when you buy goods and services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagann sí amach na bunrialacha nuair a cheannaíonn tú earraí agus seirbhísí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are also links to more detailed information explaining your rights in specific situations</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá naisc ann freisin chuig eolas níos mionsonraithe a mhíníonn do chearta i gcúinsí faoi leith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In Ireland, the rights of consumers of goods and services are protected by Irish and EU laws</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad dlíthe na hÉireann agus an AE a thugann cosaint do chearta thomhaltóirí earraí agus seirbhísí in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Consumer law aims to ensure that consumers have enough information about prices and quality of products and services to make suitable choices on what to buy</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn an aidhm ag dlí na dtomhaltóirí freisin chun a chinntiú go mbíonn earraí sábháilte agus déanta chuig caighdeán inghlactha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Consumer law also aims to ensure that goods are safe and are manufactured to an acceptable standard</seg></tuv>
+  <tuv xml:lang="ga"><seg>Míníonn an méid a leanas céard is tomhaltóir agus céard is conradh ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Consumer law only takes effect in certain situations and depends on what the contract is between the consumer and the provider of the items or services in question</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní théann dlí na dtomhaltóirí i bhfeidhm ach i gcúinsí áirithe agus braitheann sé ar an gcineál conartha a bhíonn idir an tomhaltóir agus soláthraí na míreanna nó na seirbhísí i gceist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The following explains who is a consumer and what is a contract</seg></tuv>
+  <tuv xml:lang="ga"><seg>Míníonn an méid seo a leanas an té is tomhaltóir ann agus an ní is conradh ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Who is a consumer?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Céard is tomhaltóir ann?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Generally speaking a consumer is defined in Irish law as a natural person who buys goods or a service for personal use or consumption from someone whose business it is to sell goods or provide services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sainmhínítear an tomhaltóir go ginearálta i ndlí na hÉireann mar dhuine nádúrtha a cheannaíonn earraí nó seirbhís lena leas go pearsanta nó lena dtomhailt ó dhuine éigin arb é a ngnó é earraí a dhíol nó seirbhísí a sholáthar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>By law, you are not a consumer if you:</seg></tuv>
+  <tuv xml:lang="ga"><seg>De réir an dlí, ní tomhaltóir tú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Receive goods as a gift</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má fhaigheann tú earraí i bhfoirm bronntanais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Buy goods for commercial purposes (i.e</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má cheannaíonn tú earraí ar mhaithe le cúiseanna tráchtála (.i</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>you will be using the goods for commercial and not private use)</seg></tuv>
+  <tuv xml:lang="ga"><seg>beidh tú ag úsáid na n-earraí ar bhonn tráchtála agus gan ar bhonn príobháideach)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Buy goods for private use that are normally used for business purposes</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má cheannaíonn tú earraí do do leas príobháideach féin a úsáidtear in earnáil an ghnó de ghnáth</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Buy goods from an individual who is not in business (i.e</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má cheannaíonn tú earraí ó dhuine aonair nach bhfuil i mbun gnó (.i</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>you buy a car from an individual whose normal business is not selling cars)</seg></tuv>
+  <tuv xml:lang="ga"><seg>ceannaíonn tú carr ó dhuine aonair nach é a ngnáthghnó é cairr a dhíol)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>What is a contract?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Céard is conradh ann?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A contract is a formal agreement between two or more people that is enforceable by law</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is comhaontú foirmiúil idir beirt nó níos mó daoine é conradh ar infheidhmithe faoin dlí é</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you buy goods or services you enter into a contract with the seller</seg></tuv>
+  <tuv xml:lang="ga"><seg>Iontrálann tú i gconradh leis an díoltóir nuair a cheannaíonn tú earraí nó seirbhísí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Contracts are made up of terms; some of which can be implied terms</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is téarmaí atá i mbunús na gconarthaí, ar féidir le roinnt acu a bheith ina dtéarmaí intuigthe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Contracts may be written or oral</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadann conarthaí a bheith i bhfoirm scríofa nó i bhfoirm béil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is easier to know what the terms are in a written contract but an oral contract is also enforceable in law</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is fusa a bheith feasach faoi théarmaí conartha scríofa ach is infheidhmithe sa dlí freisin é an conradh béil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Contracts may differ in many ways and there are no hard and fast rules governing what terms should be in a consumer contract</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadann go leor éagsúlachtaí a bheith idir conarthaí agus ní bhíonn aon rialacha dochta daingne ann a rialaíonn na téarmaí ar ceart a bheith i gconradh tomhaltóireachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Terms in consumer contracts must always be fair and clear to the consumer</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní foláir do théarmaí i gconarthaí tomhaltóirí a bheith cothrom agus soiléir don tomhaltóir i gcónaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The following general rules apply to consumer contracts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Feidhmíonn na rialacha ginearálta seo a leanas do chonarthaí tomhaltóirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Consumer contracts are protected by the Sale of Goods and Supply of Services Act, 1980</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an tAcht um Dhíol Earraí agus Soláthar Seirbhísí, 1980 a thugann cosaint do chonarthaí tomhaltóirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under this Act the purchaser of goods has a number of rights - the main ones are</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoin Acht seo bíonn roinnt ceart ag ceannaitheoir earraí - is iad seo na príomhchinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Goods must be of merchantable quality – goods should be of reasonable quality taking into account what they are meant to do, their durability and their price</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní foláir go mbeadh na hearraí de cháilíocht indíolta – caighdeán réasúnach a bheith ag earraí ag cur a bhfeidhmeanna, a marthanacht agus a luach san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Goods must be fit for their purpose – they must do what they are reasonably expected to do</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní mór go mb’inniúil dá gcuspóir iad na hearraí – caitheann siad feidhmiú mar a mbítear ag dúil go réasúnta uathu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Goods must be as described - the buyer must not be mislead into buying something by the description of goods or services given orally by a salesperson or an advertisement</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní foláir go mbeadh na hearraí díreach mar a thuairiscítear iad – níor cheart go gcuirfí míchomhairle ar an gceannaitheoir chun ní éigin a cheannach trí thuairisc na n-earraí ná na seirbhísí a thugtar ar an mbéal beo ag díoltóir nó i bhfógra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you buy goods in a sale you have the same rights as when you pay full price for the goods</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a cheannaíonn tú earraí i ndíolachán bíonn na cearta céanna agat agus nuair a íocann tú an lánphraghas as na hearraí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have a contract with a supplier of services you can expect that:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhíonn conradh agat le soláthraí seirbhísí, féadfaidh tú a bheith ag dúil le:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The supplier has the necessary skill to provide the service</seg></tuv>
+  <tuv xml:lang="ga"><seg>• go mbíonn dóthain oilteachta ag an soláthraí chun an tseirbhís a sholáthar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The service will be provided with proper care and diligence</seg></tuv>
+  <tuv xml:lang="ga"><seg>• go soláthrófaí an tseirbhís le cúram agus le díograis chuí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can read more about your rights when you buy a service here</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní foláir go mbeadh na hearraí a úsáidtear de cháilíocht indíolta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have a problem with an item that you have bought it is always the seller who should put things right</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má thiteann rudaí sa bhfraoch, is é an díoltóir i gcónaí ar cheart cúrsaí a dheasú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As a general rule, the seller can either repair or replace the item</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar riail ghinearálta, féadann an díoltóir an mhír a dheisiú nó a ionadú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Alternatively, they can refund the costs of the item or service to the consumer</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadann siad costais na míre nó na seirbhíse don tomhaltóir a aisíoc mar mhalairt pholasaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are not satisfied with the quality of goods or services you can:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura mbíonn tú sásta le caighdeán na n-earraí ná na seirbhísí is féidir leat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Return the goods to the supplier who sold it to you (you should not return the goods to the manufacturer)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Na hearraí a chur ar ais chuig an soláthraí a dhíol leat iad (níor chóir duit na hearraí a sheoladh ar ais chuig an déantúsóir)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Act as soon as you can – a delay can indicate that you have accepted faulty goods or services</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Glac gníomh chomh luath agus is féidir leat – féadann moill a chur in iúl gur ghlac tú le hearraí nó le seirbhísí lochtacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Do not attempt to repair the item yourself or give it to anyone else to repair it</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ná déan iarracht an mhír a dheisiú tú féin ná ná tabhair do dhuine ar bith eile í lena deisiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Make sure that you have a proof of purchase (a receipt, cheque stub, credit card statement or invoice)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Déan cinnte de go mbíonn cruthúnas ceannaigh agat (admháil, comhdhuille seice, ráiteas chárta creidmheasa nó sonrasc)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You have no grounds for redress if</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhíonn aon fhorais sásaimh agat más rud é</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You were told about the defect before you bought the item (for example, if the goods were marked 'shopsoiled')</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gur scrúdaigh tú an mhír sular cheannaigh tú í agus gur cheart go dtabharfá an locht faoi deara</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You examined the item before you bought it and should have seen the defect</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gur cheannaigh tú an mhír agus a fhios agat nárbh inniúil í don fheidhm a bhí ceaptha agat di</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You bought the item knowing that it wasn’t fit for what you wanted it to do</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gur bhris tú nó go ndearna tú dochar don táirge</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You broke or damaged the product</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Go ndearna tú dearmad i gceannach na míre (m.sh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You made a mistake when buying the item (for example, if you bought an item of clothing thinking it was black when it is actually navy)</seg></tuv>
+  <tuv xml:lang="ga"><seg>má cheannaigh tú mír éadaigh agus tú ag smaoineamh gur dhubh a dath agus í a bheith dúghorm go hiarbhír)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You change your mind</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Go n-athraíonn tú d’intinnse</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Retailers are not obliged to give refunds or credit notes under the above circumstances even if you show proof of purchase</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhíonn iallach ar mhiondíoltóirí aisíocaíochtaí ná nótaí sochair a thabhairt sna cúinsí thuas fiú má thaispeánann tú cruthúnas ceannaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is important to note that there are no hard and fast rules as to which remedy you should be entitled to</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé tábhachtach go dtabharfaí faoi deara nach mbíonn aon rialacha dochta daingne ann faoin réiteach áirithe ar chóir duit a bheith i dteideal dó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When seeking redress for problems with goods or services the circumstances of each individual case must be taken into account</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a bhítear ag lorg sásaimh d’fhadhbanna le hearraí nó le seirbhísí, ní mór cúinsí gach cás ar leith a thabhairt san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further information on your rights when goods are faulty is available on consumerhelp.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh eolais faoi do chearta nuair a beidh earraí lochtacha ar fáil ar consumerhelp.ie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are not satisfied with the seller's response you may be able to take a claim to the Small Claims Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil tú sásta le freagairt an díoltóra le freagairt an díoltóra‚ d’fhéadfá bheith i dteideal éileamh a thabhairt a fhad leis an gCúirt Mionéileamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you made your purchase using your debit or credit card you may be able to get your bank or credit card company to reverse the transaction</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má rinne tú do cheannach agus leas á bhaint as do chárta dochair nó creidmheasa‚ d’fhéadfá bheith in ann iarraidh ar do bhanc nó do chuideachta chárta creidmheasa an idirbheartaíocht a aisiompú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is called a chargeback</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar aisghearradh air seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should contact your card provider as soon as possible</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart duit dul i dteagmháil le do sholáthraí cárta a luaithe is féidir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Give them details of the transaction you are disputing and request that they follow it up</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabhair dóibh sonraí na hidirbheartaíochta atá ina ábhar díospóide agus iarr orthu í a fhiosrú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most card schemes offer full chargeback rights to consumers, but with some debit cards schemes you cannot use the chargeback facility if you did not receive the goods</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann tromlach na scéimeanna cárta aisghearradh iomlán ar fáil do thomhaltóirí, ach i roinnt scéimeanna cártaí dochair, ní féidir leat áis an aisghearrtha a úsáid mura bhfuair tú na hearraí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further information on chargeback is available on the Competition and Consumer Protection Commission's website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá breis faisnéise ar fáil aisghearradh ar láithreán gréasáin na Gníomhaireachta Náisiúnta do Thomhaltóirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Competition and Consumer Protection Commission</seg></tuv>
+  <tuv xml:lang="ga"><seg>An Coimisiún um Iomaíocht agus Cosaint Tomhaltóirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Competition and Consumer Protection Commission (CCPC) is the statutory office with responsibility for providing advice and information to consumers on their rights</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad an Coimisiún um Iomaíocht agus Cosaint Tomhaltóirí (CCPC) an oifig reachtúil ar a bhfuil an fhreagracht as an gcomhairle agus an fhaisnéis a chur ar fáil do thomhaltóirí ar a gcuid ceart</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In addition, the CCPC is responsible for the enforcement of a wide range of consumer protection laws</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa mhullach air sin, tá an CCPC freagrach as réimse leathan de dhlíthe um chosaint tomhaltóirí a fhorfheidhmiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The CCPC does not intervene or become involved in individual issues or disputes between consumers and sellers of goods or services providers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní dhéanann an CCPC idirghábháil agus ní bhíonn siad páirteach i saincheisteanna nó disputes aonair idir tomhaltóirí agus díoltóirí earraí nó soláthraithe seirbhísí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The CCPC can, however, advise you if you have a particular consumer problem</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh an CCPC, áfach, comhairle a chur ort má bhíonn fadhb ar leith thomhaltóra agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A deposit is a payment made to a supplier of a product or a service by a consumer which indicates an intention to buy a product or a service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is íocaíocht í éarlais a dhéantar chuig soláthraí táirge nó seirbhíse ag tomhaltóir a thugann mian le fios chun táirge a cheannach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The amount of the deposit and the timing of payment of the balance are a matter between the consumer and the supplier</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ábhar idir an tomhaltóir agus an soláthraí é méid na héarlaise agus uainiú íocaíocht an fhuílligh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you pay a deposit for goods a contract is created between you as a consumer, and the supplier of the product or service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cruthaítear conradh idir tusa mar thomhaltóir agus an soláthraí mar sholáthraí an táirge nó na seirhbíse nuair a íocann tú éarlais d’earraí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should be clear at the time of paying a deposit what your obligations are (e.g</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir go mba shoiléir duit ag tráth íoctha na héarlaise faoi d’iallach ann (m.sh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>when you need to pay the balance, how much each payment is etc)</seg></tuv>
+  <tuv xml:lang="ga"><seg>cathain a chaitheann tú an fuílleach a íoc, cé mhéad a bheidh i ngach aon íocaíocht srl.)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should also be clear about the duties of the supplier (e.g</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart go mba shoiléir duit freisin faoi dhualgais an tsoláthraí (m.sh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>when the product will be available)</seg></tuv>
+  <tuv xml:lang="ga"><seg>cathain a bheidh an táirge ar fáil)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is always easier to know what your rights and responsibilities are if you have details of the contract in writing, however, a verbal contract is also enforceable</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is éasca i gcónaí fios do chearta agus d’fhreagrachtaí a bheith agat má bhíonn mionsonraí an chonartha i scríbhinn agat; bíonn conradh béil infheidhmithe freisin ámh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the supplier does not adhere to the terms of the contract (e.g</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura gcloíonn an soláthraí le téarmaí an chonartha (m.sh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>delivery of a product takes significantly longer than stated) you may have a right to ask for your deposit to be returned</seg></tuv>
+  <tuv xml:lang="ga"><seg>seachadadh tárige ag glacadh i bhfad níos faide ná mar a maíodh) b'fhéidir go mbeadh ceart agat chun d'éarlais a fháil ar ais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you pay a deposit to a supplier who, in return, holds an article for you and you change your mind about paying the balance the supplier may not in all these circumstances be obliged to return your deposit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má íocann tú éarlais chuig soláthraí a choinníonn seilbh ar earra mar chúiteamh duit agus go n-athraíonn tú d'intinn faoi íoc an fhuílligh, d’fhéadfadh sé nach mbeadh ar an soláthraí i ngach aon cheann de na himthosca seo d’éarlais a thabhairt ar ais chugat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the seller goes out of business before goods are delivered</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má éagann gnó an díoltóra sula seachadtar earraí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you buy goods (or pay a deposit on them) and the seller goes out of business before they are delivered, you may have considerable difficulty in getting either the goods or your money back</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má cheannaíonn tú earraí (nó má íocann tú éarlais astu) agus go n-éagann gnó an díoltóra sula seachadtar iad; b’fhéidir go mbeadh deacrachtaí móra agat chun na hearraí nó d’airgead a fháil ar ais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Usually the seller in these circumstances owes money to a number of people so your claim is just one of many</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is gnách go mbíonn an díoltóir sna cúinsí seo i bhfiacha do roinnt daoine, agus gur ceann amháin as go leor é d’éileamhsa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are rules for the priority to be given to the various debts in the case of the business going into liquidation or receivership</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá rialacha ann don tosaíocht le tabhairt chuig fiacha éagsúla sa chás go dtéann an ghnólacht faoi leachtú nó faoi ghlacadóireacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Generally, the individual customer is low in the order of priority</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn an custaiméir aonair go híseal san ord tosaíochta de ghnáth</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you paid for the goods by credit card, it is worthwhile to contact the credit card company who may not have actually paid or may be able to cancel the payment – you do not have a right to have this done but the credit card company may be able to do it for you. Information on how to protect yourself from sellers who may go out of business and on your rights if a business is liquidated is available on the Competition and Consumer Protection Commission's website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má íoc tú as na hearraí le cárta creidmheasa, is fiú go mór dul i dteagmháil le comhlacht an chárta chreidmheasa óir gur dóichí nár íoc siad an íocaíocht nó gur féidir leo í a chealú - ní bhíonn ceart agat chun é sin a dhéanamh ach féadann an comhlacht chárta creidmheasa é sin a dhéanamh ar do shonsa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Information on Goods, Services and Prices</seg></tuv>
+  <tuv xml:lang="ga"><seg>Eolas faoi Earraí, Seirbhísí agus Praghsanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Consumers are entitled to information which protects them from false claims about goods, services and prices under the Consumer Protection Act 2007</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn tomhaltóirí i dteideal d’fhaisnéis a thugann cosaint dóibh ó éilimh bhréagacha faoi earraí, seirbhísí agus praghsanna faoin an tAcht um Chosaint Tomhaltóirí 2007</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the act it is an offence for any retailer or professional to make a false or misleading claim about goods, services and prices</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoin acht seo is cion é d’aon miondíoltóir nó gairmí éileamh bréagach nó míthreorach a dhéanamh faoi earraí, seirbhísí agus praghsanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is also an offence to sell goods which bear a false or misleading description</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is cion é freisin chun earraí a dhíol ar a mbíonn tuairisc bhréagach nó mhíthreorach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Claims about the weight, ingredients and performance of goods must be stated truthfully</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór éilimh faoi mheáchan, bunábhair agus feidhmiú earraí a mhaíomh go fírinneach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Also claims made about how items operate and where they were made must be true</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní foláir d’eilimh a dhéantar faoin gcaoi ina n-oibríonn míreanna agus faoin áit a ndearnadh iad a bheith fíor</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Claims about the time, place or manner in which a service is provided and claims about the effect of a service and the service providers must also be true</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caitheann éilimh faoin am, áit nó faoin gcaoi ina soláthraítear seirbhís agus éilimh faoi éifeacht seirbhísí agus na soláthraithe seirbhíse a bheith fíor freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This act also covers claims about prices</seg></tuv>
+  <tuv xml:lang="ga"><seg>Clúdaíonn an t-acht seo éilimh faoi phraghsanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Actual prices, previous prices and recommended prices of goods and services must be stated truthfully</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní foláir praghsanna iarbhír, praghsanna roimhe agus praghsanna molta d'earraí agus seirbhísí a shloinneadh go fírinneach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where a price is stated it should be clear what particular item it relates to</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás go maítear praghas, ba cheart go mba shoiléir céard í an mhír lena mbaineann sé</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It should be the total price and there should be no hidden extras</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir gurb é an praghas iomlán é agus níor cheart aon bhreisithe folaithe a bheith leis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a retailer makes a mistake the buyer does not have the right to demand that the goods be sold to them at the marked price</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéanann miondíoltóir meancóg, ní bhíonn an ceart ag an gceannaitheoir chun a éileamh go ndíoltar na hearraí leo ag an bpraghas marcáilte</seg></tuv>
+</tu>
+</body>
+</tmx>

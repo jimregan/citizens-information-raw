@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>A solicitor is a type of lawyer</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cineál dlíodóra is ea aturnae</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To become a solicitor, you must complete an apprenticeship of at least 2 years and you must pass exams set by the Law Society at Blackhall Place in Dublin. (See 'how to apply' below)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun bheith i do dhlíodóir ní mór duit printíseacht dhá bhliain ar a laghad a dhéanamh agus ní mór duit éirí leat i scrúdaithe an Ollchumainn Dlí i bPlás Blackhall i mBaile Átha Cliath</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Solicitors have a very wide range of different functions:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá réimse an leathan feidhmeanna an ag aturnaetha:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A solicitor may give legal advice about non-contentious matters, such as buying a house or flat or drafting a will</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Is féidir le aturnae comhairle dhlíthiúil faoi chúrsaí neamhchointinneach a a thabhairt, leithéidí teach nó árasán a cheannach nó uacht a dhréachtú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A solicitor may act as your agent or representative in commercial transactions</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Is féidir le aturnae feidhmiú mar do ghníomhaire nó ionadaí in idirbheartanna gnó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Your solicitor may also give you legal advice and represent you in relation to a dispute or disagreement that you have with another party, for example, a family dispute or a dispute with your employer or your neighbour • A solicitor may give you legal advice about taking or defending a case</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Is féidir le do aturnae chomh maith comhairle dhlíthiúil a thabhairt duit agus feidhmiú ar do shon i gcás díospóide nó easaontais le páirtí eile, díospóid theaghlaigh do díospóid le do fhostóir nó comharsa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you are involved in a court case, your solicitor will manage the case and represent you when dealing with the other party</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má tá páirteach i gcás cúirte, déanfaidh do aturnae an cás a bhainistiú agus tú a ionadú nuair atáthar ag déileáil leis an bpáirtí eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, your solicitor will send letters to the other side on your behalf</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, cuirfidh do aturnae litreacha chuig an páirtí eile ar do shon</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your solicitor will file all of the necessary court documents and contact the witnesses for the case</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfaidh do aturnae na doiciméid riachtanacha a chomhdú agus dul i dteagmháil leis na finnéithe don chás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If it is necessary to involve a barrister in the case, your solicitor will "brief" the barrister by sending him/her all of the necessary documents and information</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Más gá abhcóide a tharraingt isteach sa chás, déanfaidh h do aturnae an abhcóide a mhiontheagasc trí na doicimed riachtanacha agus eolas a chur chuige/chuici</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Your solicitor may also actually represent you in court, although in the High Court and the Supreme Court, a barrister will usually be engaged</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Is féidir chomh maith le do aturnae feidhmiú ar do shon sa chúirt, ach san Ard Chúirt agus sa Chúirt Uachtarach déanfar abhcóide a úsáid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Unlike barristers, solicitors are allowed to join together to form partnerships or companies and they are allowed to advertise their services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Murab ionann agus abhcóidí is féidir le aturnaetha teacht le chéile chun comhpháirtíochtaí nó comhlachtaí a chur ar siúl agus is féidir leo a gcuid seirbhísí a fhógairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Solicitors do not have to wear any special clothes when in court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl ar aturnaetha aon éadach speisialta a chaitheamh sa chúirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If there is a barrister involved in the case, the solicitor will usually sit facing the barrister in the bench under the judge</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá abhcóide páirteach sa chás, is iondúil go mbeidh an aturnae ina shuí os comhair an abhcóide sa bhinse faoin mbreitheamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the barrister needs a matter to be clarified, he or she can then lean over to ask the solicitor</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má theastaíonn ón abhcóide go ndéanfaí ábhar a shoiléiriú is féidir leis/léi claonadh chun tosaigh le ceist a chur ar an aturnae</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Law Society sets down rules and regulations about how solicitors may conduct their business</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagann an Cumann Dlí síos rialacha agus rialacháin faoin slí ina stiúraíonn aturnaetha a gcuid gnó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is a Disciplinary Tribunal, which can investigate any allegations of misconduct made against a solicitor</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Binse Smachta ann, arb fhéidir leis aon líomhaintí mí-iompair a dhéantar i gcoinne aturnae a fhiosrú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read more about making a complaint about a solicitor in Ireland here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léigh tuilleadh faoi ghearán a dhéanamh i gcoinne aturnae in Éirinn anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Complaints about solicitors provided by the Legal Aid Board should be made as per the Legal Aid Board's complaints procedure</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir gearáin maidir le aturnaetha ar fáil ag an mBord um Chúnamh Dlíthiúil a dhéanamh chuig an mBord um Chúnamh Dlíthiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In December 2015, the Oireachtas passed the Legal Services Regulation Act 2015 which provides for, among other things, an independent complaints regime</seg></tuv>
+  <tuv xml:lang="ga"><seg>I Nollaig 2015, rith an tOireachtas an tAcht um Rialáil Seirbhísí Dlí 2015 a fhorálann, i measc rudaí eile, do réimeas gearán neamhspleách</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Solicitors' rates and fees vary greatly</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá difríochtaí móra sna rátaí agus táillí a iarrann aturnaetha </seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your solicitor is under an obligation to explain to you how much his or her fees will be before you engage him or her to act on your behalf</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé d'oibleagáid ar do aturnae a mhíniú duit cén táille a bheidh ort a íoc sula ligeann tú dó/di feidhmiú ar do shon</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Many solicitors take on cases on a "no foal, no fee" basis</seg></tuv>
+  <tuv xml:lang="ga"><seg>Glacann cuid mhaith aturnaetha le cásanna ar an mbunús nach gcaitear iad a íoc muna n-éiríonn leis an gcás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that you will not be charged a fee by your solicitor if you do not win the case</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn seo nach mbeidh ort táille a íoc le do aturnae muna n-éiríonn leat sa chás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is most common in personal injuries cases, i.e., where you have been injured in an accident</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is nós an-choitianta seo i gcásanna diobhála pearsanta, is é sin le rá nuair a gortaíodh tú i dtimpiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can read more about solicitor's fees in the Law Society's leaflet: Information in relation to legal charges (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat níos mó a léamh faoi tháillí aturnae sa bhileog an Dlí-Chumainn: Eolas maidir le muirir dhlíthiúla (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read more about how to become a solicitor in Ireland here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léigh níos mó faoi conas a bheith ina aturnae in Éirinn anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are a qualified lawyer from another jurisdiction (that is, outside Ireland), find out how to convert your qualifications to practice as a solicitor in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú dlíodóir cáilithe ó dhlínse eile ((is é sin, lasmuigh d'Éirinn), a fháil amach conas a thiontú do cháilíochtaí a cleachtadh mar aturnae in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As the regulatory body for solicitors in Ireland, the Law Society maintains a list of registered solicitors throughout the country</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar an comhlacht rialála d'aturnaetha in Éirinn, coinníonn an Dlí-Chumann liosta aturnaetha cláraithe ar fud na tíre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Search the directory of solicitor firms throughout Ireland here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuardaigh an eolaire gnólachtaí aturnae ar fud na hÉireann anseo</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>The Irish President is elected directly by the people of Ireland for a term of 7 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad muintir na hÉireann a thoghann Uachtarán na hÉireann go díreach le haghaidh téarma 7 mbliana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They may not serve more than 2 terms</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl cead acu fónamh ar feadh níos mó ná 2 thréimhse</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(In other words, they cannot serve for more than 14 years)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(I bhfocail eile, ní féidir leo fónamh ar feadh níos mó ná 14 bliana)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Ireland's current President is Michael D</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is í Mícheál D</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Higgins who commenced his first term as President on 11 November 2011</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó hUiginn Uachtarán na hÉireann faoi láthair, agus thosaigh sé a tréimhse mar Uachtarán ar 11 Samhain 2011</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must be an Irish citizen to vote in a Presidential election</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más saoránach Éireannach thú is féidir vóta a chaitheamh i dtoghcháin Uachtaráin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The candidates for election must be eligible to become President and must be nominated</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go mbeadh na hiarrthóirí intofa mar Uachtarán agus ní mór iad a bheith ainmnithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Irish constitution (Bunreacht na hEireann) sets down what these eligibility requirements are</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagann Bunreacht na hÉireann síos na riachtanais cháilitheachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To be eligible for election as President, you must be an Irish citizen and over 35 years old</seg></tuv>
+  <tuv xml:lang="ga"><seg>Le bheith intofa mar Uachtarán, ní mór do dhuine a bheith ina s(h)aoránach agus 35 bliana a bheith slán aige/aici</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may be nominated as President by at least 20 members of the Oireachtas (that is the Dail and the Seanad) or by at least 4 local authorities</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadann 20 ball den Oireachtas ar a laghad tú a ainmniú mar Uachtarán (is é sin an Dáil agus an Seanad nó 4 údarás áitiúil ar a laghad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A former or retiring President is eligible for re-election and may nominate him/herself</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le Iar Uachtarán nó Uachtarán atá ag éirí as oifig é/í féin a ainmiú le seasamh arís</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The election must take place by the date on which the current President's term of office expires but may not take place more than 60 days before this</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don toghchán tarlú faoin dáta ar a rachaidh téarma an Uachtaráin reatha in éag, ach ní féidir leis tarlú níos mó ná 60 lá roimhe sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the current President is removed, becomes incapacitated, resigns or dies, then an election must be held within the following 60 days</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhristear an tUachtarán as oifig, má éagumasaítear é/í, má éiríonn sé/sí as oifig nó má fhaigheann sé/sí bás; ní mór toghchán a reáchtáil dá bharr sin laistigh de na 60 lá a leanfaidh sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Presidential election is by secret ballot and based on proportional representation by the single transferable vote</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is le ballóid rúnda agus de réir na hionadaíochta cionúire ar mhodh an aonghutha inaistrithe a dhéanfar an vótáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where there is only one candidate nominated for the office of President, it is not necessary to proceed to a ballot for election</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil aon duine ainmhithe don oifig Uachtaráin ach iarratasóir amháin, níl aon ghá lean go ballóid toghcháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This occurred most recently in November 2004 where Mary McAleese was inaugurated as President for a second term without a presidential election as she was the only candidate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tharla sé i Samhain 2004 nuair d'oirníodh Máire Mhic Ghiolla Íosa mar Uachtarán le haghaidh téarma eile gan toghchán an Uachtaráin toisc ba í an t-aon iarratasóir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The spending limit in a Presidential election is €750,000 and the amount a candidate can be reimbursed from the State is €200,000</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is teorainn caiteachais é €750,000 an teorann agus is é €200,000 an méid is féidir an Stát le hiarrthóír a aisíoc</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>The court stenographer in a courtroom, usually sits on a slightly raised platform under the judge, near the court registrar</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn an luathscríbhneoir cúirte ina shuí/ina suí go hiondúil ar ardán ardaithe beagán faoin mbreitheamh, gar don chláraitheoir cúirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He or she does not wear any special clothes in court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chaitheann sé nó sí aon éadach speisialta sa chúirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The stenographer keeps a verbatim written record (in realtime if needed), of what is said during a trial</seg></tuv>
+  <tuv xml:lang="ga"><seg>Coinníonn an luathscríbhneoir cúirte taifead scríofa focal ar fhocal den mhéid a ndeirtear le linn trialach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They use a machine like a typewriter, which allows him/her to record an account of everything that is said during the trial</seg></tuv>
+  <tuv xml:lang="ga"><seg>Úsáideann an luathscríbhneoir gléas atá cosúil le clóscríobhán ,a ligeann dó/di gach a ndeirtear le linn na trialach a thaifeadadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In many cases, such as criminal, commercial and family law cases, the State pays for the stenographer to be present. In other cases, such as personal injuries cases, it is up to the parties to engage and pay the stenographer to be present</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tar éis na trialach, déanfaidh an luathscríbhneoir gach rud a taifeadadh a athscríobh i athscríbhinní arbh fhéidir iad a chur ar fáil do phaírtithe uilig an cháis agus don bhreitheamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The main reason why a written account is kept of the proceedings is to assist the parties if they wish to appeal the judge's decision at a later stage</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad comhlachtaí príobháideacha a fhostaíonn luathscríbhneoirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>After the trial has ended, the stenographer will transcribe everything that has been recorded into "transcripts", which can be made available to all the parties in the case and the judge</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina lán cásanna, leithéidí cásanna coiriúla, cásanna gnó agus dlí teaghlaigh, íocann an Stát as an luathscríbhneoir. I gcásanna eile, fágtar faoi na páirtithe féin an luathscríbhneoir a fhostú agus a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>More and more trials and tribunals require instant text translation of a stenographer's notes or an immediate transcript of the evidence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Coinnítear cuntas scríofa go príomha chun cabhrú leis na páirtithe má theastaíonn uathu cinneadh an bhreithimh a achomarc níos deireanaí</seg></tuv>
+</tu>
+</body>
+</tmx>

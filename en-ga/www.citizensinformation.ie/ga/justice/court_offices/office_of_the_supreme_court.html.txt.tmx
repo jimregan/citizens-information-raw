@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Office of the Supreme Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Oifig an Chúirt Uachtarach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Supreme Court Registrar is the head of the office and he/she sits in court when the Supreme Court is sitting</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sé Cláraitheoir na Cúirte Uachtaraigh ceann na hoifige agus suíonn sé/sí sa chúirt nuair atá an Chúirt Uachtarach ag suí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Supreme Court office:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn oifig na Cúirte Uachtaraigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Provides administrative support to the Supreme Courtl,</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag cur tacaíocht riarthach ar fáil don Chúirt Uachtarach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Processes appeals from decisions of the High Court,</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag próiseáil acomhairc ó chinnte de chuid na hArd Chúirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Authenticates signatures of Notaries Public and Commissioners for Oaths on official documents where required,</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag dearbhú údaracht síníucháin Nótairí Poiblí agus Coimisinéirí Mionnaí ar cháipéisí oifigiúla nuair is gá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Deals with applications for appointment as a Notary Public</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag láimhseáil iarratais ar cheapachán mar Nótaire Poiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Deals with applications for appointment as a Commissioner for Oaths</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag láimhseáil iarratais ar cheapachán mar Choimisinéir Mionnaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Legal Diary, which is published daily, is kept up to date with a listing of cases in the Supreme Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Coimeádtar an Dialann Dhlíthiúil, a fhoilsítear go laethúil, suas chun dáta le liostú de chásanna sa Chúirt Uachtarach</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>If you receive a gift, you may have to pay gift tax on it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhaigheann tú bronntanas, b'fhéidir go mbeidh Cáin Bhronntanais le n-íoc agat air</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you receive an inheritance following a death, it may be liable to inheritance tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhaigheann tú oidhreacht tar éis báis, b'fhéidir go mbeidh Cáin Oidhreachta le gearradh air</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Both these taxes are types of Capital Acquisitions Tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is cineálacha Cánach Fháltais Caipitiúil iad an dá cháin seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Capital Gains Tax is charged on the capital gain or profit made on the disposal of an asset</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gearrtar Cáin Ghnóthachan Caipitiúil ar ghnóthachan caipitiúil nó brabús a dhéantar ó dhiúscairt sócmhainne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some assets are exempt from Capital Gains Tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sócmhainní áirithe díolmhaithe ó Cháin Ghnóthachan Caipitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Find out if you are liable for Capital Gains Tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fáil amach an bhfuil tú faoi dhliteanas ag Cáin Ghnóthachan Caipitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Capital taxes following separation, divorce or dissolution</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cánacha Caipitiúla tar éis scartha/colscartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Synopsis of the impact of separation, divorce or dissoultion on capital taxes - capital gains tax, capital acquisitions tax and stamp duty</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cur síos gairid ar an tionchar a bhíonn ag scaradh/colscaradh ar chánacha Caipitiúla - cáin ar ghnóthacháin caipitiúla, cáin ar fháltais caipitiúla agus stampdhleacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most Read in "Money and Tax"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ábhar is mó éilimh i "Airgead agus Cáin"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>How your income tax is calculated</seg></tuv>
+  <tuv xml:lang="ga"><seg>An córas le cáin a mheas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Universal Social Charge (USC)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muirear Sóisialta Uilíoch (MSU)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Introduction to income tax credits and reliefs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Réamhrá ar chreidmheasanna cánach agus faoiseamh ó cháin ioncaim</seg></tuv>
+</tu>
+</body>
+</tmx>

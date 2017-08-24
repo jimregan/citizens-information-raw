@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>A deed of covenant is a legally binding agreement that is written down and agreed between 2 people stating that one person agrees to pay the other an agreed amount of money without receiving any benefit in return</seg></tuv>
+  <tuv xml:lang="ga"><seg>Aontas, ceangailte ó thaobh dlí, atá scríofa síos agus aontaithe idir beirt ag rá go n-aontaíonn duine amháin go n-íocfaidh sé/sí méid áirithe airgid leis an duine eile gan tairbhe ar bith a fháil ar ais é gníomhas cúnaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can agree to pay any amount of money under the deed but it is important to remember that the deed must be properly drawn up, signed, witnessed, sealed and delivered to the individual receiving the payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfá aontú go n-íocfá suim airgid ar bith faoin nGníomhas ach tá sé tabhachtach go gcuimhníonn tú go gcaithfear an gníomhas a dhéanamh amach i gceart, a shiniú, a fhianiú, a shéalú agus a sheachadadh don duine a bheidh ag fáil na n-íocaíochtaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Tax relief on covenants is only available where the covenants are being made to particular groups</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl faoiseamh cánach ar fáil ach sa chás go bhfuil gníomhais á ndéanamh do ghrúpaí áirithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These groups consist of permanently incapacitated minors, permanently incapacitated adults, and people over 65 years of age</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad na grúpaí seo ná daoine mionaoiseacha le héagumas buan, daoine fásta le héagumas buan agus daoine os cionn 65 bliain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(A minor is a child under 18 years of age who is not married)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Is páiste faoi 18 bliain d'aois nach bhfuil pósta é duine mionaoiseach)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Parents of incapacitated minor children cannot claim tax relief on covenants in favour of their own permanently incapacitated minor child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl tuismitheoirí páistí atá ina ndaoine mionaoiseacha le héagumas in ann faoiseamh cánach a éileamh ar ghníomhais déanta ar leas a bpáiste mionaoiseach féin atá faoi éagumas buan</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, tax relief can be claimed on covenants made in favour of permanently incapacitated minor children by people other than their parents</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh daoine eile, áfach, nach tuismitheoirí na bpáistí iad, a dhéanann gníomhais ar leas páistí le héagumas buan, faoiseamh cánach a éileamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The exact tax saving depends on the amount of tax paid by the person making the payment (the covenantor) and on the amount of the income of the person receiving the payment (the covenantee)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Braitheann an méid cánach a shábháiltear ar an méid cánach a íocann an duine atá ag déanamh na híocaíochta (an cúnantóir) agus ar méid ioncaim an duine atá ag fáil na híocaíochta (an cúnantaí)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In order for the deed of covenant to be tax effective, the deed must be capable of lasting more than 6 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun go mbeidh gníomhas cúnaint éifeachtach ó thaobh cánach de, caithfidh tréimhse an ghníomhas bheith níos mó ná 6 bliana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is recommended by Revenue therefore that the period of the covenant be for 7 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dá bhrí sin, molann na Coimisinéirí Ioncaim tréimhse 7 mbliana don ghníomhas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Unrestricted tax relief can be claimed on covenants in favour of permanently incapacitated minors other than from parents to their own minor incapacitated children</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl teorainn ar bith ar an méid faoiseamh cánach gur féidir a éileamh ar ghníomhais déanta ar leas daoine mionaoiseacha le héagumas buan ach amháin ó thuismitheoirí a dhéanann gníomhais ar leas a bpáistí mionaoiseacha féin le héagumas buan</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Unrestricted tax relief can be claimed on covenants in favour of permanently incapacitated adults</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir faoiseamh cánach gan teorainn a éileamh ar ghníomhais déanta ar leas daoine fásta le héagumas buan</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Tax relief can be claimed on covenants in favour of adults aged over 65 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir faoiseamh cánach a éileamh ar ghníomhais ar leas daoine fásta os cionn 65 bliain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The amount of tax relief available on one or more covenants cannot exceed 5% of the covenantor's total income (gross income less certain deductions such as expenses, capital allowances, etc)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní fhéadfadh an méid faoiseamh cánach ar ghníomhas amháin nó níos mó a bheith níos mó ná 5% d'ioncam iomlán an chúnantóra (ioncam comhlán lúide asbhainteanna ar nós costas, liúntais chaipitiúla agus araile)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Making a deed of covenant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gníomhas Cúnaint a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The deed must be properly drawn up, signed, witnessed, sealed and delivered to the individual</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfear an gníomhas a dhéanamh amach i gceart, a shíníu, a fhianú, a shéalú agus a sheachadadh don duine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can get a deed of covenant form (pdf) from Revenue</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá foirm um ghníomhas cúnaint ar fáil anseo le híoschóipeáil (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The person receiving the payment (the covenantee) must have a PPS number</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní foláir don duine atá ag fáil na híocaíochta (an cúnantaí) uimhir PSP a bheith aige/aici</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If they do not have a PPS number, they should get in touch with their local Department of Social Protection office and either trace their existing PPS number or obtain a new one</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna bhfuil uimhir PSP aige/aici, ba cheart dó/di dul i dteagmháil lena (h)oifig áitiúil den Roinn Coimirce Sóisialaí chun a (h)uimhir atá ann cheana féin, nó ceann nua a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Payments made under the deed must be without any benefit being received from the covenantee in return (either directly, or indirectly)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní foláir d'íocaíochtaí faoin ngníomhas a bheith gan tairbhe ar bith ag teacht ón gcúnantaí (go díreach nó go hindíreach)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In other words, the person paying the money cannot receive anything beneficial from the person receiving the money either directly from them or indirectly through someone else</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sé sin le rá, ní fhéadfaidh an duine atá ag íoc an airgid aon tairbhe a fháil ón duine atá ag fáil an airgid, go díreach uaidh/uaithi, nó go hindíreach trí dhuine eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A deed can only be effective from a current date (in other words, you cannot backdate a deed)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní fhéadfaidh gníomhas a bheith i bhfeidhm ach ó dháta reatha (sé sin le rá, ní fhéadfaidh tú gníomhas a shiardhátú)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A deed to an individual must be capable of lasting more than 6 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh gníomhas do dhuine a bheith in ann seasamh níos mó ná 6 bliana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must enter into the deed before you make any payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní foláir duit an gníomhas a dhéanamh sula ndéanann tú íocaíocht ar bith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should also ensure that you are able to make all payments before the duration of the deed ends</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart duit a dhéanamh cinnte go mbeidh tú in ann na híocaíochtaí go léir a dhéanamh sula gcríochnaíonn an gníomhas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Payments as specified in the deed must be paid on the date(s) that are specified and for the amount that is specified</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfear na híocaíochtaí atá leagtha síos sa ghníomhas a íoc ar na dátaí atá leagtha síos agus leis an méid airgid atá leagtha síos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Neither the person paying or receiving the money can alter the payments during the period of the deed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leis an duine atá ag íoc ná an duine atá ag fáil an airgid na híocaíochtaí a athrú i rith tréimhse an ghníomhais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Making a payment under a deed of covenant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocaíocht a dhéanamh faoi Ghníomhas cúnaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The person making the payment (the covenantor) must deduct tax at the standard rate from the total (gross) payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní foláir don duine atá ag déanamh na híocaíochta (an cúnantóir) cáin a asbhaint ón íocaíocht iomlán (comhlán) ag an ngnáthráta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Individuals paying tax under the pay-as-you-earn (PAYE) system can account for the tax deducted by having their certificates of tax credits and standard rate cut-off point amended by their tax office</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh daoine a íocann cáin faoin gcóras Íoc Mar a Thuillir (ÍMAT) iarraidh ar a n-oifig cánacha a dteastais chreimheasanna cánacha agus an gnáthráta pointe scoir a athrú chun an cháin asbhainte a chur san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are self-assessed, you should account for the deed of covenant in your annual assessment that you submit to Revenue</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má íocann tú cáin faoin gcóras féinmheasúnaithe ba cheart duit cuntas faoin ghníomhas cúnaint a bhreacadh síos sa thuairisceán cánach bliantúil a chuireann tú faoi bhráid na gCoimisinéirí Ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must also give details of the payment and tax deducted on a Form R185 to the person receiving the payment (the covenantee) each time a payment is made</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní foláir duit chomh maith sonraí na híocaíochta agus an cháin bainte as a thabhairt don duine atá ag fáil na híocaíochta (an cúnantaí) ar Fhoirm R185 gach uair a dhéantar íocaíocht. Íoschóip Foirm R185 nó d'fhéadfá cóip a fháil ó d'oifig chánach áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The exact tax saving will depend on the amount of tax that is paid by the covenantor (the person paying the money), and on the income of the covenantee (the person receiving the payment)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Braithfidh an tsábháil cánach ar an méid cánach a íocann an cúnantóir (an duine atá ag íoc an airgid) agus ar ioncam an chúnantaí (an duine atá ag fáil an airgid)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the person paying the money is liable to tax at a higher rate than the standard, then they will receive tax relief at the difference between the standard rate and the higher rate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dlítear cáin ar ráta níos airde ná an gnáthráta ar an duine a íocann an t-airgead gheobhaidh sé/sí faoiseamh cánach ar an difríocht idir an ghnáthráta agus an ráta níos airde</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The standard rate is 20% and the higher rate is 41%</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is 20% an ghnáthráta agus 41% an ráta níos airde iad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is no tax benefit to the covenantor who pays tax at the standard rate only</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon leas cánach don chúnantóir a íocann cáin ag an ngnáthráta amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Regardless of the financial situation of the person paying the money (the covenantor), the person receiving the payment (the covenantee) whose tax chargeable on their total income (including the gross income received under the deed of covenant) is less than their annual tax credits would qualify for a refund of the standard rate tax deducted by the covenantor</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gan aird ar riocht an duine atá ag íoc an airgid (an cúnantóir), bheadh an duine atá ag fáil an airgid (an cúnantaí), ar lú a c(h)reidmheasanna bliantúla cánach ná an cháin atá inmhuirir ar a (h)ioncam iomlán (lena n-áirítear an t-ollioncam arna fháil faoin nGníomhas Cúnaint), incháilithe le haghaidh aisíocaíochta as cáin ar an ráta caighdeánach arna hasbhaint ag an gcúnantóir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Tax relief for the covenantor</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoiseamh cánach don chúnantóir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The person making the payments (covenantor) should send their claim for tax relief to their own tax office remembering to quote their PPS number</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart don duine atá ag déanamh na n-íocaíochtaí (cúnantóir) a (h)éileamh ar fhaoiseamh cánach a sheoladh go dtí a (h)oifig chánach féin, gan dearmad a dhéanamh a (h)uimhir PSP a lua</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For your first claim, you should send in the original deed of covenant, a copy of Form R185 (pdf) and your return of income to Revenue</seg></tuv>
+  <tuv xml:lang="ga"><seg>Agus tú ag déanamh an éilimh don chéad uair, ba cheart duit bunchóip an ghníomhais chúnaint, cóip d'fhoirm R185 agus do thuairisceán cánach a sheoladh chuig an oifig chánach is gaire duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For subsequent years, complete Form 185 on or after the date of payment and forward it to your nearest tax office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina dhiaidh sin, líon foirm 185 ar nó i ndiaidh dáta na híocaíochta agus seol go dtí an oifig chánach is gaire duit í</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Tax relief for the covenantee</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoiseamh cánach don chúnantaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The person receiving the payments (covenantee) should send their claim for tax relief Revenue, again quoting their PPS number</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart don duine atá ag fáil na n-íocaíochtaí (an cúnantaí) a (h)éileamh ar fhaoiseamh cánach a sheoladh chuig a (h)oifig chánach féin, arís ag lua a (h)uimhir PSP</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For a first claim for tax relief, include a copy of the deed of covenant, Form 54 claims and a Form 185 that has been completed by the person making the payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Don chéad éileamh ar fhaoiseamh cánach, cuir leis cóip den ghníomhas cúnaint, éilimh Foirm 54 agus Foirm 185 líonta ag an duine atá ag déanamh na híocaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For subsequent years, you forward Form R185 and the Form 54 claims</seg></tuv>
+  <tuv xml:lang="ga"><seg>Le haghaidh na mblianta ina dhiadh sin, ba cheart Foirm R185 agus na héilimh ar Fhoirm 54 a sheoladh</seg></tuv>
+</tu>
+</body>
+</tmx>

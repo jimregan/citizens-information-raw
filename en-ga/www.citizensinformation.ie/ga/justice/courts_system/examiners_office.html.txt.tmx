@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>The Examiner supervises the liquidation of companies</seg></tuv>
+  <tuv xml:lang="ga"><seg>Riarann an scrúdaitheoir scaoileadh comhalachtaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>deals with accounts and inquiries,</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag plé le cuntais agus le fiosrúcháin,</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>settles lists of creditors,</seg></tuv>
+  <tuv xml:lang="ga"><seg>Réitíonn sé líostaí creidiúnaithe,</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>arranges sales of properties,</seg></tuv>
+  <tuv xml:lang="ga"><seg>Réitíonn sé margadh tithe agus talúna,</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>countersigns all payments and investments,</seg></tuv>
+  <tuv xml:lang="ga"><seg>Comhshíníonn sé gach íocaíocht agus gach fuilleamh,</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>processes applications for the court,</seg></tuv>
+  <tuv xml:lang="ga"><seg>Próiseálann sé gach iarratas don chúirt,</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>acts as Registrar to the court assigned to deal with matters proceeding before the Examiner (the "Examiner's List"),</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn mar Chláraitheoir don Chúirt maidir le nithe a thagann chuig oifig an Scrúdaitheora le fiosrú ("Liosta an Scrúdaitheora"),</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>processes applications for bankruptcy,</seg></tuv>
+  <tuv xml:lang="ga"><seg>Próiseálann sé gach iarratas clisiúnais,</seg></tuv>
+</tu>
+</body>
+</tmx>

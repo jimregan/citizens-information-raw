@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>The parliamentary public petitions system allows members of the public raise issues of general public interest or concern or issues of public policy with the Houses of the Oireachtas (parliament)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceadaíonn an córas achainíocha poiblí parlaiminteacha do mhuintir an phobail saincheisteanna atá ina ndíol spéise nó ina n-ábhar buartha don phobal i gcoitinne nó saincheisteanna beartais phoiblí a thabhairt chun solais le Tithe an Oireachtais (an pharlaimint)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The subject of a petition must relate to a matter on which the Houses of the Oireachtas have the power to act</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go mbaineann ábhar achainí le ceist a bhfuil an chumhacht ag Tithe an Oireachtais gníomhú ina leith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Only one signature is needed to submit a petition</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní theastaíonn ach síniú amháin chun achainí a sheoladh ar aghaidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A decision on a petition is made by the Joint Committee on Public Petitions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann an Comhchoiste um Achainíocha Poiblí cinneadh ar achainí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are submitting a petition it must relate to a matter on which the Houses of the Oireachtas have the power to act and the petition must be in the proper form</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá achainí á seoladh ar aghaidh agat, ní mór go mbaineann sí le ceist a bhfuil an chumhacht ag Tithe an Oireachtais gníomhú ina leith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Relate to a case where court proceedings have been initiated and the case is being or will be heard before a jury</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Nach mbaineann sí le cás inar cuireadh tús le himeachtaí cúirte agus ina bhfuiltear ag éisteacht leis an gcás os comhair giúiré</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Contain the name or names of individuals</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Nach gcuimsíonn sí ainm nó ainmneacha daoine aonair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Contain language which is offensive or defamatory</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Nach gcuimsíonn sí friotal atá maslach nó atá clúmhillteach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Be frivolous, vexatious or otherwise constitute an abuse of the petitions system</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Nach bhfuil sí suaibhreosach, cráiteach nó ní mór nach mbaineann sí mí-úsáid as an gcóras achainíocha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Be the same as or substantially similar to a petition brought by you, or on behalf of you, during the current lifetime of the Dáil and which was closed by agreement of the Joint Committee</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Go bhfuil sí mar an gcéanna nó cosúil go mór le hachainí a rinne tú, nó a rinneadh thar do cheann, i rith shaolré reatha na Dála agus a dúnadh le comhaontú an Chomhchoiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should be able to demonstrate that you have already taken steps to resolve the issue, for example, through raising it with the Ombudsman or directly with the relevant government department</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart go mbeifeá in ann a léiriú gur ghlac tú céimeanna cheana féin chun an tsaincheist a réiteach, mar shampla, tríd an tsaincheist a thabhairt chun solais leis an Ombudsman nó go díreach leis an roinn ábhartha rialtais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Joint Committee will not consider a complaint which has been the subject of a decision by an Ombudsman or some regulatory or redress body</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní dhéanfaidh an Comhchoiste breithniú ar ghearán a bhí ina ábhar cinnidh ag an Ombudsman nó ag comhlacht rialála nó sásaimh éigin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Joint Committee on Public Petitions</seg></tuv>
+  <tuv xml:lang="ga"><seg>An Comhchoiste um Achainíocha Poiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You submit your petition to the Joint Committee on Public Petitions which is a parliamentary committee consisting of TDs and Senators</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann tú d’achainí faoi bhráid an Chomhchoiste um Achainíocha Poiblí, ar coiste parlaiminteach é ar a bhfuil Teachtaí Dála agus Seanadóirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Joint Committee must first decide whether your petition is compliant with Dáil and Seanad standing orders (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don Chomhchoiste cinneadh a dhéanamh i dtosach báire ar cé acu an gcomhlíonann nó nach gcomhlíonann d’achainí orduithe seasta na Dála agus an tSeanaid (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If it is considered to be compliant, it will then consider your petition</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má mheastar go bhfuil sé comhlíontach, déanfaidh sé breithniú ar d’achainí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When considering your petition the Joint Committee may invite you to appear before it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a dhéantar breithniú ar d’achainí, féadfaidh an Comhchoiste cuireadh a thabhairt duit teacht os a chomhair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It may also seek oral or written evidence from the relevant government department, as well as other appropriate bodies or stakeholders</seg></tuv>
+  <tuv xml:lang="ga"><seg>Anuas air sin, féadfaidh sé fianaise ó bhéal nó scríofa a lorg ón roinn ábhartha rialtais, chomh maith le comhlachtaí nó páirtithe leasmhara cuí eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Refer your petition to some other parliamentary committee for further consideration and a report</seg></tuv>
+  <tuv xml:lang="ga"><seg>• D’achainí a atreorú chuig coiste parlaiminteach éigin eile go ndéanfar breithniú agus tuairisciú breise uirthi</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Refer your petition to an ombudsman or some regulatory or redress body</seg></tuv>
+  <tuv xml:lang="ga"><seg>• D’achainí a atreorú chuig ombudsman nó comhlachta rialála nó sásaimh éigin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Following its considerations, the Joint Committee makes a decision on what further action it will take</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tar éis a mbreithniúcháin a dhéanamh, déanann an Comhchoiste cinneadh ar cén gníomh breise a ghlacfaidh sé</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This action can include reporting to the Dáil with recommendations, including a request that the report be debated by the Dáil</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadtar tuairisciú a áireamh leis an ngníomh seo leis an Dáil agus moltaí a dhéanamh, agus a iarraidh go ndéanann an Dáil díospóireacht ar an tuarascáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the Joint Committee decides that no further action is required your petition will be closed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéanann an Comhchoiste an cinneadh nach dteastaíonn breis gníomhaíochta, dúnfar d’achainí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will be notified of the Joint Committee’s considerations and its final decision</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabharfar fógra duit faoi bhreithniúcháin an Chomhchoiste agus an cinneadh deiridh a dhéanfaidh sé</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is no charge for submitting a petition</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní ghearrtar aon mhuirear ar achainí a sheoladh ar aghaidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are encouraged to submit your petition online</seg></tuv>
+  <tuv xml:lang="ga"><seg>Spreagtar thú chun d’achainí a sheoladh ar aghaidh ar líne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can also download the petition form (pdf) and submit it:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chomh maith leis sin, féadfaidh tú foirm na hachainí a íoslódáil (pdf) agus í a sheoladh ar aghaidh:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• By e-mail to submitapetition@oireachtas.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ar ríomhphost go dtí submitapetition@oireachtas.ie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• By post to the Clerk to the Joint Committee on Public Petitions at the address below</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sa phost chuig an gCléireach leis an gComhchoiste ar Achainíocha Poiblí ag an seoladh thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further information and advice on the petitions process can be obtained from the Clerk to the Joint Committee on Public Petitions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir breise faisnéise agus comhairle ar an bpróiseas achainíocha a fháil ón gCléireach leis an gComhchoiste ar Achainíocha Poiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A list of petitions already submitted is available on the Houses of the Oireachtas website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá liosta d’achainíocha a seoladh ar aghaidh cheana féin ar fáil ar láithreán gréasáin Thithe an Oireachtais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Joint Committee on Public Petitions</seg></tuv>
+  <tuv xml:lang="ga"><seg>An Comhchoiste um Achainíocha Poiblí</seg></tuv>
+</tu>
+</body>
+</tmx>

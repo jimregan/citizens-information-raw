@@ -1,0 +1,221 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>In Ireland, instead of arresting you to bring you to court to answer a complaint, the Gardaí (Irish police force) may serve you with a summons ordering you to appear in court on a particular date at a particular time</seg></tuv>
+  <tuv xml:lang="ga"><seg>In Éirinn, in áit tú a ghabháil chun tú a thabhairt chun na cúirte chun gearán a fhreagairt, is féidir leis na Gardaí toghairm a sheirbheáil ort a ordaíonn duit a theacht i láthair sa chúirt ar dháta ar leith ag am ar leith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Summonses are issued by the District Court after a complaint has been made against you by a Garda (or someone else in a private prosecution)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Eisíonn an Chúirt Dúiche toghairmeacha tar éis do ghearán a bheith déanta i do choinne ag Garda (nó ag duine eile in ionchúiseamh príobháideach)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Usually, summonses are issued in less serious cases where it is not considered necessary to arrest you to guarantee your appearance in court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iondúil go n-eisítear toghairmeacha i gcásanna nach bhfuil chomh tromchúiseach nuair nach gceaptar gur gá tú a ghabháil chun a chinntiú go dtiocfaidh tú i láthair sa chúirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are three ways in which summonses can be issued in Ireland for minor offences:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá trí bhealach inar féidir toghairmeacha a eisiúint in Éirinn i gcomhair mionchionta:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Under Section 10 of the Petty Sessions (Ireland) Act 1851</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Faoi Alt 10 den Acht Gearr-Sheisiún (Éire) 1851</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Under an administrative process introduced by Section 1 of the Courts (No</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Faoi phróiseas riaracháin a tugadh isteach faoi Alt 1 den Acht na gCúirteanna (Uimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Under the process for non-payment of fixed charge fines</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Faoin bpróiseas i gcomhair neamh-íocaíocht ar fhíneálacha ráta seasta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the Petty Sessions (Ireland) Act 1851</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoin Acht Gearr-Sheisiún (Éire) 1851</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is the process that is usually used in private prosecutions where, for example, individuals are having difficulties with neighbours</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seo é an próiseas a úsáidtear go hiondúil in ionchúisimh príobháideacha, mar shampla, sa chás ina bhfuil deacrachtaí ag daoine aonair lena gcuid comharsana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is rarely used by the Gardaí</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní minic a úsáideann na Gardaí é</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The complainant goes before a District Court judge and makes the complaint either orally or in writing, with or without an oath, as the judge decides</seg></tuv>
+  <tuv xml:lang="ga"><seg>Téann an gearánach os comhair breitheamh Cúirte Dúiche agus déanann sé an gearán ó bhéal nó i scríbhinn, le nó gan mionn, de réir mar a shocraíonn an breitheamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The information the complainant provides should contain brief particulars of:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart mionsonraí a bheith i gceist sa bhfaisnéis a thugann an gearánach maidir le:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Name and address of the alleged offender</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ainm agus seoladh an té a bhfuil an cion curtha ina leith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Name and address of the complaintant</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ainm agus seoladh an ghearánaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The basic facts of the alleged offence, including when it is alleged to have been committed</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Na sonraí bunúsacha a bhaineann leis an gcion líomhnaithe, lena n-áirítear an t-am atá sé líomhnaithe a tharla sé</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If possible the piece of legislation which applies to the offence</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An píosa reachtaíochta a bhaineann leis an gcion, más féidir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When the information has been put before the judge, he/she must decide whether it justifies a summons</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a chuirtear an fhaisnéis ós comhair an bhreitheamh, ní mór dó/di an cinneadh a dhéanamh an dtugann sé údar le toghairm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the judge issues a summons it will require the alleged offender to appear at a sitting of the court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má eisíonn an breitheamh toghairm, cuirfidh sé seo ceangailt ar an té a bhfuil an cion curtha ina leith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the Courts (No</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi Acht na gCúirteanna (Uimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The administrative process under the Courts (No. 3) Act 1986 is the procedure usually used by the Gardaí and allows for summonses to be issued by the office of the District Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an próiseas riaracháin foi Acht na gCúirteanna (Uimh 3) 1986 an nós imeachta a úsáideann na Gardaí go hiondúil agus ceadaíonn sé seo do oifig na Cúirte Dúiche toghairmeacha a eisiúint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is an administrative process where applications can be made on behalf of the Attorney General, the Director of Public Prosecutions, a member of the Garda Siochana or any other person statutorily authorised to prosecute offences</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is próiseas riaracháin é seo inar féidir iarratais a dhéanamh ar son an Ard-Aighne, an Stiúrthóir Ionchúiseamh Poiblí, baill den Gharda Síochána nó aon duine eile atá cead reachtúil acu cionta a ionchúiseamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A summons issued under the 1851 Act or issued under the 1986 Act must contain the following:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Toghairm a eiseofar faoin Act 1851 nó a eisíodh faoi Acht 1986 ní mór do na nithe seo a leanas a bheith san toghairm:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The name of the complaintant or prosecutor (for example, a Garda’s name)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ainm an ghearánaí nó an ionchúisitheoir (mar shampla, ainm Gharda)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The name and address of the person against whom the complaint is made</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ainm agus seoladh an té ina bhfuil an gearán déanta ina leith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Details, in ordinary language, of the alleged offence including the time, date and place of the alleged offence</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sonraí, i ngnáth-theanga, maidir leis an gcion líomhnaithe, lena n-áirítear an t-am, an dáta agus an suíomh inar tharla an cion líomhnaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The date, time and venue of the court</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Am, dáta agus ionad na cúirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The judge's signature if issued by a judge or the name of the District Court clerk</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An bhreithimh síniú má eisiúint ag breitheamh nó ainm an gcléireach Cúirte Dúiche</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where the summons is issued under the 1986 Act the summons also contains:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás ina n-eisítear an toghairm faoi Acht 1986, bíonn na nithe seo a leanas san toghairm freisin:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• An outline of the law that is alleged to have been broken</seg></tuv>
+  <tuv xml:lang="ga"><seg>• breac-chuntas ar an dlí atá sé líomhnaithe a briseadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The date on which the summons was applied for</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An dáta ar a ndearnadh iarratas ar an toghairm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This final one is most important in relation to the time limits for commencement of criminal proceedings</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an ceann deiridh seo é an ceann is tábhachtaí maidir leis na teorainneacha ama i leith tús a chur le himeachtaí coiriúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This date will indicate if the summons was applied for within the legal time limit for instituting proceedings</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léireoidh an dáta seo ar cuireadh isteach ar an toghairm taobh istigh den teorainn ama dlíthiúil atá ann chun tús a chur le himeachtaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For non-payment of fixed charge fines</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcomhair neamh-íocaíocht fhíneálacha ráta seasta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you are issued with a fixed charge notice for a road traffic offence and you fail to pay the fine within the time allowed, a summons is automatically issued and sent to you by ordinary post</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a eisítear fógra ráta seasta chugat i gcomhair cion trácht ar bhóithre agus go dteipeann ort an fíneáil a íoc taobh istigh den am atá ceadaithe, eisítear toghairm chugat go huathoibríoch agus seolfar chugat é sa ghnáth-phost</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This process does not require a Garda to apply for the summons to be issued, because the summons is triggered by non-payment of the fixed charge fine</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní gá sa phróiseas seo go ndéanfadh an Garda iarratas go n-eiseofaí an toghairm, mar tarlaíonn an toghairm mar thoradh ar neamh-íocaíocht an fhíneáil ráta seasta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Service of the summons</seg></tuv>
+  <tuv xml:lang="ga"><seg>An toghairm a sheirbheáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The rules which govern the service of summonses are to be found in the Rules of the District Court (Order 10)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá fáil ar na rialacha a rialaíonn seirbheáil toghairmeacha in Rialacha na Cúirte Dúiche (Ordú 10)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Basically a summons can be served on you in the following ways:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go bunúsach, is féidir toghairm a sheirbheáil ort sna bealaí seo a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Personal delivery: by handing a copy of the summons to you or by leaving it at your last known abode or your place of work, or with your spouse, child or other relative</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seachadadh pearsanta: trí chóip den toghairm a shíneadh chugat nó é a fhágáil ag an áit chónaithe is déanaí is eol duit nó do áit oibre, le do chéile, do leanbh nó gaol eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Postal delivery: by registered post to your last or most usual place of abode or to your place of business or employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seachadadh sa phost: trí post cláraithe chuig do áit chónaithe is déanaí nó is iondúil duit nó chuig do áit gnó nó an áit ina bhfuil tú fostaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where service is affected by personal delivery, the summons must be served at least 7 days before the date fixed for your court case</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair atá seirbheáil á dhéanamh trí sheachadadh pearsanta, ní mór don toghairm a bheith seirbheáilte ar a laghad 7 lá roimh an dáta atá socraithe dod' chás cúirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the case of registered post, the period is 21 days</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás phost cláraithe, is tréimhse 21 lá atá i gceist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a summons has not been correctly served, you are not obliged to appear in court in response to it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Murar seirbheáladh toghairm i gceart, níl aon iachall ort a theacht i láthair sa chúirt mar fhreagra air</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if you are present in court, there is no reason why the proceedings against you cannot proceed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú i láthair sa chúirt, áfach, níl aon chúis nach féidir leis na himeachtaí i do choinne dul chun cinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In other words, any defect in the service of the summons is corrected by your appearance in court</seg></tuv>
+  <tuv xml:lang="ga"><seg>I bhfocail eile, tá aon locht a bhí ar sheirbheáil na toghairme arna cheartú ag do láithreas sa chúirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Defects or errors on the summons</seg></tuv>
+  <tuv xml:lang="ga"><seg>Lochtanna nó dearmadaí ar an toghairm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is rare that a court dismisses a case on the basis of an error or omission in a summons</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is fíor-annamh a dhíbhíonn an chúirt cás mar gheall ar dhearmad nó easnamh i dtoghairm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Discrepancies or differences, between the facts on the summons and the facts presented to the court by the prosecuting Garda concerning time and place of the incident, does not normally prevent the prosecution of the case</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní iondúil go gcosctar ionchúiseamh an cháis mar thoradh ar neamhréiteach nó difríochtaí idir na fíorais ar an toghairm agus na fíorais a chuireann an Garda atá i mbun an ionchúisimh i láthair na cúirte maidir le ham agus áit an eachtra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In fact, the District Court has discretion to amend a defective summons under Rule 38 of the Distric Court Rules</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go deimhin, tá sé de dhiscréid ag an gCúirt Dúiche toghairm lochtach a leasú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you do not appear in court on the date stated in the summons, the District Court may either:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura dtagann tú i láthair sa chúirt ar an dáta atá sonraithe ar an toghairm, is féidir leis an gCúirt Dúiche:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Go ahead with the hearing in your absence or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Dul ar aghaidh leis an éisteacht i d'uireasa nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Decide to adjourn the matter</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cinneadh a dhéanamh an ábhar a chur ar atráth</seg></tuv>
+</tu>
+</body>
+</tmx>

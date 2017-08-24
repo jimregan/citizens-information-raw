@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Application forms, claim forms and other forms that can be downloaded or completed online</seg></tuv>
+  <tuv xml:lang="ga"><seg>Application forms, claim forms and other forms that can be downloaded or completed online</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most Read in "Reference"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ábhar is mó éilimh i "Reference"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>At what age can I?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cén aois is féidir liom?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Case study: Calculating your income tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cás-staidéar: Do cháin ioncaim a ríomh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Checklist when applying for Jobseeker's Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seicliosta nuair atá iarratas á dhéanamh ar Liúntas Cuardaitheora Poist</seg></tuv>
+</tu>
+</body>
+</tmx>

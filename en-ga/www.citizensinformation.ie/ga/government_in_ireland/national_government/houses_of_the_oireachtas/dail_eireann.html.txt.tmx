@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Dáil Éireann is one of the Houses of the Oireachtas, the national parliament</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ceann de Thithe an Oireachtais é Dáil Éireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Dáil Éireann is located in Dublin</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an tOireachtas ár bparlaimint náisiúnta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Dáil consists of members of the Dáil or TDs – Teachta Dála</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an Dáil déanta suas de bhaill na Dála nó Teachtaí Dála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They are also known as Deputies. TDs are elected directly to the Dáil in a general election</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn TD tofa díreach chun na Dála ag muintir na hÉireann le linn olltoghcháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a vacancy occurs at the Dáil, the seat will be filled by a bye-election</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhíonn folúntas sa Dáil, déanfar an suíochán a líonadh trí fhothoghchán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is a list of current TDs, grouped alphabetically by name or by constituency</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá liosta Teachtaí Dála, grúpáilte in ord aibítre de réir ainm nó Teachtaí Dála grúpáilte de réir toghcheantair ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Constitution states that the number of TDs cannot be more than one for every 20,000 of the population and cannot be less than one for every 30,000</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léiríonn Bunreacht na hÉireann nach féidir ach le Teachta Dála amháin in aghaidh gach 20,000 duine suíochán a bheith aige/aici sa Dáil agus nach féidir leis an uimhir a bheith níos lú ná duine in aghaidh gach 30,000 duine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are currently 158 TDs</seg></tuv>
+  <tuv xml:lang="ga"><seg>I láthair na huaire tá 158 TD againn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The country is divided into 40 constituencies and every constituency must elect at least three members to the Dáil</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an tír roinnte i 40 Dáil cheantar agus tá ar gach Dáil cheantar triúr, ar a laghad, a thogh chun na Dála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As far as possible, the ratio of population to TD must be equal in each constituency</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chomh gar agus is féidir, ní mór don chóimheas Teachta Dála agus daonra a bheith mar an gcéanna i ngach Dáil cheantar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The constituencies must be revised at least once every 12 years, although in practice they are revised after the census is published every 5 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá athbhreithniú le déanamh ar na dáil cheantair gach 12 bliain ach is gnáthach go ndéantar é tar éis Daonáirimh a tharlaíonn gach 5 bliana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An independent Constituency Commission is appointed to draw up a revised scheme of constituencies which is then given effect by an Act of the Oireachtas</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceaptar Coimisiún Toghlaigh neamhspleách chun scéim toghcheantar athbhreithnithe a dhréachtú a gcuirfidh i bhfeidhm tríd Acht an Oireachtais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>TDs represent and work on behalf of the electors in their constituency</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann Teachtaí Dála ionadaíocht ar son na dtoghdóirí ina nDáil cheantar agus déanann said obair dóibh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The maximum life of the Dáil is 5 years, although at any time the Taoiseach may advise the President to dissolve the Dáil</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leis an Dáil dul thar 5 bliana ach is féidir leis an Taoiseach, ag aon am, iarradh ar an Uachtarán an Dáil a lánscoir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can view information on the weekly schedule in the Houses of the Oireachtas</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfar faisnéis a fheiceáil ar sceideal seachtainiúil Thithe an Oireachtais</seg></tuv>
+</tu>
+</body>
+</tmx>

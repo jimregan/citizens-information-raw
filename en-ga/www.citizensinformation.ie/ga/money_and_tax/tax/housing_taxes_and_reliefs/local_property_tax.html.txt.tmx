@@ -1,0 +1,817 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Local Property Tax (LPT)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cáin Mhaoine Áitiúil (CMÁ)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An annual Local Property Tax (LPT) charged on all residential properties in the State came into effect in 2013</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tháinig Cáin Mhaoine Áitiúil (CMÁ) i bhfeidhm in 2013, agus gearrtar í ar gach maoin chónaithe sa Stát</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The LPT is collected by the Revenue Commissioners</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baileoidh na Coimisinéirí Ioncaim an CMÁ</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you own a residential property in the State you are liable for payment of the tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá maoin chónaithe agat sa Stát, tá tú faoi dhliteanas íoc as an gcáin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(This includes local authorities and social housing organisations.) See ‘Who is liable to pay LPT’ below</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Áirítear leis seo údaráis áitiúla agus eagraíochtaí tithíochta sóisialta.) Féach ‘Cé atá faoi dhliteanas íoc as an CMÁ? ’ thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Residential property is any building or structure (or part of a building) which is used as, or is suitable for use as, a dwelling and includes grounds of up to one acre</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is éard is maoin chónaithe ann, aon fhoirgneamh nó struchtúr (nó cuid d’fhoirgneamh) a úsáidtear mar áitreabh, nó ar féidir leas áitribh a bhaint aisti agus áirítear léi tailte a mhéid le hacra amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The LPT does not apply to development sites or farmland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhaineann an CMÁ le suíomhanna forbartha nó le talamh feirme</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The tax payable is based on the market value of relevant properties</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bunaítear an cháin atá le híoc ar luach margaidh na maoine ábhartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The LPT is a self-assessment tax so you calculate the tax due based on your own assessment of the market value of the property</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is cáin féinmheasúnaithe an CMÁ, mar sin, déanann tú féin an cháin atá le híoc a ríomh, bunaithe ar do mheasúnú féin ar luach margaidh na maoine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Revenue does not value properties for LPT purposes but provides guidance on how to value your property – see ‘Valuing your property’ below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní dhéanfaidh na Coimisinéirí Ioncaim maoin a luacháil ar mhaithe le cuspóirí an CMÁ, ach cuirfidh siad treoir ar fáil ar conas do mhaoin a luacháil – féach ‘Do mhaoin a luacháil’ thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Revenue offers a range of methods for paying the tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann na Coimisinéirí Ioncaim réimse modhanna ar fáil chun an cháin a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can opt to make one single payment or you can phase your payments in equal instalments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú a roghnú chun íocaíocht singil amháin a dhéanamh nó féadfaidh tú do chuid íocaíochtaí a íoc de réir a chéile i dtráthchodanna cothroma</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read about how to pay your LPT</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léigh faoi conas do CMÁ a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can log in to the LPT On-line system to view your Local Property Tax record and to pay any arrears (using your PPSN, Property ID and PIN)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú logáil isteach sa chóras CMÁ ar líne chun féachaint ar do thaifead Cáin Mhaoine Áitiúil agus chun aon riaráistí a íoc (trí do UPSP, Aitheantas Maoine agus Uimhir Aitheantais Phearsanta a úsáid)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can also access LPT through Revenue's myAccount and ROS services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir teacht ar CMÁ trí myAccount agus ROS freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Household and Non-Principal Private Residence Charges</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muirir Theaghlaigh agus ar Áit Chónaithe Phríobháideach Neamhphríomha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Local Property Tax (LPT) replaced the Household Charge which was abolished from 1 January 2013</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tháinig an Cháin Mhaoine Áitiúil (CMÁ) in ionad an Mhuirir Theaghlaigh, ar cuireadh deireadh leis ón 1 Eanáir 2013</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Household Charge arrears that were not paid by 1 July 2013 were converted into LPT and are now collected by Revenue through the LPT system</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rinneadh riaráistí an Mhuirir Theaghlaigh nár íocadh faoin 1 Iúil 2013 a iompú ina riaráistí CMÁ, agus bailíonn na Coimisinéirí Ioncaim anois iad trí chóras an CMÁ</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Non-Principal Private Residence (NPPR) charge on second homes applied for 2013 and should be paid to the relevant local authority</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bhí an muirear ar Áit Chónaithe Phríobháideach Neamhphríomha (NPPR) ar an dara teach le híoc in 2013 agus ba cheart í a íoc leis an údarás áitiúil cuí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>From 2014 onwards, the NPPR is no longer charged, but outstanding liabilities and payments will still be collected</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó 2014 amach, ní ghearrtar an NPPR a thuilleadh, ach baileofar dliteanais agus íocaíochtaí nár íocadh go fóill</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Who is liable to pay LPT?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cé atá faoi dhliteanas íoc as CMÁ?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All owners of residential property, including rental properties, are liable to pay the tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá gach úinéir maoin chónaithe, lena n-áirítear maoin ar cíos, faoi dhliteanas íoc as an gcáin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The following groups are also liable for LPT:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, tá na grúpaí a leanas faoi dhliteanas íoc as CMÁ:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• People who have a long-term lease (20 years or more)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Daoine ag a bhfuil léas fadtéarma (20 bliain nó níos mó)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• People with a life interest or long-term right of residence (life or more than 20 years) in a residential property</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Daoine ag a bhfuil leas saoil nó ceart fadtéarma cónaithe (saoil nó 20 bliain) i maoin chónaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Local authorities or social housing organisations</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Údaráis áitiúla nó eagraíochtaí tithíochta sóisialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A person acting as a personal representative for a deceased owner (for example, as an executor/administrator of an estate)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Duine a ghníomhaíonn mar ionadaí pearsanta d’úinéir marbh (mar shampla, mar sheiceadóir/riarthóir eastáit)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Trustees or beneficiaries are jointly liable where a residential property is held in trust</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá iontaobhaithe nó tairbhithe faoi dhliteanas i gcomhpháirt sa chás go bhfuil maoin chónaithe faoi sheilbh in iontaobhas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Joint owners: If there is more than one owner they need to agree who will make the LPT return and pay the tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Comhúinéirí: Má tá breis agus úinéir amháin ann, is gá dóibh comhaontú a dhéanamh ar cé a dhéanfaidh an tuairisceán CMÁ agus a íocfaidh an cháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If no one pays the tax Revenue can collect the Revenue Estimate of the LPT liability from any of the owners</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura n-íocann aon duine an cháin, féadfaidh na Coimisinéirí Ioncaim Meastachán ar Ioncam an dliteanais CMÁ a bhailiú ó aon duine de na húinéirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Rental properties: Where the residential property is rented on a normal short-term lease (less than 20 years), the landlord will be liable for LPT</seg></tuv>
+  <tuv xml:lang="ga"><seg>Maoin ar cíos: Sa chás go bhfuil an mhaoin chónaithe ar cíos ar ghnáthléas fadtéarma (níos lú ná 20 bliain), beidh an tiarna talún faoi dhliteanas íoc as CMÁ</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Long-term leases (more than 20 years), life tenancies and situations where a person occupies a residential property on a rent-free basis over an extended period and without challenge to their right of occupation will be treated as if the occupant owns the property</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfear le léasanna fadtéarma (níos faide ná 20 bliain), tionóntachtaí saoil agus cásanna ina n-áitíonn duine maoin chónaithe ar bhonn saor ó chíos thar thréimhse fhada agus nach gcuirtear in aghaidh a gcirt áitíochta, amhail ar leis an áititheoir an mhaoin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In these circumstances, the occupant will be liable for LPT</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sna cúinsí seo, beidh an t-áititheoir faoi dhliteanas íoc as CMÁ</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are a liable person for the Local Property Tax if you own a residential property on the liability (or ownership) date</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is duine faoi dhliteanas thú chun íoc as an gCáin Mhaoine má tá maoin chónaithe agat ar dháta an dliteanais (nó ar dháta na húinéireachta)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The liability date was 1 May 2013 for the year 2013</seg></tuv>
+  <tuv xml:lang="ga"><seg>B'ionann dáta an dliteanais agus an 1 Bealtaine 2013 don bhliain 2013</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>From 2014 on, the liability date is always 1 November in the preceding year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Do 2014 agus na blianta ina dhiaidh sin, is ionann dáta an dliteanais agus an 1 Samhain sa bhliain roimhe sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For 2017 the liability date is 1 November 2016</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ionann dáta an dliteanais don bhliain 2017 an 1 Samhain 2016</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Unoccupied and uninhabitable properties</seg></tuv>
+  <tuv xml:lang="ga"><seg>Maoin neamhchónaithe agus ináitrithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a residential property is suitable for use as a dwelling but is unoccupied, it is liable for LPT</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá maoin chónaithe feiliúnach chun úsáid mar teach cónaithe ach atá neamhchónaithe, tá sé dlite do CMÁ</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if the property is not suitable for use as a dwelling, it is not liable for LPT and you do not need to make an LPT return</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin féin, mura bhfuil an mhaoin feiliúnach chun é a úsáid mar theach cónaithe, níl sé dlite do CMÁ agus ní gá duit tuairiscéan CMÁ a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you think that your property is not suitable for use as a dwelling and it is not being lived in, you must notify Revenue as soon as possible after receiving your LPT return</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má cheapann tú nach bhfuil do mhaoin feiliúnach chun úsáid mar theach cónaithe agus níl aon duine ina chónaí ann, ní mór na Coimisinéirí Ioncaim a fhógrú chomh luath agus is féidir i ndiaidh duit do thuairisceán CMÁ a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must also include relevant supporting documentation, for example, an engineer’s report</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart doiciméadú cuí a chur leis, cuir i gcás, tuairisc ón innealtoir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Revenue will consider your claim and make a decision using the documentation you provide</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfaidh na Coimisinéirí Ioncaim seo a mheas bunaithe ar an doiciméadú seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a property is a residential property on the liability date in any year (since 2013) it is a relevant residential property and is chargeable to LPT</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más maoin chónaithe maoin ar dháta an dliteanais i mbliain áirithe (as 2013 amach) is maoin ábhartha chónaithe í agus táthar in ann an CMÁ a ghearradh uirthi</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Certain properties are exempt from LPT</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá roinnt maoine díolmhaithe ón CMÁ</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find out more in our document on Exemptions from Local Property Tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léigh tuilleadh inár ndoiciméad Díolúintí ón gCáin Mhaoine Áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Note that, even if you own an exempt property, you must still make a return to claim an exemption</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabhair faoi deara, fiú má tá maoin dhíolmhaithe agat, ní mór duit tuairisceán a dhéanamh chun díolúine a éileamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The tax is based on the chargeable value of a residential property on the valuation date</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an cháin bunaithe ar luach inmhuirir mhaoin chónaithe ar dháta an dliteanais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The chargeable value is defined as the market value that the property could reasonably be expected to fetch in sale on the open market on the valuation date</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sainmhínítear an luach inmhuirir mar an luach margaidh a bhféadfaí coinne réasúnta bheith leis go n-íocfaí don mhaoin ar díol ar an margadh oscailte ar dháta an luachála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The valuation date is 1 May 2013</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é dáta an luachála an 1 Bealtaine 2013</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This valuation applies until 1 November 2019. This means that the valuation of your property for LPT purposes on 1 May 2013 will stay the same until 2019 (even if you make improvements to your property)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Maireann an luacháil go dtí 1 Samhain 2019 Ciallaíonn seo go bhfanfaidh luach do mhaoine ar mhaithe le cuspóirí an CMÁ an 1 Bealtaine 2013 mar an gcéanna ó 1 Bealtaine 2013 go 2019 (fiú má dhéanann tú feabhsúcháin ar do mhaoin)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A property adapted to make it suitable for occupation by a person with a disability (where the adaptation work resulted in an increase in the value of the property) can qualify for a reduction in the market value of the property for LPT purposes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le maoin chónaithe a leasaíodh chun é a dhéanamh feiliúnach do dhuine ar éagumas (nuair a ardaíonn an obair luach na maoine) cáiliú do laghdú i luach margaidh na maoine do chuspóirí CMÁ Ag tráth bhí gá le deontas ó údarás áitiúil a fháil ach ní a thuilleadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There was a requirement for this work to have been grant-aided by a local authority but this no longer applies. You can read Revenue's Guidelines on Local Property Tax Relief for Disabled/Incapacitated Individuals (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir a thuilleadh a léamh anseo Treoirlínte na gCoimisinéirí Ioncaim ar Fhaoiseamh ó Cháin Mhaoine Áitiúil do Dhaoine atá faoi Mhíchumas (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Valuation was by self-assessment in 2013</seg></tuv>
+  <tuv xml:lang="ga"><seg>Trí fhéinmheasúnú a bhí an luacháil in 2013</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Revenue developed an online guide providing indicative property values</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá fáil ar threoir ar líne a thugann luachanna táscacha maoine ar revenue.ie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This guide helps you to value your property by providing average indicative values for different property types in your local area</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann an treoir seo meánluachanna táscacha le haghaidh saghsanna éagsúla maoine sa cheantar ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can check the register of residential property sales, published by the Property Services Regulatory Authority (PSRA), propertypriceregister.ie, when considering the value of your property</seg></tuv>
+  <tuv xml:lang="ga"><seg>B’fhéidir go mbeadh clár na ndíolachán maoin chónaithe áisiúil, a fhoilsíonn an tÚdarás Rialála Seirbhísí Maoine (PSRA), propertypriceregister.ie, nuair a bhíonn tú ag smaoineamh ar luach do mhaoine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you follow Revenue’s guidance honestly, Revenue will accept your self-assessed property valuation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má leanann tú treoir na gCoimisinéirí Ioncaim go macánta, glacfaidh siad le do luacháil fhéinmheasúnaithe maoine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Revenue’s valuation guidance is intended to help property owners but each property owner must consider the specifics of their own property when working out its value</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá treoir luachála na gCoimisinéirí Ioncaim in ainm is cabhrú le húinéirí maoine, ach ní mór do gach úinéir maoine aird bheith ar shonraí sonracha a maoine féin nuair a bhíonn a luacháil á deimhniú acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Revenue may query your valuation if it has reason to believe your property has been under-valued</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhíonn údar ag na Coimisinéirí Ioncaim a cheapadh nár leanadh a dtreoir luachála, féadfaidh siad do luacháil a fhiosrú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You do not have to include documentation when submitting your LPT Return</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní gá duit cáipéisíocht a chur san áireamh nuair atá do Thuairisceán CMÁ á sheoladh ar ais agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However you should keep copies of the information sources when valuing your property in case Revenue queries your valuation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart duit cóipeanna d’fhoinsí na faisnéise a choimeád, áfach, nuair ata luacháil á déanamh ar do mhaoin sa chás go bhfiosraíonn na Coimisinéirí Ioncaim do luacháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These might include the property section of your local newspaper, information on the sales price of a similar house sold in the area, information downloaded from property websites or details taken from Revenue’s valuation guidance</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfaí a áireamh leo, an mhír mhaoine i do nuachtán áitiúil, faisnéis ar an bpraghas díola a íocadh ar a mhacasamhail de theach sa cheantar, faisnéis a íoslódáladh ó láithreáin ghréasáin mhaoine nó sonraí a glacadh ó threoir luachála na gCoimisinéirí Ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Revenue Commissioners can legally enter a residential property for the purpose of ascertaining its chargeable value</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh na Coimisinéirí Ioncaim maoin chónaithe a iontráil go dlíthiúil ar mhaithe lena luach inmhuirir a dheimhniú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must permit a person authorised by the Revenue Commissioners to inspect the property if they consider this necessary</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit cead a thabhairt do dhuine atá údaraithe ag na Coimisinéirí Ioncaim chun iniúchadh a dhéanamh ar an maoin má mheasann siad gur gá seo a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you did not submit a Local Property Tax return with your self-assessment of the LPT payable, the Revenue Estimate becomes due and payable</seg></tuv>
+  <tuv xml:lang="ga"><seg>Murar sheol tú ar aghaidh tuairisceán Cáin Mhaoine Áitiúil le d’fhéinmheasúnú ar an CMÁ atá le híoc, beidh an Meastachán ar Ioncam dlite agus le híoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Revenue Estimate is automatically displaced when you submit a return with your self-assessment of the amount of LPT due</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar neamhaird a thabhairt don Mheastachán ar Ioncam nuair a sheolann tú tuairisceán le do shuim fhéinmheasúnaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are liable for LPT if you own a property on the liability date</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tú faoi dhliteanas CMÁ a íoc má tá maoin agat ar an dáta dliteanais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The liability date for 2013 was 1 May 2013</seg></tuv>
+  <tuv xml:lang="ga"><seg>B'é an dáta dliteanais le haghaidh 2013 an 1 Bealtaine 2013</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The liability date for 2014 was 1 November 2013</seg></tuv>
+  <tuv xml:lang="ga"><seg>B'é an dáta dliteanais le haghaidh 2014 an 1 Samhain 2013</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The liability date for 2015 was 1 November 2014</seg></tuv>
+  <tuv xml:lang="ga"><seg>B'é an dáta dliteanais le haghaidh 2015 an 1 Samhain 2014</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The liability date for 2016 was 1 November 2015</seg></tuv>
+  <tuv xml:lang="ga"><seg>B'é an dáta dliteanais le haghaidh 2016 an 1 Samhain 2015</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The liability date for 2017 is 1 November 2016</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sé an dáta dliteanais le haghaidh 2017 an 1 Samhain 2016</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The actual charge payable on the property is based on its value on the valuation date (1 May 2013). The next valuation date is 1 November 2019</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bunaítear an muirear féin atá le híoc ar an maoin ar a luach ar dháta na luachála (an 1 Bealtaine 2013. Sé 1 Samhain 2019 an céad dáta luachála eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, if you own a property on 1 November 2016 and subsequently sell it any time before 1 November 2017 you are liable to pay LPT for 2017</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, má tá maoin agat an 1 Samhain 2016 agus má dhíolann tú í tráth ar bith roimh an 1 Samhain 2017, tá tú faoi dhliteanas íoc as an CMÁ le haghaidh 2017</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This payment should be made before the sale of the property closes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, ba cheart an íocaíocht seo a dhéanamh sula gcuirtear deireadh le díol na maoine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In most cases a residential property that was exempt on 1 May 2013 continues to be exempt until the next valuation date even where the property is sold or ownership is transferred by way of gift or an inheritance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chuid is mó de chásanna, aon maoin chónaithe a bhí díolúine ar an 1 Bealtaine 2013, leanann sé ar aghaidh mar sin go dtí an chéad dáta luachála eile fiú nuair atá an mhaoin díolta nó nuair a aistrítear úinéireacht de bharr bronntanas nó oidhreachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In these cases the exemption automatically carries over to the new owner of the property</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sna cásanna seo, iompaíonn an díolúine seo ar aghaidh don úinéir nua den mhaoin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is one exception to this</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon eisceacht leis seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Second-hand properties purchased between 1 January 2013 and 31 December 2013 are exempt until the end of 2019 if used as your sole or main residence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá maoine dara láimhe a cheannaíodh idir an 1 Eanáir 2013 agus an 31 Nollaig 2013 díolúine go dtí deireadh 2019 má úsáidtear é mar an t-aon teach cónaithe amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, where the property is subsequently sold or otherwise transferred to a new owner after 2013 this exemption no longer applies</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin féin, nuair atá an mhaoin díolta nó aistrithe go úinéir nua i ndiaidh 2013, ní bhaineann an eisceacht seo a thuilleadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Local Property Tax (LPT) is based on market value bands</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an Cháin Mhaoine Áitiúil bunaithe ar bhandaí luach margaidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The first band covers all properties worth up to €100,000</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuimseoidh an chéad bhanda gach maoin a mhéid le €100,000</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Bands then go up in multiples of €50,000</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ansin gabhann bandaí aníos in iolraithe €50,000</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The basic LPT rate was set at 0.18% for properties valued under €1 million and 0.25% on the amount of the value over €1 million</seg></tuv>
+  <tuv xml:lang="ga"><seg>Socraíodh an bunráta CMÁ ag 0.18% i measc maoine ar a raibh luach faoi bhun €1 milliún agus 0.25% ar mhéid an luacha os cionn €1 milliún</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>From 2015 these basic rates can be increased or decreased by up to 15% (see ‘The local adjustment factor’ below)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó 2015 ar aghaidh, féadtar na bunrátaí seo a mhéadú nó a laghdú a mhéid le 15% (féach ‘An fachtóir coigeartaithe áitiúil’ thíos)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Local Property Tax Table</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tábla na Cánach Maoine Áitiúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Valuation band, € │Mid-point, € │Standard rate │Standard LPT payment, € │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Banda luachála, € │Lárphointe │Ráta │Ráta caighdeánach │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Properties worth more than €1 million are assessed on the actual value at 0.18% on the first €1 million and 0.25% on the portion above €1 million</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfar measúnú ar mhaoin ar fiú breis agus €1 milliún iad ar an luach iarbhír amhail 0.18% ar an gcéad mhilliún agus 0.25% ar an gcomhréir os cionn €1 milliún</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can view a table of all LPT rates including the local adjustment factor on revenue.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tábla na rátaí CMÁ uile, ina measc an fachtóir coigeartaithe áitiúil, ar revenue.ie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Revenue has developed an on-line calculator that you can use to work out how much Local Property Tax is payable on your property based on your self-assessed valuation</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhorbair na Coimisinéirí Ioncaim áireamhán ar líne ar féidir leat leas a bhaint as chun a dheimhniú cé mhéid Cáin Mhaoine Áitiúil atá le híoc ar do mhaoin bunaithe ar do luacháil féinmheasúnaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The local adjustment factor</seg></tuv>
+  <tuv xml:lang="ga"><seg>An fachtóir coigeartaithe áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>From 2015 onwards, local authorities can vary the basic LPT rate on residential properties in their administrative area</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó 2015 ar aghaidh, féadann údaráis áitiúla bunráta an CMÁ ar mhaoin chónaithe atá ina limistéar riaracháin a éagsúlú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The basic rates of LPT are 0.18% and 0.25%</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad na bunrátaí den CMÁ 0.18% agus 0.25%</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These rates can be increased or decreased by up to 15% (both rates must be adjusted by the same amount)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadtar na rátaí seo a mhéadú nó a laghdú a mhéid le 15% (ach ní mór an dá ráta a choigeartú den mhéid céanna)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is referred to as the local adjustment factor</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar an fachtóir coigeartaithe áitiúil air seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The introduction of the local adjustment factor means that residential properties of the same value in different local authority areas may pay different amounts of LPT from 2015 on, depending on whether the local authority has applied a local adjustment factor or not</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar gheall ar an bhfachtóir coigeartaithe áitiúil a thabhairt isteach, d’fhéadfadh maoin chónaithe ar a bhfuil an luach céanna i gceantair éagsúla údaráis áitiúil suimeanna éagsúla den CMÁ a íoc ó 2015 ar aghaidh, ag brath ar cibé acu ar chuir nó nár chuir an t-údarás áitiúil fachtóir coigeartaithe áitiúil i bhfeidhm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a local authority passes a resolution to vary the basic LPT rates of 0.18% and 0.25% for 2017, Revenue must have been notified of the local adjustment factor on or before 30 September 2016</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má ritheann údarás áitiúil réiteach chun bunrátaí 0.18% agus 0.25% an CMÁ a éagsúlú don bhliain 2017, ní mór na Coimisinéirí Ioncaim a chur ar an eolas i dtosach báire ar an bhfachtóir coigeartaithe áitiúil an 30 Meán Fómhair 2016 nó roimhe sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The local authority must also publish a notice of the variation of LPT on its website and in at least one local newspaper</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don údarás áitiúil fógra a fhoilsiú, chomh maith, ar éagsúlú an CMÁ ar a láithreán gréasáin agus i nuachtán áitiúil amháin, ar a laghad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Revenue then adjusts the LPT liability for residential properties within the local authority’s administrative area</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann na Coimisinéirí Ioncaim an dliteanas CMÁ a choigeartú, ansin, do mhaoin chónaithe laistigh de limistéar riaracháin an údaráis áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, if your house is valued under €100,000, you will have paid €90 LPT in 2016 at the standard rate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, má rinneadh luacháil faoi bhun €100,000 ar do theach, d’íoc thú CMÁ €90 in 2016 ar an ghnáthrata</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the LPT rate in your local authority area is decreased by 15%, you pay €76 LPT in 2017</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má laghdaíodh ráta an CMÁ i d’údarás áitiúil de 15%, íocfaidh tú CMÁ €76 in 2017</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You do not need to do anything</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní gá duit aon rud a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your LPT record was updated in October 2016 to include your 2017 LPT charge and you can confirm your LPT rate for 2017 by accessing your online LPT record using your PPS number, Property ID and PIN</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuashonraíodh do thaifead CMÁ i nDeireadh Fómhair 2016 chun do mhuirear CMÁ le haghaidh 2017 a chur san áireamh agus féadfaidh tú do ráta CMÁ le haghaidh 2017 a dheimhniú trí rochtain a fháil ar do thaifead CMÁ ar líne trí d’Uimhir PSP, Aitheantas Maoine agus d’Uimhir Aitheantais Phearsanta a úsáid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Revenue’s online calculator has been adjusted to include the local adjustment factor where it applies</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú níos mó faisnéise agus samplaí a léamh ó na Coimisinéirí Ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Example 1: Property valued under €1 million │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Sampla 1: Maoin luacháiltear faoi €1 milliún │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│If the market value of my residential property is €230,000, how much tax will I have to pay?</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Más ionann luach margaidh mo mhaoine cónaithe agus €230,000, cé mhéid cánach a bheidh le híoc agam?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Market value: €230,000 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Luach margaidh: €230,000 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Value band: €200,000 to €250,000 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Banda luacha: Idir €200,000 agus €250,000 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Mid-point of value band: €225,000 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Lárphointe an bhanda luacha: €225,000 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Calculation: €225,000 x 0.18% = €405 for a full year │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Ríomh: €225,000 x 0.18% = €405 do bhliain iomlán. │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Answer: €405 is the amount you pay</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Freagra: Is ionann €405 agus an méid a bheidh ort íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Example 2: Property valued over €1 million │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Sampla 2: Maoin a luacháiltear os cionn €1 milliún │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│If the market value of my residential property is €1,340,000 how much tax will I have to pay?</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Más ionann luach margaidh mo mhaoine cónaithe agus €1,340,000, cé mhéid cánach a bheidh le híoc agam?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Market value: €1,340,000 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Luach margaidh: €1,340,000 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│First €1 million: €1,000000 x 0.18% = €1,800 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│An chéad €1 milliún: €1,000000 x 0.18% = €1,800 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Remaining €340,000 x 0.25% = €850 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│An fuílleach €340,000 x 0.25% = €850 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Calculation: €1,800 + €850 = €2,650 for a full year │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Ríomh: €1,800 + €850 = €2,650 do bhliain iomlán. │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Answer: €2,650 is the amount you pay</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Freagra: Is ionann €2,650 agus an méid a bheidh ort íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is a system of deferral arrangements for some owners</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá córas de shocruithe iarchuir ann do roinnt úinéirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can read more about deferrals in our document, Deferring payment of the Local Property Tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú tuilleadh a léamh faoi iarchuir inár gcáipéis Íocaíocht na Cánach Maoine Áitiúla a iarchur</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>During March 2013, Revenue sent notices to all liable persons</seg></tuv>
+  <tuv xml:lang="ga"><seg>Le linn Mhárta 2013, sheol na Coimisinéirí Ioncaim fógra go dtí gach duine a bhí faoi dhliteanas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This notice advised you of your property tax obligations and explained how to complete your property tax return</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuir an fógra seo ar an eolas thú faoi do chuid dualgais chánach agus mhínigh sé duit conas do thuairisceán cáin mhaoine a chomhlánú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you owned or had a long-term lease on a property on 1 May 2013, you were a liable person and should have submitted your return to Revenue on or before 7 May 2013 (see section ‘Who is liable to pay LPT’ above for further details)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhí maoin agat nó léas fadtéarma agat ar mhaoin an 1 Bealtaine 2013, duine faoi dhliteanas a bhí ionat agus ba ghá duit do thuairisceán a sheoladh ar ais go dtí na Coimisinéirí Ioncaim an 7 Bealtaine 2013 nó roimhe sin (féach an mhír ‘Cé atá faoi dhliteanas íoc as an CMÁ? ’ thuas chun teacht ar bhreis sonraí)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you submitted your return online through the Revenue website you had until 28 May 2013</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má sheol tú do thuairisceán go leictreonach, trí láithreán gréasáin na gCoimisinéirí Ioncaim, bhí 3 seachtaine sa bhreis agat (go dtí an 28 Bealtaine 2013)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you own more than one residential property or you are obliged to make your tax returns online you must make your return online</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá breis agus maoin amháin agat nó má tá dualgas ort do thuairisceáin chánach a dhéanamh ar líne, ní mór duit do thuairisceán a dhéanamh go leictreonach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(Note that if you have problems making an online return you can get help in your local Revenue office, where computers are available and a Revenue official will help you</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Tabhair faoi dear má tá fadhbanna agat ag déanamh tuairisceáin ar líne, is féidir cabhair a fháil in Oifig na gCoimisinéirí Ioncaim áitiúil, áit a bhfuil ríomhairí ar fáil agus cuideoidh oifigeach leat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Alternatively, you may authorise another person to file your LPT return for you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sin nó is féidir leat duine a údarú chun do thuairisceán CMÁ a chomhadú duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can also call 1890 200 255 to pay and file online over the telephone</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir glaoch ar 1890 200 255 chun íoc agus comhadú ar líne thar an teileafón</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will need your property details and details of your bank account or other source from which you want the payment deducted.)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh de dhíth ort do shonraí maoine agus sonraí bainc nó acmhainn eile lena n-íocfaidh tú.)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>People who own exempt properties must make a return to claim an exemption</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór do dhaoine a bhfuil maoin dhíolmhaithe acu tuairisceán a dhéanamh chun díolúine a éileamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Note that if you bought a new property in 2013 or if you bought a property as your main residence in 2013 an exemption from LPT applies until 2019</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabhair faoi deara, má cheannaigh tú maoin nua i 2013 nó má cheannaigh tú maoin mar do phríomháit chónaithe i 2013, bíonn díolúine ón CMÁ i gceist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, you must still make a return</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit tuairisceán a chomhlánú agus a sheoladh ar ais mar sin féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In your return, you include your assessment of the valuation of your property by selecting the relevant market value band and choose a payment method</seg></tuv>
+  <tuv xml:lang="ga"><seg>I do thuairisceán, cuirfidh tú san áireamh do mheasúnú ar luacháil do mhaoine tríd an luach ábhartha margaidh a roghnú agus modh íocaíochta a roghnú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can also claim a deferral of payment if you are eligible to do so – see ‘Voluntary deferrals’ above</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa mhullach air sin, féadfaidh tú iarchur íocaíochta a roghnú má tá tú i dteideal amhlaidh a dhéanamh – féach ‘Iarchur deonach’ thuas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can see a sample LPT Return form (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú súil a chaitheamh ar fhoirm shamplach Thuairisceán CMÁ (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>After submitting your return in 2013 you do not have to submit another one until 1 November 2019</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tar éis gur sheol tú do thuairisceán in 2013, ní gá duit ceann eile a sheoladh go dtí an 1 Samhain 2019 (murach go n-athraíonn do chúinsí nó gur mian leat modh eile íocaíochta a roghnú)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You pay the LPT every year based on the valuation on 1 May 2013</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocfaidh tú an CMÁ gach bliain ar bhonn an mheasúnaithe a rinneadh ar 1 Bealtaine 2013</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Revenue offer a range of methods for paying the tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann na Coimisinéirí Ioncaim réimse modhanna ar fáil chun an cháin a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can opt to make one single payment or you can phase your payments in equal instalments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú a roghnú chun íocaíocht singil amháin a dhéanamh nó féadfaidh tú do chuid íocaíochtaí a íoc de réir a chéile i dtráthchodanna cothroma</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can read about how to pay the LPT in our document 'Paying the Local Property Tax'</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú a léamh faoi conas an CMÁ a íoc inár gcáipéis ‘An Cháin Mhaoine Áitiúil a Íoc’</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you opt for payment by instalment, such as direct debit or deduction at source, payment will be spread evenly over the rest of the year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má roghnaíonn tú íoc trí thráthchuid, ar nós dochar díreach nó asbhaint ag an bhfoinse, sínfear an íocaíocht go cothrom thar an gcuid eile den bhliain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│LPT dates │2013 │2014 │2015 │2016 │2017 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Dátaí an CMÁ │2013 │2014 │2015 │2016 │2017 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Liability date │1 May 2013 │1 November 2013 │1 November 2014 │1 November 2015 │1 November 2016 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Dáta an dliteanais │An 1 Bealtaine 2013 │An 1 Samhain 2013 │An 1 Samhain 2014 │An 1 Samhain 2015 │An 1 Samhain 2016 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Valuation date │1 May 2013 │Continues to be 1 May 2013 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Dáta na luachála │An 1 Bealtaine 2013 │An 1 Bealtaine 2013 go fóill │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Date by which you must make a paper return │7 May 2013 │ │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│An dáta faoinar gá duit tuairisceán ar pháipéar a dhéanamh │An 7 Bealtaine 2013 │ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>├──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┼─────────────┤Returns made in 2013 remain in force except in some very limited circumstances │</seg></tuv>
+  <tuv xml:lang="ga"><seg>├───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┼────────────────────┤Fanann tuairisceáin a rinneadh in 2013 i bhfeidhm, seachas faoi roinnt cúinsí an-teoranta │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Date by which you must make an online return │28 May 2013 │ │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│An dáta faoinar gá duit tuairisceán ar líne a dhéanamh │An 28 Bealtaine 2013│ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Date on which you start to pay if you are paying by deduction at source from salary/ pension/certain Government payments or making regular payments to a payment service provider │1 July 2013 │1 January 2014 │January 2015 │January 2016 │January 2017 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│An dáta a thosóidh tú ag íoc má bheidh tú ag íoc trí asbhaint ag an bhfoinse ó thuarastal nó pinsean nó trí íocaíochtaí rialta airgid a dhéanamh le soláthróir seirbhís íocaíochta │An 1 Iúil 2013 │An 1 Eanáir 2014 │An 7 Eanáir 2015 │An 7 Eanáir 2016 │An 11 Eanáir 2017 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Date on which you start to pay if you are paying in instalments by direct debit │15 July 2013 │15 January 2014 │15 January 2015 │15 January 2016 │15 January 2017 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│An dáta a thosóidh tú ag íoc má íocfaidh tú trí thráthchodanna trí dhochar díreach │An 15 Iúil 2013 │An 15 Eanáir 2014 │An 15 Eanáir 2015 │An 15 Eanáir 2016 │An 15 Eanáir 2017 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Date on which a bank single debit authority will be debited │21 July 2013 │21 March 2014 │21 March 2015 │21 March 2016 │21 March 2017 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│An dáta a chuirfear do dhochar údarú dochair shingil bhainc │An 21 Iúil 2013 │An 21 Márta 2014 │An 21 Márta 2015 │An 21 Márta 2016 │An 21 Márta 2017 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In most cases if you wish to amend your submitted return, you can do so online</seg></tuv>
+  <tuv xml:lang="ga"><seg>I bhformhór na gcásanna, más mian leat do thuairisceán a leasú, tar éis duit é a sheoladh ar ais, féadfaidh tú amhlaidh a dhéanamh ar líne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However you must apply in writing if you wish to amend your valuation downwards</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit iarratas i scríbhinn a dhéanamh, áfach, más mian leat do luacháil a leasú go luacháil anuas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Any amendment must be supported by evidence to explain or prove the need to decrease the value</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go dtacaítear le haon leasú ag fianaise lena mhíniú nó lena chruthú gur gá an luach a laghdú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Appropriate evidence can be in the form of recent sales or advertised house prices in the area, professional valuations or house price surveys for the area</seg></tuv>
+  <tuv xml:lang="ga"><seg>I dtaobh fianaise ábhartha, glacfar le díolacháin a rinneadh le déanaí nó praghsanna tí atá fógartha sa cheantar, luachálacha gairmiúla nó suirbhéanna ar phraghsanna tí don cheantar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find out more in Revenue's Self-Correction Guidelines</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú teacht ar bhreis eolais i dTreoirlínte um Fhéincheartú na gCoimisinéirí Ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>What happens if you don’t pay?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Céard a tharlaíonn mura n-íocaim an chain?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Each return sent out by Revenue includes a notice of the Revenue Estimate of the tax due</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áireofar le gach tuairisceán a sheolann na Coimisinéirí Ioncaim fógra faoi Mheastachán ar Ioncam na cánach atá le híoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are a liable person and you do not submit a return, the Revenue Estimate will become payable by default and Revenue will collect the amount due</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más duine faoi dhliteanas thú agus mura seolann tú tuairisceán ar aghaidh, beidh an Meastachán ar Ioncaim le híoc trí mhainneachtain agus baileoidh na Coimisinéirí Ioncaim an méid atá le híoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Revenue can use a range of collection options including:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis na Coimisinéirí Ioncaim réimse roghanna a úsáid chun bailiú a dhéanamh:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Mandatory deduction from your salary, wages or occupational pension</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Laghdú sainordaitheach ó do thuarastal, pá nó pinsean ceirde</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Attachment of your bank account (this means taking money without your consent using an attachment order)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ceangaltán de do chuntas bainc (ciallaíonn seo ag tógáil airgid amach gan do chead ag baint úsáide as ordú ceangaltáin)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Referral of the debt to a sheriff or a solicitor for collection</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Atreorú fiacha do shirriam nó dlíodóir chun bailiú a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The withholding of refunds of other tax as payment against LPT due</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Coinneáil siar aisíocaíochtaí de cháin eile chun íoc as CMÁ</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Revenue Estimate will automatically be displaced when you submit a return with your self-assessment of the amount of LPT due</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Déantar neamhaird a thabhairt don Mheastachán ar Ioncam go huathoibríoch nuair a sheolann tú tuairisceán le d'fhéinmheasúnú den tsuim CMÁ atá le híoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Self-employed people: If you are self-employed and do not make your LPT Return with a self-assessment of your LPT liability, the amount set out in the Revenue Estimate will be collected using normal collection and enforcement options (for example, sheriff, court action or attachment orders)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Daoine féinfhostaithe: Má tá tú féinfhostaithe agus mura ndéanann tú do Thuairisceán CMÁ le féinmheasúnú ar do dhliteanas CMÁ, baileofar an méid a leagtar amach sa Mheastachán ar Ioncam trí ghnáthroghanna bailithe agus forfheidhmithe (mar shampla, an sirriam, gníomhaíocht chúirte nó orduithe astaithe)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you fail to pay your LPT, Revenue will not issue you with a tax clearance certificate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má theipeann ort do CMÁ a íoc, ní eiseoidh na Coimisinéirí Ioncaim deimhniú imréiteach cánach duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In addition, a self-employed person who fails to submit his or her LPT return on time may incur an LPT-generated surcharge when filing their income tax return, regardless of whether the income tax return is submitted on time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Anuas air sin, d’fhéadfaí formhuirear a ghearradh ar dhuine féinfhostaithe a dteipeann air/uirthi a t(h)uairisceán CMÁ a sheoladh ar aghaidh go tráthúil mar gheall ar sheoladh ar aghaidh déanach a t(h)uairisceáin cháin ioncaim, gan aird ar cibé acu ar seoladh nó nár seoladh an tuairisceán cáin ioncaim ag an tráth ceart</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If Revenue does not collect the amount of LPT due, for whatever reason, then a charge will be put on your property</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura mbailíonn na Coimisinéirí Ioncaim an méid den CMÁ atá le híoc, ar cibé cúis, gearrfar táille ar do mhaoin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will not be able to sell it without paying the tax together with interest and, where appropriate, penalties</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bheidh tú in ann í a dhíol gan an cháin a íoc, mar aon leis an ús agus, sa chás cuí, na pionóis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can get more information on Failure to meet LPT obligations from Revenue</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú tuilleadh faisnéise a fháil ó na Coimisinéirí Ioncaim ar Theip ar dhualgais CMÁ a chomhlíonadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can contact the Office of the Ombudsman if you are unhappy about the way in which Revenue has handled any aspect of your tax affairs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú teagmháil a dhéanamh le hOifig an Ombudsman mura bhfuil tú sásta faoin mbealach inar láimhseáil na Coimisinéirí Ioncaim aon ghné de do chuid gnóthaí cánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Ombudsman's staff examine complaints about the administrative actions of government departments and offices, including Revenue</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann foireann an Ombudsman gearáin a fhiosrú faoi gníomhartha riaracháin ranna agus oifigí rialtais, lena n-áirítear na Coimisinéirí Ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In general, because LPT is a self-assessed tax, formal appeals only arise in a small number of situations</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, mar gheall gur cáin féinmheasúnaithe é an CMÁ, ní eascraíonn achomhairc fhoirmiúla ach amháin i líon beag cásanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you do not agree with a Revenue Estimate you can displace it by submitting a return with your own self-assessment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura gcomhaontaíonn tú le Meastachán ar Ioncam, féadfaidh tú neamhaird a thabhairt air trí thuairisceán a sheoladh ar aghaidh le d’fhéinmheasúnú féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Since Revenue has compiled a register of residential properties from various sources there may be errors about ownership of some properties</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar gheall gur chuir na Coimisinéirí Ioncaim clár i dtoll a chéile den mhaoin chónaithe ó fhoinsí éagsúla, d'fhéadfadh roinnt earráidí bheith ann faoi úinéireacht roinnt maoine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you got a LPT Return form and you do not consider yourself a liable person for that property you should notify Revenue in writing within 30 days of receiving the letter</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhaigheann tú foirm Thuairisceán CMÁ agus mura measann tú go bhfuil tú faoi dhliteanas don mhaoin sin, ba cheart duit na Coimisinéirí Ioncaim a chur ar an eolas i scríbhinn laistigh de 30 lá tar éis duit an litir a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should include an explanation of why you do not consider yourself a liable person, the details of the person you think is the liable person (name, address and PPS Number) and supporting documentation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart duit míniú a chur san áireamh faoi cén fáth nach measann tú gur duine faoi dhliteanas thú, sonraí an duine a cheapann tú atá faoi dhliteanas (ainm, seoladh agus uimhir PSP) agus cáipéisíocht tacaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is very important that you contact Revenue since if the error is not corrected you are liable to pay the tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé an-tábhachtach go ndéanann tú teagmháil leis na Coimisinéirí Ioncaim, mar gheall go mbeidh tú faoi dhliteanas íoc as an gcáin mura gceartaítear an earráid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Revenue will use the information you supply to make a determination on whether you are a liable person</seg></tuv>
+  <tuv xml:lang="ga"><seg>Úsáidfidh na Coimisinéirí Ioncaim an fhaisnéis a sholáthraíonn tú chun cinneadh a dhéanamh ar cibé acu an duine faoi dhliteanas thú nó a mhalairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you do not agree you can appeal this determination to the Appeal Commissioners</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura gcomhaontaíonn tú, féadfaidh tú an cinneadh seo a achomharc leis na Coimisinéirí Achomhairc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you disagree with Revenue on other matters (for example, whether the property is residential, the valuation or whether you can defer payment) and the matter cannot be resolved, Revenue will issue a formal Notice of Assessment or a formal decision on the matter to you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má easaontaíonn tú leis na Coimisinéirí Ioncaim ar cheisteanna eile (mar shampla, cibé acu an mhaoin chónaithe an mhaoin nó nach maoin chónaithe í, an luacháil nó cibé acu an féidir leat nó nach féidir leat an íocaíocht a iarchur) agus murar féidir an cheist a réiteach, eiseoidh na Coimisinéirí Ioncaim Fógra foirmiúil Measúnaithe nó cinneadh foirmiúil ar an gceist duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your right to appeal to the Appeal Commissioners will be set out clearly on the notices</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagfar amach do cheart chun achomharc a dhéanamh leis na Coimisinéirí Achomhairc go soiléir ar na fógraí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However you must make a return and pay any tax due before you can appeal the Notice of assessment or any other Revenue decision</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit tuairisceán a dhéanamh, áfach, agus aon cháin atá le híoc a íoc sular féidir leat achomharc a dhéanamh i leith Fógra measúnaithe nó aon chinneadh eile de chuid na gCoimisinéirí Ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Local Property Tax (LPT) Branch</seg></tuv>
+  <tuv xml:lang="ga"><seg>Brainse Cáin Mhaoine Áitiúil (CMÁ)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Tel:+353 (0) 1 702 3049</seg></tuv>
+  <tuv xml:lang="ga"><seg>Teil:+353 (0) 1 702 3049</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In January 2012, the Government established an Inter-Departmental Group on Property Tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>In Eanáir 2012, bhunaigh an Rialtas Grúpa Idir-Rannach um Cháin Mhaoine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This Group considered the design of a property tax to replace the Household Charge</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rinne an Grúpa seo breithniú ar dhearadh cáin mhaoine chun teacht in ionad an Mhuirir Theaghlaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can read the Report of the Inter-Departmental Group ‘Design of local property tax’ (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú Tuarascáil an Ghrúpa Idir-Rannaigh, ‘Dearadh na cánach maoine áitiúla (pdf) a léamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The legislation governing the tax is Finance (Local Property Tax) Act 2012 as amended by the Finance (Local Property Tax) (Amendment) Act 2013 and consolidated in the Finance (Local Property Tax) Act 2012 (as amended)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is í an reachtaíocht a rialaíonn an cháin an tAcht Airgeadais (Cáin Mhaoine Áitiúil) 2012 arna leasú ag an Acht Airgeadais (Cáin Mhaoine Áitiúil) (Leasú) 2013 agus arna comhdhlúthú san Acht Airgeadais (Cáin Mhaoine Áitiúil), 2012 (arna leasú)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Summary of LPT valuation procedure</seg></tuv>
+  <tuv xml:lang="ga"><seg>Achoimre ar nós imeachta an CMÁ</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>During March 2013 Revenue wrote to residential property owners – see ‘Who is liable to pay LPT’ below</seg></tuv>
+  <tuv xml:lang="ga"><seg>I rith Mhárta 2013, scríobh na Coimisinéirí Ioncaim litreacha chuig úinéirí maoin chónaithe – féach ‘Cé atá faoi dhliteanas íoc as an CMÁ? ’ thuas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This letter included an LPT Return form for completion, an explanatory booklet and a Revenue Estimate of LPT liability</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áireofar leis an litir seo foirm Thuairisceán CMÁ atá le comhlánú, leabhrán mínithe agus Meastachán ar Ioncam maidir le dliteanas an CMÁ</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Revenue Estimate of LPT liability is not a valuation of a property nor should it be regarded as an accurate calculation of LPT liability</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní hionann an Meastachán ar Ioncam ar dhliteanas an CMÁ agus luacháil maoine agus níor cheart caitheamh leis mar ríomh cruinn ar dhliteanas an CMÁ</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is simply the amount that Revenue will collect from property owners if they do not submit their LPT return</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is éard atá sa Mheastachán ar Ioncam, go simplí, an méid a bhaileoidh na Coimisinéirí Ioncaim ó úinéirí maoine mura seolann siad ar aghaidh a dtuairisceán CMÁ</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The explanatory booklet helped you to assess the value of your property – see ‘Valuing your property’ below - work out how much you will have to pay, complete the LPT Return form and decide how pay your LPT</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chabhraigh an leabhrán mínithe leat chun measúnú a dhéanamh ar luach do mhaoine – féach – ‘Do mhaoin a luacháil’ thuas – deimhniú cé mhéid atá le híoc agat, an fhoirm Thuairisceán CMÁ a chomhlánú agus cinneadh a dhéanamh ar conas a íocfaidh tú do CMÁ – féach ‘Conas iarratas a dhéanamh’ thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can read more on the Revenue website and see a sample LPT Return form (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú an leabhrán mínithe a léamh ar láithreán gréasáin na gCoimisinéirí Ioncaim (pdf) agus féachaint ar fhoirm shamplach de Thuairisceán CMÁ (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should have sent your completed LPT Return form back to Revenue by 7 May 2013 if submitting a paper form or by 28 May 2013 if submitting your return online through revenue.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níor mhór duit d’fhoirm chomhlánaithe Thuairisceán CMÁ a sheoladh ar ais go dtí na Coimisinéirí Ioncaim faoin 7 Bealtaine 2013 má bhí foirm ar pháipéar á seoladh agat nó faoin 28 Bealtaine 2013 má bhí do thuairisceán á sheoladh ar aghaidh agat ar líne trí revenue.ie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A half-year payment was due in 2013, with a full-year payment due in 2014 and subsequent years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bhí íocaíocht leathbhliana le híoc in 2013, agus bhí íocaíocht bliana iomláine le híoc in 2014 agus i mblianta ina dhiaidh sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The valuation of your property for LPT purposes on 1 May 2013 stays the same for 2013, 2014, 2015, 2016 and 2017 (even if you make improvements to your property)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fanfaidh luach do mhaoine, ar mhaithe le cuspóirí an CMÁ amhail an 1 Bealtaine 2013, mar an gcéanna le haghaidh 2013, 2014, 2015,2016 agus 2017 (fiú má dhéanann tú feabhsúcháin ar do mhaoin)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The next valuation date is 1 November 2019</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an chéad dáta luachála eile an 1 Samhain 2019</seg></tuv>
+</tu>
+</body>
+</tmx>

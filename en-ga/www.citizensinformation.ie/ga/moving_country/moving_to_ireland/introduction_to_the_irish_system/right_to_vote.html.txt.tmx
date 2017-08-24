@@ -1,0 +1,277 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>• Who can vote in elections and referenda?</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cé hiad na daoine ar féidir leo vótáil?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have applied and been approved for Irish citizenship, you have the right to vote in all referenda and elections in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá iarratas déanta agat agus má tá glactha leat mar shaoránach Éireanach tá sé de cheart agat, ina dhiaidh sin, vóta a chaitheamh ag aon toghchán nó reifreann de chuid na tíre seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In order however to exercise that right, you must ensure that your name has been entered on the Electoral Register</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit, áfach, déanamh cinnte de go bhfuil d'ainm ar chlár na dtoghthóirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are resident in Ireland but not an Irish citizen, you also have the right to vote in some of the elections</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá conaí ort in Éirinn ach nach saoránach Éireannach tú, beidh cead agat vóta a chaitheamh i dtoghcháin áirithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Every local authority is responsible for compiling and publishing a list of voters in its area</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an fhreagracht ar gach aon údarás in Éirinn chun liosta toghthóirí a chur le chéile agus a fhoilsiú ina ceantar féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is called the Register of Electors or the Electoral Register</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar Clár na dToghthóirí ar seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Anyone can inspect this Register and it is available in all local authority offices, post offices, Garda stations and public libraries</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le duine ar bith an Clár seo a scrúdú agus tá sé ar fáil i ngach oifig de chuid na n-údarás áitiúil gach oifig an phoist, stáisiún na nGardaí agus leabharlanna poiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can check the Electoral Register online here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat Clár na dToghthóirí a sheiceáil ar líne anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The published Register contains the voter's name, address, polling station and category of voter</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá ainm agus seoladh an vótálaí sa Chlár, agus dáta breithe agus inscne le haghaidh crostagartha fosta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For inclusion in the Register of Electors you must complete application form RFA which is available from your local authority, to whom it must be returned</seg></tuv>
+  <tuv xml:lang="ga"><seg>Le cur san áireamh i gClár na dToghthóirí, ní mór duit a líonadh amach foirm iarratais RFA atá ar fáil ó d'údarás áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A new Electoral Register is compiled each year and is published on 1 November</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirtear Clár Toghthóirí nua le chéile gach bliain agus foilsítear é ar an 1 Samhain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Resident Irish citizens are entitled to vote at all elections</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá saoránaigh atá ina gcónaí in Éirinn i dteideal vótáil ag gach toghchán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Resident British citizens can vote in local, European and Dáil elections and are identified by the letter 'D' in their details in the Register</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le saoránaigh Bhriotánacha atá ina gcónaí in Éirinn vótáil i dtoghcháin áitiúla, Eorpacha agus Dála agus aithnítear iad leis an litir ‘D’</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Resident EU citizens can only vote in local and European elections and are identified by the letter 'E'</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le saoránaigh AE atá ina gcónaí anseo vótáil i dtoghcháin áitiúla agus Eorpacha agus tá litir ‘E’ lena n-ainm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Those identified by the letter 'L' (non-EU citizens) can only vote at local elections</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir le daoine a aithnítear leis an litir ‘L’ i gcoinne a n-ainm (saoránaigh neamh-AE), vótáil ach i dtoghcháin áitiúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Correcting your details in the draft Register</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun do shonraí a cheartú sa dréacht Chlár</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A draft register is compiled on 1 November each year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá dreachtchlár ar fáil ar 1 Samhain gach bliain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You have until 25 November to make a correction or have your name included</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá go dtí 25 Samhain agat le ceartúchán a dhéanamh nó le d’ainm a chur ar an liosta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must fill in form RFA1 for the draft Register.You may be asked for documents such as a birth certificate or a certificate of naturalisation in order to prove your eligibility to vote</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh tú an fhoirm RFA1 don dréacht Chlár a chomhlánú. B’fhéidir go n-iarrfaí doiciméid ort, amhail teastas breithe nó teastas eadóirsithe d’fhonn a chruthú go bhfuil tú incháilithe le vótáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are applying because you have moved to a new address, you should include this information and your former address so that you can be removed from the register for that area</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ag cur isteach mar gur aistrigh tú chuig seoladh nua, ní mór duit an t-eolas seo a chur isteach le d’iarsheoladh sa dóigh gur féidir do shonraí a bhaint ó chlár an cheantair sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The amended register is then published in February</seg></tuv>
+  <tuv xml:lang="ga"><seg>Foilsítear Clár leasaithe na dToghthóirí 1 Feabhra agus téann sé i bhfeidhm ar 15 Feabhra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Supplement to the Register</seg></tuv>
+  <tuv xml:lang="ga"><seg>An Forlíonadh do Chlár na dToghthóirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are qualified to vote but have missed the deadline to include your name on the register, you can apply to be included in a Supplement to the Register on form RFA2</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú incháilithe le vótáil ach más amhlaidh gur chaill tú an spriocdháta le d’ainm a chur ar an gclár, is féidir leat iarratas a dhéanamh le bheith curtha isteach i bhForlíonadh an Chláir ar fhoirm RFA2</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This will allow you to vote at any election or referendum held during the year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirfidh sé ar do chumas vótáil in aon toghchán nó reifreann a reáchtáiltear le linn na bliana sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can apply for inclusion on the Supplemental Register at least 15 days before polling day (Sundays, public holidays and Good Friday are not counted as days for this purpose)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat iarratas a dhéanamh le bheith curtha ar an gClár Forlíontach ar a laghad 15 lá roimh lá na vótaíochta. (Ní áirítear Domhnaí, laethanta saoire phoiblí agus Aoine an Chéasta mar chuid de na laethanta chuige sin.)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are eligible for inclusion in the supplement to the Register of Electors on or after the day on which you reach 18 years of age</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tú i dteideal bheith curtha ar fhorlíonadh do Chlár na dToghthóirí ar lá a bhaineann tú 18 mbliana d’aois amach nó ina dhiaidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can be included if this birthday falls after the closing date for applications but is on or before polling day</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tig leat bheith curtha má thiteann an breithlá seo i ndiaidh dáta deiridh na n-iarratas ach atá ar lá vótála nó lá roimhe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can apply for inclusion on the supplement as a result of changing address on form RFA3</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ag cur iarratais isteach le bheith ar an fhorlíonadh mar gheall ar athrú seolta is féidir leat úsáid a bhaint as foirm RFA3</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This will also remove you from the register for your previous address</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bainfidh é seo sonraí d’iarsheolta ón Chlár chomh maith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Who can vote in elections and referenda?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cé hiad na daoine ar féidir leo vótáil?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must be at least 18 years of age on 15 February, the day the Register comes into force</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar an 15ú Feabhra ní mór duit a bheith 18 bliain, ar a laghad, an lá go dtagann an clár i bhfeidhm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must also have been ordinarily resident in the State on 1 September in the year before the Register comes into force</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit gnáthchónaí a bheith ort sa Stáit ar 1 Meán Fómhair sa bhliain sula dtéann An Chlár i bhfeidhm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>While you may be entitled to register as a voter due to your residency, there may be a limit on the types of elections in which you can vote</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar go bhfuil cónaí ort in Éirinn tá cead vótála agat ach mar sin féin tá cineálacha áirithe toghcháin atá coscaithe ort vótáil iontu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The registration authority will need to know your citizenship because this will determine the elections at which you may vote</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór do na húdaráis cláracháin fios a bheith acu cén tír go bhfuil saorántacht agat leithe mar brathann cé na toghcháin go mbeadh cead agat páirt a ghlacadh iontu ar an eolas seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The right to vote is as follows:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is mar seo a leanas atá an ceart vótála:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Irish citizens may vote at every election and referendum;</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Is féidir le saoránaigh Éireannacha vóta a chaitheamh ag ngach toghchán agus reifreann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• British citizens may vote at Dáil elections, European elections and local elections;</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Is féidir le saoránaigh Bhriotanacha vóta a chaitheamh ag toghchán na Dála, na hEorpa agus ag toghcháin áitiúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Other European Union (EU) citizens may vote at European and local elections*</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Is féidir le saoránaigh eile den AE vóta a chaitheamh ag toghcháin na hEorpa agus ag toghcháin áitiúla*</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Non-EU citizens may vote at local elections only</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní féidir le saoránaigh nach saoránaigh den AE iad vóta a chaitheamh ach ag toghcháin áitiúla amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>*If you are an EU citizen, other than an Irish or British citizen, and you were not registered to vote in previous European elections in Ireland, you must also complete a declaration, Form EP1 (pdf), to guard against double voting in the election</seg></tuv>
+  <tuv xml:lang="ga"><seg>*Más saoránach AE thú, seachas saoránach d’Éirinn nó den Bhreatain, agus mura raibh tú cláraithe le vóta a chaitheamh i dtoghcháin Eorpacha roimhe seo in Éirinn, ní mór duit dearbhú a chomhlánú, Foirm EP1 (pdf), le haon vótáil dhúbailte sa toghchán a sheachaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The local council will register you to vote in your local constituency and send the information in your declaration to your home EU Member State</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cláróidh an chomhairle áitiúil thú chun vóta a chaitheamh i do thoghcheantar áitiúil agus seolfaidh siad an fhaisnéis i do dhearbhú chuig an mBallstát AE ina gcónaíonn tú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can also get the form from your local authority</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, féadfaidh tú an fhoirm a fháil ó d’údarás áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must be registered at one address only and you must live at that address on 1 September before the register comes into force</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit a bheith i do chonaí ag an gnáth seoladh atá luaite leat ar an 1ú Meán Fhómhair roimh theacht i bhfeidhm an chláir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you live away from the address at which you are registered, (for example, if you are a student living away from home), you will need to contact the registration authority and give them your new address</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl cead agat a bheith cláraithe ach ag seoladh amháin. Muna bhfuil conaí ort ag an seoladh ag a bhfuil tú cláraithe ní mór duit na húdaráis cláraithe a chur ar an eolas faoi do sheoladh baile nua</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you leave your address but you plan to return there within 18 months, you can continue to be registered there, as long you do not register at any other address</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá do sheoladh cláraithe fágtha agat ach go bhfuil i gceist agat filleadh air taobh istigh de 18 mí ní gá duit do sheoladh a athrú ach déanamh cinnte de nach bhfuil tú cláraithe ag aon seoladh eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are an Irish citizen living abroad you cannot be entered on the register of electors</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más saoránach Éireannach thú a chónaíonn thar lear ní féidir bheith ar Chlár na dToghthóirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that you cannot vote in an election or referendum here in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn seo nach féidir leat vótáil i dtoghchán nó reifreann anseo in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(The only exception to this is in the case of Irish officials on duty abroad (and their spouses) who may register on the postal voters list)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Is é an t-aon eisceacht amháin ná chás oifigí Éireannacha ar dualgas thar lear (agus a gcéile) ar féidir leo clárú ar liosta na vótálaí poist)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will normally be required to vote in person at an official voting centre, however, you may be eligible for a postal vote if you are:</seg></tuv>
+  <tuv xml:lang="ga"><seg>De ghnáth, iarrtar ort do vóta a chaitheamh go pearsanta ag ionad vótála oifigiúil ach amháin sa chás go bhfuil tú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• An Irish diplomat or his/her spouse posted abroad</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sna Gardaí Síochána agus go bhfuil cead faighte agat vóta poist a chaitheamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may also be eligible for a postal vote if you cannot go to a polling station because:</seg></tuv>
+  <tuv xml:lang="ga"><seg>B'fhéidir, freisin, go mbeadh cead agat vóta poist a chaitheamh mar nach bhfuil ar do chumas dul chomh fada leis an ionad vótála toisc:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You have a physical illness or disability</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Go bhfuil tú faoi mhíchumas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You are studying full time at an educational institution in Ireland, which is away from your home address where you are registered</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Go bhfuil tú ag freastal ar oideachas lánaimseartha ag ionad atá i bhfad ón ionad vótála sa cheantar ina bhfuil tú cláraithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You are unable to vote at your polling station because of your occupation</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Do ghairm • Tá tu i bpriosúin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Applications for inclusion on the list of postal voters must be received by 25 November at the latest</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an 25ú Samhain an dáta deirneach lena nglacfar le h'iarratais chun cead vóta poist a chaitheamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are registered as a postal voter, you may vote by post only. You may not vote at a polling station</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá cead faighte agat vóta poist a chaitheamh ní mór duit do vóta a chaitheamh ar an mbealach seo amháin agus níl cead agat vóta a chaitheamh ag ionad vótála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may also qualify to be on a list of special voters who live in hospitals, nursing homes or similar institutions and who wish to vote at these locations</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat, freisin, a bheith ar liosta vótálaithe speisialta dóibh siúd atá in ospidéil, i dtithe altranais agus in institiúidí eile mar iad, chun cead a bheith agat do vóta a chaitheamh sna h'ionaid seo seachas ag ionaid vótála oifigiúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Applications to be entered on the special voters list must be made by 25 November and, in the case of a first application, must be accompanied by a medical certificate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh do iarratas a bheith istigh agat roimh an 25ú Samhain chun a bheith ar an liosta seo agus ní mór duit teastas míochaine a chur leis an chéad iarratas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are eligible for the postal voters list or the special voters list but are not included, you can apply for inclusion in the relevant supplement to the lists</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú incháilithe don liosta postvótálaí nó don liosta vótálaí speisialta, ach mura n-áirítear thú, is féidir iarratas a dhéanamh le haghaidh cuimsiúcháin ar fhorlíonadh don liosta postvótálaí nó d'fhorlíonadh ábhartha do na liostaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The latest date for receipt of applications is two days after the date of dissolution of the Dáil in the case of a general election or two days after the order appointing polling day for other elections or referenda</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an dáta deiridh a nglacfar le hiarratais: 2 lá tar éis an dáta lánscor na Dála i gcás olltoghcháin nó 2 lá tar éis dáta an ordaithe ag ceapadh lá na vótála i gcás fothoghchán Dála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find out more in our document on registering to vote</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh eolais ar fáil inár ndoiciméad maidir le clárú chun vótáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Application forms for inclusion on the Electoral Register, Special Voters List, Postal Voters List and Correction of the draft electoral register are available from all local authorities, post offices and public libraries</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá iarratas le dul ar an gClár Toghthóirí, Liosta na Vótálaithe Speisialta, Liosta na Vótálaithe Poist agus Ceartúchán an dréachtchláir thoghthóirí ar fail ó gach Comhairle Contae, Corparáidí, Oifigí an Phoist agus Leabharlanna Poiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Forms are also available on www.checktheregister.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá foirmeacha ar fáil ar www.checktheregister.ie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Completed forms must be returned to your local authority</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh tú foirmeacha comhlíonta a fhilleadh do d’údarás áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should contact your local authority for application forms for inclusion on the Supplement to the Postal Voters List or the Supplement to the Special Voters List</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir duit dul i dteagmháil le d'údarás áitiúil chun foirmeacha iarratais le haghaidh cuimsiúcháin ar fhorlíonadh don liosta postvótálaí nó d'fhorlíonadh don liosta speisialta vótálaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Questions regarding your right to vote, should be addressed to the Franchise Section of your local authority</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart duit ceisteanna maidir le do cheart vótála, a chuir chuig Rannóg na Díolúine ag d’údarás áitiúil</seg></tuv>
+</tu>
+</body>
+</tmx>

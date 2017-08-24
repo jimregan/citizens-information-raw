@@ -1,0 +1,353 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Customs regulations for travellers to Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rialacháin chustaim do thaistealaithe go hÉirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Security checks on travellers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seiceálacha slándála ar thaistealaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Customs officers in Ireland are allowed carry out selective checks on all travellers at all points of entry to Ireland (air and sea)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá cead ag oifigigh chustaim in Éirinn seiceálacha roghnaitheacha a dhéanamh ar thaistealaithe ag gach pointe iontrála go hÉirinn (aer agus farraige)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These checks are to ensure that you are not carrying prohibited or restricted goods, and to combat smuggling</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar na seiceálacha seo chun a chinntiú nach bhfuil tú ag iompar earraí srianta nó coiscthe, agus chun smuigleáil a throid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Travelling to Ireland from the EU</seg></tuv>
+  <tuv xml:lang="ga"><seg>Taisteal go hÉirinn ón AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Ireland has no restriction on the amount of cash you can carry in or out of the country, or a requirement to declare it, when travelling within the EU</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon srian in Éirinn ar an méid airgid is féidir leat a hiompar i nó amach as an tír, agus iad ag taisteal laistigh den AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, under the Criminal Justice Act 1994 Section 38(1) as amended by the Proceeds of Crime (Amendment) Act 2005 Section 20, if you are carrying at least €6,348.69 in cash, a customs officer may seize and detain the cash</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin féin, faoin Acht um Cheartas Coiriúil 1994 Alt 38(1) arna leasú ag an Acht um Fháltais ó Choireacht (Leasú) 2005 Alt 20, má tá tú ag iompar ar a laghad €6,348.69 in airgead tirim, is féidir le hoifigeach custaim an t airgead a thógáil agus a choinneáil siar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The customs officer must have reasonable grounds for believing the cash represents the proceeds of crime or is intended for use in criminal conduct</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don oifigeach custaim údar réasúnta a bheith aige nó aici a chreidiúint gur fáltais ó choireanna atá san airgead nó go bhfuil sé i gceist é a úsáid in iompar coiriúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Excise duties and VAT on goods</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dleachtanna máil agus CBL ar earraí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Since June 30, 1999, the sale of duty-free goods to those travelling within the European Union (EU) has been abolished</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ón 30 Meitheamh, 1999, tá deireadh curtha le díol earraí saor ó dhleacht taobh istigh den Aontas Eorpach (AE)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that you will no longer be able to buy goods that are free of excise duty and VAT (value-added tax) if you are travelling within the EU</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn sé seo nach mbeidh tú ábalta earraí atá saor ó dhleacht mháil agus ó CBL (cáin bhreisluacha) a cheannach a thuilleadh má tá tú ag taisteal taobh istigh den AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Any goods you buy within the EU (with the exception of food, drink and tobacco products for on-board consumption) will now be subject to normal rates of excise duty and VAT</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh aon earraí a cheannaíonn tú taobh istigh den AE, (seachas bia, deoch agus táirgí tobac i gcomhair tomhaltais ar bord) faoi réir ghnáth rátaí dleacht mháil agus CBL anois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Duty-free sales will continue as before, if you are travelling to destinations outside the EU</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leanfar le díolacháin saor ó dhleacht mar a bhí roimhe sin, má tá tú ag taisteal chuig ceann scríbe lasmuigh den AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Goods bought in another EU country</seg></tuv>
+  <tuv xml:lang="ga"><seg>Earraí ceannaithe i dtír eile san AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will not be charged any extra duty or VAT on purchases where the duty and VAT has been paid (for example, goods bought in shops, supermarkets, etc.) in another EU country, provided the goods are for your personal use</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní ghearrfar aon dleacht nó CBL breise ort ar cheannacháin ar a bhfuil an dleacht agus an CBL íoctha (mar shampla, earraí a ceannaíodh i siopaí, ollmhargaí srl.) i dtír eile de chuid an AE, chomh fada is gur i gcomhair d’úsáid phearsanta féin atá na hearraí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your purchases are equivalent to or less than the quantities set out in the table below, they will usually be regarded as being for your personal use</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá do cheannacháin cothrom le nó níos ísle ná na méideanna atá leagtha síos sa tábla thíos, is iondúil go bhféachfar orthu mar earraí i gcomhair d’úsáid phearsanta féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you exceed these quantities, you may have to demonstrate at Customs that the goods are for your personal use</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má théann tú thar na méideanna seo, d’fhéadfadh sé go mbeadh ort a chruthú don lucht Custaim gur i gcomhair d’úsáid phearsanta féin atá na hearraí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Alcohol and tobacco allowances for travellers to Ireland from EU</seg></tuv>
+  <tuv xml:lang="ga"><seg>│ Liúntais alcóil agus tobac do thaistealaithe go hÉirinn ón AE │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Goods │Maximum quantity allowed│</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Earraí │Uasmhéid ceadaithe │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Cigarettes (see Note below) │800 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Toitíní (féach Nóta thíos) │800 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Smoking tobacco │1 kg │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Tobac │1 kg │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Spirits (whiskey, vodka, gin, etc.) │10 litres │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Biotáillí (fuisce, vodca, jin srl.) │10 lítear │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>sherry, port, etc., excluding sparkling wine)│20 litres │</seg></tuv>
+  <tuv xml:lang="ga"><seg>seiris, pórt, srl, gan fíon súilíneach san áireamh) │20 lítear │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Wine (only 60 litres of sparkling wine allowed) │90 litres │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Fíon (ní cheadaítear ach 60 lítear fíon súilíneach) │90 lítear │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Beer │110 litres │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Beoir │110 lítear │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Note: Since January 2014 a reduced allowance of 300 cigarettes applies if you purchased the cigarettes in Bulgaria, Croatia, Hungary, Latvia, Lithuania or Romania</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nóta: Ó Eanáir 2014 tá liúntas laghdaithe de 300 toitín má cheannaigh tú na toitíní sa Bhulgáir, an Chróit, an Ungáir, an Laitvia, an Liotuáin nó an Rómáin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are not entitled to alcohol or tobacco allowances if you are aged under 17 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl tú i dteideal liúntais alcóil ná tobac má tá tú faoi bhun 17 mbliana d’aois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should keep any receipts as proof that you have paid duty and VAT</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir duit aon admhálacha a choinneáil mar chruthúnas go bhfuil dleacht agus CBL íoctha agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Bringing in meat or dairy products</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabhairt isteach táirgí feola nó déiríochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Only products which have been produced in accordance with EU rules may be imported for personal consumption</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní ceadmhach ach amháin táirgí a táirgeadh de réir rialacha an AE a allmhairiú i gcomhair tomhaltais phearsanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As a guideline, quantities should not exceed 10 kg</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar threoir, níor chóir do na méideanna dul thar 10 kg</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Generally, the products are on sale to the public in the EU country of origin, are appropriately packaged and have an identifying EU health mark</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go hiondúil, bíonn na táirgí ar díol don phobal i dtír thionscnaimh an AE, bíonn pacáistiú cuí orthu agus marc sláinte aitheantais de chuid an AE orthu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An EU health mark is an oval stamp with:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is éard atá i marc sláinte an AE ná stampa ubhchruthach le:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The country code on the upper part, for example, UK</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cód na tíre ar an gcuid uachtarach, mar shampla, UK</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• An approval number in the centre</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Uimhir cheadaithe sa lár</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The initials EC (European Commission indication) on the lower part</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Na ceannlitreacha EC (sonrú an Choimisiúin Eorpaigh) ar an gcuid íochtarach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Travelling to Ireland from countries outside the EU</seg></tuv>
+  <tuv xml:lang="ga"><seg>Taisteal go hÉirinn ó thíortha lasmuigh den AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Since 15 June 2007 if you are entering or leaving the European Union and carrying €10,000 or more cash you must make a declaration to the Customs authority of the member state you are entering or leaving</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ón 15 Meitheamh 2007 i leith, má tá tú ag dul isteach nó amach as an Aontas Eorpach agus €10,000 nó níos mó in airgead tirim á iompar agat, ní mór duit dearbhú a dhéanamh d’údarás Custaim an bhallstáit a bhfuil tú ag dul isteach nó amach as</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under Regulation (EC) 1889/2005 you must lodge the declaration at the airport, seaport or land frontier through which you are entering the EU – see “How to apply” below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi Rialachán (CE) 1889/2005, ní mór duit an dearbhú a lóisteáil ag an aerfort, calafort nó teorainn talún trína bhfuil tú ag dul isteach san AE - féach ‘Conas Iarratas a Dhéanamh’ thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are travelling to or from the Channel Islands and the Isle of Man you also must make a declaration</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ag taisteal chuig Oileáin Mhuir nIocht nó Oileán Mhanann nó ar ais ní mór duit dearbhú a dhéanamh freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Currency in the form of banknotes or coins</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Airgeadra i bhfoirm nótaí bainc nó boinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Bank drafts, cheques or money orders in bearer form, endorsed without restriction or with payee’s name omitted</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Dréachtaí bainc, seiceanna nó orduithe airgid i bhfoirm iompróra, formhuinithe gan srian nó le hainm an íocaí fágtha amach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the Criminal Justice Act 1994 Section 38(1) as amended by the Proceeds of Crime (Amendment) Act 2005 Section 20, if you are carrying at least €6,348.69 in cash, a customs officer may seize and detain the cash</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoin Acht um Cheartas Coiriúil 1994 Alt 38(1) arna leasú ag an Acht um Fháltais ó Choireacht (Leasú) 2005 Alt 20, má tá tú ag iompar ar a laghad €6,348.69 in airgead tirim, is féidir le hoifigeach custaim an t airgead a thógáil agus a choinneáil siar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The customs officer must have reasonable grounds for believing the cash represents the proceeds of crime or is intended for use in criminal conduct</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don oifigeach custaim údar réasúnta a bheith aige nó aici a chreidiúint gur fáltais ó choireanna atá san airgead nó go bhfuil sé i gceist é a úsáid in iompar coiriúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are allowed to bring in to Ireland the goods shown in the table below, (subject to maximum limits) if you are travelling to Ireland from any country outside the EU (this includes the Canary Islands, the Channel Islands and Gibraltar)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá cead agat na hearraí sa tábla thíos a thabhairt go hÉirinn, (faoi réir uasteorainneacha) má tá tú ag taisteal go hÉirinn ó aon tír lasmuigh den AE (cuimsíonn sé seo na hOileáin Chanáracha, Oileáin Mhuir nIocht agus Giobráltar)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The goods in question may have been bought either duty-free/tax-free or duty-paid/tax-paid outside the EU</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh na hearraí atá i gceist a bheith ceannaithe saor ó dhleacht/ saor ó cháin nó dleacht-íoctha/cáin íoctha lasmuigh den AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Allowances for travellers from outside EU</seg></tuv>
+  <tuv xml:lang="ga"><seg>│ Liúntais do thaistealaithe ó lasmuigh den AE │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Goods │Maximum quantity allowed │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Earraí │Uasmhéid ceadaithe │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Cigarettes │200 or │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Toitíní │200 nó │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Cigarillos │100 or │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Todóigíní │100 nó │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Cigars │50 or │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Todóga │50 nó │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Tobacco │250 grammes │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Tobac │250 gram │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Spirits (whiskey, vodka, gin, etc.) │1 litre or │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Biotáillí (fuisce, vodca, jin srl.) │1 lítearnó │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>sherry, port, sparkling wine, etc.) │2 litres │</seg></tuv>
+  <tuv xml:lang="ga"><seg>seiris, pórt, fíon súilíneach, srl) │2 lítear │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Still wine │4 litres │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Fíon gan súilíní │4 lítear │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Beer │16 litres │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Beoir │16 lítear │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>gifts, souvenirs, perfume, clothing, etc.) │€430 per adult │</seg></tuv>
+  <tuv xml:lang="ga"><seg>bronntanais, cuimhneacháin, cumhráin, éadach srl.) │€430 in aghaidh an duine fásta │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│ │€215 per child under 15 years │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│ │€215 in aghaidh an linbh atá faoi 15 bliana d'aois │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your tobacco and intermediate products allowances are distributed on a fractional basis, i.e., you are allowed to bring in ½ litre of spirits plus 1 litre of port or 100 cigarettes plus 50 cigarillos</seg></tuv>
+  <tuv xml:lang="ga"><seg>Roinntear do liúntais táirgí tobac agus idirmheánacha ar bhunús codánach, .i. tá cead agat 1/2 lítear biotáillí móide líotar amháin pórt a thabhairt isteach, nó 100 toitín móide 50 todóigín</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are not entitled to alcohol or tobacco allowances if you are under 17</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl tú i dteideal liúntais alcóil ná tobac má tá tú faoi bhun 17 mbliana d’aois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>People travelling together as a group cannot combine their individual allowances to buy goods</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir le daoine atá ag taisteal le chéile mar ghrúpa a liúntais aonair a cheangal le chéile chun earraí a cheannach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should keep any receipts as proof that you have paid duty and taxes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir duit aon admhálacha a choinneáil mar chruthúnas go bhfuil dleacht agus cánacha íoctha agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Prohibited or restricted goods</seg></tuv>
+  <tuv xml:lang="ga"><seg>Earraí srianta nó coiscthe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Certain goods cannot be imported to Ireland or can only be imported under licence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir earraí áirithe a allmhairiú go hÉirinn nó ní féidir iad a allmhairiú ach amháin faoi cheadúnas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The main items that cannot be imported or must be imported under licence are:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad na príomhearraí nach féidir a allmhairiú nó nach mór a allmhairiú faoi cheadúnas ná:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Indecent or obscene material (books, periodicals, prints and video recordings)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ábhar mígheanasach nó graosta (Leabhair, tréimhseacháin, priontaí agus físthaifid)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Live animals or dead animals (including cats and dogs)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ainmhithe beo nó ainmhithe marbha (cait agus madraí san áireamh)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Birds, poultry or eggs</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Éin, éanlaith chlóis nó uibheacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Meat and meat products, milk and milk products, and certain foodstuffs (with specific exceptions)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Feoil agus táirgí feola, bainne agus táirgí bainne agus bia-ábhar áirithe (le heisceachtaí sainiúla)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Hay or straw (even if used as packing)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tuí nó cochán (fiú amháin má úsáidtear mar phacáistiú é)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Oral smokeless tobacco products (for example, Snus)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Táirgí tobac bhéal gan deatach (mar shampla, Snus)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is more information on prohibited and restricted goods on Revenue's website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh eolais ar earraí srianta nó ciscthe ar láithreán gréasáin na gCoimisinéirí Ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is an offence to import or carry on your person controlled substances (drugs) when travelling to or from Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is cion é substaintí rialaithe (drugaí) a allmhairiú nó a iompar leat agus tú ag taisteal isteach nó amach as Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(Examples of controlled substances are cannabis, cocaine, heroin and amphetamines)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Samplaí de substaintí rialaithe iad cannabas, cócaon, hearóin agus amfataimíní)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Customs National Drugs Team has dog units located at airports and ferryports</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá aonaid madraí ag an bhFoireann Náisiúnta Custaim um Dhrugaí ag aerfoirt agus ag calafoirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The drug detector dogs are trained to detect drugs such as cannabis, cocaine, heroin and amphetamines</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá na madraí oilte chun drugaí cosúil le cannabas, cócaon, hearóin agus amfataimíní a thabhairt faoi deara</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are penalties for drugs offences in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá pionóis ann i gcomhair cionta drugaí in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Bringing in meat or dairy products</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabhairt isteach táirgí feola nó déiríochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are prohibited from importing meat or dairy products for your personal consumption from almost all non-EU countries</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá cosc ort táirgí feola nó déiríochta do thomhaltas pearsanta a allmhairiú ó beagnach gach tír lasmuigh den AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Limited quantities of certain other products may be imported provided their country of origin is an EU approved country</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir méideanna áirithe de tháirgí áirithe eile a allmhairiú chomh fada is gur tír atá ceadaithe ag an AE é a dtír thionscnaimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further information is available on the Department of Agriculture, Food and the Marine website on animal products imports for personal consumption</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh eolais ar fáil i ndoiciméad na Roinne Talmhaíochta, Bia agus Mara, Animal Products Imports for Personal Consumption</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are coming to Ireland from a country outside the EU with €10,000 or more cash you must present a completed declaration form C&amp; E 1889 (pdf) to the Customs at the airport or seaport when you are enter Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ag teacht go hÉirinn ó thír lasmuigh den AE le €10,000 nó níos mó in airgead tirim, ní mór duit dearbhú comhlánaithe C&amp; E 1889 (pdf) a thabhairt do lucht Custaim ag an aerfort nó ag an gcalafort nuair a thagann tú go hÉirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you fail to submit a correct form your cash may be detained by the Customs and you could be subject to penalties</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura seolann tú foirm cheart isteach d’fhéadfadh lucht Custaim do chuid airgid a choinneáil agus d’fhéadfaí pionóis a ghearradh ort</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is further information about cash controls on the Revenue website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh eolais faoi rialuithe airgid ar láithreán gréasáin na gCoimisinéirí Ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find information on what goods you can bring with you for those travelling from the EU and for those travelling from outside the EU on the Revenue website. If you are in any doubt about the items you can or cannot import from within or outside the EU, you should contact the Customs Information Office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat teacht ar eolas ar an méid earraí is féidir leat a thabhairt leat dóibh siúd atá ag taisteal ón AE agus dóibh siúd atá ag taisteal ó lasmuigh den AE ar láithreán gréasáin na gCoimisinéirí Ioncaim.Má tá aon amhras ort faoi na nithe is féidir nó nach féidir leat a allmhairiú ó laistigh nó lasmuigh den AE, ba chóir duit dul i dteagmháil leis an Oifig Faisnéise Custaim</seg></tuv>
+</tu>
+</body>
+</tmx>

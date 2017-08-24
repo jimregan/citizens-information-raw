@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Family benefits and entitlements</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sochair agus teidlíochtaí teaghlaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is a range of social welfare, tax and employment related benefits and entitlements available to families in Ireland, depending on their circumstances</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag brath ar stádas teaghlaigh, féadfaidh daoine atá ina gcónaí in Éirinn leas a bhaint as raon de shochair agus de theidlíochtaí leasa shóisialaigh de réir cánach agus fostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Department of Social Protection provides social welfare payments to support families including cohabiting couples and civil partnerships, particularly those with children</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann an Roinn Coimirce Sóisialaí íocaíochtaí leasa shóisialaigh chun tacú le teaghlaigh ina n-áirítear lánúineacha comhchónaitheacha agus páirtnéireachtaí sibhialta, go háirithe iad siúd le leanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These payments are both means-tested and based on social insurance contributions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá na híocaíochtaí seo tástáilte ó thaobh acmhainne agus bunaithe ar ranníocaíochtaí árachas sóisialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Supports are also available for those in low-paid employment and for parents bringing children up without the support of a partner</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tacaíochtaí ar fáil chomh maith dóibh siúd i bhfostaíocht ar phá íseal agus do thuismitheoirí atá ag tógáil leanaí gan tacaíocht ó pháirtí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are also payments for orphans</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá íocaíochtaí ann chomh maith do dhíleachtaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read about the various social welfare payments that are available here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léigh faoi na híocaíochtaí leasa shóisialaigh éagsúla atá ar fáil anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under EU regulations EU/EEA citizens and Swiss nationals who are employed or self-employed in Ireland and subject to the Irish Social Insurance system, do not have to satisfy the habitual residence condition to qualify for Family Benefits</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi rialacháin AE, ní chaithfidh saoránaigh AE/LEE agus náisiúnaithe Eilbhéiseacha atá fostaithe nó féin-fhostaithe in Éirinn agus atá faoi réir chóras árachas sóisialta na hÉireann an coinníoll gnáthchónaithe a shásamh chun cáiliú do Shochair Teaghlaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the year of marriage or registration of civil partnership, you are treated as being single for taxation purposes</seg></tuv>
+  <tuv xml:lang="ga"><seg>I mbliain phósta no cláraithe na páirtnéireachtaí sibhialta, caitear leat ar nós duine singil do chúiseanna cánachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If however, you would have paid less tax had you been treated as married or a civil partner, you can claim a refund</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dá n-íocfá níos lú cáin dá gcaithfí leat mar dhuine pósta no páirtnéir sibhialta, áfach, is féidir leat cur isteach ar aisíocaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For subsequent years married people and civil partners can choose from three taxation options</seg></tuv>
+  <tuv xml:lang="ga"><seg>Do bhlianta iarshnígh, is féidir le daoine pósta nó páirtnéirí sibhialta rogha a dhéanamh idir trí rogha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are no specific tax reliefs for children</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon fhaoisimh chánacha sonraithe do leanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is, however, an Incapaciated Child Tax Credit if your child is permanently incapacitated and a Home Carer's Tax Credit where one spouse is caring for a dependant such as a child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Creidmheas Cánach do Leanbh Éagmusach má tá éagmus buan ar do leanbh, áfach, agus Creidmheas Cánach do Chúramóir Teaghlaigh, áit a bhfuil céile amháin ag cúram do chleithiúnach ar nós linbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Revenue Commissioner's leaflet on the Home Carer's Tax Credit is available here (pdf) while information on tax reliefs for people with disabilities is available here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá bileog ar Chreidmheas Cánach do Chúramóir Teaghlaigh ar fáil anseo(pdf) na gCoimisinéirí Ioncam, agus tá eolas ar fhaoisimh chánacha do dhaoine faoi mhíchumas ar fáil anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are specific tax reliefs for one-parent families</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá faoisimh chánacha do theaghlaigh aonteaghlaigh ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are also other tax credits and allowances which families can avail of</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá creidmheasanna cánacha agus liúntais ar féidir le teaghlaigh a fháil chomh maith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are both employment-related entitlements and social welfare payments that you may be able to avail of related to the birth of a child</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh go mbeifeá ábalta leas a bhaint as teidlíochtaí de réir fostaíochta agus as íocaíochtaí leasa shóisialaigh a bhainfeadh le breith do linbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are entitled to parental leave you can take unpaid leave to look after children without affecting most of your employment rights</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú i dteideal saoire thuismitheoirí, féadfaidh tú saoire gan íocaíocht a ghlacadh le haire a thabhairt do leanaí, agus sin a dhéanamh gan éifeacht a bheith aige ar mhórchuid de do chearta fostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are certain once-off payments provided by Department of Social Protection that are available to help out families around the time of bereavement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann an an Roinn Coimirce Sóisialaí íocaíochtaí aon uaire áirithe ar fáil mar chúnamh i gcás báis sa teaghlach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are, for example, grants to help with funeral costs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirtear deontais ar fáil, mar shampla, le cúnamh a thabhairt le costais sochraide</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are also specific rules about taxation in the year of a person's death and tax credits for widows and surviving civil partners</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá rialacha faoi leith ann freisin i dtaobh cánachais sa bhliain inar bhásaigh duine agus i dtaobh creidmheasanna cánach le haghaidh baintreach agus páirtnéirí sibhialta mharthanaigh</seg></tuv>
+</tu>
+</body>
+</tmx>

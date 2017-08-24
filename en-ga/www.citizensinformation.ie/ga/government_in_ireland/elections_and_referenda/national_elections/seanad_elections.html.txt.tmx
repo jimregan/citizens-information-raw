@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>A Seanad election takes place up to 90 days after Dáil Éireann has dissolved</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn toghchán de chuid an tSeanaid ar siúl suas go dtí 90 lá tar éis do Dháil Éireann lánscor</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that the new Dáil has assembled before the Seanad election takes place</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn seo go dtagann an Dáil nua le chéile sula mbíonn toghcháin an tSeanaid ar siúl</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Seanad has 60 members</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá 60 ball ag an Seanad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Taoiseach nominates 11 members, 6 are elected by university graduates and 43 in Seanad panel elections</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ainmnítear 11 ball ag an Taoiseach, déantar 6 a thoghadh ag céimithe ollscoileanna agus 43 i dtoghcháin le haghaidh painéil an tSeanaid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In 2014 a Working Group on Seanad Reform was established</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa bhliain 2014, bhunaigh an Rialtas Grúpa Oibre ar Leasú an tSeanaid</seg></tuv>
+</tu>
+</body>
+</tmx>

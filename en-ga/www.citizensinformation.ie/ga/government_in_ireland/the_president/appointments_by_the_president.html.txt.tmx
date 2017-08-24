@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>The President of Ireland has an important role in appointing people to various offices of State</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá ról tábhachtach ag an Uachtarán i gceapadh daoine chun oifigí Stáit éagsúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, the President appoints the Taoiseach (Prime Minister), who has been nominated by Dáil Éireann</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, ceapann an tUachtarán an Taoiseach, atá ainmnithe ag Dáil Éireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Taoiseach then nominates the other members of parliament that will make up the Government</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ainmníonn an Taoiseach ansin comhaltaí eile an Rialtais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They are approved by the Dáil and then appointed by the President</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann an Dáil iad a cheadú agus ansin ceapann an tUachtarán iad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The President accepts the resignation or terminates the appointment of a Government member after they have been advised to do so by the Taoiseach</seg></tuv>
+  <tuv xml:lang="ga"><seg>Glacann an tUachtarán le fógra scoir nó scoireann sé/sí féin ceapachán comhalta den Rialtas tar éis don Taoiseach comhairle a chur air/uirthi é sin a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The President appoints the Attorney General (legal adviser to the Government), who is nominated by the Taoiseach</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceapann an tUachtarán an tArdAighne, atá ainmnithe ag an Taoiseach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The President also appoints the Comptroller and Auditor General, who is nominated by Dáil Eireann</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceapann an tUachtarán an tArd Reachtaire Cuntas agus Ciste, atá ainmnithe ag Dáil Éireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The President appoints the judges nominated by the Government to the various courts throughout the country</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceapann an tUachtarán na Breithimh atá ainmnithe ag an Rialtas lena cúirteanna ar fúd na tíre</seg></tuv>
+</tu>
+</body>
+</tmx>

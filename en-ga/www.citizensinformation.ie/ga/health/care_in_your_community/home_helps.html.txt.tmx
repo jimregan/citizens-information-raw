@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>The Home Help Service supports the assessed needs of vulnerable people in the community who through illness or disability are in need of help with day to day tasks</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tacaíonn an tSeirbhís Chúntóir Baile le riachtanais mheasúnaithe daoine leochaileacha sa phobal a dteastaíonn cabhair uathu le tascanna laethúla mar gheall ar bhreoiteacht nó ar mhíchumas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Home help services are provided in order to assist people to remain in their own home and to avoid going in to long-term care</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá seirbhísí cúntóirí baile curtha ar fáil do dhaoine ar mhaithe le fanacht ina dtithe féin agus gan dul le cónaí in institiúidí cúraim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In practice, the Health Service Executive (HSE) either provides the home help service directly or make arrangements with voluntary organisations to provide them</seg></tuv>
+  <tuv xml:lang="ga"><seg>De réir an chleachtais, soláthraíonn Feidhmeannacht na Seirbhíse Sláinte (FSS) an tseirbhís chúntóir baile go díreach nó déanann siad socruithe le heagraíochtaí deonacha chun iad a sholáthar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The service is generally free to medical card holders and is always free to people who have contracted Hepatitis C directly or indirectly from the use of Human Immunoglobulin-Anti-D or from the receipt within Ireland of another blood product or a blood transfusion and who have a Health Amendment Act Card</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn an tseirbhís saor in aisce go ginearálta do shealbhóirí cártaí leighis agus bíonn sé curtha ar fáil saor in aisce i gcónaído dhaoinea bhfuil Heipitíteas C faighte acu go díreach nó go hindíreach ó Ghlóbailin Imdhíonachta Daonna-Frith-D nó ó aon táirge fola nó aistriú fola a fuair siad in Éirinn agus a bhfuil Cárta faoin Acht um Leasú Sláinte acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Other people may be asked to make a contribution to the cost of the service</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh sé go n-iarrfaí ar dhaoine eile cuid de chostas na seirbhíse a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The HSE is not limited in the categories of people they can assist at home. However, the priorities are normally to provide a service to people with Hepatitis C who have Health Amendment Act Cards, older people, families with small children where the mother is dead or seriously ill and people with disabilities</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon teorainn ar an FSS maidir leis na cineálacha daoine gur féidir leo cúnamh a chur ar fáil dóibh ag baile agus nuair atá sí ar fáil, tugtar tús áite don tseirbhís seo a sholáthar do dhaoine a bhfuil Heipitíteas C orthu agus a bhfuil Cártaí faoin Acht um Leasú Sláinte acu, daoine níos sine, teaghlaigh le páistí óga nuair atá an mháthair básaithe nó go dona tinn agus daoine faoi mhíchumas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you get a home help, you may have to make a contribution towards the cost, even if you hold a medical card</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chuirtear seirbhísí cúntóra bhaile ar fáil duit b'fhéidir go mbeidh ort cuid den chostas a íoc, fiú má tá cárta leighis agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In some cases, you may have to pay all the costs involved</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcásanna áirid, b'fhéidir go mbeidh ort na costais ar fad a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are in a position to pay the costs involved, you can ask the Health Service Executive (HSE) for an arrangement whereby the HSE has all the responsibilities of the employer while you pay the costs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más féidir leat na costais ar fad a íoc, d'fhéadfadh tú socrú a dhéanamh leis an FSS gurb é an FSS an fostóir agus gur air a thiteann freagrachtaí uilig an fhostóra ach go n-íocann tusa na costais ar fad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are not enough people available to provide home help services to people who are assessed as being in need of the service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl dóthain daoine ar fáil le seirbhísí cúntóra bhaile a sholáthar do na daoine ar fad a dteastaíonn an tseirbhís uathu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In some areas, you may be asked to identify a person who may be able to provide the service</seg></tuv>
+  <tuv xml:lang="ga"><seg>B'fhéidir go n-iarrfaí ort duine a aimsiú thú féin a bheadh in ann an tseirbhís a chur ar fáil duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If that person is considered suitable by the HSE, then he/she may be offered the job</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má cheapann an FSS go bhfuil an duine sin sásúil, d'fhéadfadh sé go mbeadh an post curtha ar fáil dó/dí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some Local Health Offices also provide a limited home help respite care service for carers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann cuid de na Oifigí Sláinte Áitiúil seirbhís teoranta cúntóra bhaile mar chúram faoisimh ar fáil do chúramóirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The home help is expected to provide a set number of hours assistance each day or each week</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart don chúntóir baile méid áirid uaireanta an chloig oibre a dhéanamh gach lá nó gach seachtain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The precise arrangements can usually be agreed between you and the HSE</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir go hiondúil na mionsocruithe a dhéanamh idir thú féin agus an FSS</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The focus of the Home Help service is on essential personal care, such as washing, taking a shower, assistance with changing position, oral hygiene, or help at mealtime, and on essential domestic duties (like lighting a fire or bringing in fuel if there is no alternative heating source, or basic essential cleaning of the person’s personal space). Home helps are not expected to provide nursing or medical care</seg></tuv>
+  <tuv xml:lang="ga"><seg>Díríonn an tSeirbhís Chúntóir Baile ar chúram ríthábhachtach pearsanta, ar nós níocháin, cithfholcadh a ghlacadh, cúnamh le suíomh a athrú, sláinteachas béil, nó cabhair ag am béile agus/nó le dualgais ríthábhachtacha (ar nós tine a lasadh nó breosla a thabhairt isteach mura bhfuil aon foinse eile téimh ann, nó glantachán bunúsach spás pearsanta an duine)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The particular supports provided to each person will depend on the needs that are identified during the assessment which is undertaken by a HSE health professional, generally a public health nurse</seg></tuv>
+  <tuv xml:lang="ga"><seg>Braithfidh na tacaíochtaí ar leith a sholáthraítear do gach duine ar na riachtanais a shainaithnítear le linn an mheasúnaithe faoina dtugann gairmeach sláinte FSS, altra sláinte poiblí, i dtromlach na gcásanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Each application for home help services is considered on its own merits</seg></tuv>
+  <tuv xml:lang="ga"><seg>Breathnaítear ar gach iarratas ar sheirbhísí cúntóra bhaile ann féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Local Health Office may take a number of factors into account, including income, other family support available, remoteness from services and availability of suitable people to provide the service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis an Oifig Sláinte Áitiúil go leor rudaí a chur san áireamh, ioncam mar shampla, tacaíocht eile teaghlaigh atá ar fáil, cé chomh fada ó sheirbhísí atá an duine ag maireachtáil agus fáil ar dhaoine feiliúnacha leis an tseirbhís a chur ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are given a service, you may be asked to contribute to the costs involved, even if you hold a medical card.    How to apply</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chuirtear seirbhís ar fáil duit b'fhéidir go n-iarrfaí ort cuid den chostas a bhaineann leis a íoc, fiú má tá cárta leighis agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Home help service and the law</seg></tuv>
+  <tuv xml:lang="ga"><seg>Conas iarratas a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In practice, where the HSE provides a Home Help service, the service is mainly confined to older people and to families where a parent is ill or unable to cope.   In some cases, the HSE employs the home help directly</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart duit iarratas a dhéanamh chuig an altra sláinte poiblí go háitiúil, a dhéanfaidh measúnú ar do riachtanais don tseirbhís agus an t-iarratas a phróiseáil tríd an Oifig Sláinte Áitiúil</seg></tuv>
+</tu>
+</body>
+</tmx>

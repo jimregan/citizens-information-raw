@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Food safety and eating out</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sábháilteacht bia agus ag ithe lasmuigh den bhaile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Food Safety Authority of Ireland (FSAI) protects consumers' health by ensuring that food consumed, distributed, marketed or produced in Ireland meets the highest standards of food safety and hygiene</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann Údarás Sábháilteachta Bia na hÉireann cosaint do shláinte tomhaltóirí trína chinntiú go gcomhlíonann an bia a itear, a dháiltear, a ndéantar margaíocht air nó a tháirgtear in Éirinn na caighdeáin sláintíochta agus sábháilteachta bia is airde</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In addition, the FSAI have responsibility for ensuring that food that is sold in food premises complies with legal requirements, or where appropriate, with recognised codes of good practice</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, tá Údarás Sábháilteachta Bia na hÉireann freagrach as a chinntiú go bhfuil an bia a dhíoltar in áitribh bhia ag cloí le riachtanais dlíthiúla, nó, nuair is cuí, le cóid aitheanta dea-chleachtais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In general, food safety standards are high</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, bíonn caighdeáin sábháilteachta bia ard</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These food safety standards are also set down in law to protect the consumer and to set out best practice for retailers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá na caighdeáin sábháilteachta bia seo leagtha síos sa dlí freisin chun an tomhaltóir a chosaint agus chun dea-chleachtas a leagan síos do mhiondíoltóirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>On the ground, enforcement of food safety standards operates through the network of Environmental Health Officers appointed in each Health Service Executive (HSE) Area throughout the country</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag an leibhéal áitiúil, feidhmíonn forfheidhmiú na gcaighdeán sábháilteachta bia trí líonra Oifigeach Sláinte Comhshaoil i ngach Limistéar de chuid Fheidhmeannacht na Seirbhíse Sláinte ar fud na tíre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are unhappy about the quality of food you have purchased or you have concerns regarding the cleanliness of a food premises, it is important to know how to notify the authorities of your concerns</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil tú sásta le caighdeán an bhia atá ceannaithe agat nó má tá imní ort faoi ghlaineacht áitreabh bia, tá sé tábhachtach na húdaráis a chur ar an eolas maidir le do bhuairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the Food Safety Authority Act 1998, the Authority is empowered to issue special enforcement provisions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoin Acht um Údarás Sábháilteachta Bia na hÉireann 1998, tá sé de chumhacht ag an Údarás Sábháilteachta Bia forálacha forfheidhmithe speisialta a eisiúint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These enforcement provisions are in addition to the powers to prosecute offenders on specific pieces of food legislation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tagann na forálacha forfheidhmithe seo anuas ar na cumhachtaí atá ann ciontóirí a ionchúiseamh maidir le píosaí reachtaíochta bia ar leith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Broadly speaking, the law entitles the Food Safety Authority or its officials to issue three different types of enforcement orders for breaches of food safety legislation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, tá an tÚdarás Sábháilteachta Bia nó a chuid oifigeach i dteideal trí chineál orduithe forfheidhmithe éagsúla a eisiúint de thoradh sáruithe ar reachtaíocht sábháilteachta bia</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Improvement order: issued by the District Court against an offender</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ordú feabhsúcháin; eisíonn an Chúirt Dúiche é i gcoinne ciontóra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Issued when any activity involving the handling, preparation etc</seg></tuv>
+  <tuv xml:lang="ga"><seg>Eisítear é seo sa chás go bhféadfadh aon ghníomhaíocht a bhaineann le láimhseáil, réiteach srl</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>of food, or the condition of a premises where food is handled or prepared may pose a risk to public health</seg></tuv>
+  <tuv xml:lang="ga"><seg>bia, nó riocht áitribh ina láimhseáiltear nó ina réitítear bia, sláinte an phobail a chur i mbaol</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Closure order: issued if there is, or is likely to be a grave and immediate danger to public health at the food premises</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ordú dúnta; eisítear é má tá, nó más dóigh go mbeidh, baol tromchúiseach agus láithreach ann do shláinte an phobail ag /nó san áitreabh bia</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It may be lifted when premises improve</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Is féidir an t-ordú seo a chealú nuair a fheabhsaíonn cúrsaí in áitreabh)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Prohibition order: issued if the activities (handling, processing, disposal, manufacturing, storage, distribution or selling food) involve, or are likely to involve, a serious risk to public health from a particular product, class, batch or item of food</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ordú toirmisc; eisítear é má tá baol suntasach do shláinte an phobail ó tháirge, aicme, baisc nó mír bia i gceist nó más dóigh go mbeidh a leithéid i gceist leis na gníomhaíochtaí (láimhseáil, próiseáil, diúscairt, déantús, stóráil, dáileadh nó díol bia)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The effect is to prohibit the sale of the product, either temporarily or permanently</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an tionchar a bhíonn aige seo ná díolachán an táirge a chosc, go sealadach nó go buan</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Closure and prohibition orders are listed on the FSAI website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá orduithe dúnta agus toirmisc liostaithe ar láithreán gréasáin Údarás Sábháilteachta Bia na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Making a complaint about a food premises</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gearán a dhéanamh faoi áitreabh bia</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have a complaint about food you have consumed or a food premises you have visited, you should contact the Environmental Health Officer (EHO) in your HSE Area as soon as possible</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá gearán agat faoi bhia atá ite agat nó faoi áitreabh bia ar thug tú cuairt air, ba chóir duit dul i dteagmháil leis an Oifigeach Sláinte Chomhshaoil i do limistéar FSS chomh luath agus is féidir leat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Normally following a complaint, an official will arrange to meet with you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go hiondúil tar éis gearáin, déanfaidh oifigeach coinne chun bualadh leat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>At this meeting, you will discuss making an official complaint and the official will help you to complete an official complaint form</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag an gcruinniú seo, pléifidh tú gearán oifigiúil a dhéanamh agus cabhróidh an t-oifigeach leat foirm gearáin oifigiúil a chomhlánú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you submit a food complaint, the unfit food may be sent to a laboratory for analysis</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má sheolann tú gearán isteach faoi bhia, d’fhéadfadh sé go seolfaí an bia chuig saotharlann i gcomhair anailíse</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will be contacted with the result</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rachfar i dteagmháil leat chun na torthaí a chur in iúl duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Alternatively, you can have suspect food analysed independently for a fee by contacting the Public Analyst Laboratory in your region</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nó féadfaidh tú socrú a dhéanamh anailís neamhspleách a dhéanamh ar bhia ach táille a íoc trí dhul i dteagmháil le Saotharlann an Anailísí Phoiblí i do réigiún</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The FSAI Advice Line on 1890 33 66 77 provides information and advice on a range of food safety issues</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann Líne Comhairle Údarás Sábháilteachta Bia na hÉireann ar 1890 33 66 77 faisnéis agus comhairle ar fáil maidir le réimse saincheisteanna sábháilteachta bia</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is staffed by trained advisors and food scientists</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá foireann oibre comhairleoirí oilte agus eolaithe bia ann</seg></tuv>
+</tu>
+</body>
+</tmx>

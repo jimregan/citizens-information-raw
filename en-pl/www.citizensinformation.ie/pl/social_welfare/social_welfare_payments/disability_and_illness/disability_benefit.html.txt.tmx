@@ -1,0 +1,397 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="pl"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>You may get Illness Benefit from the Department of Social Protection if you cannot work because you are sick or ill</seg></tuv>
+  <tuv xml:lang="pl"><seg>Zasiłek Chorobowy od Ministerstwa Opieki Społecznej można uzyskać z tytułu niezdolności do pracy powodowanej chorobą</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must be aged under 66, covered by the appropriate class of social insurance (PRSI) and satisfy the PRSI conditions</seg></tuv>
+  <tuv xml:lang="pl"><seg>Przysługuje on osobom objętym ubezpieczeniem społecznym PRSI poniżej 66 roku życia</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Illness Benefit is not linked to your employer's policy on pay for sick leave (your employer can decide their own policy on sick pay and sick leave)</seg></tuv>
+  <tuv xml:lang="pl"><seg>Zasiłek chorobowy nie jest połączony z polityką Państwa pracodawcy odnośnie płatności w czasie urlopu chorobowego (leży to w gestii Państwa pracodawcy aby decydować o jego polityce odnośnie płatności i urlopu chorobowego)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>More information is available in our document about sick leave and employment</seg></tuv>
+  <tuv xml:lang="pl"><seg>Więcej informacji uzyskacie Państwo z naszego dokumentu o urlopie chorobowym i zatrudnieniu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Whether your employer pays you or not while you are out sick from work, you should claim Illness Benefit from the first day of your illness – see “Rules” below</seg></tuv>
+  <tuv xml:lang="pl"><seg>Reprezentant Ministerstwa oceni Państwa sytuację i może udzielić Państwu Dodatkowej Zapomogi Pomocy Społecznej.   Osoby uprawnione do wypłaty wynagrodzenia z tytułu płatnego urlopu zdrowotnego</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you get sick pay from work, you should ask your employer what administrative arrangements are in place while you are claiming Illness Benefit</seg></tuv>
+  <tuv xml:lang="pl"><seg>Po zakończeniu płatnego urlopu zdrowotnego pracodawca powinien przestać otrzymywać przepisany zasiłek chorobowy</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your income is too low to meet your needs, while you are waiting for a decision on your claim for Illness Benefit, you may be entitled to basic Supplementary Welfare Allowance, which is a means-tested payment</seg></tuv>
+  <tuv xml:lang="pl"><seg>Osoby, które uważają, że niesłusznie odmówiono im prawa do zasiłku chorobowego, mogą złożyć odwołanie od tej decyzji</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must apply for Illness Benefit within 7 days of becoming ill</seg></tuv>
+  <tuv xml:lang="pl"><seg>O zasiłek chorobowy należy wystąpić w ciągu 7 dni od zachorowania</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>No payment is made for the first 6 days of illness which are known as waiting days</seg></tuv>
+  <tuv xml:lang="pl"><seg>Za pierwsze trzy dni choroby nie przysługuje wypłata żadnego zasiłku</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Social insurance (PRSI) contributions</seg></tuv>
+  <tuv xml:lang="pl"><seg>Składki na ubezpieczenie społeczne (PRSI)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To qualify for payment of Illness Benefit you must satisfy the following two conditions:</seg></tuv>
+  <tuv xml:lang="pl"><seg>Zasiłek chorobowy przysługuje osobom, które:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>1. You must have at least 104 weeks of PRSI contributions paid since you first started work</seg></tuv>
+  <tuv xml:lang="pl"><seg>• przynajmniej 104 tygodnie opłaconego PRSI (w klasie A, E, H albo P) od momentu rozpoczęcia pracy</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>2. 39 weeks of PRSI contributions paid or credited in the relevant tax year, of which 13 must be paid contributions. If you do not have 13 paid contributions in the relevant tax year, then 13 paid contributions in one of the following tax years can be used instead: □ Either of the two tax years before the relevant tax year</seg></tuv>
+  <tuv xml:lang="pl"><seg>• mają opłacone lub skredytowane składki PRSI za okres 39 tygodni w odpowiednim roku podatkowym (przy czym mają opłacone składki za co najmniej 13 tygodni*)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>26 weeks of PRSI contributions paid in the relevant tax year, and 26 weeks of PRSI contributions paid in the tax year immediately before the relevant tax year</seg></tuv>
+  <tuv xml:lang="pl"><seg>• mają opłacone składki PRSI za okres 26 tygodni w odpowiednim roku podatkowym oraz mają opłacone składki PRSI co najmniej za okres 26 tygodni w roku podatkowym bezpośrednio poprzedzającym odpowiedni rok podatkowy</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The relevant tax year is the second-last complete tax year before the year in which your claim for Illness Benefit begins. For example:</seg></tuv>
+  <tuv xml:lang="pl"><seg>*W przypadku osób, które w odpowiednim roku podatkowym nie mają opłaconych 13 składek, można w celu spełnienia powyższego warunku wykorzystać następujące lata:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│If your claim begins in: │The relevant tax year is: │</seg></tuv>
+  <tuv xml:lang="pl"><seg>• 2 lata podatkowe przed odpowiednim rokiem podatkowym;</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Only PRSI contributions paid at class A, E, H and P count towards Illness Benefit</seg></tuv>
+  <tuv xml:lang="pl"><seg>• bieżący rok podatkowy</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you were getting long-term Jobseeker's Allowance, Pre-Retirement Allowance, Invalidity Pension, Carer's Allowance or Carer's Benefit immediately before applying for Illness Benefit, you do not need to have 13 paid contributions</seg></tuv>
+  <tuv xml:lang="pl"><seg>odpowiednim rokiem podatkowym jest rok 2011. W przypadku długotrwałego pobierania Zasiłku dla Osób Poszukujących Pracy (Jobseeker's Allowance) (15 miesięcy), Zasiłku Przedemerytalnego (Pre-Retirement Allowance), Renty Inwalidzkiej Invalidity Pension), Zasiłku Pielęgnacyjnego (Carer's Allowance) lub Świadczenia Pielęgnacyjnego (Carer's Benefit) bezpośrednio przed złożeniem wniosku o Zasiłek Chorobowy (Illness Benefit), nie trzeba mieć 13 opłaconych składek</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you were getting Occupational Injury Benefit (OIB) immediately before applying for Illness Benefit you may use the tax year that applied to your OIB claim or the tax year that applies to your Illness Benefit claim, whichever is more beneficial</seg></tuv>
+  <tuv xml:lang="pl"><seg>W przypadku otrzymywanie Zasiłku dla Osób Poszukujących Pracy (Jobseeker's Allowance) według obniżonej składki lub mniej niż 260 składek PRSI Państwa Zasiłek Chorobowy (Illness Benefit) może zostać obniżony</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To help you qualify for Illness Benefit, you may combine your Irish PRSI contributions with social insurance contributions from a country covered by EU Regulations (and the Channel Islands and the Isle of Man, which are covered under a bilateral agreement)</seg></tuv>
+  <tuv xml:lang="pl"><seg>Można połączyć Państwa składki do irlandzkiego PRSI ze składkami na ubezpieczenie społeczne z innego kraju objętego przepisami UE, aby zakwalikować się do Zasiłku Chorobowego (Illness Benefit)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>How long is Illness Benefit paid?</seg></tuv>
+  <tuv xml:lang="pl"><seg>Jak długo wypłacany jest Zasiłek Chrobowy (Illness Benefit)?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• 2 years (624 payment days) if you have at least 260 weeks of reckonable social insurance contributions* paid since you first started work</seg></tuv>
+  <tuv xml:lang="pl"><seg>W przypadku, gdy posiadają Państwo 260 tygodni zapłaconego PRSI od momentu rozpoczęcia pracy można pobierać Zasiłek Chorobowy (Illness Benefit) przez 2 lata (624 dni płatności)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• 1 year (312 payment days) if you have between 104 and 259 weeks of reckonable social insurance contributions* paid since you first started work</seg></tuv>
+  <tuv xml:lang="pl"><seg>Jeśli masz od od 104 do 259 tygodni opłaconych składek PRSI, można pobierać Zasiłek Chorobowy (Illness Benefit) przez okres do 52 (312 dni płatności)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>*Reckonable social insurance contributions paid in Ireland, EU countries, the Channel Islands and the Isle of Man can be combined for this purpose</seg></tuv>
+  <tuv xml:lang="pl"><seg>Jeśli skończą Państwo pobieranie Zasiłku Chorobowego (Illness Benefit) można ponownie zakwalifikować się do Zasiłku Chorobowego (Illness Benefit) płacąc dodatkowe 13 składek PRSI (albo mniejszą liczbę jeśli da ona w sumie łączną liczbę opłaconych składek PRSI wynoszącą 260)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Before your payment is due to stop, you will be contacted by the Department of Social Protection telling you when payment will stop and giving you further information on options available:</seg></tuv>
+  <tuv xml:lang="pl"><seg>Przed styczniem 2009 osoby posiadające 260 tygodni opłaconego PRSI od momentu rozpoczęcia pracy były uprawnione do otrzymywania Zasiłku Chorobowego (Illness Benefit) przez okres niezdolności do pracy, gdy nie przekoczyli 66 roku życia</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you are ill, likely to be permanently incapable of work and satisfy the PRSI conditions, you may qualify for Invalidity Pension</seg></tuv>
+  <tuv xml:lang="pl"><seg>Po wygaśnięciu uprawnień do zasiłku chorobowego, mogą przysługiwać ci inne świadczenia:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you do not qualify for Invalidity Pension and you have a disability that is expected to last for a year or more, you may qualify for a means-tested Disability Allowance</seg></tuv>
+  <tuv xml:lang="pl"><seg>• Jeśli jesteś chory(a) i prawdopodobnie na stałe niezdolny(a) do pracy, natomiast spełniasz warunki ubezpieczenia społecznego zależnego od dochodu (PRSI), wówczas możesz kwalifikować się do otrzymania renty inwalidzkiej</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you do not qualify for any other payments and your income is too low to meet your needs, you may qualify for a basic Supplementary Welfare Allowance</seg></tuv>
+  <tuv xml:lang="pl"><seg>• Jeśli nie kwalifikujesz się do otrzymania renty inwalidzkiej, natomiast masz niepełnosprawność, która trwać będzie przez rok, wówczas możesz się kwalifikować do otrzymania renty inwalidzkiej, wypłacanej po zbadaniu stanu majątkowego</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If your Illness Benefit is ending because you are turning 66, you may be eligible for a State Pension. You should apply 3 months before your 66th birthday</seg></tuv>
+  <tuv xml:lang="pl"><seg>• Jeśli nie kwalifikujesz się do otrzymania żadnych innych świadczeń, zaś twój dochód jest zbyt niski, aby zaspokoić codzienne potrzeby, wówczas możesz się zakwalifikować do otrzymania podstawowych dodatkowych świadczeń socjalnych</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you return to work, you must have a minimum of 13 reckonable PRSI contributions paid before you may requalify for Illness Benefit</seg></tuv>
+  <tuv xml:lang="pl"><seg>• Jeżeli kończysz 66 lat, w związku z czym zasiłek chorobowy wygasa, wówczas może przysługiwać ci emerytura państwowa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(All other qualifying conditions must also be satisfied.)</seg></tuv>
+  <tuv xml:lang="pl"><seg>Wniosek w tym celu należy złożyć w terminie 3 miesięcy przed osiągnięciem wieku 66 lat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Transfer from Carer's Benefit or Carer’s Allowance</seg></tuv>
+  <tuv xml:lang="pl"><seg>Przejście z zasiłku lub zapomogi dla opiekunów osób niepełnosprawnych</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you transfer from Illness Benefit to Carer's Benefit or Carer's Allowance and then back to Illness Benefit, your Illness Benefit will not be paid at a lower rate than that you were paid previously</seg></tuv>
+  <tuv xml:lang="pl"><seg>Osoby przechodzące z zasiłku chorobowego na zasiłek lub zapomogę dla opiekunów osób niepełnosprawnych, a następnie znowu na zasiłek chorobowy, będą uprawnione do otrzymywania stawki zasiłku nie niższej niż poprzednio wypłacana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Work and Illness Benefit</seg></tuv>
+  <tuv xml:lang="pl"><seg>Praca a zasiłek chorobowy</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The PCB scheme allows you to return to work (if you have a reduced capacity to work) and continue to receive a social welfare payment. A Medical Assessor (who is a doctor employed by the Department of Social Protection) will assess the restriction on your capacity for work, and the personal rate of PCB paid is based on this assessment. You cannot take up work until you have written approval to do so from the Department</seg></tuv>
+  <tuv xml:lang="pl"><seg>Od 13 lutego 2012 Zasiłek Częściowej Zdolności do Pracy (Partial Capacity Benefit) zastępuje poprzednie zwolnienie warunkowe, gdy osoby otrzymujące Zasiłek Chorobowy mogły otrzymać pozwolenie na pracę w niepełnym wymiarze godzin (znane jako zezwolenie warunkowe) w celach rehabilitacyjnych lub terapeutycznych przy jednoczesnym zachowaniu pełnego wymiaru świadczeń pomocy społecznej</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You cannot undertake a training or educational course or do voluntary work without prior, written approval from the Department of Social Protection</seg></tuv>
+  <tuv xml:lang="pl"><seg>Nie odnosi się to do osób, które aktualnie posiadają takowe pozwolenie aż do momentu ponownego rozpatrzenia ich pozwolenia</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must apply to the Illness Benefit section for this approval</seg></tuv>
+  <tuv xml:lang="pl"><seg>W tym momencie zwolnienie nie będzie dla nich dostępne, ale będą one miały możliwość ubiegania się o Zasiłek Częściowej Zdolności do Pracy</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Since 1 January 2014, new participants on SOLAS training courses can retain Illness Benefit but they cannot get a training allowance or training bonus at the same time</seg></tuv>
+  <tuv xml:lang="pl"><seg>Nie istnieje wymóg, aby praca wykonywana przez osobę gdy otrzymuje ona Zasiłek Częściowej Zdolności do Pracy miała charakter rehabilitacyjny lub terapeutyczny</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Illness Benefit and other social welfare payments</seg></tuv>
+  <tuv xml:lang="pl"><seg>Zasiłek Chorobowy (Illness Benefit) oraz inne świadczenia socjalne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Blind Pension │If you are getting Blind Pension, you may also get Illness Benefit if you are ill and unable to work and you satisfy the PRSI conditions</seg></tuv>
+  <tuv xml:lang="pl"><seg>│Renta dla Osób Niewidomych <ph/> │W przypadku pobierania Renty dla Osób Niewidomych <ph/> można również uzyskać Zasiłek Chorobowy <ph/> w przypadku choroby i niezdolności do pracy oraz spełniania warunków PRSI</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│ │If you are getting Illness Benefit and you satisfy the conditions for Carer's Allowance, you may get half the personal rate of Carer's Allowance along with your Illness Benefit payment</seg></tuv>
+  <tuv xml:lang="pl"><seg>│ │W przypadku pobierania Zasiłku Chorobowego <ph/> i spełnienia warunków do uzyskiwania Zasiłku Pielęgnacyjnego <ph/> można utrzymać Zasiłek Pielęgnacyjny <ph/> w połowie przysługującej wysokości wraz z Zasiłkiem Chorobowym <ph/></seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Carer's Allowance │ │</seg></tuv>
+  <tuv xml:lang="pl"><seg>│Zasiłek Pielęgnacyjny <ph/> │ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│ │It may also be possible for you to receive an Increase for a Qualified Adult for someone on your Illness Benefit claim while they receive a half-rate Carer's Allowance for caring for you or someone else</seg></tuv>
+  <tuv xml:lang="pl"><seg>│ │Może również pojawić się dla Państwa możliwość otrzymania Podwyżki dla Wykwalifikowanej Osoby Dorosłej dla kogoś, kto widnieje na Państwa wniosku o Zasiłek Chorobowy <ph/>, podczas pobierania Zasiłku Pielęgnacyjnego <ph/> w połowie wysokości za opiekę nad Państwem lub inną osobą</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Disablement Benefit │If you are getting Disablement Benefit, you may also get Illness Benefit if you are ill, unable to work and satisfy the PRSI conditions (provided that the Disablement Benefit payment does not include an increase for Incapacity Supplement)</seg></tuv>
+  <tuv xml:lang="pl"><seg>│Renta Inwalidzka <ph/> │W przypadku pobierania Renty Inwalidzkiej <ph/> można również uzyskać Zasiłek Chorobowy <ph/> w przypadku choroby i niezdolności do pracy oraz spełniania warunków PRSI</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Domiciliary Care Allowance/Carer's Support Grant │Illness Benefit is payable if you are getting Domiciliary Care Allowance and/or the Carer's Support Grant (formerly Respite Care Grant)</seg></tuv>
+  <tuv xml:lang="pl"><seg>│Zasiłek Pielęgnacyjny na Opiekę Domową/ Dofinansowanie Opieki Zastępczej <ph/> │Zasiłek Chorobowy <ph/> jest wypłacany w przypadku korzystania z Zasiłku Pielęgnacyjnego na Opiekę Domową i/lub Dofinansowanie Opieki Zastępcznej <ph/></seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Family Income Supplement (FIS) and Back to Work Family Dividend (BTWFD) │If you are receiving Family Income Supplement (FIS) and become ill, payment of FIS may continue with Illness Benefit for up to 36 days (6 weeks)</seg></tuv>
+  <tuv xml:lang="pl"><seg>│Dodatek dla Rodzin o Niskich Dochodach <ph/>/Back to Work Family Dividend │W przypadku pobierania Dodatku dla Rodzin o Niskich Dochodach <ph/> i zachorowania, wypłacanie Dodatku dla Rodzin o Niskich Dochodach (FIS) może zostać utrzymane wraz z Zasiłkiem Chorobowym <ph/> przez okres do 6 tygodni</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Similarly if you become ill while you are getting Back to Work Family Dividend, payment of BTWFD may continue with Illness Benefit for 36 days (6 weeks)</seg></tuv>
+  <tuv xml:lang="pl"><seg>W przypadku pobierania Back to Work Family Dividend (BTWFD) i zachorowania, wypłacanie BTWFD może zostać utrzymane wraz z Zasiłkiem Chorobowym <ph/> przez okres do 6 tygodni</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Widow’s, Widower’s or Surviving Civil Partner’s Pension (including occupational widow’s/widower’s pensions) and One-Parent Family Payment, Deserted Wife's Allowance/Benefit or Prisoner’s Wife's Allowance │If you are getting any of these payments at the full rate, you cannot get Illness Benefit at the same time</seg></tuv>
+  <tuv xml:lang="pl"><seg>Jednak w przypadku pobierania dowolnego z tych świadczeń w zmniejszonej wysokości i zachorowania można się zakwalifikować do uzyskiwania Zasiłku Chorobowego <ph/> w obniżonej wysokości, co doprowadzi łączną kwotę świadczeń do wysokości maksymalnej przysługującej stawki Zasiłku Chorobowego <ph/>, do którego osoba jest uprawniona. │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if you are getting a reduced rate of one of these payments and become ill, you may qualify for a reduced rate of Illness Benefit (so that the combined amount of both payments is not greater than the rate of Illness Benefit to which you are entitled)</seg></tuv>
+  <tuv xml:lang="pl"><seg>mogą nadal otrzymywać jednocześnie obie płatności. W przypadku pobierania Zasiłku Chorobowego przed 1 lutego 2012 r. i zakwalifikowania się do otrzymywania następnie jednego z tych świadczeń, można pobierać oba te świadczenia przez okres posiadania roszczenia o Zasiłek Chorobowy <ph/></seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Payment of Illness Benefit abroad</seg></tuv>
+  <tuv xml:lang="pl"><seg>Wyplata Zasilku Chorobowego <ph/> za granica</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can continue to get Illness Benefit if you go to live in another country covered by EU Regulations</seg></tuv>
+  <tuv xml:lang="pl"><seg>W przypadku zamieszkania w innym kraju, w którym obowiazuja przepisy UE, mozna utrzymac Zasilek Chorobowy <ph/></seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may be called for medical assessment while living abroad (this is arranged by the Department with the Social Security Office of the country you are in)</seg></tuv>
+  <tuv xml:lang="pl"><seg>Nalezy poinformowac Wydzial Opieki Spolecznej <ph/> z wyprzedzeniem (w przeciwnym wypadku mozna utracic swiadczenie lub jego wyplata moze zostac opózniona)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you go to live in another country covered by EU Regulations and become ill, you may apply for Illness Benefit from Ireland if you paid your last insurance contribution in Ireland or you were getting Jobseeker’s Benefit in Ireland before you went abroad</seg></tuv>
+  <tuv xml:lang="pl"><seg>W przypadku zamieszkania w innym kraju, w którym obowiazuja przepisy UE i zachorowania mozna sie ubiegac o Zasilek Chorobowy <ph/> w Irlandii, w przypadku zaplacenia ostatniej skladki ubezpieczenia w Irlandii albo pobierania Zasilku dla Osób Poszukujacych Pracy <ph/> w Irlandii przed wyjazdem za granice</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Illness Benefit is not paid in countries not covered by EU Regulations</seg></tuv>
+  <tuv xml:lang="pl"><seg>Zasilek Chorobowy <ph/> nie jest wyplacany w krajach, w których nie obowiazuja przepisy EU</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if you go to a country not covered by EU Regulations to get approved treatment your payment may resume when you return.   You can read detailed FAQs from the Department of Social Protection on claiming Illness Benefit abroad</seg></tuv>
+  <tuv xml:lang="pl"><seg>Jednak w przypadku wyjazdu do kraju, w którym nie obowiazuja przepisy UE, w celu uzyskania zatwierdzonego leczenia, platnosci moga zostac wznowione po powrocie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Reviews of Illness Benefit</seg></tuv>
+  <tuv xml:lang="pl"><seg>Weryfikacja Zasilków Chorobowych</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your Illness Benefit claim will be reviewed from time to time and you may be asked to attend for a medical assessment</seg></tuv>
+  <tuv xml:lang="pl"><seg>Wniosek o Zasilek Chorobowy <ph/> bedzie czasem weryfikowany I moga zostac Panstwo poproszeni o stawienie sie na a medical assessment (badanie lekarskie)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This assessment will be carried out by a Medical Assessor, who is a doctor employed by the Department of Social Protection</seg></tuv>
+  <tuv xml:lang="pl"><seg>Ocena zostanie przeprowadzona przez Lekarza Orzecznika <ph/>, lekarza zatrudnionego przez Wydzial Opieki Spolecznej <ph/></seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Medical Assessor will give an opinion on whether or not you are fit for work</seg></tuv>
+  <tuv xml:lang="pl"><seg>Lekarz Orzecznik <ph/> wystawi opinie, czy osoba jest zdatna do pracy, czy nie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must attend for a medical assessment when asked, or your benefit will be suspended</seg></tuv>
+  <tuv xml:lang="pl"><seg>W przypadku prosby o stawiennictwo na ocene stanu zdrowia, trzeba sie stawic pod rygorem zawieszenia wyplaty swiadczenia</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your Illness Benefit is stopped, you have a right to appeal the decision - see ‘Where to apply’ below</seg></tuv>
+  <tuv xml:lang="pl"><seg>W przypadku wstrzymania Zasilku Chorobowego <ph/>, maja Panstwo prawo do zlozenia odwolania od decyzji - por</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are receiving credited contributions only and these are stopped, you can seek a review of the decision but you do not have a right to appeal it</seg></tuv>
+  <tuv xml:lang="pl"><seg>W przypadku otrzymywania jedynie uznania skladek i ich wstrzymania mozna sie ubiegac o weryfikacje decyzji, ale bez prawa odwolania od decyzcji</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Usually no payment is made for the first 6 days of illness and no payment is made for any Sunday during your illness. Note that this was extended from 3 to 6 days from 6 January 2014</seg></tuv>
+  <tuv xml:lang="pl"><seg>Za pierwsze trzy dni choroby płatności nie są dokonywana podobnie jak za dowolną niedzielę przypadającą na czas choroby</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Illness Benefit rates are graduated according to your average weekly earnings in the relevant tax year</seg></tuv>
+  <tuv xml:lang="pl"><seg>Stawki zasiłku chorobowego są uzależnione od średnich zarobków tygodniowych pracownika w odpowiednim roku podatkowym</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Weekly payment in 2016 and up to 13 March 2017 for claims started in 2009 or after</seg></tuv>
+  <tuv xml:lang="pl"><seg>Tygodniowe świadczenie w 2015 r. – wnioski złożone w 2009 r. lub:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Average weekly │Personal rate,│Qualified adult rate,│ │earnings │€ │€ │</seg></tuv>
+  <tuv xml:lang="pl"><seg>│Średnie zarobki tygodniowe │Stawka osobista │Stawka dla kwalifikującej się osoby dorosłej │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│€300 or more │188 │124.80 │</seg></tuv>
+  <tuv xml:lang="pl"><seg>│300 EUR lub więcej │€188 │€124.80 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│less than €150 │84.50 │80.90 │</seg></tuv>
+  <tuv xml:lang="pl"><seg>│poniżej 150 EUR │€84.50 │€80.90 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Weekly payment in 2016 and up to 13 March 2017 for claims started in 2008 or before:</seg></tuv>
+  <tuv xml:lang="pl"><seg>Tygodniowe świadczenie w 2013 r. – wnioski złożone w 2008 r. lub wcześniej:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Average weekly │Personal rate,│Qualified adult rate,│ │earnings │€ │€ │</seg></tuv>
+  <tuv xml:lang="pl"><seg>│Średnie zarobki tygodniowe │Stawka osobista │Stawka dla kwalifikującej się osoby dorosłej │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│€150 or more │188 │124.80 │</seg></tuv>
+  <tuv xml:lang="pl"><seg>│150 EUR lub więcej │€188 │€124.80 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│less than €80 │84.50 │80.90 │</seg></tuv>
+  <tuv xml:lang="pl"><seg>│poniżej 80 EUR │€84.50 │€80.90 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│less than €150 │86.70 │83 │ └─────────────────────┴──────────────┴─────────────────────┘</seg></tuv>
+  <tuv xml:lang="pl"><seg>Zasiłek chorobowy może zostać wypłacony bezpośrednio na konto bankowe beneficjenta lub konto towarzystwa budowlanego</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│less than €80 │86.70 │83 │</seg></tuv>
+  <tuv xml:lang="pl"><seg>Kwalifikująca się osoba dorosła</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>or to an account in a credit union which offers the facility for Electronic Funds Transfer (EFT)</seg></tuv>
+  <tuv xml:lang="pl"><seg>Możliwe jest podwyższenie świadczenia z tytułu posiadania osoby dorosłej na utrzymaniu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can get an increase in your payment for an adult dependant or child dependant if you meet certain conditions</seg></tuv>
+  <tuv xml:lang="pl"><seg>Średnie zarobki tygodniowe nie mają wpływu na stawkę świadczenia otrzymywanego na dziecko na utrzymaniu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Illness Benefit, both the personal rate and Increase for a Qualified Adult, (excluding increases for child dependants) is considered to be income for tax purposes and it is taxable from the first day of payment</seg></tuv>
+  <tuv xml:lang="pl"><seg>Zasiłek Chorobowy (za wyjątkiem jakichkolwiek zwyżek z tytułu dzieci będących na utrzymaniu) dla celów opodatkowania stanowi przychód i opodatkowany jest od pierwszego dnia płatności</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Illness Benefit is paid directly to you without any deduction of income tax</seg></tuv>
+  <tuv xml:lang="pl"><seg>Zasiłek Chorobowy wypłacany jest Państwu bezpośrednio bez potrącania podatku dochodowego</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are employed, your employer will take your Illness Benefit into account for PAYE purposes</seg></tuv>
+  <tuv xml:lang="pl"><seg>Jeśli jesteście Państwo zatrudnieni, Państwa pracodawca weźmie Państwa Zasiłek Chorobowy dla celów PAYE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are unemployed, Revenue will take account of the amount of Illness Benefit paid to you when they adjust your tax credits or review the tax affairs of your spouse or civil partner</seg></tuv>
+  <tuv xml:lang="pl"><seg>Jeśli jesteście Państwo bezrobotni, Urząd Skarbowy (Revenue) weźmie pod uwagę wysokość Zasiłku Chorobowego wypłaconego Państwu podczas określania ulg podatkowych lub oceny sytuacji podatkowej Państwa współmałżonka</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Contact Revenue for more information</seg></tuv>
+  <tuv xml:lang="pl"><seg>W celu uzyskania większej ilości informacji, proszę skontaktować się z Revenue</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should apply for Illness Benefit within 7 days of becoming ill</seg></tuv>
+  <tuv xml:lang="pl"><seg>Każdy pracownik powinien wystąpić o zasiłek chorobowy w ciągu 7 dni od zachorowania</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A delay of more than 7 days may cause you to lose some of your payment</seg></tuv>
+  <tuv xml:lang="pl"><seg>Opóźnienie przekraczające 7 dni może skutkować utratą części świadczenia</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If there is a good reason for a delay in applying, your payment may be backdated</seg></tuv>
+  <tuv xml:lang="pl"><seg>W przypadku przedstawienia uzasadnionego powodu opóźnionego złożenia wniosku, mogą być przyznane wypłaty z mocą wsteczną</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can get a first social welfare medical certificate (known as MC1), which includes an application form for Illness Benefit, from your family doctor (GP) or hospital doctor</seg></tuv>
+  <tuv xml:lang="pl"><seg>Wniosek o przyznanie zasiłku chorobowego można otrzymać od swojego lekarza rodzinnego (GP) lub lekarza w szpitalu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The reason you can only get this form from a doctor is because a doctor must complete the medical certificate part of the form</seg></tuv>
+  <tuv xml:lang="pl"><seg>Formularz można otrzymać wyłącznie od lekarza, gdyż musi on wypełnić jego część</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must get a final medical certificate from your doctor before you go back to work</seg></tuv>
+  <tuv xml:lang="pl"><seg>Nie można go pobrać z sieci</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Note that in all cases social welfare medical certificates (MC1 and MC2) are not available online or from the Department's offices</seg></tuv>
+  <tuv xml:lang="pl"><seg>W okresie choroby należy co tydzień przesyłać zaświadczenie lekarskie (MC 2), chyba że wydane zostaną inne instrukcje</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are not required to pay for a social welfare medical certificate as the Department pays the doctor an agreed fee</seg></tuv>
+  <tuv xml:lang="pl"><seg>Przed powrotem do pracy należy uzyskać od lekarza końcowe zaświadczenie lekarskie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you wish to make a backdated claim for Illness Benefit, you need to supply a First Medical Certificate (MC1) stating the date the illness began, a letter from your doctor giving details of your illness and treatment and a current MC2 certificate</seg></tuv>
+  <tuv xml:lang="pl"><seg>Nie ma wymogu zapłaty za zaświadczenie lekarskie na potrzeby opieki społecznej, ponieważ Wydział płaci lekarzowi ustalone honorarium</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have any difficulties completing the forms, staff in your local social welfare office will be happy to help you</seg></tuv>
+  <tuv xml:lang="pl"><seg>W przypadku pojawienia się trudności w wypełnianiu formularzy, pracownicy miejscowego biura opieki społecznej pomogą wypełnić wniosek</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Any questions you have about Illness Benefit should be made directly to your social welfare local office or you can call the Illness Benefit enquiries telephone line - see 'Where to apply' below</seg></tuv>
+  <tuv xml:lang="pl"><seg>Wszelkie pytania dotyczące zasiłku chorobowego należy kierować bezpośrednio do miejscowego biura opieki społecznej lub do informacji telefonicznej pod numerem: (01) 704 3300</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you think you have been wrongly refused Illness Benefit, you can ask for the decision to be reviewed</seg></tuv>
+  <tuv xml:lang="pl"><seg>Jeśli Państwo uważają, że niesłusznie odmówiono Państwu Zasiłku Chorobowego Illness Benefit] można wystąpić o zweryfikowanie decyzji</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can also appeal the decision to the Social Welfare Appeals Office, either straight away or after the review</seg></tuv>
+  <tuv xml:lang="pl"><seg>Można również natychmiast appeal the decision to the Social Welfare Appeals Office (złożyć odwołanie od decyzji do Biura Odwołań Opieki Społecznej, albo uczynić to po przeprowadzeniu weryfikacji</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must request a review or appeal a decision within 21 days of being informed of the decision</seg></tuv>
+  <tuv xml:lang="pl"><seg>O weryfikację albo odwołanie od decyzji należy wystąpić w ciągu 21 dni od przekazania informacji o decyzji</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Department of Social Protection</seg></tuv>
+  <tuv xml:lang="pl"><seg>Department of Social Protection</seg></tuv>
+</tu>
+</body>
+</tmx>

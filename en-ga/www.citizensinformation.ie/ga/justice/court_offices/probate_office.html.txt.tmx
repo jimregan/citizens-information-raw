@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>The Probate Office in Ireland deals with "non contentious" probate issues</seg></tuv>
+  <tuv xml:lang="ga"><seg>Pléann an Oifig Phrobháide le ceisteanna probháide "neamhchonspóideacha"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The functions of the Probate Office are:</seg></tuv>
+  <tuv xml:lang="ga"><seg>I measc na rudaí a dhéanann an Oifig Phrobháide tá:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• admits wills to proof</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Uachtanna le cruthú a ghlacadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• issues grants of probate and administration</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ceadúnais phrobháide agus riaracháin a eisiúint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• preserves probate records for inspection</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cuntais phrobháide a chaomhnú i gcomhair scrúdaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• provides certified copies of probate documents</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cóipeanna dearbhaithe de cháipéisí probháide a chur ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• processes court applications to the judge assigned to deal with probate matters</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Iarratas cúirte a phróiseáil chuig an mbreitheamh atá ainmnithe chun déileáil le cúrsaí probháide</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read more about probate issues in the context of dealing with a deceased person's estate and find out what happens the deceased's estate if no will is made</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léigh tuilleadh faoi chúrsaí probháide sa chomhthéacs seo; ag déileáil le heastát an mhairbh agus faigh amach céard a tharlaíonn d’eastát an mhairbh mura bhfuil uacht déanta amach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Structure of the Probate Office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Struchtúr na hOifige Probháide</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Probate Office consists of 4 public offices:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an Oifig Phrobháide comhdhéanta de cheithre oifig phoiblí:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• General Office: responsible for maintaining records of all grants of representation which have issued and for providing copies of probate documents</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Oifig Ghinearálta: freagrach as taifid a chothabháil ar cheadúnais ionadaíochta a eisíodh agus freagrach as cóipeanna de dhoiciméid phrobháide a sholáthar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This office has the greatest amount of contact with the general public</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn an méid is mó teagmhála ag an oifig seo leis an bpobal ginearálta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Seat Office: assess applications for grants of probate or administration lodged by solicitors and their agents</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Oifig Shuíocháin: measúnú ar iarratais ar cheadúnais phrobháide nó riaracháin taiscthe ag aturnaethe agus a n-ionadaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Rules Office: responsible for searching records to ensure that there is no impediment to issuing the grant of representation</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Oifig na Rialacha: freagrach as taifid a cuardach le cinntiú nach bhfuil aon chonstaic ann ar cheadúnas ionadaíochta a eisiúínt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Citations, caveats, subpoenas, court motions and Probate Office motions are issued and filed in the rules office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar toghairmeacha, caveatanna, subpoenanna, tairiscintí cúirte agus na hOifige Probháide a eisiúint agus a chomhadú in Oifig na Rialacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Court Orders from the Probate Court list, Probate Officer's Orders and Side Bar Orders made pursuant to the Rules of Court issue from the rules office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Orduithe Cúirte ó liosta na Cúirte Probháide, Orduithe an Oifigigh Phrobháide agus Orduithe Barra Taoibhe de réir eisiúint Chúirt na Rialacha ó Oifig na Rialacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This office also deals with requests received by post for copies of probate documents</seg></tuv>
+  <tuv xml:lang="ga"><seg>Pléann an Oifig seo le hiarratas faighte tríd an bpost le haghaidh cóipeanna de dhoiciméid phrobháide</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Probate Personal Applications Section: enquiries about personal applications may be made by email to ProbatePersonalApplications@courts.ie Personal Applications Grants of Probate/Letters of Administration may be obtained by instructing a solicitor or by application in person to the Probate Office or the District Probate Registry for the county where the deceased lived</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Rannóg na nIarratas Pearsanta Probháide: is féidir fiosruithe faoi iarratais phearsanta a dhéanamh tríd an ríomhphost ProbatePersonalApplications@courts.ie. Is féidir Iarratais Phearsanta Cheadúnais do Phrobháid/Litreacha Riaracháin a fháil ach treoir a thabhairt do d’aturnae nó iarratas i bpearsa don Oifig Phrobháide nó an Chlárlann Phrobháide Cheantair le haghaidh na tíre inar bhásaigh an duine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further information regarding the workings of the Probate Office, the charges involved for grants and searches is available from the Court Service website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tuilleadh eolais maidir le hoibríochtaí na hOifige Probháide tá na táillí bainteach le deontais agus cuardaigh ar fáil ó láithreán Gréasáin na Seirbhíse Cúirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are the executor or have been appointed an administrator of an estate and the estate is not complicated, you can make a personal application to the Personal Application Section of the Probate Office (or to one of the 14 District Probate Registries around the country)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ag an seiceadóir nó ceapadh riarthóir eastáit agus nach bhfuil an t-eastát casta, is féidir leat a chur i bhfeidhm pearsanta chuig an Rannóg Iarratais Phearsanta na hOifige Probháide a dhéanamh (nó go dtí ceann de na 14 Clárlanna Probháide Ceantair ar fud na tíre) </seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(District Probate Registries are under the control of County Registrars with authority to issue grants of representation where the deceased at the time of his/her death had a fixed place of abode within the area of jurisdiction of the District Registry)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Tá Clárlanna Probháide Dúiche faoi rialú Cláraitheoirí Contae a bhfuil údarás chun deontais ionadaíochta i gcás an duine éagtha tráth sé / sí bás go raibh áit chónaithe sheasta laistigh de limistéar dlínse na Clárlainne Dúiche a eisiúint)</seg></tuv>
+</tu>
+</body>
+</tmx>

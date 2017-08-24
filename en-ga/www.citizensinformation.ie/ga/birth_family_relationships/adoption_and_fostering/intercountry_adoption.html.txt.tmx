@@ -1,0 +1,353 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>If you adopt a child who is living in a country outside Ireland, the process is called intercountry adoption</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má uchtaíonn tú leanbh atá ina chónaí i dtír lasmuigh d’Éirinn, tugtar uchtú idir thíortha ar an bpróiseas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Adopting a child who is resident in Ireland is called a domestic adoption</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar uchtú intíre ar uchtú leanbh atá ina chónaí in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Adoption is the process whereby a child becomes a member of a new family</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é is uchtú ann ná próiseas trína n-éiríonn leanbh ina bhall de theaghlach nua</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It creates a permanent, legal relationship between the adoptive parents and the child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cruthaíonn sé gaolmhaireacht dhlíthiúil bhuan idir na tuismitheoirí uchtála agus an leanbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As intercountry adoption is a complex legal process, it is helpful to be aware of the basics of adoption law</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ós rud é gur próiseas casta dlí é uchtú idir thíortha, tá sé ina chabhair eolas a bheith agat ar na gnéithe bunúsacha den dlí um uchtú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• An adoption order secures in law the position of the child in the adoptive family</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Daingníonn ordú uchtaithe seasamh an linbh sa teaghlach uchtála sa dlí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The child is regarded in law as the child of the adoptive parents as if he/she were born to them</seg></tuv>
+  <tuv xml:lang="ga"><seg>Breithnítear sa dlí go bhfuil an leanbh ar leanbh na dtuismitheoirí uchtála faoi is dá mbéarfaí é/í leo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Legal adoption is permanent</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is buan atá uchtú dlíthiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Adoption orders are made by the Adoption Authority of Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Déanann Údarás Uchtála na hÉireann orduithe uchtaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It also has the power to recognise an adoption made outside the State</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an chumhacht aige freisin uchtú a dhéantar lasmuigh den Stát a aithint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It was established in November 2010 under the Adoption Act 2010</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bunaíodh é i mí na Samhna 2010 faoin Acht Uchtaithe 2010</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The 2010 Act also ratified the Convention on Protection of Children and Co-Operation in Respect of Intercountry Adoption (the ‘Hague Convention’)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ina theannta sin, daingníodh le hAcht 2010 an Coinbhinsiún maidir le Cosaint Leanaí agus Comhoibriú i leith Uchtú idir Thíortha (‘Coinbhinsiún na Háige’)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The only countries recognised by Ireland for intercountry adoption are those that have also ratified the Hague Convention</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad na tíortha amháin a aithníonn Éire le haghaidh uchtú idir thíortha na tíortha sin a dhaingnigh Coinbhinsiún na Háige freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Adoption Authority is the Irish Central Authority under the Convention</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an tÚdarás Uchtála Údarás Láir na hÉireann faoin gCoinbhinsiún</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In order to adopt a child, you must be at least 21 years of age</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhonn leanbh a uchtú, ní mór duit bheith 21 bliain d’aois ar a laghad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must be ordinarily resident in the State and must have resided in the State for at least one year before the date of the making of the adoption order</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit gnáthchónaí a bheith ort sa Stát nó bheith i do chónaí sa Stát ar feadh bliain amháin ar a laghad roimh an dáta ar a ndéantar an t-ordú uchtaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The following persons are eligible to adopt:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá na daoine seo a leanas i dteideal uchtú:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A married couple living together</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Lánúin phósta atá ina gcónaí le chéile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A married person alone</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Duine pósta ina aonar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The other spouse's consent to adopt must be obtained unless the couple is living apart and separated under a court decree or a deed of separation, the other spouse has deserted the prospective adoptive parent or the other spouse's conduct has resulted in the prospective adoptive parent leaving them, with just cause</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór toiliú an chéile eile le huchtú a fháil mura bhfuil an lánúin ina gcónaí ar leithligh óna chéile agus idirscartha faoi fhoraithne chúirte nó faoi ghníomhas idirscartha, nó más rud é gur thréig an céile eile an tuismitheoir uchtála ionchasach nó go raibh iompraíocht an chéile eile ina cúis leis an tuismitheoir uchtála ionchasach ag fágáil an chéile eile, agus cúis chóir aige/aici</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The mother, father or relative of the child (relative meaning a grandparent, brother, sister, uncle or aunt of the child and/or the spouse of any such person, the relationship to the child being traced through the mother or the father)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Máthair, athair nó gaol an linbh (ciallaíonn gaol seantuismitheoir, deartháir, deirfiúr, uncail nó aintín an linbh agus/nó céile aon duine den chineál sin, agus an ghaolmhaireacht leis an leanbh á rianú tríd an máthair nó tríd an athair)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A widow or widower</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Baintreach nó baintreach fir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A sole applicant who is not in one of the categories listed above may only adopt where the Adoption Authority is satisfied that, in the particular circumstances of the case, it is desirable</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní fhéadfaidh iarratasóir aonair nach bhfuil i gceann amháin de na catagóirí atá liostaithe thuas uchtú a dhéanamh ach sa chás gur deimhin leis an Údarás Uchtála, in imthosca ar leith an cháis, go bhfuil sé inmhianaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is not possible for two unmarried persons to adopt jointly</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir le beirt daoine neamhphósta uchtú i gcomhpháirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Children and Family Relationships Act 2015 provides that civil partners and cohabiting couples may jointly adopt a child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Soláthraíonn an tAcht Leanaí agus Caidrimh Teaghlaigh 2015 gur féidir páirtnéirí sibhialta agus lánúineacha ag maireachtáil i bhfochair a uchtú i gcomhpháirt le leanbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The relevant sections of the Act have not yet come into effect</seg></tuv>
+  <tuv xml:lang="ga"><seg>Na hailt ábhartha den Acht nach bhfuil tagtha go fóill i bhfeidhm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are no legal upper age limits for adopting parents</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon uasteorainneacha aoise i bhfeidhm maidir le tuismitheoirí atá ag uchtú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Adoption Authority has more information on the eligibility and suitability of those wishing to adopt</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh faisnéise faoi incháilitheacht agus oiriúnacht na ndaoine ar mian leo uchtú ag an Údarás Uchtála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you wish to adopt a child from another country, you are required to undergo an assessment of your eligibility and suitability</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mian leat leanbh a uchtú ó thír eile, tá ceangal ort dul faoi mheasúnú ar d’incháilitheacht agus ar d’oiriúnacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is carried out by a social worker from the Tusla intercountry adoption service or an accredited body</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann oibrí sóisialta ón tseirbhís um uchtú idir thíortha de chuid Tusla - an Ghníomhaireacht um Leanaí agus an Teaghlach nó comhlacht creidiúnaithe an measúnú sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The social worker then prepares an intercountry adoption assessment report (also called a home-study report) which goes before the local adoption committee and a recommendation is made</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ullmhaíonn an t-oibrí sóisialta tuarascáil mheasúnaithe ar uchtú idir thíortha (ar a dtugtar tuarascáil staidéar baile freisin) ansin a chuirtear faoi bhráid an choiste uchtála áitiúil agus déantar moladh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Declaration of eligibility and suitability</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dearbhú incháilitheachta agus oiriúnachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your application for assessment, the report and the local adoption committee’s recommendations are sent to the Adoption Authority</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirtear d’iarratas ar mheasúnú, an tuarascáil agus moltaí an choiste uchtála áitiúil chuig an Údarás Uchtála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If all documents are in place and correct, and the recommendations are positive, the Adoption Authority will grant a declaration of eligibility and suitability</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más i bhfeidhm agus ceart atá na cáipéisí uile, agus más dearfach atá na moltaí, deonóidh an tÚdarás Uchtála dearbhú incháilitheachta agus oiriúnachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The declaration may include in it a statement relating to the age or state of health of a child whom you are considered suited to parent – this is based on information provided in the assessment report</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir go gcuirfear san áireamh sa dearbhú ráiteas a bhaineann le haois nó le riocht sláinte an linbh a meastar thú a bheith i do thuismitheoir oiriúnach aige/aici - tá sé sin bunaithe ar an bhfaisnéis a chuirtear ar fáil i dtuarascáil an mheasúnaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The declaration is granted for a period of 2 years from the date it is issued</seg></tuv>
+  <tuv xml:lang="ga"><seg>Deonaítear an dearbhú ar feadh tréimhse 2 bhliain ón dáta ar a n-eisítear é</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The legislation allows for a 1 year extension if necessary, providing circumstances have not changed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar foráil sa reachtaíocht do shíneadh 1 bhliain, ar choinníoll nár tháinig athrú ar imthosca</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Choosing a country of origin</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tír thionscnaimh a roghnú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As part of the assessment process, you will have decided on a country from which you wish to adopt a child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar chuid den phróiseas measúnaithe, beidh cinneadh déanta agat ar thír ónar mian leat leanbh a uchtú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the Adoption Act 2010, Irish residents can only adopt from other countries that have ratified the Hague Convention or from Non-Hague countries with which Ireland has a bi-lateral agreement (Ireland does not currently have any such agreements)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoin Acht Uchtaithe 2010, ní fhéadann cónaitheoirí na hÉireann uchtú ach ó thíortha eile a dhaingnigh Coinbhinsiún na Háige nó ó thíortha nach raibh páirteach i gCoinbhinsiún na Háige a bhfuil comhaontú déthaobhach ag Éirinn leo (níl comhaontuithe den chineál sin ag Éirinn faoi láthair)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is only a small number of Hague Convention countries with which Ireland currently engages for the purposes of intercountry adoption</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl ach líon beag tíortha de Choinbhinsiún na Háige lena ndéileálann Éire faoi láthair chun críocha uchtú idir thíortha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Each country has its own requirements and restrictions with regard to prospective adopters</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá a ceanglais agus srianta féin ag gach tír maidir le huchtaitheoirí ionchasacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Specific information on country requirements may be obtained from the Irish agencies accredited to facilitate adoptions from these countries</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir faisnéis shonrach faoi cheanglais tíre a fháil ó ghníomhaireachtaí Éireannacha atá creidiúnaithe chun uchtuithe ó na tíortha sin a éascú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The process involved in intercountry adoption is governed by protocols set out in the Hague Convention</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rialaítear an próiseas atá i gceist in uchtú idir thíortha le prótacail a leagtar amach i gCoinbhinsiún na Háige</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Firstly, the Adoption Authority, or an agency accredited by the Authority for such purposes, submits the intercountry adoption assessment report and the declaration (together known as an Article 15 report) to the Central Authority or an accredited agency in the country you wish to adopt from</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chéad dul síos, déanann an tÚdarás Uchtála, nó gníomhaireacht atá creidiúnaithe ag an Údarás chun na críche sin, an tuarascáil mheasúnaithe ar uchtú idir thíortha agus an dearbhú (ar a dtugtar tuarascáil Airteagal 15 i dteannta a chéile) a chur chuig an Údarás Láir nó chuig gníomhaireacht chreidiúnaithe sa tír ónar mian leat uchtú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Matching a child with your application is done in the country of origin of the child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar leanbh a mheaitseáil le d’iarratas i dtír thionscnaimh an linbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When a match is made, the Central Authority or accredited body in the country of origin of the child sends a child-study report (Article 16 report) to the Adoption Authority or the Irish-based accredited body</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a dhéantar meaits, cuireann an tÚdarás Láir nó an comhlacht creidiúnaithe i dtír thionscnaimh an linbh tuarascáil staidéar linbh (tuarascáil Airteagal 16) chuig an Údarás Uchtála nó chuig an gcomhlacht creidiúnaithe atá lonnaithe in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The report will normally contain a background report on the child, the birth-parents (if known), medical history of the child and proof that consents, where applicable, were obtained in the required manner and format</seg></tuv>
+  <tuv xml:lang="ga"><seg>De ghnáth, cuimseoidh an tuarascáil tuarascáil chúlra ar an leanbh, na tuismitheoirí breithe (más eol), stair liachta an linbh agus cruthúnas go bhfuarthas toilithe, más infheidhme, sa mhodh agus san fhormáid a bhí ag teastáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the Adoption Authority is satisfied with the suitability of the match, it issues a consent to the placement of the child with you (Article 17)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más rud é go bhfuil an tÚdarás Uchtála sásta le hoiriúnacht an mheaits, eiseoidh sé toiliú le socrú an linbh leat (Airteagal 17)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will be informed and asked whether you wish to accept the child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabharfar eolas duit agus fiafrófar duit cé acu is mian leat, nó nach mian leat, glacadh leis an leanbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you wish, you can travel to the country of origin to see the child before making your decision</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mian leat, féadfaidh tú taisteal chuig an tír thionscnaimh chun an leanbh a fheiceáil sula ndéanann tú do chinneadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Either way, you can change your mind up to the time you adopt the child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bealach amháin nó bealach eile, is féidir leat d’intinn a athrú go dtí an tráth a n-uchtaíonn tú an leanbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>While most countries allow you to adopt the child in the country of origin, there are some who may provide you with guardianship with a view to you obtaining a domestic adoption on your return to Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cé go dtugann an chuid is mó de thíortha cead duit an leanbh a uchtú sa tír thionscnaimh, is ann do roinnt tíortha a fhéadann caomhnóireacht a chur ar fáil duit le go bhfaigheann tú uchtú intíre ar fhilleadh ar Éirinn duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some countries provide guardianship with a requirement that you provide post-placement reports for a prescribed period before finalising the adoption in the courts of the country of origin</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann roinnt tíortha caomhnóireacht ar fáil le ceanglas go gcuireann tú tuarascálacha iarshocrúcháin ar fáil ar feadh tréimhse fhorordaithe sula dtugtar an t-uchtú chun críche i gcúirteanna na tíre tionscnaimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For the child to enter the state, immigration clearance must be obtained from the Irish Naturalisation and Immigration Service (INIS) in the Department of Justice and Equality</seg></tuv>
+  <tuv xml:lang="ga"><seg>Le gur féidir leis an leanbh an stát a iontráil, ní mór imréiteach inimirce a fháil ó Sheirbhís Eadóirseachta agus Inimirce na hÉireann (INIS) sa Roinn Dlí agus Cirt agus Comhionannais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To request your Immigration Clearance Letter, you need to write to:</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhonn do Litir um Imréiteach Inimirce a fháil, ní mór duit scríobh chuig:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Irish Naturalisation and Immigration Service,</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seirbhís Eadóirseachta agus Inimirce na hÉireann,</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>3rd Floor, 13/14 Burgh Quay, Dublin 2</seg></tuv>
+  <tuv xml:lang="ga"><seg>An Chéad Urlár, 13/14 Cé an Bhúrcaigh, Baile Átha Cliath 2</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will need to enclose:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh ort na nithe seo a leanas a iamh:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A letter of application that includes a daytime contact number</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Litir iarratais ina gcuirtear uimhir theagmhála am lae san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A photocopy of your passport (and your spouse's)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Fótachóip de do phas (agus de phas do chéile)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Two passport size photographs of you (and two of your spouse)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Dhá ghrianghraf de mhéid pas díot (agus dhá cheann de do chéile)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The Declaration of Eligibility and Suitability (not a copy)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Dearbhú Incháilitheachta agus Oiriúnachta (ní ghlacfar le cóip)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A letter from the Adoption Authority stating how many children you can adopt and from what country</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Litir ón Údarás Uchtála ina sonraítear cá mhéad leanbh is féidir leat a uchtú agus na tíortha ar féidir leat iad a uchtú uathu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These will be returned to you with your Immigration Clearance Letter, when approved</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabharfar iad sin ar ais duit mar aon le do Litir um Imréiteach Inimirce, agus í formheasta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will need to present this letter to an immigration officer when you return to Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh ort an litir a thaispeáint d’oifigeach inimirce ar fhilleadh ar Éirinn duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Notification of Adoption Authority</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fógra a thabhairt don Údarás Uchtála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must notify the Adoption Authority and Tusla when you bring the child to Ireland for the first time after adoption in the country of origin</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit fógra a thabhairt don Údarás Uchtála agus do Tusla nuair a thugann tú an leanbh d’Éirinn leat den chéad uair tar éis uchtú sa tír thionscnaimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They must also be notified if you bring the child to Ireland in order to adopt the child here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór fógra a thabhairt dó freisin más rud é go dtugann tú an leanbh d’Éirinn leat d’fhonn an leanbh a uchtú anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This should be done as soon as you can and must be done within 3 months</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart é sin a dhéanamh a luaithe is féidir agus is gá é a dhéanamh laistigh de 3 mhí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the child was adopted in the country of origin, the final step in the intercountry adoption process is the registration of the adoption</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más rud é gur uchtaíodh an leanbh sa tír thionscnaimh, is é an chéim dheiridh den phróiseas um uchtú idir thíortha ná clárú an uchtaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is the formal, legal recognition of the adoption by the Irish State</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is aitheantas dlíthiúil foirmiúil é sin don uchtú a thugann an Stát Éireannach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must submit an application for registration of the adoption to the Adoption Authority within 3 months of re-entering the State, following the adoption</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit iarratas ar chlárú an uchtaithe a chur faoi bhráid an Údaráis Uchtála laistigh de 3 mhí tar éis duit an Stát a athiontráil i ndiaidh an uchtaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Authority can register the adoption in the Register of Intercountry Adoptions on the basis of an Article 23 certificate </seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis an Údarás an t-uchtú a chlárú sa Chlár um Uchtuithe Idir Thíortha ar bhonn theastas Airteagal 23</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(An Article 23 certificate is a certificate of assurance from the country of origin of your child that the adoption was carried out in compliance with the Hague Convention.)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Is é is teastas Airteagal 23 ann ná teastas dearbhaithe ó thír thionscnaimh do linbh gur comhlíonadh Coinbhinsiún na Háige agus an t-uchtú á dhéanamh.)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Register of Intercountry Adoptions contains details of the adopted child and the adoptive parents and is a public document open to scrutiny by members of the public</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuimsíonn an Clár um Uchtuithe Idir Thíortha sonraí faoin leanbh uchtaithe agus faoi na tuismitheoirí uchtála agus is cáipéis phoiblí í ar féidir le baill den phobal í a iniúchadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Certificates or copies of extracts from the Register may be obtained from the Authority for the appropriate fee and serve for all legal purposes as a birth certificate for your child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfar teastais nó cóipeanna de shleachta an Chláir a fháil ón Údarás ach an táille iomchuí a íoc agus feidhmíonn siad chun críocha dlí mar theastas breithe i gcomhair do linbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some countries require that you provide information on the child’s ongoing condition and progress following adoption</seg></tuv>
+  <tuv xml:lang="ga"><seg>Éilíonn roinnt tíortha go gcuireann tú faisnéis ar fáil faoi riocht agus dhul chun cinn leanúnach an linbh tar éis uchtú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This information is usually provided in reports known as post-adoption reports</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirtear an fhaisnéis sin ar fáil de ghnáth i dtuarascálacha ar a dtugtar tuarascálacha tar éis uchtú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These reports are normally compiled by social workers or agencies accredited by the Adoption Authority to provide such services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is gnách go gcuireann oibrithe sóisialta nó gníomhaireachtaí atá creidiúnaithe ag an Údarás Uchtála chun na seirbhísí sin a chur ar fáil na tuarascálacha sin i dtoll a chéile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have an enquiry about intercountry adoption, contact your local Tusla intercountry adoption office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más rud é go bhfuil fiosrú agat maidir le huchtú idir thíortha, déan teagmháil leis an oifig um uchtú idir thíortha is cóngaraí duit de chuid na Gníomhaireachta um Leanaí agus an Teaghlach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A certified copy of an entry in the Register of Intercountry Adoptions, which can be used for legal and administrative purposes, costs €10</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá costas €10 ar chóip dheimhnithe d’iontráil sa Chlár um Uchtuithe Idir Thíortha, rud is féidir a úsáid chun críocha dlí agus riaracháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is available from the Adoption Authority</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sí ar fáil ón Údarás Uchtála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can download an application form here (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat foirm iarratais a íoslódáil nó iarratas a dhéanamh ar líne anseo (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Adoption Authority has information on the intercountry adoption process as well as frequently asked questions on its website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar a láithreán Gréasáin, tá faisnéis faoin bpróiseas um uchtú idir thíortha mar aon le ceisteanna coitianta ag an Údarás Uchtála</seg></tuv>
+</tu>
+</body>
+</tmx>

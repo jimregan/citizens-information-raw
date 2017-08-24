@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="fr"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Local authorities include county councils and city councils</seg></tuv>
+  <tuv xml:lang="fr"><seg>L'Irlande est fondée sur un système administratif local</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Since 1 June 2014, borough and town councils are replaced by a system of municipal districts, integrating town and county governance</seg></tuv>
+  <tuv xml:lang="fr"><seg>Parmi les autorités locales figurent les conseils généraux, les conseils municipaux et les Conseils communaux ou de bourg.   Administrations locales</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>At county or city level, there are 31 city and county councils with integrated municipal districts</seg></tuv>
+  <tuv xml:lang="fr"><seg>Il se peut que la région administrative d'un Conseil général englobe celle d'un conseil municipal représentant une localité ou un bourg</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These are the main providers of local government services around the country</seg></tuv>
+  <tuv xml:lang="fr"><seg>Le Conseil général peut assurer les fonctions du Conseil municipal compris dans sa région, soit en association soit séparément avec les conseils municipaux des localités et bourgs</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Local authorities at all levels are responsible for the representation of local communities and ensuring that concerns are expressed and needs met</seg></tuv>
+  <tuv xml:lang="fr"><seg>Les pouvoirs locaux, quel que soit le niveau auquel ils se trouvent, ont la charge de représenter les collectivités locales et faire en sorte que les préoccupations du public puissent être exprimées et que les besoins de celui-ci soit satisfaits</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Local elections are held in order to elect representatives onto the authority</seg></tuv>
+  <tuv xml:lang="fr"><seg>Des élections communales sont tenues afin d'élire les représentants auprès de l'autorité</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Local representatives have the power to vote for or against developments that will impact on the local community</seg></tuv>
+  <tuv xml:lang="fr"><seg>Les élus locaux ou conseillers ont le pouvoir de voter en faveur ou à l'encontre de développements susceptibles d'avoir un impact sur la commune</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Local authorities are also responsible for the delivery of a wide range of services in their local area</seg></tuv>
+  <tuv xml:lang="fr"><seg>Les autorités locales font également office de prestataires de nombreux services dans leur région géographique</seg></tuv>
+</tu>
+</body>
+</tmx>

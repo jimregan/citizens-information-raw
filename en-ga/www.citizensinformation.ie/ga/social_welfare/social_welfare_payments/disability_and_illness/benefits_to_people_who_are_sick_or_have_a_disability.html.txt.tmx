@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Benefits for people who are sick or have a disability</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sochair do dhaoine atá tinn nó atá faoi mhíchumas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are a number of social welfare payments for people who are sick or who have a disability</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá roinnt íocaíochtaí leasa shóisialaigh ann do dhaoine atá tinn nó faoi mhíchumas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Payments are made either by the Department of Social Protection or the Health Service Executive (HSE)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad an Roinn Coimirce Sóisialaí nó Feidhmeannacht na Seirbhíse Sláinte (FSS) a dhéanann na híocaíochtaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To qualify for a social welfare payment because you are sick or have a disability you must be certified as sick or disabled by a doctor</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mian leat cur isteach ar íocaíocht leasa shóisialaigh toisc go bhfuil tú tinn nó faoi mhíchumas, ní mór an tinneas nó an míchumas a bheith deimhnithe ag dochtúir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can qualify for certain payments if you are sick for just a short time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú tinn ar feadh tamaill ghearr is féidir leat cáiliú d'íocaíochtaí áirithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For other payments you need to show that you have an illness or disability that will last longer than one year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun sochair eile a fháil, ní mór duit a thaispeáint go bhfuil tinneas nó míchumas ort a mhairfidh níos faide ná bliain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some social welfare disability payments are based on your PRSI contributions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chomh maith leis sin, tá íocaíochtaí leasa shóisialaigh áirithe bunaithe ar do ranníocaíochtaí ÁSPC</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you do not have enough PRSI contributions you may qualify for a similar social assistance payment, however, you must be habitually resident and pass a means test</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun í sin a fháil, áfach, caithfidh tú tástáil acmhainne a shásamh agus caithfidh gnáth-chonaí sheasmhach a bheith agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Illness Benefit is intended for those with a short-term illness</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an Sochar Míchumais dírithe ar dhaoine le tinneas gearrthéarmach, ach is féidir é a íoc ar an bhfadtéarma</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Invalidity Pension is a long-term payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocaíocht fhadtéarmach is ea Pinsean na nEaslán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Illness Benefit and Invalidity Pension are both social insurance payments based on your PRSI contributions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is íocaíochtaí árachais shóisialta iad an Sochar Tinnis agus Pinsean na nEaslán bunaithe ar do ranníocaíochtaí ÁSPC</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Partial Capacity Benefit is a scheme which allows you to return to work (if you have reduced capacity to work) and continue to receive a payment from the Department of Social Protection</seg></tuv>
+  <tuv xml:lang="ga"><seg>Scéim leasa shóisialaigh is ea Sochar Páirtchumais a ligean duit filleadh ar an obair (más laghdaithe do chumas oibre) agus íocaíocht a fháil i gcónaí ón Roinn Coimirce Sóisialaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To qualify for Partial Capacity Benefit you need to be in receipt of either Illness Benefit (for a minimum of 6 months) or Invalidity Pension</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun cáiliú don Sochar Páirtchumais ní mór duit a bheith ag fáil Sochar Breoiteachta (ar feadh 6 mhí ar a laghad) nó Pinsean Easláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Disability Allowance is a long-term social assistance payment for those aged 16-65 with a disability expected to last at least one year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a cheaptar go mairfidh míchumas bliain amháin ar a laghad, íoctar an Liúntas Míchumais ar bhonn fadtéarmach do dhaoine idir 16 agus 65 bliana d'aois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Blind Pension is also a long-term social assistance payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocaíocht cúnaimh shóisialta fhadtéarmach is ea Pinsean na nDall chomh maith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are blind or have low vision and you are getting Blind Pension or Disability Allowance you may also qualify for Blind Welfare Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú dall nó má tá míchumas súl ort agus má tá an Pinsean Dall nó Liúntas Míchumas agat, b'fhéidir go bhfuil tú incháilithe do Liúntas na Dall chomh maith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Occupational Injuries Benefit Scheme applies to work related injuries and diseases</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Scéim na Sochar Gortuithe Ceirde ann chomh maith, a bhaineann le gortuithe agus galair a tharlaíonn san obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are injured at work (or traveling directly to or from it) or have contracted a disease due to the type of work you do you may qualify for benefits under this scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú gortaithe ag an obair (nó ag taisteal chuig/ó do chuid oibre) nó má bhuaileann galar tú mar gheall ar an gcineál oibre a dhéanann tú, b'fhéidir go bhfuil tú incháilithe do shochair faoin scéim seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are sick and do not qualify for any payment you may be eligible for Supplementary Welfare Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú tinn agus mura bhfuil tú incháilithe d'aon íocaíocht, tá seans ann go gcáileoidh tú don Liúntas Forlíontach Leasa Shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Generally, social welfare payments are made up of a personal payment for yourself and extra amounts for your dependent spouse, civil partner or cohabitant and your dependent children</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go hiondúil, séard a bhíonn sna híocaíochtaí leasa shóisialaigh ná íocaíocht phearsanta duit féin agus suimeanna breise do do chéile nó páirtí cleithiúnach agus do pháistí cleithiúnacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are getting a social welfare payment you may qualify for additional financial support because of your illness or disability, for example, under the Supplementary Welfare Allowance Scheme you can apply for a Heating Supplement, if you have exceptional heating expenses due to ill-health or infirmity</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhaigheann tú íocaíocht leasa shóisialaigh b'fhéidir go bhfuil tú i dteideal tacaíochta airgeadais breise mar gheall ar do thinneas nó míchumas. Mar shampla, faoin Scéim Liúntas Forlíontach Leasa is féidir leat cur isteach ar Fhorlíonadh Cláir Bia má tá aiste bia ar oideas uait mar gheall ar riocht leighis agus Fordheontas Teasa má tá riachtanais bhreise teasa agat mar gheall ar aois nó easláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You could be eligible for the Long Term Illness Scheme or a medical card or a GP Visit Card</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfá a bheith incháilithe do Chárta Tinnis Fadtéarmach nó do chárta liachta nó do chárta cuairte dochtúra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Apply to your Local Health Office in the Health Service Executive</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat dul i dteagmháil le d'Oifig Sláinte Áitiúil i bhFeidhmeannacht na Seirbhíse Sláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Find out more about health services for people with disabilities</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féach anseo le haghaidh tuilleadh eolais ar sheirbhísí sláinte do dhaoine faoi mhíchumas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are concessions for disabled drivers and passengers and local authority grants to adapt your home</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá níos mó lamháltas do thiománaithe míchumasaithe agus do phaisinéirí agus deontas ó na húdaráis áitiúla chun do bhaile a chur in oiriúint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are also tax benefits available to people that are sick or have a disability</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le daoine atá tinn nó faoi mhíchumas cur isteach ar shochair chánach chomh maith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If someone is providing you with full-time care they may qualify for a carer's payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá duine ag tabhairt aire duit go fadtéarmach, tá seans ann go bhfuil siad incháilithe don íocaíocht chúramóra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Recovery of personal injury-related benefits and assistance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sochair agus cúnamh a bhaineann le díobháil phearsanta a aisghabháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>From 1 August 2014, under the Recovery of Certain Benefits and Assistance (RBA) Scheme the Department of Social Protection can recover the value of certain illness-related social welfare payments from compensation awards made following non-fatal personal injuries claims</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ón 1 Lúnasa 2014, faoin Scéim Aisghabhála Sochar agus Cúnamh Áirithe (RBA), féadfaidh an Roinn Coimirce Sóisialaí luach íocaíochtaí áirithe leasa shóisialaigh a bhaineann le galar a aisghabháil ó dhámhachtainí cúitimh a rinneadh i ndiaidh éilimh neamh-mharfacha ar dhíobháil phearsanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The value of the social welfare payments are recovered from the compensator and not from the injured person who is getting a social welfare payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Aisghabhtar luach na n-íocaíochtaí leasa shóisialaigh ón gcúititheoir seachas ón duine a ndearnadh díobháil dóibh a bhfuil an íocaíocht leasa shóisialaigh á fáil acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The payments that can be recovered under the RBA Scheme are:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad na híocaíochtaí is féidir a aisghabháil faoi Scéim an RBA:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Compensation payments may be made as a result of a court or Injuries Board order or as a result of an agreement between the 2 parties</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadtar íocaíochtaí cúitimh a dhéanamh mar thoradh ar ordú cúirte nó Bord Díobhálacha nó mar thoradh ar chomhaontú idir an dá pháirtí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In both cases a statement of recoverable benefits and assistance must be requested by a compensator or the Injuries Board from the RBA Section in the Department of Social Protection using the RBA01 form (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa dá chás, ní mór ráiteas ar shochair agus cúnamh in-aisghnóthaithe a iarraidh ó Rannóg an RBA sa Roinn Coimirce Sóisialaí agus foirm RBA01 (pdf) á húsáid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The National Advocacy Service</seg></tuv>
+  <tuv xml:lang="ga"><seg>An tSeirbhís Abhcóideachta Náisiúnta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The National Advocacy Service (NAS) provides independent, confidential and free advocacy for people with disabilities - in particular people who are isolated from their community and services, have communication differences, are inappropriately accommodated, live in residential services or attend day services and have limited supports</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann an tSeirbhís Abhcóideachta Náisiúnta (NAS) abhcóideacht neamhspleách, rúnda agus saor in aisce ar fáil do dhaoine atá faoi mhíchumas – go háirithe daoine atá scoite óna bpobal agus ó sheirbhísí an phobail, daoine ag a bhfuil éagsúlachtaí cumarsáide, daoine nach bhfuil cóiríocht oiriúnach acu, daoine a chónaíonn i seirbhísí cónaitheachta nó a fhreastalaíonn ar sheirbhísí lae agus ag a bhfuil tacaíochtaí teoranta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Advocates can help you to claim your entitlements and access services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh abhcóidí cabhrú leat chun do chuid teidlíochtaí a éileamh agus chun seirbhísí a rochtain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The service is funded and supported by the Citizens Information Board</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an tseirbhís á cistiú agus á tacú ag an mBord um Fhaisnéis do Shaoránaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find contact details for advocates through the Citizens Information Find an Address service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú teacht ar shonraí teagmhála d’abhcóidí tríd an tSeirbhís aimsithe Seolta um Fhaisnéis do Shaoránaigh</seg></tuv>
+</tu>
+</body>
+</tmx>

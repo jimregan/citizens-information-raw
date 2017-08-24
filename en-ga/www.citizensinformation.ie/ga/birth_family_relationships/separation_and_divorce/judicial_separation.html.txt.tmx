@@ -1,0 +1,225 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>When a couple cannot agree the terms by which they will live separately, an application to the courts for a decree of judicial separation can be made by either party</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair nach féidir le lánúin comhaontú ar na téarmaí faoina gcónóidh siad amuigh óna chéile, is féidir le ceachtar den bheirt iarratas a dhéanamh ar na cúirteanna ar idirscaradh breithiúnach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The court must be satisfied that:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go bhfuil an chúirt sásta faoin méid a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The grounds for the application exist</seg></tuv>
+  <tuv xml:lang="ga"><seg>• •Tá forais leis an iarratas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The couple has been advised about counselling and mediation</seg></tuv>
+  <tuv xml:lang="ga"><seg>• •Cuireadh an lánúin ar an eolas ar chomhairleoireacht agus idirghabháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Proper provision has been made for the welfare of any dependants</seg></tuv>
+  <tuv xml:lang="ga"><seg>• •Rinneadh soláthar cuí ar mhaithe le leas aon chleithiúnaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If it is satisfied, the court will grant a decree of judicial separation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá an Chúirt sásta, deonóidh sí foraithne idirscartha bhreithiúnaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The decree confirms that the couple is no longer obliged to live together as a married couple</seg></tuv>
+  <tuv xml:lang="ga"><seg>Deimhnítear san fhoraithne nach bhfuil dualgas a thuilleadh ar an lánúin cónaí le chéile mar lánúin phósta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The court may also make orders in relation to custody and access to children, the payment of maintenance and lump sums, the transfer of property, the extinguishment of succession rights, etc</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chomh maith leis sin, féadfaidh an chúirt orduithe a dhéanamh maidir le caomhnóireacht agus rochtain ar leanaí, agus cnapshuimeanna agus cothabháil a íoc, maoin a aistriú, cearta comharbais a chur ar ceal etc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An application for a judicial separation is made either in the Circuit Court or the High Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar iarratas ar idirscaradh breithiúnach ar an gCúirt Chuarda nó ar an Ard-Chúirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As in all family law matters, cases are heard in private and the public is not admitted to the courtroom</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn na héisteachtaí ar fad príobháideach agus ní thugtar cead isteach do bhaill den phobal sa seomra cúirte, ar nós a bhíonn i gceist i ngach ceist dlí teaghlaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You cannot apply for a judicial separation when you already have in force a separation agreement which has been made an order of court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leat iarratas a dhéanamh ar idirscaradh breithiúnach nuair atá comhaontú idirscartha i bhfeidhm agat cheana féin a ndearnadh ordú cúirte de</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An application for a judicial separation must be based on one of the following six grounds:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go bhfuil iarratas ar idirscaradh breithiúnach bunaithe ar cheann amháin de na sé fhoras a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• One party has committed adultery</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Go ndearna páirtí amháin adhaltranas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• One party has behaved in such a way that it would be unreasonable to expect the other spouse to continue to live with them</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bhí iompar den chineál sin ar bun ag páirtí amháin go mbeadh sé míréasúnta a bheith ag súil leis go leanfadh an céile eile ag cónaí leo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• One party has deserted the other for at least one year at the time of the application</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Thréig páirtí amháin an páirtí eile ar feadh bliana ar a laghad roimh an tráth a dhéantar an t-iarratas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The parties have live apart from one another for one year up to the time of the application and both parties agree to the decree being granted</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Chónaigh na páirtithe amuigh óna chéile ar feadh bliana roimh an tráth a dhéantar an t-iarratas agus comhaontaíonn an bheirt pháirtithe le deonú na foraithne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The parties have lived apart from one another for at least three years at the time of the application for the decree (whether or not both parties agree to the decree being granted)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Chónaigh na páirtithe amuigh óna chéile ar feadh trí bliana ar a laghad ag an tráth a dhéantar an t-iarratas ar an bhforaithne (cé acu má nó chomhaontaíonn nó mura gcomhaontaíonn an bheirt pháirtithe le deonú na foraithne)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The court considers that a normal marital relationship has not existed between the spouses for at least one year before the date of the application for the decree</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Measann an chúirt nach raibh gnáthchaidreamh pósta idir na céilí ar feadh bliana ar a laghad roimh an dáta a rinneadh an t-iarratas ar an bhforaithne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The last is by far the most common ground on which the decree is granted, as neither party has to be shown as being at fault</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an foras deiridh an foras is mó is coitianta ar a ndeonaítear foraithne, mar gheall nach dtugtar le fios go bhfuil an locht ar cheachtar páirtí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you are applying for a judicial separation you must submit four documents to the Circuit Court:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a bhíonn iarratas á dhéanamh agat ar idirscaradh breithiúnach, ní mór duit ceithre cháipéis a sheoladh chuig an gCúirt Chuarda:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• An application form (known as a family law civil bill)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Foirm iarratais (ar a dtugtar bille sibhialta dlí teaghlaigh)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This document describes both you and your spouse, your occupations and where you live</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar cur síos sa cháipéis seo ort féin agus ar do chéile, bhur ngairmeacha beatha agus cén áit a gcónaíonn sibh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It also sets out when you married, for how long you have been living apart and the names and birth dates of your children</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagtar amach inti, chomh maith, cathain a phós sibh, cé chomh fada atá sibh ag cónaí amuigh óna chéile agus ainmneacha agus dátaí breithe bhur leanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A sworn statement of means</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ráiteas acmhainne faoi mhionn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This document sets out your assets, your income, your debts and liabilities and your outgoings</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagtar amach sa cháipéis seo do shócmhainní, d’ioncam, d’fhiachas, do dhliteanais agus d’eisíocaíochtaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A sworn statement relating to the welfare of your children</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ráiteas faoi mhionn a bhaineann le leas do leanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This document sets out the personal details of the children of the marriage</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagtar amach sa cháipéis seo sonraí pearsanta faoi leanaí an phósta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It describes where they live and with whom</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar cur síos sa cháipéis ar an áit a gcónaíonn siad agus na daoine a gcónaíonn siad leo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It also describes their education and training, their health, childcare arrangements and maintenance and access arrangements</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar cur síos sa cháipéis seo ar a n-oideachas agus oiliúint, a sláinte, socruithe cúram leanaí agus socruithe cothabhála agus rochtana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A document certifying that you have been advised of the alternatives to judicial separation</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cáipéis ina ndeimhnítear gur cuireadh ar an eolas thú faoi na roghanna eile ar idirscaradh breithiúnach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This document is sworn by a solicitor and it certifies that you have discussed the options of reconciliation, mediation and separation agreements</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mionnaíonn aturnae an cháipéis seo agus deimhníonn sí go ndearna tú plé ar roghanna na hidirghabhála agus comhaontuithe idirscartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When both you and your spouse have filed all of the necessary documents, you will be given a date for the court hearing</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a bhíonn na cáipéisí riachtanacha go léir comhdaithe agat agus ag do chéile, tabharfar dáta duit don éisteacht chúirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The hearing will be held in private and you will need to show the court that you meet the requirements of the Judicial Separation and Family Law Reform Act 1989</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh an éisteacht ar siúl go príobháideach agus beidh ort a thaispeáint don chúirt go gcomhlíonann tú ceanglais an Achta um Idirscaradh Breithiúnach agus Athchóiriú an Dlí Teaghlaigh, 1989</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can read more about the factors considered by a court in a judicial separation case here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat tuilleadh a léamh faoi thosca a ndéanann cúirt breithniú orthu i gcás idirscartha bhreithiúnaigh anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the court is satisfied that you have grounds for a judicial separation, it will grant a decree</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá an chúirt sásta go bhfuil forais agat le haghaidh idirscaradh breithiúnach, deonóidh sí foraithne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further information on applying for a judicial separation is available on the Courts Service website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá fáil ar bhreis faisnéise ar iarratas a dhéanamh ar idirscaradh breithiúnach ar láithreán gréasáin na Seirbhíse Cúirteanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A decree of judicial separation does not give you the right to remarry</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhronnann foraithne idirscartha bhreithiúnaigh an ceart ort chun athphósadh nó chun iontráil i bpáirtnéireacht shibhialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are not legally required to use a solicitor or a barrister</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl ceanglas dlíthiúil ort aturnae nó abhcóide a úsáid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In fact, if you wish, you can choose to represent yourself</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú, más mian leat, a roghnú chun ionadaíocht a dhéanamh duit féin, i bhfírinne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, there may be complex issues which may make it very difficult to apply for a judicial separation without any professional help</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh saincheisteanna casta a bheith i gceist, áfach, a chruthaíonn mórdheacrachtaí duit iarratas a dhéanamh ar idirscaradh breithiúnach gan aon chabhair ghairmiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The family law civil bill and sample forms for the statement of means, the statement on children's welfare and the certificate that you have been advised of alternatives are available from the Courts Service website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an Bille Sibhialta um an Dlí Teaghlaigh agus foirmeacha samplacha don ráiteas acmhainne, an ráiteas ar leas linbh agus an deimhniú gur cuireadh ar an eolas thú ar roghanna eile ar fáil ó láithreán gréasáin na Seirbhíse Cúirteanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can also obtain copies of these forms, and the family law civil bill, from your nearest Circuit Court Office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chomh maith leis sin, féadfaidh tú cóipeanna a fháil de na foirmeacha seo, agus den Bhille um an Dlí Teaghlaigh, ó Oifig na Cúirte Cuarda is gaire duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Legal advice and representation is always advisable</seg></tuv>
+  <tuv xml:lang="ga"><seg>Moltar i gcónaí comhairle dlí agus ionadaíocht a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You and your spouse should not use the same solicitor</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níor cheart duit féin agus do chéile an t-aturnae céanna a úsáid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To enquire whether you are eligible for Legal Aid, you can contact your nearest law centre</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun fiosrúchán a dhéanamh faoi cibé acu an bhfuil nó nach bhfuil tú incháilithe do Chúnamh Dlí, déan teagmháil leis an ionad dlí is gaire duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Legal Aid is not free and everyone must pay a contribution towards costs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl cúnamh dlí saor in aisce agus tá ar gach duine ranníocaíocht a íoc i dtreo na gcostas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>FLAC (Free Legal Advice Centres) is an independent, voluntary organisation that operates a network of legal advice clinics throughout the country</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is eagraíocht neamhspleách, dheonach é ICDS (Ionaid Chomhairle Dlí Saor in Aisce) a oibríonn líonra de chlinicí um chomhairle dhlíthiúil ar fud na tíre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These clinics are confidential, free of charge and open to all</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá na clinicí seo faoi rún agus saor in aisce do chách</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Contact your nearest Citizens Information Centre for information on FLAC services in your area</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déan teagmháil leis an Ionad um Fhaisnéis do Shaoránaigh is gaire duit chun teacht ar fhaisnéis ar sheirbhísí ICDS i do cheantar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>FLAC also runs an information and referral line during office hours for basic legal information</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, tá líne faisnéise agus atreoraithe á reáchtáil ag ICDS le linn uaireanta oifige le haghaidh faisnéis bhunúsach dhlíthiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you choose to hire a private solicitor, you should be aware that there is no fixed rate of charges for legal fees</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ma roghnaíonn tú chun aturnae príobháideach a fhruiliú, ba cheart duit a bheith feasach nach ann d’aon ráta seasta muirear le haghaidh táillí dlí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are advised to obtain some quotes before deciding on a legal firm</seg></tuv>
+  <tuv xml:lang="ga"><seg>Moltar duit roinnt meastacháin luacha a fháil sula ndéanann tú cinneadh ar ghnóthas dlíthiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Contact information for solicitors firms throughout Ireland is available on the Law Society website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá fáil ar fhaisnéis teagmhála do ghnóthais aturnaetha ar fud na hÉireann ar láithreán gréasáin Dhlí-Chumann na hÉireann</seg></tuv>
+</tu>
+</body>
+</tmx>

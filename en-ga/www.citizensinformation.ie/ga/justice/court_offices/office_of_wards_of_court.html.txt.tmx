@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Office of Wards of Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Oifig na gCoimircithe Cúirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The High Court may provide wardship to a person who, whether by reason of mental capacity or infancy, is deemed by the court to be incapable of managing his/her affairs for him/herself. The purpose of wardship of the court is to protect the person and his/her property</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis an Árd Chúirt coimirceacht a chur ar fáil do dhuine a chineann an chúirt, ar chúis cumas intinne nó aoise, nach bhfuil ábalta a gcúrsaí féin a bhainistiú dó/di féin.’ Sé cuspóir choimirceacht cúirte ná an duine agus a s(h)eilbh a chosaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Office of Wards of Court:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn Oifig na gCoimircithe Cúirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• is responsible for the supervision of the affairs of persons taken into the wardship of the High Court,</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Freagrach as maoirseacht chúrsaí na ndaoine atá faoi choimirceacht na hArd Chúirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• provides support to the President of the High Court, the judge responsible for wardship matters,</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag cur tacaíocht ar fáil do Uachtarán na hArd Chúirte, an breitheamh atá freagrach as ábhair a bhaineann le coimirceacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• supervises the activities of the persons (known as committees or, in the case of minors, guardians) who are given responsibility for the day to day management of a ward's affairs,</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag maoirsiú gníomhaíochtaí na ndaoine ( ar a dtugtar coistí, nó i gcás pháistí faoi ocht mbliana déag d'aois, caomhnóirí) a mbíonn freagrach as bainistiú chúrsaí coimircí ó lá go lá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• registers enduring powers of attorney</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Clárú cúmhachtaí aturnae seasmhach</seg></tuv>
+</tu>
+</body>
+</tmx>

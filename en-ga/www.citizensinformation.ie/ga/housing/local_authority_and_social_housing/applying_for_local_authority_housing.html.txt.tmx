@@ -1,0 +1,273 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Applying for local authority/social housing</seg></tuv>
+  <tuv xml:lang="ga"><seg>Iarratas a dhéanamh ar thithíocht shóisialta/údaráis áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Local authorities (or housing authorities) are the main providers of social housing for people who cannot afford to buy their own homes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad na húdaráis áitiúla nó údaráis tithíochta is mó a chuireann tithíocht shóisialta ar fáil do dhaoine a dteastaíonn tithe uathu ach nach bhfuil sé d’acmhainn acu a gcuid tithe féin a cheannach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Local authority housing is allocated according to eligibility and need</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirtear tithíocht údaráis áitiúil ar fáil do dhaoine de réir incháilitheachta agus riachtanas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Rents are based on the household’s ability to pay</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá na cíosanna bunaithe ar chumas an teaghlaigh chun íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Housing associations and housing co-operatives also provide social housing for people who cannot afford to buy their own homes. These organisations are often called approved housing bodies</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann cumainn tithíochta agus comharchumainn tithíochta (ar a dtugtar ‘tithíocht dheonach’ nó ‘cumainn tithíochta dheonacha’ amanna) tithíocht shóisialta ar fáil freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Several sets of Social Housing Assessment Regulations prescribe how housing authorities should handle social housing applications</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann sraith Rialachán a fhorordú conas ar cheart d’údaráis tithíochta iarratais ar thithíocht shóisialta a láimhseáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Important elements of these Regulations include that:</seg></tuv>
+  <tuv xml:lang="ga"><seg>I measc forálacha na Rialachán seo, tá an méid an leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You can only apply to one housing authority</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní féidir leat ach iarratas a dhéanamh ar údarás tithíochta amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• In general, you must already be living in the area covered by that housing authority or have a local connection with the area – though a housing authority may agree to waive this requirement</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Go ginearálta, ní mór duit cónaí bheith ort cheana féin sa cheantar a chlúdaíonn an t-údarás tithíochta sin, nó nasc áitiúil a bheith agat leis an gceantar - cé go bhféadfadh údarás tithíochta a chomhaontú chun an riachtanas seo a tharscaoileadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You will only be considered for social housing if your household income is less than the threshold that applies in the housing authority’s area</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní dhéanfar breithniú ort le haghaidh tithíocht shóisialta ach amháin má tá d’ioncam teaghlaigh faoi bhun na tairsí atá i gceist i gceantar an údaráis tithíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If your current mortgage is unsustainable, this will be taken into consideration in assessing your household’s need for social housing - see 'Need' below</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má tá do mhorgáiste reatha teaghlaigh neamhinmharthanach, cuirfear é seo san áireamh sa bhreithniú agus measúnú á dhéanamh ar riachtanas an teaghlaigh ar thithíocht shóisialta - féach ‘Riachtanas’ thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In order to qualify, you must be eligible for social housing and you must be in need of social housing</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhonn cáiliú, ní mór duit bheith incháilithe le haghaidh tithíocht shóisialta agus ní mór riachtanas tithíochta sóisialta bheith agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The housing authority will assess your eligibility first</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Déanfaidh an t-údarás tithíochta measúnú ar d’incháilitheacht ar dtús</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• It will only assess whether you need social housing after it has deemed you to be eligible</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní dhéanfaidh siad ach measúnú ar cibé acu an dteastaíonn nó nach dteastaíonn tithíocht shóisialta uait tar éis go meastar go bhfuil tú incháilithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Foreign nationals: you must have a legal right to remain in the State on a long-term basis</seg></tuv>
+  <tuv xml:lang="ga"><seg>Náisiúnaigh iasachta: ní mór go mbeidh ceart dlíthiúil agat chun fanacht sa Stát ar bhonn fadtéarmach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Detailed rules are contained in Circular Housing 41/2012 (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuimsítear rialacha sonracha gCiorclán Tithíochta 41/2012 (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To be regarded as eligible for social housing you must satisfy the income criteria</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhonn go measfar go mbeidh tú incháilithe le haghaidh tithíocht shóisialta, ní mór duit na critéir ioncaim a shásamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must also show that you do not have suitable alternative accommodation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, ní mór duit a léiriú nach bhfuil cóiríocht eile oiriúnach agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Department of Housing, Planning, Community and Local Government has published detailed guidance (pdf) on how household income is to be assessed by local authorities</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhoilsigh an Roinn Tithíochta, Pleanála, Pobail agus Rialtais Áitiúil treoir shonrach (pdf) ar conas a dhéanann údaráis áitiúla ioncam teaghlaigh a mheasúnú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are 3 maximum income thresholds that apply to different housing authorities</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ann do 3 thairseach uasta ioncaim a chuirtear i bhfeidhm ar údaráis éagsúla tithíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Department has published a table showing these maximum net income limits (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhoilsigh an Roinn tábla a léiríonn na teorainneacha uasta glanioncaim seo (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will be regarded as having alternative accommodation if a member of the household has property that the household could reasonably be expected to live in</seg></tuv>
+  <tuv xml:lang="ga"><seg>Measfar go mbeidh cóiríocht eile agat má tá maoin ag duine muinteartha den teaghlach ina bhféadfaí coinne réasúnta bheith leis go bhféadfadh an teaghlach cónaí inti</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This includes property that is being rented out – under the Residential Tenancies legislation you can terminate the tenancy if the household needs the property to live in</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áirítear leis seo, maoin atá á ligean ar cíos – (faoin Acht um Thionóntachtaí Cónaithe, 2004 féadfaidh tú an tionóntacht a fhoirceannadh má theastaíonn an mhaoin ón teaghlach le cónaí inti.)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A property will not be regarded as alternative accommodation if it:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mheasfar gurb ionann maoin agus cóiríocht eile sna cásanna a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Is occupied by someone who is divorced or separated* from a member of the household, or whose civil partnership with a household member has been dissolved</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tá duine atá colscartha nó idirscartha* ó dhuine mhuinteartha ina c(h)ónaí inti, nó duine a ndearnadh a p(h)áirtnéireacht shibhialta le duine muinteartha a dhíscaoileadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Would be overcrowded if the household lived in it</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bheadh an teach plódaithe dá mbeadh cónaí ar an teaghlach ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Is unfit for human habitation</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Níl an teach oiriúnach do dhaoine bheith ina gcónaí ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Would not adequately meet the accommodation requirements of a household member with a disability</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní bhainfeadh sé riachtanais chóiríochta duine mhuinteartha atá faoi mhíchumas amach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>* A couple does not have to be judicially separated in order for this to apply</seg></tuv>
+  <tuv xml:lang="ga"><seg>*Ní gá go mbeadh an lánúin idirscartha go dlíthiúil chun an riail seo a bheith i gceist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A deed of separation is sufficient – see our document on separation agreements</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is leor go mbeadh gníomhas idirscartha acu - féach ár ndoiciméad ar chomhaontuithe idirscartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When deciding whether your household is in need of social housing, the housing authority must consider the following questions:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a dhéantar cinneadh faoi cibé acu an dteastaíonn nó nach dteastaíonn tithíocht shóisialta ó do theaghlach, ní mór don údarás áitiúil breithniú a dhéanamh ar na ceisteanna a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Is your current accommodation an institution, emergency accommodation or hostel?</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An institiúid, cóiríocht éigeandála nó brú atá i gceist le do chóiríocht reatha?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Are you homeless within the meaning of section 2 of the Housing Act 1988?</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An bhfuil tú gan dídean laistigh de bhrí alt 2 d’Acht na dTithe, 1988?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Is your current accommodation overcrowded?</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An bhfuil do chóiríocht reatha róphlódaithe?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Is it fit for human habitation?</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An bhfuil an teach oiriúnach do dhaoine bheith ina gcónaí ann?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Does it meet the accommodation requirements of a household member with a disability?</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An mbaineann sé riachtanais chóiríochta duine mhuinteartha atá faoi mhíchumas amach?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Is it unsuitable for your household’s adequate housing on exceptional medical or compassionate grounds?</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An bhfuil an teach mí-oiriúnach do thithíocht oiriúnach do theaghlaigh ar bhunúis eisceachtúla leighis nó atruacha?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If it is shared with another household, have you a reasonable requirement for separate accommodation?</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má tá an teach á roinnt le teaghlach eile, an bhfuil riachtanas réasúnta le haghaidh cóiríocht ar leith agat?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Has your household’s current mortgage been classified as unsustainable as part of the Mortgage Arrears Resolution Process (MARP) laid down by the Central Bank?</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ar rangaíodh morgáiste reatha do theaghlaigh amhail bheith neamh-inbhuanaithe mar chuid den Phróiseas Réitigh Riaráistí Morgáiste (PRRM) a leag an Banc Ceannais síos?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Is your household dependent on Rent Supplement to meet its housing need?</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An mbraitheann do theaghlach ar Fhorlíonadh Cíosa chun íoc as a riachtanas tithíochta?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Is your current accommodation unsuitable for your household’s adequate housing in any other material respect, having regard to particular household circumstances?</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An bhfuil do chóiríocht reatha mí-oiriúnach do thithíocht oiriúnach do theaghlaigh ar aon bhealach ábhartha eile, agus aird ar chúinsí áirithe teaghlaigh?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The most recent updates to these questions were made by the Social Housing Assessment (Amendment) Regulations 2016, which, among other changes, added the questions on homelessness and Rent Supplement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rinneadh na nuashonruithe ba dhéanaí leis na ceisteanna seo faoi na Rialacháin um Measúnú Tithíochta Sóisialta (Leasú), 2016, a chuir na ceisteanna ar easpa dídine agus ar Fhorlíonadh Cíosa, i measc athruithe eile, san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can specify up to 3 areas where you would choose to live</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú a mhéid le 3 cheantar a roghnú inar mhaith leat cónaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>At least one of them must be in the area administered by the housing authority that you apply to (its functional area) and the others must be either in that functional area or within the same county</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go mbeadh ar a laghad ceann amháin díobh sa cheantar ina riarann an t-údarás áitiúil, ar a bhfuil iarratas á dhéanamh agat (a cheantar feidhme), agus ní mór go mbeidh na cinn eile sa cheantar feidhme sin nó laistigh den chontae céanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you do not live in or have a connection with the housing authority’s own functional area, but the authority has agreed to accept an application from you, you can only pick areas of choice within that particular authority’s functional area</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura gcónaíonn tú i gceantar féin feidhme an údaráis tithíochta nó mura bhfuil nasc agat leis, ach má chomhaontaigh an t-údarás chun glacadh le hiarratas uait, féadfaidh tú ach do rogha limistéar a roghnú laistigh de cheantar feidhme an údaráis ar leith sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>After your application is accepted</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tar éis glacadh le d'iarratas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are accepted by the housing authority as being eligible for and in need of housing, you are then placed on its housing list or record of qualified households, and it will also notify any other housing authority in whose functional area you have specified an area of choice</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má ghlacann an t-údarás tithíochta leat amhail bheith incháilithe do thithíochta agus má mheastar go bhfuil riachtanas tithíochta agat, cuirtear thú ar a liosta feithimh, ar a dtugtar anois an taifead ar theaghlaigh cháilithe, agus ina theannta sin, cuirfidh an t-údarás tithíochta aon údarás tithíochta eile ar an eolas ina roghnaigh tú tithíocht ina gceantar feidhme</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are in private rented accommodation while you are on the housing list, you may be eligible for Rent Supplement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá cónaí ort i gcóiríocht phríobháideach ar cíos fad a bhíonn feitheamh ort ar thithíocht údaráis áitiúil, d’fhéadfá bheith i dteideal Forlíonadh Cíosa a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are housed under the Housing Assistance Payment (HAP), which is legally defined as a form of social housing support, you will no longer be on the housing list</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat iarratas a dhéanamh go n-aistreofaí thú chuig foirm eile de thithíocht shóisialta, áfach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if you apply for a transfer from HAP to another form of social housing within 2 weeks of getting the letter confirming your HAP payment, any time that you spent on the housing list can be taken into account when your local authority considers your application</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéanann tú iarratas ar aistriú roimh 2 sheachtain tar éis duit an litir a fháil a dheimhníonn d'íocaíocht ÍCT, is féidir aon am a chaitheann tú ar an liosta tithíochta a chur san áireamh nuair a dhéanann d’údarás áitiúil breithniú ar d’iarratas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read more about the housing list and the allocation process</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léigh tuilleadh faoin liosta feithimh agus faoi leithdháileadh tithíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you get a local authority home</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhaigheann tú tithíocht ón údarás áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Local authority housing is unfurnished</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl troscáin i dtithíocht údaráis áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are offered a local authority home and you do not have and cannot afford to buy furniture or appliances, you may be eligible for help under the Supplementary Welfare Allowance Scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéantar teach údaráis áitiúil a thairiscint duit, agus mura bhfuil fearais ná troscáin agat, agus mura bhfuil sé d’acmhainn agat troscán ná fearais a cheannach, d’fhéadfá bheith incháilithe le cúnamh a fháil faoin Scéim Liúntas Leasa Forlíontach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Local authority rents are based on a system called differential rents</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bunaítear cíosanna údaráis áitiúil ar chóras ar a dtugtar cíosanna difreálacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that the rent is based on your ability to pay, so if your income is low, your rent will be low; and if your income increases, your rent will increase also</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn seo go mbunaítear cíos ar do chumas íocaíochta, mar sin, más íseal do d’ioncam, is íseal a bheidh do chíos; agus má thagann méadú ar d’ioncam, tiocfaidh amhlaidh ar do chíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The income of any other members of your household will be added to the rent calculation and there may be deductions for any children in your family</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirfear ioncam aon daoine muinteartha eile i do theaghlach le ríomh an chíosa agus d’fhéadfadh go mbeadh asbhaintí ann le haghaidh aon leanaí atá i do theaghlach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Each local authority operates its own rent scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Oibríonn gach údarás áitiúil a scéim féin cíosa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your local authority may have a minimum and/or maximum rent, which may depend on the size of your home</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh go bhfuil ag d’údarás áitiúil cíosa íosta agus/nó uasta, a d’fhéadfadh brath ar mhéid do thí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is also a hardship clause that gives local authorities discretion to reduce the rent if there are particular reasons to do this</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, is ann do chlásal cruatain a bhronnann an discréid ar údaráis áitiúla chun an cíos a laghdú más ann do chúiseanna áirithe ann chun amhlaidh a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your income or the income of anyone in your household changes, you must inform the local authority, so that it can recalculate your rent</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má thagann athrú ar d’ioncam nó ar ioncam aon duine i do theaghlach, ní mór duit an t-údarás áitiúil a chur ar an eolas, ionas gur féidir athríomh a dhéanamh ar mhéid an chíosa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To apply for local authority housing, download an application form from your local authority's website or else contact its housing department directly</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun iarratas a dhéanamh ar thithíocht údaráis áitiúil, íoslódáil foirm iarratais ó láithreán gréasáin d’údaráis áitiúil nó déan teagmháil, ina ionad sin, lena Rannóg Tithíochta go díreach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An Easy To Read Guide (pdf) to filling in the application form is also available</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Treoir Sholéite (pdf) ar fáil maidir leis an foirm iarratais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you wish to be considered for accommodation provided by a housing association or other approved housing body, tick the box marked 'voluntary/co-operative housing' on the application form</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mian leat go ndéanfar breithniú ort do chóiríocht a sholáthraíonn comhlachas tithíochta nó comhlacht faofa eile tithíochta, cuir tic sa bhosca atá marcáilte “tithíocht dheonach/comharthithíocht” ar an bhfoirm iarratais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some housing associations may accept direct applications</seg></tuv>
+  <tuv xml:lang="ga"><seg>B’fhéidir go nglacfaidh roinnt comhlachais tithíochta le hiarratais dhíreacha</seg></tuv>
+</tu>
+</body>
+</tmx>

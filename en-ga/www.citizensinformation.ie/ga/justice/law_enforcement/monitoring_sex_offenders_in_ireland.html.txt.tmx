@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Monitoring sex offenders in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag déanamh monatóireachta ar chiontóirí gnéis in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Upon conviction of a sexual offence, the court is required to issue a certificate, stating the offence, to the Gardaí, the convicted offender and the governor of the facility where the offender is to be detained</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a chiontaítear duine i cion gnéis, caithfidh an chúirt teastas a eisiúint ag leagan amach an chiona, leis na Gardaí, leis an gciontóir ciontaithe agus le gobharnóir na saoráide ina gcoinneofar an ciontóir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The certificate also sets out the sentence received and the fact that the person has become subject to a reporting requirement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagann an teastas amach an phianbhreith a fuarthas agus go bhfuil an duine faoi réir riachtanas tuairiscithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The court issues this certificate on behalf of the Gardaí to the Domestic Violence and Sexual Assault Unit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Eisíonn an chúirt an teastas seo ar son na nGardaí chuig Aonad Foréigin Teaghlaigh agus Ionsaí Gnéis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that details of everyone subject to the requirements of the Sex Offenders Act 2001 are given to the Domestic Violence and Sex Assault Unit who keep a record of each individual by way of the court certificate (commonly known as the Sex Offenders Register)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn sé seo go dtugtar sonraí gach duine atá faoi réir riachtanais an Acht na gCiontóirí Gnéis 2001 don Aonad Foréigin Teaghlaigh agus Ionsaí Gnéis a choinníonn taifead ar gach duine trí mheán an teastais chúirte (ar a dtugtar go coitianta Clár na gCiontóirí Gnéis)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This information is then cross-referenced with the Sex Offenders Notification Form supplied by the local Garda Station and in this way the sex offenders may be monitored</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar tras-tagairt idir an fhaisnéis seo agus Foirm Faisnéisithe Ciontóirí Gnéis a sholáthraíonn an Stáisiún áitiúil Gardaí agus ar an dóigh seo is féidir monatóireacht a dhéanamh ar na ciontóirí gnéis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>At a local level the Gardaí, through nominated Inspectors, regularly make enquiries to ensure that the sex offenders in the local district are still residing at the address given in the notification form and that all the information contained in the notification form is accurate and up to date</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar leibhéal áitiúil déanfaidh na Gardaí fiosrúcháin go rialta, trí Chigirí ainmnithe, lena chinntiú go bhfuil ciontóirí gnéis sa cheantar áitiúil fós ina gcónaí ag an seoladh a tugadh san fhoirm faisnéisithe agus go bhfuil an fhaisnéis go léir san fhoirm faisnéisithe beacht agus suas le dáta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A nominated Inspector in each Garda Division has responsibility for liaising with the central Garda Domestic Violence and Sexual Assault Unit for the purpose of monitoring the application of the Sex Offenders Act 2001 in general</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Cigire ainmnithe i ngach rannán Gardaí freagrach as idirchaidreamh a dhéanamh le hAonad lárnach Foréigin Teaghlaigh agus Ionsaí Gnéis an Gharda chun críche monatóireacht a dhéanamh ar chur i bhfeidhm an Achta um Chiontóirí Gnéis 2001 go ginearálta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When a court convicts someone of a qualifying sexual offence it is obliged when sentencing the offender to consider whether or not to impose a sentence involving post-release supervision. In doing so the court must take the following into account:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a chiontaíonn cúirt duine as cion cáilitheach gnéis tá oibleagáid ar an gcúirt nuair a chiontaíonn sí an ciontóir breithniú a dhéanamh an ngearrfaidh siad pianbhreith ar an gciontóir a mbeidh maoirseacht iarscaoilte mar chuid de:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The need for a period of post-release supervision of the offender</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An riachtanas le tréimhse maoirseachta iarscaoilte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The need to protect the public from serious harm from the offender</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An riachtanas an pobal a chosaint ó mhórdhíobhail ón gciontóir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The need to prevent the commission of further sexual offences by the offender</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An riachtanas cionta gnéis eile a dhéanfadh an ciontóir a chosc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The need to rehabilitate or further rehabilitate the offender</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An riachtanas an ciontóir a athshlánú nó a athshlánú níos mó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In deciding whether or not to impose a sentence involving post-release supervision the court may hear evidence or submissions from any concerned person</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfaidh an tSeirbhís Phromhaidh maoirseacht ar aon tréimhse maoirseachta iarscaoilte a ghearrfaidh an chúirt ar an gciontóir gnéis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Any period of post-release supervision imposed on the sex offender by the court will be supervised by the Probation Service which liaises with the Gardaí in order to ensure the sex offender complies with the supervision order</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann an tSeirbhís Phromhaidh idirchaidreamh leis na Gardaí lena chinntiú go gcomhlíonann an ciontóir gnéis an t-ordú maoirseachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Examples of conditions which the court may include in the order of supervision are:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é seo a leanas roinnt samplaí de na coinníollacha ar féidir leis an gcúirt a chur isteach san ordú maoirseachta:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Prohibiting the sex offender from attending certain places, such as schools, sports-clubs and play-grounds</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Toirmeasc a chur ar an gciontóir gnéis dul chuig áiteanna áirithe, amhail scoileanna, clubanna spóirt agus láithreáin súgartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Requiring the sex offender to receive psychological counselling or other appropriate treatment during the period of supervision</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag cur riachtanais ar an gciontóir gnéis comhairleoireacht shíceolaíoch a fháil nó cóireáil chuí eile le linn thréimhse na maoirseachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a sex offender fails or refuses to comply, without reasonable excuse, with the requirements relating to supervision, the offender is committing an offence and is liable, on summary conviction, to a class C fine or to imprisonment for a maximum of 12 months, or both</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura gcomhlíonann ciontóir gnéis na riachtanais maidir le maoirseacht nó má dhiúltaíonn an ciontóir iad a chomhlíonadh, tá an ciontóir ag déanamh ciona agus má chiontaítear é is féidir leis a bheith faoi dhliteanas fíneáil aicme C a fháil nó príosúnacht go ceann uasmhéide de 12 mhí, nó an dá rud</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Monitoring sex offenders from other jurisdictions in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Monatóireacht ar chiontóirí gnéis ó dhlínsí eile in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A provision was included in the Sex Offenders Act, 2001 to ensure that Ireland would not become a safe-haven for sex offenders convicted outside Ireland who might seek to avoid the reporting requirements imposed on them by the place of conviction</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireadh foráil isteach san Acht um Chiontóirí Gnéis, 2001, lena chinntiú nach ndéanfaí tearmann sábháilte d’Éirinn do chiontóirí gnéis a ciontaíodh lasmuigh d’Éirinn a d’fhéadfadh a bheith ag seachaint riachtanais tuairiscithe a gearradh orthu san áit ar ciontaíodh iad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Anyone who is convicted of a sexual offence in another country and who later moves to Ireland is subject to a reporting requirement in the same way as someone convicted in Ireland, provided that the sexual crime corresponds to a sexual crime in Ireland which gives rise to the reporting requirements</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá aon duine a chiontaítear as cion gnéis i dtír eile agus a aistríonn ina dhiaidh sin go hÉirinn faoi réir ag riachtanas tuairiscithe ar an dóigh chéanna le duine a ciontaíodh in Éirinn, ar an gcuntar go bhfuil an cion gnéis mar an gcéanna le cion gnéis in Éirinn a mbeadh riachtanais tuairiscithe ar an gciontóir mar gheall air</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is also a notification requirement where the person is already subject to a similar reporting requirement under the law of the place of conviction</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá riachtanas faisnéisithe chomh maith nuair a bhíonn an duine faoi réir ag riachtanas tuairiscithe den chineál céanna faoi dhlí na háite inar ciontaíodh iad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Such people are required to notify the Gardaí if they have been resident in Ireland for 7 days</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá riachtanas ar dhaoine dá leithéid na Gardaí a chur ar an eolas má bhí siad ina gcónaí in Éirinn ar feadh 7 lá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In reality the Gardaí in Ireland have a very good system of receiving and giving information from and to police forces through Interpol</seg></tuv>
+  <tuv xml:lang="ga"><seg>I bhfírinne tá córas an-mhaith ag na Gardaí in Éirinn le faisnéis a fháil ó agus a thabhairt do fhórsaí póilíní trí Interpol</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is worldwide acceptance that police forces have a duty of care to all citizens to share such information on sex offenders where there is a real danger to vulnerable people if exposed to such persons</seg></tuv>
+  <tuv xml:lang="ga"><seg>Glactar leis ar fud an domhain go bhfuil dualgas cúraim ar fhórsaí póilíní do gach saoránach faisnéis den sórt sin ar chiontóirí gnéis a roinnt nuair a bhíonn fíorchontúirt ann do dhaoine leochaileacha má bhíonn siad i dteagmháil le daoine den chineál sin gan chosaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Sex Offenders Act, 2001 also places requires sex offenders to inform prospective employers of the nature of their conviction when applying to do work that consists mainly of the offender having unsupervised access to or contact with a child or children or a mentally impaired person</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann an tAcht um Chiontóirí Gnéis, 2001 oibleagáid ar chiontóirí gnéis fostaitheoirí ionchasacha a chur in iúl faoi nádúr a gciontaithe nuair a chuireann siad iarratas isteach chun obair a dhéanamh ina mbeidh rochtain ag an gciontóir ar nó teagmháil ag an gciontóir le leanbh nó linbh nó le duine lagintinneach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If someone fails to notify an employer the offender could be fined up to €12,697 or sentenced up to 5 years in prison or both</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura gcuireann an ciontóir in iúl don fhostaitheoir thiocfaí fíneáil de suas le €12,697 a ghearradh air nó pianbhreith suas le 5 bliana i bpríosún, nó an dá rud</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Can I find out if a sex offender lives in my area?</seg></tuv>
+  <tuv xml:lang="ga"><seg>An féidir liom a fháil amach an bhfuil ciontóir gnéis ina chónaí i mo cheantar?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The details held by the Gardaí in relation to those persons guilty of sex offences and who are subject to the requirements of the Sex Offenders Act 2001 are not subject to freedom of information legislation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl na sonraí atá á gcoinneáil ag na Gardaí maidir leis na daoine sin atá ciontach as cionta gnéis agus atá faoi réir riachtanais an Achta um Chiontóirí Gnéis 2001, níl na sonraí sin faoi réir reachtaíocht ar saoráil faisnéise</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are not entitled, therefore, to apply under the Freedom of Information Acts to find out details of sex offenders living in your area</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl tú i dteideal, mar sin, iarratas a chur isteach faoi Achtanna um Shaoráil Faisnéise le sonraí ciontóirí gnéis atá ina gcónaí i do cheantar a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the Data Protection Acts, 1988-2003 you are entitled to request information held about yourself on computer or in manual or paper files</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi na hAchtanna um Chosaint Sonraí, 1988-2003 tá tú i dteideal faisnéis fút féin a iarraidh a choinnítear ar ríomhaire nó i gcomhaid láimhe nó páipéir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This includes information held by the Gardaí (with a number of exceptions)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuimsíonn sé seo faisnéis a choinníonn na Gardaí (le roinnt eisceachtaí)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the data protection legislation, however, the only person entitled to request this information held about you is yourself</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoin reachtaíocht chosanta sonraí, áfach, is tusa an t-aon duine atá i dteideal an fhaisnéis seo a choinnítear fút féin a iarraidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is not possible for you to make such a request in respect of another person</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leat iarratas mar sin a dhéanamh maidir le duine eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further information on Data Protection in Ireland is available here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá níos mó faisnéise ar Cosaint Sonraí in Éirinn ar fáil anseo</seg></tuv>
+</tu>
+</body>
+</tmx>

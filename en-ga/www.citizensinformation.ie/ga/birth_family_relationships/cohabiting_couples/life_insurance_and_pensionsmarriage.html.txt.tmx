@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Life insurance, pensions and civil status in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Árachas saoil, pinsin agus stádas sibhialta in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your life insurance or pension policy in Ireland may provide for a lump sum, or pension to be paid to a specified person on your death or retirement</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh sé go bhfuil cnapshuim nó pinsean le híoc le duine ar leith nuair a fhaigheann tú bás nó nuair a éiríonn tú as an obair de réir an pholasaí árachas saoil nó pinsin atá agat in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In this case, you may be able to nominate your cohabiting partner as the beneficiary</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás seo, is féidir an páirtnéir a bhfuil tú i do chónaí leis/léi a ainmniú mar an tairbhí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, many policies specify that only a spouse may benefit i.e</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach, tá go leor polasaithe ann a leagann síos mar choinníoll nach féidir leat ach do chéile, i.e</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>your husband or wife</seg></tuv>
+  <tuv xml:lang="ga"><seg>d’fhear/bhean chéile amháin a ainmniú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A pension scheme that provides a benefit for a spouse is deemed to provide a benefit for a civil partner</seg></tuv>
+  <tuv xml:lang="ga"><seg>Meastar go gcuireann scéim pinsin a chuireann sochar ar fáil do chéile, sochar ar fáil do pháirtnéir sibhialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where a policy specifies that only a spouse may benefit, your cohabiting partner will not have any entitlements</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás go sonraíonn polasaí nach féidir ach le céile bheith ina t(h)airbhí, ní bheidh aon teidlíochtaí ag do pháirtnéir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Likewise, you may be entitled to a supplement to your pension in respect of a spouse/civil partner, but not in respect of a cohabitee</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar an gcuma chéanna, b’fhéidir go bhfuil tú i dteideal liúntas breise a fháil le do phinsean maidir le céile/páirtnéir sibhialta, ach ní gá go mbeadh an scéal céanna i gceist le duine a chónaíonn leat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Check with your insurer or the trustees of your pension if you want to be sure about the stipulations of your particular policy</seg></tuv>
+  <tuv xml:lang="ga"><seg>Deimhnigh leis an gcomhlacht árachais nó le hiontaobhaithe an phinsin más mian leat a bheith cinnte faoi choinníollacha do pholasaí áirithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are not married, you should check if anything can be changed to allow your partner entitlements that he/she would not otherwise have</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil tú pósta, ba cheart duit a fhiosrú an féidir leat aon rud a athrú a thabharfadh cead do do pháirtí aon sochair a fháil nach mbeadh aige/aici gan na hathruithe sin a chur i bhfeidhm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Unclaimed life insurance policies</seg></tuv>
+  <tuv xml:lang="ga"><seg>Polasaithe árachas saoil neamhéilithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Unclaimed Life Assurance Policies Act 2003 requires insurance companies in Ireland to identify and contact the owners of unclaimed life insurance policies</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceanglaítear faoin Acht um Polasaithe Árachais Saoil Neamhéilithe, 2003 ar chomhlachtaí árachais in Éirinn dul i dteagmháil le húinéirí polasaithe árachas saoil neamhéilithe agus iad a shainaithint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the owners cannot be traced, the proceeds of the policies will be transferred to the Dormant Accounts Fund, which is managed by the National Treasury Management Agency</seg></tuv>
+  <tuv xml:lang="ga"><seg>Murar féidir teacht ar na húinéirí, aistreofar fáltais na bpolasaithe chuig Ciste na gCuntas Díomhaoin, a dhéanann Gníomhaireacht Bainistíochta an Chisteáin Náisiúnta a bhainistiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Insurance Ireland is the representative body for insurance companies in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad Árachas Éire an comhlacht ionadaíoch le haghaidh comhlachtaí árachais in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Its members include both Irish insurance companies and branches of foreign insurers established in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áirítear le baill den Chónaidhm comhlachtaí árachais Éireannacha agus brainsí d’árachóirí iasachta a bunaíodh in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All of the life assurers in the Irish market are members, as are over 98% of the non-life (general insurance) companies</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baill den Árachas Éire iad gach ceann de na hárachóirí saoil ar mhargadh na Éireann, agus is amhlaidh atá breis agus 98% de na comhlachtaí neamhshaoil (árachas ginearálta)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Insurance Ireland provides a Customer Information Service for queries in connection with insurance matters</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann Árachas Éire Seirbhís um Fhaisnéis do Chustaiméirí ar fáil le haghaidh fiosrúchán a bhaineann le hábhair árachais in Éirinn</seg></tuv>
+</tu>
+</body>
+</tmx>

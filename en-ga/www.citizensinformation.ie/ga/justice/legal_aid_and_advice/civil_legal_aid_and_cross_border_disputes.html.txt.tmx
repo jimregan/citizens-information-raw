@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Civil legal aid and cross border disputes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cúnamh dlí sibhialta agus conspóidí trasteorann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are living in Ireland and have a legal dispute in another EU country you may be able to avail of legal aid in the other country</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú i do chónaí in Éirinn agus má tá conspóid dlí ar siúl agat i dtír eile de chuid an AE féadtar go mbeidh tú in ann leas a bhaint as cúnamh dlí sa tír eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Access to legal aid in cross border disputes for residents of EU member states is provided under Council Directive 2003/8/EC which established minimum common rules relating to legal aid for such disputes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar foráil i dtaca le conspóidí trasteorann do chónaitheoirí bhallstáit an AE faoi Threoir na Comhairle 2003/8/EC a bhunaigh comhrialacha íosta maidir le cúnamh dlí dá leithéid de chonspóidí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An application form for legal aid was established by Commission Decision 2004/844/EC (pdf), while Commission Decision 2005/630/EC (pdf) established a form for the transmission of applications between countries</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bhunaigh Cinneadh na Comhairle 2004/844/CE (pdf) foirm iarratais ar chúnamh dlí agus bhunaigh Cinneadh na Comhairle 2005/630/EC (pdf) foirm le haghaidh sheoladh na n-iarratas idir tíortha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The appropriate authority In Ireland to apply to for legal aid if you are involved in a cross border dispute is the Legal Aid Board</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an t-údarás cuí gur chóir iarratas a chur isteach air in Éirinn má tá conspóid trasteorann ar siúl agat ná An Bord um Chúnamh Dlíthiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Each member state has its own financial rules and eligibility criteria</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá a rialacha airgeadais agus a chritéir incháilithe féin ag gach ballstát</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They are modified to some extent for applicants and should take into consideration differences in the cost of living between the country you are living in and the country where you have the legal dispute</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar iad a mhionathrú ar mhéid áirithe d'iarratasóirí agus ba chóir go dtabharfadh siad difríochtaí sa chostas maireachtála san áireamh idir an tír ina bhfuil tú i do chónaí agus an tír ina bhfuil conspóid dlí ar siúl agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The scope of legal aid schemes and the qualifying criteria can differ between countries</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadtar go ndifríonn cuimsiú scéimeanna an chúnaimh dhlíthiúil agus na critéir cháilíochta idir tíortha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As a result, where you may get legal aid in Ireland for a particular legal dispute, you may not qualify for legal aid in another country due to the differences in the schemes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar thoradh air seo, cé gur féidir go mbeadh cúnamh dlí ar fáil duit in Éirinn maidir le conspóid dlí áirithe, féadtar nach mbeifeá incháilithe do chúnamh dlí i dtír eile mar gheall ar dhifríochtaí idir na scéimeanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Similarly, you may qualify for legal aid abroad, where you would not qualify in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar an gcaoi chéanna, féadtar go mbeifeá incháilithe do chúnamh dlí thar lear, nuair nach mbeifeá incháilithe in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In deciding whether to grant legal aid, the importance of the case to the applicant should be taken into account</seg></tuv>
+  <tuv xml:lang="ga"><seg>Agus socrú á dhéanamh ar cé acu cúnamh dlí a dheonú, ba chóir tábhacht an cháis don iarratasóir a chur san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>While the Legal Aid Board has no role in deciding whether you should get legal aid in the other country, you will be required to complete the Board's means test and the Board will make a decision as to whether you would qualify for legal aid in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cé nach bhfuil aon ról ag an mBord um Chúnamh Dlíthiúil sa chinneadh ar cé acu ar chóir go mbeadh cúnamh dlí ar fáil duit sa tír eile, iarrfar ort tástáil mhaoine an Bhoird a chomhlánú agus déanfaidh an Bord cinneadh ar cé acu an mbeifeá incháilithe do chúnamh dlí in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the other country requests this information in order to help reach a decision on whether to grant legal aid or not, the board will provide it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má iarrann an tír eile an fhaisnéis seo d'fhonn a chuidiú léi cinneadh a dhéanamh ar cé acu cúnamh dlí a dheonú nó gan é a dheonú, soláthróidh an Bord an fhaisnéis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are living in another EU country and have a legal dispute in Ireland, you should apply to the appropriate authority in that country</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú i do chónaí i dtír eile den AE agus má tá conspóid dlí ar siúl agat in Éirinn, ba chóir duit iarratas a dhéanamh ar an údarás cuí sa tír sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are living in Ireland and have a legal dispute in another EU country you should apply to the Legal Aid Board</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú i do chónaí in Éirinn agus má tá conspóid dlí ar siúl agat i dtír eile den AE ba chóir duit iarratas a chur isteach ar an mBord um Chúnamh Dlíthiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can download the application form from the Board's website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis an fhoirm iarratais a íoslódáil anois ó láithreán gréasáin an Bhoird</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Board will transmit your application for legal aid to the appropriate authority in the other country</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seolfaidh an Bord d'iarratas ar chúnamh dlíthiúil chuig an údarás cuí sa tír eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will be required to provide confirmation of your main sources of income and expenditure, such as:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh sé riachtanach go gcuirfidh tú deimhniú ar fáil maidir le do phríomhfhoinsí ioncaim agus caiteachais, mar shampla:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A copy of your latest payslip</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cóip de do phádhuillín is déanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A copy of your social welfare payment slip</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cóip de do dhuillín íocaíochta leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Receipts for child care expenses</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Admhálacha maidir le caiteachas cúraim linbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Board will translate these documents before transmitting them, if necessary</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfaidh an Bord na doiciméid seo a aistriú sula seoltar iad, más gá</seg></tuv>
+</tu>
+</body>
+</tmx>

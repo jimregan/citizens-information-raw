@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Lighting of motorcycles in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Soilsiú gluaisrothar in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you wish to ride a motorcycle on a public road in Ireland, you should be aware there are specific rules in place about the type of lamps and reflectors that must be fitted to your motorcycle</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mian leat gluaisrothair a thiomáint ar bhóthar poiblí in Éirinn ba cheart duit a bheith ar an eolas go bhfuil rialacha faoi leith i bhfeidhm maidir leis an gcineál lampaí agus frithneoirí nach mór a bheith ar an ngluaisrothar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These provisions are set down in the Road Traffic (Lighting of Vehicles) Regulations, 1963 (as amended)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá na rialacha seo leagtha síos sna Rialacháin um Thrácht ar Bhóithre (Soilsiú Feithiclí), 1963</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Effective use of lighting on your motorcycle will ensure that other road users see you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhíonn soilse éifeachtacha ar do ghluaisrothar cinnteófar go bhfuil úsáideoirí eile bóthair in ann tú a fheiceáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Gardai (Irish police force) are responsible for the enforcement of the law on the lighting of vehicles in Ireland and this enforcement is essential for road safety</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an Garda Síochána (poilíní na hÉireann) freagrach as an dlí a bhaineann le soilsiú feithiclí in Éirinn a chur i bhfeidhm agus tá sé riachtanach go ndéantar é seo le sábháilteacht a chinntiú ar na bóithre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The object of these Regulations is to prevent accidents and protect life and property</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé mar aidhm ag na Rialacháin seo timpistí a sheachaint agus beatha agus maoin a chosaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Motorcycles at all times are required to have:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go mbeadh na nithe seo a leanas ar ghluaisrothar an t-am ar fad:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• One head lamp: this is a lamp that when lit, adequately lights the road ahead with a white or yellow light for a distance of 99 metres (325 feet) (or 30.5 metres (100 feet) when dipped) and in the case of a low-powered motorcycle, a reasonable distance</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ceannlampa amháin: lampa é seo a dhéanann an bóthar a shoilsiú mar is cuí le solas geal nó buí ar feadh achair de 325 troigh (nó 100 troigh nuair atá sé íslithe) agus i gcás gluaisrothair de chumhacht íseal, ar feadh achair réasúnta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• One rear lamp: this is a lamp fitted to the rear and when lit, a red light is visible for 152 metres (500 feet)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cúl-lampa amháin: lampa é seo atá ar chúl an rothair agus nuair atá sé lasta, tá solas dearg le feiceáil ar feadh 500 troigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• One rear reflector: this is a red reflector that can be plainly seen for a distance of 99 metres (325 feet) to the rear when the headlights of a vehicle shine directly on it</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Frithneoir cúil amháin: frithneoir dearg atá le feiceáil go soiléar ar feadh achair de 325 troigh ar do chúl nuair atá ceannlampaí feithicle ag soilsiú go díreach air</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Identification mark lighting: this is a white light illuminating the rear identification plate so that each letter and number is easily distinguishable for a distance of 20 metres (65 feet) to the rear</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Soilsiú ar an uimhirphláta: solas geal lasta ar an uimhirphláta cúil atá anseo ionas gur féidir gach litir agus uimhir a léamh go héasca ó achar de 65 troigh ar an gcúl</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Position lamp (if not fitted with a head lamp or if a side car is attached): this is a lamp not exceeding 7 watts that is fitted not more than 1.5 metres (5 feet) from the ground and which when lit shows to the front a white light visible for 152 metres (500 feet)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Lampa suímh (muna bhfuil ceannlampa ann nó má tá taobhcharr ar an ngluaisrothar): lampa é seo nach mó ná 7 vat atá ar an ngluaisrothar nach mó ná 5 troigh ón talamh agus nuair atá sé lasta a thaispeáineann solas geal chun tosaigh atá le feiceáil ar feadh 500 troigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Direction indicators and high mounted stop lamp (this is optional): A direction indicator is a device fitted to a motorcycle that is capable of indicating to the other road users that the driver intends to turn right or left</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Treo-tháscairí agus stad lampa ard (níl sé seo riachtanach): lampa ar an ngluaisrothar é treo-tháscaire a thaispeáineann d'úsáideoirí eile bóthair go bhfuil sé ar intinn ag an tiománaí casadh ar dheis nó ar chlé</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Indicators must be either semaphore or flashing</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go mbeadh treo-tháscairí séamafórach nó gealánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Side-cars of motorcycles are required at all times to have:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go mbeadh na nithe seo a leanas ar thaobhcharranna gluaisrothar an t-am ar fad:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• One rear lamp (as above)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cúl-lampa amháin (mar thuas)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The head lamps on your motorcycle should be dipped in good time in the following situations:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart na ceannlampaí ar do ghluaisrothar a ísliú go maith in am sna cúinsí seo a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Meeting oncoming vehicles (i.e., vehicles coming towards you from the opposite direction)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Nuair atá feithiclí ag teacht i do choinne (nuair atá feithiclí ag teacht i do threo ón treo eile)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• In built-up areas where public lighting is provided, and special speed limit areas</seg></tuv>
+  <tuv xml:lang="ga"><seg>• In áiteanna faoi fhoirgnimh ina bhfuil soilse poiblí, agus i gceantair faoi luasteorainn speisialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• In periods of poor visibility (i.e., heavy fog, snow, rain, dust)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Nuair atá an léargas go dona (mar shampla le ceo trom, sneachta, báisteach nó dusta)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Travelling behind another vehicle</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Nuair atá tú ag taisteal taobh thiar de fheithicil eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• When failing to use your head lamps may cause inconvenience to other road users</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Nuair a d'fhéadfadh sé ciotaí a dhéanamh d'úsáideoirí eile bóthair má theipeann ort úsáid á bhaint as do cheannlampaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All motorcyclists are required to use lamps (other than stop lamps) during "lighting-up" hours</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór do ghluaisrothaithe uilig lampaí a úsáid (ach amháin stop-lampaí) i rith uaireanta "soilsiúcháin"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are using your motorcycle during the day when visibility is poor, you are also required to use lamps</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ag baint úsáide as an ngluaisrothar sa lá nuair atá an léargas lag, ní mor duit lampaí a úsáid freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are using lamps on your motorcycle, you should ensure that your lights are dipped when approaching other road users</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá lampaí in úsáid ar do ghluaisrothar agat, ba cheart duit déanamh cinnte na soilse a ísliú nuair atá tú ag teacht i dtreo úsáideoirí eile bóthair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most motorcycles are fitted with these lamps and reflectors as standard</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn na lampaí agus frithneoirí seo ar formhór na ngluaisrothar nuair a dhéantar iad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can purchase replacement lamps at any reputable motorcycle shop</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir lampaí breise a cheannach ag aon siopa maith gluaisrothair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are unsure about whether your motorcycle conforms to the law, you should contact your nearest Garda station for advice and information</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna bhfuil tú cinnte an bhfuil do ghluaisrothar ag cloí leis an dlí ba cheart duit teagmháil a dhéanamh leis an stáisiún Garda áitiúil le comhairle agus eolas a fháil</seg></tuv>
+</tu>
+</body>
+</tmx>

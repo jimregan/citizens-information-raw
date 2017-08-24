@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Voting procedure in a European election</seg></tuv>
+  <tuv xml:lang="ga"><seg>An Córas Vótála do Thoghchán Eorpach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The returning officer for each of the 3 constituencies in Ireland is nominated by the Minister for Housing, Planning, Community and Local Government and must be a City or County Sheriff or a County Registrar</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ainmníonn an tAire Tithíochta, Pleanála, Pobal agus Rialtais Áitiúil an ceann comhairimh i ngach ceann den 3 thoghcheantar agus ní mór gur Shirriam Cathrach nó Contae nó Cláraitheoir Contae a bheadh ann/inti</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He or she is the person responsible for organising the poll, printing the ballot papers and counting the votes in each constituency</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an duine sin freagrach as an vótáil a reachtáil, páipéir bhallóide a phriontáil agus as comhaireamh na vótaí i ngach toghcheantar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The local returning officer provides polling stations - usually schools and public buildings are used</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann an ceann comhairimh áitiúil ionaid vótála ar fáil - baintear úsáid as scoileanna go minic agus as foirgnimh phoiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are on the Register of Electors, a polling card will be sent to your home before the date of the European election</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ar Chlár na Vótálaithe, cuirfear cárta vótála chugat sa phost chuig do sheoladh baile roimh an dáta do thoghchán na hEorpa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your polling card will include your elector number and will tell you where you can vote</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh uimhir vótálaí ar an gcárta ballóide agus beidh sé insithe cén áit ina bhfuil do vóta le caitheamh agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Each candidate at a European Parliament election may be represented by a "personation agent" at the polling station</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le "ionadaí pearsanta" a bheith i láthair ar son gach iarrthóra i dtoghchán Eorpach ag an ionad vótála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The personation agent supervises the polling and helps prevent electoral offences</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann an t-ionadaí pearsanta maoirseacht ar an vótáil agus tugann sé/sí cúnamh aon choireann toghcháin a sheachaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you arrive at the polling station, you will be asked to state your name and address and you may be asked to prove your identity</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a thagann tú chuig an ionad vótála iarrfar ort d'ainm agus do sheoladh a thabhairt, d'fhéadfadh sé go mbeadh ort fianaise aitheantais a chur ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are asked to prove your identity and you cannot do so, you may not be allowed to vote</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má iarrtar ort é sin a dhéanamh agus muna bhfuil tú in ann, ní bheidh cead agat do vóta a chaitheamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the presiding officer is satisfied in relation to your identity, your ballot paper will be stamped and handed to you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá an t-oifigeach i gceannas sásta cé thú féin cuirfear stampa ar do pháipéar ballóide agus tabharfar duit é</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will then go into a voting compartment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rachaidh tú isteach i mbothán vótála ansin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The names of the candidates in the election appear in alphabetical order on the ballot paper along with an indication of their political party, if any</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh ainmneacha na n-iarrthóirí ar an bpáipéar ballóide in ord aibítre chomh maith le haitheantas don pháirtí lena mbaineann siad, má bhaineann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A photograph of the candidate and/or a party emblem may also appear on the ballot paper</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh sé go mbeadh griangraf den iarrthóir agus/nó logo an pháirtí ar an bpáipéar ballóide freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must indicate the order of your choice of candidates by writing "1" in the box beside the photograph of your first choice of candidate and, if you wish, "2" beside the photograph of your second choice of candidate, "3" beside the photograph of your third choice and so on</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit do rogha iarrthóirí a thaispeáint le "1" a scríobh sa bhosca taobh le griangraf do chéad rogha iarrthóra agus, más mian leat, "2" le taobh griangraf do dhara rogha iarrthóra, "3" le taobh griangraf do thriú rogha iarrthóra agus mar sin de</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you vote this way, you are instructing the returning officer to transfer your vote to your second choice candidate if the first choice is either elected or eliminated</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a chaitheann tú vóta ar an mbealach seo tá tú ag tabhairt ordaithe don cheann comhairimh do vóta a aistriú chuig do dhara rogha iarrthóra má bhíonn an chéad iarrthóir tofa nó curtha as an áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your second choice candidate is either elected or eliminated, your vote will be transferred to your third choice and so on</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhíonn an dara rogha iarrthóra tofa nó curtha as an áireamh, tabharfar do vóta chuig do thríú rogha agus mar sin de</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must then fold your ballot paper to hide your vote and place it in the sealed ballot box</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit ansin an páipéar ballóide a filleadh leis an vóta a cheilt agus é a chur isteach sa bhosca ballóide atá dúnta le séala</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may only vote once at the election</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leat ach vóta a chaitheamh uair amháin ag aon toghchán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have a physical or sight disability or if you have reading or writing disabilities, you may be assisted by the presiding officer</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá míchumas fisiciúil ort nó radharcach nó má tá míchumais léimh ná scríobh ort is féidir leis an oifigeach i gceannas cúnamh a chur ar fáil duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is also possible to vote in a European Parliament election by a postal vote</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir freisin vóta poist a chaitheamh i dtoghchán do Pharlaimint na hEorpa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Prisoners can also vote by registering on the Postal Voters List</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le príosúnaigh vótáil freisin má bhíonn siad cláraithe ar an Liosta Postvótálaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are about 2.8 million registered electors who are entitled to vote at European elections</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuairim agus 2.8 milliún daoine cláraithe le vóta a chaitheamh i dtoghcháin Eorpacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To vote in a European election:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Le vóta a chaitheamh i dtoghchán Eorpach:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You must be a citizen of the European Union</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní mór duit a bheith i do shaoránach d'Aontas na hEorpa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You must be 18 years of age on the day the Register of Electors comes into force, i.e., the 15th February</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní mór duit a bheith ós cionn 18 bliain d'aois ar an lá go dtagann Clár na Vótálaithe i bhfeidhm, i.e., an 15 Feabhra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Your name must be on the Register of Electors</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní mór go mbeadh d'ainm ar Chlár na Vótálaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are an Irish citizen living in another Member State, you are entitled to vote at the European elections in that country only</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más saoránach Éireannach thú a chónaíonn i mBallstát eile is féidir leat vóta a chaitheamh i dtoghcháin na hEorpa sa tír sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are not entitled to vote at the elections in more than one constituency or country</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach, níl sé de chead agat vóta a chaitheamh sna toghcháin i níos mó ná toghcheantar ná tír amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This effectively means that you cannot vote abroad and in Ireland in the same election</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn é nach féidir leat vóta a chaitheamh i dtoghchán céanna thar lear agus in Éirinn</seg></tuv>
+</tu>
+</body>
+</tmx>

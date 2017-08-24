@@ -1,0 +1,329 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Taxation of married people and civil partners</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gearradh cánach ar dhaoine pósta in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you get married, both you and your spouse continue to be treated as single people for tax purposes in that year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa bhliain ina bpósann tú, caitear leat agus le do pháirtí fós mar dhaoine singile ó thaobh cánach de</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If, however, the tax you pay as two single people is greater than the tax that would be payable if you were taxed as a married couple, you can claim the difference</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhíonn an méid cánach a íocann sibh mar bheirt shingil níos mó ná an méid cánach a bheadh iníoctha dá ngearrfaí cáin oraibh mar lánúin phósta áfach, beidh sibh in ann éileamh a dhéanamh ar an difríocht idir an dá shuim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(In other words, you can claim a tax refund)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(I bhfocail eile, beidh sibh in ann éileamh a dhéanamh ar aisíocaíocht chánach)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Refunds are only due from the date of marriage and will be calculated after the following 31 December</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhíonn aisíocaíochtaí dlite ach ó dháta an phósta, agus ríomhfar iad tar éis an 31 Nollaig ina dhiaidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>So, for example, if you get married in 2017, any tax refund due to you will be calculated after 31 December 2017</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, má phós tú i Mí Eanáir 2014, ríomhfar aisíocaíocht chánach ar bith a d'fhéadfadh a bheith iníoctha, tar éis an 31 Nollaig 2014</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Refunds are normally only due where a couple are taxed at different rates and one spouse could benefit from the unused standard rate cut-off point or for some of the unused tax credits of the other spouse</seg></tuv>
+  <tuv xml:lang="ga"><seg>De ghnáth ní bhíonn aisíocaíochtaí dlite ach sa chás ina ngearrtar cáin ar lánúin ar rátaí difriúla, agus go bhféadfadh páirtí amháin leas a bhaint as scoithphointe an ráta chaighdeánaigh nár úsáideadh, nó as cuid de chreidmheasanna cánach nár úsáideadh de chuid an chéile eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you get married therefore, it is important to advise the tax office of the date of your marriage</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a phósann tú, mar sin, tá sé tábhachtach an oifig chánach a chur ar an eolas faoi dháta an phósta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will also need to quote your own and your spouse's Personal Public Service Number (PPS number)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh ort d'Uimhir Phearsanta Seirbhíse Poiblí agus uimhir do pháirtí a chur in iúl chomh maith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For the years following your marriage, there are three options for taxation</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcomhair na mblianta i ndiaidh do phósta, tá trí rogha ar fáil ó taobh cánachais ar dhaoine pósta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All of the options and the outcomes of choosing them are outlined below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar cur síos thíos ar na roghanna go léir agus na torthaí a éiríonn as iad a roghnú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Assessment as a single person (i.e. you are both still taxed as single people)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Measúnú mar dhuine singil (is é sin, gearrtar cáin oraibh beirt mar dhaoine singile)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Assessment as a single person</seg></tuv>
+  <tuv xml:lang="ga"><seg>Measúnú mar dhuine singil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under assessment as a single person, each spouse/civil partner is treated as a single person for tax reasons</seg></tuv>
+  <tuv xml:lang="ga"><seg>Le measúnú mar dhuine singil, caitear le gach páirtí mar dhuine singil ó thaobh cánach de</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Both spouses/civil partners are taxed on their own income</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gearrtar cáin ar an mbeirt pháirtithe ar a n-ioncam féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Both spouses/civil partners get tax credits and the same standard rate cut-off point due to a single person</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Faigheann an bheirt pháirtithe creidmheasanna cánach agus scoithphointe an ráta chaighdeánaigh dlite ag duine singil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Both spouses/civil partners pay their own tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Íocann an bheirt pháirtithe a gcáin féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Both spouses/civil partners complete their own return of income form and claim their own tax credits</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Líonann an bheirt pháirtithe a dtuairisceáin ioncaim féin agus déanann siad éileamh ar a gcreidmheasanna cánach féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>One spouse/civil partner cannot claim relief for payments made by the other</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní fhéadfaidh páirtí amháin faoiseamh a éileamh ar íocaíochtaí a rinne an duine eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is no right to transfer tax credits or standard rate cut-off point to each other</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon cheart acu creidmheasanna cánach nó scoithphointe an ráta chaighdeánaigh a aistriú chuig a chéile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To claim assessment as a single person, you will have to contact your tax office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun éileamh a dhéanamh ar mheasúnú mar dhuine singil, ní mór duit iarratas scríofa a dhéanamh go dtí d'oifig chánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Either spouse/civil partner can make the claim and the option remains until the person who claims it changes his or her mind</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis an mbeirt pháirtithe an t-éileamh a dhéanamh, agus leanann an rogha go dtí go n-athraíonn an duine a dhéanann an t-éileamh a (h)intinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you wish to claim assessment as a single person, you must apply within the tax year (preferably at the start of the year)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhíonn tú ag iarraidh éileamh a dhéanamh ar mheasúnú mar dhuine singil, beidh ort iarratas a dhéanamh taobh istigh den bhliain chánach (de rogha ag tús na bliana, i mí Eanáir)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Choosing to be assessed as a single person when you are married or in a civil partnership is unfavourable in some circumstances</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an rogha ar mheasúnú mar dhuine singil nuair atá tú pósta míbhuntáisteach i gcásanna áirithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is mainly because you cannot transfer any unused tax credits or standard rate cut-off point</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé amhlaidh go príomha mar nach féidir creidmheasanna cánach nó scoithphointe an ráta chaighdeánaigh a aistriú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You cannot claim Home Carer's Tax Credit if your spouse/civil partner is caring for a dependent person and would otherwise qualify for the relief</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá duine cleithiúnach faoi do chúram, ní féidir leat éileamh a dhéanamh ar Chreidmheas Cánach do Chúramóir Baile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the separate assessment option, the tax affairs of spouses/civil partners are independent of each other</seg></tuv>
+  <tuv xml:lang="ga"><seg>Le measúnú ar leithligh, bíonn gnóthaí cánach céilí neamhspleách ar a chéile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The difference between separate assessment and the previous option (assessment as a single person) is that under this option, some tax credits are divided equally between you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is í an difríocht idir measúnú ar leithligh agus an rogha roimhe (measúnú mar dhuine singil) ná, faoin rogha seo, go roinntear cuid de na creidmheasanna cánach go cothrom eadraibh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These tax credits are:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad na creidmeasanna cánach seo ná:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Blind Person's Tax Credit</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Creidmheas Cánach do Dhuine Dall,</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Incapacitated Child Tax Credit</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Creidmheas Cánach do Leanaí Éagumasacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The balance of the tax credits is given to each of you in proportion to the cost borne by you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar fuílleach na gcreidmheasanna cánach daoibh araon i gcomhréir leis an gcostas atá íoctha agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The PAYE tax credit and expenses (if any), are allocated to the appropriate spouse/civil partner</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar an creidmheas cánach ÍMAT agus costais, más ann dóibh, don chéile cuí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Any tax credits other than the PAYE tax credit and employment expenses that are unused by one partner can be claimed by the other spouse/civil partner</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le páirtí amháin éileamh a dhéanamh ar chreidmheasanna cánach ar bith seachas an creidmheas cánach ÍMAT agus costais fhostaíochta nár úsáid an céile eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The tax credits are not usually adjusted until after the end of the tax year</seg></tuv>
+  <tuv xml:lang="ga"><seg>De ghnáth ní athraítear na creidmheasanna cánach go dtí tar éis deireadh na bliana cánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Any tax credits that are unused (other than the PAYE tax credit and employment expenses) and the standard rate cut-off point up to €42,800 in 2017 can be transferred to the other spouse/civil partner but only at the end of the tax year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir creidmheasanna cánach nár úsáideadh agus scoithphointe an ráta chaighdeánaigh suas go €41,800 do 2014 - ach amháin an creidmheas cánach ÍMAT agus costais fhostaíochta - a aistriú go dtí an céile eile, ach ag deireadh na bliana cánach amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The increase in the standard rate tax band of up to €24,800 in 2017 is not transferable between partners</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl an méadú ar bhanda an ráta chánach chaighdeánaigh suas go €23,800 do 2014 inaistrithe idir chéilí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you think you have unused tax credits or standard rate cut-off point, contact your tax office for a review after the end of the tax year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má cheapann tú go bhfuil creidmheasanna cánach nó scoithphointe an ráta chaighdeánaigh nach bhfuil úsáidte agat, téigh i dteagmháil le d'oifig chánach le haghaidh athbreithnithe tar éis deireadh na bliana cánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Overall, the amount of the tax that is payable under this option (separate assessment) is the same that is payable under the joint assessment option discussed below</seg></tuv>
+  <tuv xml:lang="ga"><seg>San iomlán tá an méid cánach atá iníoctha faoin rogha seo (measúnú ar leithligh) mar a chéile leis an méid atá iníoctha faoi chóimheasúnú a phléitear thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The claim for separate assessment must be between 1 October of the preceding year and the 31 March in the year of the claim</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní foláir an t-éileamh a dhéanamh sa tréimhse idir 1 Deireadh Fómhair agus 31 Márta. Ní féidir é a iardhátú agus leanann an rogha seo go dtí go dtarraingíonn duine agaibh siar í</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Either spouse or civil partner can request this form of assessment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le ceachtar agaibh iarratas a dhéanamh ar mheasúnú den chineál seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To withdraw the option, you must contact your tax office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun an rogha a tharraingt siar, caithfear iarratas scríofa a chur chuig d'oifig chánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Each spouse or civil partner can complete a separate return of his or her own income</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le gach páirtí tuairisceán ar leith a líonadh dá (h)ioncam féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The joint assessment (or "aggregation") option is usually the most favourable basis of assessment for a married couple or civil partners</seg></tuv>
+  <tuv xml:lang="ga"><seg>De ghnáth is é cóimheasúnú (nó comhiomlánú) an cineál measúnaithe is mó a théann chun tairbhe do lanúin phósta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This option is automatically given by the tax office when you advise them of your marriage or civil partnership but this does not prevent you from choosing any of the options examined earlier</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann an oifig chánach an rogha seo i bhfeidhm go huathoibritheach nuair a chuireann tú iad ar an eolas faoi do phósadh, ach ní chuireann sé sin cosc ort aon cheann de na roghanna a scrúdaíodh cheana a roghnú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under this option, the tax credits and standard rate cut-off point can be allocated between spouses to suit their own circumstances</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoin rogha seo, is féidir le céilí creidmheasanna cánach agus scoithphointe an ráta chaighdeánaigh a dháileadh eatarthu mar a fheileann dá gcás féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If only one spouse/civil partner has taxable income, all tax credits and the standard rate cut-off point will be given to the spouse/civil partner with the income</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna bhfuil ioncam ach ag páirtí amháin, tabharfar na creidmheasanna cánach ar fad agus scoithphointe an ráta chaighdeánaigh don pháirtí leis an ioncam</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If both of you have taxable income, you can decide which of you is to be the assessable spouse/nominated civil partner</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá ioncam incháinithe ag an mbeirt agaibh, tá an rogha agaibh cinneadh a dhéanamh cé hé an páirtí inmheasta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You then ask the tax office to allocate the tax credits and standard rate cut-off point between you in whatever way you wish</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ansin iarrann tú ar an oifig chánach na creidmheasanna cánach agus scoithphointe an ráta chaighdeánaigh a dháileadh oraibh mar is mian libh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(The PAYE tax credit, employment expenses and the increase in standard rate cut-off point of €24,800 in 2017 are not transferable)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Níl an creidmheas cánach ÍMAT, costais fhostaíochta agus scoithphointe bunúsach an ráta chaighdeánaigh de €23,800 i 2014 inaistrithe)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your tax office does not get a request from you to allocate your tax credits in any particular way; the tax office will normally give all the tax credits (other than the other partner's PAYE and expense tax credits) to the spouse/civil partner being assessed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna bhfaigheann an oifig chánach iarratas uaibh ar bhur gcreidmheasanna cánach a dháileadh ar bhealach ar leith, de ghnáth tabharfaidh an oifig chánach na creidmheasanna cánach go léir (seachas creidmheasanna cánach ÍMAT an pháirtí eile agus creidmeasanna cánach costais) don chéile atá á mheasúnú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The spouse/civil partner being assessed must complete the return of income for the couple and is chargeable to tax on the joint income of the couple</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh an céile atá á m(h)easúnú an tuairisceán ioncaim don lanúin a líonadh agus gearrfar cáin air/uirthi ar chomhioncam na lánúine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If one spouse/civil partner is self-employed, joint assessment can still apply</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá céile amháin féinfhostaithe, fós féin is féidir cóimheasúnú a chur i bhfeidhm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The flexibility this option brings can be very convenient - especially if one of you pays tax under the PAYE system and the other pays tax under the self-assessment system</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis an tsolúbthacht a bhaineann leis an rogha seo a bheith an-áisiúil, go háirithe má íocann duine agaibh cáin faoin gcóras ÍMAT agus an duine eile faoin gcóras féinmheasúnaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under joint assessment, you let your circumstances determine if most of the tax should be paid under PAYE or in a lump sum on assessment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoin gcóras cóimheasúnaithe ligtear leat breathnú ar do chúinsí chun an cinneadh a dhéanamh an íocfar an chuid is mó den cháin faoin gcóras ÍMAT nó mar chnapshuim ar mheasúnú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is determined by the way in which the tax credits are allocated</seg></tuv>
+  <tuv xml:lang="ga"><seg>Braitheann sé seo ar an gcaoi ina ndáiltear na creidmheasanna cánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you choose to pay most of your tax under PAYE, the tax credits (apart from the PAYE tax credit and employment expenses), should be offset against the self-assessment income</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má roghnaíonn tú go n-íocfar an chuid is mó den cháin faoin gcóras ÍMAT, ba cheart na creidmheasanna cánach a fhritháireamh i gcoinne an ioncaim fhéinmheasúnaithe, (seachas creidmheas cánach ÍMAT agus costais fhostaíochta)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The choice about who becomes the assessable spouse or nominated civil partner is made by both of you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chaithfidh sibh aon rud a dhéanamh ach a chur in iúl cé a bheidh mar chéile inmheasta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All you need to do is to inform Revenue which of you is to be the assessable spouse or nominated civil partner</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an fhoirm a chaithfidh sibh a líonadh ar fáil sa bhileog ag deireadh na cáipéise seo agus is féidir í a íoschóipeáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have not made your nomination, the spouse or civil partner with the higher income in the latest year for which details of both spouses' incomes are known becomes the assessable spouse or nominated civil partner</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go hidéalach, ba cheart daoibh an céile inmheasta a ainmniú roimh dheireadh na bliana cánach (is é sin 1 Eanáir) chun a bheith cinnte go ndáiltear na creidmheasanna cánach cearta agus scoithphointe an ráta chaighdeánaigh ar na céilí araon ó thús na bliana cánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This person continues to be the assessable spouse/nominated civil partner until both of you jointly elect that the other spouse/civil partner is to be the assessable spouse/nominated civil partner or until either of you opts for either separate assessment or assessment as a single person</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna bhfuil an t-ainmniú déanta agat, is é an céile inmheasta ná an céile inmheasta leis an ioncam is airde sa bhliain dheireanach a bhfuil sonraí ioncam an dá chéile ar fáil di. Fanann an duine seo mar chéile inmheasta go dtí go gcomhchinneann an bheirt agaibh go mbeidh an céile eile mar chéile inmheasta, nó go dtí go roghnaíonn ceachtar agaibh measúnú ar leithligh nó measúnú mar dhuine singil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Repayments that arise from an end of year review will in general be apportioned and repaid on the basis of the tax paid by each spouse/civil partner</seg></tuv>
+  <tuv xml:lang="ga"><seg>De ghnáth roinnfear agus aisíocfar aisíocaíochtaí a éiríonn as athbhreithniú cinn bhliana ar bhonn na cánach a d'íoc gach céile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If both of you are in employment, then a Certificate of Tax Credits is issued to each of you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá an bheirt agaibh fostaithe eisítear Teastas Creidmheasanna Cánach don bheirt agaibh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All of the tax credits and reliefs due to a married couple or civil partners where joint assessment applies are shown on the assessable spouse/nominated civil partner's notice - the amount "allocated to other employments" is also shown</seg></tuv>
+  <tuv xml:lang="ga"><seg>Taispeántar na creidmheasanna cánach agus na faoisimh go léir dlite do lánúin phósta nuair atá cóimheasúnú i bhfeidhm ar fhógra an chéile inmheasta - taispeántar an tsuim "dáilte d'fhostaíochtaí eile" chomh maith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This amount ("allocated to other employments") represents the tax credits that are allocated to the other spouse/civil partner and may also include tax credits that are allocated to a subsidiary employment or pension of either spouse/civil partner</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léiríonn an tsuim seo ("dáilte d’fhostaíochtaí eile") na creidmheasanna cánach a dháiltear don chéile eile agus d'fhéadfadh creidmheasanna cánach dáilte d'fhofhostaíocht nó pinsean ceachtar céile a bheith san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The standard rate cut-off point for married couples/civil partners is €42,800 in 2017</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é scoithphointe an ráta chaighdeánaigh do lánúineacha pósta don bhliain 2014 ná €41,800 ag 20%, fuílleach ag 41%, faoi réir ag méadú suas go uasmhéid €23,800 do lánúineacha dé-ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This amount is taxed at 20% and the balance is taxed at 40%</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá teorainn ar an méadú don cheann is lú,</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The amount of the income of the spouse/civil partner with the smaller income</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ioncam an chéile leis an ioncam is lú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The increase in the standard rate cut-off point interacts with the Home Carer's Tax Credit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Imoibríonn an méadú i scoithphointe an ráta chaighdeánaigh leis an gCreidmheas Cánach do Chúramóir Baile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the increased standard rate cut-off point is more beneficial than the Home Carer's Tax Credit, you can claim the increase instead</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá an méadú i scoithphointe an ráta chaighdeánaigh níos tairbhí duit, áfach, is féidir leat an méadú i scoithphointe an ráta chaighdeánaigh a éileamh in áit an Chreidmheasa Cánach do Chúramóir Baile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As a matter of course, the tax office will grant you whichever is more beneficial to you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa ghnáthchúrsa, tabharfaidh an oifig chánach duit cibé ceann is tairbhí duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>More information is available about the Home Carer's Tax Credit (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir tuilleadh faoi Chreidmheas Cánach do Chúramóir Baile (pdf) a léamh anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Joint assessment: to nominate or change the assessable spouse for 2017, you must contact Revenue before 31 March 2017 - see 'Where to apply' below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cóimheasúnú: Chun an céile inmheasta a ainmniú nó a athrú caithfidh tú dul i dteagmháil leis na Coimisinéirí Ioncaim roimh 31 Márta 2014 – féach ‘Cá háit a ndéanfaidh mé iarratas’ thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can also fill in an Assessable Spouse Election Form (pdf) and send it to Revenue before 31 March 2017</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat an Fhoirm Roghnú Chéile Inmheasta (pdf) a chomhlánú freisin agus í do na Coimisinéirí Ioncaim a sheoladh roimh 31 Márta 2014</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Separate assessment: to be assessed separately from your spouse in 2017, you must contact Revenue between 1 October 2016 and 31 March 2017 - see 'Where to apply' below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Measúnú ar leithligh: Chun iarratas a dhéanamh ar mheasúnú ar leithligh, caithfidh tú dul i dteagmháil leis na Coimisinéirí Ioncaim sa tréimhse idir 1 Deireadh Fómhair 2013 agus 31 Márta 2014 – féach ‘Cá háit a ndéanfaidh mé iarratas’ thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you haven't applied for a joint or separate assessment by the dates set by Revenue, you will have to wait until the following year to apply</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh eolais faoi ghearradh cánach ar dhaoine pósta, le samplaí a léiríonn an chaoi a ngearrfar cáin ar ioncam, ar fáil sa bhileog na gCoimisinéirí Ioncaim IT2 Gearradh Cánach ar Dhaoine Pósta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further information about the taxation of married people and civil partners, with examples showing how income is taxed, is available in the Revenue Commissioners' Leaflet IT2: Taxation of Married Persons and Civil Partners</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá ceisteanna coitianta faoi ghearradh cánach tar éis pósadh tairgthe ag na Coimisinéirí Ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Revenue Commissioners have produced some useful frequently asked questions about taxation following marriage</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cá háit a ndéanfaidh mé iarratas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Lo-call telephone numbers for Revenue regional offices are available on Revenue's website. You can also get contact details for offices in your region</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat sonraí teagmhála níos mionsonraithe na gCoimisinéirí Ioncaim do do réigiún féin a fháil anseo</seg></tuv>
+</tu>
+</body>
+</tmx>

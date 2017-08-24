@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Admissibility of certain witness statements in a criminal trial</seg></tuv>
+  <tuv xml:lang="ga"><seg>Inghlacthacht ráiteas finné áirithe i dtriail choiriúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you make a witness statement to the Gardaí in relation to a crime, the purpose of your statement is to give the Gardaí a written account of what you witnessed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a dhéanann tú ráiteas finné do na Gardaí maidir le coir, is é cuspóir do ráitis cuntas scríofa a thabhairt do na Gardaí ar a raibh tú i d'fhinné</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a suspect is brought before the court, the prosecution will rely on witnesses who made statements to give a personal account to the court of what they witnessed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má thugtar duine atá faoi amhras ciona os comhair na cúirte, beidh lucht an ionchúisimh ag brath ar fhinnéithe a rinne ráitis chun cuntas pearsanta a thabhairt don chúirt faoina bhfaca siad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Sometimes, however, due to intimidation and threats, a person who has made a witness statement to the Gardaí may refuse to give evidence in court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Uaireanta, áfach, mar gheall ar imeaglú nó ar bhagairtí, féadtar go ndiúltaíonn duine a rinne ráiteas finné do na Gardaí fianaise a thabhairt sa chúirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Soetimes the person may provide the court with a different account of events to that which he/she has given in the statement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Uaireanta féadtar go dtugann an duine cuntas ar imeachtaí a dhifríonn ón cheann a thug sé/sí sa ráiteas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The law in this situation is provided for under the Criminal Justice Act 2006 (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar foráil don dlí sa chás seo faoin Acht um Cheartas Coiriúil 2006 (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Section 16 of the 2006 Act allows for your statement to be admitted as evidence in a criminal trial in the following circumstances:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceadaíonn Alt 16 d'Acht 2006 le glacadh le do ráiteas mar fhianaise i dtriail coiriúil sna himthosca a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you refuse to give evidence</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má dhiúltaíonn tú fianaise a thabhairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you deny making the statement</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má shéanann tú go ndearna tú an ráiteas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you give evidence in court which is inconsistent with your statement</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má thugann tú fianaise sa chúirt atá ar neamhréir le do ráiteas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The statement may be admitted as evidence if you confirm, (or it is proven) that you made the statement and the court is satisfied that the statement was made voluntarily and it is reliable</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadtar go nglacfar leis an ráiteas mar fhianaise má dheimhníonn tú (nó má chruthaítear é) go ndearna tú an ráiteas agus má tá an chúirt sásta go ndearnadh an ráiteas go deonach agus go bhfuil sé iontaofa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The court must also be satisfied that your statement was made on oath or affirmation, or contains a statutory declaration by you to the effect that your statement is true</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh an chúirt a bheith sásta go ndearnadh do ráiteas faoi mhionn nó faoi dhearbhú, nó go bhfuil dearbhú reachtúil uait ann a dhearbhaíonn go bhfuil do ráiteas fíor</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Will I have to explain why I am not giving evidence?</seg></tuv>
+  <tuv xml:lang="ga"><seg>An mbeidh orm a mhíniú cén fáth nach bhfuil fianaise á tabhairt agam?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the prosecution applies to the court to have your statement admitted in evidence, the court will seek an explanation from you as to why you are refusing to give evidence or why you are giving evidence which is inconsistent with your statement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má iarrann lucht an ionchúisimh ar an gcúirt go nglacfar le do ráiteas mar fhianaise, iarrfaidh an chúirt míniúchán ort maidir le cén fáth a dhiúltaíonn tú fianaise a thabhairt nó cén fáth a bhfuil fianaise á tabhairt agat atá ar neamhréir le do ráiteas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In a situation where you deny having made the statement, the court will require evidence from you in relation to your denial</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás nuair a shéanann tú go ndearna tú an ráiteas, beidh fianaise de dhíth ar an chúirt uait maidir le do shéanadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Can the court refuse to admit my statement in evidence?</seg></tuv>
+  <tuv xml:lang="ga"><seg>An féidir leis an chúirt mo ráiteas a dhiúltú mar fhianaise?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the court is of the opinion that accepting your statement in evidence would be unfair to the accused (or to any of the accused if there is more than one) or that in the interest of justice it ought not to be admitted, then the court can refuse to admit your statement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá an chúirt den bharúil go mbeadh sé éagórach don chúisí do ráiteas a ghlacadh mar fhianaise (nó do dhuine ar bith de na cúisithe má tá níos mó ná cúisí amháin ann) nó gur chóir gan é a ghlacadh mar gheall ar leas an cheartais, is féidir leis an chúirt do ráiteas a dhiúltú mar sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The court has a wide discretion as to whether or not to accept your statement in evidence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá discréid leathan ag an chúirt maidir le cé acu an nglactar nó nach nglactar le do ráiteas mar fhianaise</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For more detailed information you should seek legal advice</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir duit comhairle dlí a lorg chun faisnéis mionsonraithe a fháil</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Office of the Court of Appeal – Criminal and Military</seg></tuv>
+  <tuv xml:lang="ga"><seg>Oifig na Cúirte Achomhairc – Choiriúil agus Míleata</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Office of the Court of Appeal:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn Oifig na Cúirte Achomhairc:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Provides administrative support to the Court of Appeal,</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag cur tacaíocht riarthach ar fáil don Chúirt Achomhairc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Processes appeals from decisions of the Central Criminal Court, the Circuit Criminal Court and the Special Criminal Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag próiseáil achomhairc ó chinneadh de chuid na Cúirte Lárnach Coiriúil, na Cúirte Chuarda Choiriúil agus na Cúirte Speisialta Choiriúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Deals with courts martial appeals to the Court of Appeal</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag láimhseáil achomhairc cúirt airm chuig Cúirt Achomhairc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further information is available from the Office of the Court of Appeal for criminal and courts martial appeals</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh eolais ar fáil ó Oifig na Cúirte Achomhairc maidir le hachomhairc coiriúla agus cúirt airm</seg></tuv>
+</tu>
+</body>
+</tmx>

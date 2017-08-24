@@ -1,0 +1,229 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Moneylending is the practice of giving cash loans or supplying goods or services repaid at a high level of interest over a short period of time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is í an iasachtú airgid an nós iasachtaí airgid a thabhairt nó earraí nó seirbhísí a chur ar fáil a aisíoctar ar leibhéal ard úis laistigh de tamall gearr</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Banks, building societies, insurance companies and credit unions are not considered moneylenders</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mheastar bainc, cumainn fhoirgníochta, comhlachtaí árachais ná comhar chreidmheasa a bheith iasachtóírí airgid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Moneylenders are generally either individuals or companies whose main business is to lend money</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iasachtú airgid iad daoine nó comhlachtaí gurb é a bpríomhghnó é airgead a thabhairt ar iasacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They are required to hold a licence to trade in moneylending</seg></tuv>
+  <tuv xml:lang="ga"><seg>Banc Ceannais na hÉireann imeachtaí úsairí agus is é atá freagrach as ceadúnais úsaireachta a eisiúnt in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Central Bank of Ireland regulates the activities of moneylenders and is responsible for issuing moneylending licences in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rialaíonn Banc Ceannais na hÉireann gníomhaíochtaí iasachtóirí airgid agus tá sé freagrach as ceadúnais iasachtaithe airgid a eisiúint in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Central Bank (before granting a moneylending licence), will take into consideration a wide range of factors, including the trading background and reputation of the moneylender and the cost of credit that is proposed to be charged</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sula gcuireann Banc Ceannais ceadúnas iasachtóra airgid ar fáil, cuirfidh sé réimse leathan rudaí san áireamh, a chuimseoidh cúlra trádála agus cáil an iasachtoir airgid agus an costas atá molta don chreidmheas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Licences are renewed each year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar athnuachán ar cheadúnais gach bliain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Central Bank maintains a register of licensed moneylenders</seg></tuv>
+  <tuv xml:lang="ga"><seg>Coimeádann an Banc Ceannais clár d’iasachtóirí ceadúnaithe airgid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A moneylending agreement is defined as a credit agreement where one or more of the following apply:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an sainmhíniú a thugtar ar chomhaontú iasachtaithe airgid ná comhaontú ina mbaineann ceann amháin nó níos mó den mhéid a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The agreement was concluded away from the business premises of the moneylender or the business premises of the supplier of goods or services under the agreement</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tugadh an comhaontú chun conclúide amuigh ó áitreabh gnó an iasachtóra airgid nó áitreabh gnó sholáthraí na n-earraí nó na seirbhísí faoin gcomhaontú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Any negotiations for, or in relation to the credit, were conducted at a place other than the business premises of the moneylender or the business premises of the supplier of goods or services under the agreement</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tugadh aon idirbheartaíochtaí don chreidmheas, nó maidir leis an gcreidmheas, chun conclúide ag áit eile seachas áitreabh gnó an iasachtóra airgid nó áitreabh gnó sholáthraí na n-earraí nó na seirbhísí faoin gcomhaontú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Repayments under the agreement will, or may, be paid by the consumer to the moneylender or their representative at any place other than the business premises of the moneylender or the business premises of the supplier of goods or services under the agreement</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tugadh aon idirbheartaíochtaí don chreidmheas, nó maidir leis an gcreidmheas, chun conclúide ag áit eile seachas áitreabh gnó an iasachtóra airgid nó áitreabh gnó sholáthraí na n-earraí nó na seirbhísí atá faoin gcomhaontú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Where the total cost of credit to the consumer under the agreement is in excess of an APR of 23% or such other rate as may be prescribed</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sa chás gurb ionann costas iomlán an chreidmheasa ar an gcustaiméir faoin gcomhaontú agus breis agus Ráta Céatadánach Bliantúil 23% nó ráta eile a d’fhéadfaí a leagan síos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the Central Bank’s Consumer Code for Licensed Moneylenders you must get detailed information about the loan in your lending agreement and your money lender must also tell you that the loan has a high cost</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi Chód Tomhaltóirí um Iasachtóirí Airgid an Bhainc Cheannais, ní mór duit faisnéis mhionsonraithe a fháil faoin iasacht i do chomhaontú iasachtaithe agus ní mór do d’iasachtóir airgid a insint duit, chomh maith, go bhfuil ardchostas ar an iasacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The lending agreement must:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don chomhaontú iasachtaithe:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Be in writing and include the names and addresses of all parties to the agreement</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bheith i scríbhinn agus ní mór ainmneacha agus seoltaí na bpáirtithe uile leis an gcomhaontú a áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Show the total amount lent, the rate of interest, the total amount payable (the cost of credit) plus any collection charges that may apply</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An méid iomlán a tugadh ar iasacht, an ráta úis, an méid iomlán atá iníoctha (costas an chreidmheasa) mar aon le haon mhuirir bhailithe a d’fhéadfadh bheith i gceist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The lender cannot add other charges, such as administrative or transaction costs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leis an iasachtóir muirir eile a chur leis, ar nós costais riaracháin nó idirbhirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Be signed by both the lender and the customer</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bheith sínithe ag an iasachtóir agus an custaiméir araon</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Notify you of your right to a ten day "cooling-off" period in which you can inform the lender in writing that you have decided not to proceed with the loan</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Thú a chur ar an eolas faoin gceart atá agat chun ré “aithrí” deich lá a bheith agat inar féidir leat an t-iasachtóir a chur ar an eolas i scríbhinn go ndearna tú an cinneadh gan leanúint ar aghaidh leis an iasacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a moneylender and you agree that that neither wish to observe the ten-day cooling-off period, you must sign a separate part of the agreement stating that you consent to waiving your right to a cooling off period</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chomhaontaíonn iasachtóir agus tú féin nach mian le ceachtar agaibh cloí leis an ré aithrí deich lá, ní mór duit cuid eile den chomhaontú a shíniú ina luann tú go dtugann tú toiliú go dtarscaoiltear an ceart atá agat chun ré aithrí a bheith agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must also get a repayment book, separate to the lending agreement, which states the total amount of the loan and the total number of repayments due</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit leabhar aisíocaíochta a fháil, chomh maith, amach ón gcomhaontú iasachtaithe, ina luaitear méid iomlán na hiasachta agus líon iomlán na n-aisíocaíochtaí atá le híoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Each time you make a payment the amount and date must be written into the book</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gach uair a dhéanann tú íocaíocht, ní mór an méid agus an dáta a bhreacadh síos sa leabhar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some moneylenders issue loan statements instead of a repayment book, which set out the same information</seg></tuv>
+  <tuv xml:lang="ga"><seg>Eisíonn roinnt iasachtóirí airgid ráitis iasachta seachas leabhar aisíocaíochta, ina leagtar amach an fhaisnéis chéanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The moneylender must keep a record of each lending agreement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don iasachtóir airgid taifead a choimeád ar gach comhaontú iasachtaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Many moneylenders collect loan payments in cash each week, and include a collection charge for this service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn a lán iasachtóirí airgid ag iarraidh íocaíochtaí iasachta airgid tirim a bhailiú óna gcustaiméirí gach seachtain, agus iarrann siad táillí ar an tseirbhís seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(You must be given the option of paying at the moneylender’s business premises to avoid the collection charge.) Some money lenders allow you to pay by direct debit</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Ní mór go dtabharfar an rogha duit chun íocaíocht a dhéanamh ag áitreabh gnó an iasachtóra chun an muirir bailithe a sheachaint). Ceadaíonn roinnt iasachtóirí airgid duit íoc trí dhochar díreach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Any collection charges must be outlined in the lending agreement before you sign it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór aon táillí a bheidh i gceist a insint don chustaiméir ina c(h)onradh iasachtaithe airgid roimh dhó nó dhi é a shíniú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the moneylender is sending an agent to the customer's house, the agent must have written authorisation from the moneylender to do so (generally in the form of an ID card)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá an t-iasachtóir airgid ag cur gníomhaire chuig teach an chustaiméara, ní foláir don ghníomhaire údarás scríofa óniasachtóir airgid a bheith aige chun é sin a dhéanamh, (go ginearálta i bhfoirm chárta aitheantais)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The agent is only allowed to collect repayments and cannot initiate new loans</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní ligtear don ghníomhaire ach aisíochtaí a bhailiú; ní féidir leis tús a chur le hiasachtaí nua</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The moneylender or their agent can only call to your home from Monday to Saturday between 10am to 9pm</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leis an iasachtóir airgid nó a ngníomhaire cuairt a thabhairt ar do theach idir Dé Luain agus Dé Sathairn idir 10am agus 9pm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have agreed in writing beforehand collection can be allowed between 8am and 10am</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chomhaontaigh tú i scríbhinn roimh ré, is féidir bailiú a cheadú idir 8am agus 10am</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A money lender cannot contact you on Sundays and public holidays and they cannot contact your employer or your family without your written permission</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir le hiasachtóir airgid teagmháil a dhéanamh leat ar an Domhnach agus ar shaoirí poiblí agus ní féidir leo teagmháil a dhéanamh le d’fhostóir nó le do theaghlach gan cead scríofa a bheith faighte acu uait</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under Section 11 of the Non-Fatal Offences Against the Person Act 1997 it is an offence to demand payment of a debt in a way designed to alarm, distress or humiliate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi Alt 11 den Acht um Chionta Neamh-mharfacha in aghaidh an Duine 1997, is cion é íocaíocht fiachais a éileamh ar bhealach atá deartha chun buairt, anacair nó náire a chruthú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This also covers both blackmail and extortion</seg></tuv>
+  <tuv xml:lang="ga"><seg>Clúdaítear dúmhál agus sracadh araon faoin acht seo freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(Extortion means using intimidation or the threat of violence to obtain money, information or anything else of value from another person)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Ciallaíonn dúmhál imeaglú nó bagairt fhoréigin chun airgead, faisnéis nó rud ar bith eile atá luachmhar a fháil ó dhuine eile)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read more about debt collection</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leigh tuilleadh faoi bhailiú fiach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A moneylender's loan will generally have a higher APR (Annual Percentage Rate) than a credit union or bank loan</seg></tuv>
+  <tuv xml:lang="ga"><seg>De ghnáth bíonn Ráta Bliantúil Céatadáin (APR) níos airde ar iasacht ó iasachtóir airgid ná mar atá ar iasacht ó chomhar creidmheasa nó banc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The APR is at least 23% and may be much more in some cases</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn an RBC 23% ar a laghad agus i gcásanna áirithe d’fhéadfadh sé a bheith níos airde</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As with all loans, consumers should look at the total cost of the loan. That is, the amount of extra money that has to be paid back over and above the amount of the original loan</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart do thomaltóirí i gcás iasachta ar bith breathnú ar chostas iomlán na hiasachta – is é sin an méid airgid sa bhreis a chaithfear a aisíoc thar mhéid na buniasachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The amount you have to pay back on a moneylending loan stays the same no matter how long it takes to pay the loan back</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fanann an méid atá le haisíoc agat mar a chéile is cuma cé chomh fada agus a thógann sé an iasacht a aisíoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is because moneylenders are not allowed to charge any extra interest or charges over and above what they are licensed to charge and what they have stated they will charge at the start of the loan</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé amhlaidh ós rud é nach bhfuil cead ag iasachtóirí airgid ús ar bith sa bhreis ná táillí a ghearradh thar an méid a bhfuil ceadúnas acu a ghearradh agus a dúirt siad a ghearrfhadh siad ag tús na hiasachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Moneylenders are not allowed to offer top-up loans or a second loan to pay off the first loan that will place the customer further in debt</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní cheadaítear d’iasachtóirí airgid iasachtaí breisithe nó an dara hiasacht a chur ar tairiscint chun an chéad iasacht a íoc, a chruthóidh breis fiachais don chustaiméir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Moneylenders are also not allowed to take an amount from the overall loan and treat it as a first repayment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní cheadaítear d’iasachtóirí airgid, chomh maith, méid a ghlacadh ón iasacht fhoriomlán agus caitheamh leis mar an gcéad aisíocaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a customer fails to pay one or more instalments due under the lending agreement, legal action may be taken by the moneylender</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má theipeann ar chustaiméir gála amháin nó níos mó ná sin atá le teacht de réir an chonartha iasachtaithe a íoc, is féidir leis an iasachtóir airgid an dlí a chur chun a bhris a chúiteamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The moneylender must serve the customer with a notice in writing stating that legal action will be taken and giving an estimate of the legal costs the customer may have to pay</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá an t-iasachtóir airgid chun an dlí a chur in aghaidh custaiméara, ní mór dó/di an custaiméir a sheirbheáil le fógra scríofa ag cur in iúl dó/di go gcuirfear an dlí air/uirthi agus ag tabhairt meastacháin ar na costais dlíthiúla a bhféadfadh a bheith le n-íoc ag an gcustaiméir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The customer has 21 days after being served with the notice to pay the instalments before legal action can be taken, although if a customer persistently fails to pay instalments during the period of the loan, the moneylender may get permission from the courts to waive this waiting period</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá 21 lá ag an gcustaiméir tar éis dó/di an fógra a fháil na gálaí a íoc sula bhféadtar an dlí air/uirthi, cé gur féidir leis an iasachtóir airgid cead a fháil ó na cúirteanna an tréimhse feithimh seo a tharscaoileadh má theipeann ar an gcustaiméir gálaí a íoc arís agus arís eile le linn tréimhse na hiasachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Illegal or unlicensed trading</seg></tuv>
+  <tuv xml:lang="ga"><seg>Trádáil neamhdhlíthiúil nó gan cheadúnas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is unlawful to provide someone with moneylending services without a moneylender's licence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé neamhdhleathach seirbhísí iasachtaithe airgid a sholáthar d'éinne gan cheadúnas iasachtaithe airgid </seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Central Bank and Irish Financial Services Regulatory Authority Act 2003 increased the penalties on conviction of illegal trading in moneylending to a fine of up to €63,486.90 and/or up to 5 years imprisonment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mhéadaigh Acht an Bhainc Cheannais agus Údaráis Rialacháin Seirbhísí Airgeadais na hÉireann 2003 na píonóis ar chiontú i dtrádáil neamhdhlíthiúil san úsaireacht go fíneáil suas le €63,486.90 agus/nó suas le cúig bliana príosúnachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you believe you have dealt with an illegal moneylender or know the identity of someone you believe to be an illegal moneylender, you should contact either the Competition and Consumer Protection Commission or your local Garda station</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chreideann duine éigin go bhfuil sé/sí tar éis déileáil le hiasachtóír airgid neamhdhlíthiúil nó má tá aithne aige/aici ar dhuine éigin go gcreideann siad gur iasachtóír airgid neamhdhlíthiúil é/í, ba chóir dó/di teagmháil a dhéanamh le Coimisiún um Iomaíocht agus Cosaint Tomhaltóirí nó an stáisiún Garda áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Only the Gardai can take legal action against illegal moneylenders, but the Competition and Consumer Protection Commission can give advice on whether the moneylender is trading illegally and how to proceed with your complaint</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl cead ach ag na Gardaí an dlí a chur ar úsairí neamhdhlíthiúla, ach is féidir le Coimisiún um Iomaíocht agus Cosaint Tomhaltóirí comhairle a thabhairt don chustaiméir an bhfuil an t-iasachtóir ag trádáil go neamhdhlíthiúil agus conas is féidir leanúint ar aghaidh lena g(h)earán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are experiencing difficulty in paying off a loan, you should contact your moneylender as soon as you can</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá deacracht agat le hiasacht a íoc, ba cheart duit teagmháil a dhéanamh le d’iasachtóir airgid a luaithe is féidir leat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you cannot resolve the matter directly with your moneylender, you can get help by contacting the Money Advice and Budgeting Service, a free and confidential service for people in Ireland with debt or money management problems</seg></tuv>
+  <tuv xml:lang="ga"><seg>Murar féidir leat an cheist a réiteach go díreach le d’iasachtóir airgid, féadfaidh tú cabhair a fháil trí theagmháil a dhéanamh leis an tSeirbhís Bhuiséadta agus Chomhairle Airgid, seirbhís saor in aisce agus rúnda a sholáthraítear do dhaoine in Éirinn a bhfuil fadhbanna fiachais nó bainistithe airgid</seg></tuv>
+</tu>
+</body>
+</tmx>

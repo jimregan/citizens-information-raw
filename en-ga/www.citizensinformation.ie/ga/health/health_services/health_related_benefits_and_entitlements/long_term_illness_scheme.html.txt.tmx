@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>People suffering from certain conditions can get free drugs, medicines and medical and surgical appliances for the treatment of that condition</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadann daoine a fhulaingíonn ó riochtaí áirithe na drugaí, na cógais agus na fearais leighis agus máinliachta um chóireáil an reachta sin a fháil saor in aisce</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These are provided under the Long Term Illness Scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Soláthraítear na drugaí, cógais agus fearais saora seo faoi Scéim na dTinneas Fadtéarmach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This scheme is administered by the Health Service Executive (HSE), under Section 59 of the Health Act 1970</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é Feidhmeannacht na Seirbhíse Sláinte a riarann an scéim seo, faoi Alt 59 den Acht Sláinte 1970</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Long Term Illness Scheme does not depend on your income or other circumstances</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuimhnigh nach mbraitheann Scéim na dTinneas Fadtéarmach ar d’ioncam ná ar chúinsí eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may also be eligible for a Medical Card or GP visit card, depending on your circumstances</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir go mbeidh tú incháilithe freisin le haghaidh Cárta Leighis nó Cárta Cuairte ar Dhochtúir Ginearálta, ag brath ar do chuid cúinsí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The medical conditions that qualify under the Long Term Illness Scheme are:</seg></tuv>
+  <tuv xml:lang="ga"><seg>I measc na galair seo tá:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Mental illness (for people under 16 only)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tinneas intinne (do dhaoine faoi 16 d'aois amháin)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Conditions arising from use of Thalidomide</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Reachta de thoradh Tailídimíde</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you qualify, you will get a long-term illness book</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú i dteideal na scéime, éisíotar duit leabhar tinneas fadtéarmach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This book lists the drugs and medicines for the treatment of your condition, which will be provided to you free of charge through your pharmacist</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn liosta sa leabhar seo de na drugaí agus leigheasanna a theastaíonn chun cóir leighis a chur orthu, agus cuirfear iad seo ar fáil dóibh saor in aisce tríd an bpoitigéir áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You do not have to pay a prescription charge for drugs covered by your long-term illness book</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní gá duit táille oidis a íoc i gcás drugaí atá clúdaithe ag do leabhar tinnis fhadtéarmaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Other drugs and medicines not related to the specified condition must be paid for in the normal way</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit íoc na drugaí agus leigheasanna nach bhfuil bainteach leis an riocht sonraithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your doctor or occupational therapist prescribes a medical or surgical appliance, it will be supplied to you from your Local Health Office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má scríobhann do dhochtúir nó do theiripeoir saothair oideas um fhearas leighis nó máinliachta, soláthrófar duitse é ó d’Oifig Sláinte Áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Non-medical card holders, non-GP visit card holders and conditions not covered under Long Term Illness</seg></tuv>
+  <tuv xml:lang="ga"><seg>Neamhshealbhóirí chárta leighis, neamhshealbhóirí chárta cuairte dochtúra agus ríochtaí leighis nach gcumhdaítear faoin Tinneas Fadtéarmach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have neither a medical card, nor a GP visit card nor a medical condition listed above, you can use the Drugs Payment Scheme to limit your expenses on prescription drugs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil cárta leighis ná cárta cuairte dochtúra ná riocht leighis a liostaítear thuas agat, féadann tú leas a bhaint as Scéim na nÍocaíochtaí Drugaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can get an application form from your Local Health Office or download an application form (pdf) and return it to your Local Health Office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir an fhoirm a fháil ó d'Oifig Sláinte Áitiúil nó íoslódáil foirm iarratais (pdf) agus seol ar ais í chuig an Oifig Sláinte is gaire duit</seg></tuv>
+</tu>
+</body>
+</tmx>

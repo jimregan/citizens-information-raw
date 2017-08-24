@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Checklist of things to do following a bereavement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seicliosta de nithe le déanamh ag lucht méala tar éis báis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Register the death and obtain a death certificate</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Téigh i dteagmháil le stiúrthóir sochraide chun an tsochraid a eagrú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Contact a funeral director to arrange the funeral</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cuir fios ar aturnae an duine éagtha má tá a leithéid ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Notify the deceased's solicitor if there is one</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cuir fios ar na seiceadóirí atá ainmnithe san uacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Notify the executors named in the will</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cealaigh polasaithe árachais, árachas sláinte, srl</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If there is no will, decide who to appoint as administrator to administer the deceased's estate</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Déan teagmháil leis an Roinn Coimirce Sóisialaí má bhí an duine éagtha ag fáil íocaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Notify banks, building society, credit union, post office, companies in which shares are held, etc</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Déan teagmháil leis An Post le haghaidh post a athdhíriú ar an seiceadóir nó ar riarthóir an eastáit.   Ilghnéitheach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Cancel Direct Debits/Standing Orders in the deceased's bank or building society</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cuir fostóir an duine éagtha ar an eolas má b'fhostaí é/í nó cuir an scoil / coláiste ar an eolas má bhí sé/sí sa chóras oideachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Cancel subscriptions to clubs/groups/magazines, etc</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Déan teagmháil leis an dochtúir/ospidéal má bhí coinní ag an duine éagtha leo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Cancel insurance policies, health insurance etc</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Déan teagmháil le gníomhaireacht taistil, le hóstán, le haerlíne, srl</seg></tuv>
+</tu>
+</body>
+</tmx>

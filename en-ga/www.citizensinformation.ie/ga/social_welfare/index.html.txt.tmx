@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>• Irish social welfare system</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Córas Leasa Shóisialaigh na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most Read in "Social Welfare"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ábhar is mó éilimh i "Leas Sóisialach"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Back to School Clothing and Footwear Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Liúntas Éadaí agus Coisbhirt chun Filleadh ar Scoil</seg></tuv>
+</tu>
+</body>
+</tmx>

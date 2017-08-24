@@ -1,0 +1,353 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Value Added Tax (VAT) is a tax charged on the sale of goods or services and is included in the price of most products and services that we use every day</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is modh amháin é CBL a úsáideann an Rialtas chun ioncam a chruthú le caitheamh ar sheirbhísí eile, cosúil le seirbhísí oideachais agus sláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>VAT is a tax on consumer spending so everyone who pays for good and services pays VAT</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is cáin ar chaiteachas tomhaltóirí í CBL mar sin íocann gach duine a íocann as earraí agus seirbhísí CBL</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is built into the cost of many commonly consumed items such as clothing and petrol, so you don’t see what percentage of VAT you are paying</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis a bheith cuimsithe sa chostas atá ar go leor rudaí a úsáidtear go minic, cosúil le bia, éadaí agus peitreal, mar sin ní fheiceann tú an céatadán CBL atá á íoc agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, when you are buying items such as computers, electricity and professional services, you will see the amount of VAT and the rate at which you are being charged on your bill</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair atá tú ag ceannach rudaí cosúil le ríomhairí, leictreachas agus seirbhísí gairmiúla, áfach, feicfidh tú an méid CBL agus an ráta atá á ghearradh ort ar do bhille</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>How VAT is charged?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Conas a ghearrtar CBL?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>VAT is charged at every stage of sale where the cost of an item is increased</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gearrtar CBL ag gach céim den díolachán nuair a thagann ardú ar chostas an ruda</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The standard rate of VAT is 23%</seg></tuv>
+  <tuv xml:lang="ga"><seg>'Sé an gnáthráta CBL 23%</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A manufacturer sells a television to a wholesaler for €100 and charges him VAT on that amount at 23%</seg></tuv>
+  <tuv xml:lang="ga"><seg>Díolann déantúsóir teilifís le mórdhíoltóir ar €100 agus gearrtar CBL air ar an méid sin ag 23%</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Therefore, the wholesaler pays €123 for the television</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin, íocann an mórdhíoltóir €123 as an teilifís</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The manufacturer then pays the VAT of €23 to the government</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocann an déantúsóir €23 CBL leis an rialtas ansin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The wholesaler goes on to sell the television to a retailer for €200</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina dhiaidh sin díolann an mórdhíoltóir an teilifís le miondíoltóir ar €200</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He adds on VAT at 23%, so the retailer pays a total of €246</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirtear CBL leis ag 23%, mar sin íocann an miondíoltóir €246 san iomlán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The wholesaler must pay the government the VAT of €46, but he can reclaim the €23 VAT he has already paid to the manufacturer, leaving €23, which he pays to the government</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh an mórdhíoltóir €46 CBL a íoc leis an rialtas, ach is féidir leis an €23 CBL atá íoctha leis an déantúsóir cheana féin a athéileamh, rud a fhágann €23, agus íoctar é seo leis an rialtas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When the retailer comes to sell the television to a consumer, he must also add on VAT to his selling price</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a dhíolfaidh an miondíoltóir an teilifís le tomhaltóir, beidh air an CBL a chur leis an bpraghas díolacháin freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He sells the television for €300, plus VAT at 23%, making a selling price of €369 for the consumer</seg></tuv>
+  <tuv xml:lang="ga"><seg>Díolann sé an teilifís ar €300, móide CBL ag 23%, rud a chiallaíonn go bhfuil praghas díolacháin de €369 le híoc ag an tomhaltóir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The retailer must pay the VAT to the government but he can claim back the €46 VAT that he paid to the wholesaler, leaving €23 for the government</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh an miondíoltóir an CBL a íoc leis an rialtas ach is féidir leis an €46 CBL atá íoctha aige leis an mórdhíoltóir a athéileamh, rud a fhágann €23 don rialtas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The government has now received 23% on the price paid for the television by the consumer (€69)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá 23% faighte ag an rialtas anois ar an bpraghas a d’íoc an tomhaltóir as an teilifís (€69)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The retailer, wholesaler and manufacturer only paid the amount of VAT they charged to the next group down the line</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níor íoc an miondíoltóir, an mórdhíoltóir agus an déantúsóir ach an méid CBL a ghearr siad ar an gcéad ghrúpa eile ina ndiaidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This section only deals with VAT for private individuals who buy goods for personal use</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhaineann an chuid seo ach le CBL do dhaoine aonair príobháideacha a cheannaíonn earraí dá n-úsáid phearsanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In general, you have to pay VAT and import duty on any goods you are bringing into Ireland from outside the EU</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, caithfidh tú CBL agus dleacht iompórtála a íoc ar earraí ar bith atá á thabhairt isteach go hÉirinn agat ó taobh amuigh den AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This includes goods purchased online and by mail order</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuimsíonn sé seo earraí a cheannaítear ar líne agus trí phostdíol</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will have to pay VAT at the same rate as applies in Ireland for similar goods</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh ort CBL a íoc ag an ráta céanna agus atá infheidhmithe in Éirinn d’earraí cosúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Within the EU, VAT is usually paid in the member state you purchased the goods, however, there are some exceptions - see below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Laistigh den AE, íoctar CBL go hiondúil sa Bhallstát ina gceannaítear na hearraí, tá roinnt eisceachtaí leis seo áfach (féach thíos)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you buy online or by mail order etc</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má cheannaíonn tú ar líne nó trí phostdíol srl</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>From outside the EU</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó taobh amuigh den AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can buy goods from outside the EU up to a value of €22 without incurring any VAT charges</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir earraí a cheannach ó taobh amuigh den AE suas le luach €22 gan aon mhuirear CBL a bheith ort</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Goods up to a value of €150 may be imported without payment of customs duty</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir earraí a allmhairiú suas le luach €150 gan aon dleacht Custaim a bheith ort</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To avoid these packages being stopped by Customs, the value should be clearly marked on the label</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ionas nach stopfaidh lucht Custaim na pacáistí seo, ba chóir an luach a bheith le feiceáil go soiléir ar an lipéad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, VAT and import duty is charged on importations of tobacco, tobacco products, alcoholic product and perfumes even if they cost less than €22</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gearrtar CBL agus dleacht iompórtála ar thobac, táirgí tobac, táirgí alcólacha agus cumhráin áfach, fiú má tá costas níos lú ná €22 orthu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Revenue Commissioners provide a guide to the reliefs available for imports from non-EU countries</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann na Coimisinéirí Ioncaim Treoir maidir leis na faoisimh atá ar fáil d'iompórtáil ó thíortha lasmuigh den CE ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your online purchase costs more than €22 you will have to pay VAT</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá costas os cionn €22 ar a gceannaítear ar líne, beidh ort CBL a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your online purchase costs more than €150 you will have to pay VAT and customs duty</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá costas os cionn €150 ar a gceannaítear ar líne, beidh ort CBL a íoc chomh maith le dleacht Custaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This will be collected by the company that delivers your parcel</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baileoidh an chuideachta a dhéanfaidh do bheart a sheachadadh é seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The company usually have an administration charge</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go hiondúil gearrfaidh an chuideachta muirear riaracháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Methods of delivery and collection differ from company to company, so you should contact them directly for more information</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn modhanna seachadta agus bailiúcháin difriúla ag gach cuideachta, mar sin ba chóir duit dul i dteagmháil leo go díreach chun tuilleadh faisnéise a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>From another EU Member State</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó bhallstát eile an AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if the supplier that you are buying the goods from has not exceeded the Distance Sales Threshold in Ireland then you will pay VAT at the rate appropriate to that product in the member state of purchase</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má sheoltar earraí chugat ó bhallstát eile beidh sé ag brath ar an méid trádála a dhéanann an soláthraí le hÉirinn cibé an íocfaidh tú CBL anseo nó sa bhallstát sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will usually be informed of the amount of VAT payable at checkout</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá leibhéal ard trádála ag an soláthraí le hÉirinn is féidir go n-íocfaidh tú CBL anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Excisable products (for example, alcohol, tobacco and oil) purchased within the EU via the internet or by mail are subject to excise duty and VAT</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá táirgí inmháil (mar shampla, alcól, tobac agus ola) a cheannaítear laistigh den AE ar an idirlíon nó tríd an bpost faoi réir ag dleacht mháil agus CBL</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Traveling with your purchases</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag taisteal lena cheannaigh tú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>From outside the EU</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó taobh amuigh den AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can buy and bring your goods (other than tobacco and alcohol products) from a non-EU State into Ireland without incurring any taxes, if the value of your goods does not exceed:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat d’earraí a cheannach agus a thabhairt ó Stát laistigh den AE go hÉirinn gan cháin a bheith gearrtha ort, más rud é nach sáraíonn luach d’earraí:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• €430 in the case of an individual aged 15 years or over</seg></tuv>
+  <tuv xml:lang="ga"><seg>• €430 i gcás duine aonair 15 bliana d’aois nó níos sine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• €215 in the case of an individual aged under 15 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>• €215 i gcás duine aonair faoi bhun 15 bliana d’aois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Anything in excess of the amounts shown above will be liable for VAT and customs duty</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh dliteanas CBL agus dleacht chustaim ar aon rud níos mó ná an méid a thaispeántar thuas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you bring in an item worth more than the relevant limit of €430 or €215, you must pay import charges on the full value</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má thugtar isteach rud a bhfuil luach níos mó aige ná an teorainn ábhartha de €430 nó €215, beidh ort muirir iompórtála a íoc ar an luach iomlán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Revenue Commissioners have published information for travellers arriving in Ireland from countries outside the European Union</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhoilsigh na Coimisinéirí Ioncaim faisnéis do thaistealaithe atá ag teacht go hÉirinn ó thíortha lasmuigh den Aontas Eorpach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>From another EU Member State</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó bhallstát eile an AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are no limits on what private people can buy and take with them when they travel between EU countries, as long as the products purchased are for personal use and not for resale, with exception of new means of transport (for example, a car)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl teorainn ar bith lenar féidir le daoine príobháideacha a cheannach agus a thabhairt leo agus iad ag taisteal idir tíortha an AE, chomh fada agus go gceannaítear na táirgí le húsáid go pearsanta agus ní le hathdhíol, ach amháin i gcás modh iompair nua (carr, mar shampla)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>VAT is included in the price of the product in the member state and no further payment of taxes including VAT can be charged here in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá CBL san áireamh i bpraghas an táirge sa bhallstát agus ní féidir íocaíocht bhreise cánacha, CBL san áireamh, a ghearradh anseo in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, special rules apply in the case of goods subject to excise duty, such as alcoholic beverages and tobacco products</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá rialacha speisialta i bhfeidhm maidir le hearraí atá faoi réir ag dleacht mháil áfach, cosúil le deochanna meisciúla agus táirgí tobac</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Revenue Commissioners have published information for travellers arriving in Ireland from member states of the European Union</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhoilsigh na Coimisinéirí Ioncaim faisnéis do thaistealaithe atá ag teacht go hÉirinn ó bhallstáit an Aontais Eorpaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Gifts from outside the EU</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bronntanais ó taobh amuigh den AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can receive a gift from outside the EU up to the value of €45 without incurring import charges</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat bronntanas a fháil ó taobh amuigh den AE suas go luach €45 gan muirir iompórtála a bheith ort</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, the gift must be correctly declared</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfear an bronntanas a fhógairt i gceart áfach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>More information is available in Revenue’s Guide to Relief available for imports from non-EU countries</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh faisnéise ar fáil sa Treoir maidir le Faoiseamh atá ar fáil d’iompórtáil ó thíortha lasmuigh den CE ó na Coimisinéirí Ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>VAT on residential property</seg></tuv>
+  <tuv xml:lang="ga"><seg>CBL ar réadmhaoin chónaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The following rules apply:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ón 1 Iúil 2008 i leith, beidh na rialacha seo i bhfeidhm:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you are buying a new house from a builder or developer, you will be charged VAT at 13.5%</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Más ag ceannach teach nua ó thógálaí/fhorbróir atá tú, gearrfar CBL ort ag 13.5%</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you are buying or selling an ‘old’ or existing property, you do not have to pay VAT</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Más ag ceannach nó ag díol ‘sean’ réadmhaoin nó ceann reatha atá tú, ní bheidh ort CBL a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you are a landlord, you cannot charge VAT on rent from residential property</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má tá tú i do thiarna talún, ní féidir leat CBL a ghearradh ar chíos ó réadmhaoin chónaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you buy a site for a house from a landowner, you do not have to pay VAT unless you have an agreement with both the landowner and a builder to develop the site</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má cheannaíonn tú suíomh tí ó úinéir talún, ní bheidh ort CBL a íoc ach amháin má tá comhaontú agat leis an úinéir talún agus le tógálaí araon forbairt a dhéanamh ar an suíomh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>VAT is charged at different rates for various goods and services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gearrtar CBL ag rátaí difriúla d’earraí agus seirbhísí éagsúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can get an extensive list of VAT ratings from the Revenue Commissioners</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat liosta cuimsitheach de na rátaí CBL a fháil ó na Coimisinéirí Ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>23% is the standard rate of VAT and all goods and services that do not fall into the reduced rate categories are charged at this rate</seg></tuv>
+  <tuv xml:lang="ga"><seg>23%: Seo an ráta caighdeánach CBL agus gearrtar CBL ag an ráta seo ar gach earra agus seirbhís nach dtagann faoi chatagóirí na rátaí laghdaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They include alcohol, audio-visual equipment, car parts and accessories, CDs, computers, consultancy services, cosmetics, detergents, diesel, fridges, furniture and furnishings, hardware, jewellery, lawnmowers, machinery, medicines (non-oral), office equipment, pet food, petrol, paper, tobacco, toys, tools, washing machines, bottled water</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áirítear leo alcól, trealamh físamhairc, páirteanna agus oiriúintí carranna, CDanna, ríomhairí, seirbhísí comhairliúcháin, cosmaidí, glantóirí, díosal, cuisneoirí, trealamh agus feistis, crua-earraí, seodra, lomairí faiche, meaisínre, leigheasanna (neamh-bhéil), trealamh oifige, bia do pheataí, peitreal, páipéar, tobac, bréagáin, uirlisí, meaisíní níocháin, uisce i mbuidéil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>13.5% is a reduced rate of VAT for items including fuel (coal, heating oil, gas), electricity, veterinary fees, building and building services, agricultural contracting services, short-term car hire, cleaning and maintenance services</seg></tuv>
+  <tuv xml:lang="ga"><seg>13.5%: Seo ráta laghdaithe CBL do nithe lena n-áirítear breosla (gual, ola téimh, gás), leictreachas, táillí tréidliachta, tógáil agus seirbhísí tógála, seirbhísí conraitheoireachta talmhaíochta, fruiliú gearrthéarmach carranna, seirbhísí glantóireachta agus cothabhála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>9% is a special reduced rate of VAT for tourism-related activities including restaurants, hotels, cinemas, hairdressing and newspapers</seg></tuv>
+  <tuv xml:lang="ga"><seg>9%: Is é an ráta laghdaithe speisialta CBL le haghaidh gníomhaíochtaí atá bainteach le turasóireacht, bialanna, pictiúrlanna, gruagaireacht agus nuachtáin san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>4.8% is a reduced rate of VAT specifically for agriculture</seg></tuv>
+  <tuv xml:lang="ga"><seg>4.8%: Is ráta laghdaithe CBL é seo a bhaineann go sonrach le talmhaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It applies to livestock (excluding chickens), greyhounds and the hire of horses</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé i bhfeidhm maidir le beostoc (seachas sicíní), cúnna, agus fruiliú capall</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>0% (Zero) VAT rating includes all exports, tea, coffee, milk, bread, books, children’s clothes and shoes, oral medicine for humans and animals, vegetable seeds and fruit trees, fertilisers, large animal feed, disability aids such as wheelchairs, crutches and hearing aids.   You can find current and historic rates of VAT on Revenue's website</seg></tuv>
+  <tuv xml:lang="ga"><seg>0%: Cuimsíonn ráta nialasach CBL na heaspórtálacha ar fad, tae, caife, bainne, arán, leabhair, éadaí agus bróga do pháistí, leigheas béil do dhaoine agus d’ainmhithe, síolta glasraí agus crainn torthaí, leasúcháin, beathú d’ainmhithe móra, áiseanna míchumais cosúil le cathaoireacha rothaí, maidí croise agus áiseanna éisteachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You do not have to pay any VAT on financial, medical or educational services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní gá duit CBL a íoc ar sheirbhísí airgeadais, leighis nó oideachasúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may also not pay VAT for live theatrical and musical performances (except those where food or drink is served during all or part of the performance)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat freisin gan CBL a íoc ar thaibhléirithe drámatúla nó ceoil beo ach amháin iad siúd ina gcuirtear bia nó deochanna ar fáil feadh an taibhléirithe ar fad nó feadh cuid dó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Difference between exemption and zero-rating</seg></tuv>
+  <tuv xml:lang="ga"><seg>An difríocht idir ráta nialasach agus a bheith díolmhaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a business person supplies taxable goods or services, including zero-rated ones, they can claim VAT back from the government on their taxable business purchases</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéanann fear nó bean gnó earraí nó seirbhísí inchánach a sholáthar, lena n-áirítear iad siúd ar ráta nialasach, is féidir leo CBL a éileamh ar ais ón rialtas ar a gcuid ceannacháin inchánach gnó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if someone only supplies exempt goods or services, they cannot reclaim VAT</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más rud é nach ndéanann duine ach seirbhísí nó earraí díolmhaithe a sholáthar, áfach, ní féidir leo CBL a athéileamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Who can claim back VAT?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cé atá in ann CBL a éileamh ar ais?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>People not registered for VAT</seg></tuv>
+  <tuv xml:lang="ga"><seg>Daoine nach bhfuil cláraithe do CBL</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under certain circumstances, unregistered people can claim back VAT from the government</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi imthosca áirithe, is féidir le daoine neamhchláraithe CBL a éileamh ar ais ón rialtas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>People with disabilities can claim a VAT refund on certain aids and appliances they need to overcome their disability</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le daoine atá faoi mhíchumas aisíocaíocht CBL a éileamh ar áiseanna agus fearais áirithe atá ag teastáil uathu chun a míchumas a shárú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>People registered for VAT</seg></tuv>
+  <tuv xml:lang="ga"><seg>Daoine atá cláraithe do CBL</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A business person must register for VAT to fulfill tax obligations to the government</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh fear nó bean ghnó a bheith cláraithe do CBL lena gcuid dualgais cánach leis an rialtas a chomhlíonadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Registering for VAT also allows a business to reclaim VAT on purchases so that it never pays more tax than it should</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chláraítear do CBL, cuirtear ar chumas gnó CBL a athéileamh ar cheannacháin freisin sa chaoi nach n-íoctar níos mó cánach ná mar is cóir riamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As a result, VAT never becomes an overhead for the business</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dá bharr sin, ní forchostas don ghnó í CBL ag am ar bith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Detailed contact information is available on Revenue's website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá faisnéis teagmhála mhionsonraithe ar fáil ar láithreán gréasáin na gCoimisinéirí Ioncaim</seg></tuv>
+</tu>
+</body>
+</tmx>

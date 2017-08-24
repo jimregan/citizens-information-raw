@@ -1,0 +1,369 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Garda Juvenile Diversion Programme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Clár Athstiúrtha na nGardaí don Óige</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Children Act 2001 formally established Ireland’s Juvenile Diversion Programme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bhunaigh Acht na Leanaí 2001 an Clár Athstiúrtha na nGardaí don Óige go foirmiúil in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The aim of this programme is to prevent young offenders in Ireland from entering into the full criminal justice system by offering them a second chance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé mar aidhm ag an gclár seo cosc a chur ar chiontóirí óga in Éirinn ag dul isteach sa chóras ceartais choiriúil iomlán. Déantar é seo trí sheans eile a thabhairt do na ciontóirí óga</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The intended outcome of the Programme is to divert young people from committing further offences</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é atá mar thoradh beartaithe ag an gClár ná go ndéanfar ógánaigh a atreorú ionas nach ndéanfaidh siad tuilleadh cionta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where a young person comes to the notice of the Garda Síochána because of their criminal activity, they may be dealt with through the Diversion Programme</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás go mbíonn ar na Gardaí Síochána déileáil le hógánaigh de bharr a ngníomhaíochta coiriúla, féadfar déileáil leo tríd an gClár Athstiúrtha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Programme facilitates young people who are under 17 years of age but can be extended to those under 18 years of age</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuidíonn an Clár le daoine óga faoi bhun 17 mbliana d'aois ach féadfar é a shíneadh amach chun freastal orthu siúd atá faoi bhun 18 mbliana d'aois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Sections 17–51 of the Children Act 2001 set out the role and remit of the Juvenile Diversion Programme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leag Ailt 17–51 d'Acht na Leanaí 2001 aidhm agus cúram an Chláir Athstiúrtha don Óigeamach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Sections 123–127 of the Criminal Justice Act 2006 amended the 2001 Act in March 2007 to allow the programme cater for children who accept responsibility for their anti-social behaviour</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rinne Ailt 123–127 den Acht um Cheartas Coiriúil 2006 leasú ar Acht 2001 i Márta 2007, sa chaoi agus go bhféadfadh an clár freastal ar leanaí a ghlacann freagracht as ucht a ngíomhaíochta frith-shóisialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>While the 2006 Act raised the age of criminal responsibility to 12 years of age it also allowed the programme to cater for children aged 10 or 11 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'ardaigh Acht 2006 aois na freagrachta coiriúla ó 12 bliana d'aois ach, ina theannta seo, thug sé deis don chlár freastal ar leanaí nach raibh ach 10 nó 11 bliana d'aois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The current diversion programme evolved from an informal scheme which had operated on a non-statutory basis since the early 1960’s</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'eascair an clár athstiúrthareatha as scéim neamhfhoirmiúil a d'fheidhmigh ar bhonn neamhreachtúil ó na luath seascaidí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>That scheme allowed the gardaí to deal informally with people under 18 years of age who had committed criminal offences</seg></tuv>
+  <tuv xml:lang="ga"><seg>Thug an scéim sin deis do na gardaí le déileáil go neamhfhoirmiúil le daoine faoi bhun 18 mbliana d'aois a raibh cionta coiriúla déanta acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The purpose of the original scheme was to prevent young offenders from entering into the courts system and incurring a criminal record</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é a bhí mar aidhm ag an mbunscéim ná cosc a chur ar ógchiontóirí ag dul isteach i gCóras na gCúirteanna agus ag tabhú taifid choiriúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Juvenile Diversion Programme is administered by specially trained gardaí called Garda Juvenile Liaison Officers (JLO)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá oiliúint speisialta curtha ar na Gardaí a reachtálann An Clár Athstiúrtha don Óige. Oifigigh Idirchaidrimh don Óige a thugaimid ar na Gardaí sin (JLO)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These gardaí are specially trained to deal with young people and their families in relation to crime-prevention, the operation of the diversion programme and all other areas involving young people and the criminal justice system</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirtear oiliúint speisialta ar na gardaí seo chun déileáil le daoine óga agus lena gclanna faoi chosc ar choireanna, feidhmiú an chláir athstiúrtha agus faoi na cúrsaí uilig eile a bhfuil baint acu le daoine óga agus an córas ceartais choiriúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Each Garda District in Ireland has a juvenile liaison office and it is their responsibility to maintain informal contacts with young people at risk and to liaise with teachers, Child and Family Agency staff, school attendance officers and other gardaí in their local area</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Oifigeach Idirchaidrimh don Óige i ngach uile cheantar Garda in Éirinn agus tá dualgas orthu teagmháil neamhfhoirmiúil a choimeád le daoine óga a bheadh i mbaol, agus comhoibriú le múinteoirí, le foireann an Ghníomhaireacht um Leanaí agus an Teaghlach, le hoifigigh freastail scoile agus le gardaí eile ina gceantair áitiúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>How the programme works</seg></tuv>
+  <tuv xml:lang="ga"><seg>An chaoi ina bhfeidhmíonn an clár</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Who has responsibility for the Juvenile Diversion Programme?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cé atá freagrach as an gClár Athstiúrtha don Óige?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Overall responsibility for the operation of the Juvenile Diversion Programme lies with the National Juvenile Office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá freagracht iomlán ar Oifig Náisiúnta na nÓgchiontóirí i leith fheidhmiú an Chláir Athstiúrtha don Óige</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is part of the Community Relations Section of the Garda Síochána which is located in Dublin</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé seo mar chuid den Rannóg Chaidrimh Pobail de chuid na nGardaí Síochána agus tá sé lonnaithe i mBaile Átha Cliath</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Office was established in 1991</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bunaíodh an Oifig i 1991</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Garda National Juvenile Office is also responsible for liaising with voluntary and statutory bodies regarding the welfare of young people, developing contacts with school attendance officers, formulating crime-prevention programmes for juveniles at risk and recording and examining cases of juveniles missing from home</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Oifig Náisiúnta na nÓgchiontóirí de chuid na nGardaí freagrach as comhoibriú a dhéanamh le forais dheonacha agus reachtúla i dtaobh leas daoine óga, as teagmhálacha le hoifigigh freastail scoile a fhorbairt, as cláir a cheapadh d'ógánaigh i mbaol chun coireanna a chosc agus as cuntas a choimeád agus scrúdú a dhéanamh ar chásanna ina bhfuil ógánaigh ar iarraidh ón mbaile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>How does the diversion programme work?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cén chaoi a bhfeidhmíonn an clár athstiúrtha?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The idea behind the Juvenile Diversion Programme is to allow for young people who commit criminal offences to be dealt with by means of a caution instead of the formal process of charge and prosecution</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an smaoineamh is bun leis an gClár Athstiúrtha don Óige ná go mbeifear in ann déileáil le daoine óga a dhéanann cionta coiriúla trí rabhadh a thabhairt dóibh in áit a bheith ag úsáid an phróisis fhoirmiúil mar atá cúiseamh agus ionchúiseamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A caution is a warning by the Garda Siochána against committing certain types of behaviour</seg></tuv>
+  <tuv xml:lang="ga"><seg>Foláireamh a thugann na Gardaí Síochána in aghaidh cineálacha áirithe iompraíochta is ea an rabhadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The child, where appropriate, is placed under the supervision of a JLO</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann JLO maoirseacht ar ógánach má tá an socrú sin feiliúnach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The programme allows for a conference(s) to be held which can mediate between the child and the victim, if appropriate, and draw up an action plan for the child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfar comhdhálacha a reachtáil tríd an gclár, a bheadh in ann idirghabháil a dhéanamh idir an leanbh agus an t-íospartach nuair a bheadh sé sin oiriúnach, agus a bheadh in ann plean gníomhaíochta a chur le chéile don leanbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Who decides whether a child should be admitted to the programme?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cé a dhéanann an cinneadh chun ógánach a ligean isteach sa chlár?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In advance of admission to the programme, a JLO is assigned to assess the suitability of the young person for inclusion in the programme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sula ligtear ógánach isteach sa chlár, leagtar dualgas ar JLO chun oiriúnacht an óganaigh sin le bheith rannpháirteach sa chlár a mheas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Before the young person is considered for admission, he/she must admit involvement in the offence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don ógánach admháil go raibh sé bainteach leis an gcion sula ndéantar an t-ógánach a mheas le haghaidh oiriúnachta don chlár</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Following this assessment, a decision is then made as to whether or not to administer a caution</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cinntear i ndiaidh na meastóireachta sin, ar cheart nó nár cheart rabhadh a riaradh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It’s important to note, the final decision as to whether or not a young person is cautioned lies not with the Garda Síochána, but instead with the Director of the National Juvenile Office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé tábhachtach a nótáil go ndéanann Stiúrthóir Oifig Náisiúnta na nÓgchiontóirí an cinneadh deireanach maidir le rabhadh a thabhairt do dhuine óg , agus nach iad na Gardaí Síochána a dhéanann é</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In cases, however, which involve serious crime, consent to issue a caution must first be obtained from the Director of Public Prosecutions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór toiliú a fháil ó Stiúrthóir na nIonchúiseamh Poiblí, áfach, sula dtugtar aon rabhadh i gcásanna ina bhfuil tromchoireanna i gceist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the Director of Public Prosecutions decides a young person is not to be included in the Juvenile Diversion Programme because of the serious nature of the crime then, the young person is dealt with through the criminal justice system by way of charge and prosecution</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chineann Stiúrthóir na nIonchúiseamh Poiblí gan ógánach a ligean isteach sa Chlár Athstiúrtha don Óige de bharr nádúr tromchúiseach an chiona, déileálann an córas ceartais choiriúil leis an óganach trí mheán cúisimh agus ionchúisimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In carrying out an assessment for admission to the programme, the JLO consults with the young person’s parents or guardians and may also consult with the victim</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair atá an JLO ag déanamh meastóireachta chun ógánach a ligean isteach sa chlár, téann sé/sí i gcomhairle le tuismitheoirí nó le caomhnóirí an ógánaigh, agus d'fhéadfadh sé/sí dul i gcomhairle leis an íospartach chomh maith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>While the consent of the victim is not required for a caution to be made, the consent of the parent or guardian is normally required</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cé nach bhfuil toiliú an íospartaigh ag teastáil chun rabhadh a riaradh, is gnách go mbíonn toiliú an tuismitheora nó an chaomhnóra ag teastáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>What conditions must be met for admission to the programme?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Céard iad na coinníollacha gur gá a chomhlíonadh sula ligfear ógánach isteach sa chlár?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Director of the National Juvenile Office decides whether or not a child is to be admitted to the programme once the preconditions have been met, except in cases of serious offences where the decision lies with the Director of Public Prosecutions as mentioned previously</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cineann Stiúrthóir Oifig Náisiúnta na nÓgchiontóirí ar chóir nó nár chóir ógánach a ligean isteach sa chlár a luaithe agus a chomhlíontar na réamhchoinníollacha, seachas i gcás cionta tromchúiseacha nuair ag Stiúrthóir na nIonchúiseamh Poiblí atá an cinneadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are three basic criteria laid down which must be satisfied in order to be eligible for admission to the programme:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá trí bhunchritéir leagtha síos nár mhór d'óganach a shásamh sula mbeadh sé/sí i dteideal a bheith ligthe isteach sa chlár:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The child must accept responsibility for his or her criminal behaviour</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní mór don óganach freagracht a ghlacadh as ucht a g(h)níomhaíochta coiriúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The child must consent to be cautioned and where appropriate, to be supervised by a juvenile liaison officer</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní mór don ógánach toiliú go dtabharfar rabhadh dóibh, agus do ndéanfaidh oifigeach idirchaidrimh don óige maoirseacht orthu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The child must be of or over the age of criminal responsibility and under 18 years of age</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní mór go mbeadh aois na freagrachta coiriúla slánaithe ag an ógánach agus go mbeadh sé/sí faoi bhun 18 mbliana d'aois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the Criminal Justice Act 2006 children aged 10 or 11 are eligible for the programme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá leanaí 10 nó 11 bliana d'aois i dteideal a bheith ligthe isteach sa chlár de réir an Achta um Cheartas Coiriúil 2006</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Director is obliged to direct a JLO to give notice in writing to the parents or guardian of a child who is admitted to the programme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don Stiúrthóir treoir a thabhairt do JLO chun fógra scríofa a thabhairt do thuismitheoirí nó do chaomhnóirí ógánaigh a ligtear isteach sa chlár</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This notice includes the type of criminal behaviour in respect of which a caution is to be given</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sonraítear cén cineál gníomhaíocht coiriúla a chúisigh riaradh an rabhaidh san fhógra sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It also states whether or not the caution is to be formal or informal</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sonraíonn sé cé acu rabhadh foirmiúil nó neamhfhoirmiúil a bheidh i gceist chomh maith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The parents or guardians are obliged to attend the cautioning process</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór do na tuismitheoirí nó caomhnóirí a bheith i láthair ag an bpróiseas rabhaidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>While the notice is to be given in writing the Director ensures the notice is given in language which can be understood by the parents or guardians and this may mean that the notice be given in the mother tongue of the parents or guardian</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don fógra a bheith i scríbhinn agus anuas ar seo, dearbhaíonn an Stiúrthóir go scríobhtar an fógra i dteanga a thuigfidh na tuismitheoirí nó na caomhnóirí, a chialaíonn go bhféadfadh an fógra a bheith tugtha i máthairtheanga na dtuismitheoirí nó na gcaomhnóirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The notice shall also be available in Irish for children from Gaeltacht areas or whose first language is Irish</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabharfar fógra trí Ghaeilge do leanaí ó cheantair Ghaeltachta nó do leanaí a bhfuil Gaeilge mar chéad teanga acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Is there any protection for children participating in the programme?</seg></tuv>
+  <tuv xml:lang="ga"><seg>An bhfuil aon chosaint ag leanaí a bhíonn rannpháirteach sa chlár?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Any child who has been admitted to the Garda Juvenile Diversion Programme is protected from prosecution for the criminal behaviour which resulted in his/her admission to the programme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá cosaint ag aon ógánach a ligeadh isteach i gClár Athstiúrtha don Óige na nGardaí ar ionchúiseamh de bharr na gníomhaíochta coiriúla a raibh a cead isteach sa chlár mar thoradh uirthi sa chéad áit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Any acceptance by the child of responsibility for their criminal behaviour in respect of which they have been admitted to the programme will not be available in any civil or criminal proceedings against that child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bheidh fáil ag aon imeachtaí coiriúla nó sibhialta ar an bhfreagracht a ghlac an t-ógánach i dtaobh a g(h)níomhaíochta coiriúla ionas go ligfear isteach sa chlár é/í</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, under Section 126 of the Criminal Justice Act 2006, it may be used where a court is considering the sentence to be imposed in respect of an offence committed after admission to the programme</seg></tuv>
+  <tuv xml:lang="ga"><seg>De réir Ailt 126 den Acht um Cheartas Coiriúil 2006, áfach, féadfar an fhianaise seo a úsáid i gcás go bhfuil an chúirt ag socrú cén phianbhreith a thabharfar i leith cion a rinneadh i ndiaidh don ógánach a bheith ligthe isteach sa chlár</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The identity of any child who is either admitted to or considered for admission to the programme is not disclosed publicly</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní dhéantar aitheantas ógánaigh ar bith a ligtear isteach sa chlár nó a mheastar don chlár a nochtadh go poiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Any person who publishes or broadcasts such information is guilty of an offence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá aon duine a fhoilsíonn nó a chraolann faisnéis dá leithéid ciontach i gcion</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Are there different types of caution?</seg></tuv>
+  <tuv xml:lang="ga"><seg>An bhfuil cineálacha éagsúla rabhadh ann?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Two types of caution may be given; formal or informal</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfar dhá chineál rabhaidh a thabhairt; foirmiúil nó neamhfhoirmiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The decision as to whether to administer a formal or informal caution is made by the Director of the Programme and will depend on the seriousness of the child’s criminal behaviour</seg></tuv>
+  <tuv xml:lang="ga"><seg>Stiúrthóir an Chláir a chinneann an cóir rabhadh foirmiúil nó neamhfhoirmiúil a riaradh agus braithfidh a c(h)inneadh ar thromhúiseacht iompraíocht an ógánaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>How is a formal caution delivered?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Conas a thugtar rabhadh foirmiúil?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The formal caution is given by a Garda inspector or more senior</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cigire de chuid na nGardaí nó Garda níos sinsearaí a thugann an rabhadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Those present when the caution is delivered must include the child, the child’s parents or guardian and a JLO</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don ógánach, do thuismitheoirí nó caomhnóirí an ógánaigh agus don JLO a bheith i láthair agus an rabhadh á thabhairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Director of the Programme may also invite the victim of the crime to attend</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh Stiúrthóir an Chláir cuireadh a thabhairt d'íospartach an chiona le bheith i láthair chomh maith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is no specific format (that is, wording or procedure) for administering the caution</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní gá an rabhadh a thabhairt ar aon bhealach áirithe ( is é sin le rá nach bhfuil aon fhoclaíocht nó nós imeachta ar leith ann)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The officer who gives the caution, however, normally discusses the criminal behaviour and highlights to the child the seriousness of his/her actions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is gnách go ndéanann an t-oifigeach a thugann an rabhadh an ghníomhaíocht choiriúil a phlé, áfach, agus go léirítear don ógánach cé chomh tromchúiseach agus atá a g(h)níomhaíochtaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The child may be invited to apologise to the victim and where appropriate to make financial or other reparation to the victim</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfar cuireadh a thabhairt don ógánach le leithscéal a ghabháil leis an íospartach, agus cúiteamh airgeadais nó cúiteamh de chineál eile a thabhairt don íospartach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The formal caution normally takes place in a Garda Station to highlight the seriousness of the situation to the child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar an rabhadh foirmiúil i stáisiún na nGardaí de ghnáth ionas go dtuigfidh an t-ógánach go bhfuil an cás tromchúiseach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>How is an informal caution delivered?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Conas a thugtar rabhadh neamhfhoirmiúil?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The informal caution given for less serious criminal behaviour may be given at the child’s home or in a Garda station</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar rabhadh neamhfhoirmiúil i gcás gníomhaíochta coiriúla nach bhfuil chomh tromchúiseach sin agus féadfar an rabhadh a thabhairt i dteach an óganaigh féin nó i stáisiún na nGardaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is administered by a JLO</seg></tuv>
+  <tuv xml:lang="ga"><seg>JLO a dhéanann an rabhadh a riaradh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The only persons obliged to attend while the caution is being given are the parents or guardian of the child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní gá d'aon duine seachas tuismitheoirí nó caomhnóirí an ógánaigh a bheith i láthair nuair a riartar an rabhadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are no provisions for attendance of anybody other than the parents or guardians and the child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon fhorálacha déanta chun go mbeadh éinne eile seachas tuismitheoirí nó caomhnóirí agus an t-ógánach féin i láthair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Who decides on the level of supervision?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cé a shocraíonn leibhéal na maoirseachta?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Every child who receives a formal caution through the Garda Diversion Programme is placed under the supervision of a JLO for twelve months. The level of supervision is normally a matter decided by the JLO</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann JLO maoirseacht a mhaireann 12 mhí ar gach uile ógánach a fhaigheann rabhadh foirmiúil trí Chlár Athstiúrtha don Óige na nGardaí Is gnách gurb é an JLO a shocraíonn an leibhéal maoirseachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Section 28(2) of the Children Act 2001 sets out the various matters which must be considered in deciding the appropriate level of supervision</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagann Alt 28(2) d'Acht na Leanaí 2001 amach na nithe éagsúla nach mór a chur san áireamh agus an leibhéal cuí maoirseachta á shocrú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Seriousness of the child’s behaviour</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tromchúiseacht iompraíocht an ógánaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Level of support given to, and the level of control of, the child by the parents or guardian</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An leibhéal tacaíochta a thugann na tuismitheoirí nó caomhnóirí don leanbh, agus an méid smachta atá acu ar an leanbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Likelihood of the child committing further offences</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An dóchúlacht atá ann go ndéanfaidh an leanbh cionta eile amach anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Directions from the Director regarding the appropriate level of supervision</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Treoracha ón Stiúrthóir i leith an leibhéil chóir maoirsithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>What does the supervision involve?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Céard atá i gceist leis an maoirseacht?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Supervision normally involves the JLO being pro-active in relation to the child’s behaviour</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar chuid den mhaoirseacht is gnách go mbíonn an JLO réamhghníomhach i dtaobh iompraíocht an ógánaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It won’t normally involve the child reporting to the JLO at specified times and allows the child the opportunity to return to his/her normal routine, without the intrusion of being forced to attend meetings on a regular basis</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is gnách nach mbíonn ar an ógánach tuairisc a thabhairt don JLO ag amanna socraithe, rud a thugann deis don ógánach filleadh ar a g(h)náthaimh agus gan aon chur isteach aige/aici ó dhualgas le freastal ar choinní go rialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is important, however, for the child to realise his/her behaviour is being monitored for the period of supervision</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé tábhachtach, áfach, go dtuigfeadh an t-ógánach go bhfuil monatóireacht á déanamh ar a (h)iompraíocht le linn thréimhse na maoirseachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Supervision does not normally result from an informal caution</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní gnách go mbíonn maoirseacht mar thoradh ar rabhadh neamhfhoirmiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Only in exceptional circumstances does a supervision period of six months apply after an informal caution</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirtear tréimhse maoirseachta de shé mhí i bhfeidhm i gcás cúinsí eisceachtúla amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>What is a Juvenile Diversion Programme Conference?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cad is brí le Comhdháil an Chláir Athstiúrtha don Óige?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A key part of the Garda Juvenile Diversion Programme is the facility to hold a meeting (or conference) to discuss the welfare of a child admitted to the programme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an áis chun cruinnithe (nó comhdhálacha) a reachtáil, chun leas an ógánaigh a ligeadh isteach sa chlár a phlé, mar chuid ríthábhachtach de Chlár Athstiúrtha don Óige na nGardaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These conferences are established in law through Section 29 of the Children Act 2001</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá na comhdhálacha seo bunaithe faoi dhlí in Alt 29 d'Acht na Leanaí 2001</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The conference may mediate between the child and the victim (where appropriate) in accordance with the terms of the programme. Conferences also formulate an action plan for the child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh an chomhdháil idirbheartú idir an t-ógánach agus an t-íospartach (nuair atá sin oiriúnach) de réir théarmaí an chláir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• To discuss the welfare of a child admitted to the Diversion Programme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceapann comhdhálacha plean gníomhaíochta don leanbh chomh maith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When a conference is called, an action plan is normally agreed for the child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór dóibh seasamh le gnóthais an íospartaigh agus aird chuí a thabhairt dá leasa</seg></tuv>
+</tu>
+</body>
+</tmx>

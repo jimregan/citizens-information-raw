@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>If you make a confession to the Gardai, that confession can be used in your trial as evidence against you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má admhaíonn duine aon cheo do na Gardaí, is féidir an admháil sin a úsáid mar fhianaise ina c(h)oinne sa chúirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A voluntary confession is a confession that has not been coerced or forced from you and has been made with your true and free will</seg></tuv>
+  <tuv xml:lang="ga"><seg>Admháil a dhéanann duine gan aon iallach a bheith air/uirthi agus a dhéanann duine as a d(h)eoin féin í admháil uaidh/uaithi féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you make a confession that is not voluntary, it cannot be admitted as evidence against you in your trial</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéanann duine admháil nach uaidh/uaithi féin í, ní féidir an admháil sin a úsáid mar fhianaise ina c(h)oinne ag an triail</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Even if a confession was given voluntarily, it may still be inadmissible because of the oppressive or unfair circumstances in which it was obtained</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fiú má dhéanann duine adhmáil uaidh/uaithi féin, d'fhéadfadh sé nach mbeadh cead í a úsáid sa chúirt de bharr na gcúinsí míchothroma nó éigneacha ina déanadh an admháil sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A confession will be considered by a court to be involuntary if it was obtained by physical or psychological pressures or by threats or promises made by persons in authority</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfaidh an Chúirt cinneadh nach admháil uaidh/uaithi féin a rinne an té atá cúisithe má baineadh úsáid as brú fisiciúil nó síceolaíochta leis an admháil sin a fháil nó má rinne aon duine i gceannas aon bhagairt ar an té atá cúisithe nó má gealladh aon cheo dó/dí as an admháil sin a thabhairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Threats or promises, which create fear or hope, may take away your free will</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéantar bagairt ar dhuine nó rudaí a gheallúint dó/dí a chuireann eagla air/uirthi nó a thugann dóchas dó/dí, d'fhéadfadh sé nach mbeadh an duine sin ag feidhmiú as a d(h)eoin féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Therefore, a confession made as a result of a threat or a promise made by a person in authority is not a voluntary statement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin, aon admháil a dhéanann duine de bharr bagartha nó gealltanais uaidh duine i gceannas ní féidir a rá gur ráiteas uaidh/uaithi féin atá ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A confession will also be considered to be involuntary if it was obtained by the use of drugs, hypnosis, alcohol, long-drawn-out interrogation, excessive questioning or any method that takes away your rational intellect or free will</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní ghlacfar le hadmháil ach an oiread má baineadh úsáid as drugaí, hipneois, alcól, tréimhse fada agallaimh, ceistiú iomarcach nó aon mhódh oibre eile a bhaineann an mheabhair réasúnach nó an toil féin den duine leis an admháil sin a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Basic standards of fairness must be met</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór bunchaighdeáin chothroime a shásamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, if you make a confession after successive bouts of questioning and without having obtained adequate sleep and rest, a court may consider the statement inadmissible</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, má admhaíonn duine baint a bheith aige/aici le coir tar éis tréimhsí ceistiúcháin as a chéile gan dóthain codalta agus scíthe a bheith fáighte aige/aici d'fhéadfadh an chúirt cinneadh a dhéanamh nach féidir úsáid a bhaint as an admháil sin mar fhianaise</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Tax relief on domestic service charges</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoiseamh cánach ar tháillí seirbhísí baile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the past, tax relief was available if you paid service charges to a local authority or other provider of water, refuse or sewage services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go dtí le déanaí, bhí faoiseamh cánach ar fáil má íoc tú táillí seirbhísí le húdarás áitiúil nó le soláthraí eile seirbhísí uisce, bruscair nó camrais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The relief was granted in each tax year in respect of charges due and paid in the previous year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugadh an faoiseamh seo i ngach bliain chánach i leith táillí a íocadh sa bhliain chánach roimhe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This tax relief has ended</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá críoch curtha leis an bhfaoiseamh cánach seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You cannot claim tax relief on service charges paid from 2011 onwards</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níorbh féidir faoiseamh a fháil i leith táillí seirbhísí a íocadh ón bhliain chánach 2011 amach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have not yet claimed for service charges paid in 2010 or previous years, it is now too late to put in a claim, as this had to be done within 4 years of the end of the relevant tax year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Munar éiligh tú an faoiseamh i leith na bliana 2010 nó i leith aon bhliain roimhe sin, ní féidir anois é a éileamh, mar bhí ort é seo a dhéanamh taobh istigh de thréimhse 4 bliana ón mbliain chuí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The charges that you paid for the following services qualified for tax relief:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bhí na táillí a d'íoc tú ar na seirbhísí seo a leanas incháilithe i gcomhair faoisimh chánach:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Domestic refuse collection, domestic sewage disposal and domestic water supplies provided by your local authority</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bailiúchán bruscair baile, diúscairt camrais baile agus soláthar uisce baile a chuir d’údarás áitiúil ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Domestic water supplies provided by group water schemes</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Soláthar uisce baile a chuir grúpscéimeanna uisce ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Domestic refuse collection by independent contractors</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bailiúchán bruscair baile a rinne conraitheoir neamhspleách</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is more detail (pdf) on revenue.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá breis eolais (pdf) ar revenue.ie</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,289 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>After you are arrested, you may be taken into custody in a Garda station</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tar éis duine a ghabháil beidh sé/sí faoi choiméad i stáisiún na Gardaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are rules and procedures as to how you must be treated whilst in custody</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá rialacha agus módh oibre a bhaineann leis an mbealach nach mór caitheamh leis an duine atá faoi choimeád</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These rules and procedures are derived from Regulation 8 of the Criminal Justice Act 1984 (Treatment of Persons in Custody in Garda Síochána Stations) Regulations 1987 and 2006</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá na rialacha agus na módh oibre a dhíorthaítear ó Rialachán 8 den Acht um Cheartas Coiriúil 1984 (An Bhail a Chuirfear ar Dhaoine Faoi Choimeád i Stáisiúin an Gharda Síochána ) Rialacháin 1987 agus 2006</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The member in charge at the Garda station should inform you of these rights and give you a copy of them when your details are being entered in the custody record</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir don chomhalta i gceannas ag an stáisiún Garda eolas a thabhairt duit de na cearta sin agus a thabhairt duit cóip acu nuair do chuid sonraí á iontráil sa taifead faoi choimeád</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>After you have been arrested, you must be informed without delay</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tar éis duine a ghabháil ní mór é/í a chur ar an eolas gan moill</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• why you have been arrested (i.e., the offence)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• cén fáth go bhfuil sé/sí gafa (i.e., an choir)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• that you are entitled to consult a solicitor and</seg></tuv>
+  <tuv xml:lang="ga"><seg>• go bhfuil sé de cheart aige/aici labhairt le dlíodóir agus</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• that you are entitled to notify another person that you are in custody</seg></tuv>
+  <tuv xml:lang="ga"><seg>• go bhfuil sé de cheart aige/aici a chur in iúl do dhuine eile go bhfuil sé/sí faoi choiméad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are under 18 years of age, you must be informed that your parent or guardian is being informed and requested to attend at the station</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá an duine faoi 18 bliain d'aois, ní mór a chur in iúl dó/dí go bhfuil scéal dhá chur chuig a t(h)uismitheoir nó chuig a c(h)oimirceoir teacht chuig an stáisiún</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A custody record must be kept in respect of every person in custody</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór taifead coimeádta a choinneáil i dtaobh gach duine atá faoi choimeád</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are transferred to another Garda station, the member in charge of the station from which you were transferred must send the custody record with you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má aistrítear duine chuig stáisiún eile Gardaí, ní mór don Gharda a bhí i gceannas an chéad stáisiún an taifead coimeádta a chur chuig an dara stáisiún in éineacht leis an duine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Notification to solicitor or other persons</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dlíodóir nó Daoine eile a chur ar an eolas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are under 18 years of age, the member in charge of the Garda station concerned will, as soon as possible, inform your parent or guardian that you are in custody, why you are in custody and that you have a right to consult a solicitor</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá an duine faoi 18 bliain d'aois, cuirfidh an Garda atá i gceannas an stáisiúin in iúl chomh luath agus is féidir do thuismitheoir nó do choimirceoir go bhfuil an duine faoi choimeád, cén fáth atá leis agus go bhfuil sé de cheart aige/aici dul i gcomhairle dlíodóra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are 18 years or over and you have asked for a solicitor or that another person be notified, the member in charge of the station must notify the solicitor or other person as soon as possible</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más duine atá ós cionn 18 atá i gceist agus má d'iarr an duine sin labhairt le dlíodóir nó go gcuirfí scéal chuig duine eile, ní mór don Gharda i gceannas scéal a chur chuig an dlíodóir nó an duine eile chomh luath agus is féidir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the solicitor or other person cannot be contacted within a reasonable time or if the solicitor or other person is unable to or unwilling to attend, you must be given an opportunity to ask for another solicitor or another person</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna féidir dul i dteagmháil leis an dlíodóir nó leis an duine eile taobh istigh d'achar réasúnta ama nó muna bhfuil an dlíodóir ná an duine eile in ann teacht nó muna bhfuil fonn orthu teacht chuig an stáisiún, ní mór deis a thabhairt don duine atá cúisithe dlíodóir eile nó duine eile a ghlaoch isteach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are transferred to another station, your solicitor or other nominated person must be notified of the transfer as soon as possible</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéantar duine a aistriú chuig stáisiún eile ní mór é sin a chur in iúl dá d(h)líodóir nó do dhuine eile ainmnithe chomh luath agus is féidir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Information about where you are being kept in custody must be given to</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór a chur in iúl do na daoine seo a leanas cén áit ina bhfuil duine dhá choimeád</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• any solicitor who enquires if you consent and</seg></tuv>
+  <tuv xml:lang="ga"><seg>• aon dlíodóir a fhiosraíonn má tá an duine atá cúisithe sásta leis sin agus</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• any other person if you consent and the member in charge of the station is satisfied that the information will not hinder or delay the investigation of crime</seg></tuv>
+  <tuv xml:lang="ga"><seg>• aon duine eile, má aontaíonn an té atá cúisithe, agus má tá an Garda i gceannas sásta nach gcuirfidh an t-eolas sin isteach ar fhiosrú na coire nó nach gcuirfidh sé moill ar an bhfiosrú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must be given reasonable access to a solicitor of your choice and be allowed to communicate with him or her privately</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór fáil réasúnta a bheith ag duine ar a rogha dlíodóra agus a bheith in ann teagmháil a bheith aige/aici leis/léi go príobháideach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have not had access to a solicitor and a solicitor who has not been requested presents himself or herself at the station, you must be given the opportunity to consult with the solicitor if you wish</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna bhfuil dlíodóir faigthe ag duine agus má thagann dlíodóir nár ghlaoigh an duine air/uirthi chuig an stáisiún, ní mór an deis a thabhairt don té atá cúisithe dul i gcomhairle an dlíodóra más mian leis/léi é sin a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A consultation with a solicitor may take place in the sight but out of the hearing of a Garda</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis an té atá cúisithe a bheith le feiceáil ag Garda agus é/í ag labhairt le dlíodóir ach gan an comhrá a bheith le cloisteáil ag an nGarda</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may receive a visit from a relative, friend or any other person with an interest in your welfare, provided that you wish to see the person</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le gaol, cara nó aon duine eile gur spéis leis/léi leas an duine atá cúisithe a theacht ar chuairt chuige/chuici, chomh fada agus go bhfuil an té atá cúisithe sásta an duine sin a fheiceáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The member in charge of the station must be satisfied that the visit can be adequately supervised and will not hinder or delay the investigation of crime</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don Gharda atá i gceannas an stáisiúin a bheith sásta gur féidir súil oiriúnach a choinneáil ar an gcuairt agus nach gcuirfear isteach ar fhiosrú na coire agus nach gcuirfear moill ar an bhfiosrú dá bharr</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may send a letter or make a telephone call of reasonable duration free of charge to a person if the member in charge is satisfied that it will not hinder or delay the investigation of crime</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le duine atá cúisithe litir a sheoladh nó glaoch telefóin ar feadh achar oiriúnach a dhéanamh in aisce má tá an Garda i gceannas sásta nach gcuirfear isteach ar fhiosrú na coire agus nach gcuirfear moill ar an bhfiosrú dá bharr</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A Garda may listen to the phone call and may end it and may read any letter and refuse to send it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le Garda éisteacht leis an gcomhrá telefóin agus deireadh a chur leis ag am ar bith agus aon litir a léamh agus diúltú í a sheoladh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Before you have a supervised visit or communicate with a person other than your solicitor, you must be informed that anything you say during the visit or in the communication may be given in evidence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Roimh a thagann aon duine ar chuairt chuig duine atá cúisithe nó roimh a dhéanann sé/sí teagmháil le duine eile seachas an dlíodóir, ní mór do na Gardaí a chur in iúl dó/dí gur féidir aon rud a dheireann an duine atá cúisithe a úsáid mar fhianaise</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are searched by a Garda, he or she must make sure that you understand the reason for the search and that it is conducted with due respect to you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéanann Garda duine a chuardach ní mór dó/dí a chur in iúl go hiomlán cén fáth atá leis an gcuardach agus ní mór an cuardach a dhéanamh ar bhealach ómósach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must not be searched by a person (other than a doctor) of the opposite sex</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir le fear bean a chuardach, ná le bean fear a chuardach, ach amháin sa chás gur dochtúir atá ann/inti</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where a search of your person involves removal of clothing, other than headgear or outer clothing, there must be no person of the opposite sex present unless that person is a doctor</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más gá éadaí a bhaint den duine (seachas hataí nó cótaí) ní féidir le haon duine den ghnéas eile a bheith i láthair ach amháin gur dochtúir é/í an duine sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, a person of the opposite sex may be present if the member in charge considers it necessary because of your violent behaviour</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach, is féidir le duine den ghnéas eile a bheith i láthair má cheapann an Garda i gceannas go bhfuil gá leis de bharr iompar foréigneach an duine atá le cuardach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your clothes or shoes are retained by the Gardai, you must be supplied with replacements of a reasonable standard</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má choinníonn na Gardaí éadaí nó bróga an té atá cúisithe ní mór cuid eile de chaighdeán réasúnta a chur ar fáil ina n-áit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A record must be made of the search stating the name of the person conducting the search, the names of those present and details of any property taken from or handed over by you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór taifead a choinneál den chuardach, ainm an té a bhí i mbun an chuardaigh, ainmneacha na ndaoine eile a bhí i láthair agus sonraí aon mhaoin a baineadh den duine nó a thug an duine féin do na Gardaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Fingerprints and other samples</seg></tuv>
+  <tuv xml:lang="ga"><seg>Méarloirg agus samplaí eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your fingerprints, photographs, saliva, hair and certain other samples can be taken without your consent</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le do méarloirg, grianghraif, seile, gruaig agus samplaí áirithe eile a ghlacadh gan do thoiliú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your consent is required before the following samples can be taken and they must be taken by a doctor or dentist as appropriate:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá do thoiliú ag teastáil sular féidir na samplaí seo a leanas a ghlacadh, agus ní mór iad a glacadh ag dochtúir nó fiaclóir mar is iomchuí:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Blood, urine or pubic hair</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Fola, fual nó gruaig phúbasach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A swab from your genital region or any body opening, other than your mouth</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sváb ó do réigiún na mball giniúna nó aon oscailt chomhlacht, seachas do bhéal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The consent must be signed and recorded in the custody record</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór an toiliú a shíniú agus a thaifeadadh sa taifead faoi choimeád</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must be allowed as much time to rest as necessary</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór a oiread ama a theastaíonn a thabhairt don duine atá cúisithe scíth a ligean</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must be provided with as many meals as are necessary</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór béilte a chur ar fáil don duine mar is gá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must be given at least two light meals and one main meal in any 24-hour period</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór ar a laghad dhá mhionbhéile agus béile mór amháin a chur ar fáil in aon tréimhse 24 uair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may have meals supplied at your own expense where it is practicable for the Garda to arrange this</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le duine béilte a sholáthar ag a c(h)ostas féin má tá sé indéanta do na Gardaí é seo a shocrú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must be provided with access to toilet facilities</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go mbeadh duine in ann úsáid a bhaint as áiseanna leithris</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When it is necessary to put you in a cell, you will, as far as possible, be held on your own in the cell</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más gá duine a chur isteach i gcillín ní mór, chomh fada agus is féidir, an duine a bheith coinnithe i gcillín leis/léi féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Persons of the opposite sex must not be placed in a cell together</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir daoine den ghnéas eile a chur sa chillín céanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A violent person must not be placed in a cell with another person if this can be avoided</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más féidir é a sheachaint ní ceart duine foréigeanach a chur isteach i gcillín in éineacht le duine eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>While you are in a cell, a Garda will visit you approximately every 30 minutes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart do Gharda teacht ar chuairt chuig duine i gcillín chuile 30 nóiméad nó mar sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A drunken person or a person under the influence of drugs will be visited and spoken to and if necessary roused every 15 minutes for a period of 2 hours or longer if his or her condition warrants it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart dul isteach chuig duine atá ar meisce nó faoi thionchar drugaí agus labhairt leis/léi agus más gá é/í a dhúisiú chuile 15 nóiméad ar feadh tréimhse 2 uair an chloig nó níos faide má theastaíonn sé ag brath ar an staid ina bhfuil sé/sí ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A Garda will always be accompanied when visiting a person of the opposite sex who is alone in a cell</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart go mbeadh duine in éineacht le Garda má tá sé/sí ag teacht isteach i gcillín duine den ghnéas eile agus an duine sin sa chillín leis/léi féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are under the age of 18 years, you will not be kept in a cell unless there is no other secure accommodation available and, where practicable, you will not be placed in a cell with an adult other than an adult relative</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá an duine faoi 18 bliain d'aois ní ceart é/í a choinneáil i gcillín ach amháin sa chás nach bhfuil aon áit eile slán ar fáil, agus más féidir, ní chuirfear an duine sin isteach i gcillín in éineacht le duine fásta nach bhfuil gaol aige/aici leis/léi</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>No Garda can subject you to ill-treatment of any kind or the threat of ill-treatment (whether against you, your family or any other person connected with you) or permit any other person to do so</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní ceart d'aon Gharda drochíde a thabhairt d'aon duine atá faoi choimeád nó drochíde a bhagairt (air/uirthi nó ar a c(h)lann/teaghlach ná ar aon duine eile a bhaineann leis an té atá cúisithe) nó cead a thabhairt d'aon duine eile drochíde a thabhairt don duine atá faoi choimeád</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>No Garda can use force against you unless such reasonable force as is necessary</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní ceart d'aon Gharda neart a úsáid ach amháin neart réasúnta a bhfuil gá leis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• to make sure that you comply with lawful directions</seg></tuv>
+  <tuv xml:lang="ga"><seg>• le cinntiú go gcomhlíonann duine treoracha dleathúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• to prevent your escape or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• le cosc a chur ar dhuine ealú nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• to restrain you from injuring yourself or others, damaging property or destroying or interfering with evidence</seg></tuv>
+  <tuv xml:lang="ga"><seg>• le duine a stopadh é/í féin nó daoine eile a ghortú, damáiste a dhéanamh do mhaoin, nó é a loit nó cur isteach ar fhianaise</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you allege physical ill-treatment, the member in charge of the station will arrange for you to be medically examined</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéanann duine gearán gur tugadh drochíde dó/dí déanfaidh an Garda i gceannas socrú go dtiocfaidh dochtúir le scrúdú a dhéanamh ar an duine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if you have made the allegation about another Garda, the member in charge of the station may not order the medical examination if he or she considers the complaint to be frivolous or vexatious</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach, más gearán i gcoinne Garda eile atá i gceist ní gá don Gharda i gceannas an scrúdú dochtúra sin a ordú má cheapann sé/sí gur gearán fánach nó ciapálach atá ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• are under the influence of alcohol or drugs and cannot be roused</seg></tuv>
+  <tuv xml:lang="ga"><seg>• faoi thionchar alcóil nó drugaí agus nach féidir é/í a dhúisiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• fail to respond normally to questions or conversation (not due to the influence of alcohol alone)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• nach bhfuil ag freagairt ceisteanna ar ghnáthbhealach nó in ann comhrá (ar chúiseanna nach mbaineann le halcól amháin)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• appear to the member in charge to be suffering from a mental illness or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• i mbarúil an Garda atá i gceannas ag fulaingt ó thinneas intinne nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• otherwise appear to the member in charge to need medical attention,</seg></tuv>
+  <tuv xml:lang="ga"><seg>• i mbarúil an Garda i gceannas i staid go dteastaíonn cóir leighis uaidh/uaithi</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>the member in charge of the station must summon a doctor unless your condition appears to require removal to a hospital</seg></tuv>
+  <tuv xml:lang="ga"><seg>ní mór don Gharda i gceannas glaoch isteach ar dhochtúir ach amháin sa chás go méasann an Garda gur ceart an duine a thabhairt chuig an ospideál</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Medical advice will be sought if you claim to need medication relating to a heart condition, diabetes, epilepsy or other potentially serious condition</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirfear fios ar chomhairle dochtúra má dheireann duine go dteastaíonn leigheas uaidh/uaithi a bhaineann le fadhb croí, le diabaetas, titeamas, nó aon drochthinneas eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It may also be sought if the member in charge of the station considers it necessary because you have such medication in your possession</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis an nGarda atá i gceannas an comhairle dochtúra sin a lorg freisin má cheapann sé/sí go bhfuil gá leis má tá leigheas a bhaineann leis an tinneas sin i seilbh an duine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are removed to a hospital, the removal must be recorded</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór taifead a choinneál má thugtar chuig an ospidéal duine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Any instructions given by a doctor about your medical care and steps taken to comply with the instructions should also be recorded</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má thugann dochtúir aon treoracha maidir le cúram leighis an duine agus céimeanna nach mór a thógáil leis na treoracha sin a chomhlíonadh ní mór taifead a dhéanamh daoibh freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you ask to be examined by a doctor of your choice at your own expense, the member in charge of the station must make the necessary arrangements</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má éilíonn duine scrúdú dochtúra óna rogha dochtúra ar a c(h)ostas féin, ní mór don Gharda i gceannas na socruithe cuí a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are removed to hospital, an immediate relative and any other person required to be notified shall be informed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má thugtar duine chuig an ospidéal, ní mór scéal a chur chuig gaol gairid nó chuig aon duine eile cuí</seg></tuv>
+</tu>
+</body>
+</tmx>

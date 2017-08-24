@@ -1,0 +1,253 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Pregnancy and social welfare payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Toircheas agus íocaíochtaí leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Pregnancy and jobseeker's payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Toircheas agus Sochar Breoiteachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Pregnancy and One-Parent Family Payment • Pregnancy and employment schemes</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Torrach agus ar shaoire bhreoiteachta ón obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The social welfare payment most identified with pregnancy and birth is Maternity Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an íocaíocht leasa shóisialaigh is mó a aithnítear maidir le toircheas ná Sochar Máithreachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This document explains how pregnancy is treated if you are getting Jobseeker’s Benefit, Jobseeker’s Allowance, Illness Benefit, One-Parent Family Payment or are on an employment scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mínítear sa cháipéis seo conas a chaitear le toircheas má tá Sochar Cuardaitheora Poist, Liúntas Cuardaitheora Poist, Sochar Breoiteachta, Íocaíocht Teaghlach Aontuismitheora á fáil agat nó má tá tú rannpháirteach i scéim fostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are pregnant and getting a social welfare payment, you can generally continue to get your payment as long as you satisfy the conditions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ag iompar clainne áfach, agus íocaíocht leasa shóisialaigh dhifriúil á fháil agat, leanfaidh tú led' íocaíocht a fháil chomh fada is a shásaíonn tú na coinníollacha a bhaineann léi</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You cannot qualify for Maternity Benefit if you are unemployed and pregnant, unless your contract of employment ends within 16 weeks of the week in which your baby is due and you satisfy the PRSI contribution conditions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leat cáiliú do Shochar Máithreachais má tá tú dífhostaithe agus tú ag iompar clainne, ach amháin má thagann deireadh le do chonradh fostaíochta laistigh de 16 seachtaine den seachtain ina bhfuil tú ag súil leis an leanbh agus go sásaíonn tú na coinníollacha maidir le ranníocaíocht ASPC</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In this case, Maternity Benefit is paid from the day after the date on your P45</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás seo, íoctar Sochar Máithreachais ón lá i ndiaidh an dáta ar do P45</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you do not qualify for Maternity Benefit you may qualify for another social welfare payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura gcáilíonn tú do Shochar Máithreachais d'fhéadfá cáiliú d'íocaíocht leasa shóisialaigh eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may be entitled to half-rate Maternity Benefit if you are getting certain social welfare payments (for example, One-Parent Family Payment) and are in employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh go mbeadh tú i dteideal Sochar Máithreachais ar leathráta a fháil má tá íocaíocht leasa shóisialaigh áirithe á fháil agat (mar shampla, Íocaíocht Teaghlach Aontuismitheora) agus go bhfuil tú fostaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When your baby is born, if you do not qualify for Maternity Benefit, you may be able to stay on your payment or you may qualify for another payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a shaolaítear do leanbh, mura gcáilíonn tú do Shochar Máithreachais, féadfaidh tú leanúint le d’íocaíocht a fháil nó féadfaidh tú cáiliú d’íocaíocht eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are working more than 19 hours a week on low pay and you have a family you may qualify for Family Income Supplement (FIS)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ag oibriú breis agus 19 n-uaire sa tseachtain ar ísealphá agus má tá teaghlach agat, féadfaidh tú cáiliú d’Fhorlíonadh Ioncam Teaghlaigh (FIT)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In some cases FIS can be paid with Maternity Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>I roinnt cásanna, féadtar FIT a íoc in éineacht le Sochar Máithreachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Pregnancy and jobseeker's payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Toircheas agus íocaíochtaí cuardaitheora poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are pregnant you may continue to get a jobseeker's payment - either Jobseeker’s Benefit (JB) or Jobseeker's Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá leanbh á iompar agat, féadfaidh tú leanúint agus íocaíocht chuardaitheora poist a fháil – cibé acu Sochar Cuardaitheora Poist (SCP) nó Liúntas Cuardaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are considered capable of work unless, you have complications during your pregnancy or you are ill</seg></tuv>
+  <tuv xml:lang="ga"><seg>Meastar go bhfuil sé ar chumas agat oibriú mura mbíonn castacht agat le linn do thoirchis nó má tá tú breoite</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must be available for and genuinely seeking work to get a jobseeker's payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go bhfuil tú ar fáil chun oibriú agus go bhfuil fíor-iarrachtaí á ndéanamh agat chun obair a lorg chun íocaíocht chuardaitheora poist a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that you must continue to look for work throughout your pregnancy</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn seo nach mór duit leanúint ag cuardach oibre i rith do thoirchis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, 4 weeks before your baby is due to be born and for 8 weeks after the birth, you do not have to sign-on at your local social welfare office and you do not have to prove that you are seeking work</seg></tuv>
+  <tuv xml:lang="ga"><seg>4 seachtaine sula bhfuiltear ag súil leis go saolófar do leanbh agus ar feadh 8 seachtaine i ndiaidh na breithe, áfach, ní gá duit síniú ag d’oifig áitiúil leasa shóisialaigh agus ní gá duit a chruthú go bhfuil tú ag lorg oibre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must inform your Intreo Centre or local Social Welfare Branch Office of your pregnancy</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit d’ionad Intreo nó d’oifig áitiúil leasa shóisialaigh a chur ar an eolas faoi do thoircheas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your Jobseeker’s Benefit will only be paid for the number of weeks remaining on your claim</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní íocfar do Shochar Cuardaitheora poist ach don líon seachtainí atá fanta ar d’éileamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you no longer qualify for Jobseeker’s Benefit you can apply for Jobseeker’s Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura gcáilítear thú a thuilleadh do Shochar Cuardaitheora Poist, féadfaidh tú iarratas a dhéanamh ar Liúntas Cuardaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The rules for Jobseeker's Allowance are similar to Jobseeker's Benefit but you will have to pass a means test</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá na rialacha a bhaineann le Liúntas Cuardaitheora Poist cosúil leo siúd a bhaineann le Sochar Cuardaitheora Poist ach beidh ort pas a fháil i dtástáil mhaoine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When your baby is born you may qualify for an increase in your Jobseeker’s Benefit or Allowance for your child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a shaolaítear do leanbh, d’fhéadfá cáiliú do mhéadú ar do Shochar nó do Liúntas Cuardaitheora Poist do do leanbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are parenting alone you may qualify for the One Parent Family payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más tuismitheoir aonair thú, d’fhéadfá cáiliú don íocaíocht Teaghlach Aontuismitheora</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should contact your Intreo Centre or local Social Welfare Branch Office to inform them of the birth</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart duit teagmháil a dhéanamh le d’ionad Intreo nó d’oifig áitiúil leasa shóisialaigh chun iad a chur ar an eolas ar an mbreith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>What if I am unemployed but don't qualify for a jobseeker's payment because of illness during pregnancy?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cad a tharlaíonn mura féidir liom Liúntas/Sochar Cuardaitheora Poist a fháil de bharr breoiteachta le linn na tréimhse toirchis?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are sick or ill during your pregnancy you are not entitled to Jobseeker's Allowance or Jobseeker's Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú breoite nó tinn le linn duit a bheith ag iompar clainne ní cháilíonn tú do Liúntas Cuardaitheora Poist ná Sochar Cuardaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may get Illness Benefit if you have worked and have enough social insurance contributions (see below)</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfá Sochar Breoiteachta a fháil má bhí tú ag obair agus go bhfuil go leor ranníocaíochtaí árachais shóisialta agat - féach thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are not entitled to Illness Benefit and your illness is expected to last for more than 12 months you may be entitled to Disability Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil tú i dteideal Sochar Breoiteachta agus más cosúil go leanfaidh do bhreoiteacht ar feadh breis agus 12 mhí d'fhéadfá a bheith i dteideal Liúntas Míchumais a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are pregnant and either not getting a social welfare payment or not entitled to any of the above social welfare payments, you may get some financial support under the Supplementary Welfare Allowance Scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfá roinnt tacaíochta airgeadais a fháil faoin Scéim Liúntais Leasa Fhorlíontaigh, má tá tú ag iompar clainne agus nach bhfuil íocaíocht leasa shóisialaigh á fháil agat agus nach bhfuil tú i dteideal aon cheann de na híocaíochtaí leasa shóisialaigh thuas a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Pregnancy and Illness Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Toircheas agus Sochar Breoiteachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are pregnant, unemployed and claiming Illness Benefit you will continue to be paid Illness Benefit provided you have a condition other than pregnancy to warrant your being on Illness Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú dífhostaithe, ag iompar clainne agus Sochar Breoiteachta á éileamh agat leanfar leis an Sochar Breoiteachta a íoc leat chomh fada is atá riocht ort seachas toircheas a dhlíonn tú a bheith ar Shochar Breoiteachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must continue to send in medical certificates to qualify for Illness Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh tú leanúint le teastais dochtúra a chur isteach le cáiliú don Sochar Breoiteachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You cannot use pregnancy itself as a medical reason to claim Illness Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leat an toircheas féin a úsáid mar chúis leighis le Sochar Breoiteachta a éileamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, medical complications arising from your pregnancy can satisfy the medical criteria for Illness Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh fadhbanna sláinte a eascraíonn de bharr an toirchis na critéir mhíochaine don Sochar Breoiteachta a shásamh áfach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When your baby is born you may qualify for an increase in your Illness Benefit for a child dependant</seg></tuv>
+  <tuv xml:lang="ga"><seg>I ndiaidh bhreith do linbh d'fhéadfá cáiliú le haghaidh méadú i do Shochar Breoiteachta do leanbh cleithiúnach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should contact the Illness Benefit section to find out if you qualify</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir duit dul i dteagmháil le rannóg an tSochair Bhreoiteachta le fáil amach an gcáilíonn tú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Pregnant and on sick leave from work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Torrach agus ar shaoire bhreoiteachta ón obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are on sick leave from work and getting Illness Benefit immediately before you are due to start your maternity leave, you will be paid Maternity Benefit in the normal way if you satisfy the social insurance contributions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ar shaoire bhreoiteachta ón obair agus Sochar Breoiteachta á fháil agat díreach roimh dháta tosaithe do shaoire mháithreachais, íocfar Sochar Máithreachais leat sa ghnáthshlí má shásaíonn tú na coinníollacha maidir le ranníocaíochtaí árachais shóisialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The social insurance contributions for Maternity Benefit and Illness Benefit are not the same</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl na ranníocaíochtaí árachais shóisialta do Shochar Máithreachais agus Sochar Breoiteachta mar an gcéanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Therefore, if you are in employment but on sick leave and not getting Illness Benefit you may still qualify for maternity leave and Maternity Benefit. However, you must satisfy the social insurance contributions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dá bhrí sin, má tá tú fostaithe ach ar shaoire bhreoiteachta agus nach bhfuil Sochar Breoiteachta á fháil agat d'fhéadfá fós cáiliú le haghaidh Sochar Máithreachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Health and Safety Benefit is a weekly payment for employed women who are pregnant or breastfeeding, and who are granted health and safety leave by their employer</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh tú na ranníocaíochtaí árachais shóisialta a shásamh áfach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Pregnancy and One-Parent Family Payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Toircheas agus Íocaíocht Teaghlach Aontuismitheora</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are pregnant and getting a One-Parent Family Payment, you will continue to get the payment as long as you satisfy the conditions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ag iompar clainne agus Íocaíocht Teaghlach Aontuismitheora á fháil agat, leanfaidh tú le híocaíocht a fháil chomh fada is a shásaíonn tú na coinníollacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When your baby is born you will qualify for an increase in your payment for a child dependant</seg></tuv>
+  <tuv xml:lang="ga"><seg>I ndiaidh bhreith do linbh cáileoidh tú do mhéadú id' íocaíocht do leanbh cleithiúnach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are pregnant and do not have other children, you are not entitled to One-Parent Family Payment until your baby is born</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ag iompar clainne agus nach bhfuil leanaí eile agat, níl tú i dteideal Íocaíocht Teaghlach Aontuismitheora a fháil go dtí go dtagann do leanbh ar an saol</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may get half-rate Maternity Benefit with your One-Parent Family Payment if you are employed and have enough social insurance contributions</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfá Sochar Máithreachais ar leathráta a fháil led' Íocaíocht Teaghlach Aontuismitheora má tá tú fostaithe agus go leor ranníocaíochtaí árachais shóisialta agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are not entitled to a One-Parent Family Payment and you have no other income you may get some financial support under the Supplementary Welfare Allowance Scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil tú i dteideal Íocaíocht Teaghlach Aontuismitheora agus nach bhfuil aon ioncam eile agat d'fhéadfá roinnt tacaíochta airgeadais a fháil faoin Scéim Liúntais Leasa Fhorlíontaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Pregnancy and employment schemes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Toircheas agus scéimeanna fostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are taking part in an employment scheme you have the full range of statutory employment rights including maternity leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá páirt á glacadh agat i scéim fostaíochta, tá an réimse iomlán de chearta reachtúla agat, lena n-áirítear saoire mháithreachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you become pregnant while on an employment scheme (Community Employment, Rural Social Scheme, Tús and Gateway schemes) you are entitled to take 26 weeks’ maternity leave (you can also take an additional 16 weeks of optional unpaid leave)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má éiríonn tú torrach fad a bhíonn tú rannpháirteach i scéim fostaíochta (Scéim Fostaíochta Pobail, Scéim Shóisialta Tuaithe agus scéimeanna Gateway) tá tú i dteideal saoire mháithreachais 26 seachtain a fháil (féadfaidh tú 16 seachtaine sa bhreis de shaoire neamhíoctha roghnach a ghlacadh chomh maith)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If possible, you will be supported to complete your 52 weeks of paid work on the same or another project when you finish your maternity leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más féidir, tacófar leat chun do 52 seachtain d’obair íoctha a chríochnú ar an tionscadal céanna nó ar thionscadal eile nuair a chríochnaíonn tú do shaoire mháithreachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should discuss with your sponsor the payment you qualify for while you are on maternity leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart duit plé a dhéanamh le d’urraitheoir ar an íocaíocht dá gcáilíonn tú fad atá tú ar saoire mháithreachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may qualify for Maternity Benefit if you have enough PRSI contributions</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfá cáiliú do Shochar Máithreachais má tá dóthain ranníocaíochtaí ÁSPC íoctha agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Otherwise, if your spouse or partner is getting a social welfare payment, you may get a qualified adult increase on their payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil, má tá íocaíocht leasa shóisialaigh á fáil ag do chéile nó do pháirtnéir, d’fhéadfá méadú do dhuine fásta cáilithe a fháil ar a n-íocaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You cannot continue to use your affordable childcare scheme while you are on maternity leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leat leanúint agus do scéim inacmhainne cúram leanaí a úsáid fad atá tú ar saoire mháithreachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are on JobBridge and you become pregnant, you can suspend your internship to take maternity leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>Soláthraíonn JobBridge, an Scéim Náisiúnta Intéirneachta deiseanna maidir taithí oibre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you return to complete your internship, you must confirm your eligibility for it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a fhilleann tú chun d’intéirneacht a chríochnú, ní mór duit do theidlíocht di a dheimhniú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will not get the top up payment while you are on maternity leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhfaighidh tú an íocaíocht bhreisithe fad atá tú ar saoire mháithreachais</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Worksheet on calculating your redundancy payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bileog oibre maidir le d’íocaíocht iomarcaíochta a ríomh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(for example, 30 June 2014) ------------</seg></tuv>
+  <tuv xml:lang="ga"><seg>(mar shampla, 30 Meitheamh 2014) --------------</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Date you started work</seg></tuv>
+  <tuv xml:lang="ga"><seg>An dáta ar a thosaigh tú ag obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(for example, 1 April 2004) --------------</seg></tuv>
+  <tuv xml:lang="ga"><seg>(mar shampla, 1 Aibreán 2004) --------------</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Number of full years' service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Líon na mblianta iomlána seirbhíse</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(for example, 10 years) --------------</seg></tuv>
+  <tuv xml:lang="ga"><seg>(mar shampla, 10 mbliana) ---------------</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Number of days in part of a year's service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Líon na laethanta i gcuid de bhliain seirbhíse</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(total of days in every incomplete year worked</seg></tuv>
+  <tuv xml:lang="ga"><seg>(líon iomlán na laethanta i ngach bliain neamhiomlán atá oibrithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>for example, 1 April 2014 to 30 June 2014 = 3 months = 91 days) ---------------</seg></tuv>
+  <tuv xml:lang="ga"><seg>(mar shampla, 1 Aibreán 2014 go 30 Meitheamh 2014) = 3 mhí = 91 lá) ---------------</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Deduct any non-reckonable service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déan seirbhís neamh-inríofa a bhaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(see Redundancy payments for details</seg></tuv>
+  <tuv xml:lang="ga"><seg>(féach Íocaíochtaí iomarcaíochta le haghaidh sonraí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>for example, 30 weeks' sick leave in 2012, 4 weeks is</seg></tuv>
+  <tuv xml:lang="ga"><seg>mar shampla, 30 seachtain saoire breoiteachta in 2012, tá 4 seachtaine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>4 weeks = 28 days) ----------------</seg></tuv>
+  <tuv xml:lang="ga"><seg>4 seachtaine = 28 lá) ---------------</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(for example, 10 years, 63 days (91-28) ----------------</seg></tuv>
+  <tuv xml:lang="ga"><seg>(mar shampla, 10 mbliana, 63 lá (91-28) ---------------</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Total of the days in a part year as percentage of a year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Líon iomlán na laethanta i gcuid de bhliain mar chéatadán de bhliain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(for example, 63 ÷ 365 x 100 = 17.26%) ----------------</seg></tuv>
+  <tuv xml:lang="ga"><seg>(mar shampla, 63 ÷ 365 x 100 = 17.26%) ---------------</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(for example, 10.17 years) ----------------</seg></tuv>
+  <tuv xml:lang="ga"><seg>(mar shampla, 10.17 bliain) ---------------</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Amount of your normal weekly pay</seg></tuv>
+  <tuv xml:lang="ga"><seg>Méid de do ghnáthphá seachtainiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(gross pay, that is, before tax and PRSI deducted</seg></tuv>
+  <tuv xml:lang="ga"><seg>(pá comhlán, .i. sula ndéantar cáin agus ÁPSC a bhaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>for example, €700, ceiling on weekly pay is €600) ----------------</seg></tuv>
+  <tuv xml:lang="ga"><seg>mar shampla, €700 Is é an uasteorainn atá ar phá seachtainiúil ná €600) ---------------</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Statutory redundancy lump sum payment due</seg></tuv>
+  <tuv xml:lang="ga"><seg>An íocaíocht chnapshuime iomarcaíochta reachtúil atá iníoctha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(2 weeks' pay for each year of service + one extra week</seg></tuv>
+  <tuv xml:lang="ga"><seg>(pá 2 sheachtain in aghaidh na bliana seirbhíse + aon seachtain amháin breise</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>for example, 2 weeks x 10.17 = 20.34 + 1 week = 21.34 weeks</seg></tuv>
+  <tuv xml:lang="ga"><seg>mar shampla, 2 sheachtain x 10.17 = 20.34 + 1 sheachtain = 21.34 seachtain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Example lump sum due is €12.804 (€600 x 21.34) ----------------</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is í an chnapshuim shamplach atá iníoctha ná €12.804 (€600 x 21.34) ---------------</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can also use this online redundancy calculator on welfare.ie to help you to calculate your statutory redundancy entitlement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tig leat an táireamhán iomarcaíochta ar líne seo a úsáid chun do theidlíocht a áireamh le haghaidh iomarcaíochta reachtúla</seg></tuv>
+</tu>
+</body>
+</tmx>

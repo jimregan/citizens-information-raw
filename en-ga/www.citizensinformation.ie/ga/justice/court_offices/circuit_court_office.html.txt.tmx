@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>There are Circuit Court offices throughout Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Cúirte Chuardaí ar fáil ar fud na tíre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A County Registrar heads each office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Cláraitheoir Condae i gceannas ar gach oifig acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Circuit Court office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Oifig na Cúirte Chuardaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• issues and processes proceedings in civil cases</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Eisíonn sé agus déanann próiséal ar chásanna sibhialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• prepares and issues the orders of the Circuit Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ullmhaíonn agus eisíonn sé ordaithe na Cúirte Chuardaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• provides District Probate Registries based in 14 Circuit Court offices around the country</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cuireann sé clarú próbháid ceantair ar fáil atá bunaithe in oifigí na Cúirte Chuardaí i 14 áit ar fud na tíre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The County Registrar of each county manages jury selection for Circuit Criminal Courts in that county</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tógann an Cláraitheoir Condae, ina c/(h)ondae féin, cúram roghnú giúire don Chúirt Choiriúil Chuarda air/uirthi féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The Dublin Circuit Court office manages jury selection for the Dublin Circuit Criminal Court and the High Court - Central Criminal Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tógann oifigí na Cúirte Chuardaí in Átha Cliath an cúram orthú féin chun giúiré a roghnú don Chúirt Choiriúil Chuarda Átha Cliath agus don Ard Chúirt - an Chúirt Choiriúil Lárnach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The Dublin Circuit Court office manages jury selection for certain civil cases in the High Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tógann Oifigí na Cúirte Chuardaí in Átha Cliath cúram orthú féin do roghnú giúiré i gcásanna sibhialta áirithe don Ard Chúirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Circuit Court office processes family law applications, including</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn oifig na Cúirte Chuarda ag plé le hiarratais dlí i gcúrsaí clainne , mar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The Circuit Court Office deals with criminal cases that are sent forward for trial from the District Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bíonn oifig na Cúirte Chuardaí ag plé le cásanna coiriúla atá seolta ar aghaidh chun trialach chuig an Chúirt Dúiche</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The Dublin Circuit Court office handles arraignments, listing, legal aid, probation warrants, fines, bail and sentence reviews for cases in the Dublin Circuit Criminal Court, the High Court - Central Criminal Court and the Special Criminal Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bíonn oifig na Cúirte Chuardaí i mBaile Átha Cliath ag plé le heagraithe, le liostaí, le cuidiú dlí, le barántais phróbhaide, le fíneálacha, le bannaí, le athbhreithniú breithe do chásanna sa Chúirt Choiriúil Chuarda Átha Cliath, san Ard Chúírt - an Chúirt Choiriúil Lárnach agus an Chúirt Choiriúil Speisialta</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>A document under the law in Ireland, is anything with writing on it - this may include paper, stone, a map, a plan, a graph, a drawing, a computer or a computer disc</seg></tuv>
+  <tuv xml:lang="ga"><seg>De réir an dlí in Éirinn, is ionann doiciméad agus rud ar bith a bhfuil scríbhneoireacht air - d'fhéadfadh páipéar, cloch, léarscáil, plean, graf, líníocht, ríomhaire nó diosca ríomhaire a bheith san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Documentary evidence is admissible as evidence in court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá fianiase dhoiciméadach inghlactha mar fhianaise sa chúirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Criminal Evidence Act 1992 deals with the rules that cover the admissibility of documentary evidence in criminal proceedings</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déileálann An tAcht um Fhianaise Choiriúil 1992 leis na rialacha a chlúdaíonn inghlacthacht fianaise doiciméadaí in imeachtaí coiriúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In order that a court will accept documentary evidence in a criminal trial there are a number of safeguards in place to avoid abuse against the hearsay rule of evidence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá roinnt cosaintí i bhfeidhm le mí-úsáid a sheachaint in aghaidh rialach na fianaise clostráchta, ionas gur féidir leis an gcúirt glacadh le fianaise dhoiciméadach i dtriail choiriúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Section 8 of the Criminal Evidence Act 1992 gives the court discretion to exclude a document in the interests of justice, having regard to the circumstances</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann Alt 8 den Acht um Fhianaise Choiriúil 1992 discréid don chúirt le doiciméad a eisiamh ar mhaithe leis an gceartas, agus aird ar na cúinsí atá i gceist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a court is of the view that the document is unreliable, a fake or would result in unfairness to the accused, then the court has the option of excluding the document from the evidence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá an chúirt den tuairim go bhfuil doiciméad neamhiontaofa, bréagach nó go mbeadh sé leatromach ar an gcúisí, tá rogha ag an gcúirt an doiciméad a eisiamh ón bhfianaise</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Act also allows either side (prosecution or defence) to challenge the credibility of the documentary evidence and to give evidence to the court in this regard</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceadaíonn an tAcht do cheachtar taobh (ionchúiseamh nó cosaint) agóid a dhéanamh in aghaidh chreidiúnachta na fianaise doiciméadaí, agus fianaise a thabhairt don chúirt ar an ábhar seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the Gardai or prosecution wish to have any documentary evidence included in a court case a copy of the document must be served on the accused at least 21 days before the court case</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mian leis na Gardaí nó ionchúiseamh fianaise dhoiciméadach ar bith a áireamh i gcás cúirte, caithfear cóip den doiciméad a sheirbheáil ar an gcúisí ar a laghad 21 lá roimh an gcás cúirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Before the Criminal Evidence Act 1992, there was a best evidence rule, which stated that it was necessary to produce the original of a document for it to be introduced as evidence in a criminal case</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bhí riail na fianaise is fearr ann roimh an Acht um Fhianaise Choiriúil 1992, a shonraigh go raibh sé riachtanach doiciméad bunaidh a léiriú ionas gur féidir é a thabhairt isteach mar fhianaise i gcás coiriúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is, however, now possible to introduce a copy of a document as evidence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin féin, tá sé indéanta cóip de dhoiciméad a thabhairt isteach mar fhianaise anois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In civil cases the best evidence rule still applies</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá feidhm le riail na fianaise is fearr i gcásanna sibhialta fós</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, there are exceptions to the rule</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin féin, tá eisceachtaí leis an riail seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The court will accept a copy of the document, or oral evidence about the existence and content of the document, if the original has been destroyed or lost, or is impossible to obtain</seg></tuv>
+  <tuv xml:lang="ga"><seg>Glacfaidh an chúirt le cóip de dhoiciméad, nó fianaise bhéil faoi mharthain agus ábhar doiciméid, má tá an doiciméad bunaidh scriosta nó caillte, nó mura féidir teacht air</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For more detailed information you should seek legal advice</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir duit comhairle dlí a lorg chun faisnéis mionsonraithe a fháil</seg></tuv>
+</tu>
+</body>
+</tmx>

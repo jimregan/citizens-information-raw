@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Case study: Calculating annual leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cás-Staidéar: saoire bhliantúil a mheas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Jane began working for her employer 10 months ago</seg></tuv>
+  <tuv xml:lang="ga"><seg>Thosaigh Jane ag obair dá fostóir 10 mí ó shin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>She works a 35-hour week but was off work sick for 3 weeks during this time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Oibríonn sí 35 uair in aghaidh na seachtaine, ach bhí sí as láthair ón obair de bharr breoiteachta ar feadh 3 seachtainí le linn an ama seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When she asked for holidays, her employer told her she could have the odd week off when business was slack</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a rinne sí iarratas ar laethanta saoire, dúirt a fostóir go bhféadfadh sí corr seachtain a bheith saor aici nuair a bhí an gnó ciúin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>What are her rights?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cad iad a cearta?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Provided Jane doesn't have a contract of employment that gives her greater rights, she is relying on the provisions in the Organisation of Working Time Act 1997</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chomh fada agus nach bhfuil conradh fostaíochta ag Jane a thugann cearta breise di, tá sí ag brath ar na forálacha san Acht um Eagrú Ama Oibre 1997</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the 10 months, she worked 1505 hours (43 weeks x 35 hours per week)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa 10 mí, d'oibrigh sí 1505 uaireanta (43 seachtainí x 35)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This gives an entitlement to 4 weeks' leave, including at least 2 weeks' unbroken leave as she has been employed for more than 8 months</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann sé seo teidlíocht de shaoire 4 seachtainí, ina chuimsítear 2 sheachtain saoire gan briseadh toisc go bhfuil sí fostaithe ar feadh níos mó ná 8 mí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Jane's her entitlement might be affected by the actual time of the year she started the employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cibé ar bith, d'fhéadfadh an t-am den bhliain inar thosaigh sí an fhostaíocht dul i bhfeidhm ar a teidlíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the legislation, the leave year runs from April to March although some employers use the calendar year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoin reachtaíocht, ritheann an bhliain saoire ó Aibreán go Márta, cé go n-úsáideann fostóirí áirithe an bhliain féilire</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If, for example, Jane started work in January, her annual leave entitlement is as follows:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, má thosaigh Jane ag obair in Eanáir, tá a teidlíocht do shaoire bhliantúil mar a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>1st leave year: she worked from January to March</seg></tuv>
+  <tuv xml:lang="ga"><seg>1ú bliain saoire: d'oibrigh sí ó Eanáir go Márta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As she worked more than 117 hours in these 3 months she is entitled to one third of a week x 3 which equals one week's annual leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>Toisc gur oibrigh sí níos mó ná 117 uaireanta sa 3 mhí seo tá si i dteideal d'aon tríú de sheachtain x 3 atá cothrom le seachtain amháin de shaoire bhliantúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>2nd leave year: she worked from April to October</seg></tuv>
+  <tuv xml:lang="ga"><seg>2ra bliain saoire: d'oibrigh sí ó Aibreán go Deireadh Fómhair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>She does not yet have the required 1,365 hours to be entitled to 4 weeks' annual leave in the current leave year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl an 1,365 uaireanta aici atá riachtanach le bheith i dteideal do 4 seachtainí saoire bhliantúil sa bhliain saoire reatha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>She has worked more than 117 hours in 6 of the 7 months</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sí tar éis oibriú níos mó ná 117 uaireanta i 6 as 7 mí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This gives her an entitlement to one-third of a week x 6 which equals 2 weeks' holidays</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann sé seo teidlíocht d'aon tríú de sheachtain x 6 di atá cothrom le 2 sheachtain saoire</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Over the 2 leave years involved, she has earned a total of 3 weeks' holidays. This is not affected by the fact that Jane was off work sick for 3 weeks</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go dtí seo mar sin, le linn an 2 bhliain saoire a bhaineann, tá iomlán de 3 sheachtain saoire tuillte aici</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Jane's employer, in deciding when the leave may be taken, must take into account any family responsibilities that Jane may have, in addition to the opportunities that may be available to her for rest and recreation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, nuair atá a fostóir ag déanamh cinneadh faoi cén uair gur féidir saoire a thógáil, caithfidh siad aon dualgais teaghlaigh a bheadh ag Jane a thógáil san áireamh, chomh maith le deiseanna scíthe agus áineasa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If Jane has difficulty in getting her annual leave entitlement, she should make a complaint to the Workplace Relations Commission, using the online complaint form available on workplacerelations.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá deacracht ag Jane ag fáil a teidlíocht do shaoire bhliantúil ba chóir di an fhoirm ghearáin ar líne nua a úsáid á fáil ar workplacerelations.ie</seg></tuv>
+</tu>
+</body>
+</tmx>

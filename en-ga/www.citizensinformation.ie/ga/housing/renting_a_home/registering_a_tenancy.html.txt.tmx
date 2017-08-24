@@ -1,0 +1,249 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>• What tenancies must be registered?</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cén tionóntachtaí is gá a chlárú?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the Residential Tenancies Act 2004 and he Residential Tenancies (Amendment) Act 2015, landlords must register residential tenancies with the Residential Tenancies Board (RTB)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoin Acht um Thionóntachtaí Cónaithe Príobháideacha, 2004, caitheann tiarnaí talún tionóntachtaí cónaithe príobháideacha a chlárú leis an mBord um Thionóntachtaí Cónaithe Príobháideacha (BTCP)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The RTB uses this information to maintain a publicly available register</seg></tuv>
+  <tuv xml:lang="ga"><seg>Úsáideann an BTCP an fhaisnéis seo chun clár ar a bhfuil fáil phoiblí a choimeád</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The register does not show the identity of the landlord or the tenants, or the amount of the rent</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní thaispeánann an clár seo aitheantas an tiarna talún nó na dtionóntaí, ná méid an chíosa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Its name was changed on 7 April 2016, when approved housing bodies (generally known as housing associations) came under its remit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Athraíonn an tAcht um Thionóntachtaí Cónaithe Príobháideacha (Leasú) 2015 cuid de na rialacha. Beidh tuilleadh eolais ar fáil go luath</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>What tenancies must be registered?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cén tionóntachtaí is gá a chlárú?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Residential Tenancies Acts 2004-2015 apply to most privately rented dwellings and to dwellings rented out by housing associations, and require them to be registered with the RTB</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann an tAcht um Thionóntachtaí Cónaithe leis an gcuid is mó d’áiteanna cónaithe atá ar cíos go príobháideach agus ceanglaíonn an tAcht orthu a bheith cláraithe leis an BTCP</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Acts do not apply to the following types of rented property:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhaineann sé leis na saghsanna a leanas de mhaoin ar cíos:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Formerly rent-controlled dwellings or long-occupation lease tenancies – separate legislation applies to them</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Áiteanna cónaithe a raibh an cíos rialaithe roimhe seo nó tionóntachtaí ar léas fadáitíochta – baineann reachtaíocht ar leith leo siúd</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Owner-occupied accommodation (for example, if you rent a room in your landlord's home)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cóiríocht úinéir-áitithe (mar shampla, má dhéanann tú cóiríocht a roinnt le do thiarna talún nó má fhaigheann tú árasán ar cíos i dteach do thiarna talún)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Dwellings in which the spouse, parent or child of the landlord lives</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Áiteanna cónaithe ina gcónaíonn céile, tuismitheoir nó leanbh an tiarna talún</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This applies to informal family arrangements where there is no tenancy agreement in writing</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann seo le socruithe neamhfhoirmiúla teaghlaigh nuair nach ann d’aon chomhaontú tionóntachta i scríbhinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, the Acts do cover formal agreements between family members, for example where a lease has been signed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cumhdaíonn an tAcht comhaontuithe foirmiúla, áfach, idir daoine muinteartha, mar shampla, sa chás gur síníodh léas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Social housing provided by local authorities (though, as noted above, the voluntary housing sector has been included since 7 April 2016)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tithíocht shóisialta (tá an earnáil tithíochta dheonach, ar a shon sin, faoi mar a shonraítear thuas, le cur san áireamh faoin reachtaíocht leasaithe)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Part 4 of the Residential Tenancies Act 2004 (which deals with security of tenure) does not apply to:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhaineann Cuid 4 den Acht (a dhéileálann le slándáil na tionachta) leis an méid a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Employment-related lettings – these are sometimes called ‘tied’ houses as they are tied to the job and you must leave the dwelling when the job ends, and</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ligean a bhaineann le fostaíocht – tugtar tithe ‘ar éill’ orthu seo amanna, mar gheall go mbíonn siad ceangailte leis an bpost agus nach mór duit an áit chónaithe a fhágáil nuair a chríochnaítear an post, agus</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Section 50 student accommodation (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cóiríocht do mhic léinn faoi Alt 50 (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>New tenancies must be registered within a month of the start of the tenancy</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór tionóntachtaí nua a chlárú laistigh de mhí tar éis go gcuirtear tús leis an tionóntacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Landlords are responsible for registration</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tiarnaí talún freagrach as clárú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The tenant must give their details to the landlord, including their Personal Public Service Number (PPS Number)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don tionónta a sonraí a thabhairt don tiarna talún, lena n-áirítear a n-Uimhir Phearsanta Seirbhíse Poiblí (UPSP)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When a tenancy has been in existence for 4 years or more, a new tenancy begins</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a bhíonn tionóntacht ann ar feadh ceithre bliana nó níos mó, cuirtear tús le tionóntacht nua</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The landlord must re-register this new tenancy with the PRTB</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don tiarna talún an tionóntacht nua seo a athchlárú leis an BTCP</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read more in our document on security of tenure and on Threshold's website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat níos mó a léamh inár gcáipéis ar shaghsanna tionóntachta agus ar láithreán gréasáin Threshold</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Private landlords and housing associations must supply the following information when registering:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór do thiarnaí talún an fhaisnéis a leanas a sholáthar nuair a bhíonn clárú á dhéanamh acu:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The address of the rented dwelling</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seoladh na háite cónaithe ar cíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The name, address and PPS Number of the landlord (or registered number, if a company)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ainm, seoladh agus UPSP an tiarna talún (nó an uimhir chláraithe, más cuideachta atá ann)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The approved housing body (AHB) number, if a housing association</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ainmneacha agus UPSPanna gach tionónta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The name and PPS Number of each tenant</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An líon daoine a chónaíonn san áit chónaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A description of the dwelling (for example, a 2-reception, 3-bedroom semi-detached house)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tuairisc ar an áit chónaithe lena n-áirítear líon na spásanna leapa (mar shampla, teach leathscoite le dhá sheomra fáilte, trí sheomra leapa agus cúig spás leapa ann)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The date the tenancy started</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An neasachar urláir i méadair chearnacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The rent and how often it is payable</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An dáta ar ar thosaigh an tionóntacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The local authority area the dwelling is located in</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An cíos agus cé chomh minic agus atá sé iníoctha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The term of the lease if it is a fixed-term lease</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An ceantar údaráis áitiúil mar a bhfuil an áit chónaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Whether it is a sub-letting</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cibé acu más fo-ligean é</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Building Energy Rating (BER) if applicable</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An Rátáil Fuinnimh Foirgnimh (BER), más infheidhme</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Details of any management company or authorised agent</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sonraí faoi aon chuideachta bhainistíochta nó gníomhaire údaraithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Each tenancy is allocated a Registered Tenancy (RT) number</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leithdháiltear uimhir Thionóntachta Cláraithe (TC) do gach tionóntacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The RTB issues confirmation letters to both the landlord and the tenant, containing this RT number, which must be used in any dealings with the RTB</seg></tuv>
+  <tuv xml:lang="ga"><seg>Eisíonn an BTCP litreacha deimhnithe don tiarna talún agus don tionónta araon, ina gcuimsítear an uimhir TC seo, nach mór a úsáid in aon déileálacha leis an BTCP</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the amount of rent changes, the landlord must tell the RTB of the change within one month</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má athraítear méid an chíosa, ní foláir don tiarna talún an t-athrú a chur in iúl don BTCP laistigh de mhí amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read more in our document on rent increases</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat níos mó a léamh faoi seo inár gcáipéis ar mhéaduithe cíosa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Is my tenancy registered?</seg></tuv>
+  <tuv xml:lang="ga"><seg>An bhfuil mo thionóntacht cláraithe?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can view the public register to check that your tenancy has been registered</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú súil a chaitheamh ar an gclár poiblí lena sheiceáil ar cláraíodh do thionóntacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The RTB can take action against landlords who do not register tenancies</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh an BTCP dul i mbun caingean dlí i leith tiarnaí talún nach gcláraíonn tionóntachtaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read more on the RTB’s website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú tuilleadh a léamh faoi ar láithreán gréasáin an BTCP</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Landlords can only use the RTB’s dispute resolution service if they have registered the tenancy</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir ach le tiarnaí talún seirbhís réitigh dhíospóide an BTCP a úsáid má chláraigh siad an tionóntacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, even if your landlord hasn’t registered your tenancy, you can still avail of this service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fiú murar chláraigh do thiarna talún do thionóntacht, áfach, féadfaidh tú fáil a bheith agat ar an tseirbhís seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The RTB can share information with local authorities, which enforce the regulations relating to standards and rent books</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh an BTCP faisnéis a roinnt le húdaráis áitiúla, a fhorfheidhmíonn na rialacháin a bhaineann le caighdeáin agus leabhair chíosa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It can also share information with the Department of Social Protection and the Revenue Commissioners</seg></tuv>
+  <tuv xml:lang="ga"><seg>Anuas air sin, féadfaidh siad an fhaisnéis a roinnt leis an Roinn Coimirce Sóisialaí agus na Coimisinéirí Ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Each registration costs €90</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá costas €90 ar gach clárúchán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are registering a number of tenancies in the same building at the same time, you can pay a composite fee of €375</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ag clárú roinnt tionóntachtaí san fhoirgneamh céanna ag an aon am amháin, is féidir leat táille ilchodach €375 a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a single registration is late, the fee is doubled</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá clárúchán aonar mall, dúblaítear an táille go €180</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a multiple registration is late, the composite fee no longer applies and a fee of €180 applies for each tenancy being registered late</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá clárúchán iolrach mall, gearrtar táille €180 ar chlárúchán gach tionóntachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Landlords who fail to register may be fined up to €3,000 and face imprisonment for up to six months on conviction. A further penalty of €250 for each day of non-registration may be levied</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabharfaidh an BTCP roinnt den táille chlárúcháin seo chuig na húdaráis áitiúla le cur i bhfeidhm na rialúchán a bhaineann le leabhair chíosa agus caighdeáin chóíríochta a mhaoiniú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For a period of 12 months from 7 April 2016, approved housing bodies (housing associations) will be charged €45 for each tenancy registration</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhanann na tionóntaí tar éis don tionóntacht cheithre bliana a bheith istigh, ní mór duit tionóntacht nua a chlárú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>During this period, the composite fee (for up to 10 multiple tenancies in the same building) will be €187.50</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadtar fíneáil €3,000 a ghearradh ar thiarnaí talún a mhainníonn i gclárú agus d’fhéadfadh príosúnacht suas go sé mhí ar a gciontú a bheith rompu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>After this period, they will be subject to the same rates and penalties as private landlords</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadtar pionós breise €250 a thoibhiú ar gach lá neamhchlárúchái</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you do not already have an account with the RTB, you will need to create one. Alternatively, you can request a paper application form from the RTB and send the completed form to the address below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú iarratas a dhéanamh ar líne chun tionóntacht a chlárú nó an fhoirm iarratais ar pháipéar (pdf) a chomhlánú agus í a sheoladh ar ais chuig an BTCP ag an seoladh thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You need to provide detailed information on the property when you register the tenancy (see above)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is gá duit faisnéis mhionsonraithe a sholáthar faoin maoin nuair a chláraíonn tú an tionóntacht (féach thuas)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The RTB publishes a checklist of the information you need to provide, along with explanatory notes (pdf).   Where to apply</seg></tuv>
+  <tuv xml:lang="ga"><seg>Foilsíonn an BTCP seicliosta den fhaisnéis is gá duit a sholáthar, mar aon le nótaí mínitheacha (pdf)</seg></tuv>
+</tu>
+</body>
+</tmx>

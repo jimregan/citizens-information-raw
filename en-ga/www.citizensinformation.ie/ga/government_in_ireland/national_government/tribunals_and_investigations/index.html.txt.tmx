@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Tribunals and investigations - introduction</seg></tuv>
+  <tuv xml:lang="ga"><seg>Binsí agus imscrúduithe - réamhrá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Irish law makes provision for a number of different types of investigatory inquiry</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar foráil i ndlí na hÉireann do líon saghsanna éagsúla d’fhiosrúchán imscrúdaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A tribunal of inquiry investigates a specific matter(s) of public importance and submits a report to the Oireachtas setting out its findings of fact</seg></tuv>
+  <tuv xml:lang="ga"><seg>Imscrúdaíonn binse fiosrúcháin ceisteanna ar leith a bhfuil tábhacht phoiblí ag baint leo agus cuireann an binse tuairisc faoi bhráid an Oireachtais a leagann síos na cinntí fíorais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Commissions of investigation are a less expensive and speedier method of investigating matters than a tribunal of inquiry</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chosnaíonn coimisiúin imscrúdaithe an oiread céanna agus is bealach níos tapúla iad chun saincheisteanna a imscrúdú ná binse fiosraithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most Read in "Government in Ireland"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ábhar is mó éilimh i "Rialtas in Éirinn"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Fundamental Rights under the Irish Constitution</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bunchearta faoi Bhunreacht na hÉireann</seg></tuv>
+</tu>
+</body>
+</tmx>

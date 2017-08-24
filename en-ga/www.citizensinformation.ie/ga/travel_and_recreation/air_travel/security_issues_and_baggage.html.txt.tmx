@@ -1,0 +1,253 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Security issues and airline baggage</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceisteanna shábháilteachta agus bagáiste aerlíne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As part of general air transport security measures, you are not allowed to bring certain items into a restricted area of an Irish airport or on board an aircraft leaving an EU airport</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar chuid de bhearta ginearálta sábháilteachta aeriompair, níl cead agat rudaí áirithe a thabhairt isteach i limistéar srianta in aerfort in Éirinn nó ar bord eitleáin a fhágfaidh aerfort san AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is because these items have the potential to be used as weapons</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is mar gheall gur féidir na rudaí sin a úsáid mar airm atá seo amhlaidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The rules regarding air transport security are in place internationally and have been noticeably increased in recent years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá na rialacha maidir le sábháilteacht aeriompair i bhfeidhm go hidirnáisiúnta, agus méadaíodh iad go suntasach le blianta beaga anuas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In advance of air travel, you are advised to contact your airline directly and seek advice if you are unsure about any security issue, or if you wish to carry certain goods</seg></tuv>
+  <tuv xml:lang="ga"><seg>Moltar duit dul i dteagmháil le d’aerlíne sula n-imíonn tú chun comhairle a fháil mura bhfuil tú cinnte faoi cheist sábáilteachta ar bith, nó má tá tú ag iarraidh earraí áirithe a thabhairt leat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Knowing in advance which items you are forbidden to carry on board an aircraft will ensure you can plan your baggage requirements accordingly</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más eol duit roimh ré céard iad na hearraí ar a bhfuil cosc ar a n-iompar ar bord aerárthaigh, cinnteoidh seo gur féidir leat do chuid riachtanais bhagáiste a phleanáil dá réir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is forbidden to bring the following items into restricted areas of an airport or on board an aircraft as unchecked/hand luggage:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá cosc ar na rudaí seo a leanas a thabhairt isteach i gceantair shrianta aerfoirt nó ar bord eitleáin mar bhagáiste nach bhfuil seiceálta isteach/láimhe:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Knives with blades of any length, including letter openers made of metal or any other material that is strong enough to be used as a potential weapon</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sceana le lanna d'fhad ar bith, sceana litreacha déanta as miotal san áireamh, nó as ábhar ar bith eile atá sách láidir le n-úsáid mar arm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Open bladed razor blades - razors that can be opened and the razor blade removed</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Lanna rásúir oscailte - rásúir gur féidir iad a oscailt agus an lann rásúir a thógáil amach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Razors that have the blade set into a plastic moulding are not prohibited and may be allowed on board an aircraft</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl cosc ar rásúir a bhfuil an lann suite i múnla plaisteach iontu, agus is féidir iad a thabhairt ar bord eitleáin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Hypodermic syringes (unless you notify the airline in advance and have a current letter from your doctor confirming you have a specified medical condition that requires you to carry hypodermic syringes with you</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Steallairí fodheirmeacha (ach amháin má chuireann tú an aerlíne ar an eolas roimh ré agus má tá litir agat ó do dhochtúir ag deimhniú go bhfuil galar ar leith ort ionas go gcaithfidh tú steallairí fodheirmeacha a thabhairt leat)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should also be aware that the airline may insist that the medication be packed in a certain way and may be retained by the captain until necessary)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart go dtuigfidh tú gur féidir leis an aerlíne iachall a chur ort an leigheas a phacáil i mbealach ar leith, agus go bhféadfadh sé tarlú go gcoinneodh an captaen é go dtí go mbeadh sé ag teastáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Any other article that could reasonably be used or adapted to cause injury to a person</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Rud ar bith eile a d'fhéadfadh a úsáid nó a athrú chun dochar a dhéanamh do dhuine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The articles listed above will be confiscated and/or consigned to the hold of the aircraft</seg></tuv>
+  <tuv xml:lang="ga"><seg>Coigistítear agus/nó coinsíntear na hearraí liostaithe thuas chuig broinn an eitleáin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When on duty, flight crew are allowed to keep certain articles, such as cutlery, when they are essential for in-flight duties</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn cead ag foireann an eitleáin rudaí áirithe, ar nós cuitléarachta, a choinneáil agus iad ar dhualgas, má tá siad riachtanach dá ndualgais i rith na heitilte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Restrictions on liquids and security checkpoints</seg></tuv>
+  <tuv xml:lang="ga"><seg>Srianta ar leachtanna agus seicphointí slándála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are restrictions in operation throughout the EU limiting the carriage of liquids in carry-on hand luggage</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá srianta ar fud an AE in 2006 a chuireann srian ar iompar leachtanna i mbagáiste láimhe a dhéanann tú a iompar ar bord an eitleáin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may only take small quantities of liquids in hand luggage</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leat ach méideanna beaga de leachtanna a ghlacadh leat sa bhagáiste láimhe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Those liquids must be in individual containers with a maximum capacity of 100ml each</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór do na leachtanna sin bheith i ngabhdáin aonair ag a bhfuil uastoilleadh 100ml an ceann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The liquids must be packed in one transparent, re-sealable plastic bag that is not more than 1 litre in capacity</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór na leachtanna a phacáil i mála trédhearcach plaisteach in-athshéalaithe amháin ag a bhfuil toilleadh 1 lítear ar a mhéid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Liquids include the following items:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leachtanna atá sna nithe a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Water and other drinks, soups and syrups</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Uisce agus deochanna eile, anraithí agus síoróipí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Gels (including hair and shower gels)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Glóthaí (lena n-áirítear glóthach ghruaige agus chithfholctha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Creams, lotions and oils</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Uachtair, lóiseanna agus olaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Pressurised containers (including shaving foam, other foams and deoderants)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gabhdáin bhrúchóirithe (lena n-áirítear sobal bearrtha, sobail agus díbholaígh eile)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may still pack liquids in luggage that you check in, the new restrictions only apply to hand luggage</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat fós leachtanna a phacáil i mbagáiste a dhéanann tú a sheiceáil isteach, ní bhaineann na srianta nua ach le bagáiste láimhe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may also carry in your hand luggage any medicines and dietary requirements (including baby foods) for use during the trip</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa mhullach air sin, is féidir leat aon chógais agus riachtanais chothaithe (lena n-áirítear bianna linbh) lena n-úsáid le linn an turais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Remember however, you may be asked for proof that they are needed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuimhnigh, féadfar iarraidh ort a chruthú go dteastaíonn siad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may also buy liquids (such as drinks and perfumes) either in an EU shop beyond the point where you show your boarding pass or on board an aircraft operated by an EU airline</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat, freisin, leachtanna (ar nós deochanna agus cumhrán) a cheannach i siopa san AE tar éis duit dul níos faide ná an pointe a thaispeánann tú do phas bordála, nó ar bord eitleáin atá á oibriú ag aerlíne den AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If these items are sold in a special sealed bag - don't open it before you are screened, as the contents may be confiscated at the checkpoint</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhíoltar na hearraí seo i mála speisialta séalaithe – ná hoscail é go dtí go ndéantar thú a sciathadh, de bharr gur féidir leo a bhfuil ann a ghabháil ag an seicphointe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The European Commission have produced these Frequently Asked Questions on the carriage of liquids as hand luggage</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chuir an Coimisiún Eorpach na Ceisteanna Coititanta maidir le hiompar leachtanna mar bhagáiste láimhe i dtoll a chéile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Planning your baggage requirements</seg></tuv>
+  <tuv xml:lang="ga"><seg>Do riachtanais bhagáiste a phleanáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Ensure your bag is securely closed/fastened and if possible, locked</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Dean cinnte go bhfuil do mhála dúnta/ceangailte i gceart agus, más féidir, faoi ghlas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Tie up loose straps and ensure no items are hanging from the bag - they may get caught in the baggage system</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ceangal iallacha scaoilte agus déan cinnte nach bhfuil rud ar bith ag crochadh ón mála – d'fhéadfadh siad a dhul i bhfastú sa chóras bagáiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Do not pack medication, important documents, valuable items or cash in your checked baggage - carry them instead in your unchecked/hand baggage</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ná chuir leigheas, cáipéisí tábhachtacha, rudaí luachmhara, ná airgead tirim i do bhagáiste seiceálta – tabhair leat iad i do bhagáiste nach bhfuil seiceálta isteach/láimhe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is important to remember that airline liability is limited to US$400 per passenger for unchecked/hand baggage</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé tábhachtach go gcuimhneoidh tú go bhfuil teorainn US$400 an phaisinéara ar bagáiste nach bhfuil seiceálta isteach/láimhe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your unchecked/hand baggage contains items of greater value than this, you can sign a declaration and pay additional charges at check-in to cover any damage caused to your baggage</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá earraí ar fiú níos mó ná sin iad i do bhagáiste nach bhfuil seiceálta isteach/láimhe, d'fhéadfá dearbhú a shíniú agus táillí breise a íoc agus tú ag seiceáil isteach chun damáiste do do bhagáiste a chlúdach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Label each bag on the inside with your name and full destination address and on the outside with your name and destination city</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Chuir lipéad le d'ainm agus seoladh iomlán do cheann scríbe taobh istigh, agus d'ainm agus cathair do cheann scríbe ar an taobh amuigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Airlines have set varying levels of weight and dimensions (i.e., width, length, etc.) for checked and unchecked/hand luggage</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bíonn leibhéil éagsúla meacháin agus miosúir (leithead, fad agus araile) ag aerlínte do bhagáiste seiceálta agus do bhagáiste nach bhfuil seiceálta isteach/láimhe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may have to pay additional charges if your luggage is greater than that specified by the airline</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh sé tarlú go mbeidh ort táillí breise a íoc má tá do bhagáiste níos mó ná an teorainn atá leagtha síos ag an aerlíne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Check with the customer service department of the airline in advance of travel</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seiceáil le rannóg seirbhíse custaiméara na haerlíne roimh thaisteal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Every piece of your checked baggage (i.e., baggage or luggage that you give custody of to the airline when you check-in) must be clearly labelled with your name and destination address</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní foláir duit lipéad soiléir a chur ar chuile phíosa bagáiste seiceálta (bagáiste nó málaí a chuireann tú faoi chúram na haerlíne agus tú ag seiceáil isteach) le d'ainm agus seoladh do cheann scríbe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is also advisable to place a similar label inside each piece of baggage</seg></tuv>
+  <tuv xml:lang="ga"><seg>Moltar duit lipéad mar sin a chur taobh istigh de gach píosa bagáiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(Sometimes, airlines provide these labels free of charge when you check-in)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Amanna, tugann na haerlínte na lipéid seo duit saor in aisce agus tú ag seiceáil isteach)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Remove all tags and labels left over from previous flights - they may cause your baggage to be delayed or misplaced</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bain den bhagáiste na clibeanna agus lipéid uilig atá fágtha ó eitiltí roimhe sin – d'fhéadfadh siad do bhagáiste a chur amú, nó moill a chur air</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Before presenting your baggage at check-in, ensure it is locked</seg></tuv>
+  <tuv xml:lang="ga"><seg>Roimh duit do bhagáiste a thabhairt isteach ag an ionad seiceála isteach, déan cinnte go bhfuil glas air</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When it accepted at the check-in desk, each item of checked and baggage will be given a destination tag showing your flight number and a receipt portion will be attached to your ticket</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a ghlactar leis ag an ionad seiceála isteach, cuirfear clib cinn scríbe ar gach píosa bagáiste ag taispeáint d'uimhir eitilte agus ceanglaítear admháil do do thicéad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is important to retain the receipt for your baggage as this receipt has important information about your flight details, airline, etc., and will help track your baggage if it is delayed or misplaced</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé tábhachtach go gcoinníonn tú admháil do bhagáiste mar bíonn eolas tábhachtach uirthi faoi shonraí d'eitilt, aerlíne, agus araile, agus tabharfaidh sí cúnamh duit do bhagáiste a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Ensure the tag shows the correct destination and flight number and, if you are making connections en route, that your baggage is checked to your final destination</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déan cinnte go bhfuil an ceann scríbe agus uimhir eitilte ceart ar an gclib, agus má tá eitiltí cónasctha le tógáil agat en route, go bhfuil do bhagáiste seiceálta go dtí do cheann scríbe deireanach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Before boarding your flight, your hand baggage will be checked by security staff using x-ray machinery</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seiceálfaidh foireann sábháilteachta do bhagáiste láimhe roimh duit dul ar bord d'eitilt trí fhearas X-ghathach a úsáid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Never carry packages with unidentified contents on behalf of other people and if you are asked to do so, contact the airport police, customs or member of staff immediately</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ná hiompair pacáistí le hábhair gan aithint ar son daoine eile agus má iarrtar ort é sin a dhéanamh, téigh i dteagmháil láithreach le gardaí an aerfoirt, lucht custaim, nó ball den fhoireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your checked baggage will be screened by security and matched against the passenger list prior to loading</seg></tuv>
+  <tuv xml:lang="ga"><seg>Scagfaidh an fhoireann sábhailteachta do bhagáiste seiceálta agus cuirfidh siad é i gcomparáid leis an liosta paisinéara roimh ualú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Airline liability could be reduced for both checked and unchecked baggage if your baggage was presented at check-in, packed in an unsuitable way (or packed in a damaged bag or case or if you presented your baggage after the recommended check-in time)</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh fiachas an aerlíne a bheith laghdaithe i dtaobh bagáiste seiceálta agus bagáiste nach bhfuil seiceálta isteach araon má cuireadh an bagáiste ar fáil ag an ionad seiceála isteach agus é pacáilte go mí-oiriúnach, nó pacáilte i mála nó cás a raibh damáiste déanta dó, nó má chuir tú isteach é i ndiaidh an ama seiceálta isteach a bhí leagtha síos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your airline may carry some items of baggage with special precautions</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh d'aerlíne nithe áirithe bagáiste a iompar le réamh-chúramaí speisialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There may be an additional charge to carry these items and it is always advisable to check with the airline in advance regarding arrangements you will need to make</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh táille bhreise a bheith gearrtha chun na rudaí seo a iompar, agus ba cheart duit i gcónaí dul i dteagmháil leis an aerlíne roimh ré maidir leis na socruithe a chaithfidh tú a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The following are some examples of restricted articles:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá samplaí de rudaí teoranta thíos:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Sports equipment (i.e., golf clubs, surf boards, snowboards, skis, bicycles, etc.) are permitted as checked baggage only</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Trealamh spóirt; ceadaítear trealamh spóirt (i.e., maidí gailf, cláracha toinne, cláracha sneachta, scíonna, rothair, agus araile) mar bhagáiste seiceálta amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Mobility aids (i.e., certain types of electric wheelchairs, walking frames, etc.)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Áiseanna chun cúnamh gluaiseachta a thabhairt (sé sin, cineálacha áirithe cathaoireacha rothaí leictreacha, frámaí siúil agus araile)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Guide dogs (some airlines will allow visually impaired passengers to travel with their guide dog once the animal is securely fastened and complies with quarantine requirements at your destination)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Madraí na nDall (tabharfaidh aerlínte ar leith cead do phaisinéirí a bhfil míchumas na súl orthu taisteal lena madraí ach iad a bheith ceangailte go dlúth agus má chomhlíonann siad rialacháin choraintín ag an gceann scríbe)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Contact your airline if you have any concerns regarding airline baggage or on-board security issues</seg></tuv>
+  <tuv xml:lang="ga"><seg>Téigh i dteagmháil le d'aerlíne má tá ceisteanna agat faoi bhagáiste aeir nó sábháilteacht ar bord eitleáin</seg></tuv>
+</tu>
+</body>
+</tmx>

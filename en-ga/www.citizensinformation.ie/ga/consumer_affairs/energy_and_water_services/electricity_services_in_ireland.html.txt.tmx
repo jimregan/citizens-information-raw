@@ -1,0 +1,421 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Electricity is generated in Ireland from a number of sources such as gas, coal, oil and renewable souces</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gineann roinnt foinsí leictreachas in Éirinn mar gás, gual, ola agus foinsí in-athnuaite</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The standard electricity voltage in Ireland is 230V a.c., nominal, at 50Hz, with plugs being of the 3 pin IS411 (BS 1363) type</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an voltas caighdeánach leictreachais i bPoblacht na hÉireann ná 230V a.c., ainmniúil, ag 50Hz, agus úsáidtear plugaí trí phionna IS411 (BS 1363)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are moving to Ireland or coming to Ireland on holiday, you should check any electrical appliances you wish to bring with you in advance to ensure that you can use them in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ag bogadh go hÉirinn nó ag teacht go hÉirinn ar saoire, ba chóir duit aon ghairis leictreacha gur mian leat a thabhairt leat a sheiceáil roimh ré lena chinntiú gur féidir leat iad a úsáid in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Commission for Energy Regulation (CER) regulates the electricity market and can deal with unresolved complaints</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rialálann an Coimisiún um Rialáil Fuinnimh (CRF) an margadh leictreachais agus is féidir leis déileáil le gearáin neamhréitithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Electricity services in Ireland are provided by the Electricity Supply Board (ESB), a state body that is owned and controlled by the Government</seg></tuv>
+  <tuv xml:lang="ga"><seg>Soláthraíonn Bord Soláthair an Leictreachais (BSL) seirbhísí leictreachais i bPoblacht na hÉireann agus is comhlacht stáit leis an Rialtas é agus atá faoi smacht an Rialtais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>ESB owns and manages the electricity network and operates 19 major power stations throughout Ireland and a number of smaller stations in 28 sites around the country</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is le BSL an gréasán leictreachais agus is é a bhainistíonn é agus a fheidhmíonn 19 mórstáisiún cumhachta ar fud na hÉireann chomh maith le roinnt stáisiún níos lú i 28 láithreán timpeall na tíre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Deregulation of the electricity market in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dírialáil an mhargaidh leictreachais in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In February 2000, as a result of EU directive 96/92/EC, the electricity market in Ireland was opened to competition</seg></tuv>
+  <tuv xml:lang="ga"><seg>I mí Feabhra 2000, de thoradh threoir 96/92/CE an AE, osclaíodh an margadh leictreachais i bPoblacht na hÉireann d’iomaitheoirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Larger customers using 4 gigawatt hours or more of power per year became free to choose their own electricity supplier</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bhí saoirse ansin ag custaiméirí ar mhórmhéid a úsáideann 4 uair an chloig gigeavata cumhachta nó níos mó a soláthraí leictreachais féin a roghnú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The retail electricity market opened fully to competition in February 2005</seg></tuv>
+  <tuv xml:lang="ga"><seg>Osclaíodh an margadh leictreachais mhiondíola d’iomaitheoirí go hiomlán i mí Feabhra 2005</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In November 2007 a Single Electricity Market (SEM) came into effect with the trading of wholesale electricity in Ireland and Northern Ireland on an all-island basis</seg></tuv>
+  <tuv xml:lang="ga"><seg>I Samhain 2007 tháinig an Margadh Aonair Leictreachais i bhfeidhm agus bhí leictreachas mórdhíola i bPoblacht na hÉireann agus i dTuaisceart Éireann á thrádáil ar bhonn uile-oileánda</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All business markets were deregulated from October 2010</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bhí dírialú gach margaí gnó ó Deireadh Fómhair 2010</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>From April 2011, the domestic market is deregulated with all suppliers free to set their own tariffs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó Aibreán 2011, is é an margadh baile dírialú le gach soláthraí saor in aisce a chur ar a gcuid táillí féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Transmission and distribution of electricity</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leictreachas a tharchur agus a dháileadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The electricity transmission system, commonly known as the national grid, is a high voltage network for the transmission of bulk electricity supplies from the electricity generation sources to transformer stations around Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é atá sa chóras tarchuradóireachta leictreachais, ar a dtugtar an greille náisiúnta go coitianta, ná gréasán ardvoltais le mórsholáthairtí leictreachais a tharchur ó na foinsí ginte leictreachais chuig stáisiúin chlaochladáin timpeall na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>EirGrid, an independent state-owned body, is the transmission system operator and is responsible for the operation, development and maintenance of the system</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é EirGrid, comhlacht neamhspleách ar leis an stát é, oibreoir an chórais tarchuradóireachta agus tá sé freagrach as an gcóras a oibriú, a fhorbairt agus a chothabháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>ESB Networks, a separate business unit within ESB, is the owner of the transmission system and is responsible for carrying out the maintenance and construction of the system</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é ESB Networks, aonad gnó ar leithligh laistigh de BSL, úinéir an chórais tarchuradóireachta agus tá sé freagrach as obair chothabhála agus thógála a dhéanamh ar an gcóras</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The distribution network is the medium and low voltage electricity network used to deliver electricity from the transformer stations to connection points such as houses, offices, shops, and street lights, and is owned by ESB Networks</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an gréasán dáileacháin an gréasán meánvoltais agus ísealvoltais a úsáidtear chun leictreachas a sheachadadh ó na stáisiúin chlaochladáin chuig pointí atá nasctha leo mar tithe, oifigí, siopaí, agus soilse sráide, agus is le ESB Networks é</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>ESB Networks is also the distribution system operator and is responsible for building, maintaining and operating all the distibution level network infrastructure</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é ESB Networks oibreoir an chórais dáileacháin freisin agus tá sé freagrach as bonneagar uile an ghréasáin, ar leibhéal dáileacháin, a thógáil, a chothabháil agus a oibriú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This includes all overhead electricity lines, poles and underground cables</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá gach líne leictreachais lasnairde, cuaille leictreachais agus cábla faoi thalamh san áireamh leis seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>ESB Networks has responsibility to all electricity customers, irrespective of their supplier, for:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé d’fhreagracht ar ESB Networks an méid seo a leanas a dhéanamh do gach custaiméir leictreachais, beag beann ar a soláthraí:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Connection to the network</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Iad a nascadh leis an ngréasán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Reading meters and passing these readings to the different supply companies</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Méadair a léamh agus iad a sheoladh ar aghaidh chuig na cuideachtaí difriúla soláthair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Restoring supply in cases of interruptions and emergencies</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Soláthar a athbhunú i gcás go gcuirtear isteach air agus i gcás éigeandálacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are a number of electricity suppliers licenced by CER to supply electricity to retail customers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá roinnt soláthraithe leictreachais ann atá ceadaithe ag CRF le leictreachas a sholáthar do chustaiméirí miondíola</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>ESB Electic Ireland (formerly called ESB Customer Supply), an independent business unit within ESB, operates as the Public Electricity Supplier</seg></tuv>
+  <tuv xml:lang="ga"><seg>Oibríonn BSL Éire Leictreach (ar a dtugtar Soláthar Custaiméirí BSL roimhe seo), aonad gnó neamhspleách laistigh de BSL, mar an Soláthraí Poiblí Leictreachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under this licence, ESB Electric Ireland is required among other things:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoin gceadúnas seo, ceanglaítear ar BSL Éire Leictreach an méid seo a leanas a dhéanamh i measc rudaí eile:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• To supply all customers who are not served by another supplier</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Leictreachas a sholáthar do gach custaiméir nach bhfreastalaíonn soláthraí eile orthu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Not to discriminate in relation to supplying electricity</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gan idirdhealú a dhéanamh i ndáil le leictreachas a sholáthar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• To purchase electricity in the most economic way</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Leictreachas a cheannach ar an mbealach is tíosaí is féidir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• To achieve certain performance targets set by CER</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Spriocanna feidhmíochta áirithe arna leagan síos ag CRF a bhaint amach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Services for customers with special needs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seirbhísí do chustaiméirí a bhfuil riachtanais speisialta acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Three schemes are available for customers with special needs:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá trí scéim ar fáil do chustaiméirí a bhfuil riachtanais speisialta acu:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• An Electricity Allowance which you obtain as part of the Household Benefits Package</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Liúntas Leictreachais a fhaigheann tú mar chuid den Phacáiste Sochair Teaghlaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Services for older people and people with disabilities</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seirbhísí do dhaoine breacaosta agus do dhaoine le míchumais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The medical register for customers with home medical equipment</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An clár liachta do chustaiméirí a bhfuil trealamh liachta baile acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some customers may be eligible for an Electricity Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh roinnt custaiméirí a bheith incháilithe chun Liúntas Leictreachais a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Allowance is administered by the Department of Social Protection as part of the Household Benefits Package</seg></tuv>
+  <tuv xml:lang="ga"><seg>Riarann an Roinn Coimirce Sóisialaí an Liúntas mar chuid den Phacáiste Sochair Teaghlaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Department has a set of guidelines to determine who is eligible</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sraith treoirlínte ag an Roinn leis na daoine a bheidh incháilithe a chinneadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Services for older people and people with disabilities</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seirbhísí do dhaoine breacaosta agus do dhaoine le míchumais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All suppliers of domestic customers are required to offer non-standard forms of communication to its customers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceanglaítear ar gach soláthraí seirbhíse do chustaiméirí baile foirmeacha cumarsáide neamhchaighdéanacha a thairiscint dá chustaiméirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Braille/talking and large-print bills for people with visual impairment</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Billí Braille/cainte agus mórchló do dhaoine a bhfuil lagú amhairc orthu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Use of minicom or text phones for customers with hearing difficulties</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Úsáid fón minicom nó téacs do chustaiméirí a bhfuil deacrachtaí éisteachta acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To avail of any of these, customers must register with the industry's Special Services Register</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun ceann ar bith díobh seo a úsáid, caithfidh custaiméirí clárú le Clár Seirbhísí Speisialta an tionscail</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Application forms are available from your electricity supplier</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá foirmeacha iarratais ar fáil ó do sholáthraí leictreachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The information you supply is also passed on to ESB Networks so it is aware of your need when contacting or visiting you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirtear an t-eolas a thugann tú ar aghaidh chuig ESB Networks freisin ionas go mbíonn sé ar an eolas faoi do riachtanas nuair a dhéanann sé teagmháil leat nó nuair a thugann sé cuairt ort</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Suppliers are also required to ensure that elderly customers who are registered with them are not cut off in the winter months (November - March) if they run into payment difficulties</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceanglaítear ar sholáthraithe a chinntiú freisin nach ngearrtar an tseirbhís ar chustaiméirí scothaosta le linn mhíonna an gheimhridh (Samhain - Márta) má bhíonn deacrachtaí acu billí a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Medical register for customers with home medical equipment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Clár liachta do chustaiméirí a bhfuil trealamh liachta baile acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A Priority Register exists for customers who depend on electrically powered equipment such as home dialysis machines, oxygen concentrators or artificial ventilators If you are on the register you are contacted in advance of a planned disruption in supply or as soon as an unplanned outage is discovered</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Clár Tosaíochta ann do chustaiméirí a bhíonn ag brath ar threalamh faoi thiomáint leictreachais amhail innill scagdhealaithe baile, comhchruinnitheoirí ocsaigine nó aerálaithe saorga. Má bhíonn tú ar an gclár déantar teagmháil leat sula gcuirfear isteach ar an soláthar má bhíonn a leithéid pleanáilte nó a luaithe is a fhaightear amach faoi bhriseadh neamhphleanáilte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Also, suppliers cannot request that you be cut off over payment issues</seg></tuv>
+  <tuv xml:lang="ga"><seg>Freisin, ní féidir le soláthraithe iarraidh go ngearrfar an tseirbhís ort mar gheall ar cheisteanna íocaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Application forms for the Priority Register are available from your supplier</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá foirmeacha iarratais don Chlár Tosaíochta ar fáil ó do sholáthraí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Suppliers are required to have codes of practice that protect customers. These cover such areas as:  • Billing</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceanglaítear ar sholáthraithe cóid chleachtais a bheith acu lena dtugtar cosaint do chustaiméirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Suppliers are also required to produce Customer Charters with guaranteed service levels for their customers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Clúdaítear réimsí mar billeáil, gearáin agus margaíocht sna cairteacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have a complaint you should contact your electricity supplier or ESB Networks as appropriate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhíonn gearán agat ba chóir duit teagmháil a dhéanamh le do sholáthraí leictreachais nó le ESB Networks de réir mar is cuí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>ESB Networks deals with complaints about faulty meters, connection costs, emergencies, planned outages and delays in getting connected</seg></tuv>
+  <tuv xml:lang="ga"><seg>Pléann ESB Networks le gearáin faoi mhéadair lochtacha, faoi chostais le nasc a fháil, éigeandálacha, faoi bhriseadh pleanáilte agus moilleanna maidir le nasc a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Complain to your supplier if it is to do with changing supplier, closing your account (including when moving house) or costs included on your bill</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déan gearán le do sholáthraí má bhaineann sé le ceist ó thaobh do sholáthraí a athrú, do chuntas a dhúnadh (i gcás tú a bheith ag bogadh chuig seoladh nua chomh maith) nó costais a cuireadh san áireamh ar do bhille</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Advice on making a complaint is available on the Commission for Energy Regulation's website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá comhairle maidir le gearán a dhéanamh ar fáil ar láithreán gréasáin an Choimisiúin um Rialáil Fuinnimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are unable to resolve your complaint with your supplier or with ESB Networks you can complain to the Regulator</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura mbíonn tú in ann do ghearán a réiteach le do sholáthraí nó le ESB Networks is féidir leat do ghearán a thabhairt chuig an Rialtóir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Except in cases where there is a special agreement to the contrary, the amount of electricity supplied to your home will be measured by a meter or meters and other apparatus supplied and installed by ESB Networks</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seachas cásanna ina bhfuil comhaontú speisialta malartach i gceist, déanfar an méid leictreachais a sholáthraítear do do theach a thomhas le méadar nó méadair agus fearas eile arna sholáthar agus arna shuiteáil ag ESB Networks</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This equipment remains the property of ESB Networks</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is le ESB Networks an trealamh seo i gcónaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Only people authorised by ESB Networks are allowed to fix, connect, remove or work upon any meter, main fusebox, seal, electric line or other apparatus belonging to ESB Networks</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní cheadaítear ach do dhaoine arna n-údarú ag ESB Networks oibriú ar aon mhéadar, aon bhosca fiúsanna, séal, líne leictreachais nó ar aon fhearas eile ar le ESB Networks é nó iad a dheisiú, a nascadh nó a bhaint amach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the event of unauthorised interference, (whether by the customer or otherwise), the ESB reserves the right to estimate the unrecorded consumption and to include the charges for the unrecorded consumption in the customer's account</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás go gcuireann duine isteach ar na nithe seo gan údarú, (cibé an custaiméir nó duine eile atá ann), coimeádann BSL an ceart aige féin an leictreachas neamhthaifeadta a úsáideadh a mheas agus na táillí don úsáid neamhthaifeadta a chur san áireamh i gcuntas an chustaiméara</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Electricity bills are issued every two months and are based on meter readings or estimations of electricity consumption</seg></tuv>
+  <tuv xml:lang="ga"><seg>Eisítear billí leictreachais gach dhá mhí agus bíonn siad bunaithe ar léamh méadar nó ar mheastacháin faoin leictreachas a úsáideadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Readings can be actual readings obtained by the meter reader or readings submitted by the customer</seg></tuv>
+  <tuv xml:lang="ga"><seg>Maidir leis an léamh sin, is féidir é a fháil ach an méadar féin a léamh nó is féidir leis an gcustaiméir an léamh a chur isteach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An ESB Networks meter reader calls to your home to read the meter four times a year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann léitheoir méadair ó ESB Networks cuairt ar do theach chun an méadar a léamh ceithre huaire in aghaidh na bliana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When the meter reader fails to gain access to read the meter, he or she leaves a card inviting you to submit your meter reading online or to dial in the reading to a special number CallSave 1850 337 777</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a theipeann ar léitheoir an mhéadair teacht isteach chun an méadar a léamh, fágann sé nó sí cárta ag tabhairt cuireadh duit an léamh méadar a chur isteach tríd an láithreán gréasáin nó an léamh a thabhairt trí uimhir speisialta Saorghlao a dhiailiú 1850 337 777</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(This is an Interactive Voice Response System that is available 24 hours every day.) If a reading is not received within 48 hours, an estimated bill is issued</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Córas Idirghníomhach Freagartha Gutha is ea é seo a bhíonn ar fáil 24 uair an chloig in aghaidh an lae). Mura bhfaightear léamh faoi cheann 48 uair an chloig, eisítear bille measta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Find advice on reading your meter here </seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigh comhairle maidir le do mhéadar a léamh anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your supplier is required to include a standard set of information on your bill</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceanglaítear ar do sholáthraí eolas caighdeánach a chur san áireamh le do bhille</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This includes the meter reading upon which the bill is based, the tariff category that applies and any levies that are being applied to the bill</seg></tuv>
+  <tuv xml:lang="ga"><seg>San áireamh leis seo, tá an léamh méadar ar a bhfuil an bille bunaithe, catagóir na taraife atá i gceist agus aon tobhaigh atá á bhfeidhmiú i leith an bhille</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can read more about the information supplied on bills here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat tuilleadh a léamh faoin eolas a sholáthraítear ar bhillí anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Suppliers are required to offer a range of options to customers for paying their bills</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceanglaítear ar sholáthraithe raon roghanna a thairiscint do chustaiméirí maidir lena mbillí a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should contact you supplier to find out what option suits you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir duit dul i dteagmháil le do sholáthraí chun an rogha a oireann duit a fháil amach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Electricity tariffs for domestic customers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Taraifí leictreachais do chustaiméirí baile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Commission for Energy Regulation previously regulated ESB Electic Ireland's (formerly called ESB Customer Supply) tariffs</seg></tuv>
+  <tuv xml:lang="ga"><seg>An Coimisiún um Rialáil Fuinnimh rialáilte taraifí BSL Éire Leitreach (ar a dtugtar Soláthar Custaiméirí BSL) roimhe seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Since April 2011, ESB Electic Ireland, like the other suppliers, is free to set its own tariffs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó Aibreán 2011, tá BSL Éire Leitreach, cosúil leis na soláthraithe eile, saor in aisce a shocrú a taraifí féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Commission for Energy Regulation also regulates the charges associated with the electricity transmission and distribution networks</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rialálann sé na táillí a bhaineann leis na gréasáin tarchuradóireachta agus dáileacháin leictreachais freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The tariffs include the cost of generating electricity, transmitting it through the electricity network, distributing and supplying to end customers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an costas le leictreachas a ghiniúint san áireamh leis na taraifí, chomh maith leis an gcostas lena tharchur tríd an ngréasán leictreachais, é a dháileadh agus a sholáthar do chustaiméirí ar deireadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To set up a new connection if you are moving into a house/apartment in a new housing/apartment scheme, you will need to apply to an electricity supplier for a domestic supply agreement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun nasc nua a bhunú má bhíonn tú ag bogadh isteach i dteach/árasán i scéim nua tithíochta/árasán, beidh ort comhaontú soláthair baile a iarraidh ar sholáthraí leictreachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should contact ESB Networks and supply them with the following information:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir duit teagmháil a dhéanamh le ESB Networks agus an t-eolas seo a leanas a sholáthar dóibh:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Your name and contact details</seg></tuv>
+  <tuv xml:lang="ga"><seg>• D’ainm agus do shonraí teagmhála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The Meter Point Reference Number (MPRN) for your new home (available from the builder/developer)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Uimhir Thagartha Phointe an Mhéadair (UTPM) do do theach/árasán nua (ar fáil ón tógálaí/ón bhforbróir)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The address of your home as defined at the planning stage (available from the builder/develpoer)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Seoladh do thí/árasáin faoi mar a sainmhíníodh ag an gcéim phleanála (ar fáil ón tógálaí/ón bhforbróir)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>ESB Networks will complete the installation of your meter</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirfidh ESB Networks an obair i gcrích le do mhéadar a shuiteáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The builder's electrician will switch on the electricity supply in your home</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirfidh leictreoir an tógálaí an soláthar leictreachais ar siúl i do theach/árasán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are building your own home you will need apply for a new connection to ESB Networks</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá do theach féin á thógáil agat beidh ort ar nasc nua le ESB Networks a iarraidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you are leaving an address, you should take the meter reading, contact your electricity supplier let them know you are moving and give the supplier your meter reading</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair atá tú ag imeacht ó do sheanseoladh, ba chóir duit teagmháil a dhéanamh le do sholáthraí leictreachais agus tabhair an léamh méadar don soláthraí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the house or apartment to which you are moving is new, you should contact your electricty supplier and ESB Networks as mentioned above</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más teach nó árasán nua an ceann a bhfuil tú ag bogadh chuige, ba chóir duit teagmháil a dhéanamh le do sholáthraí leictreachais agus le ESB Networks mar a luadh thuas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the house or apartment to which you are moving was previously occupied, you should take an ESB Meter Reading when you take over responsibility for the premises</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhí duine ina chónaí roimhe sa teach nó san árasán a bhfuil tú ag bogadh chuige, ba chóir duit Léamh Méadar BSL a ghlacadh nuair a ghlacann tú freagracht as an áitreabh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the house has been disconnected for less than 2 years, you will need to apply to your supplier for a domestic supply agreement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhí an teach dínasctha ar feadh tréimhse níos lú ná 2 bhliain, beidh ort comhaontú soláthair baile a iarraidh ar do sholáthraí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your supplier will advise you about the reconnection process</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabharfaidh do sholáthraí comhairle duit faoin bpróiseas leis an áitreabh a athnascadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the house has been disconnected for more than 6 months you will also have to get the wiring checked and certified before it can be reconnected</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhí an teach dínasctha le breis is 6 mhí beidh ort seiceáil agus deimhniú a fháil don sreangra sular féidir é a athnascadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the house has been disconnected for more than 2 years you will have to apply to ESB Networks for a new connection</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhí an teach dínasctha le breis is 2 bhliain beidh ort nasc nua a iarraidh ar ESB Networks</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you want to change supplier you should contact your new supplier with details of your meter number and a meter reading</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mian leat chun soláthróir a athrú ba chóir duit teagmháil a dhéanamh le do sholáthraí nua le sonraí de d'uimhir méadair agus an méadar a léamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will be talked through the switching process by the supplier who will then process your application</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh an soláthraí labhairt leat tríd an bpróiseas a athrú agus beidh d'iarratas a phróiseáil ansin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>More information on switching is available on the Regulator's website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh eolais ar athrú fáil ar láithreán gréasáin an Rialtóra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Contact an electricity supplier or:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déan teagmháil le soláthraí leictreachais nó:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>South City Delivery Office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Oifig Seachadta Cathrach Theas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Locall:CallSave 1850 372 372</seg></tuv>
+  <tuv xml:lang="ga"><seg>Lóghlao:CallSave 1850 372 372</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>New connections/voltage queries/metering, etc.: Tel: 1850 372 757</seg></tuv>
+  <tuv xml:lang="ga"><seg>Naisc nua/fiosrúcháin faoi voltas/méadrú, srl.: Teil: 1850 372 757</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Supply Failure/Emergencies (24 hour) Tel: 1850 372 999</seg></tuv>
+  <tuv xml:lang="ga"><seg>Teip ar an Soláthar/Éigeandálacha (24 uair a chloig) Teil: 1850 372 999</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Commission for Energy Regulation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Coimisiún um Rialáil Fuinnimh</seg></tuv>
+</tu>
+</body>
+</tmx>

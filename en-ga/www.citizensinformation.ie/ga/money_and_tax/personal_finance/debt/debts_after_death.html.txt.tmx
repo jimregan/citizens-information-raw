@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>What happens to debts after death?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cad a tharlaíonn d’fhiacha tar éis bháis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Duty of personal representative</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Dualgas ar ionadaí pearsanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you die, any debts you have must be repaid from your estate before any other claims on the estate can be met</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a fhaigheann tú bás, ní mór d’aon fhiach atá agat a aisíoc ó d'eastát sula mbeifear in ann aon éileamh eile ar an eastát a chomhlíonadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is the case whether or not you have made a will</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é seo an cás cibé an bhfuil nó nach bhfuil tiomna déanta agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you die and have no estate, then your debts die with you as they cannot be repaid</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhaigheann tú bás agus mura bhfuil aon eastát agat, faigheann d’fhiacha bás ansin de bharr nach féidir iad a aisíoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your relatives are not liable for your debts unless they have provided personal guarantees for those debts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl do ghaolta faoi dhliteanas do chuid fiacha ach amháin sa chás gur thug siad slánaíochtaí pearsanta ar na fiacha sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your creditors may sue your estate for the payment of outstanding debts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tréimhse teorannaithe de shé bliana ar ghníomhaíochtaí a dhéanamh i gcoinne d'eastát</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your estate is all the property, goods and money that you own that are available for distribution after your death</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is éárd atá i gceist le d'eastáit ná an mhaoin, na hearraí agus an t-airgead ar fad agat gur féidir a dháileadh tar éis do bháis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Certain property and money may not form part of your estate at all</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir le maoin áirithe agus le hairgead áirithe a bheith mar chuid de d'eastát ar chor ar bith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you and your spouse or civil partner are joint owners of the family or shared home, your spouse or civil partner becomes the sole owner on your death</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú féin agus do chéile mar chomhúinéirí bhaile an teaghlaigh, beidh do chéile mar úinéir aonair an tí i ndiaidh do bháis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If there is a mortgage on the home, then your spouse or civil partner becomes liable for that mortgage but is not liable for any of your other debts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá morgáiste ar an mbaile teaghlaigh, ansin beidh do chéile faoi dhliteanas i leith an mhorgáiste sin ach níl sé/sí faoi dhliteanas i leith aon cheann de na fiacha eile agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your home does not form part of your estate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní thógtar do theach nó an chuid agat mar chuid de d'eastát</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are the sole owner, then your family or shared home does become part of your estate and is available for the payment of your debts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú i d’úinéir aonair, beidh do bhaile teaghlaigh mar chuid de d'eastát agus tá sé ar fáil chun do chuid fiacha a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some insurance policies have a nominated beneficiary</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tairbhí ainmnithe ag roinnt polasaithe árachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In those cases, the proceeds of the policy go directly to that beneficiary and do not form part of your estate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sna cásanna sin, téann fáltais an pholasaí díreach chuig an tairbhí sin agus ní bhíonn siad mar chuid d'eastát</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In other cases, the proceeds of the insurance policy do form part of your estate and are available for the payment of your debts</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcásanna eile, ní bhíonn fáltais an pholasaí árachais mar chuid de d'eastát agus tá siad ar fáil chun do chuid fiacha a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>What happens in any particular case depends on the terms of the policy</seg></tuv>
+  <tuv xml:lang="ga"><seg>Braitheann an méid a tharlaíonn in aon chás ar leith ar théarmaí an pholasaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you were a member of a credit union, you would have nominated a person to become entitled to up to €23,000 of your savings on your death</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhí tú i do bhall de chomhar creidmheasa, bheadh duine ainmnithe agat le bheith i dteideal suas le €23,000 de do chuid coigiltis i ndiaidh do bháis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This does not form part of your estate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhíonn sé seo mar chuid de d'eastát</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have a joint bank account with another person or people, the question of whether your share of the account forms part of the estate depends on the intention of the account holders when the account was opened</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá cuntas bainc i gcomhar le duine nó le daoine eile agat, braitheann an cheist a bheadh ann ar cibé a bhíonn do scair den chuntas mar chuid den eastát ar intinn na sealbhóirí cuntais nuair a osclaíodh an cuntas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If it was the intention that the other account holder(s) would inherit your share, then your share does not become part of your estate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más rud é go raibh sé i gceist go bhfaigheadh an tsealbhóir/na sealbhóirí eile do sciar trí oidhreacht, ní bhíonn do sciar mar chuid de d'eastát</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If this was not the intention, for example, if the account was in joint names purely for convenience, then your share - which may be the entirely of the account - does become part of your estate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más rud é nach raibh sé seo i gceist, mar shampla, más rud é go raibh an cuntas i gcomhainmneacha díreach le bheith áisiúil, ansin bheidh do scair – a d'fhéadfadh a bheith mar iomlán anchuntais – ina chuid de d'eastát</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Duty of personal representative</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dualgas ar ionadaí pearsanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you die, all your assets are gathered together by your personal representative (your executor or administrator)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a fhaigheann tú bás, bailíonn d’ionadaí pearsanta (do seiceadóir nó riarthóir) do sócmhainní le chéile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The first duty of the personal representative is to pay your funeral and other expenses and then your debts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an chéad dualgas atá ar an ionadaí pearsanta do chostais sochraide agus eile a íoc, agus ansin do chuid fiacha a ghlanadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your estate is considered to be insolvent if you do not have enough assets to pay your funeral and other expenses and all your debts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Meastar go bhfuil d'eastát dócmhainneach más rud é nach bhfuil go leor sócmhainní agat chun do chuid costais sochraide agus eile agus d’fiacha go léir a ghlanadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have no assets, then the payment of your debts does not arise</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás nach bhfuil sócmhainní ar bith agat, ní thagann íocaíocht do chuid fiacha chun cinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have some assets but they are not sufficient to cover all your debts, the debts must be paid in a set order</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá roinnt sócmhainní agat ach ní leor iad chun do chuid fiacha go léir a ghlanadh, ní mór na fiacha a íoc in ord ar leith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your estate is solvent, there are rules about which assets are to be first used to pay your debts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá d’eastát tuaslagach, tá rialacha maidir leis na sócmhainní atá le húsáid ar dtús chun do chuid fiacha a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The order of priority for payments from an insolvent estate is as follows:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seo a leanas an t-ord tosaíochta le haghaidh íocaíochtaí ó eastát dócmhainneach:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>1) Funeral, testamentary and administration expenses</seg></tuv>
+  <tuv xml:lang="ga"><seg>1. Costais sochraide, costais tiomnacha agus riaracháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Testamentary and administration expenses are the expenses incurred in dealing with your estate; 2) Creditors who have security, for example, mortgage providers; 3) Preferential debts - these are mainly taxes and social insurance contributions; 4) Ordinary debts</seg></tuv>
+  <tuv xml:lang="ga"><seg>3. Fiacha fabhracha - den chuid is mó, is ranníocaíochtaí cánacha agus árachais shóisialta iad seo; 4. Gnáthfhiacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your estate is solvent but not sufficient</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá d’eastát tuaslagach ach neamhdhóthanach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your estate is solvent, then, again, your funeral and other expenses and your debts must be paid first</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá d’eastát tuaslagach, ansin, arís, ní mór do chostais sochraide agus eile agus do chuid fiacha a íoc ar dtús</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you die intestate, the rest of your estate is then divided in accordance with the rules on intestacy</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhaigheann tú bás díthiomnach, roinntear an chuid eile de d’eastát ina dhiaidh sin de réir na rialacha díthiomnachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have made a will and your estate is not sufficient to cover your debts and all the bequests which you have made, then the debts are paid from the following assets and in this order:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tiomna déanta agat agus mura bhfuil d'eastát neamhdhóthanach chun íoc as do chuid fiacha agus na tiomnachtaí go léir a rinne tú, ina dhiadh sin íoctar na fiacha ó na sócmhainní seo a leanas agus san ord seo:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>1) Property which you did not deal with in the will (that is, property which would be distributed in accordance with the rules on intestacy); 2) The residue - this is the amount left over when specific bequests are dealt with; 3) Property specifically appropriated for the payment of debts; 4) Property charged with the payment of debts; 5) Pecuniary legacies - these are bequests of money as distinct from property or goods; 6) Other bequests</seg></tuv>
+  <tuv xml:lang="ga"><seg>2. An t-iarmhar - is é seo an méid atá fágtha nuair a dhéileáiltear le tiomnachtaí ar leith; 3. Maoine leithreasaithe go sonrach chun na fiacha a íoc; 4. Maoine a bhfuil cúram na fiacha a íoc curtha orthu; 5. Leagáidí airgid - is tiomnachtaí airgid ar leith iad seo ó mhaoine nó earraí; 6. Tiomnachtaí eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When making your will, you may specify a different order for the payment of your debts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair atá do thiomna á dhéanamh agat, féadfaidh tú ord difriúil a shonrú le leith íocaíocht do chuid fiacha</seg></tuv>
+</tu>
+</body>
+</tmx>

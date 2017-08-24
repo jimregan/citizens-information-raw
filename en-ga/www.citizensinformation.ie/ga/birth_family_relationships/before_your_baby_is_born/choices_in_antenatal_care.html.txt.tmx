@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Choices in antenatal care</seg></tuv>
+  <tuv xml:lang="ga"><seg>Roghanna i gCúram Réamhbhreithe (Roimh an mBreith)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you think you are pregnant, the first step is to visit your GP</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má cheapann tú go bhfuil tú torrach, is é an chéad chéim ná cuairt a thabhairt ar do Dhochtúir Teaghlaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may already have completed a pregnancy test</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh tástáil toirchis a bheith déanta cheana féin agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They will do some preliminary tests, such as taking your blood, and will use the date of your last monthly period to estimate the date the baby is due (the due date)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfaidh an dochtúir roinnt tástálacha tosaigh, mar sampla fola a thógáil, agus úsáidfidh sé/sí dáta d'fhuil mhíostúil dheireanach leis an dáta a mbeifear ag súil le do leanbh a mheas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They will then discuss your plans for antenatal care</seg></tuv>
+  <tuv xml:lang="ga"><seg>Pléifidh siad ansin do phleananna do chúram réamhbhreithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your GP will then provide you with a 'letter of referral' to the maternity hospital if that is where you opt to have your baby</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabharfaidh do dhochtúir teaghlaigh "litir chur ar aghaidh" chuig ospidéal máithreachais duit más ann is mian leat do leanbh a bheith agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(Not all hospitals insist on a letter of referral)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Ní éilíonn gach ospidéal litir chur ar aghaidh)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you wish to have your baby at home, you can read our document on home birth</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mian leat do leanbh a bheith agat sa bhaile, tá tuilleadh faisnéise inár doiciméad, Breith bhaile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may opt for services under the Maternity and Infant Care Scheme, which is a system of combined care, split between your general practitioner and a maternity unit / hospital obstetrician</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú seirbhísí a thoghadh de réir na Scéime Máithreachais agus Linbh, atá ina chóras cúraim cónasctha, roinnte idir do ghnáthdhochtúir agus cnáimhseoir ospidéil/aonaid máithreachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Alternatively, you may choose to visit the hospital's antenatal clinic, either as a public, semi-private or private patient</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar mhalairt slí, d'fhéadfá roghnú cuairt a thabhairt ar chlinic réamhbhreithe an ospidéil, bíodh sin mar othar poiblí, leathphríobháideach nó príobháideach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All expectant mothers who are ordinarily resident in the State are entitled to free maternity care, covering antenatal visits, labour and delivery and postnatal care</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá gach bean toircheasach, a chónaíonn sa Stát de ghnáth, i dteideal cúram máithreachais saor in aisce, a chumhdaíonn cuairteanna réamhbhreithe, luí seoil agus toirbhirt agus cúram iarbhreithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you ring the hospital to make your first appointment, you will be asked if you intend to visit as a public, semi-private or private patient</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a ghlaonn tú ar an ospidéal le do chéad choinne a dhéanamh, iarrfar ort an bhfuil sé i gceist agat an chuairt a dhéanamh mar othar poiblí, leathphríobháideach nó príobháideach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are a public patient, you will attend the hospital's antenatal clinic (or hospital clinics based in the community)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más othar poiblí tú, beidh tú ag freastal ar chlinic réamhbhreithe an ospidéil (nó clinicí ospidéil lonnaithe sa phobal)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may see the same doctor on each visit, or you may not</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh sé gurb iad an dochtúir céanna a bheadh ann ag gach cuairt, nó d'fhéadfadh sé nach é/í</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Alternatively, if your pregnancy is uncomplicated, you may elect to visit the midwives' clinic if the hospital has one</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar mhalairt slí, mura mbaineann aon deacrachtaí le do thoircheas, d'fhéadfá cuairt ar chlinic na mban cnáimhseach a roghnú má tá ceann ag an ospidéal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is staffed by experienced midwives and again, can ensure you continuity of care</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is foireann ban cnáimhseach a bhfuil taithí acu a bhíonn ansin agus arís, cinnteoidh siad leanúnacht cúraim duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you come into the hospital for labour and delivery, you will be delivered by staff midwives and may not see a doctor unless you experience complications</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a thagann tú isteach san ospidéal i gcomhair luí seoil agus toirbhearta, toirbhireoidh foireann ban cnáimhseach an leanbh agus is féidir leo gan dul chuig dochtúir nó go dtarlódh go mbeadh deacrachtaí agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may not have met the midwives or doctors who attend your labour and delivery</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh sé nár chas tú cheana leis na mná chabhrach ná na dochtúirí a bheidh ag freastal ar do luí seoil agus do thoirbhirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>After the birth of your baby, you will be moved to the public ward for your stay, generally about 3 days</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tar éis bhreith do linbh, cuifear chuig barda poiblí tú don achar a bheidh tú istigh, go ginearálta thart ar 3 lá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A small number of hospitals now offer early discharge schemes, allowing you to go home early from hospital with follow-up care</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tairgeann líon beag ospidéal scéimeanna scaoileadh luath abhaile anois, a cheadaíonn duit dul abhaile go luath ón ospideál agus cúram leanta a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For details, please contact your local hospital or consult the Cuidiú Consumer Guide to Maternity Services in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcomhair mionsonraí, déan teagmháil le do thoil le d'ospidéal nó féach ar Threoir Tomhaltóra Chuidiú i leith Seirbhísí Máithreachais in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Semi-private and private care</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cúram leathphríobháideach agus príobháideach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are attending as a semi-private patient, you may see a consultant privately, or attend the semi-private clinic</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhíonn tú ag freastal mar othar leathphríobháideach, is féidir leat comhairleoir a fheiceáil go príobháideach, nó freastal ar chlinic leathphríobháideach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This clinic is run by the consultant and their team</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ritheann comhairleoir agus a fhoireann/foireann an chlinic sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In some hospitals a team member may deliver your baby, or the doctor on duty at the time</seg></tuv>
+  <tuv xml:lang="ga"><seg>I roinnt ospidéal d’fhéadfadh sé gur comhalta den fhoireann a thoirbhireodh do naíonán, nó an dochtúir a bheadh ar dualgas ag an am</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>After delivery, you will stay on a semi-private ward, with approximately 3-5 other mothers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tar éis na toirbhearta, fanfaidh tú i mbarda leathphríobháideach, ina mbeidh thart ar 3-5 máthair eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are attending privately, you will be appointed your own consultant whom you will see at each visit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhíonn tú ag freastal go príobháideach, tabharfar do chomhairleoir féin duit a fheicfidh tú ag gach cuairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your consultant may not necessarily be available to deliver your baby</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní gá go mbeadh an comhairleoir sin ar fáil do thoirbhirt do naíonáin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Private care also entitles you to a private room, although, again, this is dependent on availability</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn tú i dteideal seomra príobháideach a fháil chomh maith de bharr cúraim phríobháidigh, ach, arís, braitheann sé sin ar fháil a bheith ar cheann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your GP (family doctor) or the Health Service Executive will advise you of the nearest maternity hospital(s), and will supply you with a letter of referral</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabharfaidh do Dhochtúir Teaghlaigh nó Feiidhmeannacht na Seirbhíse Sláinte comhairle duit maidir leis an ospidéal/na hospidéil máithreachais is gaire duit, agus tabharfaidh sé/sí litir chur ar aghaidh duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can telephone the hospital directly for a first appointment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat glaoch go díreach ar an ospidéal i gcomhair an chéad choinne</seg></tuv>
+</tu>
+</body>
+</tmx>

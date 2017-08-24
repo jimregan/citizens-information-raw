@@ -1,0 +1,337 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Deciding on childcare is a big decision for any parent</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cinneadh mór d’aon tuismitheoir is ea cinneadh a dhéanamh ar chúram leanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are a number of factors that will make an impact on your final decision</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá líon rudaí ann a imreoidh tionchar ar do chinneadh deiridh a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Whether you need full or part-time care</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cibé acu an dteastaíonn cúram lánaimseartha nó páirtaimseartha uait</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The hours you need services (regular, daytime, evenings or weekends)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Na huaireanta sa lá a theastaíonn na seirbhísí uait (gnáthuaireanta, i rith an lae, um thráthnóna nó le linn an deireadh seachtaine)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Services available in your area</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Na seirbhísí atá ar fáil i do cheantar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is important to discuss with the childcare service provider your child’s needs and the service they can provide</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is tábhachtach riachtanais do linbh a phlé le soláthraí na seirbhíse cúram linbh agus an tseirbhís is féidir leo a sholáthar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should check that staff are qualified and the provider has appropriate childcare policies and procedures in place for example, child protection, behaviour management and accidents</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart duit a sheiceáil an bhfuil na cáilíochtaí cuí ag an bhfoireann agus go bhfuil beartais agus nósanna imeachta cuí i bhfeidhm ag an soláthraí, mar shampla, cosaint leanaí, bainistíocht iompair agus timpistí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is also important to check fees, hours, and holiday periods</seg></tuv>
+  <tuv xml:lang="ga"><seg>Anuas air sin, is tábhachtach táillí, uaireanta seirbhíse agus tréimhsí saoire a sheiceáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Make sure to visit when there are children present, so you get a feel for the atmosphere</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cinntigh go dtugann tú cuairt ar an áit nuair a bhíonn leanaí ann, ionas gur féidir leat blaiseadh den atmaisféar a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Child and Family Agency (Tusla) has published a useful list of tips on choosing a pre-school</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhoilsigh Feidhmeannacht na Seirbhíse Sláinte (FSS) liosta leideanna áisiúla chun naíonra a roghnú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Department of Children and Youth Affairs (DCYA) has published a list of recognised qualifications for the purposes of the DCYA childcare programmes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an Roinn Leanaí agus Gnóthaí Óige (RLGÓ) tar éis liosta cáilíochtaí aitheanta a fhoilsiú chun críocha na gclár cúraim leanaí de chuid na RLGÓ</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>By law, pre-school childcare facilities must notify and be inspected by the Child and Family Agency</seg></tuv>
+  <tuv xml:lang="ga"><seg>De réir an dlí, ní mór go dtugann áiseanna cúram leanaí naíonra fógra d’FSS agus bheith iniúchta ag FSS</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can access the Child and Family Agency inspection reports on childcare services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú rochtain a fháil ar thuarascálacha iniúchta FSS ar sheirbhísí cúram leanaí anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>More detailed information about the regulation of childcare services is available from the Child and Family Agency - see 'Where to apply' below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá fáil ar fhaisnéis níos sonraí faoi rialáil seirbhísí cúram leanaí ó d’Oifig Áitiúil Sláinte – féach ‘Cá ndéanfaidh mé iarratas? ’ thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your City or County Childcare Committee can provide a list of childcare providers in your area</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh do Choiste Cúram Leanaí Contae nó Cathrach liosta de na soláthraithe cúram leanaí atá i do cheantar a sholáthar duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They can also put you in touch with your local early years/pre-school inspector -see 'How to apply' below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, féadfaidh siad thú a chur i dteagmháil le d’oifigeach áitiúil naíonra d’FSS – féach ‘Conas iarratas a dhéanamh’ thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Types of childcare options</seg></tuv>
+  <tuv xml:lang="ga"><seg>Roghanna éagsúla cúram leanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some childcare options may be distinguished simply by their opening hours or management structures, and others by the curriculum of education that they use</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is dóigh go bhfuil roghanna cúram leanaí faoi leith ann arb iad na huaireanta oscailte agus na struchtúir bhainistíochta na saintréithe a ghabhann leo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can read more about early childhood education</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcásanna eile, beidh saintréithiúlacht ag roinnt leis an gcuraclam oideachais a bhíonn in úsáid acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Staff training can also determine the type of service available, as can the general needs of parents in your area</seg></tuv>
+  <tuv xml:lang="ga"><seg>Oiliúint foirne sin rud eile a mbíonn tionchar aige ar an gcineál seirbhíse a bhíonn ar fáil, chomh maith le riachtanais na dtuismitheoirí i do cheantar féin i gcoitinne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Different types of childcare services include:</seg></tuv>
+  <tuv xml:lang="ga"><seg>I measc na gcineál éagsúil cúraim chlainne atá ann, tá:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is a structured care service for more than 5 hours per day and may include a sessional service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seirbhís struchtúrtha cúraim is ea seo a chuirtear ar fáil ar feadh breis agus 5 huaire an chloig sa lá agus d’fhéadfadh seirbhís sheisiúnach a bheith i gceist léi chomh maith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Providers care for children from 3 months to 6 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn na páistí faoi chúram lucht na seirbhíse ar feadh tréimhse idir aois 3 mhí agus 6 bliana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some may also include an after-school facility</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcásanna ar leith, tharlódh freastal ann tar éis na scoile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In full day care, sleeping arrangements and food preparation must meet standards laid down by the Child and Family Agency</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás an chúraim ar feadh an lae, caithfidh na socruithe codlata agus réitithe bia a bheith de réir na gcaighdeán atá leagtha síos ag an bhFeidhmeannacht Seirbhíse Sláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Providers include day nurseries and crèches</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn naíonraí lae agus naíolanna i measc na nithe a chuireann lucht seirbhíse ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These services offer a planned programme consisting of up to 3.5 hours per session (such as a morning or an afternoon)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is clár pleanáilte a bhíonn á thairiscint ag na seirbhísí seo, rud a mhaireann suas le 3.5 uair a' chloig (seisiún maidne nó seisiún tráthnóna, cuir i gcás)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Generally, they cater for children from 3 to 5 years of age</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, freastalaíonn siad ar leanaí idir 3 agus 5 bliana d’aois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These services may also be provided for younger children</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn na seirbhísí seo ann le haghaidh páistí níos óige ná sin uaireanta freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In order to provide a sessional childcare service, a recognised childcare qualification is required</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ionas gur féidir seirbhís cúram leanaí a chur ar fáil ina seisiúin, teastaíonn cáilíocht aitheanta i gcúram leanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Montessori groups focus on individualised education, teaching social skills and maximising children’s development</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Grúpaí Montessori: a dhéanann fócas ar oideachas gach páiste faoi seach, ar mhúineadh na scileanna sóisialta, agus ar gach forbairt dá mhéid a chur ar na páistí de réir mar is féidir sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They cater to children up to the age of 6</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann siad freastal ar pháistí suas go haois a 6</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Parent and toddler groups are where a group of parents, guardians or carers and children come together for supervised play and companionship for their parents</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Grúpaí tuismitheoirí agus naíonán: áit a dtagann grúpa tuismitheoirí, caomhnóirí nó lucht cúraim le chéile le féachaint ar shúgradh na bpáistí i gcomhluadar lena muintir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Naíonraí are nursery schools or playschools operating through Irish</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Naíonraí: is é sin scoileanna do pháistí óga nó réamhscoileanna a fheidhmíonn trí mheán na Gaeilge</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Playschools give children an opportunity to play with other children of a similar age, learn to share and take turns and to understand the rules of the classroom, such as listening</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Réamhscoileanna: áit a mbíonn deis ag na páistí súgradh le lucht a gcomhaoise, a gcuid féin den saol a roinnt lena chéile, rudaí a dhéanamh le chéile gach ré seal, agus rialacha an ranga a thuiscint, riail na héisteachta, cuir i gcás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Early Start Programme is a one-year preventative intervention scheme offered in selected schools in designated disadvantaged areas to three- and four-year-old children</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Túsluath: Scéim sheachanta idirghabhála bliana a chuirtear ar fáil i scoileanna faoi leith atá i gceantair aitheanta faoi mhíbhuntáiste do leanaí 3 bliana agus 4 bliana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Childminders care for children in the minder’s own home</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann feighlithe leanaí aire do leanaí ina dteaghlach féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A childminder can care for up to 5 children under 6 years of age (including the childminder’s own)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá cead ag duine aire a thabhairt do líon nach mó nach 5 páistí faoi aois a 6 ar a theallach féin (a mhuirín féin san áireamh)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The service is usually offered for the full working day or for different periods during the day</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is gnách an tseirbhís a chur ar fáil don lá oibre ó thús deireadh, nó i rith tréimhsí éagsúla i gcaitheamh an lae</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Parents and childminders arrange their own terms and conditions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is leis na tuismitheoirí agus feighlithe leanaí na téarmaí agus na coinníollacha a shocrú eatarthu féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As part of the National Childminding Initiative, childminding development grants and guidelines for childminders (pdf) are available to childminders from their local City or County Childcare Committee (CCC)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar chuid den Tionscnamh Náisiúnta Cúram Leanaí, tá deontais fhorbartha aire do pháistí agus treoirlínte d'fheighlithe leanaí í (pdf) ar fáil d'fheighlithe leanaí ón gCoiste Aire do Pháistí Cathrach nó Contae (CCC) atá ann go háitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In addition, there is a childminder’s tax relief for people who look after up to 3 children in their own home</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chomh maith leis sin, tá lascaine cánach d'fheighlithe leanaí ann do dhaoine a mbíonn suas le 3 páistí faoina gcúram ar a dteallach féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A drop-in centre offers a service for short periods during the day</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is rud é ionad buail isteach a chuireann seirbhís ar fáil ar feadh tamaill bhig i rith an lae</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These centres are often provided in shopping centres, leisure centres and accommodation facilities</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is minic teacht ar na hionaid seo in ionaid siopadóireachta, in ionaid caitheamh aimsire, i dtithe lóistín, mar a mbíonn áiseanna, srl</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The service is provided as part of a customer or client service and children are looked after while the parent is availing of a service or attending an event</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is cuid de sheirbhís don chustaiméir nó don chliant a bhíonn ina leithéid seo de sheirbhís, agus tugtar aire do na páistí le linn dá muintir a bheith ag baint tairbhe as seirbhís nó ag freastal ar imeachtaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Services for schoolchildren can include breakfast clubs, after school clubs and school holiday programmes such as summer camps</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seirbhís do pháistí scoile, bíonn clubanna bricfeasta san áireamh i gcuid díobh, clubanna tar éis am scoile, agus cláir do na laethanta saoire, campaí samhraidh, srl</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Depending on the service, there may also be homework supervision, planned activities or a nutritious meal</seg></tuv>
+  <tuv xml:lang="ga"><seg>De réir an chineáil seirbhíse atá ann, tarlaíonn go mbíonn feitheoireacht ar an obair baile ann, imeachtaí pleanáilte, nó béile breá mór</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Affordable childcare is intended to provide childcare for families on lower incomes, and also to support parents to return to work or education</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is éard is cúram leanaí ar phraghas réasúnta ann, rud arb éard is sprioc dó aire a chur ar fáil do chlann na ndaoine atá ar bheagán ioncaim, sin agus tacú le tuismitheoirí ar mian leo filleadh ar a gcuid oibre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This type of service is called a community childcare (not-for-profit) facility</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áis phobail um chúram leanaí is ainm don chineál seo seirbhíse (rud nach mbíonn brabach air)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For more information on affordable childcare services in your area, contact your local City or County Childcare Committee - see 'Where to apply' below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mian leat breis eolais a fháil faoi na seirbhísí aire do pháistí ar airgead réasúnta atá i do cheantar féin, déan teagmháil leis an gCoiste Cathrach/Contae Chúram do Pháistí go háitiúil - féach 'Cá háit a ndéanfaidh mé iarratas' thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Community Childcare Subvention Programme: Under the Community Childcare Subvention (CCS) Programme disadvantaged parents and parents in training, education or low paid employment can avail of childcare at reduced rates</seg></tuv>
+  <tuv xml:lang="ga"><seg>An Clár Fóirdheontais Chúram Leanaí Pobail: Faoin gClár Fóirdheontais Chúram Leanaí Pobail (CCS), féadann tuismitheoirí faoi mhíbhuntáiste agus tuismitheoirí atá in oiliúint, san oideachas nó i bhfostaíocht ar phá íseal leas a bhaint as cúram leanaí ar rátaí laghdaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The childcare is provided by community-based (not-for-profit) childcare services who are participating in the CCS Programme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad a chuireann an cúram leanaí ar fáil ná seirbhísí pobalbhunaithe (seachbhrabúsacha) cúram leanaí atá páirteach sa Chlár Fóirdheontais Chúram Leanaí Pobail</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>From January 2017, children aged 0-5 years whose parents are homeless (and those transitioning from homelessness to permanent accommodation) will be offered free childcare for 25 hours a week under the CCS Programme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó mhí Eanáir 2017, ofrálfar cúram leanaí saor do pháisrí 0-5 bliain a bhfuil a dtuismitheoirí gan dídeann (agus iad siúd ag aistriú o bheith gan dídeann go lóistín buan) ar feadh 25 uair sa tseachtain faoin gclár CCS</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>After-School Child Care Scheme: The After-School Child Care Scheme (ASCC) supports low-income unemployed people to return to work</seg></tuv>
+  <tuv xml:lang="ga"><seg>An Scéim Cúram Leanaí Iarscoile: Tacaíonn an Scéim Cúram Leanaí Iarscoile (ASCC) le daoine dífhostaithe ar ísealioncam filleadh ar an obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The scheme provides subsidised after-school childcare places to people with children of primary school age who find employment, increase the number of days they work or take up a place on an employment support scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Soláthraíonn an scéim áiteanna fóirdheonaithe i gcúram leanaí iarscoile do dhaoine a bhfuil leanaí atá d’aois bhunscoile acu agus a fhaigheann post, a mhéadaíonn líon na laethanta a oibríonn siad nó a théann i mbun scéim tacaíocht fostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Childcare Education and Training Support Programme (CETS): If you have applied for a vocational training course provided by an Education and Training Board and you need childcare, you may qualify for a childcare at reduced rates under the CETS Programme</seg></tuv>
+  <tuv xml:lang="ga"><seg>An Clár Tacaíochta um Oiliúint agus um Fhostaíocht Cúram Leanaí (CETS): Más rud é go bhfuil iarratas déanta agat ar chúrsa gairmoiliúna atá á chur ar fáil ag Bord Oideachais agus Oiliúna agus go dteastaíonn cúram leanaí uait, is féidir go gcáileoidh tú do chúram leanaí ar rátaí laghdaithe faoin gClár Tacaíochta um Oiliúint agus um Fhostaíocht Cúram Leanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>CETS can provide full-time, part-time or after-school childcare places</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis an scéim CETS áiteanna cúram leanaí lánaimseartha, páirtaimseartha nó iarscoile a chur ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Community Employment Childcare (CEC) Programme: The Community Employment Childcare (CEC) Programme provides childcare places at reduced rates for Community Employment (CE) applicants who need childcare so that they can take up a place on a CE scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>An Clár Fostaíocht Pobail um Chúram Leanaí (CEC): Soláthraíonn an Clár Fostaíocht Pobail um Chúram Leanaí (CEC) áiteanna i gcúram leanaí ar rátaí laghdaithe d’iarratasóirí ar an gclár fostaíocht pobail (CE) a dteastaíonn cúram leanaí uathu ionas gur féidir leo glacadh le háit ar scéim fostaíocht pobail</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Early Childhood Care and Education Scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Scéim Cúram Leanaí agus Oideachas na Luath-Óige</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Early Childhood Care and Education (ECCE) Scheme provides free childcare and early education to children of pre-school age</seg></tuv>
+  <tuv xml:lang="ga"><seg>Soláthraíonn Scéim Cúram Leanaí agus Oideachais na Luath-Óige (ECCE) cúram leanaí agus oideachas luath-óige saor in aisce do gach leanbh atá in aois naíonra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Single Affordable Childcare Scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Scéim Cúram Leanaí Singil Inacmhainne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>From September 2017 a new Single Affordable Childcare Scheme will provide a targeted subsidy, based on parental income, for children aged between 6 months and 15 years and a universal subsidy, for all families, for children aged between 6 months and 3 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó Mhéan Fómhair 2017, soláthróidh Scéim Cúram Leanaí Singil Inacmhainne nua spriocfhorlíonadh, bunaithe ar ioncam tuismitheora, do pháistí ar aois 6 mhí go 15 bliain iad agus forlíonadh uilíoch , do gach teaghlach, do pháistí ar aois sé mhí go 3 bliana iad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The new single affordable childcare programme will be developed to replace the existing Community Childcare Subvention, After-School Childcare Scheme, Childcare Education and Training Support programme and Community Employment Childcare programme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Forbrófar an Clár Cúram Leanaí Singil Inacmhainne nua an méid seo: An Clár Fóirdheontais Cúram Leanaí Pobail, An Scéim Cúram Leanaí Iarscoile, An Clár Tacaíochta um Oiliúint agus um Fhostaíocht Chúram Leanaí agus An Clár Fostaíocht Pobail um Chúram Leanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Scheme will be available to children attending a childcare provider registered with Tusla – including centre-based providers and child minders</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh an Scéim ar fáil do pháistí ag freastal ar sholáthraí cúram leanaí cláraithe le Tusla - soláthraithe bunaithe in ionaid agus feighlithe leanaí san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Childcare costs depend the type of childcare you choose, the number of hours and the level of staff training in that facility</seg></tuv>
+  <tuv xml:lang="ga"><seg>Braitheann costais cúram leanaí ar an gcineál cúraim a roghnaíonn tú, ar líon na n-uaireanta, agus ar leibhéal oiliúint na foirne san áis sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is no charge for the year of pre-school education provided under the Early Childhood Care and Education scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon táille don bhliain oideachais réamhscoile atá soláthartha faoin scéim Cúraim agus Oideachais Luath-Óige</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your local City or County Childcare Committee will have a list of childcare providers in your area</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh liosta de na soláthraithe cúram leanaí atá i do cheantar ag do Choiste Cúram Leanaí Contae nó Cathrach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can also apply to the early years/pre-school inspector for information about childcare services locally</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú iarratas a dhéanamh chomh maith ar an cigire luath-óige/réamhscoile chun teacht ar fhaisnéis faoi sheirbhísí áitiúla cúram leanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Public health nurses will often be familiar with local services and childminders within your area and can be contacted at your local health centre</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is gnách go mbeidh eolas ag altraí sláinte poiblí ar sheirbhísí áitiúla agus ar fheighlithe leanaí atá i do cheantar agus féadtar a sonraí teagmhála a fháil ag d’ionad áitiúil sláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is a list of national voluntary childcare organisations which promote quality in childcare</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá liosta d’eagraíochtaí náisiúnta deonacha cúram leanaí ann a chuireann cáilíocht i gcúram leanaí chun cinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Contact your local City or County Childcare Committee</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cá háit a ndéanfaidh mé iarratas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Contact the Child and Family Agency</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déan teagmháil le Coiste Cúram Leanaí na Cathrach/Contae go háitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Contact your local health centre</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déan teagmháil le hionad sláinte na háite</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Contact your Local Health Office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déan teagmháil le hOifig Sláinte Aitiúil na háite</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>City and County Childcare Committees</seg></tuv>
+  <tuv xml:lang="ga"><seg>Coistí Cúram Leanaí Cathrach agus Contae</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The City and County Childcare Committees (CCCs) develop and implement a co-ordinated strategy for the provision of quality, affordable and accessible childcare within each county</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann na Coistí Cúram Leanaí Cathrach agus Contae (CCSanna) straitéis chomhordaithe a fhorbairt agus a chur i bhfeidhm le haghaidh cúram leanaí ardchaighdeáin inacmhainne agus inrochtana a sholáthar laistigh de gach contae</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The CCCs help communities identify gaps in current childcare services and develop new services to meet these needs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cabhraíonn na CCSanna le pobail chun bearnaí atá i seirbhísí reatha cúram leanaí a shainaithint agus chun seirbhísí nua a fhorbairt chun freastal ar na riachtanais seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They provide information on funding and grant applications and facilitate a co-ordinated approach to childcare training at all levels</seg></tuv>
+  <tuv xml:lang="ga"><seg>Soláthraíonn siad faisnéis ar iarratais ar chistiú agus ar dheontas agus éascaíonn siad cur chuige comhordaithe i leith oiliúint cúram leanaí ar gach leibhéal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The new Children and Young People’s Policy Framework, which succeeds the previous National Children’s Strategy 2006 -2010, sets out the Government’s high level policy priorities for children and young people for the next 5 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagfar amach beartais ardleibhéil an Rialtais le haghaidh leanaí agus daoine óga do na 5 bliana amach romhainn sa Chreatlach nua Bheartais do Leanaí agus Daoine Óga, a thiocfaidh in ionad na Straitéise deireanaí Náisiúnta Leanaí 2006-2010</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It will be followed by more detailed Strategies for Early Years (0-6 years), Middle Childhood (6 years -12 years), and Youth (over 12 years)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leanfaidh Straitéisí níos sonraí le haghaidh na Luathbhlianta (0-6 bliana), na Meán-Óige (6 bliana-12 bhliain), agus na hÓige (breis agus 12 bhliain d’aois) an chreatlach seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>More detail is contained in the report Right from the start (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá breis sonraí le fáil sa tuarascáil Right from the start (pdf)</seg></tuv>
+</tu>
+</body>
+</tmx>

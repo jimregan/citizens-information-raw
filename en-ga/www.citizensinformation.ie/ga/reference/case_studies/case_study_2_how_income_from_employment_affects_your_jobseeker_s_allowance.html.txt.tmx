@@ -1,0 +1,201 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Case study 2: How income from employment affects your Jobseeker's Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cás-staidéar 2: Conas a bhíonn tionchar ag ioncam ó fhostaíocht in Éirinn ar an Liúntas do Lucht Cuardaigh Fostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This case study shows the affect of work on Jobseeker's Allowance in 2017</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léiríonn an cás-staidéar seo an tionchar a bhíonn ag obair ar an Liúntas do Lucht Cuardaigh Fostaíochta in 2017</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Frank is living with his partner Joanne and their two children</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Frank ina chónaí lena pháirtí Joanne agus lena mbeirt leanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He recently lost his job and has applied for Jobseeker's Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chaill sé a phost le gairid agus tá iarratas déanta aige ar Liúntas do Lucht Cuardaigh Fostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He has some temporary work driving a minibus for a local disability service every Saturday and Sunday</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá obair shealadach aige ag tiomáint mionbhus do sheirbhís áitiúil do dhaoine faoi mhíchumas gach Satharn agus Domhnach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>His assessable average weekly earnings are €140</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá a thuilleamh seachtainiúil inmheasúnaithe cothrom le €140</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Joanne is working part-time for 3 days a week and earns €85 per week</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Joanne ag obair go páirtaimseartha trí lá sa tseachtain agus tuileann sí €85 in aghaidh na seachtaine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>She is also getting Child Benefit for the two children</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigheann sí Sochar Leanaí don bheirt leanaí chomh maith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They recently sold their old family home and bought a newer house</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dhíol siad seanteach an teaghlaigh le déanaí agus cheannaigh siad teach níos nuaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They made a profit of €15,000 on the sale of their house and have an additional €5,000 savings</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rinne siad brabús €15,000 ar dhíol an tí agus tá coigilteas breise €5,000 acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>First calculate Frank and Joanne's means</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar dtús ríomh acmhainní Frank agus Joanne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Frank's assessable income from employment €60</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ioncam inmheasúnaithe Frank ó fhostaíocht €60</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Joanne's assessable income from employment €15</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ioncam inmheasúnaithe Joanne ó fhostaíocht €15</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Means assessed from savings 0</seg></tuv>
+  <tuv xml:lang="ga"><seg>Acmhainní measúnaithe ó choigilteas 0</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Calculate Frank's maximum rate of Jobseeker's Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ríomh uasráta an Liúntais do Lucht Cuardaigh Fostaíochta atá ag Frank</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This includes the maximum personal rate and any increase for a qualified adult</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuimsíonn sé seo an t-uasráta pearsanta agus aon mhéadú le aghaidh duine aosaithe cháilithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Jobseeker's Allowance rate (from March 2017) €193</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ráta an Liúntais do Lucht Cuardaigh Fostaíochta (ó Márta 2017) €193</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Add increase for a qualified adult €128.10</seg></tuv>
+  <tuv xml:lang="ga"><seg>Móide méadú le haghaidh duine aosaithe cháilithe €128.10</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Add increase for child dependents €59.60</seg></tuv>
+  <tuv xml:lang="ga"><seg>Móide méadú do leanaí cleithiúnacha €59.60</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Maximum rate of Jobseeker's Allowance less assessable means</seg></tuv>
+  <tuv xml:lang="ga"><seg>Uasráta an Liúntais do Lucht Cuardaigh Fostaíochta lúide acmhainní inmheasúnaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Maximum rate of Jobseeker's Allowance €380.70</seg></tuv>
+  <tuv xml:lang="ga"><seg>Uasráta an Liúntais do Lucht Cuardaigh Fostaíochta €380.70</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Less assessable means €75</seg></tuv>
+  <tuv xml:lang="ga"><seg>Lúide acmhainní inmheasúnaithe €75</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(JA personal rate plus increase for a qualified adult)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Ráta pearsanta LLCF móide méadú le haghaidh duine aosaithe cháilithe)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Total Jobseeker's Allowance rate payable to Frank €305.70</seg></tuv>
+  <tuv xml:lang="ga"><seg>Iomlán Ráta an Liúntais do Lucht Cuardaigh Fostaíochta atá iníoctha le Frank €305.70</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Firstly, assess Frank's income from work using the following formula:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar dtús, déan ioncam Frank ón obair a mheasúnú agus úsáid á baint as an bhfoirmle seo a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>€20 per day from casual work (up to a maximum of €60) will be deducted from his average assessable weekly earnings and then 60% of the balance will be assessed as his weekly means</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfar €20 in aghaidh an lae ó obair ócáideach (suas le huasmhéid de €60) a bhaint as a mheántuilleamh inmheasúnaithe seachtainiúil, agus ansin déanfar 60% den fhuílleach a mheasúnú mar a acmhainní seachtainiúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>€140 - €40 (2 days work) = €100 x 60% = €60</seg></tuv>
+  <tuv xml:lang="ga"><seg>€140 - €40 (don dá lá a oibríodh) = €100 x 60% = €60</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The following allowances are always deducted from your gross earnings to get your assessable earnings:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar na lamháltais a leanas a asbhaint ó d’olltuilleamh i gcónaí chun do thuilleamh inmheasúnaithe a fháil:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• PRSA (Personal Retirement Savings Account</seg></tuv>
+  <tuv xml:lang="ga"><seg>• CCSP (Cuntas Coigiltis Scoir Pearsanta)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Frank's weekly means from employment of €60 is less than the maximum amount he would be entitled to for his circumstances (€380.70)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá acmhainní seachtainiúla Frank ó fhostaíocht arb ionann iad agus €60 níos lú ná an t-uasmhéid a bheadh sé i dteideal a fháil ó thaobh a imthosca (€380.70)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Because we now know he is entitled to a certain amount of Jobseeker's Allowance the next step is to calculate the actual amount of Jobseeker's Allowance he is entitled to</seg></tuv>
+  <tuv xml:lang="ga"><seg>Toisc go bhfuil a fhios againn anois go bhfuil sé i dteideal méid áirithe dá Liúntas do Lucht Cuardaigh Fostaíochta a choinneáil is é an chéad chéim eile ná méid iarbhír an Liúntais do Lucht Cuardaigh Fostaíochta a bhfuil sé i dteideal a fháil a ríomh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To do this you must calculate his 'assessable daily earnings'</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh tú a ‘thuilleamh inmheasúnaithe laethúil’ a ríomh chun é seo a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He is entitled to JA only for periods of unemployment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl sé i dteideal an LLCF a fháil ach do thréimhsí dífhostaíochta amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The minimum period a person must be unemployed in order to receive JA is 4 days in a period of 7 consecutive days</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an íostréimhse go gcaithfidh duine a bheith dífhostaithe chun LLCF a fháil ná 4 lá i dtréimhse 7 lá as a chéile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Frank has 5 consecutive days of unemployment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá cúig lá dífhostaíochta as a chéile ag Frank</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He is employed for 2 days out of 7</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé fostaithe 2 lá as 7 lá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Frank's average assessable daily earnings are €140</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ionann meántuilleamh inmheasúnaithe laethúil Frank agus (€140)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Less disregard for days worked €140 - €40 = €100 (No disregard for Sunday)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Lúideneamhaird don lá a oibríodh €140 - €40 = €100</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>60 % of his assessable daily earnings of €100= €60</seg></tuv>
+  <tuv xml:lang="ga"><seg>60 % dá thuilleamh laethúil inmheasúnaithe de €100= €60</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Frank's assessable income from employment is €60</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Ioncam inmheasúnaithe Frank ó fhostaíocht cothrom le €60</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Joanne's income from employment is €85</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an t-ioncam ó fhostaíocht a fhaigheann Joanne ná €85</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>€20 per day from casual work (up to a maximum of €60) will be deducted from her average assessable weekly earnings and then 60% of the balance will be assessed as her weekly means</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfar €20 in aghaidh an lae ó obair ócáideach (suas le huasmhéid de €60) a asbhaint óna meántuilleamh inmheasúnaithe seachtainiúil, agus ansin déanfar 60% den fhuílleach a mheasúnú mar a hacmhainní seachtainiúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>€85 - €60 (3 days worked) = €25 x 60% = €15</seg></tuv>
+  <tuv xml:lang="ga"><seg>€110 – €60 (don 3 lá a oibríodh) = €25 x 60% = €15</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Child Benefit is not taken into account in the assessment of means</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chuirtear Sochar Leanaí san áireamh nuair atá acmhainní á ríomh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>More information can be found in our document How Jobseeker's Allowance is affected by income from employment and in our Worksheet on Jobseeker's Allowance and income from work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir tuilleadh eolais a fháil inár ndoiciméad Conas atá tionchar ag ioncam fostaíochta ar Liúntas do Lucht Cuardaigh Fostaíochta agus inár mBileog oibre ar Liúntas do Lucht Cuardaigh Fostaíochta agus ioncam ón obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Joanne and Frank have combined savings of €20,000</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá coigilteas €20,000 ag Joanne agus Frank in éineacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is below the €20,000 threshold and is not taken into account as means</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé sin faoin tairseach €20,000 agus ní chuirtear san áireamh mar acmhainní é</seg></tuv>
+</tu>
+</body>
+</tmx>

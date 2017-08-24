@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Financial institutions and identification</seg></tuv>
+  <tuv xml:lang="ga"><seg>Institiúidí airgeadais agus aitheantas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Before you open an account with a financial institution, they are obliged to establish your identity and verify your address</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sular féidir leat cuntas a oscailt le hinstitiúid airgeadais, tá dualgas orthu d’aitheantas a dheimhniú agus do sheoladh a dheimhniú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This requirement is set down in anti-money laundering legislation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an dualgas seo leagtha amach sa reachtaíocht frithsciúrtha airgid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Financial institutions include banks, building societies and credit unions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áirítear le hinstitiúidí airgeadais bainc, cumainn foirgníochta agus comhair chreidmheasa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you are opening an account you cannot use the same document as proof of both your identity and your address</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a bhíonn cuntas á oscailt agat, ní féidir leat an cháipéis chéanna a úsáid mar chruthúnas i leith d’aitheantais agus do sheolta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The requirements set out here are minimum requirements and the bank can look for further information</seg></tuv>
+  <tuv xml:lang="ga"><seg>Riachtanais íosta iad na ceanglais a leagtar amach anseo agus is féidir leis an mbanc níos mó faisnéise a lorg</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can prove your identity with any of the following:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú d’aitheantas a chruthú le haon cheann de na nithe seo a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A current Irish driving licence</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ceadúnas tiomána Éireannach bailí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A National Age Card (issued by An Garda Síochána)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Aoischárta Náisiúnta (arna eisiúint ag an nGarda Síochána)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• An identification form with a photograph signed by a member of An Garda Síochána</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Foirm aitheantais le grianghraf atá sínithe ag ball den Gharda Síochána</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Documents issued by government departments showing your name</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Doiciméid arna n-eisiúint ag ranna rialtais a thaispeánann d’ainm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Government documents must be verified by a statement from a person in a position of responsibility such as a solicitor, accountant, doctor or social worker</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór doiciméid Rialtais a bheith dearbhaithe ag ráiteas ó dhuine i bpost freagrachta cosúil le aturnae, cuntasóir, dochtúir nó oibrí sóisialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>That person must also come to the bank themselves with proof of their own identity</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don duine sin teacht chuig an mbanc iad féin le cruthúnas dá n-aitheantas féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can provide evidence of your address with any of these documents:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú fianaise a chur ar fáil i leith do sheolta le haon cheann de na cáipéisí seo a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A current utility bill (such as a gas, electricity or telephone or mobile phone bill)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bille fóntais reatha (cosúil le bille gáis, leictreachais nó teileafóin nó teileafóin phóca)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A current car or home insurance policy that shows your address</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Polasaí árachais baile nó cairr reatha a thaispeánann do sheoladh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A document issued by a government department that shows your address</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Doiciméad a d’eisigh roinn Rialtais a thaispeánann do sheoladh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A list of your tax credits</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Liosta de do chreidmheasanna cánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A current balancing statement from Revenue</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ráiteas comhardaithe reatha ó na gCoimisinéirí Ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A social insurance document (that shows your address)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Doiciméad árachais shóisialta a thaispeánann do sheoladh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A letter from your employer or licensed employment agency stating that you have recently arrived in Ireland and have started work but cannot yet provide evidence of your Irish address (you will have to provide evidence of your address at a later date)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Litir ó d’fhostóir nó ó ghníomhaireacht fostaíochta ceadaithe ag rá gur tháinig tú go hÉirinn le déanaí agus gur thosaigh tú ag obair ach nach féidir leat fianaise de do sheoladh Éireannach a chur ar fáil fós (beidh ort fianaise de do sheoladh a chur ar fáil ag dáta níos déanaí)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In some cases a bank may ask you for your PPS number – for example, if you are claiming tax relief on the interest paid on a mortgage loan</seg></tuv>
+  <tuv xml:lang="ga"><seg>I roinnt cásanna, d’fhéadfadh banc iarraidh ort d’uimhir PSP a sholáthar – mar shampla, má bhíonn faoiseamh cánach á éileamh agat ar ús a íocadh ar iasacht mhorgáiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Copies of all documentation used to establish the identity of the customer must be retained for 5 years after an account is closed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní foláir cóipeanna de na cáipéisí uilig a úsáideadh chun a dhearbhú cérbh é an custaiméir a choinneáil le haghaidh 5 bliana tar éis dó/di an cuntas a dhúnadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Also, copies of transactions must be kept for 5 years after the date of the transaction</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní foláir, chomh maith, cóipeanna de bhearta a choinneáil le haghaidh 5 bliana tar éis an dáta gur cuireadh an beart i gcrích</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Bank staff are required to know the nature of their customers' business and can ask for information about the level and type of business that is likely to be transacted through the account</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé riachtanach d'fhoireann an bhainc eolas a bheith acu ar an gcineál gnó atá ag a gcustaiméirí agus is féidir leo eolas a iarraidh ar an méid agus cineál gnó a bhéas ag dul tríd an gcuntas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can also be asked to provide confirmation of the source of your funds and to give reasons for carrying out certain transactions</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfaí iarraidh ar chustaiméirí foinse a gciste a dhearbhú agus cúiseanna a thabhairt faoin fáth a ndéantar bearta áirithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should contact your bank or financial institution to get full details of the identification they require</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun sonraí a fháil ar na foirmeacha aitheantais atá inghlactha, téigh i dteagmháil le do bhanc nó institiúid airgeadais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Central Bank of Ireland’s Registers contains individual registers for all financial institutions regulated by the Central Bank of Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuimsítear i gCláir Bhanc Ceannais na hÉireann cláir aonair le haghaidh gach institiúid airgeadais a rialaíonn Banc Ceannais na hÉireann</seg></tuv>
+</tu>
+</body>
+</tmx>

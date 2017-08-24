@@ -1,0 +1,333 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>• Air travel on EU airlines</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Aerthaisteal ar aerlínte an AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Air travel on non-EU airlines</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Aerthaisteal ar aerlínte neamh-AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are international laws in existence that provide a world-wide system of standards and rules for air travel and in particular, common rules regarding minimum liability limits for the carriage of passengers, cargo and luggage in the event of death, injury, damage, delay or loss</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá dlíthe náisiúnta i bhfeidhm a chuireann córas idirnáisiúnta caighdeán agus rialacha faoi aerthaisteal agus go háirithe, rialacha coiteann maidir le híosteorainneacha dliteanais ar iompar paisinéirí, lasta agus bagáiste i gcás báis, gortaithe, damáiste, moille nó nithe imithe ar iarraidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These laws were first agreed and introduced worldwide in 1929</seg></tuv>
+  <tuv xml:lang="ga"><seg>Comhaontaíodh na dlíthe seo agus tugadh isteach iad i dtosach ar fud an domhain i 1929</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The first international law introduced is known as the Warsaw Convention (1929)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar Coinbhinsiún Vársá (1929) ar an gcéad dlí idirnáisiúnta seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Over the years, there have been a number of changes to and reviews of the original Warsaw Convention, including increases in the monetary liability limits</seg></tuv>
+  <tuv xml:lang="ga"><seg>Thar na blianta, rinneadh líon athruithe agus athbhreithnithe ar bhunChoinbhinsiún Vársá – méadú ar theorainneacha dliteanais airgid san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These subsequent amendments together with the original Warsaw Convention are known collectively as the Warsaw System</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar Córas Vársá ar na leasuithe dá éis sin agus ar bhunChoinbhinsiún Vársá i dteannta a chéile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Over time the liability limits became too low by present-day standards</seg></tuv>
+  <tuv xml:lang="ga"><seg>Le himeacht ama, bhí na teorainneacha dliteanais ró-íseal de réir chaighdeáin an lae inniu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In addition, the laws governing airline liability become fragmented and very confusing as some countries had not introduced all the various amendments to the original laws</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa mhullach air sin, bhí na dlíthe maidir le dliteanas aerlíne neamhionann agus trína chéile toisc nach raibh na leasuithe éagsúla go léir a rinneadh do na bundlíthe curtha i bhfeidhm ag cuid de na tíortha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Montreal Convention (1999), titled the Convention for the Unification of Certain Rules for International Carriage by Air (pdf) amended the Warsaw System</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rinne Coinbhinsiún Mhontréal (1999), dar teideal An Coinbhinsiún maidir le hAontú Rialacha Áirithe i dtaca le hIompar Idirnáisiúnta d’Aer (pdf)) Córas Vársá a leasú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It re-established uniformity and predictability of the rules relating to the international carriage of passengers, luggage and cargo</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rinne sé aonfhoirmeacht agus intuarthacht na rialacha a athbhunú lena mbaineann iompar idirnáisiúnta paisinéirí, bagáiste agus lasta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It provides, among other things, for:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann sé foráil, i measc nithe eile, don mhéid a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Unlimited liability in the event of death or injury of passengers</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Dliteanas neamhtheoranta i gcás báis nó gortú paisinéirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Advanced payments to meet immediate needs</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Réamhíocaíochtaí chun íoc as riachtanais láithreacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The possibility of bringing a law suit before the courts in the passenger's principal place of residence</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An fhéidearthacht chun cás dlí a thabhairt os comhair na gcúirteanna i bpríomháit chónaithe an phaisinéara</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Increased liability limits in the event of delay</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Teorainneacha méadaithe dliteanais i gcás moille</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The modernisation of transport documents (electronic airway bills and tickets)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Nuachóiriú cáipéisí iompair (billí agus ticéid leictreonacha aerlíne)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The clarification of the rules on the respective liability of the contractual carrier and the actual carrier</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Soiléiriú na rialacha ar an dliteanas lena mbaineann i leith an iompróra conartha agus an iompróra féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The obligation for air carriers to maintain adequate insurance</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An dualgas ar aeriompróirí chun árachas leordhóthanach a choimeád</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the Montreal Convention the liability limits are set in Special Drawing Rights (SDR) which are a mix of currency values established by the International Monetary Fund (IMF)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi Choinbhinsiún Mhontréal, tá na teorainneacha dliteanais leagtha amach i gCearta Speisialta Tarraingthe (SDR) ar meascán luachanna airgeadra iad arna bhunú ag an gCiste Airgeadaíochta Idirnáisiúnta (IMF)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The current value of an SDR in Euro is available on the IMF's website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá fáil ar luach reatha SDR in Euro ar láithreán gréasáin an IMF</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The liability limits are reviewed every 5 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar na teorainneacha dliteanais a athbhreithniú gach 5 bliana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Air travel on EU airlines</seg></tuv>
+  <tuv xml:lang="ga"><seg>Aerthaisteal ar aerlínte an AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In order to improve the liability regime in the event of death of or injury to passengers of EU airlines, member states of the EU introduced legislation in 1997 that ensured that the same limits were in place in all EU member states</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun an córas dliteanais a fheabhsú i gcás bhás nó ghortú phaisinéirí aerlínte an AE, chuir ballstáit an AE reachtaíocht i bhfeidhm i 1997 chun a bheith cinnte go bhfuil na teorainneacha céanna i bhfeidhm i ngach ballstát den AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>EU Regulation 2027/1997 (pdf), however, did not provide for damage, delay or loss of luggage</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní ndearnadh foráil i Rialachán an AE 2027/1997 (pdf), áfach, do dhamáiste, moill nó caillteanas bagáiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Liability limits for damage, delay or loss of luggage or cargo still relied on the 1929 Warsaw Convention</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bhraith teorainneacha dliteanais maidir le damáiste, moill nó cailleadh bagáiste nó lasta ar Choinbhinsiún Vársá 1929 go fóill</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>EU Regulation 889/2002 (pdf) amended the 1997 Regulation and brought the EU states into line with the Montreal Convention</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rinne Rialachán 889/2002 an AE (pdf) Rialachán 1997 a leasú agus thug sé ballsáit an AE ar aon dul le Coinbhinsiún Mhontréal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It harmonised liability limits and legal defences in respect of European carriers, irrespective of whether the accident happens on an internal, intra-Community or international flight</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chomhréitigh sé na teorainneacha dliteanais agus na cosaintí dlíthiúla maidir le hiompróirí Eorpacha, gan aird ar cibé acu an dtarlaíonn an timpiste ar eitilt inmheánach, laistigh den Chomhphobal nó ar eitilt idirnáisiúnta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the Regulation, an EU airline must be insured up to a level that is adequate to ensure that all persons entitled to compensation receive the full amount to which they are entitled</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoin Rialachán, ní mór cumhdach árachais bheith ar aerlíne AE a mhéid agus leibhéal atá leordhóthanach lena chinntiú go bhfaigheann gach duine atá i dteideal cúiteamh a fháil an tsuim atá siad i dteideal a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They must provide each passenger with a written indication of the applicable liability limit for the flight in respect of:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór dóibh an teorainn dliteanais infheidhme a thabhairt le tuiscint i scríbhinn do gach paisinéir don eitilt maidir leis an méid a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Luggage which is destroyed, lost or damaged</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bagáiste a mhilltear, a chailltear nó a ndéantar damáiste dó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Damage occasioned by delay</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Damáiste a bhfuil moill ina húdar leis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Death or injury to passengers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bás nó gortú paisinéirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is no financial limit on the liability of an EU airline for damages sustained by you in the event of death, wounding or any other bodily injury</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon teorainn airgeadais ar dhliteanas aerlíne AE le haghaidh damáistí a mbíonn tú féin thíos leo i gcás báis, gortú nó gortú eile coirp</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For damages up to 113,100 SDRs, the airline cannot contest claims for compensation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leis an aerlíne dul i mbun conspóide i leith éileamh ar chúiteamh i gcás damáistí a mhéid agus 11,100 SDR</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Above that amount, the airline can defend itself against a claim by proving that it was not negligent or otherwise at fault</seg></tuv>
+  <tuv xml:lang="ga"><seg>Os cionn an mhéid sin, féadfaidh an aerlíne iad féin a chosaint i leith éilimh trí chruthú nach raibh siad faillíoch nó nach raibh an locht orthu ar bhealach eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are injured or killed, the airline must make an advance payment to cover immediate economic needs within 15 days</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má ghortaítear nó má mharaítear thú, ní mór don aerlíne réamhíocaíocht a dhéanamh chun íoc as riachtanais láithreacha gheilleagracha laistigh de 15 lá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the event of death, this advanced payment must be at least 16,000 SDRs</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás báis, ní mór don réamhíocaíocht seo bheith 16,000 SDR ar a laghad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An advance payment does not constitute recognition of liability and may be offset against any subsequent sums that are paid</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní aitheantas dliteanais réamhíocaíocht agus féadfar í a sheach-chur ag aon suimeanna dá éis sin nach n-íoctar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Any court action to claim damages must be taken within 2 years from the date the aircraft arrived or should have arrived</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór dul i mbun caingean chúirte chun damáistí a éileamh laistigh de 2 bhliain ón dáta a shroich an aerárthach an ceann scríbe nó an dáta ar cheart don aerárthach an ceann scríbe a shroicheadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Lost or damaged luggage</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bagáiste caillte nó bagáiste a ndéantar damáiste dó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The airline is liable if your luggage is lost, destroyed or damaged</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an aerlíne faoi dhliteanas má chailltear, má mhilltear nó má dhéantar damáiste do do bhagáiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the case of checked luggage, the airline is liable even if it is not at fault, unless the luggage is defective</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás bagáiste seiceáilte, tá an aerlíne faoi dhliteanas fiú mura bhfuil an locht orthusan, mura bhfuil an bagáiste lochtach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the case of unchecked luggage, it is only liable if it is at fault</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás bagáiste neamhsheiceáilte, ní bheidh an aerlíne faoi dhliteanas ach má tá an locht orthu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The airline is liable for damages up to 1,131 SDRs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an aerlíne faoi dhliteanas damáistí a mhéid agus 1,131 SDR a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can benefit from a higher liability limit by making a special declaration before checking in your luggage, and by paying a supplementary fee</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú tairbhe a bhaint as teorainn níos airde dliteanais trí dhearbhú speisialta a dhéanamh sula ndéanann tú do bhagáiste a sheiceáil isteach, agus trí tháille fhorlíontach a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must make a written complaint to the airline within 7 days if your luggage has been damaged or destroyed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit gearán i scríbhinn a dhéanamh don aerlíne laistigh de 7 lá má dhéantar damáiste do do bhagáiste nó má mhilltear é</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your luggage is considered lost if it has not arrived within 21 days from the date it was supposed to have arrived</seg></tuv>
+  <tuv xml:lang="ga"><seg>Meastar go bhfuil do bhagáiste caillte mura dtagann sé i láthair laistigh de 21 lá ón dáta ar cheart dó teacht i láthair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should make a written complaint about your lost luggage as soon as possible after the 21 days</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart duit gearán i scríbhinn a dhéanamh faoi do bhagáiste caillte a luaithe agus is féidir i ndiaidh 21 lá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Delayed passengers and luggage</seg></tuv>
+  <tuv xml:lang="ga"><seg>Paisinéirí agus bagáiste ar a bhfuil moill</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An airline is liable to pay for damages up to 4,694 SDRs if you are delayed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá aerlíne faoi dhliteanas damáistí a mhéid agus 4,694 SDR a íoc má chuirtear moill ort</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your luggage is delayed, the airline is liable to pay for damages up to 1,131 SDRs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chuirtear moill ar do bhagáiste, tá aerlíne faoi dhliteanas damáistí a mhéid agus 1,131 SDR a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The airline is not liable for damages where the airline took all reasonable measures or it was impossible to take such measures</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl an aerlíne faoi dhliteanas íoc as damáistí sa chás gur ghlac an aerlíne gach beart réasúnta nó sa chás nárbh fhéidir na bearta sin a ghlacadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must make a written complaint about your delayed luggage within 21 days of you receiving the luggage</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit gearán i scríbhinn a dhéanamh faoi do bhagáiste ar a bhfuil moill laistigh de 21 lá tar éis duit an bagáiste a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>More information on delayed flights is available in our document on compensation for overbooked, cancelled and delayed flights in the EU</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá níos mó faisnéise ar fáil ar eitiltí ar a bhfuil moill inár gcáipéis ar chúiteamh le haghaidh eitiltí san AE atá ró-áirithithe, curtha ar ceal agus ar a bhfuil moill</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Air travel on non-EU airlines</seg></tuv>
+  <tuv xml:lang="ga"><seg>Aerthaisteal ar aerlínte neamh-AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Due to the complex nature of the laws governing airline liability, liability limits in place in various countries around the world can vary</seg></tuv>
+  <tuv xml:lang="ga"><seg>De bharr chineál casta na ndlíthe a rialaíonn dliteanas aerlíne, tá na teorainneacha dliteanais atá i bhfeidhm i dtíortha éagsúla timpeall an domhain in ann a bheith éagsúil óna chéile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In countries that are party to the Montreal Convention, the liability limits are the same as for EU airlines</seg></tuv>
+  <tuv xml:lang="ga"><seg>I dtíortha atá ina gcomhpháirtithe le Coinbhinsiún Mhontréal, is ionann na teorainneacha dliteanais agus iad siúd d’aerlínte AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Whether you would be entitled to an advance payment in the event of an injury or death, and how much, depends on the law of the country</seg></tuv>
+  <tuv xml:lang="ga"><seg>Braitheann cibé acu an mbeifeá nó nach mbeifeá i dteideal réamhíocaíocht a fháil i gcás gortú nó báis, agus cé mhéid a bheadh an íocaíocht, ar dhlí na tíre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are advised before you travel to get adequate travel insurance in advance of your journey</seg></tuv>
+  <tuv xml:lang="ga"><seg>Moltar duit árachas leordhóthanach taistil roimh d’aistear a fháil sula dtaistealaíonn tú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can also check in advance of travel the liability limits governing the airline you are travelling with</seg></tuv>
+  <tuv xml:lang="ga"><seg>Anuas air sin, is féidir leat na teorainneacha dliteanais a rialaíonn an aerlíne lena mbeidh tú ag taisteal a sheiceáil sula dtaistealaíonn tú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Reporting missing or damaged luggage</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bagáiste ar iarraidh nó bagáiste a ndearnadh damáiste dó a thuairisciú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where your luggage does not arrive at the airport, or is damaged or destroyed, report the problem to the customer service desk of your airline at the airport baggage claims hall</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás nach mbaineann do bhagáiste an t-aerfort amach, nó má mhilltear nó má dhéantar damáiste dó, déan an fhadhb a thuairisciú do dheasc seirbhísí do chustaiméirí d’aerlíne ag halla bailithe bagáiste an aerfoirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should complete a Property Irregularity Report (PIR)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart duit Tuairisc Neamhrialtacht Réadmhaoine (PIR) a chomhlánú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The PIR will include information regarding the details of your flight (for example, the airline, date, flight number and time), your luggage, your name and address</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áireoidh an PIR faisnéis lena mbaineann sonraí faoi d’eitilt (mar shampla, an aerlíne, dáta, uimhir na heitilte agus am na heitilte), do bhagáiste, d’ainm agus do sheoladh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will be given a copy of the PIR which you should keep and the airline will retain the other copy</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabharfar cóip duit den PIR ar cheart duit a choimeád, agus coimeádfaidh an aerlíne an chóip eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should also keep the luggage labels you were given when you checked in your luggage and your boarding card</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart duit na lipéid bhagáiste a choimeád a tugadh duit nuair a sheiceáil tú do bhagáiste isteach, mar aon le do chárta bordála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The luggage labels contain a bar-code and a number</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sna lipéid bhagáiste barrachód mar aon le huimhir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This reference number relates to your luggage and will help the airline identify your luggage and help trace it for you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann an uimhir thagartha seo le do bhagáiste agus cabhróidh sí leis an aerlíne do bhagáiste a shainaithint agus chun é a rianú duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your luggage is not returned during your holiday or journey, keep receipts for items you had to purchase because of your missing luggage</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura dtugtar do bhagáiste ar ais le linn do shaoire nó d’aistir, coimeád fáltais le haghaidh na n-earraí a bhí ort ceannach mar gheall ar do bhagáiste ar iarraidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your luggage is damaged or destroyed take photographs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéantar damáiste do do bhagáiste nó má mhilltear do bhagáiste, glac grianghraif</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should put your complaint to the airline in writing</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart duit gearán a dhéanamh leis an aerlíne i scríbhinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should include with your letter copies of the PIR, luggage labels, boarding card and other relevant documentation such as receipts and photographs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart duit a áireamh le do litir, cóipeanna den PIR, lipéid bhagáiste, cárta bordála agus aon cháipéisíocht ábhartha eile ar nós fáltas agus grianghraf</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may require a written estimate for the cost of repairing or replacing luggage</seg></tuv>
+  <tuv xml:lang="ga"><seg>B’fhéidir go dteastóidh meastachán i scríbhinn uait i dtaobh an chostais chun bagáiste a dheisiú nó a ionadú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must make your complaint within certain time limits:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit do ghearán a dhéanamh laistigh de theorainneacha áirithe ama:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If your luggage has been damaged or destroyed, make your complaint within 7 days</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní mór duit do ghearán a dhéanamh laistigh de 7 lá má dhéantar damáiste do do bhagáiste nó má mhilltear é</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If your luggage has been delayed, make your complaint within 21 days of receiving it</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní mór duit do ghearán a dhéanamh laistigh de 21 lá tar éis do bhagáiste a fháil má bhíonn moill ar do bhagáiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If your luggage has been lost, make your complaint as soon as possible after it has been missing for 21 days</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má cailleadh do bhagáiste, déan do ghearán a luaithe is féidir tar éis dó bheith caillte ar feadh 21 lá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Any court action to claim damages must be taken within 2 years from the date the aircraft arrived or should have arrived</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór dul i mbun caingean chúirte chun damáistí a éileamh laistigh de 2 bhliain ón dáta a shroich an aerárthach an ceann scríbe nó an dáta ar cheart don aerárthach an ceann scríbe a shroicheadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have holiday insurance, you should advise your insurance company of the loss of or damage to your luggage as soon as you can</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá árachas saoire agat, ba cheart duit do chomhlacht árachais a chur ar an eolas faoi chailleadh do bhagáiste nó damáiste a rinneadh dó a luaithe is féidir leat</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>When someone dies unexpectedly</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a fhaigheann duine bás gan choinne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When someone dies a doctor must be satisfied about the cause of death before they can certify it and the death can be registered</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a fhaigheann duine bás ní mór don dochtúir a bheith deimhnitheach i dtaobh shiocair bháis an duine sular féidir leis é a dheimhniú agus sular féidir an bás a chlárú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the doctor didn't see the deceased at least 28 days before the death occurred, or if they aren't satisfied about the cause of death, the death must be reported to the Coroner</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más rud é nach bhfaca an dochtúir an duine nach maireann 28 lá ar a laghad sula bhfuair siad bás, nó mura bhfuil siad deimhnitheach i dtaobh shiocair bháis an duine, ní mór an bás a thuairisciú don Chróinéir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Coroner must also be informed if the deceased died as the result of an accident, or in violent or unexplained circumstances</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór an Cróinéir a chur ar an eolas freisin más rud é go bhfuair an duine bás de dheasca timpiste, nó in imthosca foréigneacha nó in imthosca nach bhfuil aon míniú orthu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The role of the Coroner is to investigate sudden and unexplained deaths so that the death can be certified and then registered</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é ról an Chróinéara bás tobann gan mhíniú a fhiosrú ionas gur féidir an bás a dheimhniú agus a chlárú ina dhiaidh sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Usually the death is reported to the Gardaí, who will inform the Coroner</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is gnách go dtuairiscítear an bás do na Gardaí, agus cuirfidh siadsan ansin an Cróinéir ar an eolas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The deceased may be taken to a hospital mortuary until the Coroner makes a decision as to whether a postmortem examination (also called an autopsy) is needed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir an marbhán a thabhairt go dtí marbhlann ospidéil go dtí go ndéanann an Cróinéir cinneadh cé acu an gá nó nach gá scrúdú iarbháis (ar a dtugtar uatóipse freisin) a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A postmortem examination is a medical examination of the body carried out by a specially trained doctor called a pathologist</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é atá i scrúdú iarbháis ná scrúdú dochtúra ar chorp a dhéanann dochtúir sainoilte ar a dtugtar paiteolaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Identification of the body</seg></tuv>
+  <tuv xml:lang="ga"><seg>An corp a chéannú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the Coroner decides a postmortem examination is needed, then a family member may be asked to formally identify the body</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chinneann an Cróinéir go bhfuil gá le scrúdú iarbháis, d’fhéadfaí iarraidh ar dhuine den teaghlach an corp a chéannú go foirmiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They will be required to go to the mortuary and identify the body to a Garda who is acting on behalf of the Coroner</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh orthu dul chuig an marbhlann agus an corp a chéannú do Gharda atá ag feidhmiú thar ceann an Chróinéara</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Gardaí may require more information about the circumstances surrounding the death</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh tuilleadh eolais a bheith ag teastáil ó na Gardaí faoi na himthosca a bhaineann leis an mbás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where there are multiple injuries or marked postmortem changes, identification may be confirmed by a photograph or other means</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás ina bhfuil mórán díobhálacha nó athruithe suntasacha iarbháis ann, is féidir céannú a dheimhniú le grianghraf nó ar mhodhanna eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In such cases a family member is not required to view the body</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcásanna den sórt sin níl ar dhuine den teaghlach féachaint ar an gcorp</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where a Coroner has ordered a postmortem examination, the permission of the family is not necessary</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás ina n-ordaíonn Cróinéir scrúdú iarbháis, ní gá cead a fháil ón teaghlach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Release of the body</seg></tuv>
+  <tuv xml:lang="ga"><seg>An corp a thabhairt ar ais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The body will normally be released to the family immediately after the postmortem examination has been completed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is gnách go dtugtar an corp ar ais don teaghlach tar éis an scrúdú iarbháis a bheith críochnaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Funeral arrangements should not be made until the body is released or the Coroner has indicated when release will occur</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níor choir socruithe sochraide a dhéanamh go dtí go dtugtar an corp ar ais nó go dtí go gcuireann an cróinéir in iúl cathain a thabharfar ar ais é</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is important at all times, but particularly so at public holiday weekends</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé seo tábhachtach i gcónaí, ach tá sé an-tábhachtach ar dheirí seachtaine saoire poiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If there is a criminal investigation, it may be necessary to have a second postmortem examination or further investigations</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhíonn imscrúdú coiriúil ann, d’fhéadfadh go mbeadh gá le scrúdú iarbháis eile nó le tuilleadh fiosrúchán a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In this case, the release of the body and the funeral arrangements may be delayed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás sin, d’fhéadfaí moill a chur ar an gcorp a thabhairt ar ais agus leis na socruithe sochraide</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The death can only be registered by the Registrar of Births, Marriages and Deaths when the Coroner has issued a Coroner’s Certificate to the Registrar</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leis an gCláraitheoir do Bhreitheanna, Póstaí agus Básanna an bás a chlárú go dtí go bhfuil Deimhniú Cróinéara eisithe ag an gCróinéir don Chláraitheoir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Coroner will issue this after the postmortem report is received or after an inquest is held</seg></tuv>
+  <tuv xml:lang="ga"><seg>Eiseoidh an Cróinéir é sin tar éis an scrúdú iarbháis a bheith faighte nó an t-ionchoisne a bheith seolta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the meantime the Coroner can issue an Interim Death Certificate, on request, which is acceptable to the Department of Social Protection for bereavement grants and other benefits</seg></tuv>
+  <tuv xml:lang="ga"><seg>Idir an dá linn, is féidir leis an gCróinéir Deimhniú Báis Eatramhach a eisiúint, má iarrtar sin air/uirthi, rud a nglacfaidh an Roinn Coimirce Sóisialaí leis ar mhaithe le deontais mhéala agus sochair eile a thabhairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a death cannot be explained by a postmortem examination, an inquest must be held to establish the facts of the death, such as where and how death occurred</seg></tuv>
+  <tuv xml:lang="ga"><seg>Murar féidir bás a mhíniú trí scrúdú iarbháis, ní mór ionchoisne a chur ar bun chun fíricí an bháis a thabhairt chun solais, mar shampla, cá háit agus cén chaoi a bhfuair an duine bás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where an inquest is to be held, the Coroner is usually able to allow burial or cremation once the postmortem examination of the body has been completed</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás ina bhfuil ionchoisne le déanamh, is gnách gur féidir leis an gCróinéir adhlacadh nó créamadh a cheadú a luaithe agus atá an scrúdú iarbháis ar an gcorp críochnaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For some deaths, inquests are legally required</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás básanna áirithe, ceanglaítear go dlíthiúil ionchoisní a chur ar bun</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In other cases, the holding of an inquest is at the discretion of the Coroner and the family can make their views known to the Coroner, if they so wish</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcásanna eile, is faoin gCróinéir atá sé ionchoisne a sheoladh agus is féidir leis an teaghlach a gcuid tuairimí a chur in iúl don Chróinéir, más mian leo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The inquest will not take place until at least 6 weeks after the death</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bheidh an t-ionchoisne ar siúl go dtí 6 seachtaine ar a laghad tar éis an bháis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is a public enquiry, presided over by the Coroner (and in some cases involving a jury) into the cause of the death</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is fiosrúchán poiblí ar shiocair an bháis é, a mbíonn an Cróinéir i gceannas air (agus giúiré páirteach ann i gcásanna áirithe)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Witnesses may be required to attend the inquest to give evidence regarding the circumstances and cause of the death</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfaí éileamh ar fhinnéithe freastal ar an ionchoisne chun fianaise maidir le himthosca agus siocair an bháis a thabhairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The family are entitled to attend the inquest, but they are not legally obliged to be there</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an teaghlach i dteideal freastal ar an ionchoisne, ach níl dualgas dlíthiúil orthu a bheith i láthair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When a jury is present at an inquest, it is the jury rather than the Coroner who delivers the verdict</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a bhíonn giúiré i láthair ag ionchoisne, is é an giúiré seachas an Cróinéir a thugann an fíorasc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Nobody is found guilty or innocent at an inquest and no criminal or civil liability is determined</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní fhaightear aon duine ciontach ná neamhchiontach in ionchoisne agus ní chinntear aon dliteanas coiriúil ná sibhialta</seg></tuv>
+</tu>
+</body>
+</tmx>

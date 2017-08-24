@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Building or altering a home</seg></tuv>
+  <tuv xml:lang="ga"><seg>Teach a thógáil nó a athrú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Adapting a home for an older or disabled person</seg></tuv>
+  <tuv xml:lang="ga"><seg>Teach a oiriúnú do dhuine breacaosta nó do dhuine faoi mhíchumas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your home may need alterations to suit the changing needs of an older or disabled person</seg></tuv>
+  <tuv xml:lang="ga"><seg>Your home may need alterations to suit the changing needs of an older or disabled person</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Information on grants and other supports</seg></tuv>
+  <tuv xml:lang="ga"><seg>Information on grants and other supports</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Protection of structures considered to be of special architectural, historical, archaeological, artistic, cultural, scientific, social or technical interest</seg></tuv>
+  <tuv xml:lang="ga"><seg>An chosaint a thugtar do struchtúr a mheastar a bheith ina ábhar sainspéise ó thaobh ailtireachta, staire, seandálaíochta, ealaíne, cultúir, eolaíochta, sóisialta nó teicneolaíochta de</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most Read in "Housing"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ábhar is mó éilimh i "Tithíocht"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Applying for local authority/social housing</seg></tuv>
+  <tuv xml:lang="ga"><seg>Iarratas a dhéanamh ar thithíocht shóisialta/údaráis áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your landlord wants you to leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má theastaíonn ó do thiarna talún go bhfágfadh tú an teach nó an t-árasan</seg></tuv>
+</tu>
+</body>
+</tmx>

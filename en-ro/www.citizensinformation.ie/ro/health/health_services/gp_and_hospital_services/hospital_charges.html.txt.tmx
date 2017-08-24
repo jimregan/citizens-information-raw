@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ro"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Everyone, regardless of nationality, who is accepted by the Health Service Executive (HSE) as being ordinarily resident in Ireland is entitled to access in-patient and out-patient services in publicly funded hospitals, that is, HSE hospitals and voluntary hospitals. Certain visitors to Ireland are also entitled to public health services, for example, people covered under EU Regulations</seg></tuv>
+  <tuv xml:lang="ro"><seg>Orice persoană, indiferent de naţionalitate, care este acceptată de către Directorul Serviciului de Sănătate (HSE) ca fiind în mod obişnuit rezidentă în Irlanda este îndreptăţită să acceseze servicii în regim de spitalizare sau ambulatoriu în spitale finanţate din fonduri publice, adică spitale HSE şi spitale voluntare</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are not resident in Ireland and you do not belong to any of the groups that are entitled to free services, you have to pay the full economic cost of the bed, whether it is a public bed or a private bed</seg></tuv>
+  <tuv xml:lang="ro"><seg>Dacă nu sunteţi rezident(ă) în Irlanda şi dacă nu aparţineţi niciunuia dintre grupurile care au dreptul la servicii gratuite, trebuie să achitaţi costul economic integral al patului, indiferent că este pat public sau privat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You also have to pay the consultant</seg></tuv>
+  <tuv xml:lang="ro"><seg>Trebuie să plătiţi de asemenea consultantul</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Charges for accident and emergency/casualty and out-patient services</seg></tuv>
+  <tuv xml:lang="ro"><seg>Costuri pentru accident sau urgenţă/ accidente grave şi servicii externe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you use accident and emergency services without being referred there by a GP, there is a charge of €100</seg></tuv>
+  <tuv xml:lang="ro"><seg>Dacă folosiţi serviciile pentru accidente sau urgenţe fără trimitere de la medicul de familie, va exista o taxă de €100</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is no charge if you are referred by a GP (bring your referral letter with you) or for certain groups listed below</seg></tuv>
+  <tuv xml:lang="ro"><seg>Nu există niciun cost suplimentar dacă aveţi trimitere de la medicul de familie, sau pentru anumite grupuri din lista de mai jos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The charge applies to the following public facilities:</seg></tuv>
+  <tuv xml:lang="ro"><seg>Taxa se aplică următoarelor facilităţi publice:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Accident and emergency departments</seg></tuv>
+  <tuv xml:lang="ro"><seg>• Departamente de accidente şi urgenţă</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Any other facility providing similar services</seg></tuv>
+  <tuv xml:lang="ro"><seg>• Orice alte facilităţi ce furnizează servicii similare</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The charge of €100 does not apply to the following groups:</seg></tuv>
+  <tuv xml:lang="ro"><seg>De taxa curentă de €100 nu se aplică următoarelor grupuri:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• People who are admitted to hospital as an in-patient as a result of attending the casualty department (you will then be subject to in-patient charges)</seg></tuv>
+  <tuv xml:lang="ro"><seg>• Persoanele internate în spital în urma aducerii la secţia de accidente grave (acestea vor avea de achitat costurile de spitalizare)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• People receiving treatment for prescribed infectious diseases</seg></tuv>
+  <tuv xml:lang="ro"><seg>• Persoanele care urmează tratament pentru bolile infecţioase indicate</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Children up to 6 weeks of age • Children, in respect of the following diseases and disabilities: “mental handicap, mental illness, phenylketonuria, cystic fibrosis, spina bifida, hydrocephalus, haemophilia and cerebral palsy”</seg></tuv>
+  <tuv xml:lang="ro"><seg>• Copiii cu vârsta de până la şase săptămâni, copiii care suferă de bolile şi handicapurile indicate şi copiii trimişi la tratament de către clinicile medicale pediatrice şi în urma examinărilor medicale din şcoli</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Children referred for treatment from child health clinics and school health examinations</seg></tuv>
+  <tuv xml:lang="ro"><seg>• Persoanele care au dreptul la servicii spitaliceşti conform Reglementărilor UE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Women receiving maternity services</seg></tuv>
+  <tuv xml:lang="ro"><seg>• Femeile cărora li se acordă servicii de maternitate</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• People with Hepatitis C who have a Health Amendment Act Card</seg></tuv>
+  <tuv xml:lang="ro"><seg>• Persoanele cu hepatita C care au un card în baza Legii modificate a Sănătăţii</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have to return for further visits to an out-patient clinic in relation to the same illness or accident, you should not have to pay the charge again</seg></tuv>
+  <tuv xml:lang="ro"><seg>Dacă trebuie să reveniţi la consultaţie pentru aceeaşi boală sau acelaşi accident, nu trebuie să achitaţi din nou costul respectiv</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can be referred by your family doctor to the out-patients department of a public hospital for specialist assessment by a consultant or his or her team or for diagnostic assessments (for example, x-rays, laboratory tests, physiotherapy)</seg></tuv>
+  <tuv xml:lang="ro"><seg>Puteţi fi trimis de medicul dumneavoastră de familie la secţia de consultaţii a unui spital public pentru examen de specialitate efectuat de un medic specialist sau de echipa sa, sau pentru examinări cu rol de diagnosticare (adică radiografii, analize de laborator, fizioterapie etc.)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you attend this service as a public patient, you will not have to pay for this service</seg></tuv>
+  <tuv xml:lang="ro"><seg>Dacă vă duceţi la aceste secţii în calitate de pacient al sistemului public de sănătate, nu va trebui să plătiţi pentru acest serviciu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you wish to attend a consultant in a private capacity, you must pay their fee</seg></tuv>
+  <tuv xml:lang="ro"><seg>Dacă doriţi să vă duceţi la un medic specialist în calitate particulară, vi se va solicita să achitaţi costul corespunzător</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Public in-patients in public hospitals</seg></tuv>
+  <tuv xml:lang="ro"><seg>Costurile de spitalizare în spitalele publice</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are a public patient in a public hospital under the care of a consultant for treatment and you remain overnight, you are receiving overnight in-patient services</seg></tuv>
+  <tuv xml:lang="ro"><seg>Dacă vă aflaţi într-o secţie publică, în îngrijirea unui medic specialist, pentru tratament, şi rămâneţi peste noapte, se consideră că beneficiaţi de servicii de spitalizare</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are admitted to the hospital under the care of a consultant where you do not require the use of a bed overnight and your discharge from hospital is planned, you are receiving day in-patient services</seg></tuv>
+  <tuv xml:lang="ro"><seg>Dacă sunteţi internat în spital în îngrijirea unui medic specialist, fără a necesita folosinţa unui pat peste noapte şi dacă externarea dumneavoastră este planificată, se consideră că beneficiaţi de servicii în regim ambulatoriu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>From 1 January 2017, the statutory charge for overnight and day in-patient services is €80 per day up to a maximum of €800 in any 12 consecutive months</seg></tuv>
+  <tuv xml:lang="ro"><seg>Costul serviciilor de spitalizare/de asistenţă socială este de €75 pe zi, până la maxim €750 pe an</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The charge does not apply to the following groups:</seg></tuv>
+  <tuv xml:lang="ro"><seg>Acest cost nu se aplică următoarelor grupuri:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• People receiving treatment for prescribed infectious diseases</seg></tuv>
+  <tuv xml:lang="ro"><seg>• Persoanele care urmează tratament pentru bolile infecţioase indicate</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Children up to 6 weeks of age</seg></tuv>
+  <tuv xml:lang="ro"><seg>• Persoanele care trebuie să achite costuri de „spitalizare îndelungată”</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Children with the following diseases and disabilities: "mental handicap, mental illness, phenylketonuria, cystic fibrosis, spina bifida, hydrocephalus, haemophilia and cerebral palsy"</seg></tuv>
+  <tuv xml:lang="ro"><seg>• Copiii cu vârsta de până la şase săptămâni, copiii care suferă de bolile şi handicapurile indicate şi copiii trimişi la tratament de către clinicile medicale pediatrice şi în urma examinărilor medicale din şcoli</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Children referred for treatment from child health clinics and school board examinations</seg></tuv>
+  <tuv xml:lang="ro"><seg>• Persoanele care au dreptul la servicii spitaliceşti conform Reglementărilor UE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Women receiving maternity services</seg></tuv>
+  <tuv xml:lang="ro"><seg>• Femeile cărora li se acordă servicii de maternitate</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Private in-patients in public hospitals</seg></tuv>
+  <tuv xml:lang="ro"><seg>Pacienţi privaţi internaţi în spitale publice</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you choose to be treated as a private patient of a consultant when you are admitted to a public hospital, you are charged for the inpatient services according to the category of the hospital and (for an overnight stay) according to the type of room you are in</seg></tuv>
+  <tuv xml:lang="ro"><seg>Dacă optați pentru a fi tratat(ă) ca pacient privat al unui consultant atunci când sunteţi internat(ă) într-un spital public, vi se vor percepe costuri pentru serviciile e spitalizare în conformitate cu categoria spitalului şi (pentru şedere peste noapte) în conformitate cu tipul camerei în care vă aflaţi</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Rates from January 2014 are:</seg></tuv>
+  <tuv xml:lang="ro"><seg>Tarifele începând cu luna ianuarie 2014 sunt:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Hospital Category Single-occupancy room overnight Multiple-occupancy room overnight Day-case</seg></tuv>
+  <tuv xml:lang="ro"><seg>│Categoria spitalului │Internare peste noapte într-o cameră cu un singur loc │Internare peste noapte într-o cameră cu mai multe locuri │Internare numai în timpul zilei │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Fifth schedule hospitals €1,000 €813 €407</seg></tuv>
+  <tuv xml:lang="ro"><seg>│Spitale din categoria a cincea │1.000 € │813 € │407 € │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Sixth schedule hospitals €800 €659 €329</seg></tuv>
+  <tuv xml:lang="ro"><seg>│Spitale din categoria a şasea │800 € │659 € │329 € │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The hospitals in each category are listed in the Health (Amendment) Act 2013 with four changes subsequently made by Statutory Instrument No.75 of 2014 (pdf)</seg></tuv>
+  <tuv xml:lang="ro"><seg>Spitalele din fiecare categorie sunt enumerate în Legea (modificată) a Sănătăţii 2013 cu patru modificări efectuate de Documentul legislativ nr.75 din 2014 (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Act provides that public hospitals must levy the private in-patient charge on all in-patients who opt to be treated privately by their consultant</seg></tuv>
+  <tuv xml:lang="ro"><seg>Legea prevede că spitalele publice trebuie să achite taxa de spitalizare privată pentru toţi pacienţii internaţi care optează pentru a fi trataţi în mod privat de către consultantul acestora</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are a private patient, you must pay for the services of the consultant who is treating you</seg></tuv>
+  <tuv xml:lang="ro"><seg>Trebuie să plătiţi pentru întreţinerea şi tratamentul din spitalele de psihiatrie private</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must also pay for the services of any other consultant who is involved in caring for you (for example, the radiation oncologist or anaesthetist)</seg></tuv>
+  <tuv xml:lang="ro"><seg>Companiile de asigurări de sănătate tratează uneori costurile de la spitalele de psihiatrie diferit faţă de costurile de la spitalele generale</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You have the same entitlement to public health services for mental illness as for any other illness. You must pay for maintenance and treatment in private psychiatric hospitals</seg></tuv>
+  <tuv xml:lang="ro"><seg>HSE poate impune taxe de spital pentru pacienţii cu ședere lungă sau pentru tratament extins, pe lângă taxele normale pentru pacienţii spitalizaţi</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Health insurance companies sometimes treat psychiatric hospital costs differently from general hospital costs</seg></tuv>
+  <tuv xml:lang="ro"><seg>Dacă aţi fost spitalizat pentru o perioadă mai mare de 30 de zile ȋn ultimile 12 luni, veţi fi responsabil pentru plata acestor taxe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The same rules apply to long-term institutional care for psychiatric patients as to long-term institutional care for other patients</seg></tuv>
+  <tuv xml:lang="ro"><seg>Acestea se aplică tuturor, inclusiv deţinătorilor de carduri medicale</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Mental health in-patient and out-patient services are provided free of charge to children aged under 16 years who have a mental illness</seg></tuv>
+  <tuv xml:lang="ro"><seg>Regulamentul se Sănătate 2005 (Taxe pentru Serviciile Pacienţilor Spitalizaţi) stipulează un regim diferit de taxare, în funcţie de nivelul de îngrijire care este oferit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have been in hospital, but not receiving acute in-patient care, for more than 30 days, you may be charged Long-Stay Contributions for Residential Support Services</seg></tuv>
+  <tuv xml:lang="ro"><seg>Dacă sunteţi ȋn spital pentru mai mult de 30 de zile și un doctor certifică faptul că nu aveţi nevoie de ȋngrijiri medicale acute și tratament, puteţi fi taxat ca și cum aţi primi servicii medicale rezidenţiale de lungă durată</seg></tuv>
+</tu>
+</body>
+</tmx>

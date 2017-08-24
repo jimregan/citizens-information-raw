@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Case study: Carer's leave and annual leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cás- Staidéar ar shaoire cúramóra agus saoire bhliantúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Tom took carer's leave from work to look after his father who was seriously ill</seg></tuv>
+  <tuv xml:lang="ga"><seg>Thóg Tom saoire cúramóra ón obair chun aire a thabhairt dá athair a bhí go dona breoite</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He took 78 weeks which was most of his entitlement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Thóg sé formhór a theidlíocht de 78 seachtaine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>On his return to work, he was discussing annual leave with his employer</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar fhilleadh chun na hoibre dó, bhí sé ag plé saoire bliantúil lena fhostóir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>His employer said that, as he understood it, employees cannot take annual leave in the same calendar year the carer's leave ends. Is this correct or not?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dúirt a fhostóir, mar a thuig sé féin, nach féidir le fostaithe saoire bhliantúil a thógáil sa bhliain fhéilire céanna ina gcríochnaíonn saoire cúramóra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Tom's employer is incorrect</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá fostóir Tom mícheart</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Provided Tom has accumulated sufficient hours of work, he is entitled to take annual leave, even if this occurs in the same calendar year as his carer's leave ends</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chomh fada agus go bhfuil dóthain uaireanta oibre carnaithe ag Tom, tá sé i dteideal saoire bliantúil a thógáil, fiú amháin má tharlaíonn sé seo sa bhliain fhéilire céanna ina gcríochnaíonn a shaoire cúramóra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Only the first 13 weeks however of the period spent on carer's leave count towards establishing entitlement to annual leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>An chéad 13 seachtaine amháin cibé ar bith a áirítear i dtreo theidlíocht do shaoire bhliantúil a bhunú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the same way, Tom only has rights in respect of public holidays falling in the first 13 weeks of his carer's leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar an mbealach céanna, níl cearta ag Tom ach amháin maidir le saoire phoiblí a thiteann sa chéad 13 seachtaine dá shaoire cúramóra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The maximum period of carer's leave is 104 weeks</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is an tuastréimhse do shaoire cúramóra 104 seachtaine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If Tom's father becomes ill again, Tom can apply for the balance of his carer's leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má éiríonn athair Tom breoite arís, is féidir le Tom iarratas a dhéanamh ar an bhfuílleach dá shaoire cúramóra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He is entitled to a maximum of 26 weeks provided there is a gap of at least 6 weeks between the two periods of carer's leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé i dteideal d'uasmhéid de 26 seachtaine chomh fada agus go bhfuil bearna atá ar laghad 6 seachtaine idir an dá thréimhse shaoire cúramóra</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,449 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>• What should I do if my child is at risk of abduction?</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cad ba chóir dom a dhéanamh má cheapaim go bhfuil mo leanbh i gcontúirt a fhuadaithe?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When a child is removed from the person who has the legal right to custody of the child without that person’s consent it is called child abduction</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a thógtar leanbh ón duine a bhfuil an ceart dlíthiúil aige/aici ar chaomhnóireacht an linbh sin gan toiliú an duine, glaoitear fuadach leanaí air sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When the child is taken out of the country or is kept in another country they are visiting it is called international child abduction</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a thógtar an leanbh amach as an tír nó má choinnítear é/í i dtír eile a bhfuil sé/sé ag tabhairt cuairte air tugtar fuadach idirnáisiúnta leanaí air sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are two main aspects to international child abduction as follows:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá dhá phríomhghné ag baint le fuadach idirnáisiúnta leanaí mar seo a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• International child abduction is a criminal offence in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Is cion coiriúil é fuadach idirnáisiúnta leanaí in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A parent or anyone else who unlawfully abducts a child may be convicted of the offence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir tuismitheoir nó aon duine eile a fhuadaíonn leanbh go neamhdhleathach a chúiseamh as an gcion</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(See 'Criminal offence' below)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Féach “Cion coiriúil” thíos)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The question of arranging for the return of a child who has been abducted internationally is governed by international law</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Rialaíonn an dlí idirnáisiúnta an cheist maidir leis an leanbh a ndearnadh fuadach idirnáisiúnta air/uirthi a thabhairt ar ais abhaile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are international Conventions and a European Union (EU) Regulation which set out the rules that apply</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Coinbhinsiúin idirnáisiúnta agus Rialachán de chuid an Aontais Eorpaigh (AE) ann a leagann amach na rialacha atá i bhfeidhm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The EU Regulation applies to an abduction from one EU member state to another</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá feidhm leis an Rialachán AE i gcás fuadach a dhéantar as ballstát amháin de chuid an AE chuig ceann eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An international Convention applies to cases to which the EU Regulation does not apply</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann Coinbhinsiún idirnáisiúnta le cásanna nach bhfuil feidhm le Rialachán an AE iontu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(See 'Return of the child' below)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Féach “Filleadh an linbh” thíos)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>What is child abduction?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cad is fuadach leanaí ann?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Child abduction is the term used to describe a situation where a child is removed from the person who has the legal right to custody without that person’s consent</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is éard is fuadach leanaí ná an téarma a úsáidtear chun cur síos a dhéanamh ar chás ina dtógtar leanbh ón duine a bhfuil an ceart dlíthiúil aige/aici ar chaomhnóireacht agus déantar é gan toiliú an duine sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>International child abduction occurs when a child is:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tarlaíonn fuadach idirnáisiúnta leanaí nuair a tharlaíonn sé seo a leanas don leanbh:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Taken out of the country in which the child and the person who has the legal right to custody normally live (the child is unlawfully removed from a country)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tógtar é/í amach as an tír ina bhfuil gnáthchónaí air/uirthi agus ar an duine a bhfuil an ceart dlíthiúil aige/aici ar a c(h)aomhnóireacht (tógtar an leanbh amach as tír go neamhdhleathach)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Kept in another country where the child is visiting (the child is unlawfully retained in a country)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Coinnítear an leanbh i dtír eile áit a bhfuil an leanbh ar cuairt (coinnítear an leanbh i dtír go neamhdhleathach)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The abductor may be any person but frequently is one of the child’s parents</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh aon duine a bheith i gceist leis an bhfuadaitheoir ach is minic gur duine de thuismitheoirí an linbh a bhíonn i gceist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, a child who is in the custody of his mother in Ireland and who is visited here by his father may be abducted from here and unlawfully removed by his father</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, d’fhéadfaí leanbh a bhfuil caomhnóireacht ag a m(h)áthair air/uirthi in Éirinn agus a dtugann a (h)athair cuairt air/uirthi anseo a fhuadach as an tír seo agus a bheith tógtha go neamhdhleathach ag a (h)athair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A child who is in the custody of his father in Ireland may go to visit his mother in the USA and, if she keeps him there beyond the agreed visiting time, he has been abducted and is unlawfully retained by his mother</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfaí leanbh a bhfuil caomhnóireacht ag a (h)athair air/uirthi in Éirinn dul ar cuairt chuig a m(h)áthair i SAM agus, má choinníonn sí é/í thar an am atá aontaithe don chuairt, tá sé/sí fuadaithe agus á c(h)oinneáil go neamhdhleathach ag a m(h)áthair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>So, an abduction may involve the wrongful removal or the wrongful retention of a child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin, d’fhéadfadh tógáil éagórach nó coinneáil éagórach linbh a bheith i gceist le fuadach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Non-Fatal Offences against the Person Act 1997 deals with the crime of international child abduction</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déileálann an tAcht um Chionta Neamh-Mharfacha in aghaidh an Duine 1997 leis an gcoir a bhaineann le fuadach idirnáisiúnta leanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Section 16 of the Act applies if you are a parent, guardian or a person to whom custody of the child has been granted by a court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá feidhm le hAlt 16 den Acht más tuismitheoir, caomhnóir nó duine tú a bhfuil caomhnóireacht an linbh bronnta ort ag cúirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It does not apply to you if you are a parent who is not a guardian of the child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhíonn feidhm leis an alt más tuismitheoir tú nach bhfuil i do chaomhnóir ar an leanbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It applies if you unlawfully send or keep a child under the age of 16 out of the State or if you cause a child to be unlawfully taken, sent or kept</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn feidhm leis an alt má chuireann tú nó má choinníonn tú leanbh faoi aois 16 go neamhdhleathach amuigh as an Stát nó más tú is cúis le leanbh a thógáil, a chur amach nó a choinneáil go neamhdhleathach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Unlawfully means in defiance of a court order or without the consent of the other parent or guardian</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn rud a dhéanamh go neamhdhleathach rud a dhéanamh d'ainneoin ordú cúirte nó rud a dhéanamh gan toiliú tuismitheora nó caomhnóra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Section 17 applies to people who are not covered by Section 16 and who unlawfully detain a child or cause a child to be detained</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn feidhm le hAlt 17 i gcás daoine nach bhfuil clúdaithe ag Alt 16 agus a choinníonn leanbh go neamhdhleathach nó atá ina chúis le leanbh a choinneáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The main concern in international child abduction cases is the return of the child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an príomhchúram a bhaineann le cásanna fuadaithe idirnáisiúnta leanaí ná an leanbh a thabhairt ar ais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The international conventions and the EU Regulation which govern the return of the child are all based on similar principles</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá na coinbhinsiúin idirnáisiúnta agus an Rialachán AE a rialaíonn filleadh an linbh bunaithe ar na prionsabail chéanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The child should be returned to his/her habitual residence as soon as possible</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ba chóir an leanbh a thabhairt ar ais chuig a g(h)náth-áit chónaithe chomh luath agus is féidir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The courts of the jurisdiction in which the child is habitually resident are the appropriate courts to decide what is in the best interests of the child</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Is iad cúirteanna na dlínse ina bhfuil gnáthchónaí ar an leanbh na cúirteanna cuí chun cinneadh a dhéanamh faoi cad is fearr a rachaidh chun leasa an linbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>So, if there are any disputes about, for example, access, custody, maintenance, these disputes should be decided in the country where the child is habitually resident</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin, má bhíonn aon díospóidí ann faoi, mar shampla, rochtain, caomhnóireacht nó cothabháil, ba chóir na díospóidí sin a shocrú sa tír ina bhfuil gnáthchónaí ar an leanbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is a Central Authority in each country to facilitate the return of abducted children</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Lárúdarás i ngach tír chun filleadh an linbh fhuadaithe a éascú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>EU Regulation on international abduction of children</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rialachán an AE um fhuadach idirnáisiúnta leanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The EU has a limited role in family law matters</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá ról teoranta ag an AE i gcúrsaí dlí teaghlaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Each individual member state has its own rules about separation, divorce, maintenance of spouses and children, custody and guardianship and other family law matters</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá a chuid rialacha féin ag gach ballstát aonair maidir le scaradh, colscaradh, cothabháil céilí agus leanaí, caomhnóireacht agus cúrsaí dlí teaghlaigh eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The role of the EU is mainly concerned with ensuring that decisions made in one country can be implemented in another</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é ról an AE go príomha ná a chinntiú gur féidir cinntí a dhéantar i dtír amháin a chur i bhfeidhm i dtír eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It also has a role in trying to establish which country has jurisdiction to hear a particular case</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá ról freisin ag an AE ó thaobh cinneadh a dhéanamh cén tír ag a bhfuil dlínse chun éisteacht le cás ar leith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find out more about EU legislation on family law in our document, EU and family law</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat tuilleadh a fháil amach faoi reachtaíocht an AE ar dhlí teaghlaigh inár ndoiciméad, An AE agus dlí teaghlaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Council Regulation (EC) No 2201/2003 on jurisdiction and the recognition and enforcement of judgments in matrimonial matters and the matters of parental responsibility came into effect in March 2005</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tháinig Rialachán (CE) Uimh. 2201/2003 ón gComhairle maidir le dlínse agus breithiúnais a aithint agus a fhorfheidhmiú i gcúrsaí pósta agus cúrsaí a bhaineann le freagracht tuismitheoirí i bhfeidhm i mí an Mhárta 2005</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Regulation covers the following aspects of parental responsibility:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Clúdaíonn an Rialachán na gnéithe seo a leanas d’fhreagracht tuismitheoirí:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Jurisdiction – what country should hear the case, whose laws should apply</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Dlínse - cén tír ar chóir an cás a éisteacht inti, cén dlíthe ar chóir a bheith i bhfeidhm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Recognition and enforcement – how decisions made in one country are to be recognised and enforced in another</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Aitheantas agus forfheidhmiú - conas a thabharfar aitheantas agus a dhéanfar forfheidhmiú ar chinntí a dhéantar i dtír amháin i dtír eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Specific rules on child abduction and access rights</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Rialacha sonracha ar fhuadach leanaí agus ar chearta rochtana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The regulation does not set an age limit – that is for the individual country to decide</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní leagann an rialachán teorainn aoise síos - is faoin tír aonair é sin a shocrú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In general, the age limit is 18</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is 18 an teorainn aoise go ginearálta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It applies only to civil proceedings, not criminal cases</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann sé le himeachtaí sibhialta amháin, ní le cásanna coiriúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The court in the member state of the child’s habitual residence before the abduction retains jurisdiction to deal with the case except in certain limited circumstances, for example, where all concerned have acquiesced in the abduction</seg></tuv>
+  <tuv xml:lang="ga"><seg>Coinníonn an chúirt sa bhallstát ina raibh gnáthchónaí ar an leanbh roimh an bhfuadach dlínse chun déileáil leis an gcás ach amháin i gcúinsí teoranta áirithe, mar shampla, sa chás gur ghéill gach duine lena mbaineann san fhuadach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Regulation creates a system of co-operation between Central Authorities of the member states</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cruthaíonn an Rialachán córas comhoibrithe idir Lárúdaráis na mballstát</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These authorities are obliged to facilitate communications between the courts of the relevant countries and must facilitate agreements between parents through mediation or other means</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé d’oibleagáid ar na húdaráis seo cumarsáid a éascú idir cúirteanna na dtíortha ábhartha agus caithfidh siad comhaontuithe a éascú idir na tuismitheoirí trí idirghabháil nó trí bhealaí eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Judgements given in one member state must be recognised and enforced in another member state</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfear breithiúnais a thugtar i mballstát amháin a aithint agus a fhorfheidhmiú i mballstát eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The court in the other member state may refuse to recognise the order only on certain grounds</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis an gcúirt sa bhallstát eile diúltú aitheantas a thabhairt don ordú ach ní féidir é sin a dhéanamh ach ar fhorais áirithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the cases of child abduction, it is not necessary to go through the court procedure for recognition</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcásanna ina bhfuadaítear leanbh, ní gá dul trí imeacht cúirte chun aitheantas a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have custody of a child and your child is abducted to another member state, you may apply to that state for the return of the child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá caomhnóireacht agat ar leanbh agus má fhuadaítear do leanbh chuig ballstát eile, féadfaidh tú iarratas a dhéanamh chuig an stát sin chun an leanbh a fháil ar ais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The court of the member state to which the child has been abducted can only refuse return of the child in limited circumstances – for example, if there are not adequate safeguards to ensure that there is no serious risk of harm to the child should the child return</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir le cúirt an bhallstáit chuig a bhfuadaítear an leanbh diúltú don leanbh a thabhairt ar ais ach i gcúinsí teoranta - mar shampla, mura bhfuil cosaintí imleora ann lena chinntiú nach bhfuil aon riosca tromchúiseach ann go ndéanfar dochar don leanbh sa chás go bhfillfeadh sé/sí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In general, the court must order the immediate return of the child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, caithfidh an chúirt ordú a thabhairt go dtabharfaí an leanbh ar ais láithreach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the Hague Convention (see below), the court is not obliged to order the return if it would expose the child to physical or psychological harm, or put him/her in an intolerable situation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi Choinbhinsiún na Háige (féach thíos), níl sé d’oibleagáid ar an gcúirt ordú a thabhairt an leanbh a thabhairt ar ais sa chás go mbeadh an leanbh i gcontúirt fhisiciúil nó shíceolaíochta, nó go gcuirfí i gcás dofhulaingthe é/í</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The EU Regulation requires the return of the child where that could expose the child to such harm, provided the authorities in the member state of origin have made or are prepared to make adequate arrangements to insure the protection of the child after the return</seg></tuv>
+  <tuv xml:lang="ga"><seg>Éilíonn an Rialachán AE go dtabharfaí an leanbh ar ais sa chás go bhféadfaí dochar den sórt sin a dhéanamh don leanbh, ar an gcoinníoll go ndearna nó go bhfuil na húdaráis sa bhallstát tionscnaimh ullmhaithe chun socruithe cuí a dhéanamh lena chinntiú go bhfaighidh an leanbh cosaint tar éis dó/di filleadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Regulation provides for the right of the child to be heard during the procedure unless the judge considers it inappropriate due to the child’s age and degree of maturity</seg></tuv>
+  <tuv xml:lang="ga"><seg>Forálann an Rialachán go bhfuil sé de cheart ag an leanbh éisteacht a fháil le linn an nós imeachta mura measann an breitheamh go bhfuil sé míchuí mar gheall ar aois agus aibíocht an linbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The court cannot refuse to return the child without first giving the person who requested the return the opportunity to be heard</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leis an gcúirt diúltú an leanbh a thabhairt ar ais gan deis a thabhairt ar dtús don duine a d’iarr go dtabharfaí an leanbh ar ais éisteacht a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In general, the decision must be made within 6 weeks</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go hiondúil, caithfear an cinneadh a dhéanamh laistigh de 6 seachtaine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further information on the EU Regulation is available in the Practice Guide for the Application of Council Regulation (EC) No</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh eolais maidir le Rialachán an AE le fáil sa Practice Guide for the Application of Council Regulation (EC) No</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Hague Convention of 25 October 1980 on the civil aspects of international child abduction (the 1980 Hague Convention) and the Hague Convention (1996) on jurisdiction, applicable law, recognition, enforcement and cooperation in respect of parental responsibility and measures for the protection of children continue to apply in cases where the EU Regulation does not</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá feidhm i gcónaí le Coinbhinsiún na Háige an 25 Deireadh Fómhair 1980 maidir le gnéithe sibhialta de fhuadach idirnáisiúnta leanaí (Coinbhinsiún na Háige 1980) agus le Coinbhinsiún na Háige (1996) maidir le dlínse, dlí infheidhmithe, aitheantas, forfheidhmiú agus comhoibriú i ndáil le freagracht tuismitheoirí agus bearta chun leanaí a chosaint i gcásanna nach bhfuil feidhm le Rialachán an AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The EU Regulation prevails over the Convention in relation to those aspects covered by the Regulation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tús áite ag Rialachán an AE ar an gCoinbhinsiún maidir leis na gnéithe sin arna gclúdach ag an Rialachán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Convention and the Regulation are generally similar in scope and in rules</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an Coinbhinsiún agus an Rialachán cosúil lena chéile tríd is tríd ó thaobh scóip agus rialacha de</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The European Convention on Recognition and Enforcement of Decisions Concerning Custody of Children and on Restoration of Custody of Children (the Luxembourg Convention) was signed in 1980 and applies to a number of European countries</seg></tuv>
+  <tuv xml:lang="ga"><seg>Síníodh Coinbhinsiún na hEorpa um Aitheantas agus Forfheidhmiú ar Chinntí Maidir le Caomhnóireacht Leanaí agus Athchóiriú Caomhnóireachta Leanaí (Coinbhinsiún Lucsamburg) i 1980 agus tá feidhm leis i roinnt tíortha san Eoraip</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is now of limited relevance because the EU Regulation or the Hague Convention covers the relevant countries</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is beag aitheantais atá aige anois de bhrí go gclúdaíonn Rialachán an AE nó Coinbhinsiún na Háige na tíortha ábhartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Both the Hague and Luxembourg Conventions deal with children under the age of 16 and provide that the paramountcy principle applies – that means the welfare of the child is of paramount importance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déileálann Coinbhinsiúin na Háige agus Lucsamburg le leanaí faoi aois 16 agus foráiltear iontu go bhfuil feidhm leis an bprionsabal tábhachta - rud a chiallaíonn go mbeidh tábhacht ag leas an linbh thar aon ní eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The list of countries which are enforcing the Hague Convention is available on the Hague Conference on Private International Law website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá liosta na dtíortha atá ag forfheidhmiú Choinbhinsiún na Háige le fáil ar láithreán gréasáin Choinbhinsiún na Háige um Dhlí Idirnáisiúnta Príobháideach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Countries who have not agreed to the conventions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tíortha nár aontaigh leis na coinbhinsiúin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the case of countries which are not party to any of the international Conventions, decisions are made on the basis of private international law</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás tíortha nach bhfuil mar pháirtí ag aon cheann de na Coinbhinsiúin idirnáisiúnta, déantar cinntí bunaithe ar an dlí idirnáisiúnta príobháideach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that, in general, the Irish courts recognise court orders made in jurisdictions with similar legal systems</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn sé sin, tríd is tríd, go dtugann cúirteanna na hÉireann aitheantas d’orduithe cúirte a dhéantar i ndlínse ina bhfuil córais dhlí den chineál céanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The courts also take into account the requirements of the Guardianship of Infants Acts that the child’s welfare and best interests are assessed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tógann na cúirteanna san áireamh freisin riachtanais na nAchtanna um Chaomhnóireacht Naíon ionas go ndéantar measúnú ar folláine agus ar an leas is fearr don leanbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>On occasions, the Irish courts have refused to return a child to a jurisdiction where this might involve a breach of rights under the Constitution of Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tharla sé ó am go ham gur dhiúltaigh cúirteanna na hÉireann leanbh a thabhairt ar ais chuig dlínse sa chás go bhféadfadh sárú ceart a bheith i gceist faoi Bhunreacht na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Irish law on child abduction</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dlí na hÉireann maidir le fuadach leanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Child Abduction and Enforcement of Court Orders Act 1991 came into force in Ireland in October 1991</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tháinig an tAcht um Fhuadach Leanaí agus Forghníomhú Orduithe Coimeádta 1991 i bhfeidhm in Éirinn i mí Dheireadh Fómhair 1991</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It brought into Irish law the Hague Convention and the Luxembourg Convention</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rinne sé dlí de Choinbhinsiún na Háige agus de Choinbhinsiún Lucsamburg in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Both Conventions aim to return the child who has been abducted</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé mar aidhm ag an dá Choinbhinsiún an leanbh atá fuadaithe a thabhairt ar ais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Hague Convention can operate even if there is no court order, if the child is taken without the consent of one parent</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le Coinbhinsiún na Háige feidhmiú fiú amháin nuair nach bhfuil aon ordú cúirte ann má tógadh an leanbh gan toiliú tuismitheora amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Luxembourg Convention operates if there is a court order determining custody and it provides for the mutual recognition and enforcement of such orders in the countries which are parties to the Convention</seg></tuv>
+  <tuv xml:lang="ga"><seg>Feidhmíonn Coinbhinsiún Lucsamburg má tá ordú cúirte ann a shocraíonn caomhnóireacht agus foráiltear ann go mbeadh comhaitheantas ann d’orduithe den sórt sin agus go ndéanfar forfheidhmiú orthu sna tíortha atá mar pháirtithe ag an gCoinbhinsiún</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The countries which are parties to the Conventions agree to be bound by certain procedures in cases where children are removed from one country to another:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Aontaíonn na tíortha atá ina bpáirtithe ag na Coinbhinsiúin a bheith faoi cheangal ag nósanna imeachta áirithe i gcásanna nuair a thógtar leanaí amach as tír amháin isteach i dtír eile:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If a child (aged under 16) is taken to or from a country which is a party to the Conventions in defiance of a court order or against the wishes of a parent who has been granted custody, the Central Authority in that country may help to have the child returned</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má thógtar leanbh (faoi 16) chuig nó amach as tír atá mar pháirtí ag na Coinbhinsiúin d’ainneoin ordú cúirte nó in aghaidh toil tuismitheora a bhfuil caomhnóireacht bronnta air/uirthi, is féidir leis an Lárúdarás sa tír sin cabhrú chun an leanbh a fháil ar ais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For Ireland, the Central Authority is the Department of Justice and Equality</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás na hÉireann, is í an Roinn Dlí agus Cirt agus Comhionannais an Lárúdarás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If a child is abducted into a country which is a party to the Conventions, the Central Authority will take steps to trace the child, try to return the child or get access to the child and if necessary, take court proceedings to achieve that</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má fhuadaítear leanbh isteach i dtír atá ina páirtí ar na Coinbhinsiúin, tógfaidh an Lárúdarás céimeanna chun an leanbh a aimsiú, déanfaidh sé iarracht an leanbh a fháil ar ais nó gheobhaidh sé rochtain ar an leanbh agus más gá, cuirfidh sé imeachtaí cúirte ar bun chun é sin a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a child is abducted into Ireland, the Department of Justice and Equality may ask the Legal Aid Board to take proceedings in the High Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhuadaítear leanbh isteach go hÉirinn, féadfaidh an Roinn Dlí agus Cirt agus Comhionannais iarraidh ar an mBord um Chúnamh Dlíthiúil imeachtaí a chur ar bun san Ard-Chúirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Legal aid will be available</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh cúnamh dlí ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the Hague Convention, it is possible to negotiate a voluntary settlement of the issues</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi Choinbhinsiún na Háige, is féidir idirbheartaíocht a dhéanamh chun na ceisteanna a réiteach go deonach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a child has been abducted from the State, the Central Authority will help the parent in seeking the return of the child and liaise with other Central Authorities to that end</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá leanbh fuadaithe as an Stát, cuideoidh an Lárúdarás leis an tuismitheoir iarracht a dhéanamh an leanbh a fháil ar ais agus labhairt le Lárúdaráis eile chuige sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Act also outlines the circumstances in which a child need not be returned and the various procedures involved in enforcement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá cuntas san Acht freisin ar na himthosca nach gá an leanbh a thabhairt ar ais agus na nósanna imeachta éagsúla a bhaineann le forfheidhmiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It also gives power to the Gardaí to detain a child if they suspect that the child is being removed from the State in breach of any custody order or while proceedings in relation to custody are in train</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann sé cumhacht freisin do na Gardaí chun leanbh a choinneáil má tá amhras orthu go bhfuil an leanbh á thógáil amach as an Stát agus sárú á dhéanamh ar aon ordú caomhnóireachta nó fad is atá imeachtaí maidir le caomhnóireacht ag dul ar aghaidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your child has been internationally abducted, you should contact the Central Authority in order to set in motion the procedures required in the country to which the child has been abducted</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá fuadach idirnáisiúnta déanta ar do leanbh, ba chóir duit dul i dteagmháil leis an Lárúdarás d’fhonn na nósanna imeachta a theastaíonn sa tír chuig a bhfuil an leanbh fuadaithe a chur ar bun</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The European Parliament Mediator for International Parental Child Abduction</seg></tuv>
+  <tuv xml:lang="ga"><seg>Idirghabhálaí Pharlaimint na hEorpa um Fhuadach Idirnáisiúnta Leanaí arna dhéanamh ag an Tuismitheoir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The post of the European Parliament Mediator for International Parental Child Abduction was created in 1987</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cruthaíodh post Idirghabhálaí Pharlaimint na hEorpa um Fhuadach Idirnáisiúnta Leanaí arna dhéanamh ag an Tuismitheoir i 1987</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It has no statutory basis</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon bhunús reachtúil aige</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It aims to help children who have been abducted by one parent in circumstances where the parents are of different nationality and the marriage has broken down</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé mar aidhm aige cuidiú le leanaí a ndearna tuismitheoir amháin fuadach orthu in imthosca áirithe áit a bhfuil náisiúntacht dhifriúil ag na tuismitheoirí agus go bhfuil an pósadh briste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Either parent may ask the Mediator to get involved</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh aon tuismitheoir acu iarraidh ar an Idirghabhálaí cabhrú leo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Mediator tries to find a voluntary agreement between the parents</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann an tIdirghabhálaí iarracht teacht ar shocrú deonach idir na tuismitheoirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is done by providing information and advice and arranging suitable mediators for the particular case</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar é sin trí fhaisnéis agus comhairle a chur ar fáil agus idirghabhálaithe oiriúnacha a fhostú don chás áirithe sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Mediator tries to ensure that there is the following combination of mediators: one woman - one man, one lawyer - one non-lawyer, both speaking both languages of the parties in the dispute</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann na hIdirghabhálaithe iarracht a chinntiú go bhfuil an meascán seo a leanas d’idirghabhálaithe ann: bean amháin - fear amháin, dlíodóir amháin, duine nach dlíodóir é/í, beirt atá in ann an dá theanga atá ag na páirtithe sa díospóid a labhairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Mediator is concerned to ensure the best interests of the child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá cúram ar an Idirghabhálaí a chinntiú go dtugtar tús áit do leas an linbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is no requirement for either parent to co-operate with the Mediator</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní gá d’aon tuismitheoir comhoibriú leis an Idirghabhálaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If they do co-operate and reach an agreement, that agreement may be turned into a legally enforceable agreement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura gcomhoibríonn siad agus má thagann siad ar shocrú, féadfar comhaontú atá infheidhmithe de réir an dlí a dhéanamh den chomhaontú sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is the case for any agreement reached after mediation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tarlaíonn sé sin i gcás aon chomhaontú a dhéantar tar éis idirghabhála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>What should I do if my child is at risk of abduction?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cad ba chóir dom a dhéanamh má cheapaim go bhfuil mo leanbh i gcontúirt a fhuadaithe?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you believe your child is at risk of abduction you should get legal advice or contact the Gardaí</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chreideann tú go bhfuil baol ann go bhfuadófar do leanbh ba chóir duit comhairle dlí a fháil nó dul i dteagmháil leis na Gardaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Irish Centre for Parentally Abducted Children (ICPAC) published an ICPAC Prevention Pack (pdf) which provides information on the steps you should take if your child is at risk of abduction</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhoilsigh Ionad na hÉireann do Leanaí arna bhFuadach ag Tuismitheoir (ICPAC) ICPAC Prevention Pack (pdf) (Pacáiste Coiscthe) a thugann eolas ar na céimeanna ba chóir duit a ghlacadh má tá baol ann go bhfuadófar do leanbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This includes advice on gathering important information relating to your child, which will be required if your child is abducted, as well as on other steps you can take to reduce the risk</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá comhairle sa phacáiste maidir le heolas tábhachtach a bhaineann le do leanbh a bhailiú, rud a theastóidh uait má fhuadaítear do leanbh, chomh maith le céimeanna eile is féidir leat a ghlacadh chun an baol a laghdú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Reunite International, a UK charity, also provides child abduction prevention guides on its website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chomh maith leis sin, tá treoracha chosc fuadach leanaí ar láithreán gréasáin Reunite International, carthanas Ríocht Aontaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Central Authority in Ireland for international child abduction is the Department of Justice and Equality</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an Roinn Dlí agus Cirt agus Comhionannais an tÚdarás Lárnach in Éirinn do fuadach idirnáisiúnta leanaí</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Appealing the Decision in a Civil Case</seg></tuv>
+  <tuv xml:lang="ga"><seg>Achomharc ar an gCinneadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are unhappy with the result of your case, you may wish to appeal your case to a higher court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú míshásta le toradh do cháis, d'fhéadfadh sé go mbeadh fonn ort achomharc a chur ós comhair cúirte níos airde</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It will mean going through the entire process all over again</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh ort tosnú ón tús leis an bpróiséas ar fad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your case was commenced in the District Court, it can be appealed to the Circuit Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más sa Chúirt Dúiche a cuireadh tús le do chás is féidir achomharc a chur ós comhair na Cúirte Cuardaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A case commenced in the Circuit Court may be appealed to the High Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir achomharc ar chás a bhí sa Chúirt Chuarda a chur ós comhair na hArdchúirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A High Court case may be appealed to the Court of Appeal</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir achomharc ar chás a bhí san Ardchúirt a chur chuig an gCúirt Achomhairc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may choose to appeal the original judge's decision in its entirety, i.e., his/her decision on who was to blame and the damages awarded (if they were awarded), in which case the appeal court may</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat achomharc a dhéanadh ar chinneadh an bhreithimh ina iomlán, i.e. a c(h)inneadh ar cé a bhí ciontach agus na damáistí a bhronn sé/sí (má bhronn), sa chás seo is féidir leis an gcúirt achomhairc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>1. agree with the decision of the original court and uphold it or 2</seg></tuv>
+  <tuv xml:lang="ga"><seg>• aontú leis an gcinneadh a rinne an chéad chúirt agus seasamh leis nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>disagree with the decision of the original court and overturn it or 3</seg></tuv>
+  <tuv xml:lang="ga"><seg>• easaontú leis an gcinneadh a rinne an chéad chúirt agus an cinneadh sin a chur ar neamhní nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>increase or decrease the amount of damages awarded</seg></tuv>
+  <tuv xml:lang="ga"><seg>• na damáistí a bronnadh a ardú nó a ísliú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are happy with decision made by the original judge in relation to who was at fault but unhappy with the amount of damages he/she has awarded, you may appeal the amount of damages awarded only</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú sásta leis an gcinneadh a rinne an chéad bhreitheamh maidir leis an té a bhí ciontach ach má tá tú míshásta leis an méid damáistí a bhronn sé/sí, is féidir achomharc a lorg ar an méid damáistí a bronnadh amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Then the appeal court may either increase or decrease the amount of damages awarded by the original judge</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis an gcúirt achomhairc ansin na damáistí a bhronn an chéad bhreitheamh a ardú nó a ísliú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you lose your appeal, you will have to pay the costs of both sides so any offers to settle made by the other side should be seriously considered</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna n-éiríonn leat san achomharc beidh ort costais an dá thaobh a íoc agus mar sin má dhéanann an taobh eile aon tairiscint an cás a réiteach leat ba cheart breathnú ar sin go cúramach</seg></tuv>
+</tu>
+</body>
+</tmx>

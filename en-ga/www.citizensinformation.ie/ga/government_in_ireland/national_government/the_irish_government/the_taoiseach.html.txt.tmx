@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>The Taoiseach is the head of the Government</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an Taoiseach i gceannas ar an Rialtas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He or she is nominated by the Dáil (one of the Irish houses of Parliament) and is appointed by the President</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ainmníonn an Dáil í nó é agus déanann an tUachtarán Taoiseach dí nó de</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Taoiseach then nominates the other members of the Government</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ainmníonn an Taoiseach, ansin, baill eile den Rialtas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They are approved by the Dáil and appointed by the President</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigheann siad seo tacaíocht na Dála agus glacann an tUachtarán leis an gceapáchán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He may dismiss them if there is sufficient reason to do so</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis nó léi iad a chuir as a bpost má tá cúis aige nó aici sin a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can read this information on the current Taoiseach</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ta eolas ar an Taoiseach láithreach anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Taoiseach acts as a channel of communication between the Government and the President</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn an Taoiseach idir an tUachtarán agus an Rialtas i gcúrsaí cumarsáide</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He or she advises the President about summoning and dissolving the Dáil</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann sé nó sí comhairle ar an Uachtarán maidir leis an Dáil a lánscoir nó glaoch ar an Dáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He or she presents Bills (or proposals for legislation) to the President for signature so that they can become Acts with legal effect</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann sé nó sí Billí ós comhair an Uachtaráin le bheith sínithe ionas go ndéantar Acht díobh agus gur féidir iad a chur i bhfeidhm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Taoiseach also keeps the President generally informed on domestic and international policy matters</seg></tuv>
+  <tuv xml:lang="ga"><seg>Coiméadann an Taoiseach an tUachtarán ar an eolas faoi pholasaithe náisiúnta agus idirnáisiúnta an Rialtais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As the leading public figure in the Government, the Taoiseach also acts as a spokesperson for the Government on major policy issues and chairs Cabinet meetings</seg></tuv>
+  <tuv xml:lang="ga"><seg>Labhraíonn an Taoiseach thar cheann an Rialtais ar aon ní a bhaineann le polasaí. Déanann an Taoiseach cathaoirleacht ar chruinnithe Comh-Aireachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He or she takes an interest in the affairs of all the Departments of State and ensures that the plans of departments are co-ordinated</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn súil á choiméad aige nó aici ar gach Roinn Stáit agus déanann cinnte de go bhfuil na Ranna éagsúla ar chomh intinn maidir le pléanáil de</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He or she makes sure that Cabinet decisions are carried out by the ministers and that the ministers fully understand the implications of different Government policies</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cinntíonn sé nó sí go gcuireann na hAirí i bhfeidhm na cinnithe atá tógtha ag an gComh-Aireacht agus go dtuigeann siad na himpleachtaí a bhaineann le polasaithe an Rialtais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Taoiseach also has a major role to play in our relations with foreign countries</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá plé mhór ag an Taoiseach, freisin, lenar dteangbháil le tíortha eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He or she represents Ireland abroad and regularly meets with the other heads of state of the European Union to help shape European policy</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann sé nó sí ionadaíocht dúinn thar lear agus bualann go rialta le ceannairí na dtíortha eile san Aontas Eorpach chun polasaithe na hEorpa a phlé</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Taoiseach and all the ministers collectively are answerable to Dáil Eireann</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an Taoiseach agus na hAirí go léir freagrach do Dháil Éireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Taoiseach is assisted in his or her duties by the Government Chief Whip</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann an Priomhaoire Rialtais cúnamh don Taoiseach ina chuid nó ina cuid dualgas</seg></tuv>
+</tu>
+</body>
+</tmx>

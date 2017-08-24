@@ -1,0 +1,285 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>There are 9 public holidays in Ireland each year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn 9 gcinn de laethanta saoire phoiblí in Éirinn gach bliain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Public holidays may commemorate a special day or other event, for example, St Patrick's Day (17 March) or Christmas Day (25 December)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann laethanta saoire phoiblí comóradh ar laethanta nó imeachtaí ar leith, Lá Fhéile Pádraig (17 Márta), mar shampla, nó Lá Nollag (25 Mí na Nollag)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>On a public holiday, sometimes called a bank holiday, most businesses and schools close</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn tromlach scoileanna agus gnóthaí dúnta ar laethanta saoire phoiblí ach bíonn seirbhísí áirithe, iompar poiblí, mar shampla, fós ag dul, ach go mbíonn sceidil srianta i bhfeidhm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Other services, for example, public transport still operate but often with restricted schedules</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seo a leanas liosta de na laethanta saoire phoiblí a bhíonn ann in aghaidh na bliana:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• New Year's Day (1 January)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Lá Caille (1 Eanáir)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• St. Patrick's Day (17 March)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Lá Fhéile Pádraig (17 Márta)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• First Monday in May, June, August</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An Chéad Luan i mBealtaine, Meitheamh, Lúnasa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Last Monday in October</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An Luan Deireanach i mí Dheireadh Fómhair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Christmas Day (25 December)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Lá Nollag (25 Mí na Nollag)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• St. Stephen's Day (26 December)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Lá Fhéile Stiofáin (26 Mí na Nollag)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Good Friday is not a public holiday</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní saoire phoiblí í Aoine an Chéasta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>While some schools and businesses close on that day, you have no automatic entitlement to time off work on that day</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cé go ndúntar scoileanna agus gnóthaí ar an lá sin, níl aon teidlíocht uathrialach agat i gcomhair am saor ar an lá sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>How is the date of Easter Monday determined each year?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Conas a dhéantar dáta Luan Cásca a shocrú gach bliain?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Easter Monday is the only public holiday that can vary significantly from year to year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Luan Cásca an t-aon saoire poiblí a n-athraíonn go suntasach ó bhliain go bliain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The date of Easter moves every year within the international calendar for civil use</seg></tuv>
+  <tuv xml:lang="ga"><seg>Athraíonn dáta na Cásca le haghaidh úsáid shibhialta gach bliain taobh istigh den fhéilire idirnáisiúnta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Broadly speaking, Easter should be the first Sunday after the first full moon occurring on or after 21 March</seg></tuv>
+  <tuv xml:lang="ga"><seg>De ghnáth beidh Domhnach Cásca ar an gcéad Dhomhnach tar éis an chéad ghealach lán ar, nó i ndiaidh 21 Márta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that the earliest possible date for Easter Sunday in any year is 22 March, the latest is 25 April</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn seo gurb é 22 Márta an dáta is luaithe do Dhomhnach Cásca agus 25 Aibreán an ceann is deireanaí in aon bhliain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Easter Monday will fall on the following dates between 2017 and 2020: 17 April 2017, 2 April 2018, 22 April 2019, 13 April 2020</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh Luan Cásca ar na dátaí seo a leanas idir 2017 agus 2020: 17 Aibreán 2017, 2 Aibreán 2018, 22 Aibreán 2019, 13 Aibreán 2020</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your entitlement to public holidays is set out in the Organisation of Working Time Act 1997</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagtar do theidlíocht i gcomhair saoire phoiblí amach san Acht um Eagrú Ama Oibre 1997</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most employees are entitled to paid leave on public holidays</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn tromlach na bhfostaithe i dteideal saoire le pá ar na laethanta saoire phoiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>One exception is part-time employees who have not worked for their employer at least 40 hours in total in the 5 weeks before the public holiday</seg></tuv>
+  <tuv xml:lang="ga"><seg>Eisceacht amháin ná fostaithe páirtaimseartha nach bhfuil 40 uair oibre ar a laghad déanta acu sna 5 seachtaine roimh an lá saoire poiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Employees who qualify for public holiday benefit will be entitled to one of the following:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh fostaithe incháilithe i dteideal mar a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A paid day off on the public holiday</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Lá íoctha saor ar an tsaoire phoiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• An additional day of annual leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Lá breise saoire bhliantúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• An additional day's pay</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Pá lae sa bhreis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A paid day off within a month of the public holiday</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Lá íoctha saor laistigh de mhí amháin ón tsaoire phoiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Organisation of Working Time Act provides that you may ask your employer at least 21 days before a public holiday, which of the alternatives will apply</seg></tuv>
+  <tuv xml:lang="ga"><seg>De bharr an Achta um Eagrú Ama Oibre tig leat iarraidh ar d'fhostóir 21 lá roimh an tsaoire phoiblí, cé acu a bheas i gceist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your employer fails to respond at least 14 days before the public holiday, you are entitled to take the actual public holiday as a paid day off</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfreagraíonn d'fhostóir 14 lá roimh an tsaoire, tá de cheart agat an lá a thógáil mar lá saor le pá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Organisation of Working Time (Determination of Pay For Holidays) Regulations (SI 475/1997) set out the appropriate rate of daily pay</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagann na Rialacháin Acht um Eagrú Ama Oibre (Cinneadh Phá Saoire) 1997 (SI 475/1997) síos ráta phá laethúil cuí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have worked for your employer at least 40 hours in the 5 weeks before the public holiday and the public holiday falls on a day you normally work you are entitled to a day's pay for the public holiday</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá 40 uair oibre ar a laghad déanta agat sna 5 seachtaine roimh an lá saoire poiblí agus titeann an lá saoire ar lá a oibríonn tú de ghnáth, beidh tú i dteideal pá lae i gcomhair an lae saoire poiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are required to work that day you are entitled to an additional day's pay</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má iarrtar ort oibriú ar an lá sin beidh tú i dteideal pá lae sa bhreis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you do not normally work on that particular day you should receive one-fifth of your weekly pay</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura mbíonn tú ag obair ar an lá saor ba chóir an cúigiú cuid dá do phá seachtainiúil a thabhairt duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Even if you may never be rostered to work on a public holiday you are entitled to one-fifth of your weekly pay as compensation for the public holiday</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fiú mura n-iarrtar ort riamh oibriú ar lá saoire phoiblí, ta tú i dteideal an cúigiú cuid dá do phá seachtainiúil mar chúiteamh i leith saoire phoiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you do not have normal daily or weekly working hours, under SI 475/1997, an average of your day’s pay or the fifth of your weekly pay is calculated over the 13 weeks you worked before the public holiday</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil gnáthuaireanta oibre lae nó seachtainiúla agat, de réir IR 475/1997, déanfar meán do phá lae nó an cúigiú cuid dá do phá seachtainiúil ar feadh 13 seachtain oibrithe roimh an tsaoire phoiblí a ríomh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In all of the above situations your employer may choose to give you paid time off instead of pay for the public holiday</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más ann d'aon cheann de na cúinsí thuas, is féidir d'fhostóir saoire íoctha in áit phá a thabhairt duit mar do theidlíocht i gcomhair saoire phoiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Sick leave on a public holiday</seg></tuv>
+  <tuv xml:lang="ga"><seg>Saoire thinnis le linn laethanta poiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are a full time worker on sick leave during a public holiday, you are entitled to benefit for the public holiday you missed, as described above</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más oibrí lánaimseartha tú atá ar saoire breoiteachta i rith lae/laethanta saoire phoiblí, tá tú i dteideal sochar saoire poiblí a fháil ón obair i gcomhair an lae/na laethanta saoire phoiblí a chaill tú, mar a thuairiscítear thuas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are a part-time worker on sick leave during a public holiday, you would be entitled to benefit for the public holiday, provided you had worked for your employer for at least 40 hours in the previous five-week period - see 'Part-time employees' above</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más oibrí páirtaimseartha tú ar saoire thinnis le linn lá saoire poiblí, bheifeá i dteideal sochar saoire poiblí i gcomhair an lae saoire phoiblí chomh fada is gur oibrigh tú 40 uair sa tréimhse 5 seachtaine roimhe sin -féach 'Fostaithe páirtaimseartha' thuas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if you have been off work for more than 26 consecutive weeks due to illness or accident, or for more than 52 weeks due to an occupational accident and you are absent from work immediately before the public holiday because of this, you are not entitled to the public holiday</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú neamhláithreach ó obair le níos mó ná 26 seachtaine as a chéile de bharr tinnis nó timpiste, agus i gcás tionóisce cheirde 52 seachtaine agus dá bhrí sin á tá tú neamhláithreach ó obair láithreach roimh an lá saoire poiblí, níl tú i dteideal an tsaoire phoiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Absence from work and public holiday entitlement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Neamhláithreacht agus teidlíocht i gcomhair saoire phoiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are entitled to leave for any public holidays that occur while you are on maternity leave, parental leave or adoptive leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tú i dteideal am saor a fháil i gcomhair aon laethanta saoire phoiblí a tharlaíonn chomh fada is a bhíonn tú ar shaoire mháithreachais, tuismitheora nó uchtála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These rights are set down in law in the Maternity Protection Acts 1994 and 2004, the Parental Leave Acts 1998 and 2006, and the Adoptive Leave Acts 1995 and 2005 respectively</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagtar na cearta dlíthiúla seo amach sna hAchtanna um Chosaint Mháithreachais 1994 agus 2004, sna hAchtanna um Shaoire do Thuismitheoirí 1998 agus 2006, agus sna hAchtanna um Shaoire Uchtaíoch 1995 agus 2005 faoi seach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are not entitled to public holiday benefits if you have been absent from work immediately before the public holiday and your absence is:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú neamhláithreach ó obair díreach roimh shaoire phoiblí ní bheidh tú i dteideal am saor a fháil i gcomhair aon laethanta saoire phoiblí sna cásanna seo a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Over 13 weeks, due to lay off or some other reason and authorised by your employer</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tá tú ar stailc • Tá do neamhláithreacht níos mó ná 13 seachtaine mar gheall ar asleagan nó cúis eile agus tá sí faofa ag d'fhostóir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Due to a strike • After the first 13 weeks of carer's leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tá tú ar shaoire cúramóra níos mó ná 13 seachtaine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your employment finishes during the week ending on the day before a public holiday and you have worked for your employer for the previous 4 weeks, you should receive an additional day's pay for the public holiday</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má thagann deireadh le d’fhostaíocht sa tseachtain dar críoch lá roimh saoire poiblí, agus má bhí tú ag obair le d’fhostóir i rith na 4 seachtaine roimhe sin, ba chóir go bhfaighfeá pá lae bhreise le haghaidh na saoire poiblí sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This also applies to part-time employees who have established a right to the public holiday by working at least 40 hours in the previous 5 weeks</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann sé seo le fostaithe páirtaimseartha a chruthaigh ceart don tsaoire poiblí dóibh féin trí 40 uaire oibre a dhéanamh sna 5 seachtaine roimhe sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can read more about this in 'Further information' below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat tuilleadh a léamh faoi sin in 'Tuilleadh faisnéise' thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Public holidays falling on a weekend</seg></tuv>
+  <tuv xml:lang="ga"><seg>Laethanta saoire phoiblí le linn deireadh seachtaine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where a public holiday falls on a weekend, you do not have any automatic legal entitlement to have the next working day off work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar a thiteann lá saoire poiblí ar dheireadh seachtaine, sa ghnáthchúrsa ní bhíonn teidlíocht dhlíthiúil agat go mbeadh an chéad lá oibre eile saor ón obair agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This occurred in 2016/2017 when Christmas Day (25 December) and New Year's Day (1 January) fell on a Sunday</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tarlaíonn seo i 2016 nuair beidh Lá Nollag (25 Mí na Nollag) ar Dhomhnach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find out more about your public holiday entitlement for your individual working arrangement in this explanatory booklet on holidays and public holidays (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>An toradh a bhí leis seo ná nár lá saoire poiblí é Máirt 27 Mí na Nollag 2016. Is ceadmhach do d'fhostóir iallach a chur ort freastal ar an obair ar an lá sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find out more about public holidays in this explanatory booklet on holidays and public holidays (pdf) or from the Workplace Relations Commission's Information and Customer Service - see 'Where to apply' below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat leabhrán mínithe faoi shaoire agus laethanta saoire phoiblí (pdf) a léamh anseo nó téigh i dteagmháil leis na Seirbhís Faisnéise do Chustaiméirí an Choimisiúin um Chaidreamh san Áit Oibre – féach ‘Cá háit a ndéanfaidh mé iarratas’ thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are not getting your public holiday entitlement you may make a complaint under the Organisation of Working Time Act within 6 months of the dispute or complaint occurring</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil tú ag fáil a bhfuil dlite agat maidir le saoire phoiblí is féidir gearán a dhéanamh de réir An Achta um Eagrú Ama Oibre 1997</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must use the online complaint form available on workplacerelations.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh tú an fhoirm ghearáin ar líne nua a úsáid á fáil ar workplacerelations.ie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The time limit may be extended for up to a further 6 months, but only where there is a reasonable cause which prevented the complaint being brought within the normal time limit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit gearán a dhéanamh laistigh de 6 mhí. Is féidir síneadh ama 6 mhí eile a thabhairt duit ach ní dhéanfar é sin mura bhfuil cúinsí réasúnacha ann a chuir cosc ort an gearán a dhéanamh laistigh den gnáth-thréimhse ama</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Information and Customer Service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seirbhíse Faisnéise agus Custaiméara</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Opening Hours: Mon. to Fri. 9.30am to 5pm</seg></tuv>
+  <tuv xml:lang="ga"><seg>Uaireanta Oscailte:Luan go hAoine 9.30rn go 5in</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Tel: (059) 917 8990</seg></tuv>
+  <tuv xml:lang="ga"><seg>Teil: (059) 917 8990</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Locall: 1890 80 80 90</seg></tuv>
+  <tuv xml:lang="ga"><seg>Lóghlao: 1890 80 80 90</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Termination of employment and public holidays</seg></tuv>
+  <tuv xml:lang="ga"><seg>Foirceannadh fostaíochta agus laethanta saoire poiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the case of Gazboro Ltd</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás Gazboro Ltd</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>-v- BATU (DWT9916) the claimants ceased to be employed on 18 December 1998</seg></tuv>
+  <tuv xml:lang="ga"><seg>-v- BATU (DWT9916), scoir na héilitheoirí de bheith fostaithe an 18 Nollaig 1998</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They claimed an entitlement to be paid in respect of 25 and 26 December</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’éiligh siad go n-íocfaí teidlíocht i leith an 25 agus an 26 Nollaig</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As the Court interpreted the wording of Section 23(2)(a) of the Organisation of Working Time Act 1997, the week ending at midnight on 24 December began at midnight on 18 December</seg></tuv>
+  <tuv xml:lang="ga"><seg>De réir thuiscint na Cúirte ar foclaíocht Alt 23(2)(a) den Acht um Eagrú Ama Oibre, 1997, ba ag meán oíche an 18 Nollaig a thosaigh an tseachtain dar chríoch mheán oíche an 24 Nollaig</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Since the claimants worked for the employer during the 4 weeks preceding that week they were entitled to an additional day's pay in respect of 25 December</seg></tuv>
+  <tuv xml:lang="ga"><seg>Toisc gur oibrigh na héilitheoirí don fhostóir le linn na 4 seachtaine roimh an tseachtain sin, bhí siad i dteideal pá lae bhreise i ndáil leis an 25 Nollaig</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The week ending on 25 December began at midnight on 19 December</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba ag meán oíche an 19 Nollaig a thosaigh an tseachtain dar chríoch an 25 Nollaig</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Since the claimants ceased to be employed on 18 December they had no entitlement under the Act in respect of 26 December</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ós rud é gur scoir na héilitheoirí de bheith fostaithe an 18 Nollaig, ní raibh aon teidlíocht acu faoin Acht i ndáil leis an 26 Nollaig</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Appealing a planning permission decision</seg></tuv>
+  <tuv xml:lang="ga"><seg>Achomharc a dhéanamh ar chead pleanála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A person applying for planning permission and any person who made written submissions or observations to the planning authority on a planning application can appeal a planning decision made by a local authority to An Bord Pleanála</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le duine a dhéanann iarratas ar chead pleanála agus aon duine a thug cuntas scríofa nó a nochtaigh tuairimí don údarás pleanála maidir le iarratas pleanála achomharc a lorg ar chinneadh a rinne údarás áitiúil chuig An mBord Pleanála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, you can:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla is féidir leat:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Appeal against a refusal to grant you planning permission or conditions attached to your permission or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Achomharc a lorg ar chinneadh cead pleanála a dhiúltú duit nó i dtaobh na gcoinníollacha a bhaineann leis an gcead sin, nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Appeal against a decision to give someone else planning permission (this is called a third party appeal)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Achomharc a lorg ar chinneadh cead pleanála a thabhairt do dhuine eile (dá ngairfear achomharc tríú duine)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In this case you must have made a written submission/observation to the planning authority on the relevant application*</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás seo, ní mór duit cuntas scríofa nó a nochtaigh tuairimí don údarás pleanála maidir leis an iarratas ábhartha a thugadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>*There are 3 exceptions to the requirement to have made prior submissions or observations:</seg></tuv>
+  <tuv xml:lang="ga"><seg>*Tá 3 eisceacht ón gcoinníoll go gcaithfear aighneacht a dhéanamh roimh ré cuntas scríofa nó a nochtaigh tuairimí a thabhairt:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a prescribed body was not notified in accordance with law, they may appeal without having made a submission or observation on the planning application</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le comhlacht ainmnithe achomharc a dhéanamh murar tugadh fógra dóibh de réir an dlí gan aighneacht a bheith déanta/tuairimí a bheith nochta acu i dtaobh an iarratais phleanála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If an environmental impact statement (EIS) was required to be submitted with the planning application, a body that promotes environmental protection and meets certain other requirements may appeal the decision without have made a submission or observation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má caitheadh ráiteas tionchair timpeallachta leis an iarratas pleanála a chur isteach, is féidir comhlacht a chuireann cosaint chomhshaoil chun cinn agus a shásaíonn riachtanais áirithe eile achomharc ar chinneadh a dhéanamh gan aon chuntas scríofa nó tuairimí déanta acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A person who has an interest in adjoining lands where permission has been granted can apply to the Board for leave to appeal the decision without having made a submission or observation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le duine a bhfuil leas aige/aici i dtailte cóngaracha áit a bhfuil cead pleanála tugtha iarratas a chur chuig an Bord ar chead achomharc a dhéanamh gan aighneacht a bheith déanta/tuairimí a bheith nochta acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If an appeal has already been made by either the applicant and/or a valid third party, any other person can become an "observer" and make submissions or observations</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá achomharc déanta cheana ag an iarrthóir agus/nó ag duine cuí den tríú páirtí is féidir le duine ar bith eile a bheith ina 'b(h)reathnadóir' agus pointí nó tuairimí a nochtadh ar an gcás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A valid appellant may request an oral hearing on payment of an additional fee</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má íocann tú táille bhreise is féidir éisteacht bhéil a iarraidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An Bord Pleanála will normally only grant an oral hearing if the case is particularly complex or significant national or local issues are involved</seg></tuv>
+  <tuv xml:lang="ga"><seg>De ghnáth ní bheidh An Bord Pleanála sásta éisteacht bhéil a cheadú ach amháin sa chás gur ceist chasta atá inti agus go bhfuil ceisteanna móra náisiúnta nó áitiúla ag baint leis an scéal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An Bord Pleanála aims to make a decision within 18 weeks</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé mar aidhm ag An mBord Pleanála cinneadh a dhéanamh taobh istigh de 18 seachtainí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If this is not possible, it will inform all the parties of this</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna bhfuil sé seo indéanta cuirfear scéal chuig na daoine ar fad a bhfuil baint acu leis an gcás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In general, An Bord Pleanála will either:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfaidh An Bord Pleanála ceann de na rudaí seo a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Grant planning permission with conditions, or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cuirfidh sé cead pleanála ar fáil le coinníollacha áirid, nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An Bord Pleanála's decision is final and can only be challenged by judicial review in the High Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon dul siar ar chinneadh ón mBord Pleanála ach amháin athbhreithniú dleathúil a lorg ón Ard Chúirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This process will judge whether the Board followed due process in reaching its decision and will not include an examination of the planning merits</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní dhéanfar scrúdú ar na buntáistí pleanála a bhaineann leis an gcás mar chuid den athbhreithniú cúirte, déanfaidh an Chúirt cinneadh ar lean, nó nár lean An Bord Pleanála an córas cuí agus cinneadh dhá dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Files on appeals received by the Board can be inspected by members of the public after the appeals have been determined by the Board</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis an bpobal breathnú ar chódanna a bhaineann le cásanna a cuireadh ós comhair an Bhoird tar éis cinneadh a bheith déanta ag an mBord orthu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These files can be inspected, free of charge, at the Board's offices for a period of at least 5 years after the appeal decision</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá na códanna seo le feiceáil, saor in aisce, in oifigí an Bhoird ar feadh tréimhse de 5 bliana ar a laghad tar éis an chinnithe a bheith tógta orthu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must make the appeal to An Bord Pleanála within 4 weeks of the decision by the local authority</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór achomharc a chur ós comhair An Bhord Phleanála taobh istigh de 4 sheachtain ón am a dhéanann an t-údarás áitiúil cinneadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your appeal must include the following:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór na nithe seo a leanas a bheith san achomharc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Your own name and address</seg></tuv>
+  <tuv xml:lang="ga"><seg>• D'ainm agus do sheoladh;</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Details of the proposed development, the name of the local authority, the planning register number and (if you are a third party) the applicant's name and address</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sonraí maidir leis an bhforbairt atá beartaithe, ainm an údaráis áitiúil, uimhir chláraithe pleanála agus (más tú an tríú duine) ainm agus seoladh an iarrthóra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The full grounds of the appeal with supporting material and arguments</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Fáthanna iomlán an achomhairc chomh maith le hábhar tacaíochta agus argóintí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>No further submissions or elaborations on these grounds of appeal can be accepted by the Board</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bheidh an Bord in ann glacadh ina dhiaidh sin le cuntais bhreise nó le heolas breise maidir leis an fáthanna seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The grounds of the appeal must relate to planning issues only</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór gur ceisteanna pleanála amháin is cúis leis an achomharc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Board cannot take other issues into consideration</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leis an mBord ceisteanna eile a chur san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you are a third party appellant, an acknowledgement from the planning authority that you made a submission or observations on the application to it</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Más tú an tríú duine, ní mór duit admháil a bheith agat ón údarás áitiúil gur chuir tú cuntas nó tuairimí ós a chomhair maidir leis an iarratas seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you do not submit all the documentation, the appeal will be considered invalid and cannot be considered by An Bord Pleanála</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna mbíonn na cáipéisí cuí uilig curtha ar fáil agat, ní bheidh an t-achomharc bailí agus ní bheidh an Bord Pleanála in ann breathnú air</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will be charged a fee if you wish to make an appeal to An Bord Pleanála</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá táille le n-íoc ar achomharc a chur ós comhair An Bhord Phleanála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The fee for making an appeal depends on the type of case and the relevant legislation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór achomharc i scríbhinn a dhéanamh chuig an Rúnaí, An Bord Pleanála ag an seoladh thíos</seg></tuv>
+</tu>
+</body>
+</tmx>

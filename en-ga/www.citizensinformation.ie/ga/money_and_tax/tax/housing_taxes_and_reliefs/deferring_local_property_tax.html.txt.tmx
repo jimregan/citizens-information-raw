@@ -1,0 +1,329 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Deferring payment of the Local Property Tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocaíocht na Cánach Maoine Áitiúla a Iarchur</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may opt to defer, or partially defer payment of your Local Property Tax (LPT) if you meet the conditions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú a roghnú chun iarchur a dhéanamh, nó chun íocaíocht do Chánach Maoine Áitiúla (CMÁ) a iarchur go páirteach má shásaíonn tú na coinníollacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may qualify for a deferral under one of 4 separate categories:</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfá cáiliú d’iarchur faoi cheann amháin de 4 chatagóir ar leith:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Personal representatives of a deceased liable person</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ionadaithe pearsanta de dhuine atá faoi dhliteanas a fuair bás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you meet the deferral criteria you can opt to defer the full LPT until your financial circumstances improve or the property is sold</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chomhlíonann tú na critéir iarchurtha, féadfaidh tú a roghnú chun an CMÁ iomlán a iarchur go dtí go dtagann feabhas ar do chúinsí airgeadais nó go dtí go ndíoltar an mhaoin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However this does not mean that you are exempt from the LPT</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chiallaíonn seo go bhfuil tú díolmhaithe ón CMÁ, áfach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Interest is charged on the deferred amount and the deferred amount remains a charge on the property</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gearrtar ús ar an méid iarchurtha agus fanann an méid iarchurtha mar mhuirear ar an maoin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are partial deferral arrangements</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá socruithe iarchuir pháirtigh ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you meet the partial deferral criteria you can opt to defer 50% of your LPT liability and pay the balance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chomhlíonann tú na critéir iarchurtha pháirtigh, féadfaidh tú a roghnú chun 50% de do dhliteanas CMÁ a iarchur agus an t-iarmhéid a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Interest of 4% per annum is charged on the deferred amount and it remains a charge on the property</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gearrtar ús 4% sa bhliain ar an méid iarchurtha agus fanann sé mar mhuirear ar an maoin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you qualify for a partial deferral of LPT you must contact Revenue and select a payment method for the remaining 50% of your LPT liability</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má cháilíonn tú d’iarchur páirteach CMÁ, ní mór duit teagmháil a dhéanamh leis na Coimisinéirí Ioncaim agus modh íocaíochta a roghnú don 50% atá fanta de do dhliteanas CMÁ</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can get further information on Revenue's website on deferring payment of LPT</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú tuilleadh faisnéise a fháil i gCeisteanna Coitianta na gCoimisinéirí Ioncaim ar íocaíocht an CMÁ a iarchur</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Deferral of LPT based on income threshold</seg></tuv>
+  <tuv xml:lang="ga"><seg>An CMÁ a iarchur, bunaithe ar thairseach ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To qualify for full or partial deferral for LPT based on the income threshold criteria you must be an owner occupier and your gross annual income from all sources must not exceed certain amounts (see table below)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun cáiliú d’iarchur iomlán nó páirteach le haghaidh CMÁ, bunaithe ar na critéir thairseach ioncaim, ní mór gurb úinéir lonnaithe thú agus ní mór nach sáraíonn d’ollioncam bliantúil ó gach foinse méideanna áirithe (féach an tábla thíos)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You qualify for deferral each year based on your estimated gross income for the previous year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cáilíonn tú d’iarchur gach bliain bunaithe ar d’ollioncam measta don bhliain roimhe sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>So, for example, if you are liable for LPT on 1 November 2016 (the liability date) you should assess your estimated gross income for 2016 to see whether you qualify for deferral or partial deferral in 2017</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin, mar shampla, má tá tú dlite do CMÁ an 1 Samhain 2016 (dáta an dliteanais), ba cheart duit measúnú a dhéanamh ar d’ollioncam measta le haghaidh 2016 lena fhéachaint an gcáilíonn tú d’iarchur nó d’iarchur páirteach in 2017</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your gross income for 2016 is below the threshold you will qualify for deferral of the tax in 2017</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá d’ollioncam le haghaidh 2016 faoi bhun na tairsí, cáileoidh tú d’iarchur na cánach in 2017</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To qualify for full or partial deferral your gross annual income from all sources must not exceed certain amounts (see table below)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun cáiliú d’iarchur iomlán nó páirteach, ní mór nach sáróidh d’ollioncam bliantúil ó gach foinse méideanna áirithe (féach an tábla thíos)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have an outstanding mortgage the income threshold is increased by 80% of your gross mortgage interest payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá morgáiste gan íoc agat, méadaítear an tairseach ioncaim faoi 80% de d'ollús morgáiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must be paying the mortgage to qualify</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go bhfuil an morgáiste á íoc agat chun cáiliú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Income thresholds for full and partial (50%) deferral of LPT liability</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tairseachaioncaimd’iarchuriomlánaguspáirteach (50%) de dhliteanas CMÁ</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Liable person (owner-occupiers only) │To qualify for a full deferral your gross income must not exceed │To qualify for a partial (50%) deferral your gross income must not exceed │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Duine faoi dhliteanas (úinéirí lonnaitheacha amháin) │Chun cáiliú d’iarchur iomlán, ní mór nach sáróidh d’ollioncam │Chun cáiliú d’iarchur páirteach (50%), ní mór nach sáróidh d’ollioncam │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Single, no mortgage │€15,000 │€25,000 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Singil, ganmhorgáiste │€15,000 │€25,000 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Couple, no mortgage │€25,000 │€35,000 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Lánúin, ganmhorgáiste │€25,000 │€35,000 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Single, with mortgage │€15,000 + 80% of gross mortgage interest │€25,000 + 80% of gross mortgage interest │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Singil, le morgáiste │€15,000 + 80% den ollúsmorgáiste │€25,000 + 80% den ollúsmorgáiste │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Couple, with mortgage │€25,000 + 80% of gross mortgage interest │€35,000 + 80% of gross mortgage interest │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Lánúin, le morgáiste │€25,000 + 80% den ollúsmorgáiste │€35,000 + 80% den ollúsmorgáiste │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Gross income is your income before any deductions, allowances or reliefs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é ollioncam d’ioncam sula ndéantar aon asbhaintí agus roimh aon liúntais nó faoisimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It includes income that is exempt from income tax and income from Department of Social Protection payments but does not include Child Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áirítear leis ioncam atá díolmhaithe ó cháin ioncaim agus ioncam ó íocaíochtaí na Roinne Coimirce Sóisialaí, ach ní áirítear leis Sochar Linbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Couples include married people, people in a civil partnership and certain cohabitants</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áirítear le Lánúineacha daoine pósta, daoine i bpáirtnéireacht shibhialta agus roinnt comháitritheoirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For LPT deferral purposes cohabitants must have lived together for at least 2 years if you have children and 5 years if you do not have children</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar mhaithe le cuspóirí iarchuir CMÁ, ní mór gur chónaigh comháitritheoirí le chéile ar feadh 2 bhliain, ar a laghad, má tá leanaí acu agus 5 bliana, mura bhfuil leanaí acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A single person or a couple whose only income is a payment from the Department of Social Protection (DSP) will qualify for a full deferral because DSP payment rates are below the thresholds</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cáileoidh duine singil nó lánúin arb í íocaíocht ón Roinn Coimirce Sóisialaí (an RCS) an t-aon ioncam atá acu, d’iarchur iomlán mar gheall go bhfuil rátaí íocaíochta na RCS faoi bhun na dtairseacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Deferrals based on income thresholds are granted on a self-assessment basis and there is no approval process</seg></tuv>
+  <tuv xml:lang="ga"><seg>Deonaítear iarchur atá bunaithe ar thairseacha ioncaim ar bhonn féinmheasúnaithe agus níl aon phróiseas faofa ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Revenue takes your word that your gross income is likely to be below the relevant threshold and the deferral is granted automatically when Revenue gets your LPT1 form</seg></tuv>
+  <tuv xml:lang="ga"><seg>Glacann na Coimisinéirí Ioncaim leis nuair a mhaíonn tú gur dócha go mbeidh d’ollioncam faoi bhun na tairsí ábhartha agus deonaítear an t-iarchur go huathoibríoch nuair a fhaigheann na Coimisinéirí Ioncaim d’fhoirm LPT1</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you claimed a deferral for a year and your circumstances change you must inform Revenue</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má d’éiligh tú iarchur do bhliain ar leith agus má thagann athrú ar do chúinsí, ní mór duit na Coimisinéirí Ioncaim a chur ar an eolas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>What happens if the liable person dies?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cad a tharlaíonn má fhaigheann an duine atá faoi dhliteanas bás?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If one member of a couple who qualified for a deferral dies the deferral will remain in place until the next valuation date (currently 1 November 2019) and the income of the surviving person is not taken into account until then</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhaigheann duine amháin i lánúin a cháiligh d’iarchur bás, fanfaidh an t-iarchur i bhfeidhm go dtí an chéad dáta luachála eile (an 1 Samhain 2019 faoi láthair) agus ní chuirtear ioncam an duine mharthanaigh san áireamh go dtí sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>On 1 November 2019, the surviving person may make a claim for deferral of the tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>An 1 Samhain 2019, féadfaidh an duine marthanach éileamh a dhéanamh ar iarchur na cánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you satisfy the conditions, you will qualify for deferral</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má shásaíonn tú na coinníollacha, cáileoidh tú d’iarchur</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you do not qualify for deferral the amount that was deferred up to the end of 2019 may continue to be deferred</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura gcáilíonn tú d’iarchur, féadtar leanúint leis an méid a iarchuireadh a fhad le deireadh 2019 a iarchur</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Interest at 4% per annum will be continue to be charged on the deferred amount in the usual way</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leanfar le hús 4% sa bhliain a ghearradh ar an méid iarchurtha ar an ngnáthbhealach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you inherit a property from another person (for example, a parent) the deferral will remain in place until the next liability date (1 November each year)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhaigheann tú maoin le hoidhreacht ó dhuine eile (tuismitheoir, mar shampla), fanfaidh an t-iarchur i bhfeidhm go dtí an chéad dáta dliteanais eile (an 1 Samhain gach bliain)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>After that date, Revenue may allow the deferral to continue if you apply for a deferral and satisfy the conditions for deferral in your own right</seg></tuv>
+  <tuv xml:lang="ga"><seg>I ndiaidh an dáta sin, féadfaidh na Coimisinéirí Ioncaim ligean don iarchur leanúint ar aghaidh má dhéanann tú iarratas ar iarchur agus má shásaíonn tú na coinníollacha le haghaidh iarchuir i do cheart féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The transfer of the property to you means that the tax deferred to that point plus interest becomes payable at the date of transfer unless you satisfy the conditions for a deferral in your own right</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má aistrítear an mhaoin chugat, bíonn an cháin a iarchuireadh chuig an bpointe sin iníoctha ag dáta an aistrithe mura sásaíonn tú na coinníollacha le haghaidh iarchuir i do cheart féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Deferral for personal representatives of a deceased liable person</seg></tuv>
+  <tuv xml:lang="ga"><seg>Iarchur d’ionadaithe pearsanta de dhuine atá faoi dhliteanas a fuair bás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When a person dies, his/her property passes to his/her personal representative</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a fhaigheann duine bás, aistrítear a m(h)aoin chuig a (h)ionadaí pearsanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The personal representative then has the duty to distribute the deceased person's money and property in accordance with the law, the will - if there is one - or the laws of intestacy if there is no will</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an dualgas ar an ionadaí pearsanta, ansin, chun airgead agus maoin an duine mhairbh a leithdháileadh i gcomhréir leis an dlí, an uacht – más ann di – nó dlíthe díthiomnachta murab ann d’uacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The personal representatives of a deceased liable person may apply for a deferral until (a) the property is transferred or sold or (b) 3 years after the date of death (whichever is earlier)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh ionadaithe pearsanta de dhuine atá faoi dhliteanas a fuair bás iarratas a dhéanamh ar iarchur go dtí (a) go n-aistrítear nó go ndíoltar an mhaoin nó (b) 3 bliana i ndiaidh dháta an bháis (pé ceann is luaithe)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To qualify for deferral the deceased person must have been the sole owner of the property</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun cáiliú d’iarchur, ní mór gurbh é an duine marbh úinéir aonair na maoine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can claim a deferral for any LPT outstanding at the date of death, any LPT already deferred by the deceased person and LPT that became payable following the death</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú iarchur a éileamh d’aon CMÁ nach bhfuil íoctha ar dháta an bháis, aon CMÁ atá iarchurtha ag an duine marbh agus CMÁ a bhí iníoctha i ndiaidh an bháis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Deferral based on personal insolvency</seg></tuv>
+  <tuv xml:lang="ga"><seg>Iarchur bunaithe ar dhócmhainneacht phearsanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have entered into a Debt Settlement Arrangement or a Personal Insolvency Arrangement you can apply for a deferral of LPT while the insolvency arrangement is in place</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má d’iontráil tú i Socrú Glanta Fiachais nó Socrú um Dhócmhainneacht Phearsanta, féadfaidh tú iarratas a dhéanamh ar iarchur CMÁ fad atá an socrú dócmhainneachta i bhfeidhm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must have formally agreed your insolvency arrangement with the Insolvency Service of Ireland and your Insolvency Case Number must be included with your application</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go ndearna tú comhaontú foirmiúil ar do shocrú dócmhainneachta le Seirbhís Dócmhainneachta na hÉireann agus ní mór d’Uimhir Chás Dócmhainneachta a chur san áireamh le d’iarratas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Deferral based on hardship</seg></tuv>
+  <tuv xml:lang="ga"><seg>Iarchur bunaithe ar chruatan</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you do not qualify for a deferral under the other categories and you have had both an unexpected and unavoidable significant financial loss or expense, as a result of which you cannot pay the LPT without causing excessive financial hardship, you can apply for full or partial deferral</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura gcáilíonn tú d’iarchur faoi na catagóirí eile agus má bhí tú thíos le caillteanas nó costas suntasach dosheachanta airgeadais gan choinne, nach bhfuil tú in ann an CMÁ a íoc, dá thoradh, gan cruatan iomarcach airgeadais a chruthú, féadfaidh tú iarratas a dhéanamh ar iarchur iomlán nó páirteach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must disclose your financial circumstances and any other information required by Revenue</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit do chúinsí airgeadais agus aon fhaisnéis eile a iarrann na Coimisinéirí Ioncaim a nochtadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Examples of the type of losses or expenses that may be considered when granting a deferral on these grounds include:</seg></tuv>
+  <tuv xml:lang="ga"><seg>I measc na samplaí de shaghas na gcaillteanas nó na gcostas ar féidir breithniú a dhéanamh orthu nuair a bhíonn iarchur á dheonú ar na forais seo, tá:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Major repairs to a house that are needed to keep the house habitable and that arise unexpectedly</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Mórdheisiúchán ar theach a theastaíonn chun an teach a choimeád ina áit ináitrithe agus a thagann chun solais gan choinne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Expenses connected with a serious accident or death of a family member</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Costais atá bainteach le timpiste thromchúiseach nó bás duine mhuinteartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A bad debt incurred by a self-employed person</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Drochfhiachas a chruthaigh duine féinfhostaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Any deferred amounts have interest charged on them at a rate of 0.011% per day (4% a year)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gearrtar ús ar aon mhéideanna iarchurtha ar ráta 0.011% sa lá (4% sa bhliain)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Example of interest calculation: Jack sells his home 3.5 years after he first deferred his LPT payment in July 2013</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sampla de ríomh úis: Díolann Seaic a theach 3.5 bliain i ndiaidh gur iarchuir sé a íocaíocht CMÁ den chéad uair in Iúil 2013</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He deferred €100 of LPT in 2013 and €200 for each of the years 2014, 2015 and 2016</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’iarchuir sé €100 den CMÁ in 2013 agus €200 le haghaidh gach ceann de na blianta 2014, 2015 agus 2016</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>On the day Jack sells his house he is liable for 3.5 years of LPT</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar an lá a dhíolann Jack a theach, tá sé faoi dhliteanas íoc as 3.5 bliain den CMÁ</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He therefore owes €700 of tax in total</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá €700 de cháin le híoc aige, ar an iomlán, ar an ábhar sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However he owes varying amounts of interest on that tax since the first year’s deferral will have incurred 3.5 years’ interest – but the next year’s tax will have incurred 3 years’ interest and so on</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá suimeanna éagsúla d’ús le híoc aige, áfach, ar an gcáin sin mar gheall go mbeidh ús 3.5 bliain tabhaithe ó iarchur na chéad bhliana sin – ach beidh ús 3 bliana tabhaithe ag cáin na bliana seo chugainn, agus mar sin de</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>So the interest would be calculated like this (note that this figures are just for demonstration purposes and do not represent an actual LPT charge):</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ríomhfaí an t-ús ar an mbealach seo (tabhair faoi deara go bhfuil na figiúirí díreach ar mhaithe le cuspóirí taispeána agus ní hionann iad agus fíor-mhuirear CMÁ):</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Year 1- Year 4: 2013 - 2016 │€100 x 3.5 years (1,276 days) at 0.011% interest per day = €14.04 interest │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Bliain 1-Bliain 4: 2013 - 2016 │€100 x 3.5 bliain (1,276 lá) ar ráta úis 0.011% sa lá = ús €14.04 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Year 2– Year 4: 2014 - 2016 │€200 x 3 years (1,095 days) at 0.011% interest each day = €24.09 interest │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Bliain 2-Bliain 4: 2014 - 2016 │€200 x 3 bliana (1,095 lá) ar ráta úis 0.011% sa lá = ús €24.09 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Year 3 – Year 4: 2015 - 2016 │€200 x 2 years (730 days) at 0.011% interest each day = €16.06 interest │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Bliain 3-Bliain 4: 2015 - 2016 │€200 x 2 bhliain (730 lá) ar ráta úis 0.011% sa lá = ús €16.06 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Year 4: 2016 │€200 x 1 year (365 days) = €8.03 interest │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Bliain 4: 2016 │€200 x 1 bhliain (365 lá) = ús €8.03 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│The total amount of interest Jack has to pay on €700 of deferred LPT is €62.22</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Is é an méid iomlán úis atá le híoc ag Seaic ar €700 den CMÁ iarchurtha ná €62.22</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>So Jack will pay €762.22 in total</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin, íocfaidh Seaic €762.22 ar an iomlán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To apply for a deferral or partial deferral on the basis of the income threshold criteria you use the LPT1 form only. This is available when you access your LPT record on-line</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá iarratas á dhéanamh agat ar iarchur nó ar iarchur páirteach ar bhonn na gcritéar tairseach ioncaim, ní mór duit foirm LPF1, agus an fhoirm sin amháin a úsáid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you don't file on-line, an LPT1 form will issue to you automatically by Revenue. If you are applying for a deferral under any of the other 3 categories you must fill in the LPT1 form and an LPT2 form (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá iarratas á dhéanamh agat ar iarchur faoi aon cheann de na 3 chatagóir eile, ní mór duit foirm LPT1 agus foirm LPT2 (pdf) a sheoladh ar ais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can access your LPT record on-line using your Property ID, Property PIN and PPSN or tax reference number to claim a deferral for 2017</seg></tuv>
+  <tuv xml:lang="ga"><seg>Murar éiligh tú iarchur roimhe seo agus má cháilíonn tú faoi aon cheann de na critéir, féadfaidh tú rochtain a fháil ar do Thaifead CMÁ ar líne trí d’Aitheantas Maoine, Uimhir Aitheantais Phearsanta (PIN) na Maoine agus an UPSP nó an uimhir thagartha chánach chun iarchur a éileamh le haghaidh 2017 (faoin 11 Eanáir 2017)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must apply by 11 January 2017. Alternatively, if you received a letter and an LPT1form from Revenue, you may complete the LPT1 form and submit this to the Revenue Commissioners by 11 January 2017</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar mhalairt air sin, má fuair tú litir agus Foirm LPT1A (treoir íocaíochta) ó na Coimisinéirí Ioncaim, féadfaidh tú an LPT1A a chomhlánú agus é seo a sheoladh chuig na Coimisinéirí Ioncaim faoin 11 Eanáir 2017</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have been allowed a deferral you can make a payment at any time of all or some of the deferred amount</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má cháilíonn tú faoi na critéir thairseach ioncaim, ní gá duit foirm LPT2 a chomhlánú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Revenue will credit a partial payment to the oldest period of deferred LPT first</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má cháilíonn tú faoi aon cheann de na 3 chritéar eile, ní mór duit foirm LPT2 a chomhlánú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Local Property Tax (LPT) Branch P.O</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cá ndéanfaidh mé iarratas?</seg></tuv>
+</tu>
+</body>
+</tmx>

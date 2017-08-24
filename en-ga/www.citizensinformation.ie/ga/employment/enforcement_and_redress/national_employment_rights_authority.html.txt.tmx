@@ -1,0 +1,221 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Employment rights legislation: inspection and compliance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Reachtaíocht um chearta fostaíochta: iniúchadh agus comhlíonadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Workplace Relations Commission (WRC) aims to secure compliance with employment rights legislation through inspection and prosecution services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé mar aidhm ag an gCoimisiún um Chaidreamh san Áit Oibre (WRC) comhlíonadh le reachtaíocht um chearta fostaíochta a dhaingniú trí sheirbhísí iniúchta agus ionchúisimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These services were formerly operated by the National Employment Rights Authority (NERA)</seg></tuv>
+  <tuv xml:lang="ga"><seg>An tÚdarás Náisiúnta um Chearta Fostaíochta (NERA) a chuireann na seirbhísí sin i bhfeidhm go foirmiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the Workplace Relations Act 2015, which came into effect on 1 October 2015, the WRC monitors employment conditions through its Inspection Services to ensure the compliance and enforcement of employment rights legislation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoin Acht um Chaidreamh san Áit Oibre 2015, a tháinig i bhfeidhm an 1 Deireadh Fómhair 2015, déanann an WRC monatóireacht ar choinníollacha fostaíochta trína Seirbhísí Cigireachta chun comhlíonadh agus cur i bhfeidhm na reachtaíochta cearta fostaíochta a áirithiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The WRC's Inspection Services have the power to carry out employment rights compliance inspections in relation to the following legislation:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé de chumhacht ag Seirbhísí Iniúchta an WRC cigireachtaí comhlíonta cearta fostaíochta a dhéanamh maidir leis an reachtaíocht seo a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Organisation of Working Time Act 1997</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An tAcht um Eagrú Ama Oibre 1997</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Payment of Wages Act 1991</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An tAcht um Íoc Pá 1991</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Protection of Young Persons (Employment) Act 1996</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An tAcht um Chosaint Daoine Óga (Fostaíocht), 1996</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• National Minimum Wage Act 2000</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An tAcht um Pá Íosta Náisiúnta 2000</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Parental Leave Acts 1998 and 2006</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Na hAchtanna um Shaoire do Thuismitheoirí, 1998 agus 2006</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Redundancy Payments Acts 1967–2014</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Na hAchtanna um Íocaíochtaí Iomarcaíochta, 1967–2014</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Employment Agency Act 1971</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An tAcht um Ghníomhaireacht Fostaíochta 1971</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Protection of Employment Act 1977–2007</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An tAcht um Chosaint Fostaíochta 1977–2007</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Protection of Employees (Employers' Insolvency) Acts 1984–2003</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Na hAchtanna um Chosaint Fostaithe (Dócmhainneacht Fostóirí) 1984–2003</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Carer's Leave Act 2001</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An tAcht um Shaoire Cúramóra 2001</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Employees (Provision of Information and Consultation) Act 2006</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An tAcht um Fhostaithe (Faisnéis agus Comhchomhairle a Sholáthar) 2006</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Employment Permits Acts 2003–2014</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Achtanna um Cheadanna Fostaíochta 2003–2014</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Inspectors may enter premises at reasonable times, interview employers and employees, take statements, examine and take copies of records and initiate legal proceedings</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh cigirí dul isteach chuig áitreabh ag amanna réasúnta, fostóirí agus fostaithe a chur faoi agallamh, cóipeanna a dhéanamh do thaifid agus iad a scrúdú agus tús a chur le himeachtaí dlí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If necessary, inspectors may be accompanied by other inspectors or the Gardaí</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhíonn gá leis, féadfaidh cigirí eile nó na Gardaí a bheith i dteannta an chigire</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They may apply to the District Court for search warrants</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh siad iarratas a dhéanamh chuig an gCúirt Dúiche chun barántas cuardaigh a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can read this employer’s guide to inspections (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú an treoir d’fhostóirí maidir le cigireachtaí (pdf) seo a léamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Inspections are either carried out to investigate a specific complaint, or else a team of inspectors may carry out random or targeted inspections in a particular sector of employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar cigireachtaí d’fhonn gearán ar leith a fhiosrú, nó is féidir le foireann cigirí cigireachtaí randamacha agus dírithe a dhéanamh in earnáil fostaíochta ar leith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where an initial inspection of records finds that that there have been breaches of employment law, the Inspection Services may:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás ina fhaightear amach go bhfuil sáruithe fostaíochta dlí ann, féadfaidh na Seirbhísí Cigireachta na rudaí seo a leanas a dhéanamh:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Issue a letter asking the employer to correct this or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Litir a eisiúint ag iarraidh ar an bhfostóir é sin a chur ina cheart</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Refer the matter to legal services for prosecution or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An t-ábhar a tharchur chuig seirbhísí dlí lena ionchúiseamh nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Carry out a further inspection</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tuilleadh cigireachtaí a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the case of unpaid wages due to an employee, a letter is then sent requesting evidence that the employer is complying with the law as instructed</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás pá atá dlite d’fhostaí nár íocadh, seoltar litir ag lorg fianaise go bhfuil an fostóir ag cloí leis an dlí i gcomhréir le treoracha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If there is no response or an inadequate response to the letter, a second inspection follows together with a warning that any further or new breaches discovered will be sent to legal services to prosecute</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfaightear freagra nó má fhaightear freagra leordhóthanach ar an litir, déantar an dara cigireacht mar aon le foláireamh go ndéanfar aon sárú nua bhreise a fhaightear a sheoladh chuig seirbhísí dlí lena ionchúiseamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An exception to the above procedures occurs where breaches of the Protection of Young Persons (Employment) Act 1996 are found</seg></tuv>
+  <tuv xml:lang="ga"><seg>Eisceacht leis an méid thuas is ea an nós imeachta thuas nuair a fhaightear sáruithe ar an Acht um Dhaoine Óga a Chosaint (Fostaíocht) 1996</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These are referred for prosecution after a first inspection</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar iad sin a tharchur lena n-ionchúiseamh i ndiaidh an chéad chigireachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Inspectors are empowered to work in Joint Investigation Units with the Department of Social Protection and the Revenue Commissioners, and to exchange information with these bodies</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá de chumhacht ag cigirí a bheith ag obair in gComh-aonaid Chigireachta leis an Roinn Coimirce Sóisialaí agus leis na Coimisinéirí Ioncaim, agus eolas a mhalartú leis an dá chomhlacht sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the Workplace Relations Act 2015, the WRC has the power under a number of employment laws to bring summary prosecutions against employers who are alleged to be in breach of the law</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoin Acht um Chaidreamh san Áit Oibre 2015, tá cumhacht ag an WRC faoi roinnt dlíthe fostaíochta ionchúisimh achoimre a thabhairt i gcoinne fostóirí atá líomhnaithe a bheith ag sárú an dlí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Act provides that, where a person is convicted of an offence under it, the court must order that person to pay the WRC the costs and expenses incurred by it in relation to the investigation, detection and prosecution of the offence, unless the court is satisfied that there are special and substantial reasons for not doing this</seg></tuv>
+  <tuv xml:lang="ga"><seg>Foráiltear leis an Acht, nuair a chiontaítear duine i gcion faoin Acht, go gcaithfidh an chúirt ordú ar an duine sin na costais agus na speansais a tabhaíodh i ndáil leis an imscrúdú, brath agus ionchúiseamh an chiona a íoc, mura bhfuil an chúirt sásta go bhfuil cúiseanna speisialta agus suntasacha ann nach ndearnadh amhlaidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, this requirement to pay costs and expenses does not apply to the offence of refusing or failing to pay compensation when ordered to do so by the District Court, when that court is enforcing a decision of an adjudication officer or the Labour Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl feidhm ag an riachtanas sin costais agus speansais a íoc leis an gcion diúltú nó mainneachtain cúiteamh a íoc nuair a ordaíonn an Chúirt Dúiche sin, nuair atá an chúirt sin ag forfheidhmiú cinnidh de chuid oifigigh bhreithnithe nó na Cúirte Oibreachais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Act provides for the serving of compliance notices on employers, which is a new procedure</seg></tuv>
+  <tuv xml:lang="ga"><seg>Foráiltear leis an Acht fógraí comhlíonta a sheirbheáil ar fhostóirí, agus is nós imeachta nua é sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An inspector may serve a compliance notice on an employer if satisfied that a contravention of the relevant legislation has occurred</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh an cigire fógra comhlíonta a sheirbheáil ar fhostóir má bhíonn sé/sí sásta gur tharla sárú ar an reachtaíocht ábhartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This notice specifies how that contravention is to be rectified</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sonraíonn an fógra sin conas is féidir an sárú sin a chur ina cheart</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An employer may appeal against the compliance notice to the Labour Court within 42 days</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh fostóir achomharc a dhéanamh i gcoinne fógra comhlíonta chuig an gCúirt Oibreachais laistigh de 42 lá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is a further appeal from the decision of the Labour Court to the Circuit Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá achomharc eile ann ó chinneadh na Cúirte Oibreachais go dtí a Chúirt Dúiche</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is an offence for an employer to fail to comply with a compliance notice</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is cion é d’fhostóirí mainneachtain cloí le fógra comhlíonta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The existence of a compliance notice or any dispute about it does not prevent employees from taking action in relation to any alleged breach of employment law in respect of them</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chuireann fógra comhlíonta nó aon díospóid mar gheall air stop le fostaithe dul i mbun gnímh maidir le haon sárú dlí fostaíochta líomhnaithe a tharla i ndáil leo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Neither does it prevent any prosecution for an offence under employment laws</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chuireann sé cosc ach an oiread ar ionchúiseamh maidir le cion faoi dhlíthe fostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Compliance notices may be used in relation to breaches of the legislation listed in Schedule 4 of the Workplace Relations Act 2015</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfaí fógraí comhlíonta a úsáid maidir le sáruithe ar an reachtaíocht arna liostáil i Sceideal 4 den Acht um Chaidreamh san Áit Oibre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Act provides for using fixed payment notices for certain offences, which is also a new procedure</seg></tuv>
+  <tuv xml:lang="ga"><seg>Foráiltear leis an Acht úsáid fógraí íocaíochtaí seasta i leith cionta ar leith, agus is nós imeachta nua é sin chomh maith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Inspectors may issue fixed payment notices for amounts up to €2,000 where they have reasonable cause to believe that a person has committed a relevant offence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh cigirí fógraí íocaíochtaí seasta suas go dtí €2,000 a eisiúint áit a mbíonn cúis mhaith acu a chreidiúint go bhfuil cion ábhartha déanta ag duine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The fine must be paid within 42 days</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór an fhíneáil a íoc laistigh de 42 lá </seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The relevant offences are:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seo a leanas na cionta ábhartha:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Breaches of the obligation on employers to consult representatives of employees and to provide information to them under the Protection of Employment Act 1977 (collective redundancies)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sárú ar an gceanglas ar fhostaithe dul i gcomhairle le hionadaithe fostaithe agus eolas a chur ar fáil dóibh faoi Acht um Chosaint Fostaíochta (Iomarcaíochtaí carntha) 1977</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Failure to provide a statement of wages and deductions from wages under the Payment of Wages Act 1991, or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Mainneachtain ráiteas pá agus asbhaintí as do phá a chur ar fáil faoin Acht um Íoc Pá 1991, nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Failure to provide an employee with a statement of the average hourly rate of pay for a pay reference period under the National Minimum Wage Act 2000</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Mainneachtain ráiteas leis an ngnáthráta pá san uair a chur ar fáil d’fhostaí maidir le tréimhse tagartha pá faoin Acht um Pá Íosta Náisiúnta 2000</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you wish to make a complaint about your employment rights you must use the online complaint form available on workplacerelations.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mian leat gearán a dhéanamh faoi do chearta fostaíochta ní mór duit an fhoirm ghearáin ar líne a úsáid atá ar fáil ar workplacerelations.ie)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can also contact the WRC Information and Customer Service - see 'Where to apply' below.   Where to apply  Workplace Relations Commission  Information and Customer Service O'Brien Road Carlow R93 W7W2 Ireland  Opening Hours: Mon. to Fri</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú chomh maith teagmháil a dhéanamh le Seirbhísí Custaiméirí um Chaidreamh san Áit Oibre - féach 'Cá háit a dhéanaim iarratas’ thíos</seg></tuv>
+</tu>
+</body>
+</tmx>

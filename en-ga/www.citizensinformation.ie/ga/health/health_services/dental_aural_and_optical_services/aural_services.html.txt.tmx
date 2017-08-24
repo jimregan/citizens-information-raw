@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>The Health Service Executive (HSE) provides aural services, including hearing tests and hearing aids, to eligible people</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann Feidhmeannacht na Seirbhíse Sláinte (FSS) seirbhísí cluas ar fáil do dhaoine atá i dteideal dóibh, tástálacha éisteachta agus áiseanna éisteachta san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In general, aural services are provided by the HSE's own professionals but in some cases may be provided by private practitioners</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta cuireann gairmithe na FSS an tseirbhís seo ar fáil ach i roinnt cásanna is féidir le liachleachtóirí ginearálta í a sholáthar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will normally be referred by your family doctor (GP) to an audiologist or an ear, nose and throat (ENT) specialist for a hearing test</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is gnách go n-atreoróidh do dhochtúir teaghlaigh (LG) thú chuig éisteolaí nó chuig speisialtóir Cluaise, Sróine agus Scornaí (CSS) chun tabhairt faoi thástáil éisteachta ort</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It may also be possible to contact your hearing aid clinic or health centre directly and request a hearing test</seg></tuv>
+  <tuv xml:lang="ga"><seg>B'fhéidir gur féidir leat dul i dteagmháil go díreach le do chlinic do áiseanna éisteachta nó ionad sláinte agus tástáil éisteachta a iarradh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Hearing tests involve an examination of your ear by the audiologist or ENT specialist</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is éard a bhaineann le tástálacha éisteachta ná go ndéanann an t-éisteolaí nó an speisialtóir CSS scrúdú ar do chluas le huirlis formhéadúcháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will then be asked to put on headphones and listen to sounds at different pitches so the audiologist can find the level at which you can no longer hear</seg></tuv>
+  <tuv xml:lang="ga"><seg>Iarrfar ort cluasáin a chur ort agus éisteacht le fuaimeanna a mbeidh airde dhifriúil ag gach céanna acu ionas go mbeidh an éisteolaí in ann an leibhéal nach bhfuil tú in ann cloisteáil ann a aimsiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Hearing tests can also be conducted on infants and very young children who are unable to wear headphones or communicate that they cannot hear sounds</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir tástálacha a dhéanamh ar naíonáin agus pháistí óga nach bhfuil in ann cluasáin a chaitheamh nó a chur in iúl nach bhfuil siad ann fuaimeanna a chloisteáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Tests on infants or young children are similar to those conducted on adults (they are non-invasive) and are carried out using specialist sonar equipment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá na tástálacha ar naíonáin agus pháistí óga cosúil leis na cinn a dhéantar ar dhaoine fásta (sé sin le rá, ní chuireann said isteach ar dhaoine) agus baintear feidhm as áiseanna speisialta sonóra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The level of the child's hearing is then measured and any corrective action is prescribed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar leibhéal éisteachta an pháiste a thomhas ansin agus moltar gníomhú ceartaitheach más gá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have a medical card or belong to the eligible groups mentioned below, you can obtain your hearing aid free of charge</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá cárta leighis agat nó má bhaineann tú le haon cheann de na grúpaí intofa luaite thíos, is féidir leat áis éisteachta a fháil saor in aisce</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you do not have a medical card, your hearing aid clinic will put you in touch with suppliers of hearing aids and you will have to pay for your hearing aid yourself</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil cárta leighis agat, cuirfidh do chlinic do áiseanna éisteachta i dteagmháil thú le soláthróirí áiseanna éisteachta agus beidh ort íoc as d'áis éisteachta tú féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Treatment Benefit is a scheme operated by the Department of Social Protection that provides dental, optical and aural services to insured workers and retired people who have the required number of PRSI contributions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Scéim atá i Sochar Cóireála atá á hoibriú ag an Roinn Coimirce Sóisialaí a sholáthraíonn seirbhísí fiaclóireachta, optúla agus cluaise do dhaoine cáilithe, d’oibrithe faoi árachas agus do dhaoine ar scor a bhfuil an líon riachtanach ranníocaíochtaí ÁSPC acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Hearing aids may be provided by suppliers who have a contract with the Department of Social Protection</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh soláthraithe a bhfuil conradh acu leis an Roinn Coimirce Sóisialaí áiseanna éisteachta a sholáthar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Department pays half the cost of a hearing aid subject to a fixed maximum for each hearing aid every 4 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocann an Roinn leath an chostais a bhíonn ar áis éisteachta faoi réir costas uasta seasta ar gach áis éisteachta gach 4 bliana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It also pays half the cost of repairs to hearing aids</seg></tuv>
+  <tuv xml:lang="ga"><seg>Anuas air sin, íocann siad leath an chostais a bhíonn ar dheisiúcháin ar áiseanna éisteachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Aural services are available free of charge to:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá seirbhísí cluaise ar fáil saor in aisce do na daoine a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Medical card holders and their dependants</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Shealbhóirí cárta leighis agus a gcleithiúnaíthe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• People with Hepatitis C who have a Health Amendment Act Card</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Daoine a bhfuil Heipitíteas C orthu a bhfuil Cártaí faoin Acht um Leasú Sláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Pre-school children and primary school children referred from child health service and school health service examinations</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Naíonáin réamhscoile agus leanaí bunscoile curtha ar aghaidh ó scrúdaithe de chuid na seirbhíse sláinte leanaí agus na seirbhíse sláinte scoile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Children who are discovered to have hearing problems at the child or school health examinations are referred to the appropriate consultant for treatment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a fhaightear amach go bhfuil fadhbanna éisteachta acu ag scrúdaithe sláinte leanaí no scoile cuirtear leanaí ar aghaidh go dtí an lia comhairleach cuí le haghaidh cóireála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If this treatment is carried out at the out-patient department of a public hospital, the service is free and no hospital charges have to be paid</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéantar an chóireáil seo ag roinn eisothair ospidéil phoiblí, tá an tseirbhís saor in aisce agus ní gá aon táillí ospidéil a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Medical card holders can obtain a replacement hearing aid after 2 years but if your hearing aid is damaged or broken you can get a replacement before the end of the 2-year period</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh sealbhóirí cárta leighis áis éisteachta ionaid a fháil i ndiaidh 2 bhliain, ach má rinneadh díobháil do d’áis éisteachta nó má briseadh í, féadfaidh tú ceann eile a fháil roimh dheireadh na tréimhse 2 bhliain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you do not have a medical card, the Treatment Benefit Scheme may cover you and your dependent spouse for some of the cost of hearing aids</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil cárta leighis agat, clúdóidh an Scéim Sochair Chóireála tú agus do chéile cleithiúnach do chostas éigin na n-áiseanna éisteachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may also be able to claim tax relief for medical expenses incurred</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chomh maith leis sin, b’fhéidir go mbeidh tú in ann faoiseamh cánach a éileamh ar chostais leighis a thabhaítear</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is no charge for a hearing test at a health centre or at a Local Health Office or public hospital outpatient clinic</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní ghearrtar aon táille ar thástáil éisteachta ag ionad sláinte nó ag Oifig Sláinte Poiblí nó ag clinic othar seachtrach ospidéil phoiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may have to pay for a hearing aid unless you are among the eligible groups mentioned above or you have enough social insurance contributions to qualify under the Treatment Benefit Scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>B’fhéidir go mbeidh ort íoc as áis éisteachta mura bhfuil tú i measc na ngrúpaí incháilithe a luaitear thuas nó má tá dóthain ranníocaíochtaí árachais shóisialta agat chun cáiliú faoin Scéim Sochar Cóireála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Contact your Local Health Office or hearing aid clinic for an appointment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déan teagmháil le d'Oifig Sláinte Áitiúil nó clinic áiseanna éisteachta chun coinne a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Adults with hearing problems may be referred by their GP to an appropriate consultant or HSE hearing aid clinic</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir aosaigh le fadhbanna éisteachta a bheith curtha ar aghaidh ag a liachleachtóir ginearálta chuig lia comhairleach cuí nó clinic do áiseanna éisteachta FSS</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The hearing aid clinic may supply hearing aids directly or arrange for their supply by a private practitioner</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le clinic do áiseanna éisteachta áiseanna éisteachta a sholáthar go díreach nó socrú a dhéanamh le go mbeidís ar fáil ó chleachtóir príobháideach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Repairs to hearing aids may also be carried out at the hearing aid clinic</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir áiseanna éisteachta a dheisiú ag an gclinic do áiseanna éisteachta</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>A deposit is a payment made to a retailer by a consumer which indicates an intention to buy a product or a service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is éard is éarlais ann ná íocaíocht a thugann tomhaltóir do mhiondíoltóir mar léiriú go bhfuil sé ar intinn aige earra nó seirbhís a cheannach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The amount of the deposit and the timing of payment of the balance are a matter between the consumer and the supplier</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is faoin tomhaltóir agus an soláthraí méid na héarlaise agus cathain a íocfar an t-iarmhéid a shocrú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you pay a deposit for goods a contract is created between you as a consumer, and the supplier of the product or service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Trí éarlais cruthaítear conradh idir tusa, an tomhaltóir, agus soláthraí an earra nó na seirbhíse</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should be clear at the time of paying a deposit what your obligations are (for example, when you need to pay the balance, how much each payment is)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé tábhachtach go dtuigfeá d’oibleagáidí agus éarlais á híoc agat (m.sh. cathain is gá an t-iarmhéid a íoc, méid na híocaíochta, srl.)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should also be clear about the duties of the supplier (for example, when the product will be available)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit oibleagáidí an tsoláthraí a thuiscint freisin (m.sh. cathain a chuirfear an t-earra ar fáil)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is always easier to know what your rights and responsibilities are if you have details of the contract in writing, however, a verbal contract is also enforceable</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn sé níos éasca do chuid cearta agus freagrachtaí a thuiscint má bhíonn mionsonraí an chonartha agat i scríbhinn, ach is féidir conradh béil a chur i bhfeidhm freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the supplier does not adhere to the terms of the contract (for example, delivery of a product takes significantly longer than stated) you may have a right to ask for your deposit to be returned</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura gcomhlíonann an soláthraí téarmaí an chonartha (m.sh., moill suntasach ar sheachadadh an earra), seans go mbeidh sé de cheart agat aisíoc d’éarlaise a éileamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you pay a deposit to a supplier who, in return, holds an article for you and you change your mind about paying the balance the supplier may not in all these circumstances be obliged to return your deposit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má íoctar éarlais le soláthraí chun earra a choinneáil duit, agus ansin má thagann tú ar athrú intinne faoi agus socrú tú gan an t-iarmhéid a íoc, seans nach mbeidh dualgas ar an soláthróir d’éarlais a aisíoc leat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you buy goods (or pay a deposit on them) and the seller goes out of business before they are delivered, you may have considerable difficulty in getting either the goods or your money back</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má cheannaíonn tú earraí (nó má íocann tú éarlais) agus má théann an díoltóir as gnó roimh sheachadadh na n-earraí sin, d’fhéadfadh sé bheith deacair na hearraí nó aisíoc a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Usually the seller in these circumstances owes money to a number of people so your claim is just one of many</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcásanna mar seo is gnách go mbíonn go leor fiacha amuigh ar an díoltóir agus nach mbíonn ionatsa ach duine eile ar an liosta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are rules for the priority to be given to the various debts in the case of the business going into liquidation or receivership</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá rialacha ann maidir leis an tosaíocht ar chóir a thabhairt do fhiacha éagsúla i gcás comhlacht a théann as gnó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Generally, the individual customer is low in the order of priority</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, bíonn tosaíocht réasúnta íseal ag an gcustaiméir aonar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you paid for the goods by credit card, it is worthwhile to contact the credit card company who may not have actually paid or may be able to cancel the payment – you do not have a right to have this done but the credit card company may be able to do it for you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má d’íoc tú ar son na n-earraí le cárta creidmheasa, b’fhiú dul i dteagmháil le comhlacht an chárta ar an seans nár íocadh an t-airgead fós nó go mbeifí in ann é a chur ar cheal – ní ceart é seo agat ach seans go mbeifí in ann é a dhéanamh duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is more information on deposits on consumerhelp.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh eolais maidir le taiscí ar consumerhelp.ie</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Circumstantial evidence is evidence of facts from which inferences or can be drawn</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar fianaise imthoisceach ar fhianaise a bhaineann le fíricí gur féidir conclúidí nó tuairimí a bhaint astu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, in an assault case where the crime took place on O'Connell Street at 6.15pm, you may give evidence that you saw the accused walking down O'Connell Street at 6pm</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, i gcás ionsaithe nuair a tharla an choir ar Shráid Uí Chonaill ag 6.16i.n. is féidir leat fianaise a thabhairt go bhfaca tú an cúisí ag siúl ar Shráid Uí Chonaill ag 6.i.n</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In that situation, you are giving circumstantial evidence to the court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás sin is fianaise imthoisceach atá dhá thabhairt agat don chúirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Inferences or conclusions may be drawn from the fact that the accused was on O'Connell Street at 6pm, but you have not given evidence as to the actual fact at issue in the case - whether the accused attacked a person</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfaí conclúidí nó tuairimí a bhaint as an bhfíric go raibh an cúisí ar Shráid Uí Chonaill ag 6i.n. ach níl fianaise tugtha agat maidir leis an bhfíric atá i gceist sa chás - ar ionsaigh an cúisí duine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In a case of a theft, examples of circumstantial evidence include:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más goid atá i gceist, seo a leanas samplaí de fhianaise imthoisceach:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Evidence of the defendant's fingerprints at the scene of the crime</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Fianaise go raibh méarloirg an chúisí ar láthair na coire</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The fact that the defendant was found with a large amount of money without being able to give any reason</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Go raibh suim mhór airgid ag an gcúisí nach raibh sé/sí in ann a mhíniú go sásúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the case of a murder, examples of circumstantial evidence include:</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás dúnmharaithe, seo a leanas samplaí de fhianaise imthoisceach:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The fact that the accused had an intense dislike of the victim</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Nár thaitin an té a d'fhulaing an choir ró-mhór leis an gcúisí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The fact that the accused behaved in a bizarre and suspicious way after the offence</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Go raibh iompar an chúisí aisteach agus amhrasach tar éis na coire</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The fact that he or she lied about his or her alibi</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gur inis an cúisí bréag maidir lena (h)ailibí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The fact that he or she was in the area at the time that the offence was committed</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Go raibh sé/sí sa cheantar ag an am ar tharla an choir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The fact that the defendant's blood or DNA corresponds to blood or DNA found on the victim's body</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gur ionann fuil an chúisí nó DNA agus fuil nó DNA a fuarthas ar chorp an té a dúnmharaíodh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The general rule is that circumstantial evidence is admissible</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar riail ghinearálta tá fianaise imthoisceach ceadaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, the courts are careful when the only evidence in a case is circumstantial evidence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach, bíonn na cúirteanna cúramach nuair nach bhfuil de fhianaise i gcás ach fianaise imthoisceach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Circumstantial evidence must be closely examined and it must be looked at cumulatively</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór scrúdú géar a dhéanamh ar fhianaise imthoisceach agus ní mór breathnú air go carnach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In other words, a court would be very slow to convict a defendant on the basis of one piece of circumstantial evidence alone, for example, the fact that his or her fingerprints were found at the scene of the crime</seg></tuv>
+  <tuv xml:lang="ga"><seg>I bhfocail eile, bheadh leisce ar chúirt cosantóir a chiontú bunaithe ar phíosa amháin fianaise imthoisceach inti féin, mar shampla, go raibh a m(h)éarloirg faighte ag láthair na coire</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if there are a number of different strands of circumstantial evidence, taken together, they have more weight</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach, má bhíonn roinnt píosaí éagsúla fianaise imthoisceach ann, tógtha lena chéile, bíonn údarás níos mó acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, in a theft case, if the defendant was seen in the area at the time of the theft, his or her fingerprints were found at the scene of the crime and if he or she was later found with a large sum of money that he or she could not explain, then the court would be more likely to convict the accused</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, más goid a bhí ann, má chonacthas an cosantóir sa cheantar ag an am, má bhí a m(h)éarloirg faighte ag láthair na coire agus má bhí suim mhór airgid aige/aici ina dhiaidh sin nach raibh sé/sí in ann a mhíniú, bheadh níos mó seans ann go mbeadh an chúirt sásta an duine sin a chiontú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For more detailed information you should seek legal advice</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir duit comhairle dlí a lorg chun faisnéis mionsonraithe a fháil</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,333 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Claiming for an adult dependant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag éileamh do chleithiúnaí aosaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you qualify for a social welfare payment you get an amount for yourself, which is called the 'personal rate of payment'</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má cháilíonn tú d’íocaíocht leasa shóisialaigh faigheann tú suim duit féin. Glaoitear 'ráta pearsanta íocaíochta' air seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may also get an extra amount for your adult dependant (called a qualified adult) which is paid as an increase to your personal payment (called an Increase for a Qualified Adult or IQA)</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfá méid breise a fháil do do chleithiúnaí aosaigh (ar a dtugtar duine fásta cáilithe) a íoctar sa bhreis ar d’íocaíocht phearsanta (ar a dtugtar Méadú i leith Duine Fásta Cáilithe nó MDFC)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An adult dependant is usually your spouse, civil partner or cohabitant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is gnách gur cleithiúnaí aosaigh do chéile, páirtnéir sibhialta nó do chomháitritheoir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A cohabitant is one of two adults (whether of the same or opposite sex) who live together as a couple in an intimate and committed relationship and who are not close relatives</seg></tuv>
+  <tuv xml:lang="ga"><seg>Duine de bheirt daoine fásta is ea comháitritheoir (cibé acu den ghnéas céanna nó éagsúil) a chónaíonn le chéile mar lánúin i ndlúthchaidreamh geallta agus nach dlúthghaolta iad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To get an IQA your spouse, civil partner or cohabitant must meet the conditions set by the Department of Social Protection - see 'Rules' below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun MDFC a fháil, ní mór do do chéile, páirtnéir sibhialta nó do chomháitritheoir na coinníollacha a shocraíonn an Roinn Coimirce Sóisialaí a shásamh – féach ‘Rialacha’ thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The person does not have to be totally dependent on you (for example, they may be working and earning or have income from other sources) but any income they have must be below a certain level - see 'Income limits' below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní gá go mbíonn an duine go hiomlán spleách ort (mar shampla, d'fhéadfaidís bheith ag oibriú agus ag tuilleamh nó d'fhéadfaidís ioncam bheith acu ó fhoinsí eile) agus níor mhór go mbeadh aon ioncam a bhíonn acu faoi bhun leibhéal áirithe – féach ‘Teorainneacha ioncaim' thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have dependent children you may also get an Increase for a Qualified Child (IQC)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá cleithiúnaithe linbh agat, d’fhéadfá Méadú i leith Leanbh Cáilithe (MLC) a fháil chomh maith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To claim an Increase for a Qualified Adult (IQA) you must be getting a social welfare personal payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit íocaíocht phearsanta leasa shóisialaigh a bheith á fáil agat chun Méadú i leith Duine Fásta Cáilithe a éileamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your adult dependant must not have a social welfare payment in his or her own right except for:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níor mhór go mbeadh íocaíocht leasa shóisialaigh ag do chleithiúnaí aosaigh as a stuaim féin, seachas i gcás:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Guardian's Payment (Contributory) and (Non-Contributory)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Íocaíocht Chaomhnóra (Ranníocach) agus (Neamh-Ranníocach)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Occupational Injuries Death Benefit in respect of an orphan</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Liúntas Bás Díobhálacha Ceirde i ndáil le Dílleachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The habitual residence condition does not apply to increases for qualified dependents (spouses, civil partners, cohabitants or children)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhaineann coinníoll an ghnáthchónaithe le méaduithe i leith cleithiúnaithe cáilithe (céilí, páirtnéirí sibhialta, comháitritheoirí nó leanaí)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that dependents do not have to satisfy the habitual residence condition in their own right</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn seo nach bhfuil ar chleithiúnaithe coinníoll an ghnáthchónaithe a shásamh as a stuaim féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An IQA is not normally payable on behalf of a spouse or civil partner who is absent from the State or in prison</seg></tuv>
+  <tuv xml:lang="ga"><seg>De ghnáth ní íoctar MDFC ar chéile nó pháirtnéir sibhialta atá as láthair ón Stát nó i bpríosún</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For most social welfare payments your adult dependant cannot have gross weekly earnings or income (before tax and PRSI deductions) of more than €310</seg></tuv>
+  <tuv xml:lang="ga"><seg>Maidir leis an gcuid is mó d’íocaíochtaí leasa shóisialaigh, caithfidh do chleithiúnaí aosaigh olltuilleamh nó ioncam seachtainiúil (roimh cháin agus asbhaintí ÁSPC) níos lú ná €310 a bheith acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your adult dependant earns less than €100 you will get a full Increase for a Qualified Adult (IQA)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá do chleithiúnaí aosaigh ag tuilleamh níos lú ná €100, gheobhaidh tú Méadú iomlán i leith Duine Fásta Cáilithe (MDFC)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your adult dependant earns between €100 and €310 you will get a reduced rate of IQA (sometimes called a tapered rate of IQA)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá do chleithiúnaí ag tuilleamh idir €100 agus €310 gheobhaidh tú ráta laghdaithe MDFC (ar a dtugtar corruair ráta caolaithe den MDFC)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your adult dependant is earning more than €310 you will not get an IQA</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá do chleithiúnaí aosaigh ag tuilleamh níos mó ná €310, ní bhfaighidh tú MDFC</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find out what the tapered rate of IQA for your payment is in the Department of Social Protection's SW19 (Rates of Payment) booklet</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat a dheimhniú céard é an ráta caolaithe den MDFC do d’íocaíocht i Leabhrán SW19 (Rátaí Íocaíochta) na Roinne Coimirce Sóisialaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The rules are different for Jobseeker's Allowance (JA), Pre-Retirement Allowance (PRETA), Disability Allowance (DA) and Farm Assist (FA)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is éagsúil do na rialacha maidir le Liúntas Cuardaitheora Poist (LCP), Liúntas Réamhscoir (LR), Liúntas Míchumais (LM), Cúnamh Feirme (CF)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For these payments your household income is assessed in the means test</seg></tuv>
+  <tuv xml:lang="ga"><seg>Do na híocaíochtaí seo, déantar d’ioncam teaghlaigh a mheasúnú sa tástáil mhaoine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your total household means are then deducted from the maximum payment (this is the personal rate including any increases for adult and child dependants) to find the actual amount of JA, DA, PRETA or FA you are entitled to</seg></tuv>
+  <tuv xml:lang="ga"><seg>Asbhaintear do mhaoin iomlán teaghlaigh ansin ón íocaíocht uasta (seo an ráta pearsanta, lena n-áirítear aon mhéaduithe i leith cleithiúnaithe aosaigh agus linbh) leis an tsuim chruinn den LCP, LM, LR nó CF a dheimhniú a bhfuil tú ina teideal fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your spouse, civil partner or cohabitant has a social welfare payment (see exceptions above) in their own right or is on a FET or VTOS course and getting an allowance in his or her own right, you cannot get an IQA on their behalf but you can get a half-rate increase for each qualified child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá íocaíocht leasa shóisialaigh ag do chéile, páirtnéir sibhialta nó ag do chomháititheoir (féach na heisceachtaí thuas) as a stuaim féin nó má tá siad ag freastal ar chúrsa FÁS nó Scéim Deiseanna Oiliúna Gairmoideachais (VTOS) agus má tá liúntas á fháil acu as a stuaim féin, ní féidir leat MDFC a fháil ar a son ach is féidir leat méadú leathráta i leith gach linbh cháilithe a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Separation, civil partners not living together, divorce or a dissolved civil partnership</seg></tuv>
+  <tuv xml:lang="ga"><seg>Scaradh, páirtnéirí sibhialta nach gcónaíonn le chéile, colscaradh nó páirtnéireacht shibhialta dhíscaoilte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are separated but giving your spouse or civil partner a weekly maintenance payment which is at least €124.80 per week (the same as the current rate of IQA for Jobseeker's Allowance) you can get an IQA with your personal social welfare payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú scartha ach ag tabhairt íocaíocht sheachtainiúil chothabhála €124.80 sa tseachtain (comhionann le ráta reatha an MDFC le haghaidh Liúntas Cuardaitheora Poist) do do chéile, páirtnéir sibhialta nó do chomháitritheoir, féadfaidh tú MDFC a fháil le d’íocaíocht phearsanta leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your spouse or civil partner must not be cohabiting with someone else</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir le do chéile, páirtnéir sibhialta nó do chomháitritheoir bheith ag cónaí le duine eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To get the full rate of IQA your spouse or civil partner must not have weekly income above €100 excluding maintenance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun ráta iomlán an MDFC a fháil, ní féidir ioncam seachtainiúil os cionn €100 a bheith ag do chéile, páirtnéir sibhialta nó do chomháitritheoir gan cothabháil a chur san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your spouse or civil partner has income between €100 and €310 you may get a reduced rate of IQA</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá do chéile, páirtnéir sibhialta nó do chomháitritheoir ag tuilleamh idir €100 agus €310 gheobhaidh tú ráta laghdaithe den MDFC</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are no reduced rates of IQA for JA, PRETA, DA and FA (see above)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl rátaí laghdaithe den MDFC i gceist don LCP, LR, LM agus CF (féach thuas)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Adult dependants who are not your spouse, civil partner or cohabitant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cleithiúnaithe aosaigh nach do chéile, páirtnéir sibhialta nó do chomháititheoir iad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are single, widowed, divorced, separated, a former civil partner or not living with your civil partner, and living with a person aged 16 or over who does not have weekly income above €100, you can claim an increase for them if he or she is caring for a child dependant of yours</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú singil, más baintreach/baintreach fir thú, má tá tú colscartha, scartha, más iarpháirtnéir sibhialta thú nó mura bhfuil tú i do chónaí le do pháirtnéir sibhialta, agus má tá tú i do chónaí le duine d’aois 16 bliana nó níos sine nach bhfuil ioncam seachtainiúil de bhreis ar €100 acu, is féidir leat méadú a éileamh dóibh ach amháin sa chás go bhfuil cúram á thabhairt aige/aici do chleithiúnaí linbh leat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If he or she has income between €100 and €310 you may get a reduced rate of IQA</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá aige nó aici ioncam idir €100 agus €310 gheobhaidh tú ráta laghdaithe den MDFC</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are separated or not living with your civil partner, you must not be living with or be wholly maintained by your spouse or civil partner</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú scartha nó mura bhfuil cónaí ort le do pháirtnéir sibhialta, níor mhór nach bhfuil cónaí ort le do chéile nó do pháirtnéir sibhialta nó cothabháil iomlán a bheith á fáil agat uathu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are no reduced rates of IQA for JA, PRETA, DA and FA (see above)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl rátaí laghdaithe den MDFC i gceist don LCP, LR, LM agus CF (féach thuas)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are getting a social assistance (means-tested) payment, your adult dependant's income is assessed in the means test for your payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá íocaíocht chúnaimh shóisialta (a ndéantar tástáil mhaoine ina leith) á fáil agat, déantar ioncam do chleithiúnaithe aosaigh a mheasúnú sa tástáil mhaoine do d’íocaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find out more in our document, Assessing the means of a couple for social assistance payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat teacht ar níos mó faisnéise inár ndoiciméad, Measúnú a dhéanamh ar mhaoin lánúine le haghaidh íocaíochtaí cúnaimh shóisialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Social insurance payments are based on PRSI contributions and so your payment is not means tested</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá íocaíochtaí árachais shóisialta bunaithe ar ranníocaíochtaí ÁSPC agus ní dhéantar tástáil mhaoine ina leith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However if you wish to claim for a dependent their income will be assessed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mian leat éileamh ar son cleithiúnaithe, déanfar measúnú ar a n-ioncam</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An adult dependant's income is assessed for social insurance payments as follows:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar measúnú ar ioncam cleithiúnaithe aosaigh le haghaidh íocaíochtaí árachais shóisialta mar seo a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your spouse's, civil partner's or cohabitant's average weekly income from employment or self-employment is assessed (the gross weekly income is assessed, no deductions are allowed for tax, PRSI contributions or personal expenses)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar meánioncam seachtainiúil do chéile, do pháirtnéara shibhialta nó do chomháitritheora ó fhostaíocht nó féinfhostaíocht a mheasúnú (déantar an t-ollioncam seachtainiúil a mheasúnú, ní cheadaítear asbhaintí i gcomhair cánach, ranníocaíochtaí ÁSPC nó costais phearsanta)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If paid on a monthly basis, the weekly average income over the previous two months is calculated</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má íoctar é nó í gach mí, ríomhtar an meánioncam seachtainiúil le dhá mhí anuas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If he or she is paid weekly or fortnightly, the weekly average over the previous six weeks is used</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má íoctar é nó í gach seachtain nó gach coicís, úsáidtear an meán seachtainiúil le sé seachtaine anuas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For self-employment the income received in the last completed tax year is divided by 52 to get the average weekly income</seg></tuv>
+  <tuv xml:lang="ga"><seg>Maidir le féinfhostaíocht, roinntear an t-ioncam a fhaightear sa bhliain cánach deiridh faoi 52 chun an meánioncam seachtainiúil a dheimhniú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Income from capital, for example, property, savings and investments, is included in the mean test</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áirítear ioncam ó chaipiteal, mar shampla, réadmhaoin, coigiltí agus infheistíochtaí, sa tástáil mhaoine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you and your spouse, civil partner or cohabitant hold capital jointly, half of the value is assessed as belonging to your spouse, civil partner or cohabitant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá caipiteal agat agus ag do chéile, páirtnéir sibhialta nó do chomháithritheoir i gcomhpháirt, déantar measúnú ar leath an luacha agus meastar gur le do chéile, páirtnéir sibhialta nó do chomháithritheoir an méid sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If property is owned jointly or only by your spouse, civil partner or cohabitant the rental income from the property is assessed for payment of an Increase for a Qualified Adult with your social insurance payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá réadmhaoin faoi chomhúinéireacht nó faoi úinéireacht do chéile, do pháirtnéra shibhialta nó do chomháithritheora, déantar measúnú ar ioncam ó chíos na réadmhaoine le haghaidh íocaíocht Méadaithe i leith Duine Fásta Cáilithe le d’íocaíocht árachais shóisialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, the capital value will be assessed if the property is not rented</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfar measúnú ar an luach caipitil, áfach, mura bhfuil an réadmhaoin ligthe ar cíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find out more about how capital is valued in the means test in our document Capital and social welfare payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat teacht ar thuilleadh faisnéise faoi conas a luacháiltear caipiteal sa tástáil mhaoine inár ndoiciméad Íocaíochtaí caipitil agus leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Income from other sources</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ioncam ó fhoinsí eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Income from other sources includes rental income from the letting of property, income from an occupational pension, foreign social welfare payments, income from a trust fund, income under a deed of covenant, other cash income, etc.,</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuimsíonn ioncam ó fhoinsí eile ioncam ó chíos ón réadmhaoin a ligean, ioncam ó phinsean gairme, íocaíochtaí eachtracha leasa shóisialaigh, ioncam ó chiste iontaobhais, ioncam faoi ghníomhas cúnaint, ioncaim airgid thirim etc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is calculated on a weekly basis</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ríomhtar é ar bhonn seachtainiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some social welfare payments are not taken into account as income including Child Benefit, Domiciliary Care Allowance and Supplementary Welfare Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chuirtear roinnt íocaíochtaí leasa shóisialaigh san áireamh mar ioncam, lena n-áirítear Sochar Linbh, Liúntas Cúram Baile agus Liúntas Leasa Forlíontach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can read more about income not counted in the means test in our document, Cash income not included in the means test</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat níos mó a léamh faoi ioncam nach gcuirtear san áireamh sa tástáil mhaoine inár ndoiciméid, Ioncam nach n-áirítear sa tástáil mhaoine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>How your Increase for a Qualified Adult is paid</seg></tuv>
+  <tuv xml:lang="ga"><seg>Conas a dhéantar an Méadú do Dhuine Fásta Cáilithe a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you qualify for an increase in your social welfare payment for an adult dependant it will be paid directly to you as part of your main payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má cháilíonn tú do mhéadú san íocaíocht leasa shóisialaigh do chleithiúnaí aosaigh, íocfar seo go díreach leat mar chuid den phríomhíocaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if you both consent you can have the Increase for a Qualified Adult paid directly to your adult dependant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin féin, má thoilíonn an dá pháirtí, is féidir an Méadú do Dhuine Fásta Cáilithe a íoc díreach leis an gcleithiúnaí aosaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In some cases, if there are difficulties in the home, (for example, gambling or alcohol abuse) an adult dependant can have more than just the Increase for a Qualified Adult paid to directly to him or her without your consent. This generally happens as a result of an investigation by a Social Welfare Inspector</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcásanna áirithe, má tá deacrachtaí sa bhaile (mí-úsáid alcóil mar shampla), is féidir le cleithiúnaí aosaigh níos mó ná an Méadú do Dhuine Fásta Cáilithe a fháil íoctha go díreach leis/léi gan toiliú uait agus mar thoradh ar fhiosrúchán a rinne Cigire Leasa Shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you apply for the State Pension (Contributory) or State Pension (Non-Contributory) the Increase for a Qualified Adult will automatically be paid directly to your adult dependant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéanann tú iarratas ar Pinsean Stáit (Ranníocach) nó Pinsean Stáit (Neamhranníocach) déanfar an Méadú do Dhuine Fásta Cáilithe a íoc díreach leis an gcleithiúnaí aosaigh sa ghnáthchúrsa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, your adult dependant may choose to have it paid with your payment instead</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfá roghnú go n-íocfaí an méadú leis an bpríomhéilitheoir ina ionad sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Increase for a Qualified Adult rates from March 2017</seg></tuv>
+  <tuv xml:lang="ga"><seg>Méadú do Dhuine Fásta Cáilithe ó Márta 2017</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│ │aged under 66 │aged 66 and over │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│ │Aois faoi 66 │Aois 66 agus os cionn Méadú do │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│State Pension (Contributory) │€158.80 (maximum) │€213.50 (maximum) │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Pinsean Stáit │€158.80 │€213.50 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Invalidity Pension │€141.70 │€141.70 (Qualified adults who were over 66 before 2 January 2014 can continue to get a higher rate.) │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Pinsean Easláinte │€141.70 │€141.70 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│State (Non-Contributory) Pension │€150.00 │The State Pension (Non-Contributory) is not paid for qualified adults over 66</seg></tuv>
+  <tuv xml:lang="ga"><seg>│ │ │Nuair a shroicheann dodo Dhuine │ │Pinsean Stáit │ │Fásta Cáilithe │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When your qualified adult reaches 66 they can apply for a State (Non-Contributory) Pension in their own right</seg></tuv>
+  <tuv xml:lang="ga"><seg>│(Neamh-Ranníocach)│€150.00 │66 féidir leo iarratas a dhéanamh │ │ │ │ar Phinsean Stáit │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Illness Benefit, │ │ │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Breoiteachta, │ │ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Jobseeker's Benefit, │ │ │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Sochar │ │ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Incapacity Supplement, │ │ │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Cuardaitheora │ │ │ │Poist, │ │ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Injury Benefit, │ │ │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Forlíonadh │ │ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Health and Safety Benefit, │ │ │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Éagumais, Sochar │ │ │ │Díobhála, │ │ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Disability Allowance, │€128.10 │€128.10 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Sábháilteachta, │€128.10 │€128.10 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Blind Pension, │ │ │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Liúntas │ │ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Jobseeker's Allowance, │ │ │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Cuardaitheora │ │ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Farm Assist, │ │ │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Poist, │ │ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Pre-Retirement Allowance and │ │ │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Liúntas │ │ │ │Réamhscoir, │ │ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Supplementary Welfare Allowance │ │ │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Liúntas Leasa │ │ │ │Forlíontach │ │ │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To get an Increase for a Qualified Adult you must give details about your adult dependant on your claim form when you are making your claim for a social welfare payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun Méadú do Dhuine Fásta Cáilithe a fháil, caithfidh tú sonraí a thabhairt faoi do chleithiúnaí aosaigh ar d'fhoirm éilimh nuair atá tú ag déanamh éilimh ar íocaíocht leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you did not claim for your adult dependant at the time you were making your claim, contact the section in the Department of Social Protection which pays your social welfare payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura ndearna tú éileamh dod' chleithiúnaí aosaigh ag an am go ndearna tú d'éileamh, déan teagmháil leis an rannóg den Roinn Coimirce Sóisialaí a íocann d'íocaíocht leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You apply to the section in the Department of Social Protection that pays your social welfare payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann an Roinn Coimirce Sóisialaí uimhir teileafóin Lóghlao ar fáil; is costas ghlaoch áitiúil a ghearrfar ort ar an nglaoch</seg></tuv>
+</tu>
+</body>
+</tmx>

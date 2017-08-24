@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Replacement Candidates for the European Parliament</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ath-Iarrthóirí do Pharlaimint na hEorpa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are no by-elections for the European Parliament</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhíonn fo-thoghcháin ann do Pharlaimint na hEorpa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If an MEP dies or resigns, the vacancy is filled from a replacement list</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chailltear Feisire Eorpach nó má éiríonn sé/sí as oifig, líontar an folúntas ó liosta ionaid iarrthóirí incháilithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A replacement list is a list of those candidates eligible for election as members of the European Parliament</seg></tuv>
+  <tuv xml:lang="ga"><seg>Liosta iarrthóirí intofa mar bhaill de Pharlaimint na hEorpa í liosta ath-iarrthóirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Before the close of nominations for a European election, each registered political party or independent candidate may present to the returning officer a list of replacement candidates</seg></tuv>
+  <tuv xml:lang="ga"><seg>Roimh an am atá leagtha síos le iarrthóirí a bheith ainmnithe do thoghchán Eorpach a bheith istigh is féidir le gach páirtí polaitiúil nó iarrthóir neamhspléach liosta ath-iarrthóirí a chur ar fáil don cheann comhairimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Registered political parties may submit a list with up to 6 names more than the number of candidates presented for election by that party in that constituency</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le páirtí polaitiúil cláraithe liosta le suas le 6 sa bhreis ar an méid iarrthóirí atá ag an bpáirtí sin ag seasamh sa toghchán sa toghcheantar sin a chur ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The replacement list for a non-party or independent candidate in any constituency may contain up to 4 names</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir suas le 4 a bheith ar liosta na n-ath-iarrthóirí ag iarrthóir nach bhfuil aon pháirtí luaite leis/léi nó ag iarrthóir neamhspléach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A person cannot be nominated as a replacement candidate in more than one constituency</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir duine a ainmniú mar ath-iarrthóir i níos mó ná toghcheantar amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, a person who is actually a candidate in the election can also be a replacement candidate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach, duine atá ina (h)iarrthóir sa toghchán is féidir leis/léi a bheith freisin ar liosta na n-ath-iarrthóirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that a candidate who was not elected but who was also in the replacement list may be eligible to fill any casual vacancies that arise</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin iarrthóir nach n-éiríonn leis/léi a bheith tofa ach a bhí freisin ar liosta na n-ath-iarrthóirí d'fhéadfadh sé/sí a bheith intofa le aon fholúntas a thagann aníos a líonadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the European Parliament election, the ballot papers will refer to the replacement list for each candidate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh tagairt i dtoghchán do Pharlaimint na hEorpa, ar na páipéir bhallóide don liosta ath-iarrthóirí do gach iarrthóir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The replacement lists are also displayed at each polling station</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn na liostaí ath-iarrthóirí curtha ar fáil freisin ag gach ionad vótála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If an MEP dies or resigns, the person who is at the top of his or her replacement list and is willing to become an MEP fills the vacancy</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chailltear Feisire Eorpach nó má éiríonn Feisire as oifig, má tá an duine atá ag barr a liosta ath-iarrthóirí sásta a bheith ina F(h)eisire Eorpach líonann sé/sí an folúntas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If there is no list, there are no replacements left or those on the list are unwilling or ineligible to become MEPs, Dáil Eireann may select a person to fill the vacancy from the replacement lists presented for that constituency at the European Parliament election before the last European Parliament election</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna bhfuil aon liosta ann, nó muna bhfuil aon ath-iarrthóirí fágtha, nó muna bhfuil na daoine ar an liosta sásta a bheith nó intofa mar Fheisirí Eorpacha is féidir le Dáil Éireann duine a roghnú leis an bhfolúntas a líonadh ó na liostaí ath-iarrthóirí a cuireadh ar fáil don toghcheantar sin ag an toghchán do Pharlaimint na hEorpa roimh an toghchán deireanach do Pharlaimint na hEorpa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is more information on european elections on the website of the Department of Housing, Planning, Community and Local Government</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh eolais maidir le toghcháin na hEorpa ar láithreán gréasáin na Roinne Tithíochta, Pleanála​​, Pobail agus Rialtais Áitiúil</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Question time in Dáil Éireann</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tráth na gceisteanna i nDáil Éireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Dáil Éireann allocates a certain amount of time on Tuesdays, Wednesdays and Thursdays during which deputies (TDs) may ask questions of members of the Government relating to public affairs connected with their departments or on matters of administration for whch they are officially responsible</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann Dáil Éireann méid áirithe ama ar leataobh ar an Máirt, an Chéadaoin agus Déardaoin d’fhonn gur féidir le teachtaí dála (TDanna) ceisteanna a chur ar chomhaltaí an Rialtais a bhaineann le gnóthaí poiblí maidir lena rannóga nó le ceisteanna riaracháin a bhfuil freagracht oifigiúil orthu ina leith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The questions are referred to as parliamentary questions or PQs</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar ceisteanna parlaiminteacha nó cpanna ar na ceisteanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Taoiseach answers questions on Tuesdays in respect of matters relating to the administration of his own department</seg></tuv>
+  <tuv xml:lang="ga"><seg>Freagraíonn an Taoiseach ceisteanna ar an Máirt maidir le ceisteanna a bhaineann le riar a rannóige féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Other members of the Government reply to questions on an agreed rota basis</seg></tuv>
+  <tuv xml:lang="ga"><seg>Freagraíonn comhaltaí eile an Rialtais ceisteanna ar bhonn uainchlár comhaontaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The rota repeats itself every 5 weeks or so, giving the opportunity to Deputies to question each minister on a regular basis</seg></tuv>
+  <tuv xml:lang="ga"><seg>Atosaítear an t-uainchlár gach 5 seachtaine nó mar sin de, agus tugtar an deis do na Teachtaí Dála chun ceist a chur ar gach aire ar bhonn rialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Currently, the Minister for Health sends questions referring to the executive function of the health service to the HSE for reply</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi láthair, seolann an tAire Sláinte ceisteanna a bhaineann le feidhm feidhmiúcháin na seirbhíse sláinte chuig FSS go dtabharfar freagra orthu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>TDs are limited to asking each minister 2 oral questions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirtear teorainn ar TDanna gan ach 2 cheist ó bhéal a chur ar gach aire</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Every day, 5 oral questions are given priority</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gach lá, tugtar tús áite do 5 cheist ó bhéal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The priority questions are shared between the parties according to party strength</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar na ceisteanna a dtugtar tús áite dóibh a roinnt idir na páirtithe de réir threise an pháirtí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As well as oral questions in question time, TDs can submit written questions seeking a written answer</seg></tuv>
+  <tuv xml:lang="ga"><seg>Anuas ar cheisteanna ó bhéal le linn thráth na gceisteanna, féadfaidh TDanna ceisteanna scríofa a sheoladh ina lorgaítear freagra scríofa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is no limit to the amount of written questions that a TD can ask the Government</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní leagtar aon teorainn ar an méid ceisteanna scríofa ar féidir le TD a chur ar an Rialtas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The member of the Government must be given 3 days' notice for priority oral questions and 4 days' notice for other questions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór fógra 3 lá a thabhairt don chomhalta Rialtais le haghaidh ceisteanna ó bhéal a dtugtar tús áite dóibh agus fógra 4 lá i dtaobh ceisteanna eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Sometimes a very urgent matter of public importance will suddenly arise</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tiocfaidh ceist an-phráinneach lena mbaineann tábhacht phoiblí aníos go tobann, amanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Ceann Comhairle may accept questions about an urgent issue at very short notice</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh an Ceann Comhairle glacadh le ceisteanna faoi shaincheist phráinneach i ndiaidh fógra an-ghearr a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These questions are called "private notice" questions and are taken at the end of question time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar ceisteanna “fógra phríobháidigh” ar na ceisteanna seo agus glactar leo ag deireadh thráth na gceisteanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Oireachtas publishes the replies to parliamentary questions daily as part of the Dáil Debates</seg></tuv>
+  <tuv xml:lang="ga"><seg>Foilsíonn an tOireachtas na freagraí ar na ceisteanna parlaiminteacha gach lá mar chuid de Dhíospóidí na Dála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Dáil debates are published incrementally throughout a sitting day</seg></tuv>
+  <tuv xml:lang="ga"><seg>Foilsítear díospóireachtaí na Dála ar bhonn breisíoch le linn lá suite</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All proceedings before 7pm are published before midnight, the remainder being added the following day</seg></tuv>
+  <tuv xml:lang="ga"><seg>Foilsítear gach imeacht roimh 7pm roimh mheán oíche, agus cuirtear an fuílleach díobh leis an lá dar gcionn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Seanad debates are published incrementally on a same day or next day basis</seg></tuv>
+  <tuv xml:lang="ga"><seg>Foilsítear díospóireachtaí an tSeanaid ar bhonn breisíoch ar bonn an lae chéanna nó an lae dar gcionn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Replies to questions tabled by members for written response by ministers are published at the end of each day's Dáil proceedings</seg></tuv>
+  <tuv xml:lang="ga"><seg>Foilsítear freagraí ar cheisteanna a rangaigh comhaltaí le haghaidh freagra i scríbhinn ag Airí ag deireadh gach lá imeachta sa Dáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Official Report of each committee meeting is published within a week at latest, but generally within 2 to 3 working days</seg></tuv>
+  <tuv xml:lang="ga"><seg>Foilsítear Tuarascáil Oifigiúil chruinniú gach coiste laistigh de sheachtain ar a dhéanaí, ach is gnách go bhfoilsítear iad laistigh de 2/3 lá oibre</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,501 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>It is a legal requirement to have motor tax if you want to drive your vehicle in a public place</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ceanglas dlíthiúil é mótarcháin a bheith íoctha agat más mian leat d’fheithicil a thiomáint in áit phoiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Motor tax is a charge imposed by the Government on some motor vehicles</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is muirear mótarcháin a ghearrann an Rialtas ar roinnt mótharfheithiclí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Motor tax is collected by local authorities</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bailíonn údaráis áitiúla mótarcháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>How your vehicle is assessed for motor tax depends on the type of vehicle you have</seg></tuv>
+  <tuv xml:lang="ga"><seg>Braitheann conas a mheasúnaítear d’fheithicil i dtaobh mótarchánach ar shaghas na feithicle atá agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, it is assessed on the basis of:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, déantar measúnú uirthi ar bhonn an mhéid seo a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• CO2 emission bands for private cars registered since July 2008 and private cars registered between January and June 2008 which opted for this basis of assessment. (Does not apply to second-hand imports that were registered abroad prior to 2008)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bandaí astaíochtaí CO² le haghaidh gluaisteáin phríobháideacha a cláraíodh ó Iúil 2008 i leith agus gluaisteáin phríobháideacha a cláraíodh idir Eanáir agus Meitheamh 2008 a roghnaigh an bonn seo measúnaithe (Ní bhaineann seo le hiompórtálacha athláimhe a cláraíodh thar lear roimh 2008)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Engine capacity (cc) for private cars registered before July 2008 and private goods vehicles, such as vans</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Toilleadh innill (cc) le haghaidh gluaisteáin phríobháideacha a cláraíodh roimh Iúil 2008 agus feithiclí earraí príobháideacha, ar nós veaineanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Unladen weight for commercial goods vehicles</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Meáchan neamhualaithe le haghaidh feithiclí earraí tráchtála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Not only are you obliged by law to pay motor tax to drive your vehicle, you are also required to display evidence that you have paid (that is, a current tax disc) on the windscreen of your vehicle</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní hamháin go leagann an dlí dualgas ort mótarcháin chun d’fheithicil a thiomáint, ach ceanglaítear ort fianaise a thaispeáint gur íoc tú aisti (is é sin, diosca reatha cánach) ar ghaothscáth d’fheithicle</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Failure to display a current tax disc on your vehicle is considered a motoring offence and will result in a €60 fixed-charge fine issued by a traffic warden or a Garda</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má theipeann ort diosca reatha cánach a thaispeáint ar d’fheithicil, meastar go bhfuil cion tiomána déanta agat agus eascróidh fíneáil mhuirir sheasta €60 as a eiseoidh maor tráchta nó Garda</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Certain vehicles are exempt from the requirement to pay motor tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá feithiclí áirithe díolmhaithe ón gceanglas chun mótarcháin a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if they are used in a public place a current tax disc must be displayed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má eisítear iad in áit phoiblí, caithfear diosca reatha cánach a thaispeáint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Among the vehicles exempt from the requirement to pay motor tax are:</seg></tuv>
+  <tuv xml:lang="ga"><seg>I measc na bhfeithiclí atá díolmhaithe ón gceanglas chun mótarcháin a íoc, tá an méid a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Vehicles exempted under the Disabled Drivers and Disabled Passengers (Tax Concessions) Regulations, 1994 (SI 353/1994)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Feithiclí a dhéantar a dhíolmhú faoi na Rialacháin um Thiománaithe faoi Mhíchumas agus Paisinéirí faoi Mhíchumas (Lamháltais Chánach), 1994 (I.R</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Vehicles (including any cycle with an attachment for propelling it by mechanical power) not exceeding 400 kg in weight (unladen), which is adapted and used for invalids</seg></tuv>
+  <tuv xml:lang="ga"><seg>353/1994) • Feithiclí (aon rothar san áireamh ar a bhfuil ceangal chun é a thiomáint de chumhacht mheicniúil) nach bhfuil níos troime ná 400 kg meáchain (neamhualaithe), a dhéantar a oiriúnú agus a úsáidtear d’easláin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find a list of exempt vehicles in the motor tax tables which are available on the Department of Housing, Planning, Community and Local Government website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú teacht ar liosta d’fheithiclí díolmhaithe sna táblaí mótarchánach atá ar fáil ar láithreán gréasáin na Roinne Comhshaoil, Pobail agus Rialtais Áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Since January 2016, the rate of motor tax is reduced for all commercial goods vehicles above 4,000kgs, with a new annual rate of €500 for vehicle between 4,000 kg and 12,000 kg and €900 for vehicles over 12,000 kg</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó Eanáir 2016 i leith, laghdaítear an ráta mótarchánach do gach feithicil earraí tráchtála os cionn 4,000 kg, agus tugadh ráta nua bliantúil €500 d’fheithiclí idir 4,000 kg agus 12,000 kg agus ráta €900 d’fheithiclí os cionn 12,000 kg</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Change of vehicle ownership and motor tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Athrú úinéireacht feithicle agus mótarcháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you sell your vehicle or trade it in for a replacement, you must register the change of ownership</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhíolann tú d’fheithicil nó má dhéanann tú í a thrádáil isteach le haghaidh feithicil ionaid, ní mór duit an t-athrú úinéireachta a chlárú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is done in one of two ways and depends on whether the vehicle was first registered before or after 1 January 1993</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar seo ar bhealach amháin as dhá bhealach agus braitheann seo ar cé acu ar cláraíodh nó nár cláraíodh an fheithicil i dtosach báire roimh nó i ndiaidh an 1 Eanáir 1993</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You cannot tax your new vehicle until the registration of the change of ownership has gone through</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leat íoc as cáin ar d’fheithicil nua go dtí go bhfuil clárú an athraithe úinéireachta tugtha chun críche</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can check the status of the vehicle on motortax.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú stádas na feithicle a sheiceáil ar motortax.ie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You then renew the motor tax on the vehicle using Form RF100A or online as described below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ansin déanann tú an mhótarcháin a athnuachan ar an bhfeithicil agus Foirm RF100A á húsáid nó ar líne, faoi mar a ndéantar cur síos air thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the motor tax on your new vehicle has already expired, you are not liable for the arrears period from the expiry of the last tax disc to the end of the month immediately preceding the date you bought it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá an mhótarcháin ar d’fheithicil nua éagtha cheana féin, níl tú faoi dhliteanas íoc as an tréimhse riaráistí ó éag an diosca cánach deiridh go dtí deiridh na míosa díreach roimh an dáta a cheannaigh tú í</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is an offence to drive without paying motor tax, so you should not drive until you have received confirmation that the registration has occurred and you have paid the motor tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is cion é tiomáint gan mótarcháin a íoc, mar sin, níor cheart duit tiomáint go dtí go bhfuil deimhniú faighte agat gur tharla an clárúchán agus gur íoc tú an mhótarcháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read more in our document on change of vehicle ownership</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú níos mó a léamh inár gcáipéis ar athrú úinéireachta feithicle</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Replacing a lost tax disc</seg></tuv>
+  <tuv xml:lang="ga"><seg>Diosca cánach a cailleadh a ionadú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is possible to obtain replacement documents associated with motor tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir cáipéisí ionaid a fháil a bhaineann le mótarcháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>List of documents and the cost of their replacement is as follows;</seg></tuv>
+  <tuv xml:lang="ga"><seg>Soláthraítear thíos liosta cáipéisí agus an costas a bhíonn ar a n-ionadú;</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Document │Replacement cost │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Cáipéis │Costas ionaid │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Tax disc │€6 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Diosca cánach │€6 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Registration book/certificate │€12 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Leabhar/deimhniú cláraithe │€12 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Vehicle licensing certificate │€12 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Deimhniú ceadúnaithe feithicle │€12 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To obtain replacement documents, complete Form RF134 (pdf) and have this form witnessed by a member of the Garda Síochána at a Garda station</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun cáipéisí ionaid a fháil, comhlánaigh Foirm RF134 (pdf) agus iarr go mbeidh comhalta den Gharda Síochána mar fhinné ar an bhfoirm seo ag stáisiún Gardaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Forward your completed form with the appropriate fee to your Motor Tax Office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seol d’fhoirm chomhlánaithe leis an táille chuí ar aghaidh chuig d’Oifig Mhótarchánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is possible in certain circumstances, to claim a refund of motor tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir, faoi chúinsí áirithe, chun aisíocaíocht ar mhótarcháin a éileamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your application for a refund, should be made directly to your local motor tax office, on Form RF120 (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart go ndéanfar d’iarratas ar aisíocaíocht go díreach le d’oifig mhótarchánach áitiúil, ar Fhoirm RF120 (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Circumstances where you may claim a refund of motor tax include;</seg></tuv>
+  <tuv xml:lang="ga"><seg>I measc na gcúinsí inar féidir leat aisíocaíocht ar mhótarcháin a éileamh, tá an méid a leanas;</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The vehicle has been scrapped/destroyed or sent permanently out of the State</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Rinneadh an fheithicil a bhriseadh/a mhilleadh nó a seoladh go buan lasmuigh den Stát</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The vehicle has been stolen and has not been recovered by the owner</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Goideadh an fheithicil agus níor éirigh leis an úinéir í a aisghabháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The vehicle has not been taken out or used in a public place at any time since the issue of the current disc</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Níor glacadh an fheithicil amach nó níor úsáideadh a fheithicil in áit phoiblí ag aon tráth ó eisíodh an diosca reatha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The owner of the vehicle has ceased, because of illness, injury or other physical disability, to use the vehicle</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Chuir úinéir na feithicle, mar gheall ar bhreoiteacht, gortú nó míchumas fisiciúil eile, deireadh le húsáid a bhaint as an bhfeithicil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The owner of the vehicle has ceased, because of absence from the state for business or educational purposes, to use the vehicle</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Chuir úinéir na feithicle, mar gheall ar asláithreacht ón stát ar mhaithe le cuspóirí gnó nó oideachais, deireadh le húsáid a bhaint as an bhfeithicil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The owner of the vehicle has ceased, because of service overseas with the Defence Forces, to use the vehicle</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Chuir úinéir na feithicle, mar gheall ar sheirbhís thar lear leis na Fórsaí Cosanta, deireadh le húsáid a bhaint as an bhfeithicil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Tax discs must be surrendered immediately as refunds are generally calculated from the first of the month following the surrender of the disc</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfear dioscaí cánach a thabhairt suas láithreach mar gheall go ríomhtar aisíocaíochtaí, go ginearálta, ón gcéad mhí i ndiaidh an diosca a thabhairt suas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A minimum of three unexpired whole calendar months must be left on the disc when surrendered</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór trí mhí iomlána neamhéagtha féilire, ar a laghad, a fhágáil ar an diosca nuair a thugtar suas é</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where a vehicle has been scrapped you will need a certificate of destruction issued by an End-of-Life Vehicle (ELV) Authorised Treatment Facility</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás go ndearnadh feithicil a bhriseadh, teastóidh deimhniú scriosta uait a eisíonn Saoráid Chóireála Údaraithe Feithicle a bhfuil a Ré Caite (ELV)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Vehicle off the road</seg></tuv>
+  <tuv xml:lang="ga"><seg>Feithicil nach bhfuil á tiomáint ar an mbóthar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>New procedures have been introduced for declaring a vehicle is temporarily off the road so that you do not have to pay motor tax for that period</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugadh nósanna imeachta nua lena dhearbhú nach bhfuil feithicil á tiomáint ar an mbóthar ionas nach bhfuil ort íoc as mótarcháin don tréimhse sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Since 1 October 2013 you are required to declare in advance that your vehicle will be off the road and not in use for a period of between 3 and 12 months using Declaration of Non-Use of a Motor Vehicle Form RF150 (pdf), which you submit to your motor tax office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ón 1 Deireadh Fómhair 2013, tá ort a dhearbhú roimh ré nach mbeidh d’fheithicil á tiomáint ar an mbóthar agus nach mbainfear úsáid aisti ar feadh tréimhse idir 3 agus 12 mhí agus leas á bhaint as Dearbhú um Neamhúsáid Mótarfheithicle Foirm RF150 (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The declaration of non-use must be made in the same month that your current motor tax disc expires</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór an dearbhú um neamhúsáid a dhéanamh sa mhí chéanna ina n-éagann do dhiosca reatha mótarchánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If arrears in motor tax are due these must be paid in full and you must also pay a minimum of 3 months motor tax, before a declaration of non-use can be made</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá riaráistí mótarchánach le híoc, ní mór iad seo a íoc ina n-iomláine agus ní mór mótarcháin a íoc ar feadh 3 mhí, ar a laghad, chomh maith leis sin, sular féidir an dearbhú um neamhúsáid a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A motor tax disc is issued for 3, 6 or 12 months and how the rate is calculated depends on the type of vehicle</seg></tuv>
+  <tuv xml:lang="ga"><seg>Eisítear diosca mótarchánach ar feadh 3, 6, nó 12 mhí agus braitheann conas a ríomhtar an ráta ar shaghas na feithicle</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Motor tax applies to the following vehicles: private cars, motorcycles, goods vehicles, taxis, large public service vehicles, (PSV's)/community buses and agricultural, and commercial building construction vehicles</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann mótarcháin leis na feithiclí a leanas: gluaisteáin phríobháideacha, gluaisrothair, feithiclí earraí, tacsaithe, feithiclí móra seirbhíse poiblí (FSPanna)/busanna pobail agus feithiclí talmhaíochta agus feithiclí tógála foirgníocht tráchtála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>On the Department of Housing, Planning, Community and Local Government's website you can view the motor tax rates</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar láithreán gréasáin na Roinne Comhshaoil, Pobail agus Rialtais Áitiúil, féadfaidh tú súil a chaitheamh ar na rátaí mótarchánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Motor tax rates are also available at motortax.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chomh maith leis sin, tá rátaí mótarchánach ar fáil ag motortax.ie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>On the Sustainable Energy Authority of Ireland (SEAI) Power of One website you can check the CO2 emissions levels for different car models</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar láithreán gréasáin Power of One de chuid Údarás Fuinnimh Inmharthana na hÉireann (an SEAI), féadfaidh tú súil a chaitheamh ar na leibhéil astaíochtaí CO² le haghaidh samhlacha éagsúla gluaisteáin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A 'vintage' vehicle for motor taxation purposes is a vehicle that is 30 or more years old</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ionann feithicil ‘seanré’, ar mhaithe le cuspóirí cánachais, agus feithicil atá 30 bliain d’aois nó níos sine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In determining whether or not the vehicle qualifies for 'vintage' status - the chassis number of the vehicle and the vehicle registration book/vehicle registration certificate must clearly display the age of the vehicle</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a dheimhnítear cé acu an gcáilíonn nó nach gcáilíonn an fheithicil do stádas ‘seanré’ – ní mór go léirítear go soiléir ar uimhir fonnaidh na feithicle agus leabhar cláraithe/deimhniú cláraithe na feithicle aois na feithicle</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Regarding the purchase of new or second-hand vehicles, there is no charge for registering Change of Ownership details at Motor Taxation Offices or at the Vehicle Registration Unit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Maidir le feithiclí nua nó athláimhe a cheannach, ní ghearrtar aon mhuirear ar shonraí faoi Athrú Úinéireachta a chlárú ag Oifigí Mótarchánach nó ag an Aonad Clárúcháin Feithiclí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can tax a vehicle online, or by post or visit to a Motor Taxation Office in the county in which the vehicle is ordinarily kept</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú cáin a íoc ar fheithicil ar líne, nó tríd an bpost nó trí chuairt a thabhairt ar Oifig Mhótarchánach sa chontae ina gcoimeádtar an fheithicil de ghnáth</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Taxing a new vehicle</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cáin a íoc ar fheithicil nua</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your vehicle is new, you need a 'First Motor Tax Application' Form RF100</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá d’fheithicil nua, teastaíonn ‘Iarratas ar Mhótarcháin den Chéad Uair’ Foirm RF100 uait</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is available from the motor dealer or person from whom you bought your vehicle</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá seo ar fáil ón déileálaí gluaisteán nó ón duine ónar cheannaigh tú d’fheithicil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you are applying for first motor tax, you must present the following documents at your local Motor Taxation Office:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a dhéanann tú iarratas ar mhótarcháin den chéad uair, ní mór duit na cáipéisí a leanas a sholáthar ag d’Oifig Mhótarchánach áitiúil;</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Form RF100 (motorcycle (pdf), other vehicle (pdf))</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Foirm RF100 gluaisrothar (pdf), feithicil eile (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A certificate of approval from Revenue for a disabled driver/passenger is also required if the vehicle is exempted from motor tax under the Disabled Drivers and Disabled Passengers (Tax Concessions) Regulations</seg></tuv>
+  <tuv xml:lang="ga"><seg>Teastaíonn deimhniú faofa ó na Coimisinéirí Ioncaim do thiománaí/phaisinéir faoi mhíchumas, chomh maith, má tá an fheithicil díolmhaithe ó mhótarcháin faoi na Rialacháin um Thiománaithe faoi Mhíchumas agus Paisinéirí faoi Mhíchumas (Lamháltais Chánach)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can also tax a new vehicle online</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú cáin a íoc ar fheithicil nua ar líne, chomh maith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Goods or commercial vehicles</seg></tuv>
+  <tuv xml:lang="ga"><seg>Feithiclí earraí nó tráchtála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are additional requirements when taxing a goods/commercial vehicle</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá riachtanais bhreise ann nuair a ghearrtar cáin ar fheithicil earraí/tráchtála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the unladen weight exceeds 1,524 kg (3,500 kg Gross Vehicle Weight), a weight docket (from an authorised weighbridge) is required</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má sháraíonn an t-ualach neamhualaithe 1,524 kg (Ollualach Feithicle 3,500 kg), teastaíonn duillín meáchain (ó dhroichead meáite údaraithe)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the unladen weight does not exceed 1,524 kg (3,500 kg Gross Vehicle Weight), a goods declaration form RF111A (pdf) (from Motor Tax Office) is required</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura sáraíonn an t-ualach neamhualaithe 1,524kg (Ollualach Feithicle 3,500 kg), teastaíonn foirm dhearbhaithe earraí RF111A (pdf) (ó Oifig Mhótarchánach)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This must be witnessed in a Garda station</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go mbeidh comhalta den Gharda Síochána i Stáisiún Gardaí mar fhinné air seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Additional proof that the vehicle is being appropriately taxed may be required, such as:</seg></tuv>
+  <tuv xml:lang="ga"><seg>B’fhéidir go dteastóidh fianaise bhreise go bhfuil an cháin chuí á gearradh ar an bhfeithicil, ar nós an mhéid seo a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Current commercial insurance certificate for the vehicle</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Deimhniú reatha árachas tráchtála don fheithicil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Evidence of registration for VAT</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Fianaise ar chlárú le haghaidh CBL</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Notice of Tax Registration Form</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Fógra ar Fhoirm Chláraithe Cánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are an employee and you use your vehicle solely for the carriage of goods in the course of your employment, you will require a letter from your employer to that effect</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más fostaí thú agus má úsáideann tú d’fheithicil díreach ar mhaithe le hearraí a iompar i gcaitheamh d’fhostaíochta, teastóidh litir uait ó d’fhostóir a dhearbhaíonn amhlaidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The letter should also provide information about your employer, such as, the nature of the business and its Tax Registration Number</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart go dtabharfaí faisnéis sa litir, chomh maith, faoi d’fhostóir, ar nós chineál an ghnólachta agus a Uimhir Chláraithe Cánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the vehicle is one year old or over (for example, imported) a certificate of roadworthiness/pass statement (from an authorised tester) is required</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá an fheithicil bliain d’aois nó níos sine (mar shampla, má rinneadh í a iompórtáil), teastaíonn deimhniú ródacmhainneachta/ráiteas pas (ó thástálaí údaraithe)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the vehicle is imported, a weight docket (from an authorised weighbridge) is required</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá an fheithicil iompórtáilte, teastaíonn duillín meáite (ó dhroichead meáite údaraithe)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Other vehicles have additional requirements as follows:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann na riachtanais bhreise a leanas le feithiclí eile:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• PSV licence in the case of small and large public service vehicles</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ceadúnas FSP i gcás feithiclí beaga agus móra seirbhíse poiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Article 60 licence for school buses</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ceadúnas Airteagal 60 le haghaidh busanna scoile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A certificate of roadworthiness/pass statement issued by an authorised tester for large public service vehicles and ambulances that are 1 year old or over</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Eisíonn tástálaí údaraithe feithiclí móra seirbhíse poiblí agus otharcharranna atá 1 bhliain d’aois nó níos sine deimhniú ródacmhainneachta/ráiteas pas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A recovery vehicle declaration Form RF111B (from Motor Tax Office) for recovery vehicles</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Foirm dhearbhaithe feithicil tarrthála Foirm RF111B (ó Oifig Mhótarchánach) le haghaidh feithiclí tarrthála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Renewing your motor tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Do mhótarcháin a athnuachan</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can renew your motor tax up to 1 month before your tax is due to expire</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú do mhótarcháin a athnuachan a fhad le 1 mhí sula mbíonn do cháin le dul in éag</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In general, two forms are available for the purpose of renewing motor tax - Motor Tax Renewal Form RF100A (pdf) and Motor Tax Renewal Form RF100B</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, tá dhá fhoirm ar fáil ar mhaithe le mótarcháin a athnuachan – Foirm Athnuachana Mótarchánach RF100A (pdf) agus Foirm Athnuachana Mótarchánach RF100B</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The only difference between these two forms is that the RF100B is a computer-printed form which is automatically posted to you about a month before your tax is due to expire, while the RF100A is available from your Motor Taxation Offices, public libraries and Garda stations</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is í an t-aon difríocht idir an dá fhoirm seo ná gur foirm ríomhchlóite í RF100B a sheoltar chugat go huathoibríoch sa phost thart ar mhí sula mbíonn do cháin le dul in éag, agus tá RF100A ar fáil ó d’Oifigí Mótarchánach, leabharlanna poiblí agus stáisiúin Ghardaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Not everyone receives a form in the post, so it is up to you to keep check of when your tax expires</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní fhaigheann gach duine foirm sa phost, mar sin, is fútsa a bhíonn sé a sheiceáil cathain a rachaidh do cháin in éag</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The completed form should be returned to your local Motor Taxation Office in person or by post</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart an fhoirm chomhlánaithe a sheoladh ar ais chuig d’Oifig Mhótarchánach áitiúil i bpearsan nó sa phost</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(See 'Taxing your vehicle online' below.) If you apply in person you will receive your new tax disc there and then</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Féach ‘Cáin a íoc ar d’fheithicil ar líne’ thíos.) Má dhéanann tú iarratas i bpearsan, gheobhaidh tú do dhiosca nua láithreach bonn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you make a postal application, you should allow up to 3 weeks to receive your new disc</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéanann tú iarratas sa phost, ba cheart duit a fhad le 3 seachtaine a thabhairt sula bhfaighidh tú do dhiosca nua</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• To renew your motor tax where there is no change in owner or vehicle details (for example, name, address, or engine size) you can complete Form RF100B (computerised reminder form) or Form RF100A</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Chun do mhótarcháin a athnuachan sa chás nach dtagann aon athrú ar an úinéir nó ar shonraí na feithicle (mar shampla, ainm, seoladh, nó toilleadh innill), féadfaidh tú Foirm RF100B a chomhlánú (foirm mheabhrúcháin ríomhairithe) nó Foirm RF100A a chomhlánú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• To renew your motor tax where there is a change in owner details (for example, name) you must use Form RF100A</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Chun do mhótarcháin a athnuachan sa chás go dtagann athrú ar shonraí an úinéara (ainm an úinéara, mar shampla), ní mór duit Foirm RF100A a úsáid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• To renew your motor tax where there is a change in vehicle details (for example, engine size) you must use Change of Particulars Form RF111 (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Chun do mhótarcháin a athnuachan sa chás go dtagann athrú ar shonraí na feithicle ( mar shampla, toilleadh innill), ní mór duit Foirm um Athrú Critéar RF111 (pdf) a úsáid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The appropriate fee must be submitted with your renewal form. A certificate of approval from Revenue for a disabled driver or passenger is also required if the vehicle is exempted from motor tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór an táille chuí a sheoladh ar aghaidh le d’fhoirm athnuachana Teastaíonn deimhniú faofa ó na Coimisinéirí Ioncaim do thiománaí/phaisinéir faoi mhíchumas, chomh maith, má tá an fheithicil díolmhaithe ó mhótarcháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Goods and other vehicles</seg></tuv>
+  <tuv xml:lang="ga"><seg>Feithiclí earraí agus feithiclí eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are additional requirements for goods and other vehicles when renewing your motor tax:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá riachtanais bhreise ann i dtaca le feithiclí earraí agus eile nuair a dhéanann tú do mhótarcháin a athnuachan</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A certificate of roadworthiness (CRW) issued by an authorised tester for all goods vehicles, buses, coaches and ambulances that are 1 year old or over</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Deimhniú ródacmhainneachta (DRA) a eisíonn tástálaí údaraithe do gach feithicil earraí, bus, cóiste agus otharcharr atá 1 bhliain d’aois nó níos sine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A PSV licence for small and large public service vehicles</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ceadúnas FSP i gcás feithiclí beaga agus móra seirbhíse poiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Article 60 licence for school buses</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ceadúnas Airteagal 60 le haghaidh busanna scoile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Taxing your vehicle online</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cáin a íoc ar d’fheithicil ar líne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>At motortax.ie you can tax a new vehicle or renew your motor tax online</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat cáin a íoc ar fheithicil nua nó do mhótarcháin a athnuachan ar líne ag motortax.ie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When taxing a new vehicle you need Form RF100 (available from you motor dealer)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a íocann tú cáin ar fheithicil nua, teastaíonn Foirm RF100 uait (atá ar fáil ó do dhéileálaí gluaisteán)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When renewing your motor tax you need Form RF100B (computerised reminder form)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a bhíonn do mhótarcháin á hathnuachan agat, teastaíonn Foirm RF100B (foirm mheabhrúcháin ríomhairithe) uait</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can renew the motor tax on a second-hand vehicle you have recently purchased, but you must be the registered owner of the vehicle (see document on change of vehicle ownership)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú an mhótarcháin ar fheithicil athláimhe a cheannaigh tú le déanaí a athnuachan, ach ní mór gur tú féin úinéir cláraithe na feithicle (féach an cháipéis ar athrú úinéireacht feithicle)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You need your insurance details and a debit or credit card for paying the tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Teastaíonn do chuid sonraí árachais agus cárta dochair nó creidmheasa chun an cháin a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Only the following types of vehicles can be taxed online; private cars, motorcycles, agricultural tractors, excavators/diggers, combine harvesters, hearses, vehicles adapted for use by disabled persons, motor caravans (not for first taxing) and vintage or veteran vehicles</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir cáin a íoc ar líne ach ar na saghsanna a leanas d’fheithiclí; gluaisteáin phríobháideacha, gluaisrothair, tarracóirí talmhaíochta, tochaltóirí, comhbhuainteoirí, cóiste na marbh, feithiclí a oiriúnaítear d’úsáid ag daoine faoi mhíchumas, mótarcharbháin (seachas i gcás cáin a íoc den chéad uair) agus feithiclí seanré</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can renew motor tax for a goods/commercial vehicle online providing you have a certificate of roadworthiness which is valid from the beginning of the new motor tax period</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú mótarcháin a athnuachan a íoc ar fheithicil earraí/tráchtála ar líne a fhad agus go bhfuil deimhniú ródacmhainneachta agat atá bailí ó thús na tréimhse nua mótarchánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the unladen weight does not exceed 1,524 kg (3,500 kg Gross Vehicle Weight) you must have submitted goods declaration form RF111A to your local motor tax office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura sáraíonn an t-ualach neamhualaithe 1,524kg (Ollualach Feithicle 3,500 kg), ní mór gur sheol tú foirm dhearbhaithe earraí RF111A chuig d’oifig mhótarchánach áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Applying for a refund of motor tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Iarratas a dhéanamh ar aisíocaíocht mótarchánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To apply for a refund of motor tax, you need to download and complete form RF120 (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun iarratas a dhéanamh ar aisíocaíocht mótarchánach, is gá duit foirm RF120 a íoslódáil agus a chomhlánú (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your completed application form should include the current tax disc and the Vehicle Licensing/Registration Certificate or Registration Book</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart go dtabharfaí le fios ar d’fhoirm chomhlánaithe iarratais an diosca reatha cánacha agus an Deimhniú Ceadúnaithe/Cláraithe Feithicle nó Leabhar Cláraithe na Feithicle</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are claiming a refund on the basis of an illness or injury, you should include a medical certificate from your doctor or health professional</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá aisíocaíocht á héileamh agat ar bhonn galair nó gortú, ba cheart duit teastas dochtúra a chur san áireamh ó do dhochtúir nó do ghairmí sláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are claiming a refund on the basis of an absence from the State for business or educational purposes, you should have a letter from your employer or educational facilitity as evidence of this</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá aisíocaíocht á éileamh agat ar bhonn asláithreachta ón Stát ar mhaithe le cuspóirí gnó nó oideachasúla, ba cheart go mbeadh litir agat ó d’fhostóir nó do shaoráid oideachais mar fhianaise ina leith seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your completed application form should be returned to your Motor Tax Office who will process your application</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart d’fhoirm iarratais chomhlánaithe a sheoladh ar ais chuig d’Oifig Mhótarchánach, a dhéanfaidh d’iarratas a phróiseáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Pay your motor tax online at www.motortax.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat do mhótarcháin a íoc ar líne ag www.motortax.ie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Alternatively, contact the Motor Taxation Office of your local authority for more information and to pay your motor tax</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar rogha air sin, is féidir leat teagmháil a dhéanamh le hOifig Mhótarchánach d’údaráis áitiúil chun teacht ar bhreis faisnéise agus chun do mhótarcháin a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Contact information for all local authorities in Ireland is listed in your public telephone directory</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá faisnéis teagmhála do gach údarás áitiúil in Éirinn liostaithe i d’eolaire gutháin phoiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Vehicle Registration Unit at the Department of Transport, Tourism and Sport has responsibility for the registration of vehicle ownership</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an tAonad Clárúcháin Feithiclí sa Roinn Iompair, Turasóireachta agus Spóirt freagrach as úinéireacht feithiclí a chlárú</seg></tuv>
+</tu>
+</body>
+</tmx>

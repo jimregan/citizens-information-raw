@@ -1,0 +1,209 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Civil partnership and inheritance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Páirtnéireacht shibhialta agus oidhreachtúlacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your civil status affects your rights to inherit from your spouse/partner</seg></tuv>
+  <tuv xml:lang="ga"><seg>Téann do stádas sibhialta i bhfeidhm ar do chearta oidhreachtúlachta ó do chéile/pháirtnéir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Civil partners have the same legal right to inherit as spouses and the same rights on intestacy</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an ceart dlíthiúil céanna ag páirtnéireachtaí sibhialta teacht in oidhreacht agus atá ag céilí agus na cearta céanna ar dhíthiomnacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A will is automatically revoked when you register a civil partnership unless it was made in contemplation of that registration</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cúlghairtear uacht uaidh féin nuair a chláraíonn tú páirtnéireacht shibhialta mura ndearnadh é i rinnfheitheamh ar an gclárú sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A bequest in a will to a person who is a witness to the will or to that person’s civil partner is void</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tiomnacht in uacht do dhuine ar fianaise é don uacht nó do pháirtnéir shibhialta an duine sin curtha ar neamhní</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are not in a civil partnership, you may only inherit from your partner if you are left a bequest in a valid will</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil tú i bpáirtnéireacht shibhialta, féadfaidh tú teacht in oidhreacht ó do pháirtnéir má fhágtar tiomnacht agat in uacht bhailí amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, a civil partner is entitled to what is called a "legal right share" of their deceased civil partner's estate even if:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá páirtnéir shibhialta i dteideal ar a dtugtar ‘cuid cheart dhlíthiúil’ d’eastát a bpáirtnéir shibhialta nach maireann, áfach, fiú:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• there is no will</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Mura bhfuil aon uacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• the will is invalid</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má tá an uacht neamhbhailí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• there is a valid will, but it leaves little or nothing to the surviving civil partner</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má tá uacht bhailí ann, ach nch bhfágann sí ach beagán nó rud ar bith don pháirtnéir sibhialta marthanaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The civil status of the deceased person may also indirectly affect the inheritance rights of his/her children</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfaí go dtiocfadh stádas sibhialta an duine nach maireann ar chearta oidhreachtúlachta a leanaí go neamhdhíreach chomh maith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Civil Partner's inheritance rights</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cearta oidhreachtúlachta an pháirtnéir sibhialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The amount of the surviving civil partner's legal right share depends on two factors:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Braitheann méid an chuid cheart dhlíthiúil an pháirtnéir sibhialta marthanaigh ar dhá fhachtóir:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• whether or not there is a valid will</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má tá uacht bhailí ann nó mura bhfuil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• whether or not the deceased civil partner has any children</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má tá leanaí ag an bpáirtnéir sibhialta nach maireann nó mura bhfuil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are entitled to the whole estate if:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tú i dteideal an éastáit iomláin:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• there is no will or the will is invalid, and</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Mura bhfuil aon uacht ann nó tá an uacht neamhbhailí, agus</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• the deceased civil partner has no children or grandchildren</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Mura bhfuil aon leanaí nó garleanaí ag an bpáirtnéir sibhialta nach maireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are entitled to two-thirds of the estate if:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tú i dteideal dhá thrian den eastát:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• there is no valid will, and</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Mura bhfuil aon uacht bhailí ann, agus</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• the deceased civil partner has children or grandchildren</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má tá leanaí nó garleanaí ag an bpáirtnéir sibhialta nach maireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are entitled to one-half of the estate if:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tú i dteideal aon leath den eastát:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• there is a valid will, and</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má tá uacht bhailí ann agus</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• the deceased civil partner has no children or grandchildren</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Mura bhfuil aon leanaí nó garleanaí ag an bpáirtnéir sibhialta nach maireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are entitled to one-third of the estate if:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tú i dteideal aon trian den eastát:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• there is a valid will, and</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má tá uacht bhailí ann agus</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• the deceased civil partner has children or grandchildren</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má tá leanaí nó garleanaí ag an bpáirtnéir sibhialta nach maireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are the surviving civil partner, you must be informed of this right and should apply for your legal right share as soon as possible</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más tú an páirtnéir sibhialta marthanaigh, caithfear tú a chur ar an eolas faoin gceart seo agus ba cheart duit cur isteach ar do chuid cheart dhlíthiúil a luaithe agus is féidir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may require that the shared home be given to you in satisfaction of your legal right share, even if the home was left to another person under the will</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfaí go dteastódh uait an comhtheach a bheith tugtha duit mar shásamh ar do chuid cheart dhlíthiúil, fiú má fágadh an teach ag duine eile faoin uacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the shared home is worth more than the legal right share, you will normally have to pay the difference into the deceased's estate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más tá fiúchas an tí níos mó ná an chuid cheart dhlíthiúil, beidh ort an difríocht a íoc isteach in eastát an duine nach maireann go hiondúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, in cases of hardship, you may apply to the court to have the dwelling house given to you either without paying the difference or by paying such sum as the court thinks reasonable</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcásanna cruatain, áfach, féadfaidh tú cur isteach chuig an gcúirt go dtabharfaí an teach cónaithe duitse gan an difríocht a íoc nó suim a íoc atá réasúnta, mar a shíleann an chúirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Children have a right to inherit from their biological parents</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá ceart ag leanaí teacht in oidhreacht óna dtuismitheoirí fola</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As the surviving civil partner's children are not the biological children of the deceased, they do not have a right to inherit from the deceased civil partner</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar nach iad leanaí an pháirtnéir sibhialta marthanaigh leanaí fola an duine nach maireann, níl aon cheart acu teacht in oidhreacht ón bpáirtnéir sibhialta nach maireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Children's inheritance rights may be affected by their deceased parent's civil status</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfaí go gcuirfeadh stádas sibhialta an tuismitheora nach maireann isteach ar chearta oidhreachtúla leanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The children (minor and adult) are entitled to the entire estate divided equally between them if:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá na leanaí (mionaoiseach agus aosach) i dteideal an eastáit iomlán a bheith roinnte go comhionann eatarthu:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• there is no will or the will is invalid, and</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Mura bhfuil aon uacht ann nó tá an uacht neamhbhailí, agus</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• the deceased parent is not in a civil partnership or his/her civil partner is already dead</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Mura bhfuil tuismitheoir nach maireann i bpáirtnéireacht shibhialta nó tá a p(h)áirtnéir sibhialta básaithe cheana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>But the children are only entitled to one-third of the estate divided equally between them if:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl na leanaí i dteideal aon trian den eastát roinnte go comhionann eatarthu ach amháin:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• there is no valid will or the will is invalid, and</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Mura bhfuil aon uacht ann nó tá an uacht neamhbhailí, agus</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• the deceased parent is in a civil partnership and is survived by his/her civil partner</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má tá an tusimitheoir nach maireann i bpáirtnéireacht shibhialta agus tá sé ar marthain i ndiaidh a p(h)áirtnéir shibhialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Children have no absolute right to inherit their parent's estate if the deceased parent has made a valid will</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon dhearbhcheart ag leanaí teacht in oidhreacht ar eastát a dtuismitheora má tá uacht bhailí déanta ag an tuismitheoir nach maireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if a child considers that he/she has not been adequately provided for, he/she may make an application to court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má cheapann an leanbh nach bhfuil soláthar imleor déanta dó/di, áfach, féadfaidh sé/sí iarratas a chur isteach chuig an gcúirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The child need not be a minor or be dependent in order to use this procedure</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní gá don leanbh a bheith ina mhionaoiseach nó ina chleithiúnach chun úsáid a bhaint as an nós imeachta seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The court has to decide if the parent has "failed in his moral duty to make proper provision for the child in accordance with his means"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh an chúirt a chinneadh má “theip ar an tuismitheoir soláthar ceart a dhéanamh don leanbh de réir a chuid acmhainní”</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Each case is decided on its merits and the court looks at the situation from the point of view of a "prudent and just" parent</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cinntear gach cás ar a thuillteanais agus féachann an chúirt ar an gcás ó thaobh “tuismitheoir stuama agus ceart”</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Should the court order that some provision be made for a child or children from the estate of the deceased, such an order can reduce the entitlement of the surviving civil partner to a legal right share</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéanann an chúirt ordú go gcaithfear soláthar éigin a dhéanamh do leanbh nó leanaí ó eastát an duine nach maireann, is féidir lena leithéid d’ordú teidlíocht an pháirtnéir shibhialta ar marthain a laghdú chuig cuid cheart dhlíthiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Anyone considering challenging a will on these grounds should get legal opinion before applying to the court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart d’aon duine atá ag meas dushlán a thabhairt d’uacht ar na forais seo tuairim dhlíthiúil a fháil roimh chur isteach chuig an gcúirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Marital status and inheritance rights</seg></tuv>
+  <tuv xml:lang="ga"><seg>Stádas pósta agus cearta oidhreachtúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find information on how marriage affects inheritance in our document on marital status and inheritance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat eolas a fháil ar an gcaoi a théann pósadh i bhfeidhm ar chearta oidhreachtúla inár gcáipéis ar stádas pósta agus oidhreachtúlacht</seg></tuv>
+</tu>
+</body>
+</tmx>

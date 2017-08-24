@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>The Government Chief Whip is the Minister of State for the Department of the Taoiseach</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an tAire Stáit i Roinn an Taoisigh a bhíonn mar Phríomhaoire an Rialtais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He or she is responsible for the organisation and co-ordination of Government business in Dáil Éireann</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé/sí freagrach as eagrú agus comhordú a dhéanamh ar ghnóthaí an Rialtais i nDáil Éireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Chief Whip acts as a channel of communication between the Government and the opposition parties</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn an Príomhaoire ina (h)idirghabhálaí cumarsáide idir an Rialtas agus lucht an fhreasúra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Chief Whip is also responsible for making sure that the Government has a voting majority in the Dáil by ensuring that TDs attend Dáil sessions when a vote is being taken</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé de chúram ar an bPríomhaoire déanamh cinnte go bhfuil tromlach vótála ag an Rialtas sa Dáil agus déanann sí/sí cinnte go bhfuil na Teachtaí Dála go léir i láthair sa Dáil nuair atá vóta á chaitheamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To instruct a TD to attend to vote, he or she can issue a whip</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a chuirtear iallach ar Theachta Dála freastal ar an Dáil ag am vótála, deirtear go n-úsáidtear Lasc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Chief Whip has a function in monitoring the progress made by Government departments in preparing legislation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá ról ag an bPríomhaoire monatóireacht a dhéanamh ar an dul chun cinn atá déanta ag na Ranna Rialtais in ullmhú reachtaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He or she also arranges for the proposed legislation to be considered and debated in the Dáil</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann sé/sí na socruithe le go mbeidh an reachtaíocht mholta curtha ós comhair na Dála le díospóireacht</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Services for asylum seekers in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seirbhísí do lucht iarrtha tearmainn in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Medical services and entitlements for asylum seekers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seirbhísí agus teidlíochtaí leighis d'iarrthóirí tearmann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Medical services and entitlements available to asylum seekers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más iarrthóir tearmainn thú tá seirbhísí leighis ag súil leat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Legal aid for asylum seekers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cúnamh dlí d'iarrthóirí tearmainn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Legal aid is available to people who are applying for international protection in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá cúnamh dlí ar fáil do dhaoine in Éirinn atá ag déanamh iarratas ar stádas tearmann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Services and entitlements for people seeking asylum</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seirbhísí agus teidlíochtaí do dhaoine ag lorg tearmainn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Services you may expect while you are an asylum seeker living in direct provision accommodation in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más iarrthóir tearmainn thú i do chonaí i bhforáil dhíreach tá seirbhísí áirithe ag súil leat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most Read in "Moving Country"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ábhar is mó éilimh i "Ag bogadh tíre"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Irish citizenship through birth or descent</seg></tuv>
+  <tuv xml:lang="ga"><seg>Saoránacht d'Éirinn ó bhreith nó ó ghinealach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Visa requirements for entering Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Riachtanais víosa le teacht isteach in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Coming to work in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag teacht go hÉirinn chun oibriú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Becoming an Irish citizen</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag éirí i do shaoránach Éireannach</seg></tuv>
+</tu>
+</body>
+</tmx>

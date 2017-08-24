@@ -1,0 +1,421 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Worksheet: Jobseeker's Allowance and income from work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bileog oibre: Liúntas Cuardaitheora Poist agus ioncam ón obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This worksheet aims to help you find out how taking up part-time or casual work will affect your weekly Jobseeker's Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé d’aidhm ag an mbileog oibre seo cabhrú leat a fháil amach cén tionchar a bheidh ag obair páirtaimseartha nó ócáideach ar do Liúntas Cuardaitheora Poist seachtainiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Income from work is assessed as means and can affect your Jobseeker's Allowance payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar ioncam ón obair a mheasúnú mar acmhainn agus is féidir leis sin dul i gcion ar d’íocaíocht don Liúntas Cuardaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Other sources of income or means can also affect your Jobseeker's Allowance, for example, maintenance, benefit and privilege, cash income and capital (including savings and investments)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le foinsí eile ioncaim nó acmhainní dul i gcion ar do Liúntas Cuardaitheora Poist chomh maith, mar shampla, cothabháil, sochar agus pribhléid, ioncam airgid agus capiteal (coigilteas agus infheistíochtaí san áireamh)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In this worksheet we are only looking at how income from work can affect your payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa bhileog oibre seo nílimid ach ag féachaint ar an chaoi ar féidir le hioncam ón obair dul i gcion ar d'íocaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A person is entitled to Jobseeker's Allowance (JA) only for periods of unemployment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl duine i dteideal Liúntas Cuardaitheora Poista (LCP) in Éirinn ach do thréimhsí dífhostaíochta amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must be unemployed for at least 4 days in a period of 7 consecutive days to get JA</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is í an íostréimhse go gcaithfidh tú a bheith dífhostaithe chun LCP a fháil ná 4 lá i dtréimhse 7 lá leanúnach, gan an Domhnach san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>More information on the qualifying criteria is available in our document on Jobseeker's Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh eolais faoi na critéir cháilithe le fáil inár ndoiciméad faoin Liúntas Cuardaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Jobseeker's Allowance weekly rate _________</seg></tuv>
+  <tuv xml:lang="ga"><seg>Liúntas Cuardaitheora Poist (uasráta seachtainiúil)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(Your age can determine</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Is féidir d'aois an íocaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>your maximum weekly rate</seg></tuv>
+  <tuv xml:lang="ga"><seg>uasta maidir le do chúinsí a</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Find your rate in our</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigh amach do ráta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>document on Jobseeker's Allowance)</seg></tuv>
+  <tuv xml:lang="ga"><seg>sa doiciméad faoi Liúntas Cuardaitheora Poist)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Add Child Dependant Increase</seg></tuv>
+  <tuv xml:lang="ga"><seg>Móide Méadú le haghaidh Cleithiúnaí Linbh _+________</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(€29.80 for each child dependant, if</seg></tuv>
+  <tuv xml:lang="ga"><seg>(€29.80 méadaithe faoi líon na gcleithiúnaithe linbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>your means are halved you will +_______</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má ghearrtar d’acmhainní faoi leath</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>get €14.90 for each child dependant,</seg></tuv>
+  <tuv xml:lang="ga"><seg>gheobhaidh tú €14.90 do gach leanbh incháilithe-</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>see 'Step 2' below)</seg></tuv>
+  <tuv xml:lang="ga"><seg>féach 'Céim 2' thíos)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Add Increase for a Qualified Adult</seg></tuv>
+  <tuv xml:lang="ga"><seg>Móide Méadú le haghaidh Duine Fásta Cáilithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(You will not get an increase for +________</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Má ghearrtar d’acmhainní faoi leath</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>a dependent spouse/civil partner/cohabitant, if</seg></tuv>
+  <tuv xml:lang="ga"><seg>ní bheidh an méadú le haghaidh duine fásta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>your spouse is getting a payment in their own right, see 'Step 2' below)</seg></tuv>
+  <tuv xml:lang="ga"><seg>cáilithe iníoctha - féach 'Céim 2' thíos.)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Total (maximum Jobseeker's Allowance)_________</seg></tuv>
+  <tuv xml:lang="ga"><seg>Iomlán (Uasmhéid an Liúntais Cuardaitheora Poist)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Less weekly means from work_-______</seg></tuv>
+  <tuv xml:lang="ga"><seg>Lúide acmhainní seachtainiúla ón obair _-______</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(Go to extra information below to help</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Téigh chuig eolas breise thíos le cabhrú leat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>you calculate your weekly means from work.)</seg></tuv>
+  <tuv xml:lang="ga"><seg>d’acmhainní seachtainiúla ón obair a ríomh.)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Less spouse's/civil partner's/cohabitant's weekly means from work_-_______</seg></tuv>
+  <tuv xml:lang="ga"><seg>Lúide acmhainní seachtainiúla an chéile/pháirtí ón obair _-____</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>you calculate your spouse, civil partner or cohabitant's</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Téigh chuig eolas breise thíos le cabhrú leat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Total weekly Jobseeker's Allowance payment €________</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocaíocht sheachtainiúil iomlán don Liúntas Cuardaitheora Poist €________</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Extra information: How to find your weekly means from work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Eolas breise: Conas d’acmhainní seachtainiúla ón obair a dhéanamh amach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Use Steps 1-5 to calculate your weekly means from work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bain úsáid as céimeanna 1-5 chun d’acmhainní seachtainiúla ón obair a ríomh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Step 1: Assessable weekly earnings</seg></tuv>
+  <tuv xml:lang="ga"><seg>Céim 1: Tuilleamh seachtainiúil inmheasúnaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Find your assessable weekly earnings</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigh do thuilleamh seachtainiúil inmheasúnaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The following items are always deducted from your gross earnings to get your assessable earnings:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar na míreanna seo a leanas a asbhaint ó d'olltuilleamh i gcónaí chun do thuilleamh inmheasúnaithe a fháil:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• PRSA (Personal Retirement Savings Account)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• CCSP (Cuntas Coigiltis Scoir Pearsanta)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Jim is a single man aged 27</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Is fear singil é Jim atá 27 bliain d'aois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He works 3 days (Monday, Tuesday and Wednesday) and gets €50 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>Oibríonn sé 3 lá sa tseachtain (Dé Luain, Dé Máirt agus Dé Céadaoin) agus faigheann sé €50 in aghaidh an lae</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│per day. His assessable weekly earnings are €150</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é a thuilleamh seachtainiúil inmheasúnaithe ná €150</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>We will assume he is not paying any │ │contribution towards superannuation, union dues, PRSA or AVC</seg></tuv>
+  <tuv xml:lang="ga"><seg>Glacaimid leis nach bhfuil ranníocaíocht ar bith á híoc aige maidir le haoisliúntas, dleachtanna ceardchumainn, CCSP nó RSB</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He does not pay PRSI because│ │his earnings are less than €352. │</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní íocann sé ÁSPC toisc go bhfuil a thuilleamh níos lú ná €352.│</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Assessable weekly earnings = €150 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Tuilleamh seachtainiúil inmheasúnaithe = €150 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Step 2: Find out if your assessable weekly earnings are over the limit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Céim 2: Faigh amach an bhfuil do thuilleamh seachtainiúil inmheasúnaithe thar an teorainn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Before you calculate how much JA you can get, you must find out if your weekly means are more than the maximum JA payment for your situation. The maximum Jobseeker’s Allowance payment includes the personal payment and any increases for an adult dependant and dependent children</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sular féidir leat an méid LCP a bhféadfá a fháil a ríomh, ní mór duit a fháil amach an bhfuil d’acmhainní seachtainiúla níos mó ná an uasíocaíocht LCP do do staid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your means are halved, an increase for a qualified adult is not included in the maximum Jobseeker’s Allowance payment for your situation and you will only get a half-rate increase for each qualified child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuimsíonn an uasíocaíocht don Liúntas Cuardaitheora Poist an uasíocaíocht phearsanta agus méadú ar bith le haghaidh duine fásta cáilithe agus leanaí cleithiúnacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In this step you are not calculating the actual amount of JA you will get, you are just checking to see if you have any possibility of getting JA</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chéim seo níl méid iarbhír an LCP á ríomh agat, níl tú ach ag seiceáil an bhfuil tú in ann LCP a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To do this take your assessable weekly earnings from Step 1 and deduct €20 per day for each day you have worked up to a maximum of €60</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun é seo a dhéanamh tóg do thuilleamh seachtainiúil inmheasúnaithe ó Chéim 1 agus bain €20 in aghaidh an lae do gach lá a d’oibrigh tú suas le huasmhéid de €60</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Next get 60% of the balance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ansin faigh 60% den iarmhéid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is assessed as your weekly means</seg></tuv>
+  <tuv xml:lang="ga"><seg>Measúnaítear é seo mar d’acmhainní seachtainiúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Assessable weekly earnings - €20 = total x 60% = weekly means from work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tuilleamh seachtainiúil inmheasúnaithe - €20 = iomlán x 60% = acmhainní seachtainiúla ón obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your means are halved if your spouse, civil partner or cohabitant is:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Roinntear d'acmhainní faoi leath má tá do chéile/pháirtnéir sibhialta/chomhchónaitheoir:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Getting a social welfare payment (except Child Benefit, Disablement Pension, guardian's payment, Supplementary Welfare Allowance, Domiciliary Care Allowance and half-rate Carer's Allowance)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag fáil íocaíochta leasa shóisialaigh (seachas Sochar Leanaí agus Pinsean Míchumais, Liúntas Cúram Baile, íocaíocht chaomhnóra, Liúntas Leasa Forlíontach agus Liúntas Cúramóra leath-ráta)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• On a Further Education and Training (FET) or VTOS course and getting an allowance in his or her own right</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ar chúrsa FET nó SDOG agus ag fáil liúntais ina c(h)eart féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Note: If your means are halved, you will not get an increase for a qualified adult but you will get a half-rate increase for each qualified child when finding the maximum Jobseeker’s Allowance payment for your situation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nóta: Má ghearrtar d’acmhainní faoi leath, ní bhfaighidh tú an méadú le haghaidh duine fásta cáilithe ach is féidir leat méadú leathráta a fháil do gach leanbh incháilithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your weekly means are less than the maximum Jobseeker’s Allowance payment for your situation then go to Step 3 and start to calculate the actual amount of JA you will get</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá d’acmhainní seachtainiúla níos lú ná an t-uasráta seachtainiúil do do chúinsí ansin téigh chuig Céim 3 agus tosaigh ar mhéid iarbhír an LLCF a gheobhaidh tú a ríomh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Jim's assessable weekly earnings are €150 per week</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Is é tuilleamh seachtainiúil inmheasúnaithe Jim ná €150 in aghaidh na seachtaine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He works 3 days. │</seg></tuv>
+  <tuv xml:lang="ga"><seg>Oibríonn sé 3 lá sa tseachtain.│</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│€150 - €60 (3 days) = €90 x 60% = €54 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│€150 - €60 (3 lá) = €90 x 60% = €54 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Weekly means from work = €54 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Acmhainní seachtainiúla ón obair = €54 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│In this example, Jim’s weekly means are below the basic JA payment for his situation</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Sa sampla seo, tá acmhainní seachtainiúla Jim faoi bhun na buníocaíochta LCP dá chúinsí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Go │ │to Step 3</seg></tuv>
+  <tuv xml:lang="ga"><seg>Téigh chuig Céim 3</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Step 3: Average daily earnings</seg></tuv>
+  <tuv xml:lang="ga"><seg>Céim 3: Meántuilleamh laethúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Now that you know you are entitled to a JA payment, you can start to calculate the rate of your JA payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Anois go bhfuil a fhios agat go bhfuil tú i dteideal íocaíochta LCP is féidir leat tosú ar ráta d’íocaíochta LCP a ríomh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Calculate your average daily earnings: to do this get your total weekly assessable earnings from employment and divide by the number of days you worked that week</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déan do mheántuilleamh laethúil a ríomh: chun é seo a dhéanamh faigh do thuilleamh seachtainiúil inmheasúnaithe iomlán ó fhostaíocht agus roinn faoin líon laethanta a d’oibrigh tú an tseachtain sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Total weekly earnings ÷ number of days worked = average daily earnings</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tuilleamh seachtainiúil iomlán ÷ líon laethanta oibrithe = meántuilleamh laethúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Jim works 3 days each week (Monday, Tuesday and Wednesday) and gets €150 per week. │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Oibríonn Jim 3 lá sa tseachtain (Dé Luain, Dé Máirt agus Dé Céadaoin) agus faigheann sé €150 in aghaidh na seachtaine.│</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Average daily earnings = €50 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Meántuilleamh laethúil = €50 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Step 4: Daily means from work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Céim 4: Acmhainní laethúla ón obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Calculate your daily means from work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déan d’acmhainní laethúla ón obair a ríomh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To do this, you must disregard any income not taken into account</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun é seo a dhéanamh, ní mór duit neamhaird a thabhairt ar ioncam ar bith nár cuireadh san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Income not taken into account is €20 for days worked</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an t-ioncam nach gcuirtear san áireamh ná €20 do oibrítear</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Next get 60% of the balance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ansin faigh 60% den iarmhéid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is assessed as your daily means</seg></tuv>
+  <tuv xml:lang="ga"><seg>Measúnaítear é seo mar d’acmhainní laethúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Average daily earnings - €20 = total x 60% = daily means from work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Meántuilleamh laethúil - €20 = iomlán x 60% = acmhainní laethúla ón obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Jim works 3 days (Monday, Tuesday and Wednesday) and gets €50 per day</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Oibríonn Jim 3 lá sa tseachtain (Dé Luain, Dé Máirt agus Dé Céadaoin) agus faigheann sé €50 in aghaidh an lae.│</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│earnings are €50 (see Step 3)</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Faigheann sé meántuilleamh laethúil de €50 (féach Céim 3)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Get 60% of total (€30 in this example) = €18 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Faigh 60% den iomlán (€30 sa sampla seo) = €18 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Daily means from work = €18 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Acmhainní laethúla ón obair = €18 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Step 5: Weekly means from work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Céim 5: Acmhainní seachtainiúla ón obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Multiply your daily means by the number of days worked (including Sunday)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Méadaigh d’acmhainní laethúla faoin líon laethanta oibrithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Daily means from work x number of days worked = weekly means from work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Acmhainní laethúla ón obair x líon laethanta oibrithe = acmhainní seachtainiúla ón obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your means are halved if your spouse/civil partner/cohabitant is:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Roinntear d'acmhainní faoi leath má tá do chéile/pháirtnéir sibhialta/chomhchónaitheoir:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Getting a social welfare payment (except Child Benefit, Disablement Pension, guardian's payment, Supplementary Welfare Allowance, Domiciliary Care Allowance and half-rate Carer's Allowance)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag fáil íocaíochta leasa shóisialaigh (seachas Sochar Leanaí agus Pinsean Míchumais, Liúntas Cúram Baile, íocaíocht chaomhnóra, Liúntas Leasa Forlíontach agus Liúntas Cúramóra leath-ráta)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• On a FET or VTOS course and getting an allowance in his or her own right</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ar chúrsa FET nó SDOG agus ag fáil liúntais ina c(h)eart féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Note: If your means are halved, you will not get an increase for a qualified adult but you will get a half-rate increase for each qualified child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nóta: Má ghearrtar d’acmhainní faoi leath, ní bhfaighidh tú an méadú le haghaidh duine fásta cáilithe ach is féidir leat méadú leathráta a fháil do gach leanbh incháilithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Jim works 3 days and get €50 per day</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Oibríonn Jim 3 lá sa tseachtain agus faigheann sé €50 in aghaidh an lae</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>His average daily earnings are €50</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigheann sé meántuilleamh laethúil de €50.│</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│from work is €18 (see Step 4)</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Faigheann sé acmhainní laethúla de €18 ón obair (féach Céim 4)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│€18 x 3 days = €54 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│€18 x 3 lá = €54 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Weekly means from work = €54 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Acmhainní seachtainiúla ón obair = €54 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Extra information: How to find your spouse's, civil partner's or cohabitant's weekly means from work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Eolas breise: Conas acmhainní seachtainiúla ón obair do chéile/pháirtnéir sibhialta/chomhchónaitheoir a dhéanamh amach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To calculate your spouse's, civil partner's or cohabitant's weekly means from work first calculate his/her assessable earnings</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun acmhainní seachtainiúla ón obair do chéile/pháirtnéir sibhialta/chomhchónaitheoir a ríomh caithfear a t(h)uilleamh inmheasúnaithe a ríomh ar dtús</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The following items are always deducted from his/her gross earnings to get assessable earnings:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar na míreanna seo a leanas a asbhaint óna (h)olltuilleamh i gcónaí chun tuilleamh inmheasúnaithe a fháil:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• PRSA (Personal Retirement Savings Account)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• CCSP (Cuntas Coigiltis Scoir Pearsanta)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Deduct €20 per day from your spouse's/civil partner's/cohabitant's assessable earnings for each day worked up to a maximum of €60 (including Sunday)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bain €20 in aghaidh an lae ó thuilleamh inmheasúnaithe do chéile/pháirtnéir sibhialta/chomhchónaitheoir do gach lá oibrithe suas le huasmhéid de €60 (an Domhnach san áireamh)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Next get 60% of the balance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ansin faigh 60% den iarmhéid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is assessed as his/her weekly means</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar é seo a mheasúnú mar a (h)acmhainní seachtainiúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Assessable weekly earnings - €20 per day (maximum 3 days)= total x 60% = weekly means from work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tuilleamh seachtainiúil inmheasúnaithe - €20 in aghaidh an lae (uasmhéid de 3 lá) = iomlán x 60% = acmhainní seachtainiúla ón obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your means are halved if your spouse, civil partner or cohabitant is:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Roinntear d'acmhainní faoi leath má tá do chéile/pháirtnéir sibhialta/chomhchónaitheoir:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Getting a social welfare payment (except Child Benefit, Disablement Pension, guardian's payment, Supplementary Welfare Allowance, Domiciliary Care Allowance and half-rate Carer's Allowance)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag fáil íocaíochta leasa shóisialaigh (seachas Sochar Leanaí agus Pinsean Míchumais, Liúntas Cúram Baile, íocaíocht chaomhnóra, Liúntas Leasa Forlíontach agus Liúntas Cúramóra leath-ráta)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• On a FET or VTOS course and getting an allowance in his or her own right</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ar chúrsa FÁS nó SDOG agus ag fáil liúntais ina c(h)eart féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Note: If your means are halved, you will not get an increase for a qualified adult but you will get a half-rate increase for each qualified child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nóta: Má ghearrtar d’acmhainní faoi leath, ní bhfaighidh tú an méadú le haghaidh duine fásta cáilithe ach is féidir leat méadú leathráta a fháil do gach leanbh incháilithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Partner's assessable weekly earnings are €150 per week. Partner works 3 days (Wednesday, │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Is é tuilleamh seachtainiúil inmheasúnaithe an chéile ná €150 in aghaidh na seachtaine</seg></tuv>
+</tu>
+</body>
+</tmx>

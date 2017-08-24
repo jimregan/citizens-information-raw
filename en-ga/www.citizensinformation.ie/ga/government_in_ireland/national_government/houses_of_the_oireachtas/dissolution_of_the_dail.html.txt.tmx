@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>The Irish Constitution (Bunreacht na hÉireann) states that the Dáil (one of the houses of Parliament) shall not continue for a period longer than 7 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé ráite sa Bhunreacht nár cheart a bheith de ré ag aon Dáil Éireann ach 7 mbliana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It also states that legislation can fix a shorter period for the duration of the Dáil</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé ráite chomh maith go bhféadfaí ré níos giorra ná sin a shocrú le reachtaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Since 1927, the law states that the maximum period for the duration of the Dáil is 5 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireadh uasmhéid 5 bliana ar ré na Dála faoi dlí a tháinig i bhfeidhm i 1927</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that there must be a general election at least every 5 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn sé seo go gcaithfear toghchán a reachtáil gach 5 bliana ar a laghad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is no minimum period for the duration of the Dáil</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl íosmhéid ag baint le ré na Dála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The President of Ireland has the power to dissolve the Dáil so that a general election must be held</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an ceart ag Uachtarán na hÉireann Dáil Éireann a lánscor sa chaoi is go gcaithfear olltoghchán a reachtáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the Taoiseach has the support of the majority of the members of the Dáil, and he or she advises the President to dissolve the Dáil, the President must do so</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tacaíocht tromlach na dTeachtaí Dála ag an Taoiseach agus má iarrann sé/sí ar an Uachtarán an Dáil a lánscor, ní foláir don Uachtarán é sin a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the Taoiseach does not have the support of the majority of the members of the Dáil, the President may refuse to dissolve the Dáil</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna bhfuil tacaíocht tromlach na dTeachtaí Dála ag an Taoiseach, d'fhéadfadh an tUachtarán lánscor na Dála a dhiúltú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Constitution states that once the President issues a proclamation dissolving the Dáil, a general election must be held within 30 days</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé ráite sa Bhunreacht go gcaithfear olltoghchán a bheith ann taobh istigh de 30 lá ón lá a eisíonn an tUachtáran fógra go bhfuil an Dáil le scoir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>After the President issues the proclamation, the Clerk of the Dáil issues a writ to the returning officer in each constituency directing them to hold an election of the prescribed number of members</seg></tuv>
+  <tuv xml:lang="ga"><seg>Eisíonn Cléireach na Dála eascaire chuig an gceann comhairimh i ngach dáilcheantar á threorú nó á treorú toghchán den líon forordaithe comhaltaí a reáchtáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Minister for Housing, Planning and Local Government appoints the polling day which must be between the 18th and 25th day (excluding Good Friday, Sundays and public holidays) after the issue of the writ</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceapann an tAire Tithíochta, Pleanála, Pobal agus Rialtais Áitiúil an lá vótaíochta nach mór a reáchtáil idir an 18ú agus an 25ú lá tar éis aon eascaire a eisiúint (ní bhíonn Aoine an Chéasta, Domhnaí agus Saoirí Poiblí san áireamh)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Minister also appoints the polling period which must consist of at least 12 hours between 7am and 10.30pm</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceapann an tAire an tréimhse vótaíochta freisin a mhairfidh ar feadh 12 uair an chloig ar a laghad idir 7rn. agus 10.30in</seg></tuv>
+</tu>
+</body>
+</tmx>

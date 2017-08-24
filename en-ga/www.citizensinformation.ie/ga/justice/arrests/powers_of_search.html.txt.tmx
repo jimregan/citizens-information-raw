@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>When the Gardai are conducting their investigation of a crime, they may need to search certain premises to look for evidence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a bhíonn na Gardaí ag tabhairt faoina n-imscrúdú ar choir, b’fhéidir go dteastóidh uathu áitreabh a chuardach chun fianaise a chuardach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Generally, the Gardai must obtain a search warrant before they may search your premises or home without your consent</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, ní mór do na Gardaí barántas cuardaigh a fháil sular féidir leo d’áitreabh nó do theach a chuardach gan do thoiliú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A garda can ask you to stop at any time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh Garda iarraidh ort stopadh ag aon tráth</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In certain circumstances, such as when you are driving, you must stop if asked to by a Garda</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcúinsí áirithe, ar nós nuair atá tú ag tiomáint, ní mór duit stopadh má iarrann Garda ort</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A garda can search you, without your consent, if the garda has reasonable suspicion that you have committed an offence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh Garda thú a chuardach, fiú mura dtugann tú toiliú, má tá amhras réasúnta ar an nGarda go ndearna tú cion</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This includes people under the age of 18</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áirítear leis seo daoine faoi aois 18 mbliana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Garda should tell you why you are being searched</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart don Gharda insint duit cén fáth a bhfuil tú á chuardach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A search warrant is a written order giving a person authority to enter a premises and search for and seize property</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ordú scríofa is ea barántas cuardaigh a thugann údarás do dhuine chun áitreabh a iontráil agus cuardach a dhéanamh ar réadmhaoin agus réadmhaoin a urghabháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>They may be issued to Gardaí or to other authorised people for example, health inspectors, health and safety inspectors, social welfare officers, TV licence inspectors</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadtar iad a eisiúint do Ghardaí nó do dhaoine eile a bhfuil an t-údarás acu, mar shampla, cigirí sláinte, cigirí sláinte agus sábháilteachta, oifigigh leasa shóisialaigh, cigirí ceadúnas teilifíse</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The circumstances in which search warrants may be issued vary from one piece of legislation to another</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is éagsúil a bhíonn na cúinsí inar féidir barántais chuardaigh a eisiúint ó phíosa reachtaíochta amháin go píosa eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Generally, search warrants are issued by District Court Judges or Peace Commissioners when a Garda makes a statement on oath that he/she knows or has reasonable cause for believing or suspecting that a crime has been or is being committed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, eisíonn Breithiúna na Cúirte Dúiche nó Feidhmeannaigh Shíochána barántais chuardaigh nuair a dhéanann Garda ráiteas faoi mhionn gurb eol dó/di nó go bhfuil údar réasúnta aige/aici a chreidiúint nó a bheith in amhras go ndearnadh cion nó go bhfuil cion á dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In general, reasonable force may be used to execute a search warrant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, féadtar fórsa réasúnta a úsáid chun barántas cuardaigh a fhorghníomhú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Items of evidence obtained as a result of a legal and valid search may be kept and used as evidence in any criminal proceedings against you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadtar earraí fianaise a fuarthas mar thoradh ar chuardach dlíthiúil agus bailí a choimeád agus a úsáid mar fhianaise in aon imeachtaí coiriúla i do leith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Search warrants must be executed within the time limits set out in them</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór barántais chuardaigh a fhorghníomhú laistigh de na teorainneacha ama a leagtar amach iontu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If they are not executed within the time limits, then any information obtained as a result of the search may not be admitted in evidence in a trial</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhforghníomhaítear iad laistigh de na teorainneacha ama, ní fhéadtar aon fhaisnéis a fhaightear mar thoradh ar an gcuardach a cheadú mar fhianaise i dtriail</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you are arrested, the Gardai may take goods in your possession if they believe that it is necessary to do so and if the goods are evidence in support of a criminal charge</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a ghabhtar thú, féadfaidh na Gardaí earraí atá faoi do sheilbh a ghlacadh uait má chreideann siad gur riachtanach amhlaidh a dhéanamh agus más fianaise iad na hearraí a thacaíonn le cúiseamh coiriúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Gardai may search you after your arrest without a search warrant and the goods seized may be kept and used as evidence at your trial</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh na Gardaí thú a chuardach i ndiaidh go ngabhtar thú gan barántas cuardaigh agus féadtar na hearraí a urghabhtar a choimeád agus a úsáid mar fhianaise ag do thriail</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Necessity for a Search Warrant</seg></tuv>
+  <tuv xml:lang="ga"><seg>An Gá atá le Barántas Cuardaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In most cases, a search warrant is necessary before a Garda may search a person, a vehicle or a premises</seg></tuv>
+  <tuv xml:lang="ga"><seg>I dtromlach na gcásanna, teastaíonn barántas cuardaigh sular féidir le Garda duine, feithicil nó áitreabh a chuardach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, certain legislation entitles the Gardai to go on premises without a warrant, for example, the Intoxicating Liquor Acts, the Public Dance Halls Act, and the Health Acts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann reachtaíocht áirithe, áfach, an teidlíocht do na Gardaí áitreabh a iontráil gan bharántas, mar shampla, na hAchtanna Deochanna Meisciúla, an tAcht um Hallaí Rince Poiblí, agus na hAchtanna Sláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a Garda gets a search warrant relating to certain offences he/she may search the premises named and any person on the premises</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhaigheann Garda barántas cuardaigh a bhaineann le cionta áirithe, féadfaidh é/í an t-áitreabh atá ainmnithe agus aon duine san áitreabh a chuardach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Examples of this are a search warrant issued under the Offences Against the State Act 1939, or the Criminal Justice (Theft and Fraud) Offences Act 2001</seg></tuv>
+  <tuv xml:lang="ga"><seg>Samplaí de seo é barántas cuardaigh a eisítear faoin Acht um Chiontaí in Aghaidh an Stáit, 1939, nó an tAcht um Cheartas Coiriúil, (Cionta Gadaíochta agus Calaoise), 2001</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the Criminal Justice (Miscellaneous Provisions) Act 1979, as amended by Section 6 of the Criminal Justice Act 2006, the Gardaí can obtain a warrant in relation to an arrestable offence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoin Acht um Cheartas Coiriúil (Forálacha Ilghnéitheacha), 1979, arna leasú ag Alt 6 den Acht um Cheartas Coiriúil, 2006, féadfaidh na Gardaí barántas a fháil maidir le cion inghabhála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Other legislation, for example, the Dublin Police Act, the Misuse of Drugs Act, the Criminal Law Act and the Animal Remedies Act, entitles police officers to search you and/or your vehicle without a warrant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann reachtaíocht eile, mar shampla, Acht Póilíneachta Bhaile Átha Cliath, an tAcht um Mí-Úsáid Drugaí, an tAcht um an Dlí Coiriúil agus an tAcht um Leigheasanna Ainmhithe, an teidlíocht do Ghardaí thú agus/nó d’fheithicil a chuardach gan bharántas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If one of these statutes is being invoked in order to search you without a search warrant, you are entitled to told about it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá ceann de na reachtanna seo á ghairm chun thú a chuardach gan bharántas, tá tú i dteideal go gcuirtear ar an eolas thú faoi</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Evidence obtained on foot of an invalid search warrant or obtained without a warrant may be excluded by the trial judge and must be excluded if the search involved a deliberate and conscious breach of your constitutional rights</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh breitheamh na trialach fianaise a fuarthas de bhun barántas neamhbhailí cuardaigh nó a fuarthas gan bharántas a fhágáil ar lár agus ní mór an fhianaise sin a fhágáil ar lár má rinneadh sárú d’aon turas agus comhfhiosach ar do chearta bunreachtúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In extraordinary excusing circumstances, the court may allow evidence obtained as a result of a deliberate and conscious breach of the Constitution</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi imthosca urghnácha maolaitheacha, féadfaidh an chúirt fianaise a cheadú a fuarthas mar thoradh ar shárú d’aon turas agus comhfhiosach ar an mBunreacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, these circumstances are very rare, for example, a case involving an urgent need to rescue a victim in danger</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is rí-annamh do na himthosca seo, áfach, mar shampla, cás ina bhfuil gátar práinneach ann chun íospartach atá i mbaol a thabhairt slán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>More Information on Garda search powers is available in the Irish Council for Civil Liberties (ICCL) Know Your Rights publication Criminal Justice and Garda Powers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá fáil ar bhreis faisnéise ar chumhachtaí cuardaigh an Gharda Síochána san fhoilseachán Bíodh Eolas agat ar do Chearta Cumhachtaí Ceartais Choiriúil agus Gardaí de chuid Chomhairle um Chearta an Duine</seg></tuv>
+</tu>
+</body>
+</tmx>

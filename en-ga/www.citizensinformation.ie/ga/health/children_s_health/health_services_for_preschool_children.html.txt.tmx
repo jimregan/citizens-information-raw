@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Health services for pre-school children</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seirbhísí sláinte do leanaí réamhscoile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Health Service Executive (HSE) provides a health screening service for pre-school children that is free of charge</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann Feidhmeannacht na Seirbhíse Sláinte (FSS) seirbhís scagthástála sláinte ar fáil do leanaí réamhscoile atá saor in aisce</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This service may be provided at health centres</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfaí an tseirbhís seo a chur ar fáil ag ionaid sláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Services for pre-school children are provided by public health nurses and Area Medical Officers that are employed by the HSE</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann altraí sláinte poiblí agus Dochtúirí Oifigiúla Ceantair arna bhfostú ag FSS seirbhísí ar fáil do leanaí réamhscoile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All public health nurses take direct referrals from parents</seg></tuv>
+  <tuv xml:lang="ga"><seg>Glacann gach altra sláinte poiblí le hatreorú díreach ó thuismitheoirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Public health nurses are notified of all births in their area - either by the hospital where the birth occurred or by the midwife who was present for a home birth</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirtear altraí sláinte phoiblí ar an eolas faoi gach breith ina gceantar - tríd an ospidéal inar tharla an bhreith, nó tríd an mbean chabhrach a bhí i láthair do bhreith sa bhaile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Following the birth, your public health nurse will visit you and your child at home free of charge, usually within 72 hours of returning home from hospital</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tar éis na breithe, tabharfaidh an t-altra sláinte poiblí cuairt ort agus ar do leanbh sa bhaile, go hiondúil taobh istigh de 72 uair an chloig ón am a scaoiltear amach as an ospidéal tú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Public health nurses provide both general health and specific developmental advice to parents and monitor the development of the child</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann altraí sláinte poiblí comhairle ar thuismitheoirí maidir le forbairt shainiúil agus sláinte ghinearálta agus déanann siad monatóireacht ar fhorbairt an linbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A developmental examination is offered to every child by the Area Medical Officer at approximately 9 months, by appointment, in the local health centre</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann an Dochtúir Oifigiúil Ceantair scrúdú forbartha ar fáil do gach leanbh nuair a bhíonn siad thart ar 9 mí d’aois, le coinne, san ionad sláinte áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This examination covers all aspects of the child's development, including hearing, sight, language development, physical development, etc, and is offered to infants irrespective of the family's income</seg></tuv>
+  <tuv xml:lang="ga"><seg>Clúdaíonn an scrúdú seo gach gné d’fhorbairt an linbh, lena n-áirítear éisteacht, amharc, forbairt teanga, forbairt fisiciúil, srl, agus cuirtear ar fáil é beag beann ar ioncam an teaghlaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Problems that are identified at this examination may be treated free of chargeat out-patient hospital departments and any subsequent treatment is free as apublic patient</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfar cóireáil saor in aisce a dhéanamh maidir le haon fhadhbanna a aithnítear sa scrúdú seo i ranna othar seachtrach ospidéil agus tá aon chóireáil ina dhiaidh sin saor in aisce mar othar poiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In general, it is not necessary to apply for a developmental assessment for your child at 9 months as your Local Health Office routinely sends out the appointments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go hiondúil, ní gá iarratas a dhéanamh ar mheasúnú forbartha dod’ leanbh ag 9 mí os rud é go seolann d’Oifig Sláinte Áitiúil na coinní amach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most Local Health Offices offer additional doctor and public health nurse appointment clinics for those parents who have concerns about their child's development.   Contact your local health centre</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann formhór na nOifigí Sláinte Áitiúla clinicí coinne altra sláinte poiblí agus dochtúra breise ar fáil do thuismitheoirí a bhfuil imní orthu maidir le forbairt a linbh</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Animal welfare and control</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leas agus Smachtú Ainmhithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Horse identification and control</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sainaithint agus rialú capall</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All horses, ponies and donkeys must have passports and must be registered and microchipped</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh gach capall, capaillín agus asal pas a bheith acu agus caithfidh siad a bheith cláraithe agus micrishliste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Also, in specified local authority control areas, you need a licence to keep a horse</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chomh maith leis sin, i limistéir shonraithe rialaithe údaráis áitiúil, teastaíonn ceadúnas uait chun capall a choimeád</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Rules on the ownership and control of dogs: - licensing, microchipping and restrictions for certain breeds</seg></tuv>
+  <tuv xml:lang="ga"><seg>Pléann an doiciméad seo na rialacha agus na rialacháin a bhaineann le h-úinéireacht madraí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most Read in "Environment"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ábhar is mó éilimh i "Comhshaol"</seg></tuv>
+</tu>
+</body>
+</tmx>

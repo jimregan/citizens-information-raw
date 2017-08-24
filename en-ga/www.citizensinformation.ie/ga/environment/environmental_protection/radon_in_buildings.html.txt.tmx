@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>• EPA Office of Radiological Protection</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Oifig um Chosaint Raideolaíoch</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you find high radon levels</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má thagann tú ar ardleibhéil radóin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Radon is a naturally occurring radioactive gas that results from the decay of uranium in rocks and soils</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is gás radaíghníomhach é radón a tharlaíonn go nadúrtha ó lobhadh úráiniam i gcarraigeacha agus i dtalamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The gas is colourless, odourless and tasteless and can only be measured using special equipment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is gás gan dath, boladh ná blas é agus ní féidir é a thomhais ach amháin le fearas speisialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When radon surfaces in the open air, it is quickly diluted to harmless concentrations, but when it enters an enclosed space, such as a house or other building, it can sometimes build up to unacceptably high concentrations</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a thagann radón go barr talaimh amuigh faoin aer caolaítear é go scioptha go tiúchán gan dochar, ach nuair a thagann sé isteach i spás crioslaithe cosúil le teach nó foirgneamh eile, d'fhéadfadh sé amanna a mhéadú do thiúchán nach féidir glacadh leis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Radon from the ground enters buildings chiefly through cracks in floors or gaps around pipes or cables</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tagann radón ón talamh isteach i bhfoirgnimh go háirithe trí scoilteanna in úrláir, timpeall ar phíopaí nó cáblaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Radon decays to form tiny radioactive particles, some of which stay suspended in the air</seg></tuv>
+  <tuv xml:lang="ga"><seg>Lobhann radón go dtí míreanna beaga bídeacha agus fanann cuid acu ag foluain san aer</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When these particles are inhaled into the lungs, they give a radiation dose that may damage cells in the lung</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a ionálaítear na míreanna seo isteach sna scámhóga tugann siad miosúr radaíochta a d'fhéadfadh dochar a dhéanamh do chealla na scámhóg agus d'fhéadfadh ailse scamhóige a bheith mar thoradh air</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Radon has been shown to be a cause of cancer, specifically lung cancer; prolonged exposure to elevated levels of radon gas in an enclosed area can be a contributory factor in increasing the risk of lung cancer, particularly where other factors such as cigarette smoking are involved</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé cruthaithe go bhfuil radón ina chionsiocair le hailse, go háirithe ailse scamhóg; d’fhéadfadh nochtadh fadtéarmach do leibhéil arda gás radóin i limistéar iata a bheith ina shiocair bhreise le baol na hailse scamhóige a mhéadú, go háirithe má tá tosca eile amhail caitheamh tobac i gceist freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read more in the World Health Organization’s factsheet; the joint position statement of the HSE and the Radiological Protection Institute of Ireland; and the National Radon Control Strategy (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léigh tuilleadh i mbileog eolais na hEagraíochta Domhanda Sláinte; i gcomhráiteas seasaimh FSS agus na hInstitiúide Éireannaí um Chosaint Raideolaíoch (pdf) agus sa Straitéis Náisiúnta um Rialú Radóin (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>EPA Office of Radiological Protection</seg></tuv>
+  <tuv xml:lang="ga"><seg>Oifig um Chosaint Raideolaíoch</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Radiological Protection Institute of Ireland (RPII) merged with the Environmental Protection Agency on 1 August 2014 to become a fifth office in the EPA structure called the Office of Radiological Protection</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an Institiúid Éireannach um Chosaint Raideolaíoch (IÉCR) tar éis cumascadh leis an nGníomhaireacht um Chaomhnú Comhshaoil (EPA), agus is oifig í anois i structúr an EPA - an Oifig um Chosaint Raideolaíoch</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This Office has regulatory, monitoring and advisory responsibilities in matters relating to ionising radiation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá freagrachtaí rialaithe, monatóireachta agus comhairle uirthi maidir le nithe a bhaineann le radaíocht ianaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It assesses radon levels and has identified those areas where high indoor radon levels are more likely to be found</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann sí leibhéil radóin a mheas agus tá na háiteanna sin sa tír is dóigh a bhfuil leibhéil arda radóin laistigh iontu aitheanta aici</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The EPA publishes an interactive radon map</seg></tuv>
+  <tuv xml:lang="ga"><seg>Foilsíonn an EPA léarscáil radóin idirghníomhach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can enter an address to see if it is in a 'High Radon Area'</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat seoladh a chur isteach agus féachaint an ‘Limistéar Ard-Radóin’ é</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can also view a table that summarises the results of the radon survey for each county since the early 1990s</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat breathnú ar thábla ina bhfuil achoimre ar thorthaí an tsuirbhé radóin do gach contae ó na 1990í</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The EPA's Radon in Homes booklet gives information about radon and the harm it can do, and describes how you can reduce your exposure to radon levels in the home</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá eolas i Leabhrán faoi Radón i dTithe (Radon in Homes booklet) (pdf) an EPA ar radón agus ar an dochar a d’fhéadfadh sé a dhéanamh duit, agus tá cur síos ann ar na bealaí inar féidir an nochtadh do leibhéil radóin i do theach a laghdú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can also view frequently asked questions about radon or use the queries form for other questions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat freisin breathnú ar cheisteanna coitianta faoi radón nó do cheist a chur ar an fhoirm seo, má tá ceist eile agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is also a series of radon factsheets on epa.ie and a video on testing your home for radon</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, is ar fáil ar rpii.ie atá sraith de bhileoga eolais faoi radón agus físeán faoi do theach a thástáil i gcomhair radóin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The EPA recommends that all householders have their homes tested for radon</seg></tuv>
+  <tuv xml:lang="ga"><seg>Molann an EPA go bhfaigheadh gach sealbhóir tí scrúdú le haghaidh radóin dá theach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It provides a radon measurement service, as do several private companies</seg></tuv>
+  <tuv xml:lang="ga"><seg>Díreach mar a dhéanann roinnt cuideachtaí príobháideacha, cuireann an EPA seirbhís um thomhas radóin ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Rates for different testers may vary – the EPA charges about €56</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh na rátaí athrú de réir an tástálaí - gearrann an EPA táille de thart ar €56</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The testing is usually carried out by placing two small testing devices (detectors) in the house for 3 months</seg></tuv>
+  <tuv xml:lang="ga"><seg>De ghnáth, déantar é seo trí dhá dheis bheag (brathadóirí) a chur sa teach ar feadh 3 mhí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>At the end of this period, the detectors are sent back to the testing laboratory for processing</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag deireadh na tréimhse seo, cuirtear na brathadóirí ar ais go dtí an saotharlann scrúdaithe le haghaidh próiseála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This procedure is carried out entirely by post</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar an próiseas uilig tríd an bpost</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A 3-month measurement period is recommended because radon levels in a house can vary considerably from day to day as a result of changes in weather conditions, ventilation, building usage, etc</seg></tuv>
+  <tuv xml:lang="ga"><seg>Moltar tréimhse scrúdaithe 3 mhí mar d'fhéadfadh léibhéil radóin i dteach a athrú go mór ó lá go lá mar gheall ar athruithe aimsire, aerú, úsáid an fhoirgnimh agus araile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The EPA's radon measurement service is confidential and it will not release the result of any measurement to anyone other than the person who originally requested the measurement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seirbhís rúnda is ea an tseirbhís um thomhas radóin a chuireann an EPA ar fáil. Ní chuirfidh sí toradh aon tomhais in iúl do dhuine ar bith seachas an duine a d’iarr an tomhas sa chéad áit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you find high radon levels</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má thagann tú ar ardleibhéil radóin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The level of radon is measured in becquerels per cubic metre – expressed as Bq/m^3 – and the national ‘reference level’ is 200 Bq/m^3</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is i mbeicireilí in aghaidh an mhéadair chiúbaigh – a chuirtear in iúl mar Bq/m^3 – a thomhaistear an leibhéal radóin. Is ionann an ‘leibhéal tagartha’ náisiúnta agus 200 Bq/m^3</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The EPA recommends that you should consider taking action to reduce the level of radon in your home if the measurement is above this national reference level</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá an tomhas i do theach os cionn an leibhéil tagartha náisiúnta sin, molann an EPA gur chóir duit breithniú a dhéanamh ar ghníomh a dhéanamh an leibhéal radóin i do theach a laghdú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Steps that are taken to reduce the radon level are generally known as ‘radon remediation’</seg></tuv>
+  <tuv xml:lang="ga"><seg>De ghnáth, tugtar ‘leasú radóin’ ar bhearta a dhéantar chun an leibhéal radóin a laghdú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are two main methods of radon remediation – either by preventing radon entering your home from the ground underneath or by removing the radon after it has entered your home</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá dhá phríomh-mhodh chun radón a leasú - trína chinntiú nach féidir le radón dul isteach i do theach ón talamh faoina bhun nó tríd an radón a bhaint tar éis dó dul isteach i do theach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>No matter which method you choose, it is important to have your home re-tested after the work has been completed, to ensure that it has been successful in reducing the level in your home to below 200 Bq/m^3</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cibé modh a roghnaíonn tú, tá sé tábhachtach go ndéanfar do theach a thástáil arís tar éis an obair a chríochnú chun a chinntiú gur éirigh leis an obair an leibhéal radóin i do theach a laghdú go níos lú ná 200 Bq/m^3</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The EPA provides a free post-remediation service to homeowners</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann an EPA seirbhís iarleasaithe ar fáil saor in aisce d’úinéirí tí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Radon remediation works may qualify for the Home Renovation Incentive scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh go mbeadh oibreacha leasaithe radóin incháilithe don Scéim Dreasachta Athchóirithe Tí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You either apply and pay online for a radon measurement for your home, or you can download an application form for a radon measurement in the home and return it to the EPA with your payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat foirm iarratais ar thomhas radóin i do theach a íoslódáil agus í chur ar ais chuig an EPA le d’íocaíocht</seg></tuv>
+</tu>
+</body>
+</tmx>

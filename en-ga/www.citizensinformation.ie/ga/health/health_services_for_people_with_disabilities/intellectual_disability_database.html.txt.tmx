@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>National Intellectual Disability Database</seg></tuv>
+  <tuv xml:lang="ga"><seg>An Bunachar Sonraí Náisiúnta um Míchumas Intleachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The National Intellectual Disability Database is a database of information about people who are receiving intellectual disability services in Ireland or who are in need of these services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bunachar sonraí faisnéise faoi dhaoine a bhfuil seirbhísí um míchumas intleachta á bhfáil acu in Éirinn nó a dteastaíonn na seirbhísí seo uathu, atá sa Bhunachar Náisiúnta um Míchumas Intleachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The objective of the database is to ensure that accurate information is available about the needs of people with intellectual disabilities</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é cuspóir an bhunachair seo a chinntiú go bhfuil faisnéis chruinn ar fáil faoi riachtanais daoine atá faoi mhíchumas intleachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Services are planned and co-ordinated on the basis of the information contained in the database</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar seirbhísí a phleanáil agus a chomhordú ar bhonn na faisnéise a chuimsítear sa bhunachar sonraí seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is also a National Physical and Sensory Disability Database</seg></tuv>
+  <tuv xml:lang="ga"><seg>Anuas air sin, tá Bunachar Sonraí Náisiúnta um Míchumas Fisiciúil agus Céadfach ann chomh maith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The information on the database is gathered by service providers who are in contact with people with intellectual disabilities</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bailíonn soláthraithe seirbhíse an fhaisnéis ar an mbunachar sonraí a dhéanann teagmháil le daoine atá faoi mhíchumas intleachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, Local Health Offices, voluntary bodies, and school principals</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, Oifigí Sláinte Áitiúla, comhlachtaí deonacha, agus príomhoidí scoile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The information is given to Health Service Executive Local Health Offices</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar an fhaisnéis d’Oifigí Sláinte Áitiúla Fheidhmeannacht na Seirbhíse Sláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The information is collected at national level, without any personal details such as name or address, and it is analysed by the Health Research Board</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bailítear an fhaisnéis ar leibhéal náisiúnta, gan aon sonraí pearsanta a bhailiú, ar nós ainm nó seolta, agus déanann an Bord Taighde Sláinte anailís uirthi</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The statistical information is used to monitor current service provision and to predict future service requirements</seg></tuv>
+  <tuv xml:lang="ga"><seg>Úsáidtear an fhaisnéis staitistiúil chun monatóireacht a dhéanamh ar sholáthar reatha seirbhíse agus chun riachtanais seirbhíse amach anseo a thuar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Access to the database</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rochtain ar an mbunachar sonraí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If there are details about you on the database, these details may be accessed by:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá sonraí ann fút ar an mbunachar sonraí, féadfaidh na daoine a leanas na sonraí a rochtain:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You (or, for a child, by the parents or guardians)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tú féin (nó, i gcás linbh, na tuismitheoirí nó na caomhnóirí)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• By a small number of people working for your service provider and/or your Local Health Office</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Líon beag daoine a oibríonn le do sholáthraí seirbhíse agus/nó d’Oifig Sláinte Áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The statistical information from the database, that is, information that does not identify any individual person is available to:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an fhaisnéis staitistiúil ón mbunachar sonraí, is é sin, an fhaisnéis nach ndéanann aon duine aonair a shainaithint, ar fáil ag:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The Health Research Board</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An Bord Taighde Sláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A National Database Committee considers requests for access to statistical information from the database and where it is appropriate, makes this information available</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann Coiste Bunachar Sonraí Náisiúnta breithniú ar iarratais ar rochtain ar fhaisnéis staitistiúil ón mbunachar sonraí agus sa chás gur cuí, cuireann siad an fhaisnéis seo ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The National Intellectual Disability Database Committee issues an Annual Report each year containing information on the current level of service provision</seg></tuv>
+  <tuv xml:lang="ga"><seg>Eisíonn Coiste Náisiúnta an Bhunachair Shonraí um Míchumas Intleachta Tuarascáil Bhliantúil gach bliain ina gcuimsítear faisnéis ar an leibhéal reatha de sholáthar seirbhíse</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Data Protection Act, 1988 and the Data Protection (Amendment) Act 2003 applies in the normal way to information on this database</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirtear an tAcht um Chosaint Sonraí, 1988 agus an tAcht um Chosaint Sonraí (Leasú), 2003 i bhfeidhm ar an ngnáthbhealach i dtaobh faisnéise atá ar an mbunachar sonraí seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means, in summary, that you (or your parent or guardian if you are a child) have a right to:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn seo, go hachomair, go bhfuil sé de cheart agat (nó ag do thuismitheoir nó caomhnóir, más leanbh thú):</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Get a copy of the information held about you on the database</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cóip a fháil den fhaisnéis a choimeádtar fút ar an mbunachar sonraí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can do this by contacting the Database Co-ordinator in your Local Health Office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú seo a dhéanamh trí theagmháil a dhéanamh le Comhordaitheoir an Bhunachair Shonraí i d’Oifig Sláinte Áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Have any inaccurate information corrected or removed</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Aon fhaisnéis mhíchruinn fút a cheartú nó a bhaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Complain to the Data Protection Commissioner if your rights are not respected</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gearán a dhéanamh leis an gCoimisinéir Cosanta Sonraí mura léirítear meas ar do chearta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have any questions about the National Intellectual Disability Database contact the Disability Office in your Local Health Office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhraitheann tú go bhfuil faisnéis mhíchruinn á coimeád fút, ba cheart duit teagmháil a dhéanamh leis an gCoimisinéir Cosanta Sonraí</seg></tuv>
+</tu>
+</body>
+</tmx>

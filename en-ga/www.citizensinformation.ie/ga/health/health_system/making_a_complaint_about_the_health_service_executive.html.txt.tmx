@@ -1,0 +1,349 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Making a complaint about a health service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gearán a dhéanamh faoi sheirbhís sláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This document describes the complaints system for public health services provided by, or on behalf of, the Health Service Executive (HSE)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar cur síos sa cháipéis seo ar an gcóras gearán le haghaidh seirbhísí sláinte poiblí a sholáthraíonn Feidhmeannacht na Seirbhíse Sláinte (FSS) nó a sholáthraítear thar a ceann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For information about making a complaint about a private health service visit healthcomplaints.ie which provides information on making complaints about private and public health services</seg></tuv>
+  <tuv xml:lang="ga"><seg>I dtaobh seirbhísí sláinte príobháideacha, tabhairt cuairt ar healthcomplaints.ie, a sholáthraíonn faisnéis ar ghearáin a dhéanamh faoi sheirbhísí sláinte príobháideacha agus poiblí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is a statutory complaints system for anyone seeking or receiving public health or personal social services who wishes to make a complaint about the HSE</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá córas reachtúil gearán ar fáil d’aon duine atá ar lorg nó ag fáil seirbhísí sláinte poiblí nó seirbhísí sóisialta pearsanta agus ar mian leis/léi gearán a dhéanamh faoi Fheidhmeannacht na Seirbhíse Sláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The complaints system also covers service providers with HSE contracts who provide health or personal social services on behalf of the HSE</seg></tuv>
+  <tuv xml:lang="ga"><seg>Clúdaítear i gcóras na ngearán na soláthraithe seirbhíse a bhfuil conarthaí acu le FSS agus a chuireann seirbhísí sláinte nó sóisialta pearsanta ar fáil thar ceann FSS</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The law governing the complaints system is set out in Part 9 of the Health Act 2004</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an dlí lena rialaítear córas na ngearán leagtha amach i Cuid 9 Acht Sláinte 2004</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>What can you make a complaint about?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cad faoi is féidir leat gearán a dhéanamh?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may make a complaint about any action of the HSE or a service provider that, in your view, doesn’t seem to be fair or reliable administrative practice and that adversely affects you, or someone on whose behalf you are making a complaint</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat gearán a dhéanamh faoi ghníomh ar bith de chuid FSS nó soláthraithe seirbhíse maidir leis an méid seo a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Administrative practice refers to the way decisions are made and how services operate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cad is cleachtas riaracháin cothrom nó iontaofa ann?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the complaints system, administrative practice isn’t considered to be fair or reliable if it is:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mheastar cleachtas riaracháin a bheith cothrom ná iontaofa de réir chóras na ngearán sna cásanna seo a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Taken without proper authority</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Déantar é gan údarás cuí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Taken on irrelevant grounds</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Déantar é de bhun bunús neamhábhartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The result of negligence or carelessness</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Déantar é de thoradh faillí nó míchúraim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Based on erroneous or incomplete information</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Déantar é bunaithe ar fhaisnéis atá mícheart nó neamhiomlán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Based on undesirable administrative practice</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Déantar é bunaithe ar chleachtas riaracháin atá neamh-inmhianaithe, nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• In any other respect, against fair or sound administration</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ar ábhar ar bith eile, atá contráilte do riarachán cothrom ná iontaofa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Who can make a complaint?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cé atá in ann gearán a dhéanamh?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are unable to make a complaint on your own behalf due to your age, illness or disability, someone else can make a complaint on your behalf</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil tú in ann gearán a dhéanamh ar do shon féin de dheasca aoise, tinnis nó míchumais, is féidir le duine eile gearán a dhéanamh ar do shon</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Anyone appointed by law or the courts to take care of your affairs</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Duine ar bith atá ceaptha de réir an dlí nó de réir na gcúirteanna chun do chuid gnóthaí a riar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(This would seem to include a Committee of a Ward of Court or someone appointed under an Enduring Power of Attorney </seg></tuv>
+  <tuv xml:lang="ga"><seg>(San áireamh leis seo bheadh Coiste Coimircí Cúirte nó duine atá ceaptha faoi Chumhacht Bhuan Aturnae</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is not however entirely clear as the law which applies to Committees and Attorneys gives them specific and not general powers)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl sé iomlán soiléir áfach ós rud é go dtugtar cumhachtaí sainiúla, seachas cumhachtaí ginearálta dóibh sa dlí a bhaineann le Coistí agus le hAturnaetha)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Anyone else with your consent</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Duine ar bith eile atá ceadaithe agat, nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Anyone who is appointed, as set out in the Regulations</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Duine ar bith eile atá ceaptha, de réir mar atá leagtha amach sna Rialacháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Can a complaint be made on behalf of a deceased person?</seg></tuv>
+  <tuv xml:lang="ga"><seg>An féidir gearán a dhéanamh thar ceann duine nach maireann?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In such cases the complaint may be made by a close relative or carer</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcásanna dá leithéid is féidir le garghaol nó le cúramóir an gearán a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A close relative includes a parent, guardian, son, daughter, spouse or cohabiting partner</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ionann garghaol is tuismitheoir, caomhnóir, mac, iníon, céile nó páirtí comhchónaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Remember, the complaint must be made within 12 months of the date of the action giving rise to the complaint or of the person becoming aware of the action</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don ghearán a bheith déanta, áfach, laistigh de 12 mhí ó dháta an ghnímh atá mar ábhar an ghearáin nó ón dáta a thagann an gníomh chun feasa an duine atá i gceist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A complaints officer may extend the time limit if there are special circumstances involved</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh oifigeach gearán an teorainn ama a shíneadh má tá imthosca speisialta i gceist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Which complaints are not covered?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cad iad na gearáin nach bhfuil clúdaithe?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You cannot complain about:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leat gearán a dhéanamh faoin méid seo a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A matter that is, or has been the subject of legal proceedings before a court or tribunal </seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ábhar atá, nó a bhí mar ábhar imeachtaí dlíthiúla os comhair cúirte nó binse</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A matter relating solely to the clinical judgment (medical decision) by a person acting on behalf of the HSE or a service provider</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gníomh arna ghlacadh ag FSS nó ag soláthraí seirbhíse de bhun comhairle duine éigin a d’úsáid a bhreithiúnas cliniciúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• An action taken by the HSE or a service provider solely on the advice of someone exercising their clinical judgment</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ábhar maidir le hearcú, ceapachán nó téarmaí agus coinníollacha fostaithe nó comhairleoirí FSS nó soláthraí seirbhíse</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A matter relating to the recruitment, appointment or terms and conditions of an employee or advisor of the HSE or a service provider</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ábhar a bhaineann le hAchtanna Leasa Shóisialaigh, mar shampla An Scéim Liúntais Leasa Fhorlíontaigh. (Téitear i ngleic leo trí Oifig Achomhairc Leasa Shóisialaigh)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A matter relating to the registration of births, marriages and deaths that could be the subject of an appeal (Section 60 of the Civil Registration Act 2004)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ábhar a bhaineann le clárú breitheanna, bainiseacha agus básanna a d’fhéadfadh a bheith mar ábhar achomhairc (Alt 60 den Acht um Chlárú Sibhialta)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A matter that could prejudice an investigation being undertaken by the Gardaí</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ábhar a d’fhéadfadh dochar a dhéanamh d’fhiosrúchán atá á dhéanamh ag na Gardaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A matter that has been brought before any other statutory complaints procedure</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ábhar atá curtha faoi bhráid nós imeachta reachtúil eile um ghearáin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(This doesn’t prevent a complaints officer dealing with a complaint that was made to the Ombudsman or the Ombudsman for Children.)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Ní chuireann sé seo bac ar oifigeach gearán dul i ngleic le gearán atá curtha faoi bhráid an Ombudsman nó an Ombudsman do Leanaí)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>How does the HSE complaints procedure operate?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Conas mar a oibríonn nós imeachta gearán FSS?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The complaints officer will be informed of all verbal complaints that could not be resolved at the first point of contact and will receive a copy of all written complaints</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabharfar fógra don oifigeach gearán faoi gach gearán ó bhéal nach rabhthas in ann a réiteach ag an gcéad phointe teagmhála. Gheobhaidh an t-oifigeach gearán cóip de gach gearán scríofa freisin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Depending on the nature of the complaint, the complaints officer, with the consent of the people involved, may consider if an informal resolution might be appropriate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag brath ar chineál an ghearáin, féadfaidh an t-oifigeach gearán, le toiliú na ndaoine lena mbaineann, breithniú a dhéanamh ar cé acu atá nó nach bhfuil réiteach neamhfhoirmiúil oiriúnach don chás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As part of the informal resolution the complaints officer may arrange a meeting between the parties concerned or use mediation services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar chuid den réiteach neamhfhoirmiúil, féadfaidh an t-oifigeach gearán cruinniú a eagrú idir na páirtithe lena mbaineann nó leas a bhaint as seirbhísí idirghabhála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If informal resolution is not appropriate or turns out not to be successful, the complaints officer will start a formal investigation of the complaint</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura bhfuil réiteach neamhfhoirmiúil oiriúnach don chás, nó mura n-éiríonn le réiteach neamhfhoirmiúil, tionscnóidh an t-oifigeach gearán imscrúdú foirmiúil ar an ngearán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may then ask for a review of that recommendation and there will be an internal review</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ansin is féidir leat athbhreithniú ar an moladh sin a lorg agus déanfar athbhreithniú inmheánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(See ‘How to apply’ for information on how to make a complaint)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Féach ar ‘Conas iarratas a dhéanamh’ thíos le fáil amach conas gearán a dhéanamh)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Written complaints will be acknowledged within five working days and the complaint will be investigated within 30 working days</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabharfar admháil maidir le gach gearán scríofa laistigh de chúig lá oibre agus déanfar an gearán a fhiosrú laistigh de 30 lá oibre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will get a written response to your complaint</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gheobhaidh tú freagra scríofa maidir le do ghearán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will be told of your right to have an internal review and of your right to go to the Ombudsman</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirfear ar an eolas tú maidir le do cheart athbhreithniú inmheánach a fháil agus maidir le do cheart dul i muinín an Ombudsman</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Service providers may put their own procedures in place by agreement with the HSE</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le soláthraithe seirbhíse a nósanna imeachta féin a chur i bhfeidhm trí chomhaontú le FSS</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is a condition of the agreement between the HSE and service providers that service providers will comply with the HSE complaints procedure, or establish its own complaints procedures</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is coinníoll é sa chomhaontú idir FSS agus soláthraithe seirbhíse go gcomhlíonfaidh soláthraithe seirbhíse nós imeachta gearán FSS, nó go ndéanfaidh siad a nósanna imeachta gearán féin a bhunú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It’s also a condition that the service provider will co-operate with the HSE in any review of a complaints officer’s recommendation following the investigation of a complaint against the service provider</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is coinníoll é fosta go gcomhoibreoidh an soláthraí seirbhíse le FSS maidir le hathbhreithniú ar bith ar mholadh an oifigigh ghearán i ndiaidh an fhiosrúcháin ar ghearán i gcoinne an tsoláthraí seirbhíse</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Are complaints officers required to fully investigate every complaint?</seg></tuv>
+  <tuv xml:lang="ga"><seg>An gá d’oifigigh gearán fiosrúchán iomlán a dhéanamh ar gach gearán?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Complaints officers may stop investigating a complaint for various reasons</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le hoifigigh gearán stop a chur le fiosrúchán ar ghearán ar chúiseanna éagsúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, if the complaint is trivial or vexatious</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, más neafaiseach nó cráiteach an gearán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Complaints officers do not have to investigate complaints that don’t come within the scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní gá d’oifigigh gearán fiosrúchán a dhéanamh ar ghearáin nach gclúdaítear mar chuid den scéim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>What recommendations can a complaints officer not make?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cad iad na moltaí is féidir le hoifigeach gearán a dhéanamh?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A complaints officer cannot make a recommendation which would require the HSE to make a material change to its approved service plan</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir le hoifigeach gearán moladh a dhéanamh a chuirfeadh iallach ar FSS athrú ábhartha a chur lena plean seirbhíse atá faofa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(Approved service plans indicate the type and volume of health and personal social services to be provided by the HSE, they indicate planned capital spending on services, etc.)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Léiríonn pleananna seirbhíse faofa cineál agus méid na seirbhísí sóisialta sláinte agus pearsanta atá le soláthar ag FSS, léiríonn siad an caiteachas caipitil atá beartaithe le haghaidh seirbhísí, srl)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Complaints officers cannot make recommendations either that would require a change to be made to the contractual arrangements which the HSE has with a service provider</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir le hoifigigh gearán moltaí a dhéanamh a chruthódh iallach athrú a dhéanamh ar shocruithe conarthacha atá ag FSS le soláthraí seirbhíse</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the CEO of the HSE or the service provider considers that a recommendation breaches this rule, they may amend the recommendation as required, or they may reject the recommendation and take other measures to deal with the complaint</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má mheasann POF FSS nó an soláthraí seirbhíse go sáraíonn moladh an riail seo, d’fhéadfaidís an moladh a leasú de réir mar is gá, nó d’fhéadfaidís an moladh a dhiúltú agus bearta eile a ghlacadh chun dul i ngleic leis an ngearán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Will details of complaints received be reported?</seg></tuv>
+  <tuv xml:lang="ga"><seg>An ndéantar sonraí na ngearán a bhfaightear a thuairisciú?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The HSE is obliged to publish information about the complaints procedure, as part of its annual report</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá ar FSS faisnéis a fhoilsiú faoin nós imeachta gearán, mar chuid dá tuarascáil bhliantúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Service providers must provide the HSE with details about the number and the nature of complaints dealt with, through their own complaints procedures</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór do sholáthraithe seirbhíse FSS a chur ar an eolas maidir le sonraí, líon agus cineál na ngearán a bpléadh leo, trína nósanna imeachta gearán féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Complaints under the Disability Act 2005</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gearáin faoin Acht um Míchumas 2005</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Disability Act 2005 provides for, among other things, the assessment of need of people with disabilities and the consequent drawing up of service statements</seg></tuv>
+  <tuv xml:lang="ga"><seg>I measc nithe eile, foráiltear leis an Acht um Míchumas 2005 do mheasúnú a dhéanamh ar riachtanais daoine faoi mhíchumas agus do ráitis seirbhíse a dhréachtú ina dhiaidh sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is also a complaints and appeals procedure under the Disability Act 2005 which you can use if you are unhappy with your child's assessment or service statement or delivery of related services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá nós imeachta gearán agus achomharc ann freisin faoin Acht um Míchumas 2005, nós imeachta is féidir leat a úsáid mura bhfuil tú sásta le measúnú ar do leanbh, le ráiteas seirbhíse do linbh nó le soláthar seirbhísí gaolmhara</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is no fee to make a formal complaint to a service provider, who provides services on behalf of the HSE.   How to apply</seg></tuv>
+  <tuv xml:lang="ga"><seg>Conas iarratas a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you wish to make a complaint about the HSE you should first of all try to resolve the problem locally</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má theastaíonn uait gearán a dhéanamh faoi FSS ba cheart duit iarracht a dhéanamh an fhadhb a réiteach go háitiúil i dtús báire</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>That means, bringing the complaint to the attention of the person in charge of the service, for example the ward sister in the case of a hospital complaint, or the supervisor in charge for other services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ionann sin is a rá gur cheart an gearán a chur faoi bhráid an duine atá i gceannas ar an tseirbhís, mar shampla siúr an bharda i dtaobh gearáin ospidéil, nó an maoirseoir atá i gceannas i dtaobh seirbhísí eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some general advice on how to make a consumer complaint is available here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá roinnt comhairle ginearálta ar fáil anseo maidir leis an gcaoi chun gearán ó thomhaltóir a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are still unhappy, you can make your complaint through the formal complaints mechanism</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú fós míshásta, is féidir leat do ghearán a dhéanamh trí mheicníocht fhoirmiúil gearán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are a number of ways in which to make a complaint to the HSE, including by mail, phone, email, online, or through advocacy or accessibility services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá roinnt bealaí ann chun gearán a dhéanamh chuig Feidhmeannacht na Seirbhíse Sláinte, lena n-áirítear tríd an bpost, ar an ngutháin, trí ríomhphost, ar líne, nó trí sheirbhísí abhcóideachta nó inrochtaineachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is advisable to make your formal complaint in writing, giving as much detail as you can</seg></tuv>
+  <tuv xml:lang="ga"><seg>Moltar duit gearán foirmiúil a dhéanamh i scríbhinn, agus an méid sonraí agus is féidir a thabhairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Written complaints will be acknowledged within five working days and the complaint will be investigated within 30 days</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabharfar admháil maidir le gach gearán scríofa laistigh de chúig lá oibre agus déanfar an gearán a fhiosrú laistigh de 30 lá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the investigation takes longer than 30 days, the HSE will keep you up updated about progress on your complaint every 20 working days</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má mhaireann an fiosrúchán tréimhse níos faide ná 30 lá, coinneoidh FSS ar an eolas tú maidir le dul chun cinn do ghearán gach 20 lá oibre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Following the investigation, you will receive a written response to your complaint and will be advised of your right to have an internal review of the recommendation of the complaints officer</seg></tuv>
+  <tuv xml:lang="ga"><seg>I ndiaidh an fhiosrúcháin, gheobhaidh tú freagra scríofa maidir le do ghearán agus tabharfar comhairle duit faoi do cheart go ndéanfaí athbhreithniú inmheánach ar mholadh an oifigigh ghearán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will also be told of your right to complain to the Ombudsman</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirfear ar an eolas tú maidir le do cheart gearán a dhéanamh don Ombudsman fosta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>What happens if you exhaust the complaints process?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cad a tharlóidh má théann tú chomh fada agus is féidir leis an bpróiseas gearán?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have exhausted the health service complaints process, you may complain to the Ombudsman or the Ombudsman for Children. Their role is not changed by this complaints procedure</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú imithe chomh fada agus is féidir le próiseas gearán na seirbhíse sláinte d’fhéadfá gearán a dhéanamh leis an Ombudsman nó leis an Ombudsman do Leanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Actions taken by service providers under agreements with the HSE will be considered to have been taken by the HSE for the purposes of the legislation governing each Ombudsman</seg></tuv>
+  <tuv xml:lang="ga"><seg>Measfar gur ionann gníomhartha arna ndéanamh ag soláthraithe seirbhíse faoi réir ag comhaontuithe le FSS is gníomhartha FSS chun críocha na reachtaíochta lena rialaítear gach Ombudsman</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This in effect, extends the Ombudsman’s remit to these service providers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dá réir sin, clúdaítear na soláthraithe seirbhíse seo mar chuid de shainchúram an Ombudsman</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The law doesn’t provide for a mechanism for implementing the recommendations of a complaints officer or for what is to happen if the recommendation is not implemented</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon mheicníocht ann sa dlí maidir le cur i bhfeidhm moltaí ó oifigeach gearán ná maidir lena dtarlaíonn mura ndéantar an moladh a chur i bhfeidhm</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is more information about the complaints procedure in Your Service, Your Say – HSE Complaints Policy</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh eolais faoin nós imeachta gearán i Do Sheirbhís, Do Bharúil – Beartas Gearán FSS</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The HSE’s national information line is CallSave 1850 24 1850 or (041) 685 0300</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is í uimhir Shaorghlao 1850 24 1850 nó (041) 685 0300 líne eolais náisiúnta FSS</seg></tuv>
+</tu>
+</body>
+</tmx>

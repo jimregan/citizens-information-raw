@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Blood and organ donation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bronnadh orgán agus fola</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Organ and body donation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Corp agus orgáin a bhronnadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Organ donation and transplantation saves many lives each year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iomaí duine a thugtar slán gach bliain le bronnadh orgáin agus trasphlandú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Information about organ donation and about donating your body to science</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faisnéis faoi bhronnadh orgáin agus faoi do chorp a bhronnadh le haghaidh taighde leighis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Blood donation services are organised by the Irish Blood Transfusion Service. Rules about donating blood</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá cur síos sa cháipéis seo ar an tSeirbhís Fhuilaistriúcháin agus na rialacha a bhaineann le fuil a dheonú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Hepatitis C and the Health Amendment Act Card</seg></tuv>
+  <tuv xml:lang="ga"><seg>Heipitíteas C agus an Cárta faoin Acht Sláinte (Leasú)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Services that are available to people who contracted Hepatitis C through the use of Human Immunoglobulin-Anti-D or through receiving blood products or blood transfusions in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá cur síos sa cháipéis seo ar na seirbhísí atá ar fáil do dhaoine a fuair Heipitíteas C ó Ghlóbailin Imdhíonachta Daonna-Frith-D nó ó aon tháirge fola nó aistriú fola a fuair siad in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most Read in "Health"</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ábhar is mó éilimh i "Sláinte"</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Admission to a psychiatric hospital</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ospidéal síciatrach a iontráil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Medical card means test: aged under 70</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tástáil mhaoine cárta leighis: daoine faoi bhun 70 bliain d’aois</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>The Payment of Wages Act 1991 gives all employees a right to a pay slip which will show the gross wage and details of all deductions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann an tAcht um Íoc Pá 1991 an ceart do gach fostaí pádhuille a fháil óna bhfostóir. Taispeánfaidh an pádhuille an t-ollphá agus sonraí gach asbhaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A pay slip is essentially a statement in writing from the employer to the employee that outlines the total pay before tax and all details of any deductions from pay</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is éard go bunúsach atá i bpádhuille ná ráiteas i scríbhinn ón bhfostóir chuig an bhfostaí a léiríonn an pá iomlán roimh cháin agus sonraí iomlána d'aon asbhaint ó phá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It can be provided to you either in electronic format or in hard copy</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh go seolfar é chugat i bhformáid leictreonach nó i gcruachóip</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your right to a pay slip is set down in Section 4 of this Act</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá do cheart pádhuille a fháil leagtha síos in Alt 4 den Acht um Íoc Pá 1991</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Payment of Wages Act 1991 refers to situations where either deductions are made from pay or the employee is required to make a payment to the employer</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tagraíonn an tAcht um Íoc Pá 1991 do chásanna ina bhfuil asbhaintí ó phá nó ní mór don fhostaí íocaíocht leis an bhfostóir a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The following deductions from your pay by your employer are allowed when:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní fhéadfaidh fostóir asbhaintí a bhaint as do thuarastal ach amháin má:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• They are required by law, for example, tax (PAYE) and social insurance (PRSI),</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Éilíonn an dlí sin, mar shampla cáin (IMAT) agus árachas sóisialach (ÁSPC),</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• They are provided for in the contract of employment, for example occupational pension contributions</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tá foráil maidir leo sa chonradh fostaíochta, mar shampla ranníocaíochtaí pinsin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• They are made with your written consent, for example, trade union subscriptions</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Déantar sin le cead an fhostaí i scríbhinn, mar shampla, síntiús ceardchumainn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• They are to recover an overpayment of wages or expenses</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Táthar á dhéanamh le ró-íoc pá nó costais a aisghabháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• They are required by a court order, for example, an attachment of earnings order in a family law case</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Éilítear de bharr ordú cúirte é, mar shampla, ordú astú tuillimh i gcás dhlí an teaghlaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• They arise due to your being on strike</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Thagann siad i gceist de bharr an fhostaí a bheith ar stailc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where your employer suffers loss through your fault, for example breakages or till shortages or your employer supplies a service as part of the job, for example, a uniform, deductions may be allowed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás go mbíonn caillteanas ar d'fhostóir agus an milleán ortsa, mar shampla, briseadh earraí nó ganntanas sa taisceadán nó sa chás go gcuireann an fostóir seirbhís ar fáil mar chuid den phost, mar shampla, éide</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In these cases a deduction (or payment by the employee) is only allowed where:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sna cásanna seo ní cheadaítear asbhainte (nó íocaíocht ag an bhfostaí) ach amháin:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• It is allowed for in your contract</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Í a bheith ceadaithe faoi do chonradh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• It is fair and reasonable</seg></tuv>
+  <tuv xml:lang="ga"><seg>• I a bheith cóir agus réasúnach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You have received a written notice of the deduction - a full week's notice if the deduction arises from your mistake</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Fógra scríofa a bheith faighte agat maidir leis an asbhaint - fógra seachtaine ar a laghad más de bharr bhotún fhostaí an asbhaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The amount of the deduction does not exceed the loss or cost of the service</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Nach dtiocfadh méid na hasbhainte thar luach an chaillteanais nó chostas na seirbhíse</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The deduction takes place within 6 months of the loss/cost occurring</seg></tuv>
+  <tuv xml:lang="ga"><seg>• An asbhaint a dhéanmh taobh istigh de 6 mhí ó tharlaíonn an caillteanas/costas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Failure to pay all or part of the wages due to an employee is considered an unlawful deduction and a complaint can be made under the Payment of Wages Act – see ‘How to apply’ below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú tar éis obair a fhágáil agus mura n-íocadh thú nó má tá do phá níos lú ná an méid atá dlite duit, is asbhaint neamhdhleathach í seo faoin Acht um Íoc Pá – féach ‘Conas iarratas a dhéanamh’ thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Likewise, unpaid notice, holiday pay, bonus and commission payments can also form part of a claim under the Act</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar an gcéanna, is féidir fógra neamhíoctha, pá saoire, íocaíochtaí bónais agus coimisiúin bheith cuid éilimh faoin Acht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Complaints about unauthorised deductions from wages under the Payment of Wages Act 1991 should be made to the Workplace Relations Commission (WRC)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir duit do ghearáin faoi asbhaintí neamhúdaraithe ó phá faoin Acht um Íoc Pá 1991 a dhéanamh leis an gCoimisiún um Chaidreamh san Áit Oibre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must use the online complaint form available on workplacerelations.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh tú an fhoirm ghearáin ar líne nua a úsáid á fáil ar workplacerelations.ie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A complaint must be brought within 6 months of the date of the deduction</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir an gearán a dhéanamh laistigh de 6 mhí ó dháta na hasbhainte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The time limit may be extended for up to a further 6 months, but only where there is a reasonable cause which prevented the complaint being brought within the normal time limit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir síneadh ama 6 mhí eile a thabhairt duit ach ní dhéanfar é sin mura bhfuil cúinsí réasúnacha ann a chuir cosc ort an ghearán a dhéanamh laistigh den gnáth-thréimhse ama</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An employer who fails to provide a payslip or provides one that is deliberately falsified is guilty of an offence under the Payment of Wages Act 1991 and may be issued with a fixed payment notice</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cion in aghaidh an Achta um Íoc Pá 1991 atá ann mura dtugann fostóir duillín pá nó má thugann sé nó sí ceann atá falsaithe d’aon ghnó, agus féadfar fíneáil a ghearradh ar a leithéid d’fhostóir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Complaints about payslips should be made as above</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir gearáin faoi dhuillíní pá a dhéanamh mar atá luaite thuas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further information is available in this explanatory booklet on the Payment of Wages Act 1991 (pdf) or from WRC Information and Customer Service - see 'Where to apply' below.   Where to apply  Workplace Relations Commission</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir tuilleadh eolais a fháil sa bhileog mhíniúcháin ar an Acht um Íoc Pá 1991 (pdf) nó ón tSeirbhís Fhaisnéise agus Custaiméara an Choimisiúin um Chaidreamh san Áit Oibre – féach ‘Cá háit a ndéanfaidh mé iarratas’ thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Information and Customer Service O'Brien Road Carlow R93 W7W2 Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cá háit a dhéanfaidh mé iarratas?</seg></tuv>
+</tu>
+</body>
+</tmx>

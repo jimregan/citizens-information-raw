@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Civil partnership and social welfare entitlements</seg></tuv>
+  <tuv xml:lang="ga"><seg>Páirtnéireacht shibhialta agus teidlíochtaí leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For the purposes of most social welfare claims (for example, Jobseeker's Allowance and Supplementary Welfare Allowance claims) cohabiting couples, people in civil partnerships and married couples are treated the same</seg></tuv>
+  <tuv xml:lang="ga"><seg>Do chuspóirí an chuid is mó d’éilimh leasa shóisialaigh (mar shampla, éilimh Liúntas do Lucht Cuardaigh Fostaíochta and Liúntas Leasa Forlíontach) caitear le lánúineacha comhchónaitheacha, daoine i bpáirtnéireachtaí sibhialta agus lanúineacha pósta mar an gcéanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, your civil status will affect your entitlement to Widow's, Widower's or Surviving Civil Partner’s (Contributory) Pension or Widow's, Widower's or Surviving Civil Partner’s (Non-Contributory) Pension</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rachaidh do stádas sibhialta i bhfeidhm ar do Phinsean Baintrí, Baintrí Fir nó Páirtnéara Shibhialta Mharthanaigh (Ranníocach) nó do Phinsean Baintrí, Baintrí Fir nó Páirtnéara Shibhialta Mharthanaigh (Neamh-Ranníocach), áfach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can only claim Widow's/Widower's/Surviving Civil Partner's Pension if your civil partner dies</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leat éileamh a dhéanamh ar Phinsean Baintrí/Baintrí Fir/Páirtnéir Sibhialta Marthanaigh ach amháin má bhásaíonn do pháirtnéir sibhialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will not be entitled to this pension if you enter into a new civil partnership or marry</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bheidh tú i dteideal an phinsin seo má théann tú isteach i bpáirtnéireacht shibhialta nua nó má phósann tú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are in doubt about how your civil status will affect your claim, you should contact your local social welfare office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá amhras ort faoin gcaoi a chuirfidh do stádas sibhialta isteach ar d’éileamh, ba cheart duit dul i dteagmháil le d’oifig leasa shóisialaigh áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the case of supplementary welfare allowance, you should contact the Department of Social Protection's representative (formerly known as the Community Welfare Officer) in your local Health Centre or local social welfare office</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás liúntas leasa forlíontach, ba cheart duit dul i dteagmháil leis an an t-ionadaí Roinne Coimirce Sóisialaí (a tugadh an tOifigeach Leasa Pobail air roimhe seo) i d’Ionad Leighis áitiúil</seg></tuv>
+</tu>
+</body>
+</tmx>

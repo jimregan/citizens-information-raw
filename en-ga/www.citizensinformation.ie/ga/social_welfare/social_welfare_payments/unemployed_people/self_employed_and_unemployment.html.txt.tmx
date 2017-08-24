@@ -1,0 +1,229 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Self-employed people can become unemployed if their business has to close down</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le daoine féinfhostaithe a bheith dífhostaithe má dhúnann a gcuid gnó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It may also be the case, though you continue to be self-employed the amount of work you are getting has reduced so much that it no longer provides you with a sufficient income</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cé go leanfá de bheith féinfhostaithe, d’fhéadfadh sé tarlú go bhfuil laghdú chomh mór ar do chuid oibre nach soláthraítear dóthain ioncaim duit níos mó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you find yourself unemployed or you are getting less work than before you may qualify for a jobseeker's payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tharlaíonn go bhfuil tú dífhostaithe nó má thagann laghdú ar do chuid oibre, d'fhéadfá a bheith incháilithe d’íocaíocht leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You do not need to de-register as self-employed to get a payment. However you must meet the conditions that apply to jobseeker's payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní gá duit díchlárú mar dhuine féinfhostaithe chun íocaíocht leasa shóisialaigh a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you do not qualify for a social welfare payment you may be eligible to pay voluntary contributions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura gcáilíonn tú le haghaidh íocaíochta leasa shóisialaigh, d'fhéadfá cáiligh chun ranníocaíochtaí deonacha a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Self-employed people pay Class S PRSI</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocann daoine féinfhostaithe ÁSPC in Aicme S</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Class S PRSI only covers you for certain social welfare payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Clúdaíonn ÁSPC Aicme S íocaíochtaí leasa shóisialaigh áirithe amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It does not cover you for Jobseeker’s Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chlúdaítear Sochar Cuardaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if you worked as an employee in the last 4 years, you may have paid Class A PRSI and should apply to your local Intreo Centre or social welfare local office for Jobseeker’s Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin má d’oibrigh tú mar fhostaí sa 4 bhliain chánach is déanaí, b’fhéidir gur íoc tú ÁSPC Aicme A agus ba chóir duit iarratas a dhéanamh ar Shochar Sochar Cuardaitheora Poist i d'Ionad Intreo nó d’Oifig Leasa Shóisialaigh áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your Intreo centre or social welfare local office will check their records to find out whether you have enough Class A contributions to get Jobseeker’s Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfaidh d’Oifig Leasa Shóisialaigh áitiúil do thaifid a sheiceáil chun fáil amach cibé an bhfuil dóthain ranníocaíochtaí Aicme A agat chun Sochar Cuardaitheora Poist a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you work part-time you may qualify for Jobseeker’s Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat leanúint le Sochar Cuardaitheora Poist a fháil agus tú agus beagán oibre a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, you must have lost at least one day of employment and as a result of this loss be unemployed for at least 4 days out of 7 days</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin féin, caithfidh tú lá amháin fostaíochta a chailliúint ar a laghad - agus a bheith dífhostaithe 4 lá as 7 ar a laghad dá bharr</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your earnings must also have been reduced because of the loss of employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Lena chois sin, caithfidh laghdú tuilleamh a bheith i gceist leis an gcaillteanas fostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, if you are engaged under a contract for service to work (on a self-employed basis) for 3 days per week and unemployed for the remainder of the week, you may qualify for Jobseeker’s Benefit</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, má tá tú faoi chonradh seirbhíse oibre (ar bhonn féinfhostaithe) ar feadh 3 lá in aghaidh na seachtaine, d’fhéadfá a bheith incháilithe do Shochar Cuardaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Jobseeker’s Benefit is taxable</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Sochar Cuardaitheora Poist inchánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you do not qualify for Jobseeker’s Benefit you may get Jobseeker’s Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura gcáilíonn tú do Shochar Cuardaitheora Poist, d’fhéadfá Liúntas Cuardaitheora Poist a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you apply for Jobseeker’s Benefit you will be asked if you want to be assessed for Jobseeker’s Allowance if your claim for Jobseeker’s Benefit is unsuccessful</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a dhéantar iarratas ar Shochar Cuardaitheora Poist, iarrfar ort ar mhaith leat go ndéanfaí measúnú ort don Liúntas Cuardaitheora Poist mura mbíonn rath ar an éileamh do Shochar Cuardaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To get Jobseeker’s Allowance you must be habitually resident and pass a means test</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh tú na coinníollacha a leanas a shásamh chun Liúntas Cuardaitheora Poist a fháil:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are self-employed, you may be entitled to Jobseeker's Allowance depending on your earnings from your business</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Dífhostaithe • Ábalta oibriú, ar fáil chun oibre agus go fírinneach ag cuardach oibre • Gnáthchónaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You do not need to close your business or stop working as self-employed for you to get Jobseeker’s Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú féinfhostaithe, d’fhéadfá a bheith i dteideal do Liúntas Cuardaitheora Poist ag brath ar thuillimh an ghnó atá agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will get Jobseeker’s Allowance if your income is below a certain level</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní gá duit do ghnó a dhúnadh nó stopadh ag obair mar dhuine féinfhostaithe chun Liúntas Cuardaitheora Poist a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Income from self-employment and the means test</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ioncam féinfhostaíochta agus tástáil mhaoine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The earnings from your business will be assessed in the means test for Jobseeker’s Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar na tuillimh ghnó atá agat a mheasúnú sa tástáil mhaoine don Liúntas Cuardaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The assessment must reflect the income you may reasonably be expected to get from your business over the next 12 months</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh an measúnú tuar réasúnta a thabhairt den ioncam ón ghnó sna chéad 12 mhí amach romhainn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Income for the last 12 months will be taken as a guide but allowing for any factors which it is known will vary</seg></tuv>
+  <tuv xml:lang="ga"><seg>Glacfar le hioncam sna 12 mhí deiridh mar threoir, ach ceadófar do thosca ar bith a dhéanfadh cúrsaí a athrú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should be prepared to discuss these factors when you are assessed for Jobseeker’s Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir duit a bheith réidh leis na tosca seo a phlé nuair atá measúnú á dhéanamh don Liúntas Cuardaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Earnings are assessed as gross income less work related expenses over 12 months</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar na tuillimh a mheasúnú mar ollioncam lúide na costais a bhaineann le hobair thar tréimhse 12 mhí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your expected annual earnings from self-employment is divided by 52 to find your weekly means from self-employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar do thuillimh bhliantúla tuartha a roinnt faoi 52 chun d’acmhainní seachtainiúla ó fhéinfhostaíocht a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Any ‘drawings’ you take from the business is not an allowable expense</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl ‘tarraingtí’ ar bith a bhaintear ón ngnó incheadaithe mar chostas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your ‘drawings’ from the business are greater than the level of income calculated, the ‘drawings’ are assessed as cash income</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá do ‘tharraingtí’ ón ghnó níos mó ná an leibhéal ioncaim a ríomhtar, déantar ‘tarraingtí’ a mheasúnú mar ioncam in airgead tirim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is no exhaustive list of all business expenses allowed because expenses vary with the nature and extent of the self-employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon liosta uileghabhálacha de chostais uile toisc nádúr agus réim na féinfhostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However the following are the main allowable expenses in most cases:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin, is iad na nithe a leanas na príomhchostais incheadaithe sa chuid is mó de chásanna:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Motor running costs (portion applicable to business)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Costais coinneála mótair (sciar a bhaineann leis an ngnó)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Depreciation of machinery or equipment</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Dímheas innealra nó trealaimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Insurance relating to the business</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Árachas a bhaineann leis an ngnó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Telephone (portion applicable to business)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Teileafón (sciar a bhaineann leis an ngnó)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Lighting and heating (for business and not domestic use)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Soilsiú agus téamh (don ghnó agus ní úsáid sa bhaile)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Any other costs associated with running the business (household running costs are not allowed as deductions against business profit)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Níl costais reatha teaghlaigh ceadaithe mar asbhaintí in aghaidh bhrabúis ghnó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To prove the level of income from your business you must give your receipts and payments (documentation showing money coming in and out of your business) or audited accounts to the person dealing with your application in your Intreo centre or social welfare local office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun an leibhéal ioncaim ón ghnó atá agat a ríomh caithfidh tú d’admhálacha agus íocaíochtaí (cáipéisíocht a léiríonn airgead ag teacht isteach agus amach ón ghnó atá agat) nó cuntais iniúchta a thabhairt don duine ag déileáil le d’iarratas san Oifig Leasa Shóisialaigh áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you apply for Jobseeker’s Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a dhéantar iarratas ar Liúntas Cuardaitheora Poist (LCP)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Usually, you will be asked for your receipts and payments or audited accounts for the current and previous year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go hiondúil, iarrfar d’admhálacha agus íocaíochtaí nó cuntais iniúchta ort don bhliain reatha agus an bhliain roimhe sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, if you apply for Jobseeker's Allowance in April 2017 you will be asked for your receipts and payments from January to April 2017 and for 2016</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, má dhéantar iarratas ar Liúntas Cuardaitheora Poist, iarrfar ort d’admhálacha agus íocaíochtaí ó Eanáir go Meitheamh 2017 agus do 2016 a thabhairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, in certain cases you may be required to show audited accounts for the last two or more years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin féin, d’fhéadfadh dualgas a bheith ort cuntais iniúchta a thaispeáint do dhá bhliain deiridh nó níos mó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Find out more about signing on for a jobseeker’s payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigh tuilleadh eolais faoi shíniú d’íocaíocht cuardaitheora poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may qualify for Supplementary Welfare Allowance while you are waiting to be assessed for a jobseeker’s payment or if you don’t qualify for a jobseeker’s payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfá a bheith incháilithe don Liúntas Leasa Forlíontach nuair atá tú ag feitheamh ar mheasúnú don íocaíocht cuardaitheora poist nó mura gcáilíonn tú don íocaíocht cuardaitheora poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Supplementary Welfare Allowance provides a basic weekly allowance to eligible people who have little or no income</seg></tuv>
+  <tuv xml:lang="ga"><seg>Soláthraíonn Liúntas Leasa Forlíontach bunliúntas seachtainiúil do dhaoine incháilithe atá ar bheagán ioncaim nó gan ioncam ar bith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your weekly income is below the Supplementary Welfare Allowance rate for your family size, a payment may be made to bring your income up to the appropriate Supplementary Welfare Allowance rate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá d’ioncam seachtainiúil faoin ráta Liúntais Leasa Fhorlíontaigh do mhéid an teaghlaigh atá agat, is féidir íocaíocht a dhéanamh a thabharfaidh d’ioncam chomh fada le ráta iomchuí Liúntais Leasa Fhorlíontaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You cannot get Supplementary Welfare Allowance if you are working more than 30 hours per week. If you have claimed a jobseeker’s payment but it has not yet been paid and you have no other income, you may qualify for Supplementary Welfare Allowance while you are awaiting payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá éileamh déanta agat ar íocaíocht cuardaitheora poist ach nár íocadh rud ar bith fós agus nach bhfuil aon ioncam eile agat, d’fhéadfá a bheith incháilithe don Liúntas Leasa Forlíontach nuair atá tú ag feitheamh ar d’íocaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your income is below a certain amount you may get a medical card or a GP visit card</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má thiteann d’ioncam faoi bhun méid áirithe, d’fhéadfá Cárta Leighis nó Cárta Cuairte DG a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may get help with paying your rent</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfá cúnamh le cíos a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are in local authority housing you should contact your local authority and ask for a review of your rent because of the reduction in your income</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tithíocht údaráis áitiúil agat, ba chóir duit teagmháil a dhéanamh leis an údarás áitiúil agus iarraidh orthu do chíos a athbhreithniú toisc laghdú ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may get help with the cost of uniforms and footwear for children attending school</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leanaí ar scoil  D’fhéadfá cúnamh a fháil le costas éadaí agus coisbhirt do leanaí scoile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Back to School Clothing and Footwear Allowance Scheme operates from 1 June to 30 September each year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Feidhmíonn an Scéim Liúntais Éadaí agus Coisbhirt don Scoilbhliain Nua ón 1 Meitheamh go dtí an 30 Meán Fómhair gach bliain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have an exceptional or urgent need, for example, you need help with a funeral bill, a range of discretionary payments are provided by the Department of Social Protection's representative (formerly known as the Community Welfare Officer) in your local health centre</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá riachtanas eisceachtúil nó práinneach agat, mar shampla cúnamh le bille sochraide, tá raon íocaíochtaí lánroghnacha soláthraithe ag an Oifigeach Leasa Pobail i d'Oifig Sláinte Áitiúil</seg></tuv>
+</tu>
+</body>
+</tmx>

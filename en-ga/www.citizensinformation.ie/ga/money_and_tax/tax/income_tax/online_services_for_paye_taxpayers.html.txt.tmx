@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Online services for PAYE taxpayers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seirbhísí ar líne do cháiníocóirí ÍMAT</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are a PAYE taxpayer, that is if you have tax deducted from your income by your employer, you can use the PAYE Anytime service and the Jobs and Pensions service from Revenue</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más cáiníocóir ÍMAT thú, is é sin, má asbhaineann d’fhostóir cáin ó d’ioncam, féadfaidh tú an tseirbhís Aon Tráth Aon Lá ÍMAT agus an tseirbhís Phost agus Phinsean ó na Coimisinéirí Ioncaim a úsáid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This service is now available through Revenue's myAccount Service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an tseirbhís seo ar fáil anois trí Sheirbhís moChúrsaí na gCoimisinéirí Ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These services are now available through Revenue's myAccount Service which is a single access point for secure online services (excluding ROS)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá fáil ar na seirbhísí seo trí Sheirbhís moChúrsaí na gCoimisinéirí Ioncaim, ar pointe rochtana aonair í le haghaidh seirbhísí slána ar líne (gan ROS a áireamh)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Revenue’s myAccount Service is for people who are not registered for ROS</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Seirbhís moChúrsaí na gCoimisinéirí Ioncaim dírithe ar dhaoine nach bhfuil cláraithe do ROS</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can change your contact details, including your address, using myAccount</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú do shonraí teagmhála a athrú, do sheoladh san áireamh, trí moChúrsaí a úsáid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are a PAYE taxpayer who is not registered for ROS, you can use the PAYE Anytime service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más cáiníocóir ÍMAT thú nach bhfuil cláraithe do ROS, féadfaidh tú an tseirbhís Aon Tráth Aon Lá ÍMAT a úsáid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Once you have registered, you can:</seg></tuv>
+  <tuv xml:lang="ga"><seg>A luaithe a bhíonn tú cláraithe, féadfaidh tú an méid a leanas a dhéanamh:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• View your tax record</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Féachaint ar do thaifead cánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Claim a wide range of tax credits</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Réimse leathan de chreidmheasanna cánach a éileamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Apply for refunds of tax including health expenses</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Iarratas a dhéanamh ar aisíocaíochtaí cánach, costais sláinte ina measc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Request a review of tax liability for previous years</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Iarraidh go ndéantar athbhreithniú ar dhliteanas cánach do bhlianta roimhe seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Re-allocate credits between yourself and your spouse or civil partner</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Creidmheasanna a ath-leithdháileadh idir tú féin agus do chéile nó do pháirtnéir sibhialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Track correspondence submitted to Revenue</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Comhfhreagras a cuireadh faoi bhráid na gCoimisinéirí Ioncaim a rianú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>PAYE Anytime is available to customers who merely want access to their tax details</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá ÍMAT Aon Tráth Aon Lá ar fáil do chustaiméirí nach dteastaíonn uathu ach rochtain a fháil ar a sonraí cánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You do not have to submit transactions electronically if you do not wish to</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní gá duit idirbhearta a sheoladh ar aghaidh go leictreonach mura mian leat amhlaidh a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You do not have to submit paper claims when you submit a transaction through PAYE Anytime</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní gá duit éilimh ar pháipéar a sheoladh ar aghaidh nuair a sheolann tú idirbheart ar aghaidh trí ÍMAT Aon Tráth Aon Lá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However you are obliged to retain receipts for 6 years as Revenue may ask to view them at a later stage</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá dualgas ort, áfach, chun fáltais a choimeád don tréimhse 6 bliana anuas mar gheall go bhféadfadh na Coimisinéirí Ioncaim iarraidh iad a fheiceáil ag tráth níos déanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When a transaction is submitted using PAYE Anytime, it will be immediately acknowledged and a permanent record of the transaction will be put in Your Requests History</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a sheoltar idirbheart ar aghaidh trí ÍMAT Aon Tráth Aon Lá a úsáid, aithneofar láithreach é agus cuirfear taifead buan den idirbheart i Do Stair Iarrataí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>PAYE Anytime is available for the current and previous 4 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá ÍMAT Aon Tráth Aon Lá ar fáil don bhliain reatha agus don tréimhse 4 bliana anuas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can read detailed FAQs on the PAYE Anytime service on Revenue's website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú ceisteanna coitianta mionsonraithe faoi sheirbhís ÍMAT Aon Tráth Aon Lá a léamh ar láithreán gréasáin na gCoimisinéirí Ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are starting work, the Jobs and Pensions online service allows you to register your new job with Revenue</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú ag tosú oibre, ceadaíonn an tseirbhís ar líne Phost agus Phinsean duit chun do phost nua a chlárú leis na Coimisinéirí Ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is also available in ROS</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chomh maith leis sin, tá an tseirbhís ar fáil in ROS</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is for people who are:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sí dírithe ar dhaoine:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Starting their first job in the current tax year (including their first ever job in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>• A bhfuil a gcéad phost á thosú acu sa bhliain reatha chánach (a gcéad phost riamh in Éirinn san áireamh)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Changing job and their previous job is no longer on Revenue records</seg></tuv>
+  <tuv xml:lang="ga"><seg>• A bhfuil post á athrú acu agus nach bhfuil an post a bhí acu roimhe seo ar thaifid na gCoimisinéirí Ioncaim a thuilleadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Starting another in addition to their main job</seg></tuv>
+  <tuv xml:lang="ga"><seg>• A bhfuil post eile á thosú acu, anuas ar a bpríomhphost</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Starting to receive payments from a private pension (that is, not a Department of Social Protection pension)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• A bhfuil íocaíochtaí á bhfáil acu le déanaí ó phinsean príobháideach (nach pinsean de chuid na Roinne Coimirce Sóisialaí é)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you have registered the details of your new job or private pension, Revenue will send your employer a tax credit certificate showing the tax credits that your employer deducts from your tax bill</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a chláraigh tú na sonraí faoi do phost nua nó do phinsean príobháideach, seolfaidh na Coimisinéirí Ioncaim deimhniú creidmheasanna cánach chuig d’fhostóir ina léirítear na creidmheasanna cánach a asbhaineann d’fhostóir ó do bhille cánach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To access the PAYE Anytime service you must register with Revenue's myAccount Service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun rochtain a fháil ar an tseirbhís ÍMAT Aon Tráth Aon Lá, caithfidh tú clárú le Seirbhís moChúrsaí na gCoimisinéirí Ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Detailed FAQs on myAccount are available on Revenue’s website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá fáil ar cheisteanna coitianta faoi moChúrsaí ar láithreán gréasáin na gCoimisinéirí Ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For more information and support contact Revenue myAccount help</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun teacht ar bhreis faisnéise agus tacaíochta, déan teagmháil le cabhair le moChúrsaí na gCoimisinéirí Ioncaim</seg></tuv>
+</tu>
+</body>
+</tmx>

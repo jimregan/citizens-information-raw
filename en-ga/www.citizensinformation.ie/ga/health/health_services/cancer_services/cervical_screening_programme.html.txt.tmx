@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>CervicalCheck: The National Cervical Screening Programme</seg></tuv>
+  <tuv xml:lang="ga"><seg>CervicalCheck: An Clár Scagthástála Ceirbheacs Náisiúnta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>CervicalCheck is a national screening programme to prevent and control cervical cancer</seg></tuv>
+  <tuv xml:lang="ga"><seg>Clár náisiúnta scagthástála is ea CervicalCheck chun cosc a chur ar ailse cheirbheacsach agus í a rialú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The programme provides smear tests to women between the ages of 25 and 60</seg></tuv>
+  <tuv xml:lang="ga"><seg>Soláthraíonn an clár tástálacha smeartha do mhná idir aois 25 agus 60 bliain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A smear test is a simple procedure that only takes minutes and is the most effective way to detect changes in the cells of the cervix</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gnáthamh simplí is ea tástáil smeartha nach nglacann ach cúpla nóiméad agus is é an bealach is éifeachtaí chun athruithe atá tagtha ar chillíní an cheirbheacs a bhrath</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The programme is voluntary and you are free to choose not to take part</seg></tuv>
+  <tuv xml:lang="ga"><seg>Clár deonach is ea é, is fútsa atá sé a roghnú gan páirt a ghlacadh ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have any concerns regarding cervical cancer, have a family history of cervical cancer or have symptoms you are worried about, you should contact your family doctor (GP)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá aon bhuarthaí ort maidir le hailse cheirbheacsach, má tá stair d’ailse cheirbheacsach i do mhuintir nó má tá comharthaí agat a bhfuil tú buartha fúthu, ba cheart duit teagmháil a dhéanamh le do dhochtúir teaghlaigh (DG)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>CervicalCheck provides free smear tests to women aged 25 to 60 who are resident in the Republic of Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Soláthraíonn CervicalCheck tástálacha smeartha saor in aisce do mhná idir aois 25 agus 60 bliain a bhfuil cónaí orthu i bPoblacht na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Women outside of the eligibility guidelines</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mná lasmuigh de na treoirlínte incháilitheachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Although CervicalCheck normally provides free smear tests only to women aged 25 to 60, there are a number of exceptions to the screening age including women who:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cé gur gnách nach soláthraíonn CervicalCheck tástálacha smeartha saor in aisce ach do mhná idir aois 25 agus 60 bliain, tá roinnt eisceachtaí ann i leith na haoise scagthástála, ina measc:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Are over 60 years of age and have never had a smear test</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Mná atá os cionn aois 60 bliain nár thug faoi thástáil smeartha riamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Have attended a colposcopy service and require follow-up</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Mná a d’fhreastail ar sheirbhís ionscópachta ar an drólann agus a dteastaíonn coinne leantach uathu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Have had or are about to have an organ transplant</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Mná a ndearnadh trasphlandú orgáin orthu nó atá ar tí tabhairt faoi thrasphlandú orgáin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Are on renal dialysis</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Mná a bhfuil scagdhealú duánach á dhéanamh orthu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are aged between 25 and 60 and have never had a CervicalCheck smear test you can simply make an appointment with a registered GP practice or clinic</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú idir 25 agus 60 bliain d’aois agus murar tugadh faoi thástáil smeartha CervicalCheck ort riamh roimhe seo, ní gá duit ach coinne a dhéanamh le cleachtas nó clinic cláraithe DG</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A letter of invitation is not needed to make an appointment and attend for a first CervicalCheck smear test</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní theastaíonn litir chuiridh chun coinne a dhéanamh agus chun freastal ar do chéad tástáil smeartha CervicalCheck</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To arrange a smear test you can contact a registered smeartaker of your choice to make an appointment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun tástáil smeartha a shocrú, féadfaidh tú teagmháil a dhéanamh le do rogha glacadóir smeartha chun coinne a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Thousands of GPs, practice nurses, and women's health, family planning and Well Woman clinics all over Ireland are registered and you can see a full list in the Find a Smeartaker section of CervicalCheck or by calling CervicalCheck on Freephone 1800 45 45 55</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá na mílte DG, altra cleachtais, clinic sláinte ban, pleanála clainne agus clinic Well Woman ar fud na hÉireann go léir cláraithe agus féadfaidh tú teacht ar liosta iomlán díobh sa mhír Aimsigh Glacadóir Smeartha de chuid CervicalCheck nó trí ghlao ar CervicalCheck ar Shaorghlao 1800 45 45 55</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>CervicalCheck also sends invitation letters to women who are on the CervicalCheck register</seg></tuv>
+  <tuv xml:lang="ga"><seg>Anuas air sin, seolann CervicalCheck litreacha cuiridh do mhná atá ar chlár CervicalCheck</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can check online whether you are on the register or call CervicalCheck on Freephone 1800 45 45 55</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú seiceáil ar líne an bhfuil tú ar an gclár nó glao ar CervicalCheck ar Shaorghlao 1800 45 45 55</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To register by post, download the self-registration form (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun clárú sa phost, íoslódáil an fhoirm féinchláraithe (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Women who have already had a CervicalCheck smear test will be automatically re-called by letter when their next smear test is due</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfar mná ar tugadh faoi thástáil smeartha CervicalCheck orthu cheana féin a athghairm go huathoibríoch trí litir a sheoladh chucu ina luaitear cathain a bheidh a gcéad tástáil smeartha eile le déanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>CervicalCheck has produced a number of information leaflets which provide simple information on cervical screening and what to expect when you go for your smear test</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sholáthair CervicalCheck roinnt bileoga faisnéise a sholáthraíonn faisnéis neamhchasta ar scagthástáil cheirbheacsach agus ar an méid ar cheart duit coinne a bheith agat leis nuair a thugann tú faoi do thástáil smeartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In addition, they have a list of frequently asked questions, which will help answer many of the common questions regarding cervical screening</seg></tuv>
+  <tuv xml:lang="ga"><seg>Anuas air sin, tá liosta acu de cheisteanna coitianta, a chabhróidh leat go leor de na ceisteanna coitianta a bhaineann le scagthástáil cheirbheacsach a fhreagairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The National Cervical Screening Programme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Urlár Uachtarach Sciathán Thiar ó Dheas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Locall:1800 45 45 55</seg></tuv>
+  <tuv xml:lang="ga"><seg>Lóghlao:1800 45 45 55</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Irish Cancer Society has information booklets on a number of topics, including Cervical Smear Test Results (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá leabhráin eolais ag Cumann Ailse na hÉireann maidir le roinnt ábhair, agus Torthaí na Scagthástála Ceirbheacs (pdf) san áireamh</seg></tuv>
+</tu>
+</body>
+</tmx>

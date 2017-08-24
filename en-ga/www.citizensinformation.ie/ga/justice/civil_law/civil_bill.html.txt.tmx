@@ -1,0 +1,409 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>• Setting down for trial</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Triail a chur síos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the Circuit Court, the person who is bringing the case, that is, the person who is suing, is known as the plaintiff</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa Chúirt Chuarda, tugtar an gearánaí ar an duine a bhfuil tús á chur acu leis an gcás, is é sin, an duine a bhfuil agairt á dhéanamh acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The person who is being sued is known as the defendant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar an cosantóir ar an duine a bhfuil agairt á dhéanamh orthu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To commence proceedings, that is, to start a legal action, the plaintiff's barrister prepares a Civil Bill</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun tús a chur le himeachtaí, is é sin, chun tús a chur le caingean dlí, ullmhaíonn abhcóide an ghearánaí Bille Sibhialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The purpose of this document is to state the case being made against the defendant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é cuspóir na cáipéise seo chun an cás atá á dhéanamh i leith an chosantóra a lua</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When the defendant receives the Civil Bill, they must enter an appearance to show that they are now a party to the case and intend to defend it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a fhaigheann an cosantóir an Bille Sibhialta, ní mór dóibh láithreas a thaifeadadh lena thaispeáint gur páirtí anois iad leis an gcás agus go bhfuil sé ar intinn acu é a chosaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The defendant will then issue a defence setting out why they are not to blame</seg></tuv>
+  <tuv xml:lang="ga"><seg>Eiseoidh an cosantóir cosaint ina dhiaidh sin ina leagtar amach an fáth nach bhfuil an locht orthu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the defendant believes that they actually have a claim against the plaintiff, the defendant will include a counterclaim with the defence setting out their claim against the plaintiff</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chreideann an cosantóir go dtarlaíonn go bhfuil éileamh acu i gcoinne an ghearánaí, cuirfidh an cosantóir frithéileamh san áireamh leis an gcosaint ina leagtar amach a n-éileamh i leith an ghearánaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are the plaintiff, you must issue a Civil Bill to commence proceedings in the Circuit Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tusa an gearánaí, ní mór duit Bille Sibhialta a eisiúint chun tús a chur le himeachtaí sa Chúirt Chuarda</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your solicitor may prepare the Civil Bill but usually a barrister is briefed to do so</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh d’aturnae an Bille Sibhialta a ullmhú, ach is go dtugtar mionteagasc d’abhcóide chun amhlaidh a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are different types of Civil Bill – your legal representatives will prepare the type of Civil Bill that is appropriate to the nature of the case that you are bringing</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá saghsanna éagsúla de Bhille Sibhialta ann – déanfaidh d’ionadaithe dlí an Bille Sibhialta a ullmhú a oireann don chás atá á chur ar aghaidh agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, if the case relates to personal injuries sustained in a road traffic accident, the appropriate Civil Bill is an Ordinary Civil Bill</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, má bhaineann an cás le díobháil phearsanta de bharr timpiste bhóthair, is Gnáthbhille Sibhialta an Bille Sibhialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if your case relates to removing someone from your premises, the appropriate Civil Bill is an Ejectment Civil Bill</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach má bhaineann do chás le duine a chur amach as d’áitreabh, is Bille Sibhialta Eisiachtana an Bille Sibhialta cuí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Contents of the Civil Bill</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ábhair an Bhille Shibhialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Civil Bill must contain the following information:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go gcuimsítear an fhaisnéis a leanas sa Bhille Sibhialta:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A title – the plaintiff's name and the defendant's name make up the title of the proceedings</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Teideal – comhdhéanann ainm an ghearánaí agus ainm an chosantóra teideal na n-imeachtaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The Bill should also describe the nature of the Civil Bill, for example "Ordinary Civil Bill"</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ba cheart go ndéanfaí cur síos sa Bhille ar chineál an Bhille Shibhialta, mar shampla “Gnáthbhille Sibhialta”</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A description of the parties – the Bill must state the surname, first name, the residence or place of business and the occupation of the plaintiff and the defendant</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cur síos ar na páirtithe – ní mór go luafar sa Bhille sloinne, céadainm, áit chónaithe nó áit ghnó agus gairm an ghearánaí agus an chosantóra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A statement of the claim – the Bill must state the nature, extent and grounds of the plaintiff's claim against the defendant</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ráiteas ar an éileamh – ní mór go luafar sa Bhille cineál, méid agus bunúis éileamh an ghearánaí i leith an chosantóra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It should clearly set out the allegations that are being made by the plaintiff and the damage that the plaintiff suffered</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart go leagfaí amach go soiléir na líomhaintí atá á ndéanamh ag an ngearánaí agus an díobháil a raibh an gearánaí thíos léi</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It should also state what the plaintiff is seeking from the court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Anuas air sin, ba cheart go luafaí cad atá á lorg ag an ngearánaí ón gcúirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The Bill must either state the specific amount to which the plaintiff claims they are entitled (which cannot be more than €75,000) or it must state that the plaintiff's claim is limited to the jurisdiction of the court</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní mór go luaitear sa Bhille an méid sonrach atá an gearánaí i dteideal a fháil, dar leis/léi (ní féidir seo €75,000 a shárú) nó ní mór dó/di a lua go bhfuil éileamh an ghearánaí teoranta ag dlínse na cúirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The plaintiff cannot seek more than €75,000 from the Circuit Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leis an ngearánaí níos mó ná €75,000 a lorg ón gCúirt Chuarda</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The Bill must recite the appropriate circuit in which the claim is being brought</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní mór go léireofar sa Bhille an chuaird chuí ina bhfuil an t-éileamh á dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The Bill must be dated and signed by the plaintiff or their solicitor</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ní mór don Bhille a bheith dátaithe agus sínithe ag an ngearánaí nó ag a n-aturnae</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Serving the Civil Bill</seg></tuv>
+  <tuv xml:lang="ga"><seg>An Bille Sibhialta a Sheirbheáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>After the Civil Bill has been prepared by the barrister, your solicitor will take it to the Circuit Court office to be issued – this involves paying the stamp duty</seg></tuv>
+  <tuv xml:lang="ga"><seg>I ndiaidh gur ullmhaigh an t-abhcóide an Bille Sibhialta, tabharfaidh d’aturnae é chuig oifig na Cúirte Cuarda go n-eiseofar é – is gá an dleacht stampála a íoc mar chuid de seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>After the stamp duty has been paid, the Civil Bill is stamped and it is ready to be served on the defendant or the defendant’s solicitor</seg></tuv>
+  <tuv xml:lang="ga"><seg>I ndiaidh go n-íoctar an dleacht stampála, stampáiltear an Bille Sibhialta agus bíonn sé réidh le seirbheáil ar an gcosantóir nó ar aturnae an chosantóra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are different ways to serve the Civil Bill:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá bealaí éagsúla ann chun an Bille Sibhialta a sheirbheáil:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You may hand a copy of the Civil Bill to the defendant personally</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Féadfaidh tú cóip den Bhille Sibhialta a thabhairt don chosantóir go pearsanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A copy may be given to the defendant's spouse, civil partner, relative or employee at the defendant’s residence or workplace, as long as that person is not under 16 years of age</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Féadtar cóip a thabhairt do chéile, páirtnéir sibhialta, gaol nó fostaí an chosantóra ag áit chónaithe nó ag áit oibre an chosantóra, a fhad agus nach bhfuil an duine sin faoi 16 bliana d’aois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You may send a copy by registered prepaid post to the defendant's last known residence or place of business</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Féadfaidh tú cóip a sheoladh tríd an bpost cláraithe réamhíoctha chuig áit chónaithe nó áit ghnó dheireanach an chosantóra a rabhthas feasach orthu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The rules applying to the service of Civil Bills are contained in Order 11 of the Circuit Court Rules</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuimsítear na rialacha a bhaineann le Billí Sibhialta a sheirbheáil in Ordú 11 de Rialacha na Cúirte Cuarda</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When the defendant receives the Civil Bill, they should enter an appearance within 10 days</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás go bhfaigheann an cosantóir an Bille Sibhialta, ba cheart dóibh láithreasa thaifeadadh laistigh de 10 lá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Entering an appearance is a very important step as it is indicates in writing that the defendant intends to defend the proceedings</seg></tuv>
+  <tuv xml:lang="ga"><seg>Céim an-tábhachtach is ea láithreas a thaifeadadh mar gheall go dtugann sé le fios i scríbhinn go mbeartaíonn an cosantóir chun na himeachtaí a chosaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The time limit is not strict and, in most cases, an appearance can be entered after the time has expired</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl an teorainn ama dian agus, i dtromlach na gcásanna, féadtar láithreas a iontráil i ndiaidh gur éag an t-am</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To enter an appearance, the defendant must lodge an Entry of appearance form at the Circuit Court office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun láithreas a thaifeadadh, ní mór don chosantóir foirm um láithreas a thaifeadadh a sheoladh ar aghaidh ag oifig na Cúirte Cuarda</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A copy of the form must also be given to the plaintiff's solicitor</seg></tuv>
+  <tuv xml:lang="ga"><seg>Anuas air sin, ní mór cóip den fhoirm a thabhairt d’aturnae an ghearánaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the defendant fails to enter an appearance, the plaintiff can apply to court for judgement in default of appearance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má theipeann ar an gcosantóir chun láithreas a thaifeadadh, féadfaidh an gearánaí iarratas a dhéanamh ar an gcúirt ar breithiúnas d’éagmais láithris</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that because the defendant has failed to acknowledge the proceedings and indicate that they intend to defend them, the plaintiff may obtain a judgement from the court against the defendant without the need for a trial</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn seo gur theip ar an gcosantóir na himeachtaí a aithint agus a thabhairt le fios go mbeartaíonn siad iad a chosaint. Is féidir leis an ngearánaí breithiúnas a fháil ón gcúirt i leith an chosantóra gan aon ghá a bheith le triail</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the defendant does enter an appearance but fails to deliver a defence (see below), the plaintiff may obtain a judgement in default from the court against the defendant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má iontrálann an cosantóir láithreas ach má theipeann air/uirthi cosaint a sholáthar (féach thíos), féadfaidh an gearánaí breithiúnas mainneachtana a fháil ón gcúirt i leith an chosantóra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The defendant must deliver a defence to the plaintiff within 10 days of entering an appearance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don chosantóir cosaint a sholáthar don ghearánaí laistigh de 10 lá tar éis láithreas a iontráil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means the defendant must send a notice called Defence to the plaintiff’s solicitor</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn seo nach mór don chosantóir fógra ar a dtugtar Cosaint a sheoladh chuig aturnae an ghearánaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The 10-day time limit is not strict and in most cases, a defence can be delivered after the time has expired</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl an teorainn ama 10 lá dian agus, i dtromlach na gcásanna, féadtar cosaint a sholáthar i ndiaidh gur éag an t-am</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are no set rules about what must be contained in the Defence notice</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon rialacha seasta ann maidir leis an méid ar cheart a chuimsiú i bhfógra Cosanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The document starts with the title of the proceedings</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tosaítear an cháipéis le teideal na n-imeachtaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is up to the defendant to admit or deny the allegations that the plaintiff has made in their Civil Bill</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is faoin gcosantóir atá sé chun na líomhaintí a admháil nó a shéanadh a rinne an gearánaí ina mBille Sibhialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is also up to the defendant to state any specific defence that they are relying on</seg></tuv>
+  <tuv xml:lang="ga"><seg>Anuas air sin, is faoin gcosantóir atá sé chun aon chosaint shonrach a lua a bhfuil siad ag brath uirthi</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, if the defendant is claiming that the plaintiff's claim has been brought outside of the time limits, then the defendant should specifically plead that fact in the Defence notice</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, má tá mhaíonn an cosantóir go ndearnadh éileamh an ghearánaí lasmuigh de na teorainneacha ama, ba cheart don chosantóir an fhíric sin a phléadáil go sonrach san fhógra Cosanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the plaintiff has made a specific allegation and the defendant fails to deny that allegation in the Defence notice, it will be assumed that the defendant is admitting that the allegation is true</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má rinne an gearánaí líomhain shonrach agus má theipeann ar an gcosantóir an líomhain sin a shéanadh san fhógra Cosanta, meastar go bhfuil an cosantóir ag admháil go bhfuil an líomhain fíor</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, if the Civil Bill claims that the plaintiff was involved in a road traffic accident and the defence fails to deny that the road traffic accident occurred, then it is assumed that the defendant is admitting that the road traffic accident happened</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, má mhaíonn an Bille Sibhialta go raibh baint ag an ngearánaí i dtimpiste um thrácht ar bhóithre agus má theipeann ar an gcosaint a shéanadh gur tharla an timpiste um thrácht ar bhóithre, meastar go bhfuil an cosantóir ag admháil gur tharla an timpiste um thrácht ar bhóithre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is not then necessary for the plaintiff to prove to the judge that the accident occurred</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní gá don ghearánaí a chruthú don bhreitheamh gur tharla an timpiste</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>On the other hand, when the defendant specifically denies a claim that the plaintiff has made, they are putting the plaintiff on proof of the allegation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar an taobh eile den phingin, nuair a shéanann an cosantóir go sonrach éileamh a rinne an gearánaí, cuirtear an gearánaí ar cruthúnas na líomhna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that the plaintiff must prove that the claim is true</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn seo nach mór don ghearánaí a chruthú go bhfuil an t-éileamh fíor</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, if the defendant specifically denies that the road traffic accident occurred, the plaintiff must prove it by introducing evidence in court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, má shéanann an cosantóir go sonrach gur tharla an timpiste um thrácht ar bhóithre, ní mór don ghearánaí a chruthú gur tharla sí trí fhianaise a thabhairt chun na cúirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When a defendant receives a Civil Bill, they may decide that not only have they done nothing wrong and the claim should not have been brought against them, but that they have a claim against the plaintiff</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a fhaigheann cosantóir Bille Sibhialta, féadfaidh siad a chinneadh ní hamháin nach ndearna siad aon rud mícheart agus nár cheart an t-éileamh a dhéanamh ina choinne, ach go bhfuil éileamh acu i gcoinne an ghearánaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In those circumstances, they may wish to include a counterclaim with their defence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi na cúinsí siúd, b’fhéidir gur mian leo frithéileamh a chur san áireamh lena gcosaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To make a claim against the plaintiff, a section titled Counterclaim is added to the Defence notice</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun éileamh a dhéanamh i gcoinne an ghearánaí, cuirtear mír ar a dtugtar Frithéileamh leis an bhfógra Cosanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This must clearly set out the allegations that the defendant is making against the plaintiff and what the defendant seeks from the court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go leagtar amach go soiléir ann seo na líomhaintí atá á ndéanamh ag an gcosantóir i gcoinne an ghearánaí agus an méid atá á lorg ag an gcosantóir ón gcúirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The defendant must lodge the Defence notice with counterclaim at the Circuit Court office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don chosantóir fógra Cosanta a sheoladh ar aghaidh le frithéileamh ag oifig na Cúirte Cuarda</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A copy of the form must also be given to the plaintiff's solicitor</seg></tuv>
+  <tuv xml:lang="ga"><seg>Anuas air sin, ní mór cóip den fhoirm a thabhairt d’aturnae an ghearánaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A defendant, at any time after being served with a Civil Bill and before delivery of a defence, or a plaintiff, at any time after delivery of a defence or counterclaim, may apply to the other party by a notice in writing for particulars</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh cosantóir, ag aon tráth i ndiaidh gur seirbheáladh Bille Sibhialta air/uirthi agus sula soláthraítear cosaint, nó féadfaidh gearánaí, ag aon tráth i ndiaidh gur seirbheáladh cosaint nó frithéileamh, iarratas a dhéanamh ar an bpáirtí eile trí fhógra i scríbhinn um shonraí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A notice for particulars is simply a formal request for more information about the case</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl i bhfógra um shonraí ach iarratas foirmiúil ar bhreis faisnéise faoin gcás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It contains specific questions or requests</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuimsítear ann ceisteanna nó iarratais shonracha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A request for copies of all or any of the documents upon which the action, defence or counterclaim is founded is made on a Notice requiring copies of documents</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar iarratas ar chóipeanna de gach ceann nó aon chinn de na cáipéisí ar a mbunaítear an gníomh, an chosaint nó an frithéileamh ar Fhógra a iarrann ar chóipeanna de na cáipéisí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A request for information is made on a Notice requiring further information</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar iarratas ar fhaisnéis ar Fhógra a iarrann ar bhreis faisnéise</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The requested particulars should be delivered within 7 days of receiving the notice</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart na sonraí a iarrtar a sholáthar laistigh de 7 lá tar éis an fógra a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, in a case involving a road traffic accident, the defendant may send to the plaintiff a notice containing the following questions:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, i gcás ina bhfuil baint ag timpiste um thrácht ar bhóithre, féadfaidh an cosantóir fógra a sheoladh chuig an gcosantóir chomh maith ina gcuimsítear na ceisteanna a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>"Was the plaintiff's seat-belt fastened at the time of the accident?</seg></tuv>
+  <tuv xml:lang="ga"><seg>“An raibh crios sábhála an ghearánaí ceangailte ag tráth na timpiste?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>"Describe the exact location where the accident occurred with the aid of a map"</seg></tuv>
+  <tuv xml:lang="ga"><seg>“Déan cur síos ar an láthair chruinn inar tharla an timpiste trí úsáid a bhaint as léarscáil”</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The notice is usually prepared by the solicitor (sometimes with the advice of a barrister)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is gnách go n-ullmhaíonn an t-aturnae an fógra (le comhairle a fháil ó abhcóide amanna)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If, say, the plaintiff refuses to reply to the notice for particulars or does not give adequate replies, the defendant should write to them identifying the inadequacies and requesting further and better particulars</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhiúltaíonn an gearánaí, cuirimis i gcás, chun freagairt d’fhógra um shonraí nó mura dtugann sé/sí freagairtí neamhleora, ba cheart don chosantóir scríobh chucu agus an neamhleorgacht á sainaithint agus iarraidh ar shonraí breise agus níos fearr</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the plaintiff continues to refuse to provide the requested particulars, the defendant may apply to court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má leanann an gearánaí ag diúltú chun na sonraí a iarrtar a sholáthar, féadfaidh an cosantóir iarratas a dhéanamh ar an gcúirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the court agrees that the defendant is entitled to replies to the information requested, the court may order the plaintiff to reply to the notice for particulars</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chomhaontaíonn an chúirt go bhfuil an cosantóir i dteideal freagairtí a fháil ar an bhfaisnéis a iarradh, féadfaidh an chúirt a ordú go dtabharfaidh an gearánaí freagairt don fhógra um shonraí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A notice for particulars may be sent by either party at any stage before the trial</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh ceachtar páirtí fógra um shonraí a sheoladh ag aon tráth roimh an triail</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The rules applying to notice for particulars are contained in Order 17 of the Circuit Court Rules</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuimsítear na rialacha a bhaineann le sonraí in Ordú 17 de Rialacha na Cúirte Cuarda</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Case progression is a case management system where specific issues in a dispute are identified and efforts are made to either resolve or narrow those issues prior to trial</seg></tuv>
+  <tuv xml:lang="ga"><seg>Córas bainistíochta is ea dul chun cinn cáis ina sainaithnítear saincheisteanna ar leith i ndíospóid agus ina ndéantar iarrachtaí chun na saincheisteanna siúd a réiteach nó a chaolú roimh an triail</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The purpose of case progression is to ensure that the proceedings for trial are prepared in a manner which is fair, efficient and likely to keep the costs as low as possible</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é cuspóir dul chun cinn cáis a chinntiú go n-ullmhaítear na himeachtaí le haghaidh trialach ar bhealach atá cothrom, éifeachtúil agus is dóchúil a choimeádfaidh na costais a ísle agus is féidir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A direction that the proceedings be subject to case progression may be given by the County Registrar or the judge where they are satisfied that it would be appropriate to do so</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh an Cláraitheoir Contae nó an breitheamh treoir a thabhairt go mbíonn na himeachtaí faoi réir dul chun cinn cáis, nuair atá siad sásta gur chuí amhlaidh a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The plaintiff or the defendant can also issue a motion for case progression where they wish to engage in the process</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh an gearánaí nó an cosantóir rún a eisiúint le haghaidh dul chun cinn cáis sa chás gur mian leo páirt a ghlacadh sa phróiseas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The County Registrar issues a summons to attend a case progression hearing with the Registrar, giving not less than 21 days’ notice</seg></tuv>
+  <tuv xml:lang="ga"><seg>Eisíonn an Cláraitheoir Contae toghairm chun freastal ar éisteacht um dhul chun cinn cáis leis an gCláraitheoir, gan níos lú ná fógra 21 lá a thabhairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Not later than 7 days before the hearing, the plaintiff must file at the Circuit Court office an indexed book of pleadings exchanged between the parties and serve a copy of the index on the defendant</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tráth nach déanaí ná 7 lá roimh an éisteacht, caithfidh an gearánaí leabhar innéacsaithe pléadálacha a chomhdú ag oifig na Cúirte Cuarda a malartaíodh idir na páirtithe agus cóip den innéacs a sheirbheáil ar an gcosantóir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>At the case progression hearing, the County Registrar will establish what steps remain to be taken to prepare the case for trial and fix a timetable for the completion of preparation of the case for trial</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag an éisteacht um dhul chun cinn cáis, deimhneoidh an Cláraitheoir Contae cén bearta atá ann go fóill lena nglacadh chun an cás a ullmhú le haghaidh trialach agus chun amchlár a shocrú chun ullmhú an cháis le haghaidh trialach a thabhairt chun críche</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Registrar may make orders or give directions with respect to pleadings and other matters</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh an Cláraitheoir orduithe a dhéanamh nó treoracha a thabhairt maidir le pléadálacha agus ceisteanna eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Registrar may on the application of any of the parties or of the Registrar’s own motion order that the proceedings or any issue therein be adjourned and invite the parties to use mediation, conciliation, arbitration or other dispute resolution process to settle or determine the proceedings or issue</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh an Cláraitheoir, ar iarratas aon duine de na páirtithe nó ar rún féin an Chláraitheora, a ordú go gcuirtear na himeachtaí nó aon saincheist iontu ar athló agus cuireadh a thabhairt do na páirtithe chun idirghabháil, idir-réiteach, eadráin nó próiseas eile réitigh díospóide a úsáid chun na himeachtaí nó an tsaincheist a réiteach nó a chinneadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The rules applying to case progression are contained in Order 19A of the Circuit Court Rules</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuimsítear na rialacha a bhaineann le dul chun cinn cáis in Ordú 19A de Rialacha na Cúirte Cuarda</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Setting down for trial</seg></tuv>
+  <tuv xml:lang="ga"><seg>Triail a chur síos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When a defence has been delivered, the plaintiff can serve a notice of trial or a notice for the fixing of a date for trial, as directed by the County Registrar</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a soláthraíodh cosaint, féadfaidh an gearánaí fógra trialach nó fógra chun an dáta le haghaidh trialach a shocrú, faoi mar a threoraíonn an Cláraitheoir Contae</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Not less than 10 days’ notice of trial should be given, unless otherwise agreed, and the notice should be filed at the Circuit Court office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart fógra nach lú ná 10 lá a thabhairt, mura gcomhaontaítear ar a mhalairt, agus ba cheart an fógra a chomhdú ag oifig na Cúirte Cuarda</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the plaintiff fails to serve notice of trial within 10 days of the delivery of the defence, the defendant can serve notice of trial on the plaintiff</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má theipeann ar an ngearánaí fógra i leith na trialach a sheirbheáil laistigh de 10 lá i ndiaidh an chosaint a sholáthar, féadfaidh an cosantóir fógra a sheirbheáil le haghaidh trialach ar an ngearánaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Alternatively, the defendant can apply to the court to dismiss the action for want of prosecution</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar mhalairt air sin, féadfaidh an cosantóir iarratas a dhéanamh ar an gcúirt chun an chaingean a dhíbhe mar gheall ar easpa ionchúisimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The rules applying to setting down for trial are contained in Order 33 of the Circuit Court Rules</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuimsítear na rialacha a bhaineann le triail a chur síos in Ordú 33 de Rialacha na Cúirte Cuarda</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The stamp duty that must be paid when a Civil Bill is issued is €130</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ionann an dleacht stampála nach mór a íoc nuair a eisítear Bille Sibhialta agus €130</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is no fee or stamp duty for entering an appearance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní ghearrtar aon táille ná dleacht stampála chun láithreas a thaifeadadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The stamp duty that must be paid for lodging a Defence notice with counterclaim is €15</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ionann an dleacht stampála nach mór a íoc nuair a sheoltar fógra Cosanta ar aghaidh le frithéileamh agus €15</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A table of Circuit Court fees is available on the Courts Service website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá fáil ar thábla de tháillí na Cúirte Cuarda ar láithreán gréasáin na Seirbhíse Cúirteanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your solicitor and barrister will charge fees for their services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gearrfaidh d’aturnae agus d’abhcóide táillí ar a gcuid seirbhísí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The rules applying to appearance, defence and counterclaim are contained in Order 15 of the Circuit Court Rules</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuimsítear na rialacha a bhaineann le láithreas, cosaint agus frithéileamh in Ordú 15 de Rialacha na Cúirte Cuarda</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further information on Circuit Court Rules and forms is available on the Courts Service website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá fáil ar bhreis faisnéise ar Rialacha na Cúirte Cuarda agus ar fhoirmeacha ar láithreán gréasáin na Seirbhíse Cúirteanna</seg></tuv>
+</tu>
+</body>
+</tmx>

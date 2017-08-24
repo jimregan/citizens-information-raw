@@ -1,0 +1,409 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Protection of consumers of financial services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cosaint thomhaltóirí na seirbhísí airgeadais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have a bank account or a loan with a financial institution, you are a consumer of financial services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má ta cuntas bainc agat nó iasacht le hinstitiúid airgeadais, is tomhaltóir de sheirbhísí airgeadais tú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As a consumer of a financial service you have certain rights</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar thomhaltóir de sheirbhísí airgeadais, tá cearta ar leith agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As in other areas of consumer law, your rights as a consumer of financial services depend on the contract between you and the financial institution</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar aon le réimse eile dlí tomhaltóra, braitheann do chuid ceart mar thomhaltóir de sheirbhísí airgeadais ar an gconradh idir tú agus an institiúid airgeadais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A contract is an agreement between two or more people that is enforceable by law</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is comhaontú idir beirt nó níos mó atá infhorghníomhaithe le dlí é conradh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As with all contracts, your contract with the financial institution consists of stated terms and implied terms</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar aon le gach conradh, is éard atá i do chonradh leis an institiúid airgeadais ná téarmaí sonraithe agus téarmaí intuigthe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the European Communities (Unfair Terms in Consumer Contracts) Regulations, 1995 and subsequent amendments in 2000 any term that is found to be unfair to the consumer cannot be enforced</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi Rialacháin na gComhphobal Eorpach (Téarmaí Neamhfhéaráilte i gConarthaí Tomhaltóirí), 1995 agus leasúcháin iartheachtacha i 2000 ní féidir le haon téarma a fhaightear go bhfuil sé neamhfhéaráilte don tomhaltóir a bheith forghníomhaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>From June 2010 the Consumer Credit Directive (2008/48/EC) establishes common rules on consumer credit aimed at harmonising certain aspects of the laws, regulations and administrative provisions on consumer credit in the EU</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó Mheitheamh 2010, bunaíonn an Treoir Chreidmheas Tomhaltais (2008/48/EC) rialacha comónta ar chreidmheas tomhaltais a bhfuil sé mar aidhm acu comhchuibhiú a dhéanamh ar ghnéithe áirithe de dhlíthe, de rialacháin agus d’fhorálacha riaracháin ar chreidmheas tomhaltais san AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Directive covers personal loans of between €200 and €75,000 repayable after more than a month</seg></tuv>
+  <tuv xml:lang="ga"><seg>Clúdaíonn an Treoir iasachtaí pearsanta de idir €200 agus €75,000 athiníoctha tar éis am níos faide ná mí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Directive does not apply to mortgages or to deferred debit cards</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhaineann an Treoir le morgáistí ná le cártaí dochair iarchurtha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find further information on the EU's Europa website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir tuilleadh eolais a fháil ar shuíomh gréasáin Europa an AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Legislation exists that regulates financial institutions dealings with consumers such as the Consumer Credit Act 1995</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá reachtaíocht ann cheana a rialaíonn gnóthaíocht institiúidí airgeadais le tomhaltóirí ar nós An tAcht um Chreidmheas do Thomhaltóirí, 1995</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A Consumer Protection Code for financial institutions also exists that prescribes how a financial institution deals with consumers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Cód d’Institiúidí Airgeadais ar Chosaint do Thomhaltóirí ann chomh maith a fhorordaíonn an chaoi a ndéileáileann insitiúidí airgeadais le tomhaltóirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Central Bank of Ireland is the body that enforces this code and this legislation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é Banc Ceannais na hÉireann an comhlacht a fhorghníomhaíonn an cód agus an reachtaíocht seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In order to enforce your rights you need to be aware of what those rights are</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun do chearta a fhorghníomhú, caithfidh tú a bheith feasach ar céard iad na cearta sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Competition and Consumer Protection Commission (CCPC) provides information to consumers on their rights and on the costs, risks and benefits of different financial products</seg></tuv>
+  <tuv xml:lang="ga"><seg>Soláthraíonn an Coimisiún um Iomaíocht agus Cosaint Tomhaltóirí (CCPC) eolas do thomhaltóirí ar a gcearta agus ar na costais, rioscaí agus leasanna de tháirgí airgeadais dhifriúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This information also helps you to access the financial services that are most suitable to you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann an t-eolas seo cúnamh duit freisin rochtain a fháil ar na seirbhísí airgeadais is oiriúnaí duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The CCPC maintains financial information on its website for consumers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Coinníonn an CCPC suíomh gréasán ar eolas airgeadais do thomhaltóiri</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Protection for your savings and investments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cosaint ar do choigiltis agus ar d’infheistíochtaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Central Bank is responsible for the regulation of the following firms:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá Banc Ceannais na hÉireann freagrach as rialúchán na ngnólachtaí a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Insurance and investment intermediaries (brokers and agents)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Idirghabhálaithe árachais agus infheistíochta (bróicéirí agus gníomhaithe)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Other retail credit firms</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Gnólachtaí miondíol creidmheasa eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Before dealing with any of these firms, check that they are authorised to trade by the Central Bank</seg></tuv>
+  <tuv xml:lang="ga"><seg>Roimh dhéileáil le haon cheann de na gnólachtaí seo, seiceáil go bhfuil siad údaraithe chun trádáil ag an mBanc Ceannais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This authorisation protects you from unscrupulous traders</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cosnaíonn an t-údarú seo tú ó thrádálaithe neamhscrupallacha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To check whether the company you are dealing with is authorised, contact the Registers Department of the Central Bank (see 'Where to apply' below)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun seiceáil an bhfuil an chuideachta lena bhfuil tú ag déileáil údaraithe, téigh i dteagmháil le Roinn Chlár an Bhanc Cheannais (féach ‘An áit le cur isteach air’ thíos)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are a number of compensation schemes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá roinnt scéimeanna cúitimh ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Deposit Guarantee Scheme compensates consumers for money lost from current and deposit accounts where a bank, building or credit union is unable to return their money due to financial difficulties</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cúitíonn an Scéim Ráthaithe Taisce, bunaithe faoi Rialacháin na gComhphobal Eorpach (Scéim Ráthaithe Taisce) 1995, tomhaltóirí ar airgead a cailleadh ó chuntais reatha agus taisce, áit nach bhfuil banc, cumann forgníochta ná comhar creidmheasa in ann a n-airgead a thabhairt ar ais, mar gheall ar dheacrachtaí airgeadais. Tá an scéim seo maoinithe ag institiúidí creidmheasa údaraithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The European Communities (Deposit Guarantee Schemes) Regulations 2015 replaces the European Communities (Deposit Guarantee Schemes) Regulations 1995 establishing the Scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Feidhmíonn scéim chúitimh thír AE eile i gcás bhanc nó institiúid eile údaraithe agus rialaithe i stát AE eile ach atá ag oibriú anseo ar bhonn craoibhe faoi rialacha AE, mura bhfuil sé deimhnithe ag an gcraobh do Rialaitheoir an Bhanc Cheannais go bhfuil sé ar intinn aici a bheith páirteach sa Scéim Chosanta Taiscí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The payment process is only initiated once it has been established that the institution cannot return payments made to it due to its financial condition</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tionscantar an próiseas íoctha ach amháin nuair atá sé bunaithe nach bhfuil an institiúid in ann íocaíochtaí a rinneadh a aisíoc mar gheall ar a staid airgeadais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The maximum claim per person is 100% of all deposits held by the financial institution up to a maximum of €100,000</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ó 20 Meán Fómhair 2008, is é an t-uaséileamh in aghaidh an duine ná 100% (a bhí 90%) de gach taisce a bhí á choinneáil ag an institiúid airgeadais suas go dtí uasmhéid €100,000 (a bhí €20,000)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The compensation scheme of another EU country applies in the case of a bank or financial institution authorised and regulated in another EU state but operating here on a branch basis under EU rules, unless the branch has confirmed to the Central Bank its intention to participate in the Deposit Guarantee Scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ta eolas níos sonraí ar an Scéim Ráthaithe Taisce, chomh maith leis na scéimeanna bainteacha ó thíortha AE eile, ar fáil ar shuíomh gréasáin tomhaltóra an Coimisiún um Iomaíocht agus Cosaint Tomhaltóirí (CCPC)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>On 30 September 2008 the Government introduced an unlimited Government guarantee for all deposits exceeding €100,000, among other things, in certain Irish banks</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ar 30 Meán Fómhair 2008 thug an Rialtas isteach ráthaíocht neamhtheoranta Rialtais do gach taisce níos mó ná €100,000, i measc nithe eile, i mbainc Éireannacha ar leith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The scheme known as the Credit Institutions Financial Support Scheme (CIFS) expired on 29 September 2010</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’easanálaigh an scéim ar a dtugtar an Scéim Thacaíocht Airgeadais Institiúidí Creidmheasa (STAIC) ar 29 Meán Fómhair 2010</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In December 2009 the Government introduced the Eligible Liabilities Guarantee Scheme (ELG) for term deposit accounts exceeding €100,000 in the same Irish banks</seg></tuv>
+  <tuv xml:lang="ga"><seg>I mí na Nollag 2009, thug an Rialtas isteach an Scéim Ráthaíocht Fhiachais Inghlactha (SRFI) do chuntais thaiscí téarma níos mó ná €100,00 sna bainc Éireannacha céanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The scheme covered term deposits until they matured (up to a maximum five years), provided the bank was covered by the scheme when the deposit was placed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Clúdaíonn an scéim taiscí téarma go dtí go n-aibíonn siad (suas go dtí uasmhéid cúig bliana), ar choinníoll go raibh an banc clúdaithe ag an scéim nuair a cuireadh isteach an taisce</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the bank became a member of the scheme after the deposit was placed, the deposit was covered by the CIFS Scheme until 29 September 2010</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má rinneadh ball den scéim den bhanc i ndiaidh gur cuireadh isteach an taisce, clúidaítear an taisce faoin scéim STAIC go dtí 29 Meán Fómhair 2010</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The ELG scheme also covered on demand current and deposit accounts exceeding €100,000, regardless of when the deposit was placed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chlúdaigh an scéim RFI cuntais reatha agus taisce ar éileamh a bhfuil níos mó ná €100,000 iontu, is cuma cén uair a cuireadh isteach an taisce</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Notice accounts were similarly covered provided notice of withdrawl was made before the scheme ended</seg></tuv>
+  <tuv xml:lang="ga"><seg>Clúdaítear cuntais fhógra ar an gcaoi chéanna ar an gcoinníoll go dtugtar fógra aistarraingthe roimh dar críoch an scéim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The banks covered by the two schemes were:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad na bancanna abhí clúdaithe ag an dá scéim ná:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The ELG scheme ended on 28 March 2013</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chríochnaigh an scéim SRFI ar an 28 Márta 2013</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you had a fixed term deposit covered by the scheme before 28 March 2013, the protection of the scheme remains in place until the end of the term, up to a maximum of five years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhí tú taisce téarma sheasta a bhí clúdaithe ag an scéim roimh 28 Márta 2013, beidh cosaint an scéim i bhfeidhm go dtí deireadh an téarma, suas go dtí uasmhéid de chúig bliana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This does not affect deposits up to €100,000 which continue to be covered by the Deposit Protection Scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chiallaíonn sé seo taiscí difear suas le €100,000 a leanfaidh de bheith clúdaithe ag an Scéim Cosanta Taiscí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further information on the ELG scheme is available on the CCPC's consumer website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh eolais ar scéim SRFI ar fáil ar shuíomh gréasáin tomhaltóra an CCPC</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Some banks that operate in Ireland are regulated in their home country</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá cuid de na bainc a bhíonn ag oibriú in Éirinn rialaithe ina dtír dhúchais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have an account in such a bank, you would usually make a claim under the compensation schemes that are in place in the country where the institution is regulated</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ma tá cuntas agat ina leithéid de bhanc, dhéanfá éileamh go hiondúil faoi na scéimeanna cúitimh atá sa tír ina bhfuil an institiúid rialaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Investor Compensation Company Ltd (ICCL) operates the Investor Compensation Scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Oibríonn an Cuideachta Cúitimh d’Infheisteoirí Teo. (CCIT) an Scéim Chúitimh d’Infheisteoirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The ICCL was set up under the Investor Compensation Act 1998</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireadh ar bun an CCIT faoin Acht um Chúiteamh d’Infheisteoirí 1998</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The purpose of the Scheme is to compensate clients of failed authorised investment firms</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is í cuspóir na Scéime ná cúiteamh a dhéanamh ar chliaint de ghnólachtaí infheistithe údaraithe teipthe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a member firm of the Scheme goes out of business and cannot return your investments or money, you may be entitled to make a claim under the scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má théann ballghnólacht den Scéim as gnó agus nach féidir leo d’infheistíochtaí ná d’airgead a aisíoc, féadfaidh go mbeadh tú i dteideal éileamh a dhéanamh faoin scéim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The maximum claim per person is 90% of all deposits held by the financial institution up to a maximum of €20,000</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an t-uaséileamh in aghaidh an duine ná 90% de gach taisce atá á choinneáil ag an institiúid airgeadais suas go dtí uasmhéid €20,000</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further information on the Investor Compensation Scheme is available on the ICCL website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh eolais faoin Scéim Chúitimh d’Infheisteoirí ar fáil ar shuíomh gréasáin an CCIT</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As a consumer, you should protect your rights and avoid dealing with unregulated financial service providers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar thomhaltóir, ba cheart duit do chearta a chosaint agus déileáil a sheachaint le soláthróirí seirbhísí airgeadais neamhrialaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Who is involved in regulation?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cé atá bainteach le rialúchán?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Central Bank of Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Banc Ceannais na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The arrangements for the regulation of the financial services sector have changed considerably in recent years with the most recent changes, implemented under the Central Bank Reform Act 2010, making the Central Bank of Ireland responsible for regulation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá athruithe suntasacha tagtha ar rialúchán an earnáil seirbhísí airgeadais le blianta beaga anuas, leis na hathruithe is déanaí, forfheidhmithe faoin Acht Athchóiriú an Bhanc Cheannais 2010, ag fágáil Banc Ceannais na hÉireann freagrach as rialúchán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Central Bank’s Consumer Director has specific responsibility for</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá freagracht shonrach ag Stiúrthóir Tomhaltais an Bhanc Cheannais as</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The protection of consumers and/or investors under a range of legislation including the Consumer Credit Act 1995, the Investment Intermediaries Act 1995, the Stock Exchange Act 1995, the Central Bank Act 1989 and the Insurance Act 1989</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cosaint tomhaltóirí agus/nó infheisteoirí faoi réimse reachtaíochta ina áirítear an tAcht um Chreidmheas do Thomhaltóirí, 1995, an tAcht um Idirghábhálaithe Infheistíochta 1995, an tAcht Stocmhalartán 1995, an tAcht Bhanc Cheannais na hÉireann 1989 agus an tAcht Árachais 1989</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Monitoring the provision of financial services to consumers</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Maoirsiú a dhéanamh ar sholáthar seirbhísí airgeadais do thomhaltóirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Central Bank appoints the Registrar of Credit Unions who regulates credit unions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceapann Banc Ceannais na hÉireann an Cláraitheoir Chomhair Chreidmheasa a rialaíonn comhair chreidmheasa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Registrar is required to inform and assist the Consumer Director in the Central Bank in relation to any complaint about a credit union</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá ar an gCláraitheoir an Stiúrthóir Tomhaltais sa Bhanc Ceannais a chur ar an eolas agus cúnamh a thabhairt dó i ndáil le haon ghearán faoi chomhar creidmheasa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Central Bank and Financial Services Authority of Ireland Act 2004 provides for the appointment of a statutory Financial Services Ombudsman</seg></tuv>
+  <tuv xml:lang="ga"><seg>Foráileann an tAcht um Bhanc Ceannais agus um Údarás Seirbhísí Airgeadais na hÉireann 2004 do cheapachán Ombudsman um Sheirbhísí Airgeadais reachtúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The scheme is financed by the providers of financial services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Maoiníonn soláthróirí seirbhísí airgeadais an scéim seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Ombudsman’s role is as an independent mediator dealing with individual complaints against financial services firms</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é ról an Ombudsman ná mar eadránaí neamhspleách a dhéileáileann le gearáin aonair in aghaidh ghnóthlachtaí seirbhísí airgeadais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Complaints must first be made to the financial institution concerned and then to the Ombudsman if you are still dissatisfied</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfear gearáin a dhéanamh ar dtús leis an institiúid airgeadais atá i gceist agus ansin leis an Ombudsman má tá tú míshásta fós</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Ombudsman provides a mediated solution</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann an tOmbudsman réiteach eadránaithe ar fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Ombudsman has the power to order financial institutions to do certain things and to pay compensation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an chumhacht ag an Ombudsman ordú d’institiúidí airgeadais nithe ar leith a dhéanamh agus cúiteamh a íoc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Their decisions will generally be binding on the financial institutions (subject to the right of appeal to the High Court)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá a gcinntí ceangailteach go ginearálta ar na hinstitiúidí airgeadais (ar choinníoll ceart achomhairc chuig an gCúirt Uachtarach)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Read more about the Financial Services Ombudsman's office here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léigh níos mó faoi oifig an Ombudsman um Sheirbhísí Airgeadais anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Competition and Consumer Protection Commission</seg></tuv>
+  <tuv xml:lang="ga"><seg>An Coimisiún um Iomaíocht agus Cosaint Tomhaltóirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Competition and Consumer Protection Commission has statutory responsibility for the regulation of pawnbrokers and credit intermediaries (for example garages that offer finance on new or used cars)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá freagrachtaí reachtúla ag an Coimisiún um Iomaíocht agus Cosaint Tomhaltóirí do rialúcháin gheallbhróicéirí agus idirghabhálaithe creidmheasa (mar shampla garáistí a ofráileann airgeadas ar cháirr nua agus úsáidte)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The office also monitors and investigates complaints in relation to the advertising of credit by credit intermediaries</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann an oifig maoirsiú chomh maith agus fiosraíonn sí gearáin i ndáil le fógraíocht creidmheasa ó idirghabhálaithe creidmheasa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>FIN-NET is an EU-wide out-of-court complaints network for financial services</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is líonra gearáin as-cúirte ar fud an AE é IN-NET do sheirbhísí airgeadais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It has been designed particularly to facilitate the out-of-court resolution of consumer disputes when the service provider is established in an EU Member State other than that where the consumer lives</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé deartha go háirithe chun réiteach as-cúirte d’aighnis tomhaltais a éascú nuair atá an soláthróir seirbhíse bunaithe i mBallstát AE seachas an ceann ina gcónaíonn an tomhaltóir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Financial fraud has risen in the past few years as criminals seek ways to access personal financial details</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá calaois airgeadais ardaithe le blianta beaga anuas agus coirpigh ag cuardach bealaí chun rochtain a fháil ar shonraí pearsanta airgeadais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Personal financial details include your:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áirítear i do shonraí pearsanta airgeadais:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Personal identity numbers (PIN) ,</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Uimhreacha aitheantais phearsanta (UAP),</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Phone and internet banking details</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sonraí baincéireachta idirlín agus teileafóin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is very important that you disclose your personal financial details only to reputable traders</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé an-tábhachtach nach nochtann tú do shonraí pearsanta airgeadais ach do thrádálaithe creidiúnacha amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Criminals have been known to access your personal financial details by impersonating your bank</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé aitheanta go bhfaigheann coirpigh rochtainn ar do shonraí pearsanta airgeadais trí aithris a dhéanamh ar do bhanc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Beware of unsolicited letters, e-mails and telephone calls you receive asking you to confirm your personal financial details</seg></tuv>
+  <tuv xml:lang="ga"><seg>Fainic litreacha, ríomhphoist agus glaoanna teileafóin gan iarraidh a fhaigheann tú a iarrann ort do shonraí pearsanta airgeadais a dheimhniú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you receive a letter stating that you have won money from a company that you have never heard of before they may be looking for bank account details</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhaigheann tú litir ag rá go bhfuil airgead buaite agat ó chomhlacht nár chuala tú trácht riamh air, d’fhéadfaí go bhfuil siad ag cuardach sonraí cuntais bhainc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Never write your personal identity number (PIN) down</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ná scríobh d’uimhir aitheantais phearsanta síos riamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In particular, do not keep this number with your bankcards - memorise it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go háirithe, ná coinnigh an uimhir seo le do chártaí bainc – foghlaim de ghlanmheabhair í</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Never disclose your PIN to anyone - your PIN is personal information that your bank would never ask you to state</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ná nocht d’UAP d’aon duine – is eolas pearsanta atá san UAP nach n-iarrfadh do bhanc ort riamh é a lua</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your bank may ask you to input your pin to your phone or a PIN terminal at your bank branch or ATM</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfaí go n-iarrfadh do bhanc ort d’UAP a chur isteach i do theileafón nó teirminéal UAP ag do chraobh bhainc nó UMB</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have difficulty memorising your PIN you can change it to a number that you can remember</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá deacracht agat d’UAP a chur de ghlanmheabhair is féidir leat í a athrú chuig uimhir ar féidir leat smaoineamh uirthi</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Avoid memorising a number that a criminal might be able to guess - such as a birthday</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seachain uimhir ar féidir le coirpeach í a thomhas – ar nós lá breithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Changing your PIN is easy to do at an Automatic Teller Machine (ATM) or at the bank counter</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé éasca UAP a athrú ag Uathmheasín Bainc (UMB) nó ag an gcúntar bainc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Report any lost or stolen cards as soon as you notice them missing</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déan tuairisc ar chártaí caillte nó goidte a luaithe agus a aithníonn tú go bhfuil siad ar iarraidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you don’t you may be liable for purchases made fraudulently on your card</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura ndéanann d’fhéadfaí go mbeifeá faoi dhliteanas do cheannacháin déanta go calaoiseach ar do chárta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The best way to protect yourself from fraud is to keep your cards and personal financial details secure</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an bealach is fearr chun tú féin a chosaint ó chalaois ná do chártaí agus do shonraí pearsanta airgeadais a choinneáil slán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the case of credit cards, a new service - chip and PIN - has been introduced to make credit cards more secure</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás cártaí creidmheasa, tá seirbhís nua – slis agus UAP – tugtha isteach chun cártaí creidmheasa a dhéanamh níos sláine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have a chip and PIN facility on your card (a gold coloured computer chip will be visible on your card) you type in a PIN into the retailers machine instead of signing dockets</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá saoráid shlis agus UAP ar do chárta (beidh slis ríomhaire ar dhath an óir feiceálach ar do charta) clóscríobhann tú UAP isteach i meaisín an mhiondíoltóra in áit duillíní a shíniú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Never use your credit card PIN or other PIN on the internet or over the phone</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ná húsáid d’UAP cárta creidmheasa ná aon UAP eile riamh ar an idirlíon ná ar an teileafón</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A frequent financial services scam is where sales persons use high-pressure sales tactics over the telephone, by mail or in person</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is camscéim sheirbhísí airgeadais go minic í nuair a úsáideann díoltóirí taicticí díolacháin d’ardbhrú ar an teileafón, tríd an bpost nó go pearsanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These scams are called ‘boiler rooms operations’ where the sales person put you under pressure to buy worthless or high-risk shares, foreign currency or other investments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar ‘oibríochtaí seomra coire’ áit a gcuireann an díoltóir faoi bhrú tú chun scaranna gan luach nó d’ardriosca, airgeadra eachtrannach nó infheistíochtaí a cheannach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are offered an investment deal, check if the financial institution is authorised by the Central Bank by phoning Lo-Call 1890 777 777</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má ofráiltear idirbheart infheistíochta duit, seiceáil an bhfuil an institiúid airgeadais údaraithe ag an mBanc Ceannais trí ghlaoch a chur ar Íos-Ghlao 1890 777 777</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Particular laws exist to protect you if you are buying products and services by distance selling</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá dlíthe áirithe ann chun tú a chosaint má cheannaíonn tú táirgí agus seirbhísí trí chiandíol</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are also laws that deal with unsolicited commercial email which can help to ensure that your personal details remain private</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá dlíthe ann freisin a dhéileáileann le ríomhphoist thráchtála gan iarraidh ar féidir leo cinntiú go bhfanann do shonraí pearsanta príomhaideach</seg></tuv>
+</tu>
+</body>
+</tmx>

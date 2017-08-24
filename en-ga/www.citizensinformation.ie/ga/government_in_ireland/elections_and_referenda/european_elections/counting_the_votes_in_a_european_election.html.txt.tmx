@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>European elections - counting the votes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Toghcháin Eorpacha- na vótaí a chomhaireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The result of a European election cannot be declared until voting throughout the European Union is completed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir le comhaireamh toradh toghcháin Eorpach a fhógairt go mbeidh na vótaí ar fad ar fud an AE caite</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The ballot papers are sent to the count centre for each constituency</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirtear na páipéir bhallóide chuig an ionad comhairimh do gach toghcheantar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The candidate’s agents are allowed to supervise the count</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceadaítear ionadaithe na n-iarrthóirí maoirseacht ar an gcomhaireamh a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Each ballot box is opened and the number of ballot papers in each box is checked against the return furnished by the presiding officer</seg></tuv>
+  <tuv xml:lang="ga"><seg>Osclaítear gach bosca ballóide agus tá an méid páipéar i ngach bosca seiceáilte le cinntiú gur ionann agus líon na vótaí atá i gcuntas gach oifigeach i gceannas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All the ballot papers are then mixed and sorted</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar na páipéir bhallóide a meascadh agus a shórtáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Invalid papers are rejected</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní ghlactar le páipéir nach bhfuil bailí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Counting continues until all the seats have been filled</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leantar le comhaireamh na vótaí go dtí go mbíonn na suíocháin ar fad líonta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The returning officer may recount all or any of the papers at any stage of a count</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le ceann comhairimh na vótaí ar fad nó cuid acu a athchomhaireamh ag am ar bith le linn an chomhairimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A candidate or their agent is entitled to ask for a recount of the papers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé de chead ag iarrthóir nó ag a (h)ionadaí iarratas a dhéanamh na vótaí a athchomhaireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When the count is completed, the returning officer declares the results of the election</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair atá an comhaireamh críochnaithe fógraíonn an ceann comhairimh toradh an toghcháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The result cannot be declared until polling has closed in every EU member state</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir le toradh bheith fógartha go mbeidh deireadh na vótaíochta i ngach ballstáit AE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The electoral system is proportional representation with single transferable vote (PR-STV)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ionadaíocht chionmhar le vóta amháin inaistrithe (PR-STV) é an córas vótála atá againn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The first step in the process is that the quota is worked out</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar chéad chéim sa phróiséas seo déantar an cuóta a oibriú amach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The quota is the minimum number of votes necessary to guarantee the election of a candidate</seg></tuv>
+  <tuv xml:lang="ga"><seg>An líon is mó vótaí a theastaíonn le iarrthóir a thoghadh is brí leis an gcuóta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is calculated by dividing the total number of valid papers by one more than the number of seats to be filled and adding one to the result</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar líon iomlán na bpáipéar bailí a roinnt faoin méid suíochán móide 1 atá le líonadh agus cuirtear 1 leis an bhfigiúr sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, if there are 1,000 valid ballot papers and there are 4 seats in the constituency, the quota is 1000 ÷ 4 +1 = 200 + 1 = 201</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, má tá 1,000 páipéir bhallóide bailí ann agus ceithre shuíochán sa toghcheantar seo a leanas an cuóta 1000 ÷ 4 +1 = 200 + 1 = 201</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The quota is 201</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é 201 an cuóta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The ballot papers are sorted according to the first preferences recorded for each candidate and counted</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar na páipéir bhallóide a shórtáil ansin de réir na n-iarrthóirí a fuair an chéad rogha agus déantar na vótaí sin a chomhaireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>At the end of the first count, any candidate who has received the quota of votes or more than the quota of votes is deemed to be elected</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag deireadh an chéad chomhairimh aon iarrthóir a bhfuil an cuóta bainte amach aige/aici nó a bhfuil níos mó vótaí aige/aici ná an cuóta fógraítear go bhfuil sé/sí tofa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When a candidate receives more than the quota of votes, their surplus of votes is proportionally transferred to the remaining candidates</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a fhaigheann iarrthóir níos mó vótaí ná an cuóta déantar fuílleach a vótaí a roinnt de réir cóimheasa ar na hiarrthóirí atá fágtha le toghadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If no candidate receives more than the quota of votes or if the surplus is not enough to elect one of the candidates, the candidate with the lowest amount of votes is eliminated</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna bhfuil níos mó vótaí ná an cuóta faighte ag aon iarrthóir nó muna bhfuil dóthain vótaí i bhfuílleach an iarrthóra le iarrthóir eile a thoghadh déantar an t-iarrthóir leis an líon is lú vótaí a chur as an áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Their papers are then transferred to the remaining candidates according to the next preference shown on them</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ansin déantar a p(h)áipéir a aistriú chuig na hiarrthóirí atá fágtha de réir an chéad rogha eile atá orthu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a ballot paper is to be transferred and the second preference shown on it is for a candidate already elected or eliminated, the vote passes on to third choice and so on</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá páipéar ballóide le n-aistriú agus má tá an duine a fuair an dara rogha ar an bpáipéar sin tofa cheana nó curtha as an áireamh, téann an vóta chuig an duine a fuair an tríú rogha agus mar sin de</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If it gets to the point that the number of seats left to be filled is equal to the number of candidates still in the running, these candidates are declared elected without having obtained the quota</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má thagann sé chuig an bpointe gur ionann líon na suíochán atá le líonadh agus líon na n-iarrthóirí atá fágtha fógraítear go bhfuil na hiarrthóirí sin tofa gan an cuóta a bhaint amach</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>If you are insured and you are injured at work, on an unbroken journey to/from work or you contract a prescribed occupational disease you may get benefits under the Occupational Injuries Scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú faoi árachas agus má ghortaítear thú agus tú ag obair nó má tholgann tú galar ceirde forordaithe, d'fhéadfá sochair a fháil faoin Scéim um Dhíobhálacha Ceirde</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>One of these benefits is Medical Care</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceann de na sochair atá i gceist ná Cúram Leighis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Medical Care Scheme allows you to get a refund of the costs of medical care and attention that are not paid by the Health Service Executive (HSE) or covered by the Treatment Benefit Scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoin scéim Cúram Leighis is féidir leat aisíoc a fháil ar chostais cúraim agus aire leighis nach mbíonn íoctha ag an láithreáin ghréasáin Limistéir Fheidhmeannacht na Seirbhíse Sláinte nó tríd an Sochar Cóir Leighis ón Roinn Coimirce Sóisialaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The following expenses may be refunded if they are not fully met by the HSE or the Department of Social Protection's Treatment Benefit Scheme:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfar aisíoc ar na costaisí seo a leanas muna mbíonn siad clúdaithe go hiomlán ag an Limistéir Fheidhmeannacht na Seirbhíse Sláinte ná ag Scéim Sochar Chóir Leighis na Roinne Choimirce Sóisialaí:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Certain medical or surgical appliances and the repair and replacement of these (for example, artificial limbs or hearing aids)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Fearais leighis agus máinliachta áirithe chomh maith le deisiú agus athsholáthar na deiseanna seo (mar shampla, géaga saorga nó cluaisíní chúnta)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Certain dental and optical treatment</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cóir leighis fiaclóra agus optach áirithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Certain treatment prescribed by your doctor excluding treatment available under the Health Acts (for example, physiotherapy, scans (MRI) and consultant consultations)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cóir leighis áirithe ar threoir dhochtúra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Certain travelling expenses, usually limited to the cost of public transport</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Costaisí taistil áirithe, go hiondúil ar chostas chóras iompar poiblí amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The expenses must be reasonable and necessary</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is le EFT a íoctar an Cúram Leighis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Medical Care is paid by Electronic Fund Transfer (EFT). Normally, only one payment is made but if the treatment is ongoing, payment may be made in a few instalments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go hiondúil ní dhéantar ach íocaíocht amháin ach más cóir leighis leanúnach atá i gceist, b'fhéidir go ndéanfaí íocaíocht i gcúpla gála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Payment is usually made to the person who claims, but may be made to the HSE</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is leis an duine a dhéanann an éileamh a dhéantar an íocaíocht go hiondúil ach is féidir é a dhéanamh le do dhochtúir nó an bord sláinte más gá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To qualify for a refund of medical costs you must satisfy the following conditions:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun a bheith i dteideal aisíoca chostaisí leighis ní mór duit na coinníollacha seo a leanas a chomhlíonadh:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Your injury must have been caused by an accident at work or as a result of your work you must have contracted a prescribed occupational disease and</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Caithfidh an timpiste a bhí agat a bheith mar thoradh ar thimpiste ag an obair nó caithfidh tú galar áirithe ceirde a bheith ort mar thoradh ar do chuid oibre agus</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You must notify the Department of your intention to claim medical care within 6 weeks of the start of medical treatment</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Caithfidh tú an Roinn a chur ar an eolas faoi go bhfuil tú chun cúram leighis a éileamh taobh istigh de 6 seachtainí ó thús an chóir leighis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is normally 6 weeks from the date of the accident or the development of the disease and you must be in employment insurable at PRSI class A, B, D, J or M</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go hiondúil ciallaíonn sé seo sé seachtainí ó dháta na timpiste nó ó thús an ghalair. Freisin ní mór duit a bheith i bhfostaíocht a bhfuil i rannóg A, B, D, J nó M i gcomhair ÁSPC</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All work accidents or occupational diseases may not result immediately in illness or disablement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní tharlaíonn tinneas ná míchumas láithreach mar thoradh ar gach timpiste san obair nó galar ceirde</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are not immediately incapacitated but wish to safeguard your future right to benefit, you should tell your employer about the accident/disease. You should apply for a declaration that your accident/disease was an occupational one</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna dtarlaíonn eágumas duit láithreach ach gur mian leat cinntiú go mbeadh an ceart agat amach anseo sochar a fháil, ba cheart duit d'fhostóir a chur ar an eolas maidir leis an timpiste/ galar agus dearbhú a iarradh ag rá gur tinneas/ timpiste cheirde a bhí i gceist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This should be done without delay</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart é seo a dhéanamh gan mhoill</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To apply, fill in a Medical Care form C1 (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seolfar foirm éilimh C1 chugat anseo (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can get more information on the scheme in the leaflet Medical Care SW34</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh faisnéise ar fáil maidir an scéim í Medical Care SW34</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Make sure you quote your PPS number on any receipts you send in with the medical care claim form C1. Note that only original receipts are accepted, payment will not issue for a claim based on photocopied receipts</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déan cinnte de go gcuireann tú d'uimhir PSP (mar an gcéanna le d'uimhir cánach ) ar aon admhálacha a sheolann tú isteach in éineacht leis an bhfoirm éilimh C1</seg></tuv>
+</tu>
+</body>
+</tmx>

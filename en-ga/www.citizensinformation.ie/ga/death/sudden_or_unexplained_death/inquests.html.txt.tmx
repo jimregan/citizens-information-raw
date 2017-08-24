@@ -1,0 +1,225 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>An inquest is an official, public enquiry, presided over by the Coroner (and in some cases involving a jury) into the cause of a sudden, unexplained or violent death</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is éard is ionchoisne ná fiosrúchán oifigiúil poiblí, a bhfuil an Cróinéir i gceannas air (agus bíonn giúiré i gceist i roinnt cásanna) a fhiosraíonn cúis bháis thobainn, bás nach bhfuil aon mhíniú air nó bás foréigneach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a death cannot be explained, an inquest may be held to establish the facts of the death, such as where and how death occurred</seg></tuv>
+  <tuv xml:lang="ga"><seg>Murar féidir bás a mhíniú, is féidir ionchoisne a chur ar bun chun fíricí an bháis a dheimhniú, ar nós áit an bháis agus conas a tharla an bás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An inquest would not normally be held if a post-mortem examination of the body could explain the cause of death</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chuirfí ionchoisne ar bun de ghnáth dá bhféadfadh scrúdú iarbháis ar an gcorp míniú a thabhairt ar chúis an bháis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Section 17 of the Coroners Act 1962 makes provision in law for the holding of an inquest into a death</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar foráil in Alt 17 den Acht Cróinéirí, 1962 sa dlí chun ionchoisne a chur ar bun ar bhás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The inquest will not take place until at least 6 weeks after the death</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chuirfí an t-ionchoisne ar bun go dtí sé seachtaine, ar a laghad, i ndiaidh an bháis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Witnesses may be required to attend the inquest to give testimony on oath regarding the circumstances and cause of the death</seg></tuv>
+  <tuv xml:lang="ga"><seg>D’fhéadfadh go mbeadh ceanglas ar fhinnéithe freastal ar an ionchoisne chun fianaise a thabhairt faoi mhionn maidir le cúinsí agus cúis an bháis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When a jury is present at an inquest, it is the jury rather than the Coroner who delivers the verdict</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás go mbíonn giúiré i láthair ag ionchoisne, is é an giúiré, seachas an Cróinéir, a sholáthraíonn an fíorasc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Jury service at an inquest is obligatory and a majority verdict is used to reach a verdict</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is seirbhís éigeantach í seirbhís ghiúiré ag ionchoisne agus úsáidtear fíorasc tromlaigh chun fíorasc a bhaint amach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Nobody is found guilty or innocent at an inquest and no criminal or civil liability is determined</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní fhaightear aon duine ciontach nó neamhchiontach ag ionchoisne agus ní dheimhnítear aon dliteanas coiriúil nó sibhialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are no "parties" and all depositions, postmortem reports and verdict records are preserved by the Coroner and are made available to the public</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhíonn aon “pháirtithe” ann agus caomhnaíonn an Cróinéir gach teistíocht, tuairisc iarbháis agus gach taifead fíorasc agus cuirtear ar fáil iad don phobal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An inquest is usually held in a courthouse, however, hotels or local halls may also be used</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is gnách go gcuirtear ionchoisne ar bun i dteach cúirte, ach féadtar óstáin nó hallaí áitiúla a úsáid chomh maith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The family of the deceased are entitled to attend the inquest, but they are not bound by law or legally obliged to be there</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn muintir an té a bhásaigh i dteideal freastal ar an ionchoisne, ach ní cheanglaíonn an dlí orthu agus níl dualgas dlíthiúil orthu bheith ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the family attend the inquest, they do not require legal representation on their behalf (that is, a solicitor or legal adviser)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhreastalaíonn an mhuintir ar an ionchoisne, níl theastaíonn ionadaíocht dhlíthiúil thar a gceann (is é sin, aturnae nó comhairleoir dlí)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Sometimes however, if legal action is being taken as a result of the death, the family may engage a solicitor to attend the inquest and take notes</seg></tuv>
+  <tuv xml:lang="ga"><seg>Amanna, áfach, má táthar ag tabhairt faoi imeachtaí dlí mar thoradh ar an mbás, féadfaidh an teaghlach aturnae a fhostú chun freastal ar an ionchoisne agus nótaí a ghlacadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When the proceedings have been completed, a verdict is returned in relation to the identity of the deceased, and how, when and where the death occurred</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás gur tugadh chun críche na himeachtaí, tugtar fíorasc maidir le haitheantas an té a bhásaigh, agus conas, cathain agus cá tharla an bás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The range of verdicts open to the Coroner or jury (in jury cases, it is the jury that returns the verdict) include accidental death, misadventure, suicide, open verdict, natural causes and unlawful killing</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is measc an réimse fíorasc is féidir leis an gCróinéir nó an giúiré a thabhairt (i gcásanna giúiré, is é an giúiré a thugann an fíorasc), tá bás tionóisceach, míthapa, féinmharú, fíorasc oscailte, cásanna nádúrtha agus marú neamhdhleathach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A general recommendation designed to prevent similar deaths occurring may be made by the coroner or jury</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh an cróinéir nó an giúiré moladh ginearálta a dhéanamh atá in ainm is básanna den chineál céanna a sheachaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When the inquest is completed, the Coroner issues a certificate so that the death can be properly registered</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair atá an t-ionchoisne críochnaithe, eisíonn an Cróinéir deimhniú ionas gur féidir an bás a chlárú i gceart</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If a death is due to unnatural causes, then an inquest must be held by law</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más de dheasca cúiseanna mínádúrtha atá bás, ní mór ionchoisne a chur ar bun, de réir an dlí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In certain circumstances, a jury must be present at an inquest</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi roinnt cúinsí, is féidir le giúiré a bheith i láthair ag ionchoisne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Every person over the age of twenty-one years residing within a coroner's district is liable to serve on the jury at any inquest held within that district unless they are exempt</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá gach duine atá os cionn aois fiche a haon bliain a chónaíonn laistigh de cheantar cróinéara faoi dhliteanas fónamh ar an ngiúiré ag aon ionchoisne a chuirtear ar bun laistigh den cheantar sin mura bhfuil siad díolmhaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The inquest jury must consist of at least 6 people (and not more than 12 people)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go bhfuil ar a laghad seisear i ngiúiré an ionchoisne (agus nach mó ná dháréag)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Circumstances where a jury is required at an inquest include where:</seg></tuv>
+  <tuv xml:lang="ga"><seg>I measc na gcúinsí faoina dteastaíonn giúiré ag ionchoisne, tá an méid a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The death is due to murder, manslaughter or infanticide</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Nuair a tharlaíonn an bás mar gheall ar dhúnmharú, dúnorgain nó naíonmharú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The death took place in prison</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Nuair a tharlaíonn an bás i bpríosún</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The death was caused an accident, poisoning or a disease requiring notification to a government department or inspector</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Nuair a tharlaíonn an bás mar gheall ar thionóisc, nimhiú nó galar a dteastaíonn fógra ina leith a thabhairt do roinn rialtais nó do chigire</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The death was caused by a road traffic accident</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Nuair a tharlaíonn an bás mar gheall thionóisc thráchta ar bhóithre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The death occurred in circumstances, which if they continued or recurred would endanger the health or safety of a member(s) of the public</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Nuair a tharlaíonn an bás faoi na cúinsí sin a chuirfeadh sláinte nó sábháilteacht mhuintir an phobail i mbaol, dá leanfaidís nó dá dtarlóidís athuair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The Coroner considers that a jury is necessary</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Nuair a mheasann an Cróinéir go dteastaíonn giúiré</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To attend as either a juror or witness at an inquest, you will receive a summons served by a member of the Garda Síochána</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun freastal mar ghiúróir nó mar fhinné ag ionchoisne, gheobhaidh tú toghairm a sheirbheálfaidh comhalta den Gharda Síochána</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This summons can be served on you in a number of ways, for example, by delivering it to you directly or leaving the summons with your spouse, child, employee or agent at your last known residence or workplace as long as that person is not under 16 years of age</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadtar an toghairm seo a sheirbheáil ort ar líon bealaí, mar shampla, tríd an toghairm a sholáthar duit go díreach nó an toghairm a fhágáil le do chéile, leanbh, fostaí nó gníomhaire ag d’áit chónaithe nó d’ionad oibre deireanach ar a rabhthas feasach a fhad agus nach bhfuil an duine sin faoi 16 bliana d’aois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Failure to attend at jury service at an inquest is an offence and you will face penalties</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is cion é má theipeann ort freastal mar chuid den tseirbhís ghiúiré ar ionchoisne agus gearrfar pionóis ort</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the jury at the inquest fail to agree on the cause of death, the Coroner can either accept the majority decision of the jury or if the decision is tied, discharge the jury and hold a new inquest</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má theipeann ar an ngiúiré ag an ionchoisne comhaontú a dhéanamh ar chúis an bháis, féadfaidh an Cróinéir glacadh le cinneadh tromlaigh an ghiúiré nó má bhaintear comhchinneadh amach, féadfaidh sé/sí an giúiré a dhíscaoileadh agus ionchoisne nua a chur ar bun</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Coroner decides which witnesses should give evidence at the inquest and the order in which they should give their evidence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é an Cróinéir a dhéanann cinneadh cén finnéithe ar cheart fianaise a thabhairt ag an ionchoisne agus an t-ord inar cheart dóibh a bhfianaise a thabhairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Evidence must be presented so as to provide a logical sequence of the circumstances surrounding the death</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór fianaise a chur i láthair d’fhonn go soláthródh sí sraith loighciúil na gcúinsí a bhaineann leis an mbás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The postmortem result establishes the medical cause of death</seg></tuv>
+  <tuv xml:lang="ga"><seg>Deimhníonn toradh an scrúdaithe iarbháis an chúis leighis a bhí leis an mbás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Witnesses who are required to attend an inquest can claim for loss of earnings and expenses</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh finnéithe a gceanglaítear orthu freastal ar ionchoisne éileamh a dhéanamh ar chaillteanas tuilleamh agus ar chostais</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The rates for fees and expenses are set by statutory instrument</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leagtar amach na rátaí le haghaidh táillí agus costas in ionstraim reachtúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Public attendance at an inquest</seg></tuv>
+  <tuv xml:lang="ga"><seg>Freastal poiblí ar ionchoisne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All inquests are conducted in public and anyone may attend</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar faoi gach ionchoisne go poiblí agus féadfaidh duine ar bith freastal orthu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Reports of inquests may be carried in national and local newspapers but in practice only a minority of inquests are actually reported</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadtar tabhairt faoi thuairisciú a dhéanamh ar ionchoisní i nuachtáin náisiúnta agus áitiúla, ach i gcleachtas, ní dhéantar tuairisciú ach ar mhionlach ionchoisní i ndáiríre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Coroners in Ireland are very much aware of the tragic circumstances often involved in inquests and will try to treat each inquest sympathetically</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá cróinéirí in Éirinn an-fheasach ar na cúinsí tragóideacha a bhíonn i gceist go minic le hionchoisní agus déanfaidh siad gach iarracht caitheamh le gach ionchoisne go báúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If there is a suicide note, its existence will be acknowledged</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá nóta féinmharaithe ann, aithneofar gurb ann dó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>At the discretion of the Coroner, its contents may be read out in public</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadtar ábhair an nóta a léamh amach go poiblí, faoi lánrogha an Chróinéara</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Every attempt is made to ensure that the inquest proceedings are not unduly intrusive on families and friends concerned</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar gach iarracht lena chinntiú nach gcuireann imeachtaí an ionchoisne isteach go míchuí ar na teaghlaigh agus na cairde a bhíonn i gceist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As inquests are public enquiries, it is possible to obtain a copy of the post-mortem report and any depositions taken at inquest, including a copy of the verdict</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar gheall gur fiosrúcháin phoiblí iad ionchoisní, is féidir cóip a fháil de thuairisc an scrúdaithe iarbháis agus aon teistíocht a glacadh ag an ionchoisne, lena n-áirítear cóip den fhíorasc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These official reports are only available after the inquest has concluded</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhíonn na tuairiscí oifigiúla seo ar fáil ach i ndiaidh gur tugadh an t-ionchoisne chun críche</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There is a small fee for these documents</seg></tuv>
+  <tuv xml:lang="ga"><seg>Gearrtar táille bheag ar na cáipéisí seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Inquest papers are not available prior to the inquest being held</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhíonn páipéir ionchoisne ar fáil sula gcuirtear an t-ionchoisne ar bun</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have been summoned as a witness or jury member for an inquest, you will be notified to the date, time, venue of the inquest</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má rinneadh thú a thoghairm mar fhinné nó mar chomhalta giúiré d’ionchoisne, tabharfar fógra duit maidir le dáta, am agus ionad an ionchoisne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have any questions about the inquest, contact your local Garda station</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhíonn aon cheisteanna agat faoin ionchoisne, déan teagmháil le stáisiún áitiúil na nGardaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Copies of official reports of inquests are available from the local Coroner's office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá fáil ar chóipeanna de thuairiscí oifigiúla ar ionchoisní ó oifig an Chróinéara áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To obtain a report, you will need to write to the Coroner's Office requesting this information and including the name of the deceased, the date of death, the hospital involved (if any) and the date of the inquest (if you have this information)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun tuarascáil a fháil, beidh ort scríobh chuig Oifig an Chróinéara, agus an fhaisnéis seo a iarraidh agus ainm an té a bhásaigh, dáta an bháis, an t-ospidéal a bhí i gceist (má bhí ospidéal i gceist) agus dáta an ionchoisne a lua (má tá an fhaisnéis seo agat)</seg></tuv>
+</tu>
+</body>
+</tmx>

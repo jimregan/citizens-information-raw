@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Legal representation in criminal cases</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ionadaíocht Dhleathach i gcás Coiriúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are two types of criminal offence; a summary offence, which can be tried by a District Court judge sitting without a jury, and an indictable offence, which is tried by a Circuit or High Court judge sitting with a jury</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá dhá chineál cás coiriúil ann; coir achoimre gur féidir le Breitheamh sa Chúirt Dúiche a éisteacht leis féin gan aon ghiúiré a bheith i láthair, agus coir inchúisithe a éistear sa Chúirt Chuarda nó san Ard Chúirt ós comhair breitheamh agus giúire</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have been charged with a summary offence, you may be represented by a solicitor and/or a barrister</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chuirtear coir achoimre i do leith is féidir le aturnae agus/nó abhcóide ionadaíocht a dhéanamh ar do shon</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Criminal legal aid is not generally available at the District Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>De ghnáth níl Cúnamh Dlí Choiriúil le fáil sa Chúirt Dúiche</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have been charged with an indictable offence, you will normally be represented by a solicitor and a barrister (counsel)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá coir inchúisithe curtha i do leith, déanfaidh aturnae agus abhcóide (consailéir) ionadaíocht ar do shon</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Usually, you will be represented by a solicitor, a junior counsel and a senior counsel</seg></tuv>
+  <tuv xml:lang="ga"><seg>De ghnáth beidh aturnae, abhcóide sóisir , agus abhcóide sinsir i láthair ar do shon</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you qualify for criminal legal aid, the state will cover the cost of your lawyers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocfaidh an Stáit costaisí do chuid dlíodóirí má tá tú i dteideal Cúnamh Dlí Choiriúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are the accused in a criminal trial, your defence counsel must behave according to the following rules</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más tusa an té go bhfuil an choir curtha ina leith i gcás choiriúil, beidh ar do chonsailéir cosanta cloí leis na rialacha seo leanas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Duties of the Defence Counsel</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dualgaisí an Chonsailéir Chosanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The main duty of the defence counsel is to defend you whether or not they think or believe you are guilty</seg></tuv>
+  <tuv xml:lang="ga"><seg>An príomh dhualgas atá ar an gconsailéir cosanta ná tusa a chosaint is cuma an gceapann sé/sí an bhfuil tú ciontach nó nach bhfuil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The defence counsel must always give a criminal case priority over all other matters</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá ar an gConsailéir Cosanta tús áite a thabhairt do chás choiriúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The defence counsel is under a duty to stay with you even if you are not accepting their advice</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá ar an gConsailéir Cosanta fanacht leat fiú muna bhfuil tú ag glacadh lena chomhairle</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The defence counsel cannot withdraw from your case because of any conduct or remarks made by the trial judge</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl cead ag an gConsailéir Cósanta do chás a thabhairt suas toisc go ndéanann nó go ndeireann an breitheamh atá ag triail an cháis rud éigin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The defence counsel should be present throughout the trial at all times</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir don Chonsailéir Cosanta a bheith i láthair i rith an triail ina iomláine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if, due to unforeseen circumstances, they have to leave, they must see that you are not at any stage unrepresented and they must obtain the consent of your solicitor to be absent</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más gá dó/di a bheith as láthair, áfach, caithfidh sé/sí déanamh cinnte de nach bhfuil tú fágtha gan ionadaíocht ag aon am agus caithfidh sé/sí cead imeachta a fháil ó do aturnae</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where there are two defence counsel, neither may leave the trial except temporarily and for good reason</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás go bhfuil beirt chonsailéir i láthair níl cead ag ceachtar acu bheith imithe ach ar bhun sealadach agus caithfidh cúis mhaith a bheith acu a bheith as láthair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The defence counsel must be properly briefed - that is, they must have received all of the relevant information relating to your case at least one week prior to the trial date</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór don chonsailéir cosanta miontheagaisc iomlán do chása a bheith acu, ar a laghad, seachtain sula dtosnaíonn do chás sa chúirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The defence counsel also owes a duty to the court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá dualgas, freisin, ar an gconsailéir don chúirt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>they must not knowingly state a lie in court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl cead aige/aici bréag a lua sa chúirt, má thuigeann sé/ sí gur bréag é</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you tell your barrister that you are guilty before the start of the trial, they can continue to act for you if you plead guilty</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag tús na trialach má deireann tú le do abhcóide go bhfuil tú "Ciontach", fós, is féidir leis/lei ionadaíocht a dhéanamh ort</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you plead not guilty, they are very restricted as to the type of defence they can mount on your behalf</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má deireann tú go bhfuil tú "Neamh Chiontach" tá sé/sí cosctha ina a lán bealaí maidir leis an gcás cosanta gur féidir leis/lei a dhéanamh ar do shon</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you flee, your legal representation may withdraw from the case</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má theitheann tú, is féidir le do ionadaíocht dlí éirí as an gcás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The decision whether or not to give evidence is your decision and not your counsel's</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is tú féin a dhéanann an cinneadh maidir le fianaise a thabhairt nó gan é a thabhairt agus ní dhéanann do chonsailéir an cinneadh seo duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are convicted, the defence counsel has a duty to see you and to appear for you in any appeal unless they has advised against the appeal</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fhaightear ciontach tú, tá ar do chonsailéir cosanta seasamh leat agus ionadaíocht a dhéanamh ort má bhíonn athchomharc i gceist munar chuir sé/sí comhairle ort gan achomharc a éileamh</seg></tuv>
+</tu>
+</body>
+</tmx>

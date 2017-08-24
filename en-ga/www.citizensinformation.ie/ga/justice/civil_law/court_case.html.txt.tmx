@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Proceedings in civil court cases</seg></tuv>
+  <tuv xml:lang="ga"><seg>Imeachtaí i gcásanna cúirte sibhialta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your civil court case has not been settled 'out-of-court', it will be set down for trial before a court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna bhfuil réiteach faighte ar do chás socrófar dáta don triail ós comhair na cúirte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the defendant in the case has not admitted he/she is at fault, the trial will take the following format;</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna bhfuil freagracht glactha ag an gcosantóir sa chás, is mar seo a leanas a bheidh an triail;</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Your barrister will outline to the judge the nature of the case and the injuries you suffered</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Déanfaidh d'abhcóide cur síos don bhreitheamh ar an gcás agus ar an ngortú a d'fhulaing tú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Medical evidence relating to your injuries may be given by a doctor if appropriate to your case</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Más cuí don chás, is féidir le dochtúir fianaise a chur ar fáil maidir leis an ngortú a d'fhulaing tú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• An engineer may be called to give evidence if necessary</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Más gá is féidir innealtóir a ghlaoch le fianaise a thabhairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You are called to give evidence:</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Glaofar ort féin le fianaise a thabhairt:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>- This will involve swearing on oath and answering the questions posed to you by your barrister as clearly and concisely as possible</seg></tuv>
+  <tuv xml:lang="ga"><seg>- Beidh ort mionn a thógáil agus ceisteanna a fhreagairt a chuireann d'abhcóide féin chomh soiléar agus chomh beacht agus is féidir leat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will give evidence relating to how the accident occurred and your injuries</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tabharfaidh tú fianaise maidir le cén chaoi ar tharla an timpiste agus an gortú a bhaint duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>- When your barrister has finished asking you questions, you will be cross-examined by the barrister on the other side</seg></tuv>
+  <tuv xml:lang="ga"><seg>- Nuair atá na ceisteanna ar fad curtha ag d'abhcóide, déanfaidh abhcóide an taobh eile tú a chroscheistiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The object of cross-examination is to discover the truth so you may be asked questions about inconsistencies in your evidence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé mar aidhm aige seo teacht ar an bhfírinne agus mar sin cuirfear ceisteanna ort maidir le haon chaoi nach bhfuil do chuid freagraí ag cur lena chéile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may also be told what the defendant or his/her witnesses say is the true version of events and asked to comment on their evidence</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh sé go n-inseófaí duit an leagan atá ag an gcosantóir nó a f(h)innéithe den fhírinne agus iarrfar ort do bharúil a thabhairt ar a bhfuil le rá acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• All the other witnesses on your side give evidence and are cross-examined</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tabharfaidh na finnéithe eile ar do thaobh fianaise agus déanfar iad a chroscheistiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The defendant's witnesses are each called to the witness box and give evidence</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Glaofar ar fhinnéithe an chosantóra le fianaise a thabhairt</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your barrister may cross-examine each one of them</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le d'abhcóide chuile dhuine acu a chroscheistiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• When all the witnesses have been called, both barristers may make submissions to the judge</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Nuair atá gach finné glaoite, is féidir leis na habhcóidí áiteamh a chur faoi bhráid an bhreithimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This may include summarising or emphasising certain evidence or making legal arguments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leo achomair a dhéanamh ar an bhfianaise nó pointí de a threisiú nó argóintí dlí a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The judge will make his/her decision on:</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Déanfaidh an breitheamh cinneadh:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>- Whether the defendant is at fault and therefore liable to pay damages to you,</seg></tuv>
+  <tuv xml:lang="ga"><seg>- An bhfuil an cosantóir ciontach agus mar sin freagrach as damáistí a íoc leat,</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>- The amount of damages to which you are entitled as a result of your injuries and</seg></tuv>
+  <tuv xml:lang="ga"><seg>- Cé mhéid damáistí atá ag dul chugat de bharr an ghortaithe agus</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>- Who shall pay the costs of the proceedings</seg></tuv>
+  <tuv xml:lang="ga"><seg>- Cé a íocfaidh costais an cháis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Usually, if you have won the case, the judge will order that the defendant pay your legal costs as well as his/her own</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go hiondúil, má d'éirigh leat, déanfaidh an breitheamh cinneadh gur ceart don chosantóir íoc as do chuid costas chomh maith lena c(h)uid féin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you lose, it is likely you will have to pay the costs of both sides</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna n-éiríonn leat, is iondúil go mbeidh ortsa íoc as costais an dá thaobh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the defendant admits that he/she is to blame for your injuries and you are not happy with the amount offered in settlement of damages, then the matter will be sent to a court for judgement on the amount of damages you are entitled to</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má admhaíonn cosantóir go bhfuil sé/sí freagrach as do ghortú agus muna bhfuil tú sásta leis na damáistí a thairscíonn sé/sí mar réiteach, cuirfear an cás ós comhair na cúirte le breith a thabhairt ar na damáistí gur cóir duit a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In this situation, the court does not consider the question of who is to blame</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa chás seo, ní bhreathnaíonn an chúirt ar ceist na freagrachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The judge will merely place a value on your case based on an examination of the nature and extent of your injuries and the prognosis for the future</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirfidh an breitheamh luach ar do chás bunaithe ar scrúdú ar do ghortú agus tuar leighis don todhchaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This examination will be conducted by considering the available medical reports and/or hearing medical practitioners' evidence relating to your injuries</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfar an scrúdú seo tríd na tuairiscí leighis a mheas agus/nó fianaise a chloisteáil ó dhochtúirí a bhaineann le do ghortú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will be called as a witness so that you can describe your injuries</seg></tuv>
+  <tuv xml:lang="ga"><seg>Glaofar ort mar fhinné le cur síos a dhéanamh ar an ngortú a bhain duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When will you receive the award?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cén uair a gheobhaidh tú na damáistí?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Usually awards as a result of civil cases are paid by the defendant to your solicitor within 6 to 8 weeks</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocann an cosantóir damáistí go hiondúil le do dhlíodóir taobh istigh de 6-8 seachtain</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,209 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Disclosure in criminal cases</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nochtadh i gcásanna coiriúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In a criminal trial the prosecution is obliged to disclose to the defence, in advance of the trial, all relevant evidence which it has</seg></tuv>
+  <tuv xml:lang="ga"><seg>I dtriail choiriúil ní mór do lucht an ionchúisimh an fhianaise ábhartha go léir atá acu a nochtadh don lucht cosanta roimh an triail</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are charged with a criminal offence, you have the right to be provided with the evidence the prosecution intends using at your trial, as well as the evidence which it has but does not intend to use, if that evidence could assist your defence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chúisítear tú as cion coiriúil, tá sé de cheart agat an fhianaise a bhfuil sé beartaithe ag lucht an ionchúisimh a úsáid ag do thriail a fháil, chomh maith leis an bhfianaise atá acu nach bhfuil sé beartaithe acu a úsáid, dá bhféadfadh an fhianaise sin cabhrú le do chosaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This duty to disclose is based on natural and constitutional justice, case law and statutory principles</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an dualgas nochtaithe bunaithe ar cheartas nádúrtha agus bunreachtúil, cásdlí agus prionsabail reachtúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, the duty differs between summary prosecutions, which are tried in the District Court before a judge without a jury, and prosecutions on indictment, which are tried before a judge and jury in the Circuit Court or the Central Criminal Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach baineann dualgas difriúil le ionchúisimh achoimre a thriailtear sa Chúirt Dúiche os comhair breithimh ach gan giúiré, agus ionchúisimh ar díotáil, a thriailtear os comhair breithimh agus giúiré sa Chúirt Chuarda nó sa Phríomh-Chúirt Choiriúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In a summary case there is no general duty for the prosecution to provide you in advance with the statements of witnesses, whether or not you request them</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás achomair ní bhíonn dualgas ginearálta ar lucht an ionchúisimh ráitis finnéithe a sholáthar duit roimh ré, bíodh go bhfuil siad á lorg agat nó nach bhfuil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you apply to the court to be provided with the statements, it is up to the court to decide whether it is in the interest of justice to provide you with them</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má déanann tú iarratas leis an gcúirt ar na ráitis a fháil, is faoin gcúirt socrú an ceart iad a sholáthar duit ar mhaithe le ceartas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The matters the court may need to consider were set out by the Supreme Court in Director of Public Prosecutions v Garry Doyle <ph/> 2 IR 286</seg></tuv>
+  <tuv xml:lang="ga"><seg>Leag an Chúirt Uachtarach na hábhair a d'fhéadfadh go mbeadh ar an gcúirt a mheas i i Director of Public Prosecutions v Garry Doyle <ph/> 2 IR 286</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When deciding whether or not to release evidence, the prosecution must consider similar principles</seg></tuv>
+  <tuv xml:lang="ga"><seg>Agus iad ag smaoineamh ar cheart nó nár cheart fianaise a scaoileadh, ní mór do lucht an ionchúisimh prionsabail chosúlacha a mheas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are requesting that you be provided with the statements, the responsibility lies primarily with you or your solicitor to provide adequate reasons for the disclosure</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má iarrann tú go soláthrófaí ráitis duit, is é tú féin go príomha nó do aturnae atá freagrach as fáthanna dóthanacha leis an nochtadh a sholáthar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In a case of trial on indictment the prosecution has a statutory duty to provide you, in advance of your trial, with certain materials which sets out the evidence intended to be given in the trial against you</seg></tuv>
+  <tuv xml:lang="ga"><seg>I gcás trialach ar díotáil tá dualgas reachtúil ar lucht an ionchúisimh ábhair áirithe a sholáthar duit roimh do thriail a leagann amach an fhianaise a bhfuil sé beartaithe a thabhairt sa triail i do choinne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These documents are usually referred to as the Book of Evidence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is gnách go dtugtar an Leabhar Fianaise ar na doiciméid sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When the Director of Public Prosecutions (DPP) consents to you being sent forward for trial, the DPP must serve the Book of Evidence on you (or your solicitor) within 42 days after you first appear in the District Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a thoilíonn an Stiúrthóir Ionchúiseamh Poiblí (SIP) go gcuirfear ar aghaidh thú le triail, caithfidh an SIP an Leabhar Fianaise a sheirbheáil ort (nó ar d'aturnae) laistigh de 42 lá tar éis duit a bheith sa Chúirt Dúiche den chéad uair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The DPP can apply to the District Court to extend the 42 day period and normally the District Court will grant this extension if:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis an SIP iarratas a dhéanamh ar an gCúirt Dúiche chun síneadh a chur leis an tréimhse 42 lá, agus déanfaidh an Chúirt Dúiche an síneadh seo a dheonú go hiondúil sna cúinsí a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• There is a good reason for doing so</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cúis mhaith lena leithéid a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• It would be in the interest of justice to do so</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Bheadh sé chun leasa an cheartais a leithéid a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The law does not set down any limit on the length of the extension</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní leagann an dlí síos teorainn ar bith faoi fhad an tsínidh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There must, however, be a good reason for granting the extension, such as, if the Garda investigation is complex and there are a lot of witnesses involved in the case</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin féin, caithfidh cúis mhaith a bheith le síneadh, cosúil le fiosrúchán na nGardaí a bheith casta agus mórán finnéithe a bheith bainteach leis an gcás</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the District Court refuses to grant an extension of time for service of the Book of Evidence, it must strike out the proceedings against you in relation to the offence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhiúltaíonn an Chúirt Dúiche síneadh ama a thabhairt do sheirbheáil an Leabhair Fianaise, caithfear na himeachtaí i do choinne maidir leis an gcion a scriosadh amach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This does not mean that the case is over or finished</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chiallaíonn sé seo go bhfuil an cás dúnta nó tugtha chun críche</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When the District Court strikes out the proceedings it is without prejudice to the institution of any proceedings against you by the DPP</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a dhéanann an Chúirt Dúiche imeachtaí a scriosadh amach, tarlaíonn sé gan dochar do thionscnamh imeachtaí ar bith i do choinne ag an SIP</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that the DPP can bring you before the court again on the same charges</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn sé seo gur féidir leis an SIP tú a thógáil os comhair na cúirte arís ar na cúisimh chéanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you intend relying on the evidence of any alibi at your trial you must give notice of the alibi to the prosecution within 14 days of being served the Book of Evidence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá sé beartaithe agat a bheith ag brath ar fhianaise ailibí ar bith le linn trialach, caithfear an ailibí a fhógairt don ionchúiseamh laistigh de 14 lá ó sheirbheáil an Leabhair Fianaise</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>What does the Book of Evidence contain?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cad atá cuimsithe sa Leabhar Fianaise?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The documents which must be served on you or your solicitor are as follows:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad na doiciméid seo a leanas a chaithfear a sheirbheáil ort nó ar d'aturnae:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A statement of the charges against you</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ráiteas maidir leis na cúisimh i do choinne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A copy of any sworn information (in writing) upon which the proceedings were started, that is, the written complaint made by a Garda</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cóip d'fhaisnéis faoi mhionn (i scríbhinn) ónar eascair na himeachtaí, is é sin gearán scríofa a rinneadh chuig na Gardaí Síochána</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A list of the witnesses whom the DPP proposes to call at the trial</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Liosta na bhfinnéithe a bhfuil beartaithe ag an SIP glaoch orthu le linn na trialach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A statement of the evidence that is expected to be given by each witness at the trial</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ráiteas an fhianaise atáthar ag súil go dtabharfaidh gach finné ag an triail</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A list of any exhibits to be introduced at the trial</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Liosta na bhfoilseán atá le cur i láthair le linn na trialach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Once the Book of Evidence is prepared, it is served on you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chomh luath agus atá an Leabhar Fianaise ullmhaithe, déantar é a sheirbheáil ort</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The serving of the Book of Evidence does not mean that the DPP cannot serve additional documents on you at a later stage</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chiallaíonn seirbheáil an Leabhair Fianaise nach féidir leis an SIP doiciméid bhreise a sheirbheáil ort níos déanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>At any time afterwards, the DPP must serve certain documents on you if they exist</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag am ar bith ina dhiaidh sin, caithfidh an SIP doiciméid áirithe a sheirbheáil ort má tá a leithéidí ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These additional documents include:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Áirítear na doiciméid bhreise seo a leanas ina measc:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A list of any further witnesses the DPP proposes to call at the trial</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Liosta d'fhinnéithe breise ar bith a bhfuil beartaithe ag an SIP glaoch orthu le linn na trialach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A statement of the evidence that is expected to be given by each witness whose name appears on the list of further witnesses</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ráiteas faoin bhfianaise atáthar ag súil go dtabharfaidh gach finné atá ar an liosta d'fhinnéithe breise</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A statement of any further evidence that is expected to be given by any witness whose name appears on the earlier witness list</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ráiteas faoin bhfianaise bhreise ar bith atáthar ag súil go dtabharfaidh finné ar bith atá ar an liosta finnéithe roimhe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• A list of any further exhibits</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Liosta na bhfoilseán breise ar bith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You have the right to inspect all exhibits mentioned in the list of exhibits</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé de cheart agat gach foilseán a scrúdú, atá luaite ar liosta na bhfoilseán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Who compiles the Book of Evidence?</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cé a chuireann an Leabhar Fianaise le chéile?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>While the Book of Evidence is compiled and served on behalf of the DPP, it is normally the investigating Garda who is responsible for putting the Book of Evidence together</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cé go bhfuil an Leabhar Fianaise curtha le chéile agus seirbheáilte ar son an SIP, is iondúil gurb é/í an Garda imscrúdaithe atá freagrach as an Leabhar Fianaise a chur le chéile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Work on the Book of Evidence starts immediately after your first appearance before the District Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tosaíonn obair ar an Leabhar Fianaise láithreach tar éis do chéad láithreas sa Chúirt Dúiche</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As mentioned above, compiling a book of evidence can be a lengthy process especially if the case is complex and there are a large number of witnesses</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar atá luaite thuas, is féidir le cur le chéile an leabhair fianaise a bheith ina phróiseas fadálach, go háirithe nuair atá an cás casta agus líon mór finnéithe i gceist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Witness statements normally are the largest class of document included in a Book of Evidence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bíonn ráitis na bhfinnéithe go hiondúil ar an aicme doiciméad is mó sa Leabhar Fianaise</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Statements from Gardaí, witnesses to the crime and expert witnesses (such as forensic experts and medical experts) are all gathered by the investigating Garda for inclusion in the Book of Evidence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá na ráitis ar fad ó Ghardaí, finnéithe na coire agus finnéithe saineolacha (cosúil le saineolaithe fóiréinseacha agus saineolaithe míochaine) bailithe le chéile ag an nGarda imscrúdaithe le háireamh sa Leabhar Fianaise</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Is all the collected material disclosed?</seg></tuv>
+  <tuv xml:lang="ga"><seg>An bhfuil an t-ábhar a bhailítear nochtadh go léir?</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The prosecution may have other material which it has decided not to use at your trial</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh go mbeadh ábhar breise ag lucht an ionchúisimh ar shocraigh siad gan a úsáid ag do thriail</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Disclosure of this evidence should be made to you, without a request, if the evidence is relevant to your defence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba cheart an fhianaise sin a nochtadh duit, gan iarratas, má bhaineann an fhianaise le do chosaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Further information on disclosure is available in the publication Guidelines for Prosecutors (pdf) which is available on the Director of Public Prosecutions’s website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh eolais ar nochtadh ar fáil san fhoilseachán Guidelines for Prosecutors (pdf) atá ar fáil ar Láithreán gréasáin an Stiúrthóra Ionchúiseamh Poiblí</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Every household, business or institution in Ireland with a television or equipment capable of receiving a television signal (using an aerial, satellite dish, cable or other means) must have a television licence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór do gach teach, gnó agus institiúid in Éirinn a bhfuil teilifís aige nó trealamh gur féidir leis comhartha teilifíse a fháil (i.e., aeróg, mias saitilíte, agus rl.,) ceadúnas teilifíse a bheith aige</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A television licence is a certificate that states that you have paid the appropriate fee to the government and contributed to the cost of public service broadcasting in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Teastas atá ann a dhearbhaíonn go bhfuil an táille chuí íoctha agat leis an rialtas agus síntiús íoctha agat leis an gcostas a bhaineann le craolachán na seirbhíse poiblí in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your television licence is issued for 1 year in general</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá do cheadúnas teilifíse a eisíodh do 1 bhliain i gcoitinne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Public service broadcasting in Ireland means comprehensive radio and television services that are free to transmit programmes that entertain, educate, inform and cater for all members of the community</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seirbhísí cuimsitheacha raidió agus teilifíse atá saor le cláracha siamsaíochta, oideachasúla agus eolais a chraoladh a fheileann do chuile dhuine is brí le craolachán na seirbhíse poiblí in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>These services must also provide news and current affairs programmes, including coverage of proceedings in the Houses of the Oireachtas (Irish Parliament) and the European Parliament</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór do na cláracha seo nuacht agus cúrsaí reatha a sholáthar freisin chomh maith le imeachtaí i dTithe an Oireachtais (Parlaimint na hÉireann) agus i bParlaimint na hEorpa a chlúdach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Each year, the government provides a grant to RTE (the national broadcasting organisation), which is funded by your television licence fee</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuireann an rialtas deontas bliantúil ar fáil do RTÉ (eagraíocht náisiúnta craolacháin) a thagann ó na táillí a íocann an pobal ar cheadúnais teilifíse</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>RTE has responsibilities to deliver public service programmes in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá dualgais ar RTÉ i dtaobh cláracha na seirbhíse poiblí a chraoladh in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The television licence fee is collected by An Post on behalf of the Minister for Department of Communication, Climate Action and the Environment, who has responsibility for broadcasting policy in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bailíonn An Post táille an cheadúnais teilifíse ar son an Aire An Roinn Cumarsáide, Gníomhaithe ar son na hAeráide agus Comhshaoil ag a bhfuil cúram an pholasaí chraolacháin in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The EU decided that all member states must stop broadcasting analogue television by the end of 2012</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá cinneadh déanta ag an AE nach mór do gach ballstáit stad craolacháin teilifíse analóige faoi dheireadh na bliana 2012</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Saorview is the free-to-air digital terrestrial television (DTT) service which replaced analogue television in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é Saorview an saor-go-haer teilifís digiteach trastíre (DTT) seirbhís a cuireadh in ionad teilifíse analógacha in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is owned and managed by RTE</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé faoi úinéireacht agus á bhainistiú ag RTÉ</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Saorsat, a satellite service, provides access to Irish free-to-air digital television channels and services for those unable to receive Saorview</seg></tuv>
+  <tuv xml:lang="ga"><seg>Saorsát, seirbhís satailíte, rochtain ar fháil ar na hÉireann saor go haer chainéil teilifíse digití agus seirbhísí dóibh siúd nach bhfuil in ann a fháil Saorview</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The analogue television service in Ireland switched off in October 2012</seg></tuv>
+  <tuv xml:lang="ga"><seg>Bhí athraigh an tseirbhís teilifíse analóige in Éirinn amach ar an 24 Deireadh Fómhair 2012</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>More information is available at saorview.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh eolais ar fáil ag saorview.ie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>With the switch off of the analogue television service, your analogue television set needs a set-top box to receive digital television</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a bhíonn an tseirbhís teilifíse analógach múchta, beidh do gléas teilifíse analógacha gá le sraith bosca-barr a fháil teilifíse digití</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your analogue television set, with or without a set-top box, still requires a television licence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dearbhófar do gléas teilifíse analógacha a cheangal go fóill ar cheadúnas teilifíse, le nó gan bosca leagtha-barr</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your household, business or institution possesses a television or equipment capable of receiving a television signal, you are required by law to have a television licence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá teilifís nó trealamh gur féidir leis comhartha teilifíse a fháil i do theach, gnó nó institiúid tá dualgas dleathúil ort ceadúnas teilifíse a bheith agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Even if the television or other equipment is broken and currently unable to receive a signal, it is regarded as capable of being repaired so it can receive a signal and you must hold a licence for it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má theipeann ar dhuine fianaise a chur ar fáil do chigire go bhfuil ceadúnas teilifíse aige/aici d'fhéadfadh sé go mbeadh lá sa chúirt ag an duine sin agus is féidir fíneáil mhór a ghearradh ar dhuine dá bharr</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Failure to produce evidence of a television licence to an inspector can result in a court appearance and on conviction, you can receive a substantial fine</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir daoine a bhfuil fíneáil gearrtha orthu agus ordú cúirte, a thug treoir dóibh ceadúnas teilifíse a cheannach, briste acu a chur chuig an bpríosún</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You do not require a television licence to watch television on your computer or mobile phone</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní gá duit ceadúnas teilifíse mór breathnú ar an teilifís ar do ríomhaire nó ar an bhfón póca</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, the computer must not be able to receive a signal distributed by conventional television broadcasting networks, for example, cable, satellite or aerial</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin féin, ní mór an ríomhaire a bheith in ann a fháil comhartha dháileadh ag líonraí craolacháin teilifíse traidisiúnta, mar shampla, cábla, satailíte nó aerga</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When a first-time television licence is issued it remains in force until the end of the 11th month following the month in which it was issued</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair ceadúnas teilifíse den chéad uair a eisíodh tá sé fós i bhfeidhm go dtí deireadh na míosa 11ú tar éis na míosa inar eisíodh é</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For example, if the licence was issued in the middle of April it will remain in force until the end of March the following year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla, má d'eisigh an ceadúnas i lár Aibreán beidh sé i bhfeidhm go dtí deireadh mhí an Mhárta an bhliain dár gcionn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When you renew it at the end of that period, the new licence remains in force for 12 months</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a athnuachan tú é ag deireadh na tréimhse sin, tá an ceadúnas nua i bhfeidhm ar feadh 12 mhí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are aged over 70, you can get a television licence free of charge as part of the Household Benefits package. Some people under 70 may also qualify for the Household Benefits Package and a free television licence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú os cionn 70 bliain d'aois, is féidir leat a fháil ar cheadúnas teilifíse saor in aisce mar chuid de na phacáiste Sochair Teaghlaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In other words, if you have a television set in your living room and kitchen, one television licence covers both sets</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh roinnt daoine faoi 70 cáiliú freisin don phacáiste Sochar Teaghlaigh agus ceadúnas teilifíse saor in aisce</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Simply bring your existing licence to your nearest Post Office, together with evidence of your new address (that is a household utility bill or a bank statement)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chiontaítear duine (don chéad uair) mar gheall nach bhfuil ceadúnas teilifíse aige/aici gearrfar fíneáil de €1000 air/uirthi</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Each licence is issued for a 1 year period; this means that if you will be staying in Ireland for less than 1 year, you must still obtain a full television licence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chiontaítear duine don dara uair mar gheall nár íoc sé/sí ceadúnas teilifíse, gearrfar fíneáil de €2000 air/uirthi</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Conviction for non-payment of a television licence (first offence) is a fine of up to €1,000</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cosnaíonn ceadúnas teilifíse do theilifís €160</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are convicted a second time or more for not paying your television licence, you will be fined up to €2,000</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl aon táille le n-íoc ar leasuithe (i.e., athrú seolta) a dhéanamh ar cheadúnais teilifíse reatha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The cost of a television licence is €160</seg></tuv>
+  <tuv xml:lang="ga"><seg>Conas Iarratas a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can also pay for your licence by credit card using the lo-call telephone number (1890 228 528, 24 hours per day, 7 days per week)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir íoc as ceadúnas teilifíse ag aon oifig an phoist le hairgead tirim, seic, cárta dochair nó cárta creidmheasa</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can download an application form here to arrange payment of your television licence by direct debit through your financial institution</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir íoc as do cheadúnas teilifíse freisin tríd úsáid a bhaint as stampaí coigiltis speisialta do cheadúnas teilifíse</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you wish to pay for your television licence by cheque, the cheque must be crossed and made payable to An Post</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más main leat íoc as an gceadúnas teilifíse le seic ní mór an seic a chrosnú agus a bheith iníoctha le An Post</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find out how to apply for a free television licence in our document on the Household Benefits package.   An Post has further information on Television Licences on their website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más ag athnuachaint ceadúnais atá tú ní mór duit freisin an fógra athnuachana a chur leis an iarratas agus d'ainm agus do sheoladh iomlán a chur ar fáil in aon chomhfhreagras</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Every post office in the country sells television licences and stocks application forms for those who wish to apply for a free television licence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat a fháil amach conas iarratas a dhéanamh ar cheadúnas teilifíse saor in aisce inár ndoiciméad ar na Sochair Teaghlaigh phacáiste</seg></tuv>
+</tu>
+</body>
+</tmx>

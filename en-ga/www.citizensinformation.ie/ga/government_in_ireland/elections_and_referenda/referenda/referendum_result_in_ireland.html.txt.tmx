@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>The following information explains how referendum results are collated</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn an fhaisnéis seo leanas conas a bheadh toradh an reifrinn comhordaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The day after the poll, the ballot boxes will be opened at a designated count centre in each constituency</seg></tuv>
+  <tuv xml:lang="ga"><seg>I ngach dáilcheantar, ar an lá i ndiaidh an toghcháin, osclaítear na boscaí in ionad comhaireamh áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The votes for and against the proposed amendment will be counted and the local returning officer will report the result to the referendum returning officer</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar comhaireamh ar na vótaí ar son an reifrinn agus na vótaí in aghaidh an reifrinn i ngach ionad agus cuireann an t-oifigeach toghcháin an toradh ar aghaidh chuig an oifigeach reifrinn náisiúnta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When the referendum returning officer has received all of the results from all of the constituencies, they will draw up a provisional referendum certificate stating the overall result of the voting</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a thagann na comhairimh go léir isteach chuig an oifigeach reifrinn náisiúnta, ó gach dáilcheantar sa tír, éisíonn sé nó sí teastas sealadach reifrinn a léiríonn toradh náisiúnta na vótála</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The certificate will also state whether the proposed amendment has been approved by the people</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léiríonn an teastas seo, freisin, ar aontaigh an pobal leis an leasa bunreachta a bhí ós a gcomhair nó nár aontaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The provisional certificate will be published in Irish Oifiguil (the Official Gazette)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Foilsítear an teastas san Iris Oifigiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you wish to challenge the provisional certificate, you must present a petition to the High Court within 7 days of the publication of the provisional certificate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má theastaíonn uait dúshlán an toraidh a léiríonn an teastas a thabhairt, ní mór duit achainí a chuir ós comhair nahArdchúirte taobh istigh de 7 lá ó dháta an fhoilsithe sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If no petition in presented to the High Court, the certificate becomes final</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna dtagann aon achainí ós comhair na hArdchúirte bíonn an teastas reifrinn buan</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the final certificate shows that the majority of the votes cast were in favour of the proposal to amend the Constitution, the Bill is signed by the Irish President and the Constitution is then amended</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má léiríonn an teastas go raibh tromlach na vótaí a caitheamh i bhfabhar an leasaithe ar an mBunreacht, téann an Bille ós comhair an Uachtaráin chun a bheith sínithe agus tá an Bunreacht leasaithe ansin</seg></tuv>
+</tu>
+</body>
+</tmx>

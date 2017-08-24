@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Your civil status affects your rights to inherit from your spouse/partner</seg></tuv>
+  <tuv xml:lang="ga"><seg>Imríonn do stádas sibhialta tionchar ar do chearta chun oidhreacht a fháil ó do chéile/pháirtnéir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Spouses and civil partners have the same legal right to inherit and the same rights on intestacy</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an ceart céanna dlíthiúil ag céilí agus ag páirtnéirí sibhialta chun oidhreacht a fháil agus bíonn na cearta céanna acu maidir le díthiomnacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A will is automatically revoked when you marry unless it was made in contemplation of that marriage</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar uacht a aisghairm go huathoibríoch nuair a phóstar thú, mura ndearnadh í in oirchill an phósta sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A bequest in a will to a person who is a witness to the will or to that person’s spouse is void</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tiomnacht in uacht le duine atá mar fhinné leis an uacht nó le céile an duine sin ar neamhní</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are not married, you may only inherit from your partner if you are left a bequest in a valid will</seg></tuv>
+  <tuv xml:lang="ga"><seg>Muna bhfuil tú pósta, ní féidir leat oidhreacht a fháil ó do pháirtí muna bhfágann sé/sí tiomnacht agat in uacht bhailí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, a spouse is entitled to what is called a "legal right share" of their deceased spouse's estate even if:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach, tá céile i dteideal oidhreachta ar a dtugtar "sciar dleathúil" d'eastát a c(h)éile básaithe fiú:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• there is no will</seg></tuv>
+  <tuv xml:lang="ga"><seg>• muna bhfuil aon uacht ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• the will is invalid</seg></tuv>
+  <tuv xml:lang="ga"><seg>• má tá an uacht bhailí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• there is a valid will, but it leaves little or nothing to the surviving spouse</seg></tuv>
+  <tuv xml:lang="ga"><seg>• má tá uacht bhailí ann, ach go bhfuil fiorbheagán nó tada fágtha ag an gcéile beo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The marital status of the deceased person may also indirectly affect the inheritance rights of his/her children</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh sé go mbeadh tionchar indíreach ag stádas pósta an duine básaithe ar chearta oidhreacha a c(h)uid páistí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The amount of the surviving spouse's legal right share depends on two factors:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Braitheann sciar dleathúil an chéile bheo ar dhá rud:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• whether or not there is a valid will</seg></tuv>
+  <tuv xml:lang="ga"><seg>• an bhfuil uacht bhailí ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• whether or not the deceased spouse has any children</seg></tuv>
+  <tuv xml:lang="ga"><seg>• an bhfuil aon pháistí ag an gcéile a bhásaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are entitled to the whole estate if:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tú i dteideal an eastáit ar fad:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• there is no will or the will is invalid, and</seg></tuv>
+  <tuv xml:lang="ga"><seg>• muna bhfuil aon uacht ann nó muna bhfuil an uacht bhailí, agus</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• the deceased spouse has no children or grandchildren</seg></tuv>
+  <tuv xml:lang="ga"><seg>• muna bhfuil aon pháistí ná garpháistí ag an gcéile básaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are entitled to two-thirds of the estate if:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tú i dteideal dhá thrian den eastát:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• there is no valid will, and</seg></tuv>
+  <tuv xml:lang="ga"><seg>• muna bhfuil aon uacht bhailí ann, agus</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• the deceased spouse has children or grandchildren</seg></tuv>
+  <tuv xml:lang="ga"><seg>• má tá páistí nó garpháistí ag an gcéile básaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are entitled to one-half of the estate if:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tú i dteideal leath an eastáit:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• there is a valid will, and</seg></tuv>
+  <tuv xml:lang="ga"><seg>• má tá uacht bhailí ann, agus</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• the deceased spouse has no children or grandchildren</seg></tuv>
+  <tuv xml:lang="ga"><seg>• muna bhfuil páistí nó garpháistí ag an gcéile básaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are entitled to one-third of the estate if:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tú i dteideal trian den eastát:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• there is a valid will, and</seg></tuv>
+  <tuv xml:lang="ga"><seg>• má tá uacht bhailí ann, agus</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• the deceased spouse has children or grandchildren</seg></tuv>
+  <tuv xml:lang="ga"><seg>• má tá páistí nó garpháistí ag an gcéile básaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are the surviving spouse, you must be informed of this right and should apply for your legal right share as soon as possible</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más tú an céile atá beo ba cheart an ceart seo a chur in iúl duit agus ba cheart duit iarratas a dhéanamh ar an bpointe ar do sciar dleathúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may require that the family home be given to you in satisfaction of your legal right share, even if the home was left to another person under the will</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh sé go ndéanfadh tú éileamh ar theach an teaghlaigh a fháil mar do sciar dleathúil, fiú má fágadh an teach chuig duine eile san uacht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the family home is worth more than the legal right share, you will normally have to pay the difference into the deceased's estate</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más fiú níos mó ná do sciar dleathúil é teach an teaghlaigh go hiondúil beidh ort an fuílleach a íoc le heastát an té atá básaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, in cases of hardship, you may apply to the court to have the dwelling house given to you either without paying the difference or by paying such sum as the court thinks reasonable</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach, i gcásanna crua is féidir iarratas a dhéanamh chuig an gcúirt go dtabharfaí an teach cónaithe duit tríd an bhfuílleach a íoc nó suim eile a cheapann an Chúirt a bheith réasunta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Both marital and non-marital children have equal rights to inherit from their parents</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá na cearta oidhreachta céanna óna thuismitheoirí ag páistí a rugadh taobh istigh agus taobh amuigh den phósadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, non-marital children may have the additional burden of having to prove paternity if it is disputed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ach, d'fhéadfadh sé go mbeadh an fhadhb bhreise ag páistí a rugadh taobh amuigh de phósadh atharthacht a chruthú má tá easaontas ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Children's inheritance rights may be affected by their deceased parent's marital status</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh stádas pósta a dtuismitheora tionchar a bheith aige ar chearta oidhreacha páistí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The children (minor and adult) are entitled to the entire estate divided equally between them if:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá páistí (faoi aois nó fásta) i dteideal eastát iomlán a dtuismitheora roinnte go cothrom eatarthu:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• there is no will or the will is invalid, and</seg></tuv>
+  <tuv xml:lang="ga"><seg>• muna bhfuil aon uacht ann nó muna bhfuil an uacht bhailí, agus</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• the deceased parent is not married or his/her spouse is already dead</seg></tuv>
+  <tuv xml:lang="ga"><seg>• muna bhfuil an tuismitheoir a bhásaigh pósta agus/nó má tá a c(h)éile básaithe cheana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>But the children are only entitled to one-third of the estate divided equally between them if:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl na páistí i dteideal ach aon trian den eastát roinnte go cothrom eatarthu:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• the deceased parent is married and is survived by his/her spouse</seg></tuv>
+  <tuv xml:lang="ga"><seg>• muna bhfuil aon uacht ann nó muna bhfuil an uacht bhailí, agus</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, if a child considers that he/she has not been adequately provided for, he/she may make an application to court</seg></tuv>
+  <tuv xml:lang="ga"><seg>• má tá an tuismitheoir a bhásaigh pósta agus má tá a c(h)éile fós beo</seg></tuv>
+</tu>
+</body>
+</tmx>

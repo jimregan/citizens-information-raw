@@ -1,0 +1,169 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Social assistance in Ireland</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cúnamh sóisialach in Éirinn</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Social assistance payments are for people who do not have enough PRSI contributions to qualify for the equivalent social insurance payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íoctar íocaíochtaí cúnaimh shóisialaigh le daoine nach bhfuil a ndóthain ranníocaíochtaí árachais shóisialaigh (ÁSPC) le cáiliú do na híocaíochtaí árachais shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>An example would be a person who becomes unemployed, applies for Jobseeker's Benefit but fails to qualify because he or she has insufficient PRSI contributions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar shampla de sin, cuir i gcás duine atá nua-dífhostaithe ag cur isteach ar Shochar Cuardaitheora Poist, ní cháileoidh sé don sochar mar níl a d(h)óthain ranníocaíochtaí ÁSPC aige/aici</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>He or she can instead apply for Jobseeker's Allowance, which is a similar payment but is not based on the number of PRSI contributions paid</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leis/léi cur isteach ar Liúntas Cuardaitheora Poist, íocaíocht atá cosúil leis an Shochar Cuardaitheora Poist ach nach bhfuil bunaithe ar na ranníocaíochtaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Jobseeker's Benefit is a social insurance payment but Jobseeker's Allowance is a social assistance payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is íocaíocht árachais shóisialaigh é Shochar Cuardaitheora Poist ach is íocaíocht chúnaimh shóisialaigh é Liúntas Cuardaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, to get a social assistance payment you must be habitually resident in Ireland and you must pass a means test</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit gnáthchónaí a bheith agat in Éirinn agus ní mór duit tástáil acmhainne a shásamh le cáiliú do na híocaíochtaí cúnaimh shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The rules governing social welfare assistance payments are set out in legislation and/or administrative guidelines</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá rialacha ag baint le híocaíochtaí leasa shóisialaigh agus tá siad leagtha síos i reachtaíocht agus/nó i dtreoirlínte riaracháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Most of the guidelines are now available on the Department of Social Protection's (DSP) website</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an chuid is mó de na treoirlínte ar fáil anois ar láithreán gréasáin na Roinne Coimirce Sóisialaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In general you cannot get two social assistance payments (except for Carer's Allowance which can be paid at a half rate with another social welfare payment)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta ní féidir dhá íocaíocht cúnaimh shóisialaigh a fháil (seachas Liúntas Cúramóra a d’fhéadfadh bheith iníoctha ar leath-ráta) le híocaíocht leasa shóisialaigh eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you think you might qualify for more than one payment, you generally have to choose the one that is of most benefit to you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má cheapann tú go bhfuil tú i dteideal níos mó ná íocaíocht amháin a fháil, go ginearálta beidh ort an ceann is tairbhí duit a roghnú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are a number of social assistance payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá réimse íocaíochtaí cúnaimh shóisialaigh ann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may qualify for one depending on your circumstances:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadann tú bheith i dteideal ceann acu a fháil, braitheann sé ar do chúinsí pearsanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Jobseeker's Allowance is paid to people aged 18 or over and unemployed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íoctar an Liúntas Cuardaitheora Poist le daoine 18 mbliana d'aois nó os a cionn atá dífhostaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>One-Parent Family Payment (OFP) is paid to men and women who are bringing children up without the support of a partner</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocaíocht is ea Íocaíocht Teaghlaigh Aontuismitheora do mhná agus fir atá ag tógáil clainne ina n-aonar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Farm Assist is an income support scheme for farmers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is scéim tacaíochta ioncaim í an Cúnamh Feirme d'fheirmeoirí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You do not need to be available for work to qualify for Farm Assist</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní gá duit a bheith ar fáil i gcomhair fostaíochta le cáiliú do Chúnamh Feirme</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Widow's, Widower's or Surviving Civil Partner's (Non-Contributory) Pension is paid to widows, widowers and surviving civil partners who do not have dependent children</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an Pinsean Baintrí, Baintrí Fir nó Páirtnéara Shibhialta Mharthanaigh (Neamh-Ranníocach) do bhaintreacha , baintreacha fir agus páirtnéirí sibhialta marthanacha nach bhfuil páistí cleithiúnacha acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Guardian's Payment (Non-Contributory) is paid to an orphan's guardian up to the orphan's 18th birthday or 22nd birthday if he or she is in full-time education</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íoctar an Íocaíocht Chaomhnóra (Neamhranníocach) le caomhnóir linbh go dtí go slánóidh an leanbh an 18 mbliana nó go dtí go slánóidh sé/sí an 22 bliain má tá sí/sí in oideachas lánaimseartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Carer's Allowance is paid to people who are looking after someone who is in need of full-time care and attention because of age, physical or learning disability or illness, including mental illness</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íoctar an Liúntas Cúramóra le daoine a dhéanann cúram baile de dhuine a bhfuil cúnamh lánaimseartha de dhíth air/uirthi mar gheall ar aois, míchumais fhisiciúla nó intinne lena áirítear tinneas intinne</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Supplementary Welfare Allowance is paid to people that have no little or no income</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íoctar an Liúntas Leasa Forlíontach le daoine atá ar ísealioncam nó gan ioncam</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>State Pension (Non-Contributory) is paid to people when they reach 66 years of age</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íoctar an Pinsean Stáit (Neamhranníocach) do dhaoine a bhfuil 66 bliana d'aois nó níos mó slánaithe acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Blind Pension is paid to blind and visually impaired people</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íoctar Pinsean na nDall le daoine atá dall nó atá faoi mhíchumas súl</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Disability Allowance is paid to people with a disability who are aged 16 or over and under age 66</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocaíocht is ea an Liúntas Míchumais do dhaoine atá faoi mhíchumas agus atá idir 16 agus 66 bliana d'aois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Pre-Retirement Allowance (PRETA) is paid to people aged 55 and over who have left the labour force</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocaíocht is ea an Liúntas Réamhscoir (PRETA) do dhaoine 55 bliana d'aois nó os a cionn atá éirithe as an bhfórsa saothair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This scheme was closed to new applications in July 2007</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dúnadh an scéim seo d'iarratais nua in 2007</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Deserted Wife's Allowance is paid to women who were deserted by their husband and have no dependent children</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocaíocht is ea Liúntas Banchéile Thréigthe do mhná atá tréigthe ag a bhfear agus nach bhfuil leanaí cleithiúnacha acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This scheme was closed to new applications in January 1997</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dúnadh an scéim seo d'iarratais nua in Eanáir 1997</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you qualify for a social assistance payment you may qualify for additional social welfare benefits</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má cháilíonn tú d'íocaíocht leasa shóisialaigh, féadann tú cáiliú chun sochair bhreise leasa shóisialaigh a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For most social assistance payments, decisions about your entitlement are made by Deciding Officers</seg></tuv>
+  <tuv xml:lang="ga"><seg>Don chuid is mó íocaíochtaí cúnaimh shóisialaigh, is iad na hOifigigh Bhreithiúnacha a dhéanann an cinneadh cé atá i dteideal íocaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Deciding Officers are DSP officials appointed under the social welfare legislation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is oifigigh leasa shóisialaigh iad na hOifigigh Bhreithiúnacha atá ceaptha faoi reachtaíocht leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are not happy with a decision by the Department of Social Protection, you have a right to appeal decisions in relation to payments that are based in legislation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú míshásta le cinneadh a dhéanann an Roinn Coimirce Sóisialaí, tá sé de rogha agat achomharc a lorg in aghaidh cinntí ar íocaíochtaí atá bunaithe i reachtaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Appeals are made to the Social Welfare Appeals Office, an independent statutory body</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar achomhairc leis an Oifig Achomhairc Leasa Shóisialaigh, eagraíocht neamhspleách reachtúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Find out how to appeal a decision of the Department of Social Protection</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faigh amach anseo conas achomharc a lorg ón Roinn Coimirce Sóisialaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Rates of payment and dependants</seg></tuv>
+  <tuv xml:lang="ga"><seg>Rátaí íocaíochtaí agus cleithiúnaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Social welfare payments are divided into a payment for you, the claimant, known as the personal rate of payment, and a payment for any adult dependants and child dependants</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá íocaíochtaí leasa shóisialaigh roinnte in íocaíochtaí don éilitheoir, ar a dtugtar an ráta pearsanta íocaíochta agus íocaíochtaí ar son aon chleithiúnaithe ar dhaoine fásta iad nó cleithiúnaithe ar leanaí iad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The SW 19 Rates of Payment Booklet, published by the Department of Social Protection every year, details the amount of money payable for each scheme and the amount that will be awarded to your dependants</seg></tuv>
+  <tuv xml:lang="ga"><seg>Foilsíonn an Roinn Coimirce Sóisilaí Leabhrán um Rátaí Íocaíochta SW 19 gach bliain agus tá sonraí le fáil ann maidir le méid an airgid iníoctha faoi gach scéim agus méid an airgid atá iníoctha do chleithiúnaithe an éilitheora</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you wish to apply for a social welfare payment, you should contact your Intreo Centre or Social Welfare Branch Office or Citizens Information Centre for an application form and an information leaflet</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mian leat iarratas a dhéanamh ar íocaíocht leasa shóisialaigh ar leith, ba cheart duit teagmháil a dhéanamh le d'Ionad Intreo nó d'Oifig Bhrainse Leasa Shóisialaigh nó le hIonad Faisnéise do Shaoránaigh le foirm iarratais agus bileog faisnéise a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Fill out the correct application form and return it to the Department of Social Protection</seg></tuv>
+  <tuv xml:lang="ga"><seg>Líon isteach an fhoirm iarratais cheart agus cuir ar ais í chuig an Roinn Coimirce Sóisialaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The return address is printed on the application form</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá an seoladh fillte foilsithe ar chúl na foirme iarratais</seg></tuv>
+</tu>
+</body>
+</tmx>

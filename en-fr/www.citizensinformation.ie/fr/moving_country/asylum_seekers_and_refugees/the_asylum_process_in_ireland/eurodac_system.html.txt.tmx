@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="fr"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>The objective of Eurodac in the asylum process is to facilitate the application of the Dublin III Regulation</seg></tuv>
+  <tuv xml:lang="fr"><seg>Le système Eurodac a été créé par l'Union européenne afin de comparer les empreintes digitales des demandeurs d'asile et des immigrants clandestins</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This Regulation provides a mechanism for determining which country is responsible for examining applications for international protection lodged in one of the member states</seg></tuv>
+  <tuv xml:lang="fr"><seg>Son objectif dans le cadre de la procédure de demande d'asile est de faciliter l'application du Règlement de Dublin III qui permet de déterminer l'Etat responsable de l'examen d'une demande d'asile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In view of the difficulties anticipated in identifying foreign nationals who had already lodged an international protection application in another member state, ministers responsible for immigration agreed in 1991 to establish a system for the comparison of the fingerprints of international protection applicants</seg></tuv>
+  <tuv xml:lang="fr"><seg>Compte tenu des difficultés que les Etats membres prévoyaient de rencontrer pour détecter les étrangers ayant déjà présenté une demande d'asile dans un autre Etat membre, les ministres chargés de l'immigration ont lancé en 1991 l'idée de mettre en place un système communautaire de comparaison des empreintes digitales des demandeurs d'asile pour permettre leur identification</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Eurodac system enables member states to identify asylum seekers and persons who have crossed an external frontier of the European Union in an irregular manner</seg></tuv>
+  <tuv xml:lang="fr"><seg>Le système Eurodac permet aux Etats membres d'identifier les demandeurs d'asile ainsi que les personnes ayant franchi irrégulièrement une frontière extérieure de l'UE</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>By comparing fingerprints using Eurodac, member states can determine whether an asylum seeker or a foreign national found illegally present within a member state has previously claimed international protection in another member state</seg></tuv>
+  <tuv xml:lang="fr"><seg>En comparant les empreintes, les Etats membres peuvent vérifier si un demandeur d'asile ou un ressortissant étranger se trouvant illégalement sur leur territoire a déjà formulé une demande dans un autre Etat membre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Eurodac consists of a Central Unit within the EU Commission, which is equipped with a central database for comparing the fingerprints of asylum applicants and a system for electronic data transmission between member states and the database</seg></tuv>
+  <tuv xml:lang="fr"><seg>Eurodac se compose d'une unité centrale gérée par la Commission européenne, équipée d'une base de données centrale informatisée permettant la comparaison des empreintes digitales des demandeurs d'asile et de moyens électroniques de transmission entre les Etats membres et la base de données centrale</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In addition to fingerprints, data sent by member states include the member state of origin (the state sending the data), the place and date of the international protection application (if applicable), the person’s gender and a reference number</seg></tuv>
+  <tuv xml:lang="fr"><seg>Outre les empreintes digitales, les données transmises par les Etats membres contiennent notamment l'Etat membre d'origine, le lieu et la date de la demande d'asile s'il y a lieu, le sexe et un numéro de référence</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Data is collected for anyone over 14 years of age and is encoded directly into the database, either by the Central Unit or by the member state of origin</seg></tuv>
+  <tuv xml:lang="fr"><seg>Elles sont relevées pour toute personne de plus de 14 ans et sont encodées dans la base de données directement par l'unité centrale ou par l'Etat membre d'origine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the case of asylum seekers, data is kept for 10 years unless the individual obtains the citizenship of one of the member states, when their particulars are immediately erased</seg></tuv>
+  <tuv xml:lang="fr"><seg>Pour les demandeurs d'asile, les données sont conservées dix ans sauf si la personne obtient la citoyenneté d'un des Etats membres, les éléments la concernant sont alors effacés immédiatement après l'obtention de la citoyenneté</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Data relating to foreign nationals apprehended when attempting to cross an external border irregularly is kept for 2 years from the date on which the fingerprints were taken</seg></tuv>
+  <tuv xml:lang="fr"><seg>Pour les ressortissants étrangers appréhendés à l'occasion du franchissement irrégulier d'une frontière extérieure, elles sont conservées deux ans à compter de la date à laquelle les empreintes digitales ont été relevées</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Data is immediately erased before the end of 2 years if the foreign national either:</seg></tuv>
+  <tuv xml:lang="fr"><seg>Les données sont immédiatement effacées, avant l'expiration de 2 ans, lorsque:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Receives a residence permit or</seg></tuv>
+  <tuv xml:lang="fr"><seg>• l'étranger a obtenu un titre de séjour,</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Has left the territory of the member states</seg></tuv>
+  <tuv xml:lang="fr"><seg>• l'étranger a quitté le territoire des Etats membres</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the case of foreign nationals found illegally present within a member state, Eurodac makes it possible to check their fingerprints against those in the central database to determine whether the individual had previously lodged an international protection application in another member state</seg></tuv>
+  <tuv xml:lang="fr"><seg>Pour les ressortissants étrangers se trouvant illégalement sur le territoire d'un Etat membre, Eurodac permet la comparaison de leurs empreintes avec celles contenues dans la base de données centrale afin de vérifier si ces personnes n'ont pas présenté une demande d'asile dans un autre Etat membre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>After the fingerprints have been transmitted for comparison purposes, they are not stored by Eurodac</seg></tuv>
+  <tuv xml:lang="fr"><seg>Ces empreintes, une fois transmises pour comparaison, ne sont pas conservées par Eurodac</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As regards the protection of personal data, the member state of origin must ensure that all operations are performed lawfully, such as the taking of fingerprints, as well as all operations involving the use, transmission, conservation or erasure of the data</seg></tuv>
+  <tuv xml:lang="fr"><seg>En ce qui concerne la protection des données à caractère personnel, les Etats membres d'origine doivent garantir que les empreintes sont relevées dans le respect de la légalité ainsi que toute opération concernant l'utilisation, la transmission, la conservation ou l'effacement des données mêmes</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Application of Eurodac in Ireland</seg></tuv>
+  <tuv xml:lang="fr"><seg>Application du système « Eurodac » en Irlande</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As part of the process of making an application for international protection, you and your dependent minors will be required to have your photograph taken</seg></tuv>
+  <tuv xml:lang="fr"><seg>Dans le cadre de la procédure de demande d'attribution du statut de réfugié, vous et vos enfants mineurs devrez vous laisser photographier et vos empreintes digitales seront prises</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will also be required to have your fingerprints taken</seg></tuv>
+  <tuv xml:lang="fr"><seg>Les empreintes digitales de vos enfants mineurs dépendants seront également prises</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Fingerprints of your dependent minors may also be taken. Your fingerprints may be disclosed in confidence to the relevant Irish authorities and to international protection authorities of other countries, which may have responsibility for considering your application under the Dublin III Regulation</seg></tuv>
+  <tuv xml:lang="fr"><seg>Il est possible que vos empreintes soient communiquées sous le sceau du secret aux autorités irlandaises concernées et aux autorités d'autres pays susceptibles d'avoir la charge de traiter votre demande d'asile dans le cadre du Règlement de Dublin III (un système électronique - Eurodac - facilite le transfert des informations relatives aux empreintes entre les pays signataires du Règlement de Dublin III)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you refuse to allow your fingerprints to be taken, you will be deemed not to have made reasonable effort to establish your true identity and to have failed in your duty to co-operate in the investigation of your application</seg></tuv>
+  <tuv xml:lang="fr"><seg>Si vous refusez que l'on prenne vos empreintes, il sera considéré que vous n'avez pas accompli un effort raisonnable pour établir votre véritable identité et que vous avez délibérément entravé l'examen de votre demande</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This may affect the credibility of your application and lead to your application being withdrawn, in which case the Minister for Justice and Equality shall refuse to give you a declaration</seg></tuv>
+  <tuv xml:lang="fr"><seg>Il est possible que cela affecte la crédibilité de votre demande et que celle-ci soit en conséquence réputée retirée, auquel cas le Ministre de la Justice refusera de vous accorder une attestation du statut de réfugié</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should also note that, in accordance with section 20 of the International Protection Act 2015, where an immigration officer or a member of An Garda Síochána, with reasonable cause, suspects that an applicant has not made reasonable effort to establish their identity, they may detain the person concerned</seg></tuv>
+  <tuv xml:lang="fr"><seg>Veuillez noter également que, conformément à l'Article 9(8)(c) de la Loi de 1996 sur les Réfugiés, lorsqu'un officier d'immigration ou un membre de An Garda Siochana, suspecte avec cause probable qu'un demandeur n'a pas accompli un effort raisonnable pour établir son identité, il ou elle a le droit de mettre la personne concernée au garde à vue</seg></tuv>
+</tu>
+</body>
+</tmx>

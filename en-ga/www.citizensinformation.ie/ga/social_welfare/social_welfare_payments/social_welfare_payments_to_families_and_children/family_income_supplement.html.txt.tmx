@@ -1,0 +1,413 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>• How to apply • Where to apply</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cá háit a ndéanfaidh mé iarratas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Family Income Supplement (FIS) is a weekly tax-free payment available to employees with children</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocaíocht sheachtainiúil saor ó cháin é an Forlíonadh Ioncam Teaghlaigh (FIT) atá ar fáil d’fhostaithe a bhfuil clann acu</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It gives extra financial support to people on low pay</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann sé tacaíocht bhreise airgeadais do dhaoine atá ar ísealphá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You cannot qualify for FIS if you are only self-employed - you must be an employee to qualify</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leat cáiliú don FIT má tá tú ach féinfhostaithe – ní mór duit bheith i d’fhostaí chun cáiliú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must have at least one child who normally lives with you or is financially supported by you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit ar a laghad leanbh amháin a bheith agat a chónaíonn leat de ghnáth nó a dtugaíonn tú tacaíocht airgeadais dó/di</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your child must be under 18 years of age or between 18 and 22 years of age and in full-time education</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór do do leanbh bheith faoi 18 mbliana d’aois nó idir 18 agus 22 bhliain d’aois agus in oideachas lánaimseartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To qualify for FIS, your average weekly family income must be below a certain amount for your family size</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun cáiliú don FIT, ní mór do do mheánioncam seachtainiúil teaghlaigh bheith faoi bhun suim áirithe do mhéid do theaghlaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The FIS you receive is 60% of the difference between your average weekly family income and the income limit which applies to your family</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is ionann an FIT a gheobhaidh tú agus 60% den difríocht idir do ghlanioncam teaghlaigh agus teorainn an ioncaim a bhaineann le do theaghlach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For more information about average family income see ‘Rates’ below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun teacht ar thuilleadh faisnéise faoi ghlanioncam teaghlaigh, féach ‘Rátaí’ thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your FIS payment is not taxed. If you are getting FIS you may also be entitled to the Back to School Clothing and Footwear Allowance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá FIT á fháil agat, d’fhéadfá bheith i dteideal an Liúntas Éadaí agus Coisbhirt chun Filleadh ar Scoil a fháil chomh maith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your income from FIS is not taken into account in the assessment for a medical card</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chuirtear d’ioncam ón FIT san áireamh sa mheasúnú do chárta leighis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>FIS is a tax-free weekly payment for employees who:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocaíocht sheachtainiúil shaor ó cháin é an FIT d’fhostaithe:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Work 38 or more hours per fortnight (any combination of hours that reaches 38 hours each fortnight is acceptable)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• A dhéanann 19 n-uaire an chloig a oibre ar a laghad sa tseachtain (nó 38 uair an chloig ar a laghad in aghaidh na coicíse)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can combine your weekly hours with your spouse, civil partner, cohabitant's hours to meet this condition</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat na huaireanta seachtainiúla a d’oibrigh tú a shuimiú le huaireanta do chéile, do pháirtnéara shibhialta nó do chomháititheora chun an coinníoll seo a shásamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You cannot use time spent in self-employment (or on Community Employment, Gateway, Tús, JobBridge or the Rural Social Scheme) to meet this condition</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leat am a chaith tú i mbun féinfhostaíochta a úsáid chun an coinníoll seo a shásamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Where the employment is likely to last at least 3 months</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sa chás gur dóigh go mairfidh fostaíocht 3 mhí ar a laghad</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Have one or more children who normally live with you and</seg></tuv>
+  <tuv xml:lang="ga"><seg>• A bhfuil leanbh amháin ar a laghad faoina gcúram, agus</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Earn less than an amount set according to your family size</seg></tuv>
+  <tuv xml:lang="ga"><seg>• A thuilleann níos lú ná suim ar leith ar a dtagann athrú de réir mhéid an teaghlaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Generally the payment continues for one year (52 weeks) and is not affected by, for example, an increase or a decrease in earnings</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go hiondúil, leanann an íocaíocht ar feadh bliana agus ní thagann aon athrú uirthi de bharr ardú pá, mar shampla, méadú nó laghdú ar thuillimh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, in the following 2 circumstances, your weekly rate of FIS can be revised during the year:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sa dá chúinse a leanas, áfach, féadtar do ráta seachtainiúil den FIT a athbhreithniú le linn na bliana:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you start to care for an additional child your FIS rate can be increased</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má thosaíonn tú le cúram a thabhairt do leanbh breise, méadófar do ráta FIT (mar gheall gur tháinig méadú ar mhéid do theaghlaigh)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• If you were getting a One-Parent Family Payment and your payment stopped because your youngest child reached the relevant OFP age limit your FIS rate can be revised (by disregarding the rate of OFP assessed in your most recent FIS income test)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Má bhí Íocaíocht Teaghlach Aontuismitheora á fáil agat agus má cuireadh stop le d’íocaíocht mar gheall gur bhain do leanbh is óige an aosteorainn ábhartha amach, féadtar do ráta FIT a athbhreithniú chun caillteanas d’ÍTA a chur san áireamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you lose your job or have reduced working hours</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chailleann tú do phost nó má tá uaireanta laghdaithe oibre agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your pay from work is reduced your Family Income Supplement (FIS) payment will stay the same</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má laghdaítear do phá san ionad oibre, ní thiocfaidh aon athrú íocaíochta ar an bhForlíonadh Ioncam Teaghlaigh (FIT)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It will not increase</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bheidh méadú i gceist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, when your FIS payment ends you can re-apply giving details of your new reduced income</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin féin, nuair a chríochnaíonn d'íocaíocht FIT, is féidir leat iarratas a dhéanamh in athuair ag tabhairt sonraí faoi d’ioncam nua laghdaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(FIS is usually paid for 52 weeks</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Is gnách go n-íoctar an FIT ar feadh 52 seachtain</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>At the end of the 52 weeks, you can re-apply for FIS.)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ag deireadh na 52 seachtain, is féidir leat athchur isteach ar an FIT.)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If the number of hours you work each week is reduced to below 38 hours per fortnight you are no longer entitled to FIS</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má laghdaítear na huaireanta oibre a oibríonn tú gach seachtain go dtí faoi bhun 19 n-uaire in aghaidh na seachtaine (38 uair in aghaidh na coicíse), ní bheidh tú i dteideal an FIT a fháil a thuilleadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should notify the FIS section if your hours fall below this minimum requirement</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir duit fógra a thabhairt don rannnóg FIT má thiteann do chuid uaireanta faoi bhun an riachtanais íosta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you lose your job you are no longer entitled to FIS</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chailleann tú do phost ní bheidh tú i dteideal an FIT a fháil a thuilleadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must notify the FIS section</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór duit fógra a thabhairt don rannóg FIT</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Getting FIS with other social welfare payments</seg></tuv>
+  <tuv xml:lang="ga"><seg>An FIT a fháil le híocaíocht eile leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You cannot get FIS if you are on one of the following schemes or social welfare payments:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leat an FIT a fháil má tá ceann amháin de na híocaíochtaí leasa shóisialaigh a leanas á bhfáil agat:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Community Employment Scheme, Gateway, Rural Social Scheme, the Tús scheme or JobBridge</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Scéim Fostaíocht Pobail, i Scéim TÚS, Gateway, JobBridge ó an Scéim Sóisialta Tuaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Jobseeker's Benefit, Jobseeker's Allowance, Jobseeker's Transitional payment or Farm Assist</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Sochar Cuardaitheora Poist nó Liúntas Cuardaitheora Poist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However an Increase for a Qualified Adult (IQA) will no longer be paid and your social welfare payment will be assessed as income for their FIS payment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá ceann de na híocaíochtaí seo á bhfáil ag do chéile, do pháirtí sibhialta nó do chomháititheoir, is féidir leat a bheith i dteideal an FIT a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Any Increase for a Qualified Child will be affected</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfar measúnú ar a n-íocaíocht leasa shóisialaigh, áfach, amhail ioncam ar mhaithe le cuspóirí an FIT</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Similarly if your spouse, civil partner or cohabitant is getting one of these payments, you can qualify for FIS but an IQA will no longer be paid for you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má cháilítear thú don FIT, ní bhfaighidh siad íocaíocht duit a thuilleadh agus beidh tionchar aige seo ar aon Mhéadú i leith Leanbh Cáilithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are parenting alone you may be entitled to FIS in addition to your One-Parent Family Payment, Deserted Wife's Benefit or Widow's, Widower's or Surviving Civil Partner's (Contributory) Pension.   You can get FIS while you are taking part in the Part-Time Job Incentive Scheme</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú i do thuismitheoir i d’aonair, d’fhéadfá bheith i dteideal an FIT sa mhullach ar d’Íocaíocht Teaghlach Aontuismitheora, Sochar Bean Chéile Tréigthe nó Pinsean Baintrí, Baintreach Fir nó Páirtnéara Shibhialta Mharthanaigh (Ranníocach)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can get Illness Benefit or Injury Benefit while you are getting FIS (for 6 consecutive weeks). If you are out of work for more than 6 consecutive weeks payment of FIS is suspended until you return to work and send a final certificate into the Illness Benefit or Occupational Injury Benefit section or until your FIS award period expires (whichever is the earlier)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoin Acht um Chosaint Mháithreachais, 1994, tá bean a gcáilítear í do Shochar Máithreachais, Sochar Uchtaíoch nó Sochar Sláinte agus Sábháilteachta i dteideal FIT a éileamh (a fhad agus a chomhlíonann sí na coinníollacha íocaíochta FIT agus go bhfuil clann aici – ní cháilítear bean atá ag iompar clainne nach bhfuil aon leanaí eile aici don FIT go dtí go saolaítear an leanbh)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the Maternity Protection Act 1994, a woman on maternity or adoptive leave is entitled to be treated as if she is in employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní mór go mbeidh d’ioncam faoi bhun na teorann ioncaim ar mhéid do theaghlaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that she can claim FIS (provided she meets the conditions of the FIS payment and has a family – a pregnant woman who has no other children does not qualify for FIS until the birth of the baby)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Má tá Sochar Máithreachais á éileamh agat, ríomhtar do mheántuillimh sheachtainiúla trí d'olltuillimh a úsáid go dtí seo nó trí do P60 a úsáid)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your income must be less than the income limit for your family size and is normally calculated using your gross earnings to date or your P60. Your FIS claim will then be paid for 52 weeks from the date you applied</seg></tuv>
+  <tuv xml:lang="ga"><seg>Íocfar ansin d’éileamh ar FIT ar feadh bliain amháin ó thús d’íocaíochta Sochar Máithreachais (má tá leanbh agat cheana féin) nó nuair a shaolaítear do leanbh, más é/í do chéad leanbh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are not entitled to continue to claim FIS if you take additional unpaid maternity or adoptive leave, if you lose your job after returning to work or give up your employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Níl tú i dteideal leanúint leis an FIT a éileamh má ghlacann tú le saoire bhreise mháithreachais nó uchtaíoch neamhíoctha, mura bhfilleann tú ar an obair i ndiaidh saoire mháithreachais nó uchtaíoch nó má chailleann tú do phost tar éis filleadh ar an obair</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A separated parent can apply for FIS once he or she meets the qualifying conditions and</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir le tuismitheoir scartha cur isteach ar an FIT a luaithe a chomhlíonann siad na coinníollacha cáilitheacha agus</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Is living with the children or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• go bhfuil siad ina gcónaí leis na leanaí nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Is wholly maintaining the ex-spouse, ex-civil partner or ex-cohabitant with whom the children are living</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Go bhfuil cothabháil iomlán á híoc acu don iarchéile, iarpháirtnéir nó iar-chomháititheoir lena gcónaíonn na leanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Wholly maintaining means that maintenance paid by you, the FIS applicant, must be the main income of your ex-spouse, ex-civil partner or ex-cohabitant. Your former spouse or partner cannot have more than €100 a week income in their own right and cannot be married, in a civil partnership or cohabiting</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn cothabháil iomlán a íoc nach mór don chothabháil a íocann tú, an t-iarratasóir ar an FIT, bheith an t-aon ioncam atá ag d’iarchéile, iarpháirtnéir sibhialta nó ag d’iar-chomháititheoir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>FIS is awarded for 52 weeks. A person included in your FIS award cannot be paid FIS in their own right or be included in another FIS claim during that 52 week period</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir ach íocaíocht FIT amháin a dhéanamh do theaghlach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To qualify you must be wholly maintaining the parent with whom the children are living</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más tuismitheoir scartha thú agus má tá cothabháil á híoc agat, d’fhéadfá cáiliú don FIT</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Only one FIS payment can be made for a family so the parent to whom you are paying maintenance must not be getting FIS</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun cáiliú, ní mór duit cothabháil iomlán a bheith á híoc agat leis an tuismitheoir lena gcónaíonn na leanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must supply written evidence from this person to show that they are getting maintenance</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir ach íocaíocht FIT amháin a dhéanamh do theaghlach, níor cheart go mbeadh an FIT á fháil ag an tuismitheoir a bhfuil cothabháil á híoc agat leo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are paying maintenance as a result of a court order or legally binding agreement for a second family, the amount of that maintenance payment will not be deducted from the income to be assessed for FIS</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá cothabháil á híoc agat mar thoradh ar ordú cúirte nó comhaontú atá ina cheanglas dlíthiúil don dara teaghlach, ní bhainfear suim na híocaíochta cothabhála sin den ioncam ar a ndéanfar measúnú don FIT</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are getting maintenance, your total maintenance payment will be assessed as income for FIS</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá cothabháil á fáil agat, déanfar measúnú ar shuim iomlán d'íocaíochta cothabhála amhail ioncam don FIT</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This includes situations where rent or mortgage payments are made by an ex-spouse or partner under a maintenance agreement. If a house is in joint names and an ex-spouse or partner pays the mortgage 50% of this will be assessed as income for FIS. Only one FIS payment can be made for a family</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir ach íocaíocht FIT amháin a dhéanamh do theaghlach, níor cheart go mbeadh an FIT á fháil ag an tuismitheoir óna bhfuil cothabháil á fáil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A parent getting maintenance for a qualified child will also have that maintenance assessed for FIS</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, déanfar measúnú ar thuismitheoir a fhaigheann cothabháil do leanbh cáilithe i leith an FIT</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>FIS is calculated on the basis of 60% of the difference between the income limit for the family size and the assessable income of the person(s) raising the child(ren)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ríomhtar an FIT ar bhonn 60% den difríocht idir an teorainn ioncaim do mhéid an teaghlaigh agus ioncam inmheasúnaithe an duine/na ndaoine ag a bhfuil an leanbh/na leanaí á dtógáil aníos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The combined income of a couple (married, in a civil partnership or cohabiting) is taken into account</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirtear san áireamh comhioncam lánúine (lanúin phósta, i bpáirtnéireacht shibhialta nó i mbun comháitiú)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Income from any source (except for the disregards stated below) is assessed. The FIS income test does not assess capital</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar ioncam ó aon fhoinse (seachas na foinsí a dtugtar neamhaird dóibh thíos) a mheasúnú amhail maoin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This includes property you own, bank accounts and cars. The Department of Social Protection does assess income you get from tenants who rent a property you own, it may examine your bank accounts to check for other income sources and it may assess income derived from use of a car that you own (for example as a taxi)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cé nach ann d’aon rialacha a fhágann as an áireamh measúnú ar chaipiteal, áfach, ní dhéanann an Roinn Coimirce Sóisialaí measúnú ar chaipiteal ná scrúdú a dhéanamh ar shonraí do chuntais bhainc nuair a dhéanann tú iarratas ar an FIT</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The main items counted as income are:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad na príomh-mhíreanna a gcaitear leo amhail ioncam:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Your assessable earnings and your spouse, civil partner or cohabitant's assessable earnings</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Do thuillimh inmheasúnaithe agus tuillimh inmheasnúnaithe do chéile, do pháirtnéara shibhialta nó do chomháititheora</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(Assessable earnings are gross pay minus tax, employee PRSI, Universal Social Charge and superannuation (including the Public Service Pension Levy.) Income from working as a home help is included</seg></tuv>
+  <tuv xml:lang="ga"><seg>(Tuillimh inmheasnúnaithe iad ollphá lúide cáin, ÁSPC fostaí, an Muirear Sóisialta Uilíoch agus aoisliúntais.) Áirítear ioncam ó oibriú mar chúntóir baile le haghaidh éilimh nua ó Eanáir 2012 ar aghaidh agus le haghaidh éilimh reatha tráth na hathnuachana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Any extra income you or your spouse, civil partner or cohabitant have from employment (such as pay for overtime, bonuses, allowances or commission)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Aon ioncam breise atá agatsa nó ag do chéile, páirtnéir sibhialta nó do chomháititheoir ó fhostaíocht (ar nós pá le haghaidh ragoibre, bónais, liúntais nó coimisiúin)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Any income you or your spouse, civil partner or cohabitant may have from self-employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Aon ioncam atá agatsa nó ag do chéile, páirtnéir shibhialta nó do chomháititheoir ón bhféinfhostaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Income from occupational pensions</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ioncam ó phinsin ghairme</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Income you or your spouse, civil partner or cohabitant may have including social welfare payments and student grants</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ioncam a d’fhéadfadh bheith agatsa nó ag do chéile, páirtnéir shibhialta nó do chomháititheoir, lena n-áirítear íocaíochtaí leasa shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• All family income from carer's payments (Carer's Allowance or Carer's Benefit)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ioncam teaghlaigh ó íocaíochtaí cúramóra (Liúntas Cúramóra nó Sochar Cúramóra)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Rental income from the letting of property or land (the capital value is not assessed)</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ioncam cíosa trí réadmhaoin nó talamh a ligean ar cíos (ní dhéantar measúnú ar an luach caipitil)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The gross rental income is assessed and you cannot deduct mortgage payments or other expenses. Rental income from renting a room in your house is included</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar measúnú ar an ollioncam cíosa agus ní féidir leat íocaíochtaí morgáiste nó costais eile a asbhaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The following payments do not count as family income:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní chuirtear san áireamh na híocaíochtaí a leanas amhail ioncam teaghlaigh:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Rent Allowance for tenants affected by the de-control of rents</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Liúntas Cíosa do thionóntaí atá thíos le dírialú cíosanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Income from a charitable organisation</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ioncam ó eagraíocht charthanachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Income from providing accommodation to students studying Irish in Gaeltacht areas under a scheme administered by the Minister for Arts, Heritage and the Gaeltacht</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ioncam ó chóiríocht a chur ar fáil do mhic léinn ag a bhfuil staidéar á dhéanamh i gceantair Ghaeltachta faoi scéim atá á riar ag an Aire Ealíon, Oidhreachta agus Gaeltachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Any income your children may have</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfar measúnú ar ioncam ó oibriú mar chúntóir baile do FSS le haghaidh éilimh nua ar an FIT ó Eanáir 2012 ar aghaidh agus ag tráth na hathnuachana le haghaidh éilimh eile</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Calculating income for FIS</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ioncam a ríomh don FIT</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Department of Social Protection (DSP) calculates your assessable earnings over a certain period of time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ríomhann an Roinn Coimirce Sóisialaí d’ioncam inmheasúnaithe mar aon le do mheánioncam thar thréimhse áirithe ama</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Because FIS is paid over 52 weeks the DSP tries to calculate your average earnings over a similar period of time</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fostaíodh le déanaí thú, déantar do mheánioncam seachtainiúil a ríomh ón uair a thosaigh tú ag oibriú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are newly in employment, your average weekly income is calculated from when you started work with that employer</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhí tú ag oibriú ar feadh breis agus bliain, ríomhtar do mheánioncam seachtainiúil trí thagairt a dhéanamh do do P60 is déanaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your P60 is also used to calculate your average weekly income when your claim is being renewed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ina theannta sin, úsáidtear do P60 chun do mheánioncam seachtainiúil a ríomh nuair a bhíonn athnuachan á déanamh ar d’éileamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your spouse, civil partner or cohabitant is self-employed, his or her income over the 12-month period before you lodge your claim is used to work out his or her average weekly income</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá do chéile, páirtnéir sibhialta nó do chomháitritheoir féinfhostaithe, úsáidtear a (h)ioncam thar an tréimhse 12 mhí sula ndéanann tú d’éileamh chun a m(h)eánioncam seachtainiúil a ríomh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Again, to qualify, your average weekly family income must be below a certain amount for your family size</seg></tuv>
+  <tuv xml:lang="ga"><seg>Arís eile, chun cáiliú don FIT, ní mór do do mheánioncam seachtainiúil teaghlaigh bheith faoi bhun suim áirithe do mhéid do theaghlaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can read examples of calculations on welfare.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>Féadfaidh tú samplaí de ríomhanna a léamh ar welfare.ie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>FIS income limits in 2017</seg></tuv>
+  <tuv xml:lang="ga"><seg>Teorainneacha ioncaim an FIT i 2017</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│If you │And your weekly family income │ │have: │is less than: │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Líon leanaí: │Ioncam seachtainiúil teaghlaigh níos lú ná: │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│One child │€511 │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Leanbh amháin │€511 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Four │€834 │ │children │ │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Ceathrar leanaí │€834 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Five │€960 │ │children │ │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Cúigear leanaí │€960 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>│Six │€1,076 │ │children │ │</seg></tuv>
+  <tuv xml:lang="ga"><seg>│Seisear leanaí │€1,076 │</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It's important to be aware, that if you qualify for FIS, you get a minimum of €20 each week. You can use the Benefit of Work Ready Reckoner from the Department of Social Protection to help you assess out the financial consequences of taking up full-time work</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá se tábhachtach go mbeadh a fhios agat go bhfaighidh tú €20 ar a laghad in aghaidh na seachtaine, is cuma cé chomh beag an liúntas a gcáileofar thú dó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To apply fill in an application form for Family Income Supplement (pdf)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Chun iarratas a dhéanamh comhlánaigh foirm iarratais ar Fhorlíonadh Ioncam Teaghlaigh (pdf)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can get a copy of this form in your Intreo Centre or Social Welfare Branch Office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is féidir leat cóip den fhoirm seo a fháil ón Ionad Intreo nó Oifig Leasa Shóisialaigh Áitiúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you need help to fill in this form, the staff in your Intreo Centre, Social Welfare Branch Office or Citizens Information Centre can help you</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má theastaíonn cúnamh uait chun an fhoirm seo a chomhlánú, is féidir leis an bhfoireann ón Oifig Leasa Shóisialaigh Áitiúil nó ón Ionad Faisnéise do Shaoránaigh cúnamh a thabhairt duit</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>To make sure that your application for FIS is processed as quickly as possible, you should include your latest P60 form, your most recent payslip, and a copy of your Certificate of Tax Credits for the current tax year with your application. If you have not received your P60 send in your week 52 payslip for the last tax year</seg></tuv>
+  <tuv xml:lang="ga"><seg>Lena chinntiú go bpróiseáltar d’iarratas ar an FIT a thapúla agus is féidir, ba cheart duit d’fhoirm P60 is déanaí a chur san áireamh, 2 dhuilín pá a fuair tú le déanaí, agus cóip den Teastas Creidmheasanna Cánach a fuair tú don bhliain chánach reatha le d’iarratas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you think you have been wrongly refused FIS you can appeal this decision</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má mheasann tú gur diúltaíodh thú an FIT go héagórach is féidir leat an cinneadh seo a achomharc</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Send your completed Family Income Supplement application form to:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seol d’fhoirm chomhlánaithe iarratais ar an bhForlíonadh Ioncam Teaghlaigh chuig:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Family Income Supplement (FIS) Section</seg></tuv>
+  <tuv xml:lang="ga"><seg>An Rannóg um Fhorlíonadh Ioncaim Teaghlaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Social Welfare Services Office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Oifig na Seirbhísí Leasa Shóisialaigh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Opening Hours: Phone line: 10:00am -12:30pm &amp; 2.00pm - 4.00pm, Monday to Friday</seg></tuv>
+  <tuv xml:lang="ga"><seg>Uaireanta Oscailte: Líne gutháin: 10:00rn -12:30in &amp; 2.00in - 4.00in, Luan go hAoine</seg></tuv>
+</tu>
+</body>
+</tmx>

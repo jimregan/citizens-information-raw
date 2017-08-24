@@ -1,0 +1,497 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>Under the Unfair Dismissals Acts 1977–2015 circumstances in which unfair dismissal can occur are where:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoi na hAchtanna um Dhífhostú Éagórach 1977-2015 'siad na cúinsí inar féidir le dífhostú éagórach tarlú ná nuair:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Your employer terminates your contract of employment, with or without notice or</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cuireann d'fhostóir deireadh le do chonradh fostaíochta, le nó gan fógra nó</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• You terminate your contract of employment, with or without notice, due to the conduct of your employer</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cuireann tú deireadh le do chonradh fostaíochta, le nó gan fógra, toisc iompraíocht d'fhostóir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is known as constructive dismissal</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dífhostú inchiallaithe a ghlaoitear ar seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are dismissed from your employment, you may, under certain conditions, bring a claim for unfair dismissal against your employer</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú dífhostaithe ó do chuid fostaíochta, d'fhéadfá, faoi choinníollacha áirithe, éileamh ar dhífhostú éagórach a dhéanamh i gcoinne d'fhostóir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The unfair dismissals legislation does not actually protect you from dismissal, rather it provides a system of appeal whereby you can question the fairness of your dismissal after it has occurred</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní dhéanann reachtaíocht um dhífhostú éagórach ann féin tú a chosaint ó dhífhostú, ach soláthraítear córas achomhairc inar féidir leat cothroime an dífhostaithe s'agat a cheistiú tar éis dó tarlú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You will have to show that you qualify to bring a claim under the legislation - see 'Rules' below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Beidh ort a léiriú go bhfuil tú incháilithe éileamh a dhéanamh faoin reachtaíocht (féach Rialacha thíos)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you do this and your employer accepts that there was a dismissal, it will be for your employer to show that there were fair grounds for the dismissal</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má dhéanann tú seo agus go nglacann d'fhostóir go raibh dífhostú ann, beidh dualgas ar an bhfostóir a léiriú go raibh cúiseanna córa don dífhostú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Apart from a case involving constructive dismissal, a dismissal is presumed to be unfair unless your employer can show substantial grounds to justify it</seg></tuv>
+  <tuv xml:lang="ga"><seg>Lasmuigh de chás lena mbaineann dífhostú inchiallaithe, ceaptar go bhfuil dífhostú éagórach murar féidir cúiseanna maithe a thabhairt leis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the legislation you may ask your employer for a written statement of the reasons for your dismissal</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoin reachtaíocht, is féidir leat ráiteas scríofa a iarraidh ar d'fhostóir maidir le cúiseanna an dífhostaithe s'agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your employer should provide this within 14 days of your request</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ba chóir don fhostóir s'agat é seo a sholáthar laistigh de 14 lá ó d'iarratas a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are found to have been unfairly dismissed you may be placed back in your job or, more commonly, you may receive compensation for the loss of earnings caused by the dismissal</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má fheictear gur dífhostaíodh tú go héagórach, d'fhéadfaí tú a chur ar ais sa phost nó, rud atá níos comónta, d'fhéadfá cúiteamh a fháil ar an gcaillteanas ioncaim de thoradh an dífhostaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A dismissal is considered to be automatically unfair if the employee is dismissed for any of the following reasons:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Meastar go bhfuil cúiseanna áirithe do dhífhostú éagórach sa ghnáthchúrsa. Ina measc:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Membership or proposed membership of a trade union or engaging in trade union activities, whether within permitted times during work or outside of working hours</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ballraíocht ag an bhfostaí, nó tá ballraíocht a bheith ar intinn aige/aici, de cheardchumann nó gníomhaíocht in imeachtaí ceardchumainn,</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Religious or political opinions</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Tuairimí creidimh nó polaitiúla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Legal proceedings against an employer where an employee is a party or a witness</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Imeachtaí dlíthiúla in aghaidh fostóra nuair atá an fostaí mar pháirtí nó finné</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Race, colour, sexual orientation, age or membership of the Traveller community</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Cine, dath, claonadh gnéis,aois nó duine den Lucht Siúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Pregnancy, giving birth or breastfeeding or any matters connected with pregnancy or birth</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Toircheas, saolú linbh nó tabhairt chun cíche nó aon rud a bhaineann le toircheas nó breith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Availing of rights under legislation to maternity leave, adoptive leave, paternity leave, carer's leave, parental or force majeure leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>• saoire altramais, saoire atharthachta, saoire cúramóra, saoire thuismitheora nó saoire force majeure</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Making a protected disclosure under the Protected Disclosures Act 2014</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag déanamh nochtadh cosanta faoin Acht um Nochtadh Cosanta 2014</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the unfair dismissals legislation, redundancy is considered to be a fair ground for dismissal</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoin reachtaíocht um dhífhostú éagórach ceaptar gur cúis maith le dífhostú í iomarcaíocht</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However although a redundancy situation exists, you may have grounds for complaint if the manner of your selection for redundancy was unfair</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cé go bhfuil iomarcaíocht i gceist, seans go mbeidh de cheart agat gearán a dhéanamh má roghnaíodh thú go héagórach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You may qualify to bring a claim for unfair dismissal if you consider that you were unfairly selected for redundancy or consider that a genuine redundancy situation did not exist – see ‘How to apply’ below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dá gceapann tú go mbeadh tú dífhostaithe éagórach d'fhéadfá bheith incháilithe chun éileamh ar dhífhostú éagórach a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Unless your employer can prove there was a genuine redundancy situation and that fair procedures were followed, your dismissal may be found to be unfair</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ceaptar go bhfuil dífhostú éagórach murar féidir le d’fhostóir cúis iomarcaíochta dhílis agus nósanna imeachta maithe a thabhairt leis</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you make a claim for unfair dismissal, you cannot also claim redundancy</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má chuireann tú isteach ar chúiteamh le haghaidh dífhostaithe éagóraigh ní féidir cuir isteach le haghaidh iomarcaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In order to qualify to bring a claim for unfair dismissal under the legislation the following requirements must be met:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ionas go gcáileofaí éileamh a dhéanamh ar dhífhostú éagórach faoin reachtaíocht caithfear na riachtanais a leanas a bhaint amach:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The time limit for beginning a claim for unfair dismissal is 6 months from the date of the dismissal</seg></tuv>
+  <tuv xml:lang="ga"><seg>'Sí an teorainn ama chun éileamh a thosú ar dhífhostú éagórach ná sé mhí ó dháta an dífhostaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If there is reasonable cause you may be allowed to extend this period up to 12 months from the date of dismissal</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá cúinsí réasúnacha, d'fhéadfaí go mbeadh cead agat an tréimhse seo a leathnú go 12 mí ó dháta an dífhostaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, this must be reasonable cause - saying you did not know the law will not suffice</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cibé ar bith, is gá gur cúinsí réasúnacha a bheadh i gceist - ní leor a rá nach raibh an dlí ar eolas agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The date of dismissal, under the unfair dismissals legislation, is the date on which the notice to which you are entitled expires</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é dáta an dífhostaithe, faoin reachtaíocht um dhífhostú éagórach, an dáta deiridh den fhógra a bhfuil tú i dteideal</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are entitled to a statutory minimum period of notice if you have worked at least 13 weeks for your employer</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tú i dteideal íostréimhse fógra reachtúil má tá tú tar éis oibriú ar feadh 13 seachtainí ar a laghad don fhostóir s'agat</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Your written contract of employment may provide for a longer period of notice</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfadh do chonradh scríofa fostaíochta soláthar a dhéanamh do thréimhse fógra níos faide</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Normally you must have at least 12 months' continuous service with your employer in order to bring a claim for unfair dismissal</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go hiondúil, caithfidh tú ar a laghad 12 mí de sheirbhís leanúnach le d'fhostóir a bheith agat chun éileamh a dhéanamh ar dhífhostú éagórach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However there are important exceptions to this general rule</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cibé ar bith tá eisceachtaí tábhachtacha leis an riail ghinearálta seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have less than 12 months' continuous service you may bring a claim for unfair dismissal if you are dismissed for:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá níos lú ná 12 mí de sheirbhís leanúnach agat d'fhéadfá éileamh maidir le dhífhostú éagórach a dhéanamh má dhífhostaítear tú toisc:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Trade union membership or activity</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ballraíocht nó gníomhaíocht i gceardchumann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Pregnancy, giving birth or breastfeeding or any matters connected with pregnancy or birth</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Toircheas, breith linbh nó beathú cíche nó ceisteanna ar bith a bhaineann le toircheas nó breith</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Availing of rights granted by the Maternity Protection Acts 1994 and 2004, the Adoptive Leave Acts 1995 and 2005, the Paternity Leave and Benefit Act 2016 the National Minimum Wage Act 2000, the Parental Leave Acts 1998 and 2006 and the Carer's Leave Act 2001</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag baint leasa as na cearta deonaithe ag na hAchtanna um Chosaint Mháithreachais 1994 agus 2004, na hAchtanna um Shaoire Uchtaíoch 1995 agus 2005, an tAcht um Shaoire agus Sochar Atharthachta 2016, an tAcht um Pá Íosta Náisiúnta 2000, an tAcht um Shaoire Tuismitheora 1998 agus 2006 agus an tAcht um Saoire Cúramóra 2001</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Making a protected disclosure under the Protected Disclosures Act 2014</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag déanamh nochtadh cosanta faoin Acht um Nochtadh Cosanta 2014</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Note: employment equality legislation prohibits dismissal based on any of the following 9 grounds for discrimination: gender, civil status, family status, age, disability, religious belief, race, sexual orientation or membership of the Traveller community</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nóta: faoin reachtaíocht comhionannais fostaíocht a ní féidir le fostóir aon duine a roghnú ar son dífhostaithe ar aon cheann den naoi gcúis leatroma seo a leanas: gnéas, stádas sibhialta, stádas teaghlaigh, aois, míchumas, creideamh, cine, claonadh gnéis nó duine den Lucht Siúil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>So, for example, if you have been employed for less than a year you may not be able to bring a claim under the unfair dismissals legislation, but you may be able make a complaint of discriminatory dismissal - see 'How to apply' below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar sin, cuir i gcás go raibh tú fostaithe ar feadh níos lú ná bliain, d'fhéadfadh nach mbeifeá a bheith in ann éileamh a dhéanamh faoin reachtaíocht dífhostaithe éagóracha , ach d'fhéadfá é a dhéanamh faoi reachtaíocht comhionannais - féach 'Conas iarratas a dhéanamh' thíos</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In general, the continuity of an employee's employment is only broken by the dismissal of the employee by the employer or the termination of the employment by the employee</seg></tuv>
+  <tuv xml:lang="ga"><seg>Go ginearálta, ní bhristear leanúnachas fostaíochta an fhostaí ach amháin trí dhífhostú an fhostaí ón bhfostóir nó foirceannadh na fostaíochta ón bhfostaí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must be an employee, working under a contract of service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh tú a bheith i d'fhostaí, ag obair faoi chonradh seirbhíse</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The essential element of such a contract is that the relationship is one of employer/employee, as opposed to a contract for services where the relationship involves performing a service in return for payment, that is, a contractor</seg></tuv>
+  <tuv xml:lang="ga"><seg>'Sí an eilimint is riachtanaí de chonradh mar seo ná gur caidreamh fostóir/fostaí atá i gceist, seachas conradh do sheirbhísí nuair a bhaineann an caidreamh le seirbhís a chomhlíonadh ar íocaíocht , i.e</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>In the case of agency employees, for the purpose of redress under the Acts, the employer is the person or organisation for whom the employee is actually working</seg></tuv>
+  <tuv xml:lang="ga"><seg>conraitheoir. I gcás iad siúd atá oibrithe gníomhaireachta, 'siad an fostóir iarbhír an fostóir ar chuspóirí sásaimh faoi na hAchtanna</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You must have been dismissed in order to bring a claim</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh gur dífhostaíodh tú ionas gur féidir leat éileamh a dhéanamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The one exception to this is the concept of constructive dismissal where you resign but claim that your employer's conduct towards you forced your resignation</seg></tuv>
+  <tuv xml:lang="ga"><seg>An taon eisceacht amháin dó seo ná coincheap an dífhostaithe inchiallaithe nuair a éiríonn tú as, ach go ndéanann tú éileamh go raibh iompraíocht d'fhostóir i do threo ar an gcúis gur cuireadh brú ort éirí as</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If your employer disputes that a dismissal actually took place, you will have to establish that it did</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má shéanann d'fhostóir gur tharla dífhostú i bhfírinne, beidh ort a bhunú gur tharla</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Only then will your claim continue to the next stage of deciding whether the dismissal was fair, which is a matter for your employer to prove</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní leanfaidh d'éileamh ar aghaidh go dtí an chéad staid eile maidir le cinneadh a dhéanamh an raibh an dífhostú cothrom nó nach raibh go dtí go ndeimhnítear an méid seo, agus caithfidh d'fhostóir an cheist seo a chruthú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Acts do not apply to the following:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhaineann na hAchtanna leis na daoine a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(a) an employee who is under 16, or who has reached normal retiring age or who is not covered by the Redundancy Payments Acts because of age</seg></tuv>
+  <tuv xml:lang="ga"><seg>(a) fostaí atá faoi 16, nó atá tar éis an gnáthaois scoir a shroicheadh nó nach bhfuil clúdaithe faoi na hAchtanna um Íocaíochtaí Iomarcaíochta toisc cúinsí aoise</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(b) a person working for a close relative in a private house or farm, provided both also live in the same house or farm;</seg></tuv>
+  <tuv xml:lang="ga"><seg>(b) duine atá ag obair do dhuine gaolta i dteach príobháideach nó feirm, chomh fada agus go gcónaíonn an bheirt sa teach nó feirm céanna chomh maith;</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(c) a member of the Defence Forces</seg></tuv>
+  <tuv xml:lang="ga"><seg>(c) ball d'Óglaigh na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(d) a member of the Garda Síochána (since 4 July 2006, the Acts apply to most State employees)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(d) ball den Gharda Síochána (ó 4 Iúil 2006 bhaineann na hActanna leis an cuid is mó do fostaí Stáit)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(e) a person undergoing full-time training or apprenticeship</seg></tuv>
+  <tuv xml:lang="ga"><seg>(e) duine atá i mbun oiliúna lánaimseartha nó printíseacht le FÁS</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(f) an officer of education and training boards, a county or city manager and the chief executive of the Health Service Executive</seg></tuv>
+  <tuv xml:lang="ga"><seg>(f) oifigeach de chuid na mboird oideachais agus oiliúna, bainisteoir contae nó cathrach, agus an príomhfheidhmeannach don Fheidhmeannacht na Seirbhíse Sláinte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(g) an employee who is employed under a fixed-term/specified-purpose contract and where the contract is in writing, is signed by both parties and contains a clause that the Acts shall not apply in relation to a dismissal consisting only of the expiration of the fixed term contract or the completion of the specified purpose</seg></tuv>
+  <tuv xml:lang="ga"><seg>(g) fostaí atá fostaithe faoi chonradh ar théarma seasta/cuspóir-shonraithe agus nuair atá an conradh i scríbhinn, sínithe ag an dá phairtí agus a chuimsíonn foráil nach mbainfidh na hAchtanna maidir le dífhostú, a chuimsíonn dáta éagtha an chonartha ar théarma seasta nó comhlánú an chuspóir-shonraithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find out detailed information about fixed-term/specified-purpose contracts and dismissal in 'Further information' below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Léigh 'Tuilleadh eolais' thíos faoi chonarthaí ar théarma seasta/cuspóir-shonraithe agus dífhostú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(h) an employee who works outside the State (unless the employee is resident in the State for the duration of the contract or is domiciled in the State and the employer is resident in the State for the duration of the contract)</seg></tuv>
+  <tuv xml:lang="ga"><seg>(h) fostaí a oibríonn lasmuigh den Stát (murach go bhfuil an fostaí cónaitheach sa Stát le linn tréimhse an chonartha nó gnáthchónaí air/uirthi sa Stát agus go bhfuil an fostóir cónaitheach sa Stát le linn tréimhse an chonartha)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(i) statutory apprentices who are dismissed within 6 months after beginning apprenticeship or within one month after the completion of the apprenticeship</seg></tuv>
+  <tuv xml:lang="ga"><seg>(i) printíseachtaí reachtúla atá dífhostaithe laistigh de sé mhí tar éis printíseacht a thosú nó laistigh de mhí ó chomhlánú na printíseachta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(j) an employee who is on probation or undergoing training at the beginning of employment, provided that the duration of probation or training is one year or less and is specified in the written contract of employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>(j) fostaí atá ar promhadh nó i mbun oiliúna ag tús fostaíochta, chomh fada agus go bhfuil tréimhse an phromhaidh nó na hoiliúna bliain amháin nó níos lú agus sonraithe i gconradh scríofa fostaíochta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>(k) an employee who is dismissed during training for qualification or registration as a nurse or for other specified para-medical employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>(k) fostaí atá dífhostaithe le linn oiliúna do cháilíocht nó do chlárú mar altra nó d'fhostaíocht sonraithe eile paraimhíochaine</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Note: The exclusions from the Acts of persons referred to in points (b), (e), (i), (j) and (k) shall not apply where the dismissal results from:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nóta: Ní bhaineann na heisiaimh ó na hAchtanna le daoine a thagraítear dóibh sna pointí (b), (e), (i), (j) agus (k) nuair a tharlaíonn dífhostaithe de bharr:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The employee's pregnancy, giving birth or breastfeeding</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Toircheas an fhostaí, breith linbh nó beathú cíche</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Availing of rights under the Maternity Protection Acts 1994 and 2004</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag baint leasa as na cearta faoi na hAchtanna um Chosaint Mháithreachais 1994 agus 2004</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Availing of rights to adoptive leave or additional adoptive leave, paternity leave, parental leave, force majeure leave or carer's leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Ag baint leasa as do chearta do shaoire uchtaíoch nó saoire uchtaíoch bhreise, saoire atharthachta, saoire thuismitheora, saoire force majeure nó saoire cúramóra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The exclusion from the Acts of persons referred to in points (a) and (d) shall not apply where the dismissal results from the employee availing of the right to parental leave, force majeure leave or carer's leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhainfidh an eisiamh ó na hAchtanna le daoine a thagraítear dóibh i bpointí (a) agus (d) nuair atá an dífhostú de thoradh ar fhostaí ag baint leasa as an gceart do shaoire tuismitheora, saoire force majeure nó saoire cúramóra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The exclusion from the Acts of persons referred to in points (d) and (e) shall not apply where the dismissal results from the employee making a protected disclosure</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhainfidh an t-eisiamh ó na hAchtanna le daoine a thagraítear dóibh i bpointí (d) agus (e) nuair atá an dífhostú de thoradh ar fhostaí ag déanamh nochtadh cosanta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Unfair Dismissals Acts will not apply to a dismissal where the employee's employer at the commencement of the employment informs the employee in writing that the employment will terminate on the return to work with that employer of another employee who is absent from work while on maternity leave, adoptive leave, paternity leave or carer's leave</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhainfidh na hAchtanna um Dhífhostú Éagórach le dífhostú nuair a insíonn fostóir an fhostaí don fhostaí i scríbhinn ag tús na fostaíochta go mbeidh deireadh leis an bhfostaíocht ar fhilleadh chun na hoibre leis an bhfostóir sin d'fhostaí eile atá as láthair nuair atá siad ar shaoire mháithreachais, saoire uchtaíoch, saoire atharthachta nó saoire cúramóra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you are successful in your claim for unfair dismissal, the body that heard your claim may award you one of the following remedies:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá rath ar an éileamh s'agat ar dhífhostú éagórach, d'fhéadfadh an foras a d'éist le d'éileamh ceann de na leigheasanna a leanas a bhronnadh ort:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that you are treated as if you had never been dismissed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn sé seo go ndéileáiltear leat amhail is nár dífhostaíodh tú riamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Not only are you entitled to loss of earnings from the date of the dismissal to the date of the hearing, you are also entitled to any favourable changes in the terms of employment during that period, for example, pay rises</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní hamháin go bhfuil tú i dteideal do chaillteanas ioncaim ó dháta na dífhostaithe go dtí dáta na héisteachta, tá tú i dteideal chomh maith d'aon athruithe fabharacha le linn an tréimhse sin, mar shampla, arduithe pá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This remedy is rarely used</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is annamh a úsáidtear an leigheas seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that you will be given your job back but only from a particular date, for example, the date of the decision in your favour</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn sé seo go dtabharfar do phost ar ais duit ach díreach ó dháta áirithe, mar shampla, dáta an chinnidh i d'fhabhar</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means that you will not be entitled to compensation for any loss of earnings</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn sé seo nach mbeidh tú i dteideal do chúiteamh ar aon chaillteanas ioncaim</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Often this remedy is used where it is felt that the employee contributed to the dismissal, even though the actual dismissal was unfair</seg></tuv>
+  <tuv xml:lang="ga"><seg>Úsáidtear an leigheas seo go minic nuair a airítear gur chuir an fostaí leis an dífhostú, cé go raibh an dífhostú ann féin éagórach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Again, however, this remedy is rarely used</seg></tuv>
+  <tuv xml:lang="ga"><seg>Arís, cibé ar bith, is annamh a úsáidtear an réiteach seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This is the most common remedy</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seo é an leigheas is comónta</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is essential to note that compensation is only awarded in respect of financial loss</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá sé riachtanach a nótáil nach mbronntar cúiteamh ach amháin maidir le caillteanas airgid</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Generally, the maximum compensation is 2 years’ pay</seg></tuv>
+  <tuv xml:lang="ga"><seg>De ghnáth, is an uaschúiteamh é 2 bhliain phá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you were dismissed for making a protected disclosure, the maximum is 5 years’ pay</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tá tú dífhostaithe mar gheall ar nochtadh cosanta, is an uaschúiteamh é 5 bhliain phá</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You cannot claim any compensation for such matters as injury to your feelings or stress caused by the dismissal</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní féidir leat dá réir éileamh a dhéanamh ar chúiteamh do cheisteanna díobhála do na mothúcháin s'agat nó strus ag eascairt ón dífhostú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Compensation will take the following matters into account:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tógfaidh cúiteamh na ceisteanna a leanas san áireamh:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Present loss - a calculation of your loss of earnings from the date of the dismissal to the hearing of your claim</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Caillteanas láithreach - ríomh ar do chaillteanas ioncaim ó dháta na dífhostaithe go dtí an dáta a éistítear le d'éileamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Any money earned by you during this period will be deducted, as will any payment in lieu of notice received by you when you were dismissed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanfar aon airgead atá tuillte agat le linn an tréimhse seo a asbhaint, mar a bheidh aon íocaíocht d'fhógra a d'aimsigh tú nuair a dífhostaíodh tú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You are also obliged to lessen your losses during the period from your dismissal to the hearing by being available for and seeking alternative employment</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá dualgas ort do chuid caillteanais a mhaolú le linn an tréimhse ó do dhífhostú go dtí an éisteacht trí 'bheith ar fáil agus a bheith ag cuardach fostaíochta malartach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If it transpires that you have no actual loss, because, for example, you took up other employment immediately after your dismissal, you are entitled to a token compensation of 4 weeks' pay</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má tharlaíonn sé nár bhain aon chaillteanas ann féin duit, toisc, mar shampla, gur thóg tú fostaíocht suas díreach tar éis an dífhostaithe s'agat, tá tú i dteideal do chúiteamh comharthach de phá ceithre seachtainí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Future loss - a calculation will be made as to your future loss, based on a consideration of how long it is likely to be before you can get alternative work</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Caillteanas todhchaíoch - déanfar ríomh maidir le do chaillteanas todhchaíoch, bunaithe ar cé chomh fada agus a cheaptar a bheidh sé roimh a thagann tú ar obair mhalartach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Pension loss - a calculation that will try to assess what impact the unfair dismissal has had on your pension entitlements</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Caillteanas pinsean - ríomh a dhéanfaidh iarracht measúnú a dhéanamh ar éifeacht an dífhostaithe éagorach ar do theidlíochtaí pinsean</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Loss of statutory protection - a calculation dealing with the point that you will have lost protection under the unfair dismissals, redundancy and minimum notice legislation</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Caillteanas ar chosaint reachtúil - ríomh ag déileáil leis an bpointe go mbeidh cosaint caillte agat faoi dhífhostaithe éagóracha, iomarcaíocht agus reachtaíocht an fhógra íostréimhse</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Contributory conduct - a calculation that will take into account any conduct by you that contributed to the dismissal, even though it was an unfair dismissal</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Iompraíocht ranníocach - ríomh a thógfaidh san áireamh aon iompraíocht uait a chuir leis an dífhostú, cé gur dífhostú éagórach a bhí i gceist</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The degree of contribution will be stated in percentage terms and your award overall award reduced accordingly</seg></tuv>
+  <tuv xml:lang="ga"><seg>Sonrófar méid na héifeachta seo i dtéarmaí céatadáin agus laghdófar an bronnadh iomlán ort dá réir</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you wish to make a claim for unfair dismissal you should do so within 6 months of the date of dismissal</seg></tuv>
+  <tuv xml:lang="ga"><seg>Más mian leat éileamh a dhéanamh ar dhífhostú éagórach ba chóir duit é seo a dhéanamh laistigh de 6 mhí ó dháta an dífhostaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This time limit may be extended to 12 months if there was "reasonable cause" for the delay</seg></tuv>
+  <tuv xml:lang="ga"><seg>D'fhéadfaí an teorainn ama seo a leathnú go 12 mí i gcásanna nuair a chuir cúinsí réasúnacha cosc ar an éileamh a bheith déanta laistigh de 6 mhí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You should make your complaint to the Workplace Relations Commission using the online complaint form available on workplacerelations.ie</seg></tuv>
+  <tuv xml:lang="ga"><seg>Caithfidh tú d'éileamh a dhéanamh leis an gCoimisiún um Chaidreamh san Áit Oibre tríd an fhoirm ghearáin ar líne a úsáid á fáil ar workplacerelations.ie</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Complaints will be referred to an adjudication officer for hearing</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuirfidh gearán faoi bhráid breithneora an Choimisiúin um Chaidreamh san Áit Oibre</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>All decisions of an adjudication officer can be appealed to the Labour Court</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá ceart achomharc a dhéanamh ag an gCúirt Oibreachais ar cinneadh an bhreithneora</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>For information on seeking redress under the Acts contact Workplace Relations Commission's Information and Customer Service - see 'Where to apply' below</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déan teagmháil leis na tSeirbhís Fhaisnéise agus Custaiméara an Choimisiúin um Chaidreamh san Áit Oibre chun sásamh faoi na hAchtanna a fháil</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Information and Customer Service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seirbhíse Faisnéise agus Custaiméara</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Opening Hours: Mon. to Fri. 9.30am to 5pm</seg></tuv>
+  <tuv xml:lang="ga"><seg>Uaireanta Oscailte:Luan go hAoine 9.30rn go 5in</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Tel: (059) 917 8990</seg></tuv>
+  <tuv xml:lang="ga"><seg>Teil: (059) 917 8990</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Locall: 1890 80 80 90</seg></tuv>
+  <tuv xml:lang="ga"><seg>Lóghlao: 1890 80 80 90</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Fixed-term or specified-purpose contracts and dismissal</seg></tuv>
+  <tuv xml:lang="ga"><seg>Breis faisnéise: Conarthaí ar théarma seasta nó cuspóir-shonraithe agus dífhostú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A fixed-term contract is a contract of a specific length where the duration of the contract is known to both parties from the outset</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is conradh d'fhad ar leith é conradh ar théarma seasta nuair atá tréimhse an chonartha ar eolas ag an dá pháirtí ón tús</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>A specified-purpose contract is also of a limited duration, but the parties do not know the length of the contract from the outset</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tréimhse theoranta ag baint le conradh cuspóir-shonraithe chomh maith, ach nach bhfuil fad an chonartha ar eolas ag an dá pháirtí ón tús</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It will be envisaged that it is of limited duration to end when the specified purpose of the contract is completed</seg></tuv>
+  <tuv xml:lang="ga"><seg>Feictear go mbeidh sé teoranta ó thaobh ama agus go gcríochnóidh sé nuair a bheidh cuspóir shonraithe an chonartha comhlánaithe</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>When an employee is dismissed at the end of a fixed-term or specified-purpose contract the unfair dismissals legislation applies as normal unless the employer has availed of the provision to exclude the operation of the legislation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a dhífhostaítear fostaí ag deireadh conartha ar théarma seasta nó cuspóir-shonraithe, baineann an reachtaíocht um dhífhostú éagórach mar is gnách murar bhain an fostóir leas as an bhforáil oibriú na reachtaíochta a eisiamh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The 3 conditions to be met in order to bring this exclusion into play are:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is iad na trí coinníollacha a gcaithfear cloí leo ionas gur féidir an t-eisiamh seo a chur i bhfeidhm ná:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The contract must be in writing and must set out the specific duration of the fixed-term contract or, in the case of a specified-purpose contract, the object of the contract</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Caithfidh an conradh a bheith i scríbhinn agus caithfear tréimhse shonrach an chonartha ar théarma seasta a leagan amach nó, i gcás an chonartha chuspóir-shonraithe, cuspóir an chonartha a leagan amach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The contract must be signed by both the employee and the employer</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Caithfidh an fostaí agus an fostóir araon an conradh a shíniú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• The contract must contain a specific clause stating that the Unfair Dismissals Acts will not apply to the expiry of the term of the contract</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Caithfidh an conradh foráil shonrach a chuimsiú ag rá nach mbaineann na hActanna um Dhífhostú Éagórach le héag théarma an chonartha</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If these conditions are not met then you may have a claim for unfair dismissal despite the fact that you are employed under a fixed-term or specified-purpose contract, subject to fulfilling the normal requirements as to length of service, etc</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mura gcloítear leis na coinníollacha seo, b'fhéidir go bhféadfá éileamh a dhéanamh ar dhífhostú éagórach cé go bhfuil tú fostaithe faoi chonradh ar théarma seasta nó cuspóir-shonraithe, ag brath ar ghnáthriachtanais maidir le fad seirbhíse, etc. a chomhlíonadh</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Under the Protection Of Employees (Fixed-Term Work) Act 2003 (pdf), if an employee is required to enter into a number of such fixed-term or specified-purpose contracts there are two possible situations as follows:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Faoin Acht um Chosaint Fostaithe (Obair ar Théarma Seasta) 2003 (pdf), má tá riachtanas ar fhostaí iontráil isteach i líon áirithe de chonarthaí ar théarma seasta nó cuspóir-shonraithe, tá dhá chás fhéideartha mar a leanas:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Employees on fixed-term contracts which commenced prior to the passing of the Act: Once such an employee completes or has completed 3 years' continuous employment (any or all of the 3 years' service may have occurred prior to the passing of the Act) the employer may renew the contract for a fixed term on one occasion only and that renewal may be for a period of no longer than one year</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Fostaithe ar chonarthaí ar théarmaí seasta a thosaigh roimh inachtú an Achta: Chomh luath agus atá trí bliana de sheirbhís leanúnach fostaíochta comhlánaithe ag fostaí mar seo (d'fhéadfadh aon chuid nó an chuid ar fad den tseirbhís trí bliana tarlú roimh inachtú an Achta) is féidir leis an bhfostóir an conradh a athnuachan do théarma seasta babhta amháin agus ní féidir leis an tréimhse a bheith níos faide ná bliain amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Employees on a fixed-term employment contract which commenced after the passing of the Act: Where such an employee is employed by his or her employer or associated employer on two or more continuous fixed-term contracts, the aggregate duration of those contracts may not exceed 4 years</seg></tuv>
+  <tuv xml:lang="ga"><seg>• Fostaithe ar chonarthaí ar théarmaí seasta a thosaigh tar éis inachtú an Achta: Nuair atá fostaí mar seo fostaithe ag a f(h)ostóir nó fostóir gaolmhar ar dhá cheann nó níos mó de chonarthaí leanúnacha ar théarma seasta, ní féidir leis an tréimhse chomhiomlán a bhaineann leis na conarthaí sin a bheidh níos faide ná ceithre bliana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>However, the above-mentioned rules do not apply where there are objective grounds justifying the renewal of a contract of employment for a fixed term only</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ní bhaineann na rialacha thuas, áfach, nuair atá cúiseanna oibiachtúla a thugann údar le hathnuachan an chonartha fostaíochta ar théarma seasta amháin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where a renewal of a fixed-term contract does not comply with the above requirements and cannot be objectively justified, the contract is treated as an open-ended contract</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair nach gcloíonn athnuachan conartha ar théarma seasta leis na riachtanais thuas agus nach bhfuil údar oibiachtúil leis, déileáiltear leis an gconradh mar chonradh oscailte</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Unfair Dismissal Acts contain a provision aimed at ensuring that successive temporary contracts are not used in order to avoid that legislation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Cuimsíonn na hAchtanna um Dhífhostú Éagórach foráil a bhfuil sé mar aidhm aici a chinntiú nach n-úsáidtear conarthaí leanúnacha sealadacha chun an reachtaíocht sin a sheachaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Where a fixed-term or specified-purpose contract expires and the individual is re-employed within 3 months, the individual is deemed to have continuous service</seg></tuv>
+  <tuv xml:lang="ga"><seg>Nuair a éagann conradh ar théarma seasta nó cuspóir-shonraithe agus athfhostaítear an duine laistigh de thrí mhí, meastar go bhfuil seirbhís leanúnach ag an duine sin</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Therefore, even where an employer excludes the unfair dismissals legislation in the manner described above, an adjudicator will consider whether the use of such contracts was wholly or partly to avoid the employee having the protection of the unfair dismissals legislation</seg></tuv>
+  <tuv xml:lang="ga"><seg>Dá réir sin, fiú amháin má dhéanann an fostóir an reachtaíocht um dhífhostú éagórach a eisiamh mar atá cur síos air thuas, déanfaidh breithneoir a mheas ar úsáideadh conarthaí mar seo go hiomlán nó de chuid chun cosaint an fhostaí a sheachaint mar a bhaineann sí le reachtaíocht um dhífhostú éagórach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If it is considered that this was the case and the contracts were not separated by more than 3 months and the job was at least similar, then the case can be dealt with as if there was continuous employment and the employer will be required to justify the dismissal in the normal manner</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má mheastar gurbh amhlaidh a bhí agus nár scaradh na conarthaí de thréimhsí níos mó na trí mhí agus go raibh na poist cosúil lena chéile ar a laghad, is féidir déileáil leis an gcás amhail is go raibh fostaíocht leanúnach i gceist, agus beidh ar an bhfostóir údar an dífhostaithe a mhíniú mar is gnách</seg></tuv>
+</tu>
+</body>
+</tmx>

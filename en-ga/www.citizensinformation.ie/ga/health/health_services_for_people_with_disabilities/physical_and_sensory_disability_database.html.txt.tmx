@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>National Physical and Sensory Disability Database</seg></tuv>
+  <tuv xml:lang="ga"><seg>An Bunachar Sonraí Náisiúnta um Míchumas Fisiceach agus Céadfach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>There are two national disability databases in Ireland, the National Intellectual Disability Database and the National Physical and Sensory Disability Database</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá dhá bhunachar sonraí náisiúnta um míchumas ann in Éirinn, an Bunachar Sonraí um Míchumas Intleachta agus an Bunachar Sonraí Náisiúnta um Míchumas Fisiceach agus Céadfach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Both are managed by the Health Research Board</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann an Bord Taighde Sláinte an dá cheann a bhainistiú</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The objective of the National Physical and Sensory Disability Database is to gather information on the specialised health and personal social service needs of people with a physical, sensory or speech and language disability</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é cuspóir an Bhunachair Shonraí Náisiúnta um Míchumas Fisiceach agus Céadfach chun faisnéis a bhailiú ar na sainriachtanais sláinte agus seirbhísí sóisialta pearsanta a bhíonn ag daoine atá faoi mhíchumas fisiceach, céadfach nó teanga agus urlabhra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The database monitors current service provision and future service requirements over a five-year period</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann an bunachar sonraí monatóireacht ar sholáthar seirbhísí reatha agus ar na riachtanais a bheidh ann i dtaobh seirbhísí amach anseo thar thréimhse cúig bliana</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>It is used for planning service developments, prioritising service needs and assisting in resource allocation decisions at national and regional level</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baintear úsáidtear as chun forbairtí seirbhísí a phleanáil, tús áite a thabhairt do riachtanais seirbhíse agus cabhrú chun cinneadh a dhéanamh maidir le hacmhainní a chur ar fáil ar leibhéal náisiúnta, réigiúnach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Information is collected from people with a physical or sensory disability who are receiving a specialised health or personal social service currently or who will require one within the next five years</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déantar eolas a bhailiú ó dhaoine faoi mhíchumas fisiceach agus/nó céadfach a bhfuil sainsheirbhísí sláinte agus seirbhísí sóisialta pearsanta dhá fháil acu nó atá ag teastáil uathu faoi láthair agus don chúig bhliain amach anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>Eligible individuals are those who:</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá na daoine seo a leanas i dteideal a bheith ar an mBanc Sonraí:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Have a persistent physical or sensory disability arising from disease, disorder or trauma</seg></tuv>
+  <tuv xml:lang="ga"><seg>• daoine faoi mhíchumas buan fisceach nó céadfach de bharr galair, easláinte nó tráma</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• In the case of dual disability, have a predominant disability that is physical, sensory or speech/language</seg></tuv>
+  <tuv xml:lang="ga"><seg>• I gcás dé-mhíchumais, go mbíonn na daoine faoi phríomh-mhíchumas atá ina mhíchumas fisiceach, céadfach nó teanga/urlabhra</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Are less than 66 years of age</seg></tuv>
+  <tuv xml:lang="ga"><seg>• daoine atá faoi 66 bliain d'aois</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Are receiving or need a specialised health or personal social service that is related to their disability and</seg></tuv>
+  <tuv xml:lang="ga"><seg>• daoine atá ag fáil sainsheirbhíse sláinte nó seirbhísí pearsanta sóisialta a bhaineann lena míchumas</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Have consented to being included on the database</seg></tuv>
+  <tuv xml:lang="ga"><seg>• daoine a bhfuil a gcead tugtha acu a n-ainm a chur ar an mBanc Sonraí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Data Protection Act 1988 and the Data Protection (Amendment) Act 2003 apply in the normal way to information on this database</seg></tuv>
+  <tuv xml:lang="ga"><seg>Baineann an tAcht um Chosaint Sonraí 1988 agus an tAcht um Chosaint (Leasaithe) Sonraí, 2003 ar an ngnáthbhealach leis an eolas ar an mBanc Sonraí seo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>This means, in summary, that you (or the parent/guardian of a child):</seg></tuv>
+  <tuv xml:lang="ga"><seg>Ciallaíonn seo, go hachomair, go bhfuil sé de cheart agat nó más páiste thú ag do thuismitheoir/caomhnóir:</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Have a right to get a copy of the information held about you on the database. You can do this by contacting the Database Co-ordinator in your Local Health Office</seg></tuv>
+  <tuv xml:lang="ga"><seg>• cóip den eolas atá coinnithe fút ar an mbanc sonraí a bheith agat – is féidir é seo a dhéanamh ach teagmháil a dhéanamh le Comhordnóir an Bhainc Sonraí i Fheidhmeannacht na Seirbhíse Sláinte (FSS)</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Have a right to have any inaccurate information corrected or removed</seg></tuv>
+  <tuv xml:lang="ga"><seg>• aon eolas atá míchruinn a cheartú nó a bhaint den bhanc sonraí</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>• Have a right to complain to the Data Protection Commissioner if your rights are not respected</seg></tuv>
+  <tuv xml:lang="ga"><seg>• gearán a chur chuig an gCoimisinéir um Chosaint Sonraí muna bhfuil do chuid cearta dhá chosaint</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>If you have any questions about the database contact the Disability Office in your Local Health Office</seg></tuv>
+  <tuv xml:lang="ga"><seg>Má bhíonn aon cheisteanna agat faoin mbunachar sonraí, déan teagmháil leis an Oifig Míchumais i d’Oifig Sláinte Áitiúil</seg></tuv>
+</tu>
+</body>
+</tmx>

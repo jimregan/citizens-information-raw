@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+<header creationtool="Apertium TMX Builder"
+        creationtoolversion="3.4.0"
+        segtype="sentence"
+        srclang="en"
+        adminlang="ga"
+        datatype="plaintext"
+        o-tmf="none">
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"><seg>The President is the title given to the Irish head of State</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugtar an teideal Uachtarán ar cheann Stáit na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>As head of State, the President has a number of important functions</seg></tuv>
+  <tuv xml:lang="ga"><seg>Mar cheann Stáit, tá roinnt feidhmeanna tábhachtacha ag Uachtarán</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The office of the President is established by the Constitution</seg></tuv>
+  <tuv xml:lang="ga"><seg>Is é Bunreacht na hÉireann a bhunaigh oifig Uachtarán na hÉireann</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>You can find information on the current and former Presidents here</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá eolais ar an Uachtarán láithreach anseo</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The President is elected directly by the people of Ireland and may be removed from office by either House of the Oireachtas (the Dail and the Seanad)</seg></tuv>
+  <tuv xml:lang="ga"><seg>Déanann muintir na hÉireann an tUachtarán a thogh go díreach agus is féidir le ceachtar de Thithe an Oireachtais an tUachtarán a chur as oifig</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The term of office is 7 years and the President may not serve more than 2 terms</seg></tuv>
+  <tuv xml:lang="ga"><seg>Seacht mbliana atá sa téarma oifige agus ní féidir leis an Uachtarán níos mó ná dhá théarma a chur isteach</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The President is assisted in performing their duties by the Presidential Commission and the Council of State</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tugann Coimisiún an Uachtaráin agus an Chomhairle Stáit cúnamh don Uachtarán a c(h)uid feidhmneanna a chur i gcrích</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The President resides at the official residence, called Áras an Uachtaráin, which is located in the Phoenix Park, one of the largest enclosed parks in Europe</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá cónaí ar an Uachtarán san áit chónaithe oifigiúil, ar a dtugtar 'Áras an Uachtaráin’, atá lonnaithe i bPáirc an Fhionnuisce. Seo í ceann de na páirceanna iata is mó san Eoraip</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"><seg>The Áras an Uachtaráin website has more information and includes a virtual tour of the residence</seg></tuv>
+  <tuv xml:lang="ga"><seg>Tá tuilleadh eolais ar láithreán gréasáin Áras an Uachtaráin agus áiríonn sé turas fíorúil den áit chónaithe</seg></tuv>
+</tu>
+</body>
+</tmx>
